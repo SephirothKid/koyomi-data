@@ -1,0 +1,19 @@
+name: Check Freshness
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # 每日凌晨 02:00 UTC
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm ci
+      - run: node scripts/check-freshness.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

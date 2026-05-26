@@ -1,0 +1,53 @@
+{
+  "id": "cpa",
+  "name": "CPA考试",
+  "category": "exam",
+  "description": "注册会计师全国统一考试，持续更新各年时间节点",
+  "tags": ["会计", "财务", "CPA", "资格证"],
+  "maintainer": "official",
+  "last_updated": "2026-05-26",
+  "events": [
+    {
+      "id": "cpa-2026-register-open",
+      "name": "2026年报名开始",
+      "date": "2026-04-08",
+      "time": "08:00",
+      "timezone": "Asia/Shanghai",
+      "type": "deadline",
+      "year": 2026,
+      "description": "全国统一考试网上报名系统开放",
+      "url": "https://cpaexam.cicpa.org.cn",
+      "status": "confirmed",
+      "last_verified": "2026-04-01",
+      "verified_by": "official"
+    },
+    {
+      "id": "cpa-2026-register-close",
+      "name": "2026年报名截止",
+      "date": "2026-04-28",
+      "time": "18:00",
+      "timezone": "Asia/Shanghai",
+      "type": "deadline",
+      "year": 2026,
+      "description": "网上报名截止",
+      "url": "https://cpaexam.cicpa.org.cn",
+      "status": "confirmed",
+      "last_verified": "2026-04-01",
+      "verified_by": "official"
+    },
+    {
+      "id": "cpa-2026-exam",
+      "name": "2026年专业阶段考试",
+      "date": "2026-08-26",
+      "time": "08:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "专业阶段第一天",
+      "url": "https://cpaexam.cicpa.org.cn",
+      "status": "confirmed",
+      "last_verified": "2026-04-01",
+      "verified_by": "official"
+    }
+  ]
+}
