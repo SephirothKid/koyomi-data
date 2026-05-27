@@ -2,7 +2,8 @@ name: Update Event Data
 
 on:
   schedule:
-    - cron: '0 4 * * 2'   # 每周二 04:00 UTC（赛程更新通常在周一之后）
+    - cron: '0 1 * * *'    # 每天 09:00 北京时间（UTC+8）
+    - cron: '0 13 * * *'   # 每天 21:00 北京时间（UTC+8）
   workflow_dispatch:
     inputs:
       adapter:
@@ -15,6 +16,9 @@ on:
         type: boolean
         default: false
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -26,7 +30,7 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24'
           cache: npm
 
       - run: npm ci
