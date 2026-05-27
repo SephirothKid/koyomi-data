@@ -1,0 +1,116 @@
+{
+  "id": "bilibili-annual",
+  "name": "B站年度热门发布",
+  "name_en": "Bilibili Annual Events",
+  "category": "entertainment",
+  "subcategory": "番剧/综艺",
+  "description": "哔哩哔哩年度大事件：BML 演唱会、拜年纪、新番开播季等重要时间节点，同步到日历不遗漏。",
+  "icon": "📺",
+  "tags": [
+    "B站",
+    "bilibili",
+    "番剧",
+    "演唱会",
+    "BML"
+  ],
+  "maintainer": "community",
+  "source_url": "https://www.bilibili.com",
+  "subscriber_count": 8910,
+  "rating": 4.1,
+  "rating_count": 76,
+  "last_updated": "2026-05-26",
+  "events": [
+    {
+      "id": "bilibili-2026-newyear",
+      "name": "2026 拜年纪播出",
+      "date": "2026-02-01",
+      "time": "00:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "哔哩哔哩2026年拜年纪特别节目正式播出，各大 UP 主联合献演",
+      "url": "https://www.bilibili.com",
+      "status": "completed",
+      "last_verified": "2026-02-01",
+      "verified_by": "community",
+      "details": {
+        "类型": "年度特别节目",
+        "往年时长": "约90-120分钟",
+        "观看方式": "B站 App / 网页"
+      }
+    },
+    {
+      "id": "bilibili-2026-spring-anime",
+      "name": "2026 春季新番开播",
+      "date": "2026-04-01",
+      "end_date": "2026-04-07",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "2026年春季档番剧陆续开播，通常集中在4月第一周",
+      "url": "https://www.bilibili.com/anime/timeline",
+      "status": "completed",
+      "last_verified": "2026-04-05",
+      "verified_by": "community",
+      "details": {
+        "类型": "日本动画春季档",
+        "播出平台": "B站独家或同步",
+        "参考网站": "Bangumi 番组计划"
+      }
+    },
+    {
+      "id": "bilibili-2026-summer-anime",
+      "name": "2026 夏季新番开播",
+      "date": "2026-07-01",
+      "end_date": "2026-07-07",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "2026年夏季档番剧陆续开播",
+      "url": "https://www.bilibili.com/anime/timeline",
+      "status": "planned",
+      "last_verified": "2026-05-20",
+      "verified_by": "community",
+      "details": {
+        "类型": "日本动画夏季档",
+        "播出平台": "B站独家或同步"
+      }
+    },
+    {
+      "id": "bilibili-2026-bml",
+      "name": "2026 BML 演唱会",
+      "date": "2026-07-26",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "哔哩哔哩 Macro Link 年度线上演唱会（预计日期，以官方公告为准）",
+      "url": "https://www.bilibili.com",
+      "status": "planned",
+      "last_verified": "2026-05-20",
+      "verified_by": "community",
+      "details": {
+        "往年规律": "通常在7月末周末",
+        "观看方式": "B站 App 直播",
+        "特色": "虚拟歌手 + UP主表演"
+      }
+    },
+    {
+      "id": "bilibili-2026-autumn-anime",
+      "name": "2026 秋季新番开播",
+      "date": "2026-10-01",
+      "end_date": "2026-10-07",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "2026年秋季档番剧陆续开播",
+      "url": "https://www.bilibili.com/anime/timeline",
+      "status": "planned",
+      "last_verified": "2026-05-20",
+      "verified_by": "community",
+      "details": {
+        "类型": "日本动画秋季档",
+        "播出平台": "B站独家或同步"
+      }
+    }
+  ]
+}

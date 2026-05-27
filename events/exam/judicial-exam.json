@@ -1,0 +1,113 @@
+{
+  "id": "judicial-exam",
+  "name": "法律职业资格考试",
+  "name_en": "National Legal Professional Qualification Exam",
+  "category": "exam",
+  "subcategory": "法律",
+  "description": "国家统一法律职业资格考试（法考），包含主观题、客观题报名与考试时间安排。",
+  "icon": "⚖️",
+  "tags": [
+    "法考",
+    "律师",
+    "法律",
+    "司法"
+  ],
+  "maintainer": "official",
+  "source_url": "https://www.moj.gov.cn",
+  "subscriber_count": 13690,
+  "rating": 4.7,
+  "rating_count": 380,
+  "last_updated": "2026-05-10",
+  "events": [
+    {
+      "id": "judicial-2026-register-open",
+      "name": "2026年报名开始",
+      "date": "2026-06-10",
+      "time": "09:00",
+      "timezone": "Asia/Shanghai",
+      "type": "deadline",
+      "year": 2026,
+      "description": "网上报名系统开放，及时填报防止系统拥堵",
+      "url": "https://www.moj.gov.cn",
+      "status": "confirmed",
+      "last_verified": "2026-05-10",
+      "verified_by": "official",
+      "details": {
+        "报名入口": "司法部官网",
+        "报名费用": "¥190-300（各省不同）",
+        "照片要求": "白底证件照 413×626px"
+      }
+    },
+    {
+      "id": "judicial-2026-register-close",
+      "name": "2026年报名截止",
+      "date": "2026-06-30",
+      "time": "17:00",
+      "timezone": "Asia/Shanghai",
+      "type": "deadline",
+      "year": 2026,
+      "description": "网上报名截止",
+      "url": "https://www.moj.gov.cn",
+      "status": "confirmed",
+      "last_verified": "2026-05-10",
+      "verified_by": "official",
+      "details": {
+        "报名入口": "司法部官网",
+        "报名费用": "¥190-300（各省不同）",
+        "照片要求": "白底证件照 413×626px"
+      }
+    },
+    {
+      "id": "judicial-2026-obj-exam",
+      "name": "2026年客观题考试",
+      "date": "2026-09-12",
+      "end_date": "2026-09-13",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "客观题两天，每天上下午各一卷",
+      "url": "https://www.moj.gov.cn",
+      "status": "confirmed",
+      "last_verified": "2026-05-10",
+      "verified_by": "official",
+      "details": {
+        "考试科目": "试卷一、试卷二",
+        "考试形式": "机考",
+        "合格标准": "180分",
+        "成绩有效期": "当年有效"
+      }
+    },
+    {
+      "id": "judicial-2026-sub-exam",
+      "name": "2026年主观题考试",
+      "date": "2026-10-18",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "主观题考试，上午下午各一卷",
+      "url": "https://www.moj.gov.cn",
+      "status": "confirmed",
+      "last_verified": "2026-05-10",
+      "verified_by": "official",
+      "details": {
+        "考试科目": "试卷一、试卷二",
+        "考试形式": "机考",
+        "合格标准": "108分",
+        "成绩有效期": "当年有效"
+      }
+    },
+    {
+      "id": "judicial-2026-result",
+      "name": "2026年客观题成绩公布",
+      "date": "2026-11-05",
+      "timezone": "Asia/Shanghai",
+      "type": "announcement",
+      "year": 2026,
+      "description": "客观题成绩公布，预计日期，以官方为准",
+      "url": "https://www.moj.gov.cn",
+      "status": "planned",
+      "last_verified": "2026-05-10",
+      "verified_by": "official"
+    }
+  ]
+}

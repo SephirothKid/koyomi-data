@@ -1,0 +1,147 @@
+{
+  "id": "steam-sales",
+  "name": "Steam 大促",
+  "name_en": "Steam Sales",
+  "category": "gaming",
+  "subcategory": "促销",
+  "description": "Steam 四大年度促销活动：夏促、冬促、秋促、春促，包含具体打折时间段，自动同步到日历。",
+  "icon": "🎮",
+  "tags": [
+    "Steam",
+    "游戏",
+    "打折",
+    "促销"
+  ],
+  "maintainer": "community",
+  "source_url": "https://store.steampowered.com/sale",
+  "subscriber_count": 43240,
+  "rating": 4.2,
+  "rating_count": 120,
+  "last_updated": "2026-05-15",
+  "events": [
+    {
+      "id": "steam-2026-spring-start",
+      "name": "2026 春促开始",
+      "date": "2026-03-14",
+      "time": "01:00",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "Steam 2026 年春季特卖正式开始",
+      "url": "https://store.steampowered.com",
+      "status": "completed",
+      "last_verified": "2026-03-15",
+      "verified_by": "official",
+      "details": {
+        "折扣力度": "最高50% OFF",
+        "推荐关注": "春季新品",
+        "活动特色": "新品首发折扣"
+      }
+    },
+    {
+      "id": "steam-2026-spring-end",
+      "name": "2026 春促结束",
+      "date": "2026-03-21",
+      "time": "01:00",
+      "timezone": "Asia/Shanghai",
+      "type": "deadline",
+      "year": 2026,
+      "description": "Steam 2026 年春季特卖结束",
+      "url": "https://store.steampowered.com",
+      "status": "completed",
+      "last_verified": "2026-03-15",
+      "verified_by": "official"
+    },
+    {
+      "id": "steam-2026-summer-start",
+      "name": "2026 夏促开始",
+      "date": "2026-06-26",
+      "time": "01:00",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "Steam 2026 年夏季大促正式开始",
+      "url": "https://store.steampowered.com",
+      "status": "confirmed",
+      "last_verified": "2026-05-15",
+      "verified_by": "official",
+      "details": {
+        "折扣力度": "最高75% OFF",
+        "推荐关注": "博德之门3、艾尔登法环、赛博朋克2077",
+        "活动特色": "每日特惠 + 点数商店"
+      }
+    },
+    {
+      "id": "steam-2026-summer-end",
+      "name": "2026 夏促结束",
+      "date": "2026-07-10",
+      "time": "01:00",
+      "timezone": "Asia/Shanghai",
+      "type": "deadline",
+      "year": 2026,
+      "description": "Steam 2026 年夏季大促结束",
+      "url": "https://store.steampowered.com",
+      "status": "confirmed",
+      "last_verified": "2026-05-15",
+      "verified_by": "official"
+    },
+    {
+      "id": "steam-2026-autumn-start",
+      "name": "2026 秋促开始（预计）",
+      "date": "2026-11-26",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "感恩节促销，历年一般在 11 月下旬（预计日期）",
+      "status": "planned",
+      "last_verified": "2026-05-15",
+      "verified_by": "community",
+      "details": {
+        "折扣力度": "最高50% OFF",
+        "推荐关注": "秋季新品",
+        "活动特色": "感恩节主题特惠"
+      }
+    },
+    {
+      "id": "steam-2026-autumn-end",
+      "name": "2026 秋促结束（预计）",
+      "date": "2026-12-03",
+      "timezone": "Asia/Shanghai",
+      "type": "deadline",
+      "year": 2026,
+      "description": "感恩节促销结束（预计日期）",
+      "status": "planned",
+      "last_verified": "2026-05-15",
+      "verified_by": "community"
+    },
+    {
+      "id": "steam-2026-winter-start",
+      "name": "2026 冬促开始（预计）",
+      "date": "2026-12-22",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "年度最大促销，历年圣诞至元旦（预计日期）",
+      "status": "planned",
+      "last_verified": "2026-05-15",
+      "verified_by": "community",
+      "details": {
+        "折扣力度": "最高90% OFF",
+        "推荐关注": "年度提名游戏",
+        "活动特色": "Steam大奖投票 + 每日特惠"
+      }
+    },
+    {
+      "id": "steam-2026-winter-end",
+      "name": "2027 冬促结束（预计）",
+      "date": "2027-01-05",
+      "timezone": "Asia/Shanghai",
+      "type": "deadline",
+      "year": 2026,
+      "description": "Steam 冬促结束（预计日期）",
+      "status": "planned",
+      "last_verified": "2026-05-15",
+      "verified_by": "community"
+    }
+  ]
+}

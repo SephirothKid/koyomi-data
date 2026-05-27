@@ -1,0 +1,77 @@
+{
+  "id": "618",
+  "name": "618 购物节",
+  "name_en": "618 Shopping Festival",
+  "category": "shopping",
+  "subcategory": "电商大促",
+  "description": "每年 6 月 1 日至 6 月 18 日京东/天猫 618 活动，包含预热期、主会场开始和正日。",
+  "icon": "🏷️",
+  "tags": [
+    "618",
+    "京东",
+    "购物节",
+    "电商"
+  ],
+  "maintainer": "community",
+  "source_url": "https://www.jd.com",
+  "subscriber_count": 41360,
+  "rating": 4.9,
+  "rating_count": 820,
+  "last_updated": "2026-05-01",
+  "events": [
+    {
+      "id": "618-2026-presale",
+      "name": "2026 618 预售开始",
+      "date": "2026-05-20",
+      "time": "20:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "618 预售开始，可付定金锁定价格",
+      "status": "completed",
+      "last_verified": "2026-05-01",
+      "verified_by": "community",
+      "details": {
+        "满减规则": "每满300减50",
+        "定金膨胀": "¥10抵¥50",
+        "红包领取": "主会场每日10点"
+      }
+    },
+    {
+      "id": "618-2026-start",
+      "name": "2026 618 活动开始",
+      "date": "2026-06-01",
+      "time": "00:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "618 活动正式开始，跨店满减生效",
+      "status": "confirmed",
+      "last_verified": "2026-05-01",
+      "verified_by": "official",
+      "details": {
+        "跨店满减": "每满300减50",
+        "品类券": "家电/数码/美妆专属",
+        "价保服务": "30天价保"
+      }
+    },
+    {
+      "id": "618-2026-day",
+      "name": "2026 618 正日",
+      "date": "2026-06-18",
+      "time": "00:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "618 正日，最大力度促销最后一天",
+      "status": "confirmed",
+      "last_verified": "2026-05-01",
+      "verified_by": "official",
+      "details": {
+        "超级红包": "最高¥24618",
+        "限时秒杀": "整点抢购",
+        "品牌直降": "大牌5折起"
+      }
+    }
+  ]
+}

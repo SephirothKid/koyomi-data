@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//nba-playoffs//EN
+URL:https://koyomi.cast/sources/nba-playoffs
+NAME:NBA 季后赛
+X-WR-CALNAME:NBA 季后赛
+X-WR-CALDESC:NBA 季后赛赛程，首轮到总决赛每场比赛时间，
+ 自动换算为北京时间。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cfd1175b-3afe-4823-80ee-fba7fb1b953f
+SEQUENCE:0
+DTSTAMP:20260527T163349
+DTSTART:20260605T090000
+DTEND:20260605T100000
+SUMMARY:总决赛 第1场
+DESCRIPTION:NBA 2026 总决赛第1场（北京时间）\n\n主场: 凯尔
+ 特人\n客场: 湖人\n场馆: TD Garden\n转播: CCTV5 / 腾讯体育
+URL;VALUE=URI:https://www.nba.com/playoffs
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2d779ae7-bb01-4581-9a7b-6192bb39e7ce
+SEQUENCE:0
+DTSTAMP:20260527T163349
+DTSTART:20260609T090000
+DTEND:20260609T100000
+SUMMARY:总决赛 第2场
+DESCRIPTION:NBA 2026 总决赛第2场（北京时间）\n\n主场: 凯尔
+ 特人\n客场: 湖人\n场馆: TD Garden\n转播: CCTV5 / 腾讯体育
+URL;VALUE=URI:https://www.nba.com/playoffs
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4db65c04-f5f7-4201-bec1-d12cb0f3bf1f
+SEQUENCE:0
+DTSTAMP:20260527T163349
+DTSTART:20260612T090000
+DTEND:20260612T100000
+SUMMARY:总决赛 第3场
+DESCRIPTION:NBA 2026 总决赛第3场（北京时间）\n\n主场: 湖人\
+ n客场: 凯尔特人\n场馆: Crypto.com Arena\n转播: CCTV5 / 腾讯体
+ 育
+URL;VALUE=URI:https://www.nba.com/playoffs
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

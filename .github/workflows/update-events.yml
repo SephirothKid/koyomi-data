@@ -1,0 +1,57 @@
+name: Update Event Data
+
+on:
+  schedule:
+    - cron: '0 4 * * 2'   # 每周二 04:00 UTC（赛程更新通常在周一之后）
+  workflow_dispatch:
+    inputs:
+      adapter:
+        description: '指定 adapter ID（留空则全部运行，例如：f1-2026）'
+        required: false
+        type: string
+      dry_run:
+        description: '仅预览变更，不写文件'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # 需要 push 到仓库
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+
+      - run: npm ci
+
+      - name: Run fetchers
+        run: |
+          ARGS=""
+          if [ -n "${{ github.event.inputs.adapter }}" ]; then
+            ARGS="--only ${{ github.event.inputs.adapter }}"
+          fi
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          node scripts/fetchers/_runner.js $ARGS
+
+      - name: Validate
+        run: node scripts/validate.js
+
+      - name: Regenerate .ics
+        run: node scripts/generate-ical.js
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add events/ ical/
+          git diff --staged --quiet || git commit -m "chore: auto-update event data [$(date -u +%Y-%m-%d)]"
+          git push

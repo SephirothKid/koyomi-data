@@ -41,7 +41,12 @@
             "enum": ["planned", "confirmed", "active", "completed"]
           },
           "last_verified": { "type": "string", "format": "date" },
-          "verified_by": { "type": "string", "enum": ["official", "community"] }
+          "verified_by": { "type": "string", "enum": ["official", "community", "auto"] },
+          "details": {
+            "type": "object",
+            "description": "事件详情键值对，用于日历 tooltip 和详情页展示。键名即标签，值即内容。",
+            "additionalProperties": { "type": "string" }
+          }
         }
       }
     }

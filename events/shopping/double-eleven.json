@@ -1,0 +1,73 @@
+{
+  "id": "double-eleven",
+  "name": "双11购物节",
+  "name_en": "Double 11 Shopping Festival",
+  "category": "shopping",
+  "subcategory": "电商大促",
+  "description": "每年 11 月 11 日淘宝/天猫双十一，包含预售期、付尾款、主会场活动等关键时间节点。",
+  "icon": "🛍️",
+  "tags": [
+    "双11",
+    "购物节",
+    "电商",
+    "天猫",
+    "淘宝"
+  ],
+  "maintainer": "community",
+  "source_url": "https://www.tmall.com",
+  "subscriber_count": 51600,
+  "rating": 4.8,
+  "rating_count": 570,
+  "last_updated": "2026-05-01",
+  "events": [
+    {
+      "id": "double-eleven-2026-presale",
+      "name": "2026 双11 预售开始",
+      "date": "2026-10-24",
+      "time": "20:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "双11预售开始，付定金锁定价格",
+      "status": "planned",
+      "last_verified": "2026-05-01",
+      "verified_by": "community",
+      "details": {
+        "预售规则": "付定金享优先发货",
+        "定金膨胀": "¥20抵¥100",
+        "红包领取": "超级红包每日可领"
+      }
+    },
+    {
+      "id": "double-eleven-2026-payment",
+      "name": "2026 双11 付尾款",
+      "date": "2026-11-01",
+      "time": "00:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "双11 付尾款期开始，跨店满减同步生效",
+      "status": "planned",
+      "last_verified": "2026-05-01",
+      "verified_by": "community"
+    },
+    {
+      "id": "double-eleven-2026-day",
+      "name": "2026 双11 正日",
+      "date": "2026-11-11",
+      "time": "00:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "双十一主会场，全天最大力度折扣",
+      "status": "planned",
+      "last_verified": "2026-05-01",
+      "verified_by": "community",
+      "details": {
+        "超级红包": "最高¥11111",
+        "前N件": "0点限时半价",
+        "品牌直降": "全年最低价"
+      }
+    }
+  ]
+}

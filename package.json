@@ -1,0 +1,19 @@
+{
+  "name": "koyomi-data",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Koyomi Cast 事件数据仓库，包含 JSON 事件源和 iCal 生成脚本",
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "generate": "node scripts/generate-ical.js",
+    "check-freshness": "node scripts/check-freshness.js",
+    "fetch": "node scripts/fetchers/_runner.js",
+    "fetch:dry": "node scripts/fetchers/_runner.js --dry-run"
+  },
+  "dependencies": {
+    "ical-generator": "^8.0.0",
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1"
+  }
+}

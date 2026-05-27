@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//epic-free//EN
+URL:https://koyomi.cast/sources/epic-free
+NAME:Epic 免费游戏
+X-WR-CALNAME:Epic 免费游戏
+X-WR-CALDESC:Epic Games Store 每周免费游戏更新提醒，每周四 2
+ 3:00（北京时间）自动轮换。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:ee2d614b-1ab0-4938-af88-849ef37007f7
+SEQUENCE:0
+DTSTAMP:20260527T163349
+DTSTART:20260528T230000
+DTEND:20260529T000000
+SUMMARY:免费游戏更新（第22周）
+DESCRIPTION:本周 Epic 免费游戏上架\n\n领取方式: Epic Games Sto
+ re 客户端/网页\n领取条件: 免费注册账号即可\n注意事项:
+  每周四 23:00 更新，领取后永久拥有
+URL;VALUE=URI:https://store.epicgames.com/en-US/free-games
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:187db534-317b-45e7-a719-5027681e8ff2
+SEQUENCE:0
+DTSTAMP:20260527T163349
+DTSTART:20260604T230000
+DTEND:20260605T000000
+SUMMARY:免费游戏更新（第23周）
+DESCRIPTION:本周 Epic 免费游戏上架\n\n领取方式: Epic Games Sto
+ re 客户端/网页\n领取条件: 免费注册账号即可\n注意事项:
+  每周四 23:00 更新，领取后永久拥有
+URL;VALUE=URI:https://store.epicgames.com/en-US/free-games
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

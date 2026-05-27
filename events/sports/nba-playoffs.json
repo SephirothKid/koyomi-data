@@ -1,0 +1,83 @@
+{
+  "id": "nba-playoffs",
+  "name": "NBA 季后赛",
+  "name_en": "NBA Playoffs",
+  "category": "sports",
+  "subcategory": "篮球",
+  "description": "NBA 季后赛赛程，首轮到总决赛每场比赛时间，自动换算为北京时间。",
+  "icon": "🏀",
+  "tags": [
+    "NBA",
+    "篮球",
+    "季后赛",
+    "体育"
+  ],
+  "maintainer": "community",
+  "source_url": "https://www.nba.com/playoffs",
+  "subscriber_count": 18290,
+  "rating": 4.7,
+  "rating_count": 820,
+  "last_updated": "2026-05-20",
+  "events": [
+    {
+      "id": "nba-2026-finals-g1",
+      "name": "总决赛 第1场",
+      "date": "2026-06-05",
+      "time": "09:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "NBA 2026 总决赛第1场（北京时间）",
+      "url": "https://www.nba.com/playoffs",
+      "status": "planned",
+      "last_verified": "2026-05-20",
+      "verified_by": "community",
+      "details": {
+        "主场": "凯尔特人",
+        "客场": "湖人",
+        "场馆": "TD Garden",
+        "转播": "CCTV5 / 腾讯体育"
+      }
+    },
+    {
+      "id": "nba-2026-finals-g2",
+      "name": "总决赛 第2场",
+      "date": "2026-06-09",
+      "time": "09:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "NBA 2026 总决赛第2场（北京时间）",
+      "url": "https://www.nba.com/playoffs",
+      "status": "planned",
+      "last_verified": "2026-05-20",
+      "verified_by": "community",
+      "details": {
+        "主场": "凯尔特人",
+        "客场": "湖人",
+        "场馆": "TD Garden",
+        "转播": "CCTV5 / 腾讯体育"
+      }
+    },
+    {
+      "id": "nba-2026-finals-g3",
+      "name": "总决赛 第3场",
+      "date": "2026-06-12",
+      "time": "09:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "NBA 2026 总决赛第3场（北京时间）",
+      "url": "https://www.nba.com/playoffs",
+      "status": "planned",
+      "last_verified": "2026-05-20",
+      "verified_by": "community",
+      "details": {
+        "主场": "湖人",
+        "客场": "凯尔特人",
+        "场馆": "Crypto.com Arena",
+        "转播": "CCTV5 / 腾讯体育"
+      }
+    }
+  ]
+}

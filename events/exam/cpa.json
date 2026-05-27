@@ -1,10 +1,22 @@
 {
   "id": "cpa",
   "name": "CPA考试",
+  "name_en": "CPA Exam",
   "category": "exam",
-  "description": "注册会计师全国统一考试，持续更新各年时间节点",
-  "tags": ["会计", "财务", "CPA", "资格证"],
+  "subcategory": "财会",
+  "description": "注册会计师全国统一考试，持续更新各年报名、考试、成绩公布等关键时间节点。",
+  "icon": "📊",
+  "tags": [
+    "会计",
+    "财务",
+    "CPA",
+    "资格证书"
+  ],
   "maintainer": "official",
+  "source_url": "https://cpaexam.cicpa.org.cn",
+  "subscriber_count": 12690,
+  "rating": 4.5,
+  "rating_count": 590,
   "last_updated": "2026-05-26",
   "events": [
     {
@@ -15,11 +27,16 @@
       "timezone": "Asia/Shanghai",
       "type": "deadline",
       "year": 2026,
-      "description": "全国统一考试网上报名系统开放",
+      "description": "全国网上报名系统正式开放",
       "url": "https://cpaexam.cicpa.org.cn",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-04-01",
-      "verified_by": "official"
+      "verified_by": "official",
+      "details": {
+        "报名入口": "中国注册会计师协会官网",
+        "报名费用": "¥60-90/科",
+        "照片要求": "白底证件照 178×220px"
+      }
     },
     {
       "id": "cpa-2026-register-close",
@@ -29,25 +46,90 @@
       "timezone": "Asia/Shanghai",
       "type": "deadline",
       "year": 2026,
-      "description": "网上报名截止",
+      "description": "网上报名系统关闭，逾期不予补报",
       "url": "https://cpaexam.cicpa.org.cn",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-04-01",
-      "verified_by": "official"
+      "verified_by": "official",
+      "details": {
+        "注意事项": "逾期不予补报",
+        "修改信息": "缴费前可修改报考科目"
+      }
     },
     {
-      "id": "cpa-2026-exam",
+      "id": "cpa-2026-payment",
+      "name": "2026年缴费截止",
+      "date": "2026-05-10",
+      "time": "17:00",
+      "timezone": "Asia/Shanghai",
+      "type": "deadline",
+      "year": 2026,
+      "description": "考试报名费用缴纳截止，未缴费视为放弃",
+      "url": "https://cpaexam.cicpa.org.cn",
+      "status": "completed",
+      "last_verified": "2026-04-01",
+      "verified_by": "official",
+      "details": {
+        "缴费方式": "网上支付",
+        "退费政策": "报名截止后不予退费"
+      }
+    },
+    {
+      "id": "cpa-2026-exam-pro",
       "name": "2026年专业阶段考试",
-      "date": "2026-08-26",
+      "date": "2026-08-21",
+      "end_date": "2026-08-23",
+      "time": "08:30",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "专业阶段共6科，分三天上午下午各一场",
+      "url": "https://cpaexam.cicpa.org.cn",
+      "status": "confirmed",
+      "last_verified": "2026-05-20",
+      "verified_by": "official",
+      "details": {
+        "考试科目": "会计、审计、税法、经济法、财管、战略",
+        "考试形式": "机考",
+        "合格标准": "60分/科",
+        "成绩有效期": "5年内通过6科"
+      }
+    },
+    {
+      "id": "cpa-2026-exam-comp",
+      "name": "2026年综合阶段考试",
+      "date": "2026-08-30",
       "time": "08:30",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "专业阶段第一天",
+      "description": "综合阶段职业能力综合测评",
       "url": "https://cpaexam.cicpa.org.cn",
       "status": "confirmed",
-      "last_verified": "2026-04-01",
-      "verified_by": "official"
+      "last_verified": "2026-05-20",
+      "verified_by": "official",
+      "details": {
+        "考试科目": "职业能力综合测试",
+        "考试形式": "机考",
+        "合格标准": "60分"
+      }
+    },
+    {
+      "id": "cpa-2026-result",
+      "name": "2026年成绩公布",
+      "date": "2026-11-20",
+      "timezone": "Asia/Shanghai",
+      "type": "announcement",
+      "year": 2026,
+      "description": "专业阶段成绩查询开放（预计日期，以官方为准）",
+      "url": "https://cpaexam.cicpa.org.cn",
+      "status": "planned",
+      "last_verified": "2026-05-20",
+      "verified_by": "official",
+      "details": {
+        "查询入口": "中注协官网成绩查询系统",
+        "合格证书": "专业阶段合格证（电子版）"
+      }
     }
   ]
 }
