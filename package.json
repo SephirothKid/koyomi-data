@@ -7,9 +7,7 @@
   "scripts": {
     "validate": "node scripts/validate.js",
     "generate": "node scripts/generate-ical.js",
-    "check-freshness": "node scripts/check-freshness.js",
-    "fetch": "node scripts/fetchers/_runner.js",
-    "fetch:dry": "node scripts/fetchers/_runner.js --dry-run"
+    "check-freshness": "node scripts/check-freshness.js"
   },
   "dependencies": {
     "ical-generator": "^8.0.0",

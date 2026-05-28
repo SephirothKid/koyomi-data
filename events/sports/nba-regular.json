@@ -1,0 +1,207 @@
+{
+  "id": "nba-regular",
+  "name": "NBA 常规赛关键节点",
+  "name_en": "NBA Regular Season",
+  "category": "sports",
+  "subcategory": "篮球",
+  "description": "NBA 赛季重要节点：赛季开幕、NBA Cup 赛段、全明星周末、Play-In 附加赛等，自动同步到日历。",
+  "icon": "/logos/nba.png",
+  "tags": ["NBA", "篮球", "全明星", "Play-In", "体育"],
+  "maintainer": "community",
+  "source_url": "https://www.nba.com/schedule",
+  "subscriber_count": 9820,
+  "rating": 4.5,
+  "rating_count": 310,
+  "events": [
+    {
+      "id": "nba-2026-preseason",
+      "name": "2025-26 季前赛",
+      "date": "2025-10-03",
+      "end_date": "2025-10-18",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "NBA 2026 2025-26 季前赛，共 71 场",
+      "url": "https://www.nba.com/schedule",
+      "status": "completed",
+      "last_verified": "2026-05-28",
+      "verified_by": "auto"
+    },
+    {
+      "id": "nba-2026-regular-season",
+      "name": "2025-26 常规赛",
+      "date": "2025-10-22",
+      "end_date": "2026-04-13",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "NBA 2026 2025-26 常规赛，共 1230 场，每队 82 场",
+      "url": "https://www.nba.com/schedule",
+      "status": "completed",
+      "last_verified": "2026-05-28",
+      "verified_by": "auto",
+      "details": {
+        "总场次": "1230 场",
+        "每队场次": "82 场"
+      }
+    },
+    {
+      "id": "nba-2026-cup",
+      "name": "NBA Cup（联赛杯）赛段",
+      "date": "2025-11-01",
+      "end_date": "2025-12-17",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "NBA 2026 NBA Cup（联赛杯）赛段，共 67 场，8 支球队晋级决赛周",
+      "url": "https://www.nba.com/nba-cup",
+      "status": "completed",
+      "last_verified": "2026-05-28",
+      "verified_by": "auto"
+    },
+    {
+      "id": "nba-2026-allstar-0032500004",
+      "name": "全明星周末：新秀挑战赛半决赛",
+      "date": "2026-02-14",
+      "time": "10:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "NBA 2026 全明星周末 — 新秀挑战赛半决赛（北京时间）",
+      "url": "https://www.nba.com/allstar",
+      "status": "completed",
+      "last_verified": "2026-05-28",
+      "verified_by": "auto",
+      "details": {
+        "场馆": "Intuit Dome",
+        "城市": "Inglewood, CA"
+      }
+    },
+    {
+      "id": "nba-2026-allstar-0032500005",
+      "name": "全明星周末：新秀挑战赛半决赛",
+      "date": "2026-02-14",
+      "time": "10:55",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "NBA 2026 全明星周末 — 新秀挑战赛半决赛（北京时间）",
+      "url": "https://www.nba.com/allstar",
+      "status": "completed",
+      "last_verified": "2026-05-28",
+      "verified_by": "auto",
+      "details": {
+        "场馆": "Intuit Dome",
+        "城市": "Inglewood, CA"
+      }
+    },
+    {
+      "id": "nba-2026-allstar-0032500006",
+      "name": "全明星周末：新秀挑战赛决赛",
+      "date": "2026-02-14",
+      "time": "11:35",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "NBA 2026 全明星周末 — 新秀挑战赛决赛（北京时间）",
+      "url": "https://www.nba.com/allstar",
+      "status": "completed",
+      "last_verified": "2026-05-28",
+      "verified_by": "auto",
+      "details": {
+        "场馆": "Intuit Dome",
+        "城市": "Inglewood, CA"
+      }
+    },
+    {
+      "id": "nba-2026-allstar-0032500011",
+      "name": "全明星周末：全明星正赛",
+      "date": "2026-02-16",
+      "time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "NBA 2026 全明星周末 — 全明星正赛（北京时间）",
+      "url": "https://www.nba.com/allstar",
+      "status": "completed",
+      "last_verified": "2026-05-28",
+      "verified_by": "auto",
+      "details": {
+        "场馆": "Intuit Dome",
+        "城市": "Inglewood, CA"
+      }
+    },
+    {
+      "id": "nba-2026-allstar-0032500021",
+      "name": "全明星周末：全明星正赛",
+      "date": "2026-02-16",
+      "time": "06:55",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "NBA 2026 全明星周末 — 全明星正赛（北京时间）",
+      "url": "https://www.nba.com/allstar",
+      "status": "completed",
+      "last_verified": "2026-05-28",
+      "verified_by": "auto",
+      "details": {
+        "场馆": "Intuit Dome",
+        "城市": "Inglewood, CA"
+      }
+    },
+    {
+      "id": "nba-2026-allstar-0032500031",
+      "name": "全明星周末：全明星正赛",
+      "date": "2026-02-16",
+      "time": "07:25",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "NBA 2026 全明星周末 — 全明星正赛（北京时间）",
+      "url": "https://www.nba.com/allstar",
+      "status": "completed",
+      "last_verified": "2026-05-28",
+      "verified_by": "auto",
+      "details": {
+        "场馆": "Intuit Dome",
+        "城市": "Inglewood, CA"
+      }
+    },
+    {
+      "id": "nba-2026-allstar-0032500041",
+      "name": "全明星周末：全明星技巧挑战",
+      "date": "2026-02-16",
+      "time": "08:10",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "NBA 2026 全明星周末 — 全明星技巧挑战（北京时间）",
+      "url": "https://www.nba.com/allstar",
+      "status": "completed",
+      "last_verified": "2026-05-28",
+      "verified_by": "auto",
+      "details": {
+        "场馆": "Intuit Dome",
+        "城市": "Inglewood, CA"
+      }
+    },
+    {
+      "id": "nba-2026-playin",
+      "name": "Play-In 附加赛",
+      "date": "2026-04-15",
+      "end_date": "2026-04-18",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "NBA 2026 Play-In 附加赛，东西部各 4 支球队争夺第 7-8 号种子",
+      "url": "https://www.nba.com/playoffs",
+      "status": "completed",
+      "last_verified": "2026-05-28",
+      "verified_by": "auto",
+      "details": {
+        "晋级规则": "7号种子1场定胜负，8号种子需赢两场"
+      }
+    }
+  ],
+  "last_updated": "2026-05-28"
+}
