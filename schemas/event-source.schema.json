@@ -46,6 +46,21 @@
             "type": "object",
             "description": "事件详情键值对，用于日历 tooltip 和详情页展示。键名即标签，值即内容。",
             "additionalProperties": { "type": "string" }
+          },
+          "games": {
+            "type": "array",
+            "description": "游戏列表（仅 gaming 分类事件源使用），描述本周/当期免费或促销的具体游戏",
+            "items": {
+              "type": "object",
+              "required": ["title"],
+              "properties": {
+                "title": { "type": "string", "description": "游戏名称" },
+                "description": { "type": "string", "description": "游戏简介" },
+                "cover_url": { "type": "string", "format": "uri", "description": "游戏封面图 URL" },
+                "original_price": { "type": "string", "description": "原价（如 ¥168.00），免费期间可能无法获取" },
+                "store_url": { "type": "string", "format": "uri", "description": "商店页面链接" }
+              }
+            }
           }
         }
       }

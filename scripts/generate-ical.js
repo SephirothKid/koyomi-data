@@ -93,6 +93,9 @@ for (const file of files) {
       summary,
       description: [
         event.description ?? '',
+        event.games?.length
+          ? '本周游戏：\n' + event.games.map((g, i) => `${i + 1}. ${g.title}${g.original_price ? ` (原价 ${g.original_price})` : ''}`).join('\n')
+          : '',
         event.details
           ? Object.entries(event.details).map(([k, v]) => `${k}: ${v}`).join('\n')
           : '',
