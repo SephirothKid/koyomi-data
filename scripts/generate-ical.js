@@ -80,11 +80,17 @@ for (const file of files) {
       end = endDay
     }
 
+    // 去掉 event.name 中的年份前缀，避免重复（如「2026年报名开始」→「报名开始」）
+    // 支持格式：2026年 / 2026 / 2027 等任意 4 位年份 + 可选「年」字 + 可选空格
+    // 保护跨赛季格式如「2025-26」，要求年份后不能紧跟数字或连字符
+    const shortEventName = event.name.replace(/^\d{4}(?:年|\s*)(?![\d-])/u, '')
+    const summary = `${source.name} · ${shortEventName}`
+
     cal.createEvent({
       start,
       end,
       allDay: !hasTime,
-      summary: event.name,
+      summary,
       description: [
         event.description ?? '',
         event.details
@@ -93,6 +99,7 @@ for (const file of files) {
       ].filter(Boolean).join('\n\n'),
       url: event.url ?? source.source_url ?? `https://koyomi.cast/sources/${source.id}`,
       status: event.status === 'cancelled' ? 'CANCELLED' : 'CONFIRMED',
+      categories: [{ name: source.name }],
     })
     totalEvents++
   }
