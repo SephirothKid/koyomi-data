@@ -173,12 +173,12 @@ async function main() {
       store_url: g.store_url,
     }))
 
-    // 生成事件名称
+    // 生成事件名称：直接就是游戏名列表，generate-ical 会统一加「来源名 · 」前缀
     const gameNames = cleanGames.map(g => g.title).join('、')
     const isMystery = cleanGames.some(g => g.title.includes('Mystery Game'))
     const name = isMystery
-      ? `Epic 免费游戏更新`
-      : `Epic 免费：${gameNames}`
+      ? `本周免费游戏即将揭晓`
+      : gameNames
 
     events.push({
       id: eventId,
