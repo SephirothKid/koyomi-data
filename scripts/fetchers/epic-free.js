@@ -63,11 +63,11 @@ async function fetchFreeGames() {
       cover_url: cover,
       store_url: (() => {
         const slug = game.productSlug || game.urlSlug
-        if (slug && typeof slug === 'string' && slug.length > 0) {
+        // Epic 对未揭晓的 Mystery Game 返回 "[]" 作为 productSlug 占位符，需过滤
+        if (slug && typeof slug === 'string' && slug.length > 0 && slug !== '[]') {
           return `https://store.epicgames.com/zh-CN/p/${slug}`
         }
-        // fallback: 用 namespace 搜索
-        return `https://store.epicgames.com/zh-CN/browse?q=${encodeURIComponent(game.title)}`
+        return 'https://store.epicgames.com/zh-CN/free-games'
       })(),
       original_price: originalPrice,
       startDate: offer.startDate,
