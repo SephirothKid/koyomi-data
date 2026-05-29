@@ -1,0 +1,215 @@
+{
+  "id": "cn-public-holidays",
+  "name": "cn-public-holidays",
+  "category": "holidays",
+  "events": [
+    {
+      "id": "cn-holiday-2025-new-year",
+      "name": "元旦",
+      "date": "2025-01-01",
+      "end_date": "2025-01-01",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2025,
+      "description": "放假共 1 天",
+      "url": "https://www.gov.cn/",
+      "status": "completed",
+      "last_verified": "2026-05-29",
+      "verified_by": "auto"
+    },
+    {
+      "id": "cn-holiday-2025-spring-festival",
+      "name": "春节",
+      "date": "2025-01-28",
+      "end_date": "2025-02-04",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2025,
+      "description": "放假共 8 天",
+      "url": "https://www.gov.cn/",
+      "status": "completed",
+      "last_verified": "2026-05-29",
+      "verified_by": "auto",
+      "makeup_workdays": [
+        "2025-01-26",
+        "2025-02-08"
+      ]
+    },
+    {
+      "id": "cn-holiday-2025-qingming",
+      "name": "清明节",
+      "date": "2025-04-04",
+      "end_date": "2025-04-06",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2025,
+      "description": "放假共 3 天",
+      "url": "https://www.gov.cn/",
+      "status": "completed",
+      "last_verified": "2026-05-29",
+      "verified_by": "auto"
+    },
+    {
+      "id": "cn-holiday-2025-labor-day",
+      "name": "劳动节",
+      "date": "2025-05-01",
+      "end_date": "2025-05-05",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2025,
+      "description": "放假共 5 天",
+      "url": "https://www.gov.cn/",
+      "status": "completed",
+      "last_verified": "2026-05-29",
+      "verified_by": "auto",
+      "makeup_workdays": [
+        "2025-04-27"
+      ]
+    },
+    {
+      "id": "cn-holiday-2025-dragon-boat",
+      "name": "端午节",
+      "date": "2025-05-31",
+      "end_date": "2025-06-02",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2025,
+      "description": "放假共 3 天",
+      "url": "https://www.gov.cn/",
+      "status": "completed",
+      "last_verified": "2026-05-29",
+      "verified_by": "auto"
+    },
+    {
+      "id": "cn-holiday-2025-国庆节、中秋节",
+      "name": "国庆节、中秋节",
+      "date": "2025-10-01",
+      "end_date": "2025-10-08",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2025,
+      "description": "放假共 8 天",
+      "url": "https://www.gov.cn/",
+      "status": "completed",
+      "last_verified": "2026-05-29",
+      "verified_by": "auto",
+      "makeup_workdays": [
+        "2025-09-28",
+        "2025-10-11"
+      ]
+    },
+    {
+      "id": "cn-holiday-2026-new-year",
+      "name": "元旦",
+      "date": "2026-01-01",
+      "end_date": "2026-01-03",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "放假共 3 天",
+      "url": "https://www.gov.cn/",
+      "status": "completed",
+      "last_verified": "2026-05-29",
+      "verified_by": "auto",
+      "makeup_workdays": [
+        "2026-01-04"
+      ]
+    },
+    {
+      "id": "cn-holiday-2026-spring-festival",
+      "name": "春节",
+      "date": "2026-02-15",
+      "end_date": "2026-02-23",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "放假共 9 天",
+      "url": "https://www.gov.cn/",
+      "status": "completed",
+      "last_verified": "2026-05-29",
+      "verified_by": "auto",
+      "makeup_workdays": [
+        "2026-02-14",
+        "2026-02-28"
+      ]
+    },
+    {
+      "id": "cn-holiday-2026-qingming",
+      "name": "清明节",
+      "date": "2026-04-04",
+      "end_date": "2026-04-06",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "放假共 3 天",
+      "url": "https://www.gov.cn/",
+      "status": "completed",
+      "last_verified": "2026-05-29",
+      "verified_by": "auto"
+    },
+    {
+      "id": "cn-holiday-2026-labor-day",
+      "name": "劳动节",
+      "date": "2026-05-01",
+      "end_date": "2026-05-05",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "放假共 5 天",
+      "url": "https://www.gov.cn/",
+      "status": "completed",
+      "last_verified": "2026-05-29",
+      "verified_by": "auto",
+      "makeup_workdays": [
+        "2026-05-09"
+      ]
+    },
+    {
+      "id": "cn-holiday-2026-dragon-boat",
+      "name": "端午节",
+      "date": "2026-06-19",
+      "end_date": "2026-06-21",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "放假共 3 天",
+      "url": "https://www.gov.cn/",
+      "status": "planned",
+      "last_verified": "2026-05-29",
+      "verified_by": "auto"
+    },
+    {
+      "id": "cn-holiday-2026-mid-autumn",
+      "name": "中秋节",
+      "date": "2026-09-25",
+      "end_date": "2026-09-27",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "放假共 3 天",
+      "url": "https://www.gov.cn/",
+      "status": "planned",
+      "last_verified": "2026-05-29",
+      "verified_by": "auto"
+    },
+    {
+      "id": "cn-holiday-2026-national-day",
+      "name": "国庆节",
+      "date": "2026-10-01",
+      "end_date": "2026-10-07",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "放假共 7 天",
+      "url": "https://www.gov.cn/",
+      "status": "planned",
+      "last_verified": "2026-05-29",
+      "verified_by": "auto",
+      "makeup_workdays": [
+        "2026-09-20",
+        "2026-10-10"
+      ]
+    }
+  ],
+  "last_updated": "2026-05-29"
+}
