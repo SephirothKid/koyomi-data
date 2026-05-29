@@ -1,8 +1,8 @@
 {
   "id": "epic-free",
   "name": "Epic 免费游戏",
-  "name_en": "Epic Free Games",
   "category": "gaming",
+  "name_en": "Epic Free Games",
   "subcategory": "免费游戏",
   "description": "Epic Games Store 每周免费游戏更新提醒，每周四 23:00（北京时间）自动轮换。",
   "icon": "/logos/epic.png",
@@ -18,6 +18,40 @@
   "rating_count": 460,
   "last_updated": "2026-05-29",
   "events": [
+    {
+      "id": "epic-free-2026-w21",
+      "name": "Down in Bermuda、Tomb Raider I-III Remastered Starring Lara Croft",
+      "date": "2026-05-21",
+      "time": "23:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "本周免费游戏：Down in Bermuda、Tomb Raider I-III Remastered Starring Lara Croft",
+      "url": "https://store.epicgames.com/zh-CN/free-games",
+      "status": "completed",
+      "last_verified": "2026-05-28",
+      "verified_by": "auto",
+      "details": {
+        "领取方式": "Epic Games Store 客户端/网页",
+        "领取条件": "免费注册账号即可",
+        "注意事项": "每周四 23:00 更新，领取后永久拥有",
+        "本周游戏": "Down in Bermuda、Tomb Raider I-III Remastered Starring Lara Croft"
+      },
+      "games": [
+        {
+          "title": "Down in Bermuda",
+          "description": "Down in Bermuda",
+          "cover_url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Offer_Tall_1200x1600-d227c9897c1e4b2388f5a4963ba00f80",
+          "store_url": "https://store.epicgames.com/zh-CN/p/down-in-bermuda"
+        },
+        {
+          "title": "Tomb Raider I-III Remastered Starring Lara Croft",
+          "description": "Tomb Raider I-III Remastered Starring Lara Croft",
+          "cover_url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Tall_1200x1600-69337ce1d78e490cbfc60415792613ab",
+          "store_url": "https://store.epicgames.com/zh-CN/p/tomb-raider-iiii-remastered-538640"
+        }
+      ]
+    },
     {
       "id": "epic-free-2026-w22",
       "name": "LONESTAR、Calico",
