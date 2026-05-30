@@ -12,7 +12,7 @@
     "name": { "type": "string" },
     "category": {
       "type": "string",
-      "enum": ["exam", "gaming", "sports", "shopping", "entertainment", "other"]
+      "enum": ["exam", "gaming", "sports", "shopping", "entertainment", "holidays", "other"]
     },
     "description": { "type": "string" },
     "tags": { "type": "array", "items": { "type": "string" } },
@@ -46,6 +46,18 @@
             "type": "object",
             "description": "事件详情键值对，用于日历 tooltip 和详情页展示。键名即标签，值即内容。",
             "additionalProperties": { "type": "string" }
+          },
+          "result": {
+            "type": "object",
+            "description": "已结束体育赛事的结构化赛果",
+            "required": ["home_score", "away_score", "winner", "status"],
+            "properties": {
+              "home_score": { "type": "integer" },
+              "away_score": { "type": "integer" },
+              "winner": { "type": "string", "enum": ["home", "away", "draw"] },
+              "status": { "type": "string" }
+            },
+            "additionalProperties": false
           },
           "games": {
             "type": "array",

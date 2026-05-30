@@ -1,7 +1,22 @@
 {
-  "id": "uecl-2025",
-  "name": "欧协联 2025-26 赛季",
+  "id": "uecl",
+  "name": "欧协联赛程",
   "category": "sports",
+  "subcategory": "欧洲杯赛",
+  "description": "欧协联完整赛季赛程，持续更新当前及未来赛季，覆盖联赛阶段、淘汰赛和决赛，开赛时间自动换算为北京时间。",
+  "icon": "/logos/uecl.svg",
+  "tags": [
+    "欧协联",
+    "足球",
+    "UEFA Conference League",
+    "欧洲杯赛"
+  ],
+  "maintainer": "community",
+  "source_url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
+  "subscriber_count": 0,
+  "rating": 0,
+  "rating_count": 0,
+  "last_updated": "2026-05-30",
   "events": [
     {
       "id": "uecl-2025-757971",
@@ -14,14 +29,21 @@
       "description": "克里斯托尔宫 作客 基辅迪纳摩（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "基辅迪纳摩",
         "客场": "克里斯托尔宫",
+        "比分": "基辅迪纳摩 0 - 2 克里斯托尔宫",
         "场馆": "Arena Lublin",
         "城市": "Lublin"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -35,14 +57,21 @@
       "description": "里耶卡 作客 诺亚（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "诺亚",
         "客场": "里耶卡",
+        "比分": "诺亚 1 - 0 里耶卡",
         "场馆": "Vazgen Sargsyan Republican Stadium",
         "城市": "Yerevan"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -56,14 +85,21 @@
       "description": "哈姆伦斯巴达 作客 比亚韦斯托克亚盖隆（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "比亚韦斯托克亚盖隆",
         "客场": "哈姆伦斯巴达",
+        "比分": "比亚韦斯托克亚盖隆 1 - 0 哈姆伦斯巴达",
         "场馆": "Stadion Miejski Bialystok",
         "城市": "Bialystok"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -77,14 +113,21 @@
       "description": "德里塔 作客 库奥皮奥（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "库奥皮奥",
         "客场": "德里塔",
+        "比分": "库奥皮奥 1 - 1 德里塔",
         "场馆": "Tammelan Stadion",
         "城市": "Tampere"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -98,14 +141,21 @@
       "description": "布雷达布利克 作客 洛桑体育（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "洛桑体育",
         "客场": "布雷达布利克",
+        "比分": "洛桑体育 3 - 0 布雷达布利克",
         "场馆": "Stade de la Tuilière",
         "城市": "Lausanne"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -119,14 +169,21 @@
       "description": "维也纳快速 作客 波兹南莱赫（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "波兹南莱赫",
         "客场": "维也纳快速",
+        "比分": "波兹南莱赫 4 - 1 维也纳快速",
         "场馆": "Municipal Stadium-Poznan",
         "城市": "Poznan"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -140,14 +197,21 @@
       "description": "美因茨 作客 尼科西亚奥莫尼亚（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "尼科西亚奥莫尼亚",
         "客场": "美因茨",
+        "比分": "尼科西亚奥莫尼亚 0 - 1 美因茨",
         "场馆": "GSP Stadium",
         "城市": "Nicosia"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -161,14 +225,21 @@
       "description": "什肯迪亚 作客 瓦列卡诺（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "瓦列卡诺",
         "客场": "什肯迪亚",
+        "比分": "瓦列卡诺 2 - 0 什肯迪亚",
         "场馆": "Estadio de Vallecas",
         "城市": "Madrid"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -182,14 +253,21 @@
       "description": "林肯红色矮人 作客 泽林斯基莫斯塔尔（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "泽林斯基莫斯塔尔",
         "客场": "林肯红色矮人",
+        "比分": "泽林斯基莫斯塔尔 5 - 0 林肯红色矮人",
         "场馆": "Bijeli Brijeg Stadium",
         "城市": "Mostar"
+      },
+      "result": {
+        "home_score": 5,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -203,14 +281,21 @@
       "description": "顿涅茨克矿工 作客 阿伯丁（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "阿伯丁",
         "客场": "顿涅茨克矿工",
+        "比分": "阿伯丁 2 - 3 顿涅茨克矿工",
         "场馆": "Pittodrie Stadium",
         "城市": "Aberdeen"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -224,14 +309,21 @@
       "description": "AZ阿尔克马尔 作客 拉纳卡AEK（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "拉纳卡AEK",
         "客场": "AZ阿尔克马尔",
+        "比分": "拉纳卡AEK 4 - 0 AZ阿尔克马尔",
         "场馆": "AEK Arena",
         "城市": "Larnaca"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -245,14 +337,21 @@
       "description": "奥洛穆茨西格玛 作客 佛罗伦萨（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "佛罗伦萨",
         "客场": "奥洛穆茨西格玛",
+        "比分": "佛罗伦萨 2 - 0 奥洛穆茨西格玛",
         "场馆": "Stadio Artemio Franchi",
         "城市": "Firenze"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -266,14 +365,21 @@
       "description": "萨姆松斯波尔 作客 华沙军团（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "华沙军团",
         "客场": "萨姆松斯波尔",
+        "比分": "华沙军团 0 - 1 萨姆松斯波尔",
         "场馆": "Stadion Legii Warszawa im. Jozefa Pilsudskiego",
         "城市": "Warsaw"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -287,14 +393,21 @@
       "description": "雅典AEK 作客 塞尔耶（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "塞尔耶",
         "客场": "雅典AEK",
+        "比分": "塞尔耶 3 - 1 雅典AEK",
         "场馆": "Stadion Z'dezele",
         "城市": "Celje"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -308,14 +421,21 @@
       "description": "克拉约瓦 作客 琴斯托霍瓦拉科（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "琴斯托霍瓦拉科",
         "客场": "克拉约瓦",
+        "比分": "琴斯托霍瓦拉科 2 - 0 克拉约瓦",
         "场馆": "ArcelorMittal Park",
         "城市": "Sosnowiec"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -329,14 +449,21 @@
       "description": "赫肯 作客 谢尔本（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "谢尔本",
         "客场": "赫肯",
+        "比分": "谢尔本 0 - 0 赫肯",
         "场馆": "Tallaght Stadium",
         "城市": "Dublin"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 0,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -350,14 +477,21 @@
       "description": "斯特拉斯堡 作客 布拉迪斯拉发斯洛万（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "布拉迪斯拉发斯洛万",
         "客场": "斯特拉斯堡",
+        "比分": "布拉迪斯拉发斯洛万 1 - 2 斯特拉斯堡",
         "场馆": "Národny Futbalovy Stadión",
         "城市": "Bratislava"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -371,14 +505,21 @@
       "description": "三叶草流浪者 作客 布拉格斯巴达（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "布拉格斯巴达",
         "客场": "三叶草流浪者",
+        "比分": "布拉格斯巴达 4 - 1 三叶草流浪者",
         "场馆": "Generali Arena",
         "城市": "Prague"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -392,14 +533,21 @@
       "description": "阿伯丁 作客 雅典AEK（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "雅典AEK",
         "客场": "阿伯丁",
+        "比分": "雅典AEK 6 - 0 阿伯丁",
         "场馆": "OPAP Arena",
         "城市": "Athens"
+      },
+      "result": {
+        "home_score": 6,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -413,14 +561,21 @@
       "description": "布拉迪斯拉发斯洛万 作客 AZ阿尔克马尔（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "AZ阿尔克马尔",
         "客场": "布拉迪斯拉发斯洛万",
+        "比分": "AZ阿尔克马尔 1 - 0 布拉迪斯拉发斯洛万",
         "场馆": "AFAS Stadion",
         "城市": "Alkmaar"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -434,14 +589,21 @@
       "description": "瓦列卡诺 作客 赫肯（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "赫肯",
         "客场": "瓦列卡诺",
+        "比分": "赫肯 2 - 2 瓦列卡诺",
         "场馆": "Gamla Ullevi",
         "城市": "Göteborg"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 2,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -455,14 +617,21 @@
       "description": "库奥皮奥 作客 布雷达布利克（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "布雷达布利克",
         "客场": "库奥皮奥",
+        "比分": "布雷达布利克 0 - 0 库奥皮奥",
         "场馆": "Laugardalsvöllur",
         "城市": "Reykjavik"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 0,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -476,14 +645,21 @@
       "description": "尼科西亚奥莫尼亚 作客 德里塔（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "德里塔",
         "客场": "尼科西亚奥莫尼亚",
+        "比分": "德里塔 1 - 1 尼科西亚奥莫尼亚",
         "场馆": "Stadiumi Fadil Vokrri",
         "城市": "Prishtina"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -497,14 +673,21 @@
       "description": "谢尔本 作客 什肯迪亚（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "什肯迪亚",
         "客场": "谢尔本",
+        "比分": "什肯迪亚 1 - 0 谢尔本",
         "场馆": "Toše Proeski Arena",
         "城市": "Skopje"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -518,14 +701,21 @@
       "description": "佛罗伦萨 作客 维也纳快速（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "维也纳快速",
         "客场": "佛罗伦萨",
+        "比分": "维也纳快速 0 - 3 佛罗伦萨",
         "场馆": "Allianz Stadion",
         "城市": "Wien"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -539,14 +729,21 @@
       "description": "华沙军团 作客 顿涅茨克矿工（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "顿涅茨克矿工",
         "客场": "华沙军团",
+        "比分": "顿涅茨克矿工 1 - 2 华沙军团",
         "场馆": "Stadion Miejski im. Henryka Reymana",
         "城市": "Krakow"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -560,14 +757,21 @@
       "description": "比亚韦斯托克亚盖隆 作客 斯特拉斯堡（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "斯特拉斯堡",
         "客场": "比亚韦斯托克亚盖隆",
+        "比分": "斯特拉斯堡 1 - 1 比亚韦斯托克亚盖隆",
         "场馆": "Stade de la Meinau",
         "城市": "Strasbourg"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -581,14 +785,21 @@
       "description": "拉纳卡AEK 作客 克里斯托尔宫（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "克里斯托尔宫",
         "客场": "拉纳卡AEK",
+        "比分": "克里斯托尔宫 0 - 1 拉纳卡AEK",
         "场馆": "Selhurst Park",
         "城市": "London"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -602,14 +813,21 @@
       "description": "诺亚 作客 克拉约瓦（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "克拉约瓦",
         "客场": "诺亚",
+        "比分": "克拉约瓦 1 - 1 诺亚",
         "场馆": "Stadionul Ion Oblemenco",
         "城市": "Craiova"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -623,14 +841,21 @@
       "description": "洛桑体育 作客 哈姆伦斯巴达（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "哈姆伦斯巴达",
         "客场": "洛桑体育",
+        "比分": "哈姆伦斯巴达 0 - 1 洛桑体育",
         "场馆": "Ta' Qali National Stadium",
         "城市": "Attard"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -644,14 +869,21 @@
       "description": "波兹南莱赫 作客 林肯红色矮人（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "林肯红色矮人",
         "客场": "波兹南莱赫",
+        "比分": "林肯红色矮人 2 - 1 波兹南莱赫",
         "场馆": "Europa Point Stadium",
         "城市": "Gibraltar"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -665,14 +897,21 @@
       "description": "泽林斯基莫斯塔尔 作客 美因茨（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "美因茨",
         "客场": "泽林斯基莫斯塔尔",
+        "比分": "美因茨 1 - 0 泽林斯基莫斯塔尔",
         "场馆": "MEWA ARENA",
         "城市": "Mainz"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -686,14 +925,21 @@
       "description": "基辅迪纳摩 作客 萨姆松斯波尔（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "萨姆松斯波尔",
         "客场": "基辅迪纳摩",
+        "比分": "萨姆松斯波尔 3 - 0 基辅迪纳摩",
         "场馆": "Samsun 19 Mayis Stadium",
         "城市": "Samsun"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -707,14 +953,21 @@
       "description": "塞尔耶 作客 三叶草流浪者（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "三叶草流浪者",
         "客场": "塞尔耶",
+        "比分": "三叶草流浪者 0 - 2 塞尔耶",
         "场馆": "Tallaght Stadium",
         "城市": "Dublin"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -728,14 +981,21 @@
       "description": "琴斯托霍瓦拉科 作客 奥洛穆茨西格玛（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "奥洛穆茨西格玛",
         "客场": "琴斯托霍瓦拉科",
+        "比分": "奥洛穆茨西格玛 1 - 1 琴斯托霍瓦拉科",
         "场馆": "Andruv Stadion",
         "城市": "Olomouc"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -749,14 +1009,21 @@
       "description": "布拉格斯巴达 作客 里耶卡（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "里耶卡",
         "客场": "布拉格斯巴达",
+        "比分": "里耶卡 1 - 0 布拉格斯巴达",
         "场馆": "Stadion HNK Rijeka",
         "城市": "Rijeka"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -770,14 +1037,21 @@
       "description": "三叶草流浪者 作客 雅典AEK（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "雅典AEK",
         "客场": "三叶草流浪者",
+        "比分": "雅典AEK 1 - 1 三叶草流浪者",
         "场馆": "OPAP Arena",
         "城市": "Athens"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -791,14 +1065,21 @@
       "description": "阿伯丁 作客 拉纳卡AEK（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "拉纳卡AEK",
         "客场": "阿伯丁",
+        "比分": "拉纳卡AEK 0 - 0 阿伯丁",
         "场馆": "AEK Arena",
         "城市": "Larnaca"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 0,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -812,14 +1093,21 @@
       "description": "奥洛穆茨西格玛 作客 诺亚（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "诺亚",
         "客场": "奥洛穆茨西格玛",
+        "比分": "诺亚 1 - 2 奥洛穆茨西格玛",
         "场馆": "Vazgen Sargsyan Republican Stadium",
         "城市": "Yerevan"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -833,14 +1121,21 @@
       "description": "布拉迪斯拉发斯洛万 作客 库奥皮奥（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "库奥皮奥",
         "客场": "布拉迪斯拉发斯洛万",
+        "比分": "库奥皮奥 3 - 1 布拉迪斯拉发斯洛万",
         "场馆": "Tammelan Stadion",
         "城市": "Tampere"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -854,14 +1149,21 @@
       "description": "佛罗伦萨 作客 美因茨（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "美因茨",
         "客场": "佛罗伦萨",
+        "比分": "美因茨 2 - 1 佛罗伦萨",
         "场馆": "MEWA ARENA",
         "城市": "Mainz"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -875,14 +1177,21 @@
       "description": "华沙军团 作客 塞尔耶（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "塞尔耶",
         "客场": "华沙军团",
+        "比分": "塞尔耶 2 - 1 华沙军团",
         "场馆": "Stadion Z'dezele",
         "城市": "Celje"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -896,14 +1205,21 @@
       "description": "哈姆伦斯巴达 作客 萨姆松斯波尔（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "萨姆松斯波尔",
         "客场": "哈姆伦斯巴达",
+        "比分": "萨姆松斯波尔 3 - 0 哈姆伦斯巴达",
         "场馆": "Samsun 19 Mayis Stadium",
         "城市": "Samsun"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -917,14 +1233,21 @@
       "description": "布雷达布利克 作客 顿涅茨克矿工（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "顿涅茨克矿工",
         "客场": "布雷达布利克",
+        "比分": "顿涅茨克矿工 2 - 0 布雷达布利克",
         "场馆": "Stadion Miejski im. Henryka Reymana",
         "城市": "Krakow"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -938,14 +1261,21 @@
       "description": "琴斯托霍瓦拉科 作客 布拉格斯巴达（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "布拉格斯巴达",
         "客场": "琴斯托霍瓦拉科",
+        "比分": "布拉格斯巴达 0 - 0 琴斯托霍瓦拉科",
         "场馆": "Generali Arena",
         "城市": "Prague"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 0,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -959,14 +1289,21 @@
       "description": "斯特拉斯堡 作客 赫肯（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "赫肯",
         "客场": "斯特拉斯堡",
+        "比分": "赫肯 1 - 2 斯特拉斯堡",
         "场馆": "Gamla Ullevi",
         "城市": "Göteborg"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -980,14 +1317,21 @@
       "description": "AZ阿尔克马尔 作客 克里斯托尔宫（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "克里斯托尔宫",
         "客场": "AZ阿尔克马尔",
+        "比分": "克里斯托尔宫 3 - 1 AZ阿尔克马尔",
         "场馆": "Selhurst Park",
         "城市": "London"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1001,14 +1345,21 @@
       "description": "泽林斯基莫斯塔尔 作客 基辅迪纳摩（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "基辅迪纳摩",
         "客场": "泽林斯基莫斯塔尔",
+        "比分": "基辅迪纳摩 6 - 0 泽林斯基莫斯塔尔",
         "场馆": "Arena Lublin",
         "城市": "Lublin"
+      },
+      "result": {
+        "home_score": 6,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1022,14 +1373,21 @@
       "description": "比亚韦斯托克亚盖隆 作客 什肯迪亚（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "什肯迪亚",
         "客场": "比亚韦斯托克亚盖隆",
+        "比分": "什肯迪亚 1 - 1 比亚韦斯托克亚盖隆",
         "场馆": "Toše Proeski Arena",
         "城市": "Skopje"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -1043,14 +1401,21 @@
       "description": "尼科西亚奥莫尼亚 作客 洛桑体育（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "洛桑体育",
         "客场": "尼科西亚奥莫尼亚",
+        "比分": "洛桑体育 1 - 1 尼科西亚奥莫尼亚",
         "场馆": "Stade de la Tuilière",
         "城市": "Lausanne"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -1064,14 +1429,21 @@
       "description": "里耶卡 作客 林肯红色矮人（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "林肯红色矮人",
         "客场": "里耶卡",
+        "比分": "林肯红色矮人 1 - 1 里耶卡",
         "场馆": "Europa Point Stadium",
         "城市": "Gibraltar"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -1085,14 +1457,21 @@
       "description": "克拉约瓦 作客 维也纳快速（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "维也纳快速",
         "客场": "克拉约瓦",
+        "比分": "维也纳快速 0 - 1 克拉约瓦",
         "场馆": "Allianz Stadion",
         "城市": "Wien"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1106,14 +1485,21 @@
       "description": "波兹南莱赫 作客 瓦列卡诺（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "瓦列卡诺",
         "客场": "波兹南莱赫",
+        "比分": "瓦列卡诺 3 - 2 波兹南莱赫",
         "场馆": "Estadio de Vallecas",
         "城市": "Madrid"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 2,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1127,14 +1513,21 @@
       "description": "德里塔 作客 谢尔本（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "谢尔本",
         "客场": "德里塔",
+        "比分": "谢尔本 0 - 1 德里塔",
         "场馆": "Tallaght Stadium",
         "城市": "Dublin"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1148,14 +1541,21 @@
       "description": "谢尔本 作客 AZ阿尔克马尔（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "AZ阿尔克马尔",
         "客场": "谢尔本",
+        "比分": "AZ阿尔克马尔 2 - 0 谢尔本",
         "场馆": "AFAS Stadion",
         "城市": "Alkmaar"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1169,14 +1569,21 @@
       "description": "美因茨 作客 克拉约瓦（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "克拉约瓦",
         "客场": "美因茨",
+        "比分": "克拉约瓦 1 - 0 美因茨",
         "场馆": "Stadionul Ion Oblemenco",
         "城市": "Craiova"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1190,14 +1597,21 @@
       "description": "林肯红色矮人 作客 哈姆伦斯巴达（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "哈姆伦斯巴达",
         "客场": "林肯红色矮人",
+        "比分": "哈姆伦斯巴达 3 - 1 林肯红色矮人",
         "场馆": "Ta' Qali National Stadium",
         "城市": "Attard"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1211,14 +1625,21 @@
       "description": "洛桑体育 作客 波兹南莱赫（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "波兹南莱赫",
         "客场": "洛桑体育",
+        "比分": "波兹南莱赫 2 - 0 洛桑体育",
         "场馆": "Municipal Stadium-Poznan",
         "城市": "Poznan"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1232,14 +1653,21 @@
       "description": "基辅迪纳摩 作客 尼科西亚奥莫尼亚（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "尼科西亚奥莫尼亚",
         "客场": "基辅迪纳摩",
+        "比分": "尼科西亚奥莫尼亚 2 - 0 基辅迪纳摩",
         "场馆": "GSP Stadium",
         "城市": "Nicosia"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1253,14 +1681,21 @@
       "description": "维也纳快速 作客 琴斯托霍瓦拉科（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "琴斯托霍瓦拉科",
         "客场": "维也纳快速",
+        "比分": "琴斯托霍瓦拉科 4 - 1 维也纳快速",
         "场馆": "ArcelorMittal Park",
         "城市": "Sosnowiec"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1274,14 +1709,21 @@
       "description": "塞尔耶 作客 奥洛穆茨西格玛（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "奥洛穆茨西格玛",
         "客场": "塞尔耶",
+        "比分": "奥洛穆茨西格玛 2 - 1 塞尔耶",
         "场馆": "Andruv Stadion",
         "城市": "Olomouc"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1295,14 +1737,21 @@
       "description": "瓦列卡诺 作客 布拉迪斯拉发斯洛万（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "布拉迪斯拉发斯洛万",
         "客场": "瓦列卡诺",
+        "比分": "布拉迪斯拉发斯洛万 2 - 1 瓦列卡诺",
         "场馆": "Národny Futbalovy Stadión",
         "城市": "Bratislava"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1316,14 +1765,21 @@
       "description": "赫肯 作客 泽林斯基莫斯塔尔（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "泽林斯基莫斯塔尔",
         "客场": "赫肯",
+        "比分": "泽林斯基莫斯塔尔 2 - 1 赫肯",
         "场馆": "Bijeli Brijeg Stadium",
         "城市": "Mostar"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1337,14 +1793,21 @@
       "description": "诺亚 作客 阿伯丁（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "阿伯丁",
         "客场": "诺亚",
+        "比分": "阿伯丁 1 - 1 诺亚",
         "场馆": "Pittodrie Stadium",
         "城市": "Aberdeen"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -1358,14 +1821,21 @@
       "description": "萨姆松斯波尔 作客 布雷达布利克（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "布雷达布利克",
         "客场": "萨姆松斯波尔",
+        "比分": "布雷达布利克 2 - 2 萨姆松斯波尔",
         "场馆": "Laugardalsvöllur",
         "城市": "Reykjavik"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 2,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -1379,14 +1849,21 @@
       "description": "什肯迪亚 作客 德里塔（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "德里塔",
         "客场": "什肯迪亚",
+        "比分": "德里塔 1 - 0 什肯迪亚",
         "场馆": "Stadiumi Fadil Vokrri",
         "城市": "Prishtina"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1400,14 +1877,21 @@
       "description": "雅典AEK 作客 佛罗伦萨（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "佛罗伦萨",
         "客场": "雅典AEK",
+        "比分": "佛罗伦萨 0 - 1 雅典AEK",
         "场馆": "Stadio Artemio Franchi",
         "城市": "Firenze"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1421,14 +1905,21 @@
       "description": "库奥皮奥 作客 比亚韦斯托克亚盖隆（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "比亚韦斯托克亚盖隆",
         "客场": "库奥皮奥",
+        "比分": "比亚韦斯托克亚盖隆 1 - 0 库奥皮奥",
         "场馆": "Stadion Miejski Bialystok",
         "城市": "Bialystok"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1442,14 +1933,21 @@
       "description": "布拉格斯巴达 作客 华沙军团（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "华沙军团",
         "客场": "布拉格斯巴达",
+        "比分": "华沙军团 0 - 1 布拉格斯巴达",
         "场馆": "Stadion Legii Warszawa im. Jozefa Pilsudskiego",
         "城市": "Warsaw"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1463,14 +1961,21 @@
       "description": "拉纳卡AEK 作客 里耶卡（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "里耶卡",
         "客场": "拉纳卡AEK",
+        "比分": "里耶卡 0 - 0 拉纳卡AEK",
         "场馆": "Stadion HNK Rijeka",
         "城市": "Rijeka"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 0,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -1484,14 +1989,21 @@
       "description": "顿涅茨克矿工 作客 三叶草流浪者（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "三叶草流浪者",
         "客场": "顿涅茨克矿工",
+        "比分": "三叶草流浪者 1 - 2 顿涅茨克矿工",
         "场馆": "Tallaght Stadium",
         "城市": "Dublin"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1505,14 +2017,21 @@
       "description": "克里斯托尔宫 作客 斯特拉斯堡（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "斯特拉斯堡",
         "客场": "克里斯托尔宫",
+        "比分": "斯特拉斯堡 2 - 1 克里斯托尔宫",
         "场馆": "Stade de la Meinau",
         "城市": "Strasbourg"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1526,14 +2045,21 @@
       "description": "拉纳卡AEK 作客 赫肯（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "赫肯",
         "客场": "拉纳卡AEK",
+        "比分": "赫肯 1 - 1 拉纳卡AEK",
         "场馆": "Gamla Ullevi",
         "城市": "Göteborg"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -1547,14 +2073,21 @@
       "description": "三叶草流浪者 作客 布雷达布利克（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "布雷达布利克",
         "客场": "三叶草流浪者",
+        "比分": "布雷达布利克 3 - 1 三叶草流浪者",
         "场馆": "Laugardalsvöllur",
         "城市": "Reykjavik"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1568,14 +2101,21 @@
       "description": "布拉格斯巴达 作客 克拉约瓦（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "克拉约瓦",
         "客场": "布拉格斯巴达",
+        "比分": "克拉约瓦 1 - 2 布拉格斯巴达",
         "场馆": "Stadionul Ion Oblemenco",
         "城市": "Craiova"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1589,14 +2129,21 @@
       "description": "AZ阿尔克马尔 作客 德里塔（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "德里塔",
         "客场": "AZ阿尔克马尔",
+        "比分": "德里塔 0 - 3 AZ阿尔克马尔",
         "场馆": "Stadiumi Fadil Vokrri",
         "城市": "Prishtina"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1610,14 +2157,21 @@
       "description": "华沙军团 作客 诺亚（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "诺亚",
         "客场": "华沙军团",
+        "比分": "诺亚 2 - 1 华沙军团",
         "场馆": "Vazgen Sargsyan Republican Stadium",
         "城市": "Yerevan"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1631,14 +2185,21 @@
       "description": "基辅迪纳摩 作客 佛罗伦萨（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "佛罗伦萨",
         "客场": "基辅迪纳摩",
+        "比分": "佛罗伦萨 2 - 1 基辅迪纳摩",
         "场馆": "Stadio Artemio Franchi",
         "城市": "Firenze"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1652,14 +2213,21 @@
       "description": "瓦列卡诺 作客 比亚韦斯托克亚盖隆（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "比亚韦斯托克亚盖隆",
         "客场": "瓦列卡诺",
+        "比分": "比亚韦斯托克亚盖隆 1 - 2 瓦列卡诺",
         "场馆": "Stadion Miejski Bialystok",
         "城市": "Bialystok"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1673,14 +2241,21 @@
       "description": "布拉迪斯拉发斯洛万 作客 什肯迪亚（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "什肯迪亚",
         "客场": "布拉迪斯拉发斯洛万",
+        "比分": "什肯迪亚 2 - 0 布拉迪斯拉发斯洛万",
         "场馆": "Toše Proeski Arena",
         "城市": "Skopje"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1694,14 +2269,21 @@
       "description": "雅典AEK 作客 萨姆松斯波尔（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "萨姆松斯波尔",
         "客场": "雅典AEK",
+        "比分": "萨姆松斯波尔 1 - 2 雅典AEK",
         "场馆": "Samsun 19 Mayis Stadium",
         "城市": "Samsun"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1715,14 +2297,21 @@
       "description": "斯特拉斯堡 作客 阿伯丁（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "阿伯丁",
         "客场": "斯特拉斯堡",
+        "比分": "阿伯丁 0 - 1 斯特拉斯堡",
         "场馆": "Pittodrie Stadium",
         "城市": "Aberdeen"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1736,14 +2325,21 @@
       "description": "顿涅茨克矿工 作客 哈姆伦斯巴达（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "哈姆伦斯巴达",
         "客场": "顿涅茨克矿工",
+        "比分": "哈姆伦斯巴达 0 - 2 顿涅茨克矿工",
         "场馆": "Ta' Qali National Stadium",
         "城市": "Attard"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1757,14 +2353,21 @@
       "description": "洛桑体育 作客 库奥皮奥（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "库奥皮奥",
         "客场": "洛桑体育",
+        "比分": "库奥皮奥 0 - 0 洛桑体育",
         "场馆": "Tammelan Stadion",
         "城市": "Tampere"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 0,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -1778,14 +2381,21 @@
       "description": "美因茨 作客 波兹南莱赫（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "波兹南莱赫",
         "客场": "美因茨",
+        "比分": "波兹南莱赫 1 - 1 美因茨",
         "场馆": "Municipal Stadium-Poznan",
         "城市": "Poznan"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -1799,14 +2409,21 @@
       "description": "奥洛穆茨西格玛 作客 林肯红色矮人（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "林肯红色矮人",
         "客场": "奥洛穆茨西格玛",
+        "比分": "林肯红色矮人 2 - 1 奥洛穆茨西格玛",
         "场馆": "Europa Point Stadium",
         "城市": "Gibraltar"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1820,14 +2437,21 @@
       "description": "泽林斯基莫斯塔尔 作客 琴斯托霍瓦拉科（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "琴斯托霍瓦拉科",
         "客场": "泽林斯基莫斯塔尔",
+        "比分": "琴斯托霍瓦拉科 1 - 0 泽林斯基莫斯塔尔",
         "场馆": "ArcelorMittal Park",
         "城市": "Sosnowiec"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1841,14 +2465,21 @@
       "description": "尼科西亚奥莫尼亚 作客 维也纳快速（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "维也纳快速",
         "客场": "尼科西亚奥莫尼亚",
+        "比分": "维也纳快速 0 - 1 尼科西亚奥莫尼亚",
         "场馆": "Allianz Stadion",
         "城市": "Wien"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1862,14 +2493,21 @@
       "description": "塞尔耶 作客 里耶卡（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "里耶卡",
         "客场": "塞尔耶",
+        "比分": "里耶卡 3 - 0 塞尔耶",
         "场馆": "Stadion HNK Rijeka",
         "城市": "Rijeka"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1883,14 +2521,21 @@
       "description": "克里斯托尔宫 作客 谢尔本（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "谢尔本",
         "客场": "克里斯托尔宫",
+        "比分": "谢尔本 0 - 3 克里斯托尔宫",
         "场馆": "Tallaght Stadium",
         "城市": "Dublin"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1904,14 +2549,21 @@
       "description": "克拉约瓦 作客 雅典AEK（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "雅典AEK",
         "客场": "克拉约瓦",
+        "比分": "雅典AEK 3 - 2 克拉约瓦",
         "场馆": "OPAP Arena",
         "城市": "Athens"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 2,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1925,14 +2577,21 @@
       "description": "什肯迪亚 作客 拉纳卡AEK（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "拉纳卡AEK",
         "客场": "什肯迪亚",
+        "比分": "拉纳卡AEK 1 - 0 什肯迪亚",
         "场馆": "AEK Arena",
         "城市": "Larnaca"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1946,14 +2605,21 @@
       "description": "比亚韦斯托克亚盖隆 作客 AZ阿尔克马尔（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "AZ阿尔克马尔",
         "客场": "比亚韦斯托克亚盖隆",
+        "比分": "AZ阿尔克马尔 0 - 0 比亚韦斯托克亚盖隆",
         "场馆": "AFAS Stadion",
         "城市": "Alkmaar"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 0,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -1967,14 +2633,21 @@
       "description": "库奥皮奥 作客 克里斯托尔宫（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "克里斯托尔宫",
         "客场": "库奥皮奥",
+        "比分": "克里斯托尔宫 2 - 2 库奥皮奥",
         "场馆": "Selhurst Park",
         "城市": "London"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 2,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -1988,14 +2661,21 @@
       "description": "诺亚 作客 基辅迪纳摩（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "基辅迪纳摩",
         "客场": "诺亚",
+        "比分": "基辅迪纳摩 2 - 0 诺亚",
         "场馆": "Arena Lublin",
         "城市": "Lublin"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2009,14 +2689,21 @@
       "description": "佛罗伦萨 作客 洛桑体育（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "洛桑体育",
         "客场": "佛罗伦萨",
+        "比分": "洛桑体育 1 - 0 佛罗伦萨",
         "场馆": "Stade de la Tuilière",
         "城市": "Lausanne"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2030,14 +2717,21 @@
       "description": "林肯红色矮人 作客 华沙军团（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "华沙军团",
         "客场": "林肯红色矮人",
+        "比分": "华沙军团 4 - 1 林肯红色矮人",
         "场馆": "Stadion Legii Warszawa im. Jozefa Pilsudskiego",
         "城市": "Warsaw"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2051,14 +2745,21 @@
       "description": "萨姆松斯波尔 作客 美因茨（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "美因茨",
         "客场": "萨姆松斯波尔",
+        "比分": "美因茨 2 - 0 萨姆松斯波尔",
         "场馆": "MEWA ARENA",
         "城市": "Mainz"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2072,14 +2773,21 @@
       "description": "谢尔本 作客 塞尔耶（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "塞尔耶",
         "客场": "谢尔本",
+        "比分": "塞尔耶 0 - 0 谢尔本",
         "场馆": "Stadion Z'dezele",
         "城市": "Celje"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 0,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -2093,14 +2801,21 @@
       "description": "琴斯托霍瓦拉科 作客 尼科西亚奥莫尼亚（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "尼科西亚奥莫尼亚",
         "客场": "琴斯托霍瓦拉科",
+        "比分": "尼科西亚奥莫尼亚 0 - 1 琴斯托霍瓦拉科",
         "场馆": "GSP Stadium",
         "城市": "Nicosia"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2114,14 +2829,21 @@
       "description": "德里塔 作客 瓦列卡诺（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "瓦列卡诺",
         "客场": "德里塔",
+        "比分": "瓦列卡诺 3 - 0 德里塔",
         "场馆": "Estadio de Vallecas",
         "城市": "Madrid"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2135,14 +2857,21 @@
       "description": "里耶卡 作客 顿涅茨克矿工（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "顿涅茨克矿工",
         "客场": "里耶卡",
+        "比分": "顿涅茨克矿工 0 - 0 里耶卡",
         "场馆": "Stadion Miejski im. Henryka Reymana",
         "城市": "Krakow"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 0,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -2156,14 +2885,21 @@
       "description": "哈姆伦斯巴达 作客 三叶草流浪者（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "三叶草流浪者",
         "客场": "哈姆伦斯巴达",
+        "比分": "三叶草流浪者 3 - 1 哈姆伦斯巴达",
         "场馆": "Tallaght Stadium",
         "城市": "Dublin"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2177,14 +2913,21 @@
       "description": "波兹南莱赫 作客 奥洛穆茨西格玛（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "奥洛穆茨西格玛",
         "客场": "波兹南莱赫",
+        "比分": "奥洛穆茨西格玛 1 - 2 波兹南莱赫",
         "场馆": "Andruv Stadion",
         "城市": "Olomouc"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2198,14 +2941,21 @@
       "description": "赫肯 作客 布拉迪斯拉发斯洛万（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "布拉迪斯拉发斯洛万",
         "客场": "赫肯",
+        "比分": "布拉迪斯拉发斯洛万 1 - 0 赫肯",
         "场馆": "Národny Futbalovy Stadión",
         "城市": "Bratislava"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2219,14 +2969,21 @@
       "description": "阿伯丁 作客 布拉格斯巴达（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "布拉格斯巴达",
         "客场": "阿伯丁",
+        "比分": "布拉格斯巴达 3 - 0 阿伯丁",
         "场馆": "Generali Arena",
         "城市": "Prague"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2240,14 +2997,21 @@
       "description": "布雷达布利克 作客 斯特拉斯堡（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "斯特拉斯堡",
         "客场": "布雷达布利克",
+        "比分": "斯特拉斯堡 3 - 1 布雷达布利克",
         "场馆": "Stade de la Meinau",
         "城市": "Strasbourg"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2261,14 +3025,21 @@
       "description": "维也纳快速 作客 泽林斯基莫斯塔尔（欧协联 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "泽林斯基莫斯塔尔",
         "客场": "维也纳快速",
+        "比分": "泽林斯基莫斯塔尔 1 - 1 维也纳快速",
         "场馆": "Bijeli Brijeg Stadium",
         "城市": "Mostar"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -2282,14 +3053,21 @@
       "description": "AZ阿尔克马尔 作客 诺亚（欧协联 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "诺亚",
         "客场": "AZ阿尔克马尔",
+        "比分": "诺亚 1 - 0 AZ阿尔克马尔",
         "场馆": "Vazgen Sargsyan Republican Stadium",
         "城市": "Yerevan"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2303,14 +3081,21 @@
       "description": "波兹南莱赫 作客 库奥皮奥（欧协联 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "库奥皮奥",
         "客场": "波兹南莱赫",
+        "比分": "库奥皮奥 0 - 2 波兹南莱赫",
         "场馆": "Tammelan Stadion",
         "城市": "Tampere"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2324,14 +3109,21 @@
       "description": "洛桑体育 作客 奥洛穆茨西格玛（欧协联 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "奥洛穆茨西格玛",
         "客场": "洛桑体育",
+        "比分": "奥洛穆茨西格玛 1 - 1 洛桑体育",
         "场馆": "Andruv Stadion",
         "城市": "Olomouc"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -2345,14 +3137,21 @@
       "description": "克里斯托尔宫 作客 泽林斯基莫斯塔尔（欧协联 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "泽林斯基莫斯塔尔",
         "客场": "克里斯托尔宫",
+        "比分": "泽林斯基莫斯塔尔 1 - 1 克里斯托尔宫",
         "场馆": "Bijeli Brijeg Stadium",
         "城市": "Mostar"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -2366,14 +3165,21 @@
       "description": "塞尔耶 作客 德里塔（欧协联 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "德里塔",
         "客场": "塞尔耶",
+        "比分": "德里塔 2 - 3 塞尔耶",
         "场馆": "Stadiumi Fadil Vokrri",
         "城市": "Prishtina"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2387,14 +3193,21 @@
       "description": "佛罗伦萨 作客 比亚韦斯托克亚盖隆（欧协联 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "比亚韦斯托克亚盖隆",
         "客场": "佛罗伦萨",
+        "比分": "比亚韦斯托克亚盖隆 0 - 3 佛罗伦萨",
         "场馆": "Stadion Miejski Bialystok",
         "城市": "Bialystok"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2408,14 +3221,21 @@
       "description": "萨姆松斯波尔 作客 什肯迪亚（欧协联 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "什肯迪亚",
         "客场": "萨姆松斯波尔",
+        "比分": "什肯迪亚 0 - 1 萨姆松斯波尔",
         "场馆": "Toše Proeski Arena",
         "城市": "Skopje"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2429,14 +3249,21 @@
       "description": "里耶卡 作客 尼科西亚奥莫尼亚（欧协联 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "尼科西亚奥莫尼亚",
         "客场": "里耶卡",
+        "比分": "尼科西亚奥莫尼亚 0 - 1 里耶卡",
         "场馆": "GSP Stadium",
         "城市": "Nicosia"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2450,7 +3277,7 @@
       "description": "比亚韦斯托克亚盖隆 作客 佛罗伦萨（欧协联 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
@@ -2471,14 +3298,21 @@
       "description": "德里塔 作客 塞尔耶（欧协联 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "塞尔耶",
         "客场": "德里塔",
+        "比分": "塞尔耶 3 - 2 德里塔",
         "场馆": "Stadion Z'dezele",
         "城市": "Celje"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 2,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2492,14 +3326,21 @@
       "description": "尼科西亚奥莫尼亚 作客 里耶卡（欧协联 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "里耶卡",
         "客场": "尼科西亚奥莫尼亚",
+        "比分": "里耶卡 3 - 1 尼科西亚奥莫尼亚",
         "场馆": "Stadion HNK Rijeka",
         "城市": "Rijeka"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2513,14 +3354,21 @@
       "description": "什肯迪亚 作客 萨姆松斯波尔（欧协联 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "萨姆松斯波尔",
         "客场": "什肯迪亚",
+        "比分": "萨姆松斯波尔 4 - 0 什肯迪亚",
         "场馆": "Samsun 19 Mayis Stadium",
         "城市": "Samsun"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2534,14 +3382,21 @@
       "description": "诺亚 作客 AZ阿尔克马尔（欧协联 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "AZ阿尔克马尔",
         "客场": "诺亚",
+        "比分": "AZ阿尔克马尔 4 - 0 诺亚",
         "场馆": "AFAS Stadion",
         "城市": "Alkmaar"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2555,14 +3410,21 @@
       "description": "泽林斯基莫斯塔尔 作客 克里斯托尔宫（欧协联 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "克里斯托尔宫",
         "客场": "泽林斯基莫斯塔尔",
+        "比分": "克里斯托尔宫 2 - 0 泽林斯基莫斯塔尔",
         "场馆": "Selhurst Park",
         "城市": "London"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2576,14 +3438,21 @@
       "description": "奥洛穆茨西格玛 作客 洛桑体育（欧协联 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "洛桑体育",
         "客场": "奥洛穆茨西格玛",
+        "比分": "洛桑体育 1 - 2 奥洛穆茨西格玛",
         "场馆": "Stade de la Tuilière",
         "城市": "Lausanne"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2597,14 +3466,21 @@
       "description": "库奥皮奥 作客 波兹南莱赫（欧协联 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "波兹南莱赫",
         "客场": "库奥皮奥",
+        "比分": "波兹南莱赫 1 - 0 库奥皮奥",
         "场馆": "Municipal Stadium-Poznan",
         "城市": "Poznan"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2618,14 +3494,21 @@
       "description": "布拉格斯巴达 作客 AZ阿尔克马尔（欧协联 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "AZ阿尔克马尔",
         "客场": "布拉格斯巴达",
+        "比分": "AZ阿尔克马尔 2 - 1 布拉格斯巴达",
         "场馆": "AFAS Stadion",
         "城市": "Alkmaar"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2639,14 +3522,21 @@
       "description": "顿涅茨克矿工 作客 波兹南莱赫（欧协联 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "波兹南莱赫",
         "客场": "顿涅茨克矿工",
+        "比分": "波兹南莱赫 1 - 3 顿涅茨克矿工",
         "场馆": "Municipal Stadium-Poznan",
         "城市": "Poznan"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2660,14 +3550,21 @@
       "description": "斯特拉斯堡 作客 里耶卡（欧协联 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "里耶卡",
         "客场": "斯特拉斯堡",
+        "比分": "里耶卡 1 - 2 斯特拉斯堡",
         "场馆": "Stadion HNK Rijeka",
         "城市": "Rijeka"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2681,14 +3578,21 @@
       "description": "瓦列卡诺 作客 萨姆松斯波尔（欧协联 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "萨姆松斯波尔",
         "客场": "瓦列卡诺",
+        "比分": "萨姆松斯波尔 1 - 3 瓦列卡诺",
         "场馆": "Samsun 19 Mayis Stadium",
         "城市": "Samsun"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2702,14 +3606,21 @@
       "description": "拉纳卡AEK 作客 克里斯托尔宫（欧协联 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "克里斯托尔宫",
         "客场": "拉纳卡AEK",
+        "比分": "克里斯托尔宫 0 - 0 拉纳卡AEK",
         "场馆": "Selhurst Park",
         "城市": "London"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 0,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -2723,14 +3634,21 @@
       "description": "琴斯托霍瓦拉科 作客 佛罗伦萨（欧协联 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "佛罗伦萨",
         "客场": "琴斯托霍瓦拉科",
+        "比分": "佛罗伦萨 2 - 1 琴斯托霍瓦拉科",
         "场馆": "Stadio Artemio Franchi",
         "城市": "Firenze"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2744,14 +3662,21 @@
       "description": "雅典AEK 作客 塞尔耶（欧协联 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "塞尔耶",
         "客场": "雅典AEK",
+        "比分": "塞尔耶 0 - 4 雅典AEK",
         "场馆": "Stadion Z'dezele",
         "城市": "Celje"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 4,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2765,14 +3690,21 @@
       "description": "美因茨 作客 奥洛穆茨西格玛（欧协联 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "奥洛穆茨西格玛",
         "客场": "美因茨",
+        "比分": "奥洛穆茨西格玛 0 - 0 美因茨",
         "场馆": "Andruv Stadion",
         "城市": "Olomouc"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 0,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -2786,14 +3718,21 @@
       "description": "塞尔耶 作客 雅典AEK（欧协联 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "雅典AEK",
         "客场": "塞尔耶",
+        "比分": "雅典AEK 0 - 2 塞尔耶",
         "场馆": "OPAP Arena",
         "城市": "Athens"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2807,7 +3746,7 @@
       "description": "克里斯托尔宫 作客 拉纳卡AEK（欧协联 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
@@ -2828,14 +3767,21 @@
       "description": "奥洛穆茨西格玛 作客 美因茨（欧协联 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "美因茨",
         "客场": "奥洛穆茨西格玛",
+        "比分": "美因茨 2 - 0 奥洛穆茨西格玛",
         "场馆": "MEWA ARENA",
         "城市": "Mainz"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2849,14 +3795,21 @@
       "description": "佛罗伦萨 作客 琴斯托霍瓦拉科（欧协联 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "琴斯托霍瓦拉科",
         "客场": "佛罗伦萨",
+        "比分": "琴斯托霍瓦拉科 1 - 2 佛罗伦萨",
         "场馆": "ArcelorMittal Park",
         "城市": "Sosnowiec"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2870,14 +3823,21 @@
       "description": "萨姆松斯波尔 作客 瓦列卡诺（欧协联 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "瓦列卡诺",
         "客场": "萨姆松斯波尔",
+        "比分": "瓦列卡诺 0 - 1 萨姆松斯波尔",
         "场馆": "Estadio de Vallecas",
         "城市": "Madrid"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2891,14 +3851,21 @@
       "description": "波兹南莱赫 作客 顿涅茨克矿工（欧协联 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "顿涅茨克矿工",
         "客场": "波兹南莱赫",
+        "比分": "顿涅茨克矿工 1 - 2 波兹南莱赫",
         "场馆": "Stadion Miejski im. Henryka Reymana",
         "城市": "Krakow"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2912,14 +3879,21 @@
       "description": "AZ阿尔克马尔 作客 布拉格斯巴达（欧协联 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "布拉格斯巴达",
         "客场": "AZ阿尔克马尔",
+        "比分": "布拉格斯巴达 0 - 4 AZ阿尔克马尔",
         "场馆": "Generali Arena",
         "城市": "Prague"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 4,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2933,14 +3907,21 @@
       "description": "里耶卡 作客 斯特拉斯堡（欧协联 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "斯特拉斯堡",
         "客场": "里耶卡",
+        "比分": "斯特拉斯堡 1 - 1 里耶卡",
         "场馆": "Stade de la Meinau",
         "城市": "Strasbourg"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -2954,14 +3935,21 @@
       "description": "雅典AEK 作客 瓦列卡诺（欧协联 2025-26 赛季 四分之一决赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "四分之一决赛",
         "主场": "瓦列卡诺",
         "客场": "雅典AEK",
+        "比分": "瓦列卡诺 3 - 0 雅典AEK",
         "场馆": "Estadio de Vallecas",
         "城市": "Madrid"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2975,14 +3963,21 @@
       "description": "佛罗伦萨 作客 克里斯托尔宫（欧协联 2025-26 赛季 四分之一决赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "四分之一决赛",
         "主场": "克里斯托尔宫",
         "客场": "佛罗伦萨",
+        "比分": "克里斯托尔宫 3 - 0 佛罗伦萨",
         "场馆": "Selhurst Park",
         "城市": "London"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2996,14 +3991,21 @@
       "description": "斯特拉斯堡 作客 美因茨（欧协联 2025-26 赛季 四分之一决赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "四分之一决赛",
         "主场": "美因茨",
         "客场": "斯特拉斯堡",
+        "比分": "美因茨 2 - 0 斯特拉斯堡",
         "场馆": "MEWA ARENA",
         "城市": "Mainz"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3017,14 +4019,21 @@
       "description": "AZ阿尔克马尔 作客 顿涅茨克矿工（欧协联 2025-26 赛季 四分之一决赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "四分之一决赛",
         "主场": "顿涅茨克矿工",
         "客场": "AZ阿尔克马尔",
+        "比分": "顿涅茨克矿工 3 - 0 AZ阿尔克马尔",
         "场馆": "Stadion Miejski im. Henryka Reymana",
         "城市": "Krakow"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3038,14 +4047,21 @@
       "description": "顿涅茨克矿工 作客 AZ阿尔克马尔（欧协联 2025-26 赛季 四分之一决赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "四分之一决赛",
         "主场": "AZ阿尔克马尔",
         "客场": "顿涅茨克矿工",
+        "比分": "AZ阿尔克马尔 2 - 2 顿涅茨克矿工",
         "场馆": "AFAS Stadion",
         "城市": "Alkmaar"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 2,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -3059,14 +4075,21 @@
       "description": "瓦列卡诺 作客 雅典AEK（欧协联 2025-26 赛季 四分之一决赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "四分之一决赛",
         "主场": "雅典AEK",
         "客场": "瓦列卡诺",
+        "比分": "雅典AEK 3 - 1 瓦列卡诺",
         "场馆": "OPAP Arena",
         "城市": "Athens"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3080,14 +4103,21 @@
       "description": "克里斯托尔宫 作客 佛罗伦萨（欧协联 2025-26 赛季 四分之一决赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "四分之一决赛",
         "主场": "佛罗伦萨",
         "客场": "克里斯托尔宫",
+        "比分": "佛罗伦萨 2 - 1 克里斯托尔宫",
         "场馆": "Stadio Artemio Franchi",
         "城市": "Firenze"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3101,14 +4131,21 @@
       "description": "美因茨 作客 斯特拉斯堡（欧协联 2025-26 赛季 四分之一决赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "四分之一决赛",
         "主场": "斯特拉斯堡",
         "客场": "美因茨",
+        "比分": "斯特拉斯堡 4 - 0 美因茨",
         "场馆": "Stade de la Meinau",
         "城市": "Strasbourg"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3122,14 +4159,21 @@
       "description": "斯特拉斯堡 作客 瓦列卡诺（欧协联 2025-26 赛季 半决赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "半决赛",
         "主场": "瓦列卡诺",
         "客场": "斯特拉斯堡",
+        "比分": "瓦列卡诺 1 - 0 斯特拉斯堡",
         "场馆": "Estadio de Vallecas",
         "城市": "Madrid"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3143,14 +4187,21 @@
       "description": "克里斯托尔宫 作客 顿涅茨克矿工（欧协联 2025-26 赛季 半决赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "半决赛",
         "主场": "顿涅茨克矿工",
         "客场": "克里斯托尔宫",
+        "比分": "顿涅茨克矿工 1 - 3 克里斯托尔宫",
         "场馆": "Stadion Miejski im. Henryka Reymana",
         "城市": "Krakow"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -3164,14 +4215,21 @@
       "description": "顿涅茨克矿工 作客 克里斯托尔宫（欧协联 2025-26 赛季 半决赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "半决赛",
         "主场": "克里斯托尔宫",
         "客场": "顿涅茨克矿工",
+        "比分": "克里斯托尔宫 2 - 1 顿涅茨克矿工",
         "场馆": "Selhurst Park",
         "城市": "London"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3185,14 +4243,21 @@
       "description": "瓦列卡诺 作客 斯特拉斯堡（欧协联 2025-26 赛季 半决赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "半决赛",
         "主场": "斯特拉斯堡",
         "客场": "瓦列卡诺",
+        "比分": "斯特拉斯堡 0 - 1 瓦列卡诺",
         "场馆": "Stade de la Meinau",
         "城市": "Strasbourg"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -3206,16 +4271,22 @@
       "description": "瓦列卡诺 作客 克里斯托尔宫（欧协联 2025-26 赛季 决赛，北京时间）",
       "url": "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "决赛",
         "主场": "克里斯托尔宫",
         "客场": "瓦列卡诺",
+        "比分": "克里斯托尔宫 1 - 0 瓦列卡诺",
         "场馆": "Red Bull Arena",
         "城市": "Leipzig"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     }
-  ],
-  "last_updated": "2026-05-29"
+  ]
 }

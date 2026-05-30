@@ -1,7 +1,22 @@
 {
-  "id": "ucl-2025",
-  "name": "欧冠 2025-26 赛季",
+  "id": "ucl",
+  "name": "欧冠赛程",
   "category": "sports",
+  "subcategory": "欧洲杯赛",
+  "description": "欧冠完整赛季赛程，持续更新当前及未来赛季，覆盖联赛阶段、淘汰赛和决赛，开赛时间自动换算为北京时间。",
+  "icon": "/logos/ucl.svg",
+  "tags": [
+    "欧冠",
+    "足球",
+    "UEFA Champions League",
+    "欧洲杯赛"
+  ],
+  "maintainer": "community",
+  "source_url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
+  "subscriber_count": 0,
+  "rating": 0,
+  "rating_count": 0,
+  "last_updated": "2026-05-30",
   "events": [
     {
       "id": "ucl-2025-757653",
@@ -14,14 +29,21 @@
       "description": "阿森纳 作客 毕尔巴鄂竞技（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "毕尔巴鄂竞技",
         "客场": "阿森纳",
+        "比分": "毕尔巴鄂竞技 0 - 2 阿森纳",
         "场馆": "San Mamés",
         "城市": "Bilbao"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -35,14 +57,21 @@
       "description": "圣日洛瓦联 作客 埃因霍温（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "埃因霍温",
         "客场": "圣日洛瓦联",
+        "比分": "埃因霍温 1 - 3 圣日洛瓦联",
         "场馆": "Philips Stadion",
         "城市": "Eindhoven"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -56,14 +85,21 @@
       "description": "卡拉巴赫 作客 本菲卡（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "本菲卡",
         "客场": "卡拉巴赫",
+        "比分": "本菲卡 2 - 3 卡拉巴赫",
         "场馆": "Estádio da Luz",
         "城市": "Lisbon"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -77,14 +113,21 @@
       "description": "多特蒙德 作客 尤文图斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "尤文图斯",
         "客场": "多特蒙德",
+        "比分": "尤文图斯 4 - 4 多特蒙德",
         "场馆": "Allianz Stadium",
         "城市": "Torino"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 4,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -98,14 +141,21 @@
       "description": "马赛 作客 皇家马德里（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "皇家马德里",
         "客场": "马赛",
+        "比分": "皇家马德里 2 - 1 马赛",
         "场馆": "Santiago Bernabéu",
         "城市": "Madrid"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -119,14 +169,21 @@
       "description": "比利亚雷亚尔 作客 热刺（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "热刺",
         "客场": "比利亚雷亚尔",
+        "比分": "热刺 1 - 0 比利亚雷亚尔",
         "场馆": "Tottenham Hotspur Stadium",
         "城市": "London"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -140,14 +197,21 @@
       "description": "帕福斯 作客 奥林匹亚科斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "奥林匹亚科斯",
         "客场": "帕福斯",
+        "比分": "奥林匹亚科斯 0 - 0 帕福斯",
         "场馆": "Georgios Karaiskakis Stadium",
         "城市": "Piraeus"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 0,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -161,14 +225,21 @@
       "description": "博多/格林特 作客 布拉格斯拉维亚（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "布拉格斯拉维亚",
         "客场": "博多/格林特",
+        "比分": "布拉格斯拉维亚 2 - 2 博多/格林特",
         "场馆": "Fortuna Arena",
         "城市": "Prague"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 2,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -182,14 +253,21 @@
       "description": "国际米兰 作客 阿贾克斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "阿贾克斯",
         "客场": "国际米兰",
+        "比分": "阿贾克斯 0 - 2 国际米兰",
         "场馆": "Johan Cruijff Arena",
         "城市": "Amsterdam"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -203,14 +281,21 @@
       "description": "切尔西 作客 拜仁慕尼黑（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "拜仁慕尼黑",
         "客场": "切尔西",
+        "比分": "拜仁慕尼黑 3 - 1 切尔西",
         "场馆": "Allianz Arena",
         "城市": "München"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -224,14 +309,21 @@
       "description": "马竞 作客 利物浦（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "利物浦",
         "客场": "马竞",
+        "比分": "利物浦 3 - 2 马竞",
         "场馆": "Anfield",
         "城市": "Liverpool"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 2,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -245,14 +337,21 @@
       "description": "亚特兰大 作客 巴黎圣日耳曼（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "巴黎圣日耳曼",
         "客场": "亚特兰大",
+        "比分": "巴黎圣日耳曼 4 - 0 亚特兰大",
         "场馆": "Parc des Princes",
         "城市": "Paris"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -266,14 +365,21 @@
       "description": "摩纳哥 作客 布鲁日（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "布鲁日",
         "客场": "摩纳哥",
+        "比分": "布鲁日 4 - 1 摩纳哥",
         "场馆": "Jan Breydel Stadium",
         "城市": "Brugge"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -287,14 +393,21 @@
       "description": "勒沃库森 作客 哥本哈根（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "哥本哈根",
         "客场": "勒沃库森",
+        "比分": "哥本哈根 2 - 2 勒沃库森",
         "场馆": "Parken Stadium",
         "城市": "Copenhagen"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 2,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -308,14 +421,21 @@
       "description": "加拉塔萨雷 作客 法兰克福（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "法兰克福",
         "客场": "加拉塔萨雷",
+        "比分": "法兰克福 5 - 1 加拉塔萨雷",
         "场馆": "Deutsche Bank Park",
         "城市": "Frankfurt"
+      },
+      "result": {
+        "home_score": 5,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -329,14 +449,21 @@
       "description": "那不勒斯 作客 曼城（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "曼城",
         "客场": "那不勒斯",
+        "比分": "曼城 2 - 0 那不勒斯",
         "场馆": "Etihad Stadium",
         "城市": "Manchester"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -350,14 +477,21 @@
       "description": "巴塞罗那 作客 纽卡斯尔联（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "纽卡斯尔联",
         "客场": "巴塞罗那",
+        "比分": "纽卡斯尔联 1 - 2 巴塞罗那",
         "场馆": "St. James' Park",
         "城市": "Newcastle-upon-Tyne"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -371,14 +505,21 @@
       "description": "阿拉木图凯拉特 作客 葡萄牙体育（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "葡萄牙体育",
         "客场": "阿拉木图凯拉特",
+        "比分": "葡萄牙体育 4 - 1 阿拉木图凯拉特",
         "场馆": "Estádio José Alvalade",
         "城市": "Lisbon"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -392,14 +533,21 @@
       "description": "布鲁日 作客 亚特兰大（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "亚特兰大",
         "客场": "布鲁日",
+        "比分": "亚特兰大 2 - 1 布鲁日",
         "场馆": "New Balance Arena",
         "城市": "Bergamo"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -413,14 +561,21 @@
       "description": "皇家马德里 作客 阿拉木图凯拉特（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "阿拉木图凯拉特",
         "客场": "皇家马德里",
+        "比分": "阿拉木图凯拉特 0 - 5 皇家马德里",
         "场馆": "Almaty Ortalyk Stadium",
         "城市": "Almaty"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 5,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -434,14 +589,21 @@
       "description": "法兰克福 作客 马竞（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "马竞",
         "客场": "法兰克福",
+        "比分": "马竞 5 - 1 法兰克福",
         "场馆": "Riyadh Air Metropolitano",
         "城市": "Madrid"
+      },
+      "result": {
+        "home_score": 5,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -455,14 +617,21 @@
       "description": "热刺 作客 博多/格林特（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "博多/格林特",
         "客场": "热刺",
+        "比分": "博多/格林特 2 - 2 热刺",
         "场馆": "Aspmyra Stadion",
         "城市": "Bodø/Glimt"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 2,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -476,14 +645,21 @@
       "description": "本菲卡 作客 切尔西（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "切尔西",
         "客场": "本菲卡",
+        "比分": "切尔西 1 - 0 本菲卡",
         "场馆": "Stamford Bridge",
         "城市": "London"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -497,14 +673,21 @@
       "description": "利物浦 作客 加拉塔萨雷（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "加拉塔萨雷",
         "客场": "利物浦",
+        "比分": "加拉塔萨雷 1 - 0 利物浦",
         "场馆": "RAMS Park",
         "城市": "Istanbul"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -518,14 +701,21 @@
       "description": "布拉格斯拉维亚 作客 国际米兰（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "国际米兰",
         "客场": "布拉格斯拉维亚",
+        "比分": "国际米兰 3 - 0 布拉格斯拉维亚",
         "场馆": "San Siro",
         "城市": "Milano"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -539,14 +729,21 @@
       "description": "阿贾克斯 作客 马赛（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "马赛",
         "客场": "阿贾克斯",
+        "比分": "马赛 4 - 0 阿贾克斯",
         "场馆": "Stade Vélodrome",
         "城市": "Marseille"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -560,14 +757,21 @@
       "description": "拜仁慕尼黑 作客 帕福斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "帕福斯",
         "客场": "拜仁慕尼黑",
+        "比分": "帕福斯 1 - 5 拜仁慕尼黑",
         "场馆": "Alphamega Stadium",
         "城市": "Kolossi"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 5,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -581,14 +785,21 @@
       "description": "哥本哈根 作客 卡拉巴赫（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "卡拉巴赫",
         "客场": "哥本哈根",
+        "比分": "卡拉巴赫 2 - 0 哥本哈根",
         "场馆": "Tofiq Bahramov Republican Stadium",
         "城市": "Baku"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -602,14 +813,21 @@
       "description": "纽卡斯尔联 作客 圣日洛瓦联（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "圣日洛瓦联",
         "客场": "纽卡斯尔联",
+        "比分": "圣日洛瓦联 0 - 4 纽卡斯尔联",
         "场馆": "Lotto Park",
         "城市": "Brussels"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 4,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -623,14 +841,21 @@
       "description": "奥林匹亚科斯 作客 阿森纳（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "阿森纳",
         "客场": "奥林匹亚科斯",
+        "比分": "阿森纳 2 - 0 奥林匹亚科斯",
         "场馆": "Emirates Stadium",
         "城市": "London"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -644,14 +869,21 @@
       "description": "曼城 作客 摩纳哥（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "摩纳哥",
         "客场": "曼城",
+        "比分": "摩纳哥 2 - 2 曼城",
         "场馆": "Stade Louis II",
         "城市": "Monaco"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 2,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -665,14 +897,21 @@
       "description": "巴黎圣日耳曼 作客 巴塞罗那（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "巴塞罗那",
         "客场": "巴黎圣日耳曼",
+        "比分": "巴塞罗那 1 - 2 巴黎圣日耳曼",
         "场馆": "Estadi Olímpic Lluís Companys",
         "城市": "Barcelona"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -686,14 +925,21 @@
       "description": "埃因霍温 作客 勒沃库森（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "勒沃库森",
         "客场": "埃因霍温",
+        "比分": "勒沃库森 1 - 1 埃因霍温",
         "场馆": "BayArena",
         "城市": "Leverkusen"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -707,14 +953,21 @@
       "description": "毕尔巴鄂竞技 作客 多特蒙德（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "多特蒙德",
         "客场": "毕尔巴鄂竞技",
+        "比分": "多特蒙德 4 - 1 毕尔巴鄂竞技",
         "场馆": "Signal Iduna Park",
         "城市": "Aue"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -728,14 +981,21 @@
       "description": "葡萄牙体育 作客 那不勒斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "那不勒斯",
         "客场": "葡萄牙体育",
+        "比分": "那不勒斯 2 - 1 葡萄牙体育",
         "场馆": "Stadio Diego Armando Maradona",
         "城市": "Napoli"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -749,14 +1009,21 @@
       "description": "尤文图斯 作客 比利亚雷亚尔（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "比利亚雷亚尔",
         "客场": "尤文图斯",
+        "比分": "比利亚雷亚尔 2 - 2 尤文图斯",
         "场馆": "Estadio de la Cerámica",
         "城市": "Villarreal"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 2,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -770,14 +1037,21 @@
       "description": "奥林匹亚科斯 作客 巴塞罗那（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "巴塞罗那",
         "客场": "奥林匹亚科斯",
+        "比分": "巴塞罗那 6 - 1 奥林匹亚科斯",
         "场馆": "Estadi Olímpic Lluís Companys",
         "城市": "Barcelona"
+      },
+      "result": {
+        "home_score": 6,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -791,14 +1065,21 @@
       "description": "帕福斯 作客 阿拉木图凯拉特（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "阿拉木图凯拉特",
         "客场": "帕福斯",
+        "比分": "阿拉木图凯拉特 0 - 0 帕福斯",
         "场馆": "Almaty Ortalyk Stadium",
         "城市": "Almaty"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 0,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -812,14 +1093,21 @@
       "description": "马竞 作客 阿森纳（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "阿森纳",
         "客场": "马竞",
+        "比分": "阿森纳 4 - 0 马竞",
         "场馆": "Emirates Stadium",
         "城市": "London"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -833,14 +1121,21 @@
       "description": "巴黎圣日耳曼 作客 勒沃库森（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "勒沃库森",
         "客场": "巴黎圣日耳曼",
+        "比分": "勒沃库森 2 - 7 巴黎圣日耳曼",
         "场馆": "BayArena",
         "城市": "Leverkusen"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 7,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -854,14 +1149,21 @@
       "description": "多特蒙德 作客 哥本哈根（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "哥本哈根",
         "客场": "多特蒙德",
+        "比分": "哥本哈根 2 - 4 多特蒙德",
         "场馆": "Parken Stadium",
         "城市": "Copenhagen"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 4,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -875,14 +1177,21 @@
       "description": "本菲卡 作客 纽卡斯尔联（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "纽卡斯尔联",
         "客场": "本菲卡",
+        "比分": "纽卡斯尔联 3 - 0 本菲卡",
         "场馆": "St. James' Park",
         "城市": "Newcastle-upon-Tyne"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -896,14 +1205,21 @@
       "description": "那不勒斯 作客 埃因霍温（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "埃因霍温",
         "客场": "那不勒斯",
+        "比分": "埃因霍温 6 - 2 那不勒斯",
         "场馆": "Philips Stadion",
         "城市": "Eindhoven"
+      },
+      "result": {
+        "home_score": 6,
+        "away_score": 2,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -917,14 +1233,21 @@
       "description": "国际米兰 作客 圣日洛瓦联（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "圣日洛瓦联",
         "客场": "国际米兰",
+        "比分": "圣日洛瓦联 0 - 4 国际米兰",
         "场馆": "Lotto Park",
         "城市": "Brussels"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 4,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -938,14 +1261,21 @@
       "description": "曼城 作客 比利亚雷亚尔（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "比利亚雷亚尔",
         "客场": "曼城",
+        "比分": "比利亚雷亚尔 0 - 2 曼城",
         "场馆": "Estadio de la Cerámica",
         "城市": "Villarreal"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -959,14 +1289,21 @@
       "description": "卡拉巴赫 作客 毕尔巴鄂竞技（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "毕尔巴鄂竞技",
         "客场": "卡拉巴赫",
+        "比分": "毕尔巴鄂竞技 3 - 1 卡拉巴赫",
         "场馆": "San Mamés",
         "城市": "Bilbao"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -980,14 +1317,21 @@
       "description": "博多/格林特 作客 加拉塔萨雷（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "加拉塔萨雷",
         "客场": "博多/格林特",
+        "比分": "加拉塔萨雷 3 - 1 博多/格林特",
         "场馆": "RAMS Park",
         "城市": "Istanbul"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1001,14 +1345,21 @@
       "description": "热刺 作客 摩纳哥（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "摩纳哥",
         "客场": "热刺",
+        "比分": "摩纳哥 0 - 0 热刺",
         "场馆": "Stade Louis II",
         "城市": "Monaco"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 0,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -1022,14 +1373,21 @@
       "description": "布拉格斯拉维亚 作客 亚特兰大（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "亚特兰大",
         "客场": "布拉格斯拉维亚",
+        "比分": "亚特兰大 0 - 0 布拉格斯拉维亚",
         "场馆": "New Balance Arena",
         "城市": "Bergamo"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 0,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -1043,14 +1401,21 @@
       "description": "布鲁日 作客 拜仁慕尼黑（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "拜仁慕尼黑",
         "客场": "布鲁日",
+        "比分": "拜仁慕尼黑 4 - 0 布鲁日",
         "场馆": "Allianz Arena",
         "城市": "München"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1064,14 +1429,21 @@
       "description": "阿贾克斯 作客 切尔西（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "切尔西",
         "客场": "阿贾克斯",
+        "比分": "切尔西 5 - 1 阿贾克斯",
         "场馆": "Stamford Bridge",
         "城市": "London"
+      },
+      "result": {
+        "home_score": 5,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1085,14 +1457,21 @@
       "description": "利物浦 作客 法兰克福（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "法兰克福",
         "客场": "利物浦",
+        "比分": "法兰克福 1 - 5 利物浦",
         "场馆": "Deutsche Bank Park",
         "城市": "Frankfurt"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 5,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1106,14 +1485,21 @@
       "description": "尤文图斯 作客 皇家马德里（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "皇家马德里",
         "客场": "尤文图斯",
+        "比分": "皇家马德里 1 - 0 尤文图斯",
         "场馆": "Santiago Bernabéu",
         "城市": "Madrid"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1127,14 +1513,21 @@
       "description": "马赛 作客 葡萄牙体育（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "葡萄牙体育",
         "客场": "马赛",
+        "比分": "葡萄牙体育 2 - 1 马赛",
         "场馆": "Estádio José Alvalade",
         "城市": "Lisbon"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1148,14 +1541,21 @@
       "description": "法兰克福 作客 那不勒斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "那不勒斯",
         "客场": "法兰克福",
+        "比分": "那不勒斯 0 - 0 法兰克福",
         "场馆": "Stadio Diego Armando Maradona",
         "城市": "Napoli"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 0,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -1169,14 +1569,21 @@
       "description": "阿森纳 作客 布拉格斯拉维亚（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "布拉格斯拉维亚",
         "客场": "阿森纳",
+        "比分": "布拉格斯拉维亚 0 - 3 阿森纳",
         "场馆": "Fortuna Arena",
         "城市": "Prague"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1190,14 +1597,21 @@
       "description": "圣日洛瓦联 作客 马竞（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "马竞",
         "客场": "圣日洛瓦联",
+        "比分": "马竞 3 - 1 圣日洛瓦联",
         "场馆": "Riyadh Air Metropolitano",
         "城市": "Madrid"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1211,14 +1625,21 @@
       "description": "摩纳哥 作客 博多/格林特（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "博多/格林特",
         "客场": "摩纳哥",
+        "比分": "博多/格林特 0 - 1 摩纳哥",
         "场馆": "Aspmyra Stadion",
         "城市": "Bodø/Glimt"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1232,14 +1653,21 @@
       "description": "葡萄牙体育 作客 尤文图斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "尤文图斯",
         "客场": "葡萄牙体育",
+        "比分": "尤文图斯 1 - 1 葡萄牙体育",
         "场馆": "Allianz Stadium",
         "城市": "Torino"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -1253,14 +1681,21 @@
       "description": "皇家马德里 作客 利物浦（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "利物浦",
         "客场": "皇家马德里",
+        "比分": "利物浦 1 - 0 皇家马德里",
         "场馆": "Anfield",
         "城市": "Liverpool"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1274,14 +1709,21 @@
       "description": "埃因霍温 作客 奥林匹亚科斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "奥林匹亚科斯",
         "客场": "埃因霍温",
+        "比分": "奥林匹亚科斯 1 - 1 埃因霍温",
         "场馆": "Georgios Karaiskakis Stadium",
         "城市": "Piraeus"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -1295,14 +1737,21 @@
       "description": "拜仁慕尼黑 作客 巴黎圣日耳曼（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "巴黎圣日耳曼",
         "客场": "拜仁慕尼黑",
+        "比分": "巴黎圣日耳曼 1 - 2 拜仁慕尼黑",
         "场馆": "Parc des Princes",
         "城市": "Paris"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1316,14 +1765,21 @@
       "description": "哥本哈根 作客 热刺（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "热刺",
         "客场": "哥本哈根",
+        "比分": "热刺 4 - 0 哥本哈根",
         "场馆": "Tottenham Hotspur Stadium",
         "城市": "London"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1337,14 +1793,21 @@
       "description": "切尔西 作客 卡拉巴赫（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "卡拉巴赫",
         "客场": "切尔西",
+        "比分": "卡拉巴赫 2 - 2 切尔西",
         "场馆": "Tofiq Bahramov Republican Stadium",
         "城市": "Baku"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 2,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -1358,14 +1821,21 @@
       "description": "比利亚雷亚尔 作客 帕福斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "帕福斯",
         "客场": "比利亚雷亚尔",
+        "比分": "帕福斯 1 - 0 比利亚雷亚尔",
         "场馆": "Alphamega Stadium",
         "城市": "Kolossi"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1379,14 +1849,21 @@
       "description": "加拉塔萨雷 作客 阿贾克斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "阿贾克斯",
         "客场": "加拉塔萨雷",
+        "比分": "阿贾克斯 0 - 3 加拉塔萨雷",
         "场馆": "Johan Cruijff Arena",
         "城市": "Amsterdam"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1400,14 +1877,21 @@
       "description": "勒沃库森 作客 本菲卡（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "本菲卡",
         "客场": "勒沃库森",
+        "比分": "本菲卡 0 - 1 勒沃库森",
         "场馆": "Estádio da Luz",
         "城市": "Lisbon"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1421,14 +1905,21 @@
       "description": "巴塞罗那 作客 布鲁日（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "布鲁日",
         "客场": "巴塞罗那",
+        "比分": "布鲁日 3 - 3 巴塞罗那",
         "场馆": "Jan Breydel Stadium",
         "城市": "Brugge"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 3,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -1442,14 +1933,21 @@
       "description": "阿拉木图凯拉特 作客 国际米兰（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "国际米兰",
         "客场": "阿拉木图凯拉特",
+        "比分": "国际米兰 2 - 1 阿拉木图凯拉特",
         "场馆": "San Siro",
         "城市": "Milano"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1463,14 +1961,21 @@
       "description": "多特蒙德 作客 曼城（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "曼城",
         "客场": "多特蒙德",
+        "比分": "曼城 4 - 1 多特蒙德",
         "场馆": "Etihad Stadium",
         "城市": "Manchester"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1484,14 +1989,21 @@
       "description": "亚特兰大 作客 马赛（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "马赛",
         "客场": "亚特兰大",
+        "比分": "马赛 0 - 1 亚特兰大",
         "场馆": "Stade Vélodrome",
         "城市": "Marseille"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1505,14 +2017,21 @@
       "description": "毕尔巴鄂竞技 作客 纽卡斯尔联（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "纽卡斯尔联",
         "客场": "毕尔巴鄂竞技",
+        "比分": "纽卡斯尔联 2 - 0 毕尔巴鄂竞技",
         "场馆": "St. James' Park",
         "城市": "Newcastle-upon-Tyne"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1526,14 +2045,21 @@
       "description": "本菲卡 作客 阿贾克斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "阿贾克斯",
         "客场": "本菲卡",
+        "比分": "阿贾克斯 0 - 2 本菲卡",
         "场馆": "Johan Cruijff Arena",
         "城市": "Amsterdam"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1547,14 +2073,21 @@
       "description": "圣日洛瓦联 作客 加拉塔萨雷（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "加拉塔萨雷",
         "客场": "圣日洛瓦联",
+        "比分": "加拉塔萨雷 0 - 1 圣日洛瓦联",
         "场馆": "RAMS Park",
         "城市": "Istanbul"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1568,14 +2101,21 @@
       "description": "尤文图斯 作客 博多/格林特（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "博多/格林特",
         "客场": "尤文图斯",
+        "比分": "博多/格林特 2 - 3 尤文图斯",
         "场馆": "Aspmyra Stadion",
         "城市": "Bodø/Glimt"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1589,14 +2129,21 @@
       "description": "比利亚雷亚尔 作客 多特蒙德（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "多特蒙德",
         "客场": "比利亚雷亚尔",
+        "比分": "多特蒙德 4 - 0 比利亚雷亚尔",
         "场馆": "Signal Iduna Park",
         "城市": "Aue"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1610,14 +2157,21 @@
       "description": "巴塞罗那 作客 切尔西（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "切尔西",
         "客场": "巴塞罗那",
+        "比分": "切尔西 3 - 0 巴塞罗那",
         "场馆": "Stamford Bridge",
         "城市": "London"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1631,14 +2185,21 @@
       "description": "勒沃库森 作客 曼城（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "曼城",
         "客场": "勒沃库森",
+        "比分": "曼城 0 - 2 勒沃库森",
         "场馆": "Etihad Stadium",
         "城市": "Manchester"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1652,14 +2213,21 @@
       "description": "纽卡斯尔联 作客 马赛（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "马赛",
         "客场": "纽卡斯尔联",
+        "比分": "马赛 2 - 1 纽卡斯尔联",
         "场馆": "Stade Vélodrome",
         "城市": "Marseille"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1673,14 +2241,21 @@
       "description": "卡拉巴赫 作客 那不勒斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "那不勒斯",
         "客场": "卡拉巴赫",
+        "比分": "那不勒斯 2 - 0 卡拉巴赫",
         "场馆": "Stadio Diego Armando Maradona",
         "城市": "Napoli"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1694,14 +2269,21 @@
       "description": "毕尔巴鄂竞技 作客 布拉格斯拉维亚（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "布拉格斯拉维亚",
         "客场": "毕尔巴鄂竞技",
+        "比分": "布拉格斯拉维亚 0 - 0 毕尔巴鄂竞技",
         "场馆": "Fortuna Arena",
         "城市": "Prague"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 0,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -1715,14 +2297,21 @@
       "description": "阿拉木图凯拉特 作客 哥本哈根（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "哥本哈根",
         "客场": "阿拉木图凯拉特",
+        "比分": "哥本哈根 3 - 2 阿拉木图凯拉特",
         "场馆": "Parken Stadium",
         "城市": "Copenhagen"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 2,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1736,14 +2325,21 @@
       "description": "摩纳哥 作客 帕福斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "帕福斯",
         "客场": "摩纳哥",
+        "比分": "帕福斯 2 - 2 摩纳哥",
         "场馆": "Alphamega Stadium",
         "城市": "Kolossi"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 2,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -1757,14 +2353,21 @@
       "description": "拜仁慕尼黑 作客 阿森纳（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "阿森纳",
         "客场": "拜仁慕尼黑",
+        "比分": "阿森纳 3 - 1 拜仁慕尼黑",
         "场馆": "Emirates Stadium",
         "城市": "London"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1778,14 +2381,21 @@
       "description": "国际米兰 作客 马竞（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "马竞",
         "客场": "国际米兰",
+        "比分": "马竞 2 - 1 国际米兰",
         "场馆": "Riyadh Air Metropolitano",
         "城市": "Madrid"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1799,14 +2409,21 @@
       "description": "亚特兰大 作客 法兰克福（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "法兰克福",
         "客场": "亚特兰大",
+        "比分": "法兰克福 0 - 3 亚特兰大",
         "场馆": "Deutsche Bank Park",
         "城市": "Frankfurt"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1820,14 +2437,21 @@
       "description": "埃因霍温 作客 利物浦（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "利物浦",
         "客场": "埃因霍温",
+        "比分": "利物浦 1 - 4 埃因霍温",
         "场馆": "Anfield",
         "城市": "Liverpool"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 4,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1841,14 +2465,21 @@
       "description": "皇家马德里 作客 奥林匹亚科斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "奥林匹亚科斯",
         "客场": "皇家马德里",
+        "比分": "奥林匹亚科斯 3 - 4 皇家马德里",
         "场馆": "Georgios Karaiskakis Stadium",
         "城市": "Piraeus"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 4,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1862,14 +2493,21 @@
       "description": "热刺 作客 巴黎圣日耳曼（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "巴黎圣日耳曼",
         "客场": "热刺",
+        "比分": "巴黎圣日耳曼 5 - 3 热刺",
         "场馆": "Parc des Princes",
         "城市": "Paris"
+      },
+      "result": {
+        "home_score": 5,
+        "away_score": 3,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1883,14 +2521,21 @@
       "description": "布鲁日 作客 葡萄牙体育（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "葡萄牙体育",
         "客场": "布鲁日",
+        "比分": "葡萄牙体育 3 - 0 布鲁日",
         "场馆": "Estádio José Alvalade",
         "城市": "Lisbon"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1904,14 +2549,21 @@
       "description": "奥林匹亚科斯 作客 阿拉木图凯拉特（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "阿拉木图凯拉特",
         "客场": "奥林匹亚科斯",
+        "比分": "阿拉木图凯拉特 0 - 1 奥林匹亚科斯",
         "场馆": "Astana Arena",
         "城市": "Astana"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -1925,14 +2577,21 @@
       "description": "葡萄牙体育 作客 拜仁慕尼黑（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "拜仁慕尼黑",
         "客场": "葡萄牙体育",
+        "比分": "拜仁慕尼黑 3 - 1 葡萄牙体育",
         "场馆": "Allianz Arena",
         "城市": "München"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1946,14 +2605,21 @@
       "description": "加拉塔萨雷 作客 摩纳哥（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "摩纳哥",
         "客场": "加拉塔萨雷",
+        "比分": "摩纳哥 1 - 0 加拉塔萨雷",
         "场馆": "Stade Louis II",
         "城市": "Monaco"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1967,14 +2633,21 @@
       "description": "切尔西 作客 亚特兰大（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "亚特兰大",
         "客场": "切尔西",
+        "比分": "亚特兰大 2 - 1 切尔西",
         "场馆": "New Balance Arena",
         "城市": "Bergamo"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -1988,14 +2661,21 @@
       "description": "法兰克福 作客 巴塞罗那（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "巴塞罗那",
         "客场": "法兰克福",
+        "比分": "巴塞罗那 2 - 1 法兰克福",
         "场馆": "Spotify Camp Nou",
         "城市": "Barcelona"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2009,14 +2689,21 @@
       "description": "利物浦 作客 国际米兰（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "国际米兰",
         "客场": "利物浦",
+        "比分": "国际米兰 0 - 1 利物浦",
         "场馆": "San Siro",
         "城市": "Milano"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2030,14 +2717,21 @@
       "description": "马竞 作客 埃因霍温（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "埃因霍温",
         "客场": "马竞",
+        "比分": "埃因霍温 2 - 3 马竞",
         "场馆": "Philips Stadion",
         "城市": "Eindhoven"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2051,14 +2745,21 @@
       "description": "布拉格斯拉维亚 作客 热刺（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "热刺",
         "客场": "布拉格斯拉维亚",
+        "比分": "热刺 3 - 0 布拉格斯拉维亚",
         "场馆": "Tottenham Hotspur Stadium",
         "城市": "London"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2072,14 +2773,21 @@
       "description": "马赛 作客 圣日洛瓦联（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "圣日洛瓦联",
         "客场": "马赛",
+        "比分": "圣日洛瓦联 2 - 3 马赛",
         "场馆": "Lotto Park",
         "城市": "Brussels"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2093,14 +2801,21 @@
       "description": "阿贾克斯 作客 卡拉巴赫（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "卡拉巴赫",
         "客场": "阿贾克斯",
+        "比分": "卡拉巴赫 2 - 4 阿贾克斯",
         "场馆": "Tofiq Bahramov Republican Stadium",
         "城市": "Baku"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 4,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2114,14 +2829,21 @@
       "description": "哥本哈根 作客 比利亚雷亚尔（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "比利亚雷亚尔",
         "客场": "哥本哈根",
+        "比分": "比利亚雷亚尔 2 - 3 哥本哈根",
         "场馆": "Estadio de la Cerámica",
         "城市": "Villarreal"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2135,14 +2857,21 @@
       "description": "巴黎圣日耳曼 作客 毕尔巴鄂竞技（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "毕尔巴鄂竞技",
         "客场": "巴黎圣日耳曼",
+        "比分": "毕尔巴鄂竞技 0 - 0 巴黎圣日耳曼",
         "场馆": "San Mamés",
         "城市": "Bilbao"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 0,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -2156,14 +2885,21 @@
       "description": "纽卡斯尔联 作客 勒沃库森（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "勒沃库森",
         "客场": "纽卡斯尔联",
+        "比分": "勒沃库森 2 - 2 纽卡斯尔联",
         "场馆": "BayArena",
         "城市": "Leverkusen"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 2,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -2177,14 +2913,21 @@
       "description": "那不勒斯 作客 本菲卡（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "本菲卡",
         "客场": "那不勒斯",
+        "比分": "本菲卡 2 - 0 那不勒斯",
         "场馆": "Estádio da Luz",
         "城市": "Lisbon"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2198,14 +2941,21 @@
       "description": "博多/格林特 作客 多特蒙德（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "多特蒙德",
         "客场": "博多/格林特",
+        "比分": "多特蒙德 2 - 2 博多/格林特",
         "场馆": "Signal Iduna Park",
         "城市": "Aue"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 2,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -2219,14 +2969,21 @@
       "description": "阿森纳 作客 布鲁日（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "布鲁日",
         "客场": "阿森纳",
+        "比分": "布鲁日 0 - 3 阿森纳",
         "场馆": "Jan Breydel Stadium",
         "城市": "Brugge"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2240,14 +2997,21 @@
       "description": "帕福斯 作客 尤文图斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "尤文图斯",
         "客场": "帕福斯",
+        "比分": "尤文图斯 2 - 0 帕福斯",
         "场馆": "Allianz Stadium",
         "城市": "Torino"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2261,14 +3025,21 @@
       "description": "曼城 作客 皇家马德里（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "皇家马德里",
         "客场": "曼城",
+        "比分": "皇家马德里 1 - 2 曼城",
         "场馆": "Santiago Bernabéu",
         "城市": "Madrid"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2282,14 +3053,21 @@
       "description": "布鲁日 作客 阿拉木图凯拉特（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "阿拉木图凯拉特",
         "客场": "布鲁日",
+        "比分": "阿拉木图凯拉特 1 - 4 布鲁日",
         "场馆": "Astana Arena",
         "城市": "Astana"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 4,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2303,14 +3081,21 @@
       "description": "曼城 作客 博多/格林特（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "博多/格林特",
         "客场": "曼城",
+        "比分": "博多/格林特 3 - 1 曼城",
         "场馆": "Aspmyra Stadion",
         "城市": "Bodø/Glimt"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2324,14 +3109,21 @@
       "description": "那不勒斯 作客 哥本哈根（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "哥本哈根",
         "客场": "那不勒斯",
+        "比分": "哥本哈根 1 - 1 那不勒斯",
         "场馆": "Parken Stadium",
         "城市": "Copenhagen"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -2345,14 +3137,21 @@
       "description": "阿森纳 作客 国际米兰（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "国际米兰",
         "客场": "阿森纳",
+        "比分": "国际米兰 1 - 3 阿森纳",
         "场馆": "San Siro",
         "城市": "Milano"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2366,14 +3165,21 @@
       "description": "勒沃库森 作客 奥林匹亚科斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "奥林匹亚科斯",
         "客场": "勒沃库森",
+        "比分": "奥林匹亚科斯 2 - 0 勒沃库森",
         "场馆": "Georgios Karaiskakis Stadium",
         "城市": "Piraeus"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2387,14 +3193,21 @@
       "description": "摩纳哥 作客 皇家马德里（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "皇家马德里",
         "客场": "摩纳哥",
+        "比分": "皇家马德里 6 - 1 摩纳哥",
         "场馆": "Santiago Bernabéu",
         "城市": "Madrid"
+      },
+      "result": {
+        "home_score": 6,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2408,14 +3221,21 @@
       "description": "巴黎圣日耳曼 作客 葡萄牙体育（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "葡萄牙体育",
         "客场": "巴黎圣日耳曼",
+        "比分": "葡萄牙体育 2 - 1 巴黎圣日耳曼",
         "场馆": "Estádio José Alvalade",
         "城市": "Lisbon"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2429,14 +3249,21 @@
       "description": "多特蒙德 作客 热刺（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "热刺",
         "客场": "多特蒙德",
+        "比分": "热刺 2 - 0 多特蒙德",
         "场馆": "Tottenham Hotspur Stadium",
         "城市": "London"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2450,14 +3277,21 @@
       "description": "阿贾克斯 作客 比利亚雷亚尔（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "比利亚雷亚尔",
         "客场": "阿贾克斯",
+        "比分": "比利亚雷亚尔 1 - 2 阿贾克斯",
         "场馆": "Estadio de la Cerámica",
         "城市": "Villarreal"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2471,14 +3305,21 @@
       "description": "法兰克福 作客 卡拉巴赫（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "卡拉巴赫",
         "客场": "法兰克福",
+        "比分": "卡拉巴赫 3 - 2 法兰克福",
         "场馆": "Tofiq Bahramov Republican Stadium",
         "城市": "Baku"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 2,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2492,14 +3333,21 @@
       "description": "马竞 作客 加拉塔萨雷（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "加拉塔萨雷",
         "客场": "马竞",
+        "比分": "加拉塔萨雷 1 - 1 马竞",
         "场馆": "RAMS Park",
         "城市": "Istanbul"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -2513,14 +3361,21 @@
       "description": "毕尔巴鄂竞技 作客 亚特兰大（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "亚特兰大",
         "客场": "毕尔巴鄂竞技",
+        "比分": "亚特兰大 2 - 3 毕尔巴鄂竞技",
         "场馆": "New Balance Arena",
         "城市": "Bergamo"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2534,14 +3389,21 @@
       "description": "圣日洛瓦联 作客 拜仁慕尼黑（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "拜仁慕尼黑",
         "客场": "圣日洛瓦联",
+        "比分": "拜仁慕尼黑 2 - 0 圣日洛瓦联",
         "场馆": "Allianz Arena",
         "城市": "München"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2555,14 +3417,21 @@
       "description": "帕福斯 作客 切尔西（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "切尔西",
         "客场": "帕福斯",
+        "比分": "切尔西 1 - 0 帕福斯",
         "场馆": "Stamford Bridge",
         "城市": "London"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2576,14 +3445,21 @@
       "description": "本菲卡 作客 尤文图斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "尤文图斯",
         "客场": "本菲卡",
+        "比分": "尤文图斯 2 - 0 本菲卡",
         "场馆": "Allianz Stadium",
         "城市": "Torino"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2597,14 +3473,21 @@
       "description": "利物浦 作客 马赛（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "马赛",
         "客场": "利物浦",
+        "比分": "马赛 0 - 3 利物浦",
         "场馆": "Stade Vélodrome",
         "城市": "Marseille"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2618,14 +3501,21 @@
       "description": "埃因霍温 作客 纽卡斯尔联（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "纽卡斯尔联",
         "客场": "埃因霍温",
+        "比分": "纽卡斯尔联 3 - 0 埃因霍温",
         "场馆": "St. James' Park",
         "城市": "Newcastle-upon-Tyne"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2639,14 +3529,21 @@
       "description": "巴塞罗那 作客 布拉格斯拉维亚（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "布拉格斯拉维亚",
         "客场": "巴塞罗那",
+        "比分": "布拉格斯拉维亚 2 - 4 巴塞罗那",
         "场馆": "Fortuna Arena",
         "城市": "Prague"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 4,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2660,14 +3557,21 @@
       "description": "奥林匹亚科斯 作客 阿贾克斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "阿贾克斯",
         "客场": "奥林匹亚科斯",
+        "比分": "阿贾克斯 1 - 2 奥林匹亚科斯",
         "场馆": "Johan Cruijff Arena",
         "城市": "Amsterdam"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2681,14 +3585,21 @@
       "description": "阿拉木图凯拉特 作客 阿森纳（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "阿森纳",
         "客场": "阿拉木图凯拉特",
+        "比分": "阿森纳 3 - 2 阿拉木图凯拉特",
         "场馆": "Emirates Stadium",
         "城市": "London"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 2,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2702,14 +3613,21 @@
       "description": "尤文图斯 作客 摩纳哥（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "摩纳哥",
         "客场": "尤文图斯",
+        "比分": "摩纳哥 0 - 0 尤文图斯",
         "场馆": "Stade Louis II",
         "城市": "Monaco"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 0,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -2723,14 +3641,21 @@
       "description": "葡萄牙体育 作客 毕尔巴鄂竞技（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "毕尔巴鄂竞技",
         "客场": "葡萄牙体育",
+        "比分": "毕尔巴鄂竞技 2 - 3 葡萄牙体育",
         "场馆": "San Mamés",
         "城市": "Bilbao"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2744,14 +3669,21 @@
       "description": "博多/格林特 作客 马竞（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "马竞",
         "客场": "博多/格林特",
+        "比分": "马竞 1 - 2 博多/格林特",
         "场馆": "Riyadh Air Metropolitano",
         "城市": "Madrid"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2765,14 +3697,21 @@
       "description": "哥本哈根 作客 巴塞罗那（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "巴塞罗那",
         "客场": "哥本哈根",
+        "比分": "巴塞罗那 4 - 1 哥本哈根",
         "场馆": "Spotify Camp Nou",
         "城市": "Barcelona"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2786,14 +3725,21 @@
       "description": "比利亚雷亚尔 作客 勒沃库森（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "勒沃库森",
         "客场": "比利亚雷亚尔",
+        "比分": "勒沃库森 3 - 0 比利亚雷亚尔",
         "场馆": "BayArena",
         "城市": "Leverkusen"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2807,14 +3753,21 @@
       "description": "皇家马德里 作客 本菲卡（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "本菲卡",
         "客场": "皇家马德里",
+        "比分": "本菲卡 4 - 2 皇家马德里",
         "场馆": "Estádio da Luz",
         "城市": "Lisbon"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 2,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2828,14 +3781,21 @@
       "description": "国际米兰 作客 多特蒙德（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "多特蒙德",
         "客场": "国际米兰",
+        "比分": "多特蒙德 0 - 2 国际米兰",
         "场馆": "Signal Iduna Park",
         "城市": "Aue"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2849,14 +3809,21 @@
       "description": "马赛 作客 布鲁日（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "布鲁日",
         "客场": "马赛",
+        "比分": "布鲁日 3 - 0 马赛",
         "场馆": "Jan Breydel Stadium",
         "城市": "Brugge"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2870,14 +3837,21 @@
       "description": "热刺 作客 法兰克福（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "法兰克福",
         "客场": "热刺",
+        "比分": "法兰克福 0 - 2 热刺",
         "场馆": "Deutsche Bank Park",
         "城市": "Frankfurt"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2891,14 +3865,21 @@
       "description": "卡拉巴赫 作客 利物浦（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "利物浦",
         "客场": "卡拉巴赫",
+        "比分": "利物浦 6 - 0 卡拉巴赫",
         "场馆": "Anfield",
         "城市": "Liverpool"
+      },
+      "result": {
+        "home_score": 6,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2912,14 +3893,21 @@
       "description": "加拉塔萨雷 作客 曼城（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "曼城",
         "客场": "加拉塔萨雷",
+        "比分": "曼城 2 - 0 加拉塔萨雷",
         "场馆": "Etihad Stadium",
         "城市": "Manchester"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2933,14 +3921,21 @@
       "description": "切尔西 作客 那不勒斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "那不勒斯",
         "客场": "切尔西",
+        "比分": "那不勒斯 2 - 3 切尔西",
         "场馆": "Stadio Diego Armando Maradona",
         "城市": "Napoli"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -2954,14 +3949,21 @@
       "description": "布拉格斯拉维亚 作客 帕福斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "帕福斯",
         "客场": "布拉格斯拉维亚",
+        "比分": "帕福斯 4 - 1 布拉格斯拉维亚",
         "场馆": "Alphamega Stadium",
         "城市": "Kolossi"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -2975,14 +3977,21 @@
       "description": "纽卡斯尔联 作客 巴黎圣日耳曼（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "巴黎圣日耳曼",
         "客场": "纽卡斯尔联",
+        "比分": "巴黎圣日耳曼 1 - 1 纽卡斯尔联",
         "场馆": "Parc des Princes",
         "城市": "Paris"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -2996,14 +4005,21 @@
       "description": "拜仁慕尼黑 作客 埃因霍温（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "埃因霍温",
         "客场": "拜仁慕尼黑",
+        "比分": "埃因霍温 1 - 2 拜仁慕尼黑",
         "场馆": "Philips Stadion",
         "城市": "Eindhoven"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -3017,14 +4033,21 @@
       "description": "亚特兰大 作客 圣日洛瓦联（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "联赛阶段",
         "主场": "圣日洛瓦联",
         "客场": "亚特兰大",
+        "比分": "圣日洛瓦联 1 - 0 亚特兰大",
         "场馆": "Lotto Park",
         "城市": "Brussels"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3038,14 +4061,21 @@
       "description": "尤文图斯 作客 加拉塔萨雷（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "加拉塔萨雷",
         "客场": "尤文图斯",
+        "比分": "加拉塔萨雷 5 - 2 尤文图斯",
         "场馆": "RAMS Park",
         "城市": "Istanbul"
+      },
+      "result": {
+        "home_score": 5,
+        "away_score": 2,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3059,14 +4089,21 @@
       "description": "巴黎圣日耳曼 作客 摩纳哥（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "摩纳哥",
         "客场": "巴黎圣日耳曼",
+        "比分": "摩纳哥 2 - 3 巴黎圣日耳曼",
         "场馆": "Stade Louis II",
         "城市": "Monaco"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -3080,14 +4117,21 @@
       "description": "皇家马德里 作客 本菲卡（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "本菲卡",
         "客场": "皇家马德里",
+        "比分": "本菲卡 0 - 1 皇家马德里",
         "场馆": "Estádio da Luz",
         "城市": "Lisbon"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -3101,14 +4145,21 @@
       "description": "亚特兰大 作客 多特蒙德（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "多特蒙德",
         "客场": "亚特兰大",
+        "比分": "多特蒙德 2 - 0 亚特兰大",
         "场馆": "Signal Iduna Park",
         "城市": "Aue"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3122,14 +4173,21 @@
       "description": "纽卡斯尔联 作客 卡拉巴赫（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "卡拉巴赫",
         "客场": "纽卡斯尔联",
+        "比分": "卡拉巴赫 1 - 6 纽卡斯尔联",
         "场馆": "Tofiq Bahramov Republican Stadium",
         "城市": "Baku"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 6,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -3143,14 +4201,21 @@
       "description": "国际米兰 作客 博多/格林特（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "博多/格林特",
         "客场": "国际米兰",
+        "比分": "博多/格林特 3 - 1 国际米兰",
         "场馆": "Aspmyra Stadion",
         "城市": "Bodø/Glimt"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3164,14 +4229,21 @@
       "description": "马竞 作客 布鲁日（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "布鲁日",
         "客场": "马竞",
+        "比分": "布鲁日 3 - 3 马竞",
         "场馆": "Jan Breydel Stadium",
         "城市": "Brugge"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 3,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -3185,14 +4257,21 @@
       "description": "勒沃库森 作客 奥林匹亚科斯（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "奥林匹亚科斯",
         "客场": "勒沃库森",
+        "比分": "奥林匹亚科斯 0 - 2 勒沃库森",
         "场馆": "Georgios Karaiskakis Stadium",
         "城市": "Piraeus"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -3206,14 +4285,21 @@
       "description": "布鲁日 作客 马竞（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "马竞",
         "客场": "布鲁日",
+        "比分": "马竞 4 - 1 布鲁日",
         "场馆": "Riyadh Air Metropolitano",
         "城市": "Madrid"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3227,14 +4313,21 @@
       "description": "奥林匹亚科斯 作客 勒沃库森（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "勒沃库森",
         "客场": "奥林匹亚科斯",
+        "比分": "勒沃库森 0 - 0 奥林匹亚科斯",
         "场馆": "BayArena",
         "城市": "Leverkusen"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 0,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -3248,14 +4341,21 @@
       "description": "博多/格林特 作客 国际米兰（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "国际米兰",
         "客场": "博多/格林特",
+        "比分": "国际米兰 1 - 2 博多/格林特",
         "场馆": "San Siro",
         "城市": "Milano"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -3269,14 +4369,21 @@
       "description": "卡拉巴赫 作客 纽卡斯尔联（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "纽卡斯尔联",
         "客场": "卡拉巴赫",
+        "比分": "纽卡斯尔联 3 - 2 卡拉巴赫",
         "场馆": "St. James' Park",
         "城市": "Newcastle-upon-Tyne"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 2,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3290,14 +4397,21 @@
       "description": "多特蒙德 作客 亚特兰大（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "亚特兰大",
         "客场": "多特蒙德",
+        "比分": "亚特兰大 4 - 1 多特蒙德",
         "场馆": "New Balance Arena",
         "城市": "Bergamo"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3311,7 +4425,7 @@
       "description": "加拉塔萨雷 作客 尤文图斯（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
@@ -3332,14 +4446,21 @@
       "description": "摩纳哥 作客 巴黎圣日耳曼（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "巴黎圣日耳曼",
         "客场": "摩纳哥",
+        "比分": "巴黎圣日耳曼 2 - 2 摩纳哥",
         "场馆": "Parc des Princes",
         "城市": "Paris"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 2,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -3353,14 +4474,21 @@
       "description": "本菲卡 作客 皇家马德里（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "淘汰附加赛",
         "主场": "皇家马德里",
         "客场": "本菲卡",
+        "比分": "皇家马德里 2 - 1 本菲卡",
         "场馆": "Santiago Bernabéu",
         "城市": "Madrid"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3374,14 +4502,21 @@
       "description": "利物浦 作客 加拉塔萨雷（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "加拉塔萨雷",
         "客场": "利物浦",
+        "比分": "加拉塔萨雷 1 - 0 利物浦",
         "场馆": "RAMS Park",
         "城市": "Istanbul"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3395,14 +4530,21 @@
       "description": "拜仁慕尼黑 作客 亚特兰大（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "亚特兰大",
         "客场": "拜仁慕尼黑",
+        "比分": "亚特兰大 1 - 6 拜仁慕尼黑",
         "场馆": "New Balance Arena",
         "城市": "Bergamo"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 6,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -3416,14 +4558,21 @@
       "description": "热刺 作客 马竞（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "马竞",
         "客场": "热刺",
+        "比分": "马竞 5 - 2 热刺",
         "场馆": "Riyadh Air Metropolitano",
         "城市": "Madrid"
+      },
+      "result": {
+        "home_score": 5,
+        "away_score": 2,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3437,14 +4586,21 @@
       "description": "巴塞罗那 作客 纽卡斯尔联（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "纽卡斯尔联",
         "客场": "巴塞罗那",
+        "比分": "纽卡斯尔联 1 - 1 巴塞罗那",
         "场馆": "St. James' Park",
         "城市": "Newcastle-upon-Tyne"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -3458,14 +4614,21 @@
       "description": "阿森纳 作客 勒沃库森（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "勒沃库森",
         "客场": "阿森纳",
+        "比分": "勒沃库森 1 - 1 阿森纳",
         "场馆": "BayArena",
         "城市": "Leverkusen"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -3479,14 +4642,21 @@
       "description": "葡萄牙体育 作客 博多/格林特（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "博多/格林特",
         "客场": "葡萄牙体育",
+        "比分": "博多/格林特 3 - 0 葡萄牙体育",
         "场馆": "Aspmyra Stadion",
         "城市": "Bodø/Glimt"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3500,14 +4670,21 @@
       "description": "切尔西 作客 巴黎圣日耳曼（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "巴黎圣日耳曼",
         "客场": "切尔西",
+        "比分": "巴黎圣日耳曼 5 - 2 切尔西",
         "场馆": "Parc des Princes",
         "城市": "Paris"
+      },
+      "result": {
+        "home_score": 5,
+        "away_score": 2,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3521,14 +4698,21 @@
       "description": "曼城 作客 皇家马德里（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "皇家马德里",
         "客场": "曼城",
+        "比分": "皇家马德里 3 - 0 曼城",
         "场馆": "Santiago Bernabéu",
         "城市": "Madrid"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3542,7 +4726,7 @@
       "description": "博多/格林特 作客 葡萄牙体育（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
@@ -3563,14 +4747,21 @@
       "description": "勒沃库森 作客 阿森纳（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "阿森纳",
         "客场": "勒沃库森",
+        "比分": "阿森纳 2 - 0 勒沃库森",
         "场馆": "Emirates Stadium",
         "城市": "London"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3584,14 +4775,21 @@
       "description": "巴黎圣日耳曼 作客 切尔西（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "切尔西",
         "客场": "巴黎圣日耳曼",
+        "比分": "切尔西 0 - 3 巴黎圣日耳曼",
         "场馆": "Stamford Bridge",
         "城市": "London"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -3605,14 +4803,21 @@
       "description": "皇家马德里 作客 曼城（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "曼城",
         "客场": "皇家马德里",
+        "比分": "曼城 1 - 2 皇家马德里",
         "场馆": "Etihad Stadium",
         "城市": "Manchester"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -3626,14 +4831,21 @@
       "description": "纽卡斯尔联 作客 巴塞罗那（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "巴塞罗那",
         "客场": "纽卡斯尔联",
+        "比分": "巴塞罗那 7 - 2 纽卡斯尔联",
         "场馆": "Spotify Camp Nou",
         "城市": "Barcelona"
+      },
+      "result": {
+        "home_score": 7,
+        "away_score": 2,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3647,14 +4859,21 @@
       "description": "亚特兰大 作客 拜仁慕尼黑（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "拜仁慕尼黑",
         "客场": "亚特兰大",
+        "比分": "拜仁慕尼黑 4 - 1 亚特兰大",
         "场馆": "Allianz Arena",
         "城市": "München"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3668,14 +4887,21 @@
       "description": "加拉塔萨雷 作客 利物浦（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "利物浦",
         "客场": "加拉塔萨雷",
+        "比分": "利物浦 4 - 0 加拉塔萨雷",
         "场馆": "Anfield",
         "城市": "Liverpool"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3689,14 +4915,21 @@
       "description": "马竞 作客 热刺（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "十六强赛",
         "主场": "热刺",
         "客场": "马竞",
+        "比分": "热刺 3 - 2 马竞",
         "场馆": "Tottenham Hotspur Stadium",
         "城市": "London"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 2,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3710,14 +4943,21 @@
       "description": "拜仁慕尼黑 作客 皇家马德里（欧冠 2025-26 赛季 四分之一决赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "四分之一决赛",
         "主场": "皇家马德里",
         "客场": "拜仁慕尼黑",
+        "比分": "皇家马德里 1 - 2 拜仁慕尼黑",
         "场馆": "Santiago Bernabéu",
         "城市": "Madrid"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -3731,14 +4971,21 @@
       "description": "阿森纳 作客 葡萄牙体育（欧冠 2025-26 赛季 四分之一决赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "四分之一决赛",
         "主场": "葡萄牙体育",
         "客场": "阿森纳",
+        "比分": "葡萄牙体育 0 - 1 阿森纳",
         "场馆": "Estádio José Alvalade",
         "城市": "Lisbon"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -3752,14 +4999,21 @@
       "description": "马竞 作客 巴塞罗那（欧冠 2025-26 赛季 四分之一决赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "四分之一决赛",
         "主场": "巴塞罗那",
         "客场": "马竞",
+        "比分": "巴塞罗那 0 - 2 马竞",
         "场馆": "Spotify Camp Nou",
         "城市": "Barcelona"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -3773,14 +5027,21 @@
       "description": "利物浦 作客 巴黎圣日耳曼（欧冠 2025-26 赛季 四分之一决赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "四分之一决赛",
         "主场": "巴黎圣日耳曼",
         "客场": "利物浦",
+        "比分": "巴黎圣日耳曼 2 - 0 利物浦",
         "场馆": "Parc des Princes",
         "城市": "Paris"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3794,14 +5055,21 @@
       "description": "巴塞罗那 作客 马竞（欧冠 2025-26 赛季 四分之一决赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "四分之一决赛",
         "主场": "马竞",
         "客场": "巴塞罗那",
+        "比分": "马竞 1 - 2 巴塞罗那",
         "场馆": "Riyadh Air Metropolitano",
         "城市": "Madrid"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -3815,14 +5083,21 @@
       "description": "巴黎圣日耳曼 作客 利物浦（欧冠 2025-26 赛季 四分之一决赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "四分之一决赛",
         "主场": "利物浦",
         "客场": "巴黎圣日耳曼",
+        "比分": "利物浦 0 - 2 巴黎圣日耳曼",
         "场馆": "Anfield",
         "城市": "Liverpool"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -3836,14 +5111,21 @@
       "description": "葡萄牙体育 作客 阿森纳（欧冠 2025-26 赛季 四分之一决赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "四分之一决赛",
         "主场": "阿森纳",
         "客场": "葡萄牙体育",
+        "比分": "阿森纳 0 - 0 葡萄牙体育",
         "场馆": "Emirates Stadium",
         "城市": "London"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 0,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -3857,14 +5139,21 @@
       "description": "皇家马德里 作客 拜仁慕尼黑（欧冠 2025-26 赛季 四分之一决赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "四分之一决赛",
         "主场": "拜仁慕尼黑",
         "客场": "皇家马德里",
+        "比分": "拜仁慕尼黑 4 - 3 皇家马德里",
         "场馆": "Allianz Arena",
         "城市": "München"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 3,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3878,14 +5167,21 @@
       "description": "拜仁慕尼黑 作客 巴黎圣日耳曼（欧冠 2025-26 赛季 半决赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "半决赛",
         "主场": "巴黎圣日耳曼",
         "客场": "拜仁慕尼黑",
+        "比分": "巴黎圣日耳曼 5 - 4 拜仁慕尼黑",
         "场馆": "Parc des Princes",
         "城市": "Paris"
+      },
+      "result": {
+        "home_score": 5,
+        "away_score": 4,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3899,14 +5195,21 @@
       "description": "阿森纳 作客 马竞（欧冠 2025-26 赛季 半决赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "半决赛",
         "主场": "马竞",
         "客场": "阿森纳",
+        "比分": "马竞 1 - 1 阿森纳",
         "场馆": "Riyadh Air Metropolitano",
         "城市": "Madrid"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -3920,14 +5223,21 @@
       "description": "马竞 作客 阿森纳（欧冠 2025-26 赛季 半决赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "半决赛",
         "主场": "阿森纳",
         "客场": "马竞",
+        "比分": "阿森纳 1 - 0 马竞",
         "场馆": "Emirates Stadium",
         "城市": "London"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -3941,14 +5251,21 @@
       "description": "巴黎圣日耳曼 作客 拜仁慕尼黑（欧冠 2025-26 赛季 半决赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "半决赛",
         "主场": "拜仁慕尼黑",
         "客场": "巴黎圣日耳曼",
+        "比分": "拜仁慕尼黑 1 - 1 巴黎圣日耳曼",
         "场馆": "Allianz Arena",
         "城市": "München"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -3962,7 +5279,7 @@
       "description": "阿森纳 作客 巴黎圣日耳曼（欧冠 2025-26 赛季 决赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-05-30",
       "verified_by": "auto",
       "details": {
         "阶段": "决赛",
@@ -3972,6 +5289,5 @@
         "城市": "Budapest"
       }
     }
-  ],
-  "last_updated": "2026-05-29"
+  ]
 }

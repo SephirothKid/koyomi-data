@@ -8,6 +8,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url))
 const ROOT = resolve(__dirname, '..')
 const EVENTS_DIR = join(ROOT, 'events')
 const ICAL_DIR = join(ROOT, 'ical')
+const SEASONAL_FOOTBALL_SOURCE_IDS = new Set(['epl', 'bundesliga', 'laliga', 'seriea', 'ligue1', 'ucl', 'uel', 'uecl'])
 
 mkdirSync(ICAL_DIR, { recursive: true })
 
@@ -44,6 +45,29 @@ function tzOffset(tz) {
   return offsets[tz] ?? '+08:00'
 }
 
+function currentSeasonYear() {
+  const now = new Date()
+  return now.getMonth() < 6 ? now.getFullYear() - 1 : now.getFullYear()
+}
+
+function recentCompletedCutoff(days = 30) {
+  const d = new Date()
+  d.setDate(d.getDate() - days)
+  return d.toISOString().slice(0, 10)
+}
+
+function eventsForCalendar(source) {
+  const events = source.events ?? []
+  if (!SEASONAL_FOOTBALL_SOURCE_IDS.has(source.id)) return events
+
+  const season = currentSeasonYear()
+  const cutoff = recentCompletedCutoff()
+  return events.filter(event =>
+    event.year >= season ||
+    (event.status === 'completed' && event.date >= cutoff),
+  )
+}
+
 const files = collectJsonFiles(EVENTS_DIR)
 let totalEvents = 0
 
@@ -58,7 +82,9 @@ for (const file of files) {
     timezone: source.timezone ?? 'Asia/Shanghai',
   })
 
-  for (const event of source.events ?? []) {
+  const calendarEvents = eventsForCalendar(source)
+
+  for (const event of calendarEvents) {
     const tz = event.timezone ?? 'Asia/Shanghai'
     const offset = tzOffset(tz)
     const hasTime = !!event.time
@@ -93,6 +119,9 @@ for (const file of files) {
       summary,
       description: [
         event.description ?? '',
+        event.result && event.details?.['主场'] && event.details?.['客场']
+          ? `比分: ${event.details['主场']} ${event.result.home_score} - ${event.result.away_score} ${event.details['客场']}`
+          : '',
         event.games?.length
           ? '本周游戏：\n' + event.games.map((g, i) => `${i + 1}. ${g.title}${g.original_price ? ` (原价 ${g.original_price})` : ''}`).join('\n')
           : '',
@@ -109,7 +138,7 @@ for (const file of files) {
 
   const outPath = join(ICAL_DIR, `${source.id}.ics`)
   writeFileSync(outPath, cal.toString(), 'utf8')
-  console.log(`✓ ${source.id}.ics (${source.events?.length ?? 0} events)`)
+  console.log(`✓ ${source.id}.ics (${calendarEvents.length}/${source.events?.length ?? 0} events)`)
 }
 
 console.log(`\n✓ Generated ${files.length} .ics files, ${totalEvents} events total`)
