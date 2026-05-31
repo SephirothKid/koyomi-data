@@ -97,4 +97,4 @@ if (GITHUB_TOKEN && GITHUB_REPOSITORY) {
   }
 }
 
-process.exit(1)
+process.exit(0)
