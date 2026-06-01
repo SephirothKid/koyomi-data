@@ -1,7 +1,18 @@
 {
   "id": "cn-public-holidays",
-  "name": "cn-public-holidays",
+  "name": "中国大陆节假日",
+  "name_en": "China Public Holidays",
   "category": "holidays",
+  "subcategory": "法定节假日",
+  "description": "中国大陆法定节假日安排，自动同步国务院发布的放假通知，包含调休补班信息。",
+  "icon": "🇨🇳",
+  "tags": ["节假日", "放假", "调休", "中国"],
+  "maintainer": "official",
+  "source_url": "https://www.gov.cn/",
+  "subscriber_count": 45200,
+  "rating": 4.6,
+  "rating_count": 1200,
+  "last_updated": "2026-06-01",
   "events": [
     {
       "id": "cn-holiday-2025-new-year",
