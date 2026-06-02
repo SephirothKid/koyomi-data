@@ -16,7 +16,7 @@
   "subscriber_count": 0,
   "rating": 0,
   "rating_count": 0,
-  "last_updated": "2026-05-30",
+  "last_updated": "2026-06-02",
   "events": [
     {
       "id": "ligue1-2025-746420",
@@ -29,8 +29,20 @@
       "description": "马赛 作客 雷恩（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        },
+        "away": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        }
+      },
       "details": {
         "主场": "雷恩",
         "客场": "马赛",
@@ -56,8 +68,20 @@
       "description": "里昂 作客 朗斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        },
+        "away": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        }
+      },
       "details": {
         "主场": "朗斯",
         "客场": "里昂",
@@ -83,8 +107,20 @@
       "description": "勒阿弗尔 作客 摩纳哥（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        },
+        "away": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        }
+      },
       "details": {
         "主场": "摩纳哥",
         "客场": "勒阿弗尔",
@@ -110,8 +146,20 @@
       "description": "图卢兹 作客 尼斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        },
+        "away": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        }
+      },
       "details": {
         "主场": "尼斯",
         "客场": "图卢兹",
@@ -137,8 +185,20 @@
       "description": "里尔 作客 布雷斯特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        },
+        "away": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        }
+      },
       "details": {
         "主场": "布雷斯特",
         "客场": "里尔",
@@ -164,8 +224,20 @@
       "description": "洛里昂 作客 欧塞尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        },
+        "away": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        }
+      },
       "details": {
         "主场": "欧塞尔",
         "客场": "洛里昂",
@@ -191,8 +263,20 @@
       "description": "巴黎FC 作客 昂热（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        },
+        "away": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        }
+      },
       "details": {
         "主场": "昂热",
         "客场": "巴黎FC",
@@ -218,8 +302,20 @@
       "description": "斯特拉斯堡 作客 梅斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        },
+        "away": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        }
+      },
       "details": {
         "主场": "梅斯",
         "客场": "斯特拉斯堡",
@@ -245,8 +341,20 @@
       "description": "巴黎圣日耳曼 作客 南特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        },
+        "away": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        }
+      },
       "details": {
         "主场": "南特",
         "客场": "巴黎圣日耳曼",
@@ -272,8 +380,20 @@
       "description": "昂热 作客 巴黎圣日耳曼（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        },
+        "away": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        }
+      },
       "details": {
         "主场": "巴黎圣日耳曼",
         "客场": "昂热",
@@ -299,8 +419,20 @@
       "description": "巴黎FC 作客 马赛（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        },
+        "away": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        }
+      },
       "details": {
         "主场": "马赛",
         "客场": "巴黎FC",
@@ -326,8 +458,20 @@
       "description": "欧塞尔 作客 尼斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        },
+        "away": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        }
+      },
       "details": {
         "主场": "尼斯",
         "客场": "欧塞尔",
@@ -353,8 +497,20 @@
       "description": "梅斯 作客 里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        },
+        "away": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        }
+      },
       "details": {
         "主场": "里昂",
         "客场": "梅斯",
@@ -380,8 +536,20 @@
       "description": "雷恩 作客 洛里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        },
+        "away": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        }
+      },
       "details": {
         "主场": "洛里昂",
         "客场": "雷恩",
@@ -407,8 +575,20 @@
       "description": "朗斯 作客 勒阿弗尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        },
+        "away": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        }
+      },
       "details": {
         "主场": "勒阿弗尔",
         "客场": "朗斯",
@@ -434,8 +614,20 @@
       "description": "南特 作客 斯特拉斯堡（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        },
+        "away": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        }
+      },
       "details": {
         "主场": "斯特拉斯堡",
         "客场": "南特",
@@ -461,8 +653,20 @@
       "description": "布雷斯特 作客 图卢兹（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        },
+        "away": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        }
+      },
       "details": {
         "主场": "图卢兹",
         "客场": "布雷斯特",
@@ -488,8 +692,20 @@
       "description": "摩纳哥 作客 里尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        },
+        "away": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        }
+      },
       "details": {
         "主场": "里尔",
         "客场": "摩纳哥",
@@ -515,8 +731,20 @@
       "description": "布雷斯特 作客 朗斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        },
+        "away": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        }
+      },
       "details": {
         "主场": "朗斯",
         "客场": "布雷斯特",
@@ -542,8 +770,20 @@
       "description": "里尔 作客 洛里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        },
+        "away": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        }
+      },
       "details": {
         "主场": "洛里昂",
         "客场": "里尔",
@@ -569,8 +809,20 @@
       "description": "欧塞尔 作客 南特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        },
+        "away": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        }
+      },
       "details": {
         "主场": "南特",
         "客场": "欧塞尔",
@@ -596,8 +848,20 @@
       "description": "巴黎圣日耳曼 作客 图卢兹（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        },
+        "away": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        }
+      },
       "details": {
         "主场": "图卢兹",
         "客场": "巴黎圣日耳曼",
@@ -623,8 +887,20 @@
       "description": "雷恩 作客 昂热（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        },
+        "away": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        }
+      },
       "details": {
         "主场": "昂热",
         "客场": "雷恩",
@@ -650,8 +926,20 @@
       "description": "斯特拉斯堡 作客 摩纳哥（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        },
+        "away": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        }
+      },
       "details": {
         "主场": "摩纳哥",
         "客场": "斯特拉斯堡",
@@ -677,8 +965,20 @@
       "description": "尼斯 作客 勒阿弗尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        },
+        "away": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        }
+      },
       "details": {
         "主场": "勒阿弗尔",
         "客场": "尼斯",
@@ -704,8 +1004,20 @@
       "description": "梅斯 作客 巴黎FC（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        },
+        "away": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        }
+      },
       "details": {
         "主场": "巴黎FC",
         "客场": "梅斯",
@@ -731,8 +1043,20 @@
       "description": "马赛 作客 里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        },
+        "away": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        }
+      },
       "details": {
         "主场": "里昂",
         "客场": "马赛",
@@ -758,8 +1082,20 @@
       "description": "洛里昂 作客 马赛（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        },
+        "away": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        }
+      },
       "details": {
         "主场": "马赛",
         "客场": "洛里昂",
@@ -785,8 +1121,20 @@
       "description": "南特 作客 尼斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        },
+        "away": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        }
+      },
       "details": {
         "主场": "尼斯",
         "客场": "南特",
@@ -812,8 +1160,20 @@
       "description": "摩纳哥 作客 欧塞尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        },
+        "away": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        }
+      },
       "details": {
         "主场": "欧塞尔",
         "客场": "摩纳哥",
@@ -839,8 +1199,20 @@
       "description": "图卢兹 作客 里尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        },
+        "away": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        }
+      },
       "details": {
         "主场": "里尔",
         "客场": "图卢兹",
@@ -866,8 +1238,20 @@
       "description": "巴黎FC 作客 布雷斯特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        },
+        "away": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        }
+      },
       "details": {
         "主场": "布雷斯特",
         "客场": "巴黎FC",
@@ -893,8 +1277,20 @@
       "description": "昂热 作客 梅斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        },
+        "away": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        }
+      },
       "details": {
         "主场": "梅斯",
         "客场": "昂热",
@@ -920,8 +1316,20 @@
       "description": "朗斯 作客 巴黎圣日耳曼（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        },
+        "away": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        }
+      },
       "details": {
         "主场": "巴黎圣日耳曼",
         "客场": "朗斯",
@@ -947,8 +1355,20 @@
       "description": "勒阿弗尔 作客 斯特拉斯堡（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        },
+        "away": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        }
+      },
       "details": {
         "主场": "斯特拉斯堡",
         "客场": "勒阿弗尔",
@@ -974,8 +1394,20 @@
       "description": "里昂 作客 雷恩（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        },
+        "away": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        }
+      },
       "details": {
         "主场": "雷恩",
         "客场": "里昂",
@@ -1001,8 +1433,20 @@
       "description": "昂热 作客 里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        },
+        "away": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        }
+      },
       "details": {
         "主场": "里昂",
         "客场": "昂热",
@@ -1028,8 +1472,20 @@
       "description": "雷恩 作客 南特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        },
+        "away": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        }
+      },
       "details": {
         "主场": "南特",
         "客场": "雷恩",
@@ -1055,8 +1511,20 @@
       "description": "尼斯 作客 布雷斯特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        },
+        "away": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        }
+      },
       "details": {
         "主场": "布雷斯特",
         "客场": "尼斯",
@@ -1082,8 +1550,20 @@
       "description": "里尔 作客 朗斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        },
+        "away": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        }
+      },
       "details": {
         "主场": "朗斯",
         "客场": "里尔",
@@ -1109,8 +1589,20 @@
       "description": "斯特拉斯堡 作客 巴黎FC（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        },
+        "away": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        }
+      },
       "details": {
         "主场": "巴黎FC",
         "客场": "斯特拉斯堡",
@@ -1136,8 +1628,20 @@
       "description": "图卢兹 作客 欧塞尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        },
+        "away": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        }
+      },
       "details": {
         "主场": "欧塞尔",
         "客场": "图卢兹",
@@ -1163,8 +1667,20 @@
       "description": "梅斯 作客 摩纳哥（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        },
+        "away": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        }
+      },
       "details": {
         "主场": "摩纳哥",
         "客场": "梅斯",
@@ -1190,8 +1706,20 @@
       "description": "洛里昂 作客 勒阿弗尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        },
+        "away": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        }
+      },
       "details": {
         "主场": "勒阿弗尔",
         "客场": "洛里昂",
@@ -1217,8 +1745,20 @@
       "description": "巴黎圣日耳曼 作客 马赛（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        },
+        "away": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        }
+      },
       "details": {
         "主场": "马赛",
         "客场": "巴黎圣日耳曼",
@@ -1244,8 +1784,20 @@
       "description": "马赛 作客 斯特拉斯堡（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        },
+        "away": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        }
+      },
       "details": {
         "主场": "斯特拉斯堡",
         "客场": "马赛",
@@ -1271,8 +1823,20 @@
       "description": "摩纳哥 作客 洛里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        },
+        "away": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        }
+      },
       "details": {
         "主场": "洛里昂",
         "客场": "摩纳哥",
@@ -1298,8 +1862,20 @@
       "description": "南特 作客 图卢兹（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        },
+        "away": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        }
+      },
       "details": {
         "主场": "图卢兹",
         "客场": "南特",
@@ -1325,8 +1901,20 @@
       "description": "欧塞尔 作客 巴黎圣日耳曼（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        },
+        "away": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        }
+      },
       "details": {
         "主场": "巴黎圣日耳曼",
         "客场": "欧塞尔",
@@ -1352,8 +1940,20 @@
       "description": "巴黎FC 作客 尼斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        },
+        "away": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        }
+      },
       "details": {
         "主场": "尼斯",
         "客场": "巴黎FC",
@@ -1379,8 +1979,20 @@
       "description": "布雷斯特 作客 昂热（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        },
+        "away": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        }
+      },
       "details": {
         "主场": "昂热",
         "客场": "布雷斯特",
@@ -1406,8 +2018,20 @@
       "description": "里昂 作客 里尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        },
+        "away": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        }
+      },
       "details": {
         "主场": "里尔",
         "客场": "里昂",
@@ -1433,8 +2057,20 @@
       "description": "勒阿弗尔 作客 梅斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        },
+        "away": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        }
+      },
       "details": {
         "主场": "梅斯",
         "客场": "勒阿弗尔",
@@ -1460,8 +2096,20 @@
       "description": "朗斯 作客 雷恩（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        },
+        "away": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        }
+      },
       "details": {
         "主场": "雷恩",
         "客场": "朗斯",
@@ -1487,8 +2135,20 @@
       "description": "洛里昂 作客 巴黎FC（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        },
+        "away": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        }
+      },
       "details": {
         "主场": "巴黎FC",
         "客场": "洛里昂",
@@ -1514,8 +2174,20 @@
       "description": "马赛 作客 梅斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        },
+        "away": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        }
+      },
       "details": {
         "主场": "梅斯",
         "客场": "马赛",
@@ -1541,8 +2213,20 @@
       "description": "南特 作客 布雷斯特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        },
+        "away": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        }
+      },
       "details": {
         "主场": "布雷斯特",
         "客场": "南特",
@@ -1568,8 +2252,20 @@
       "description": "朗斯 作客 欧塞尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        },
+        "away": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        }
+      },
       "details": {
         "主场": "欧塞尔",
         "客场": "朗斯",
@@ -1595,8 +2291,20 @@
       "description": "图卢兹 作客 里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        },
+        "away": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        }
+      },
       "details": {
         "主场": "里昂",
         "客场": "图卢兹",
@@ -1622,8 +2330,20 @@
       "description": "尼斯 作客 摩纳哥（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        },
+        "away": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        }
+      },
       "details": {
         "主场": "摩纳哥",
         "客场": "尼斯",
@@ -1649,8 +2369,20 @@
       "description": "雷恩 作客 勒阿弗尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        },
+        "away": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        }
+      },
       "details": {
         "主场": "勒阿弗尔",
         "客场": "雷恩",
@@ -1676,8 +2408,20 @@
       "description": "昂热 作客 斯特拉斯堡（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        },
+        "away": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        }
+      },
       "details": {
         "主场": "斯特拉斯堡",
         "客场": "昂热",
@@ -1703,8 +2447,20 @@
       "description": "巴黎圣日耳曼 作客 里尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        },
+        "away": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        }
+      },
       "details": {
         "主场": "里尔",
         "客场": "巴黎圣日耳曼",
@@ -1730,8 +2486,20 @@
       "description": "斯特拉斯堡 作客 巴黎圣日耳曼（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        },
+        "away": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        }
+      },
       "details": {
         "主场": "巴黎圣日耳曼",
         "客场": "斯特拉斯堡",
@@ -1757,8 +2525,20 @@
       "description": "里昂 作客 尼斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        },
+        "away": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        }
+      },
       "details": {
         "主场": "尼斯",
         "客场": "里昂",
@@ -1784,8 +2564,20 @@
       "description": "摩纳哥 作客 昂热（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        },
+        "away": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        }
+      },
       "details": {
         "主场": "昂热",
         "客场": "摩纳哥",
@@ -1811,8 +2603,20 @@
       "description": "勒阿弗尔 作客 马赛（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        },
+        "away": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        }
+      },
       "details": {
         "主场": "马赛",
         "客场": "勒阿弗尔",
@@ -1838,8 +2642,20 @@
       "description": "巴黎FC 作客 朗斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        },
+        "away": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        }
+      },
       "details": {
         "主场": "朗斯",
         "客场": "巴黎FC",
@@ -1865,8 +2681,20 @@
       "description": "布雷斯特 作客 洛里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        },
+        "away": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        }
+      },
       "details": {
         "主场": "洛里昂",
         "客场": "布雷斯特",
@@ -1892,8 +2720,20 @@
       "description": "欧塞尔 作客 雷恩（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        },
+        "away": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        }
+      },
       "details": {
         "主场": "雷恩",
         "客场": "欧塞尔",
@@ -1919,8 +2759,20 @@
       "description": "梅斯 作客 图卢兹（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        },
+        "away": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        }
+      },
       "details": {
         "主场": "图卢兹",
         "客场": "梅斯",
@@ -1946,8 +2798,20 @@
       "description": "里尔 作客 南特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        },
+        "away": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        }
+      },
       "details": {
         "主场": "南特",
         "客场": "里尔",
@@ -1973,8 +2837,20 @@
       "description": "南特 作客 巴黎FC（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        },
+        "away": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        }
+      },
       "details": {
         "主场": "巴黎FC",
         "客场": "南特",
@@ -2000,8 +2876,20 @@
       "description": "巴黎圣日耳曼 作客 布雷斯特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        },
+        "away": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        }
+      },
       "details": {
         "主场": "布雷斯特",
         "客场": "巴黎圣日耳曼",
@@ -2027,8 +2915,20 @@
       "description": "图卢兹 作客 摩纳哥（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        },
+        "away": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        }
+      },
       "details": {
         "主场": "摩纳哥",
         "客场": "图卢兹",
@@ -2054,8 +2954,20 @@
       "description": "马赛 作客 朗斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        },
+        "away": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        }
+      },
       "details": {
         "主场": "朗斯",
         "客场": "马赛",
@@ -2081,8 +2993,20 @@
       "description": "梅斯 作客 里尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        },
+        "away": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        }
+      },
       "details": {
         "主场": "里尔",
         "客场": "梅斯",
@@ -2108,8 +3032,20 @@
       "description": "勒阿弗尔 作客 欧塞尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        },
+        "away": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        }
+      },
       "details": {
         "主场": "欧塞尔",
         "客场": "勒阿弗尔",
@@ -2135,8 +3071,20 @@
       "description": "洛里昂 作客 昂热（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        },
+        "away": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        }
+      },
       "details": {
         "主场": "昂热",
         "客场": "洛里昂",
@@ -2162,8 +3110,20 @@
       "description": "尼斯 作客 雷恩（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        },
+        "away": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        }
+      },
       "details": {
         "主场": "雷恩",
         "客场": "尼斯",
@@ -2189,8 +3149,20 @@
       "description": "斯特拉斯堡 作客 里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        },
+        "away": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        }
+      },
       "details": {
         "主场": "里昂",
         "客场": "斯特拉斯堡",
@@ -2216,8 +3188,20 @@
       "description": "布雷斯特 作客 勒阿弗尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        },
+        "away": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        }
+      },
       "details": {
         "主场": "勒阿弗尔",
         "客场": "布雷斯特",
@@ -2243,8 +3227,20 @@
       "description": "巴黎圣日耳曼 作客 洛里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        },
+        "away": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        }
+      },
       "details": {
         "主场": "洛里昂",
         "客场": "巴黎圣日耳曼",
@@ -2270,8 +3266,20 @@
       "description": "朗斯 作客 梅斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        },
+        "away": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        }
+      },
       "details": {
         "主场": "梅斯",
         "客场": "朗斯",
@@ -2297,8 +3305,20 @@
       "description": "里尔 作客 尼斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        },
+        "away": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        }
+      },
       "details": {
         "主场": "尼斯",
         "客场": "里尔",
@@ -2324,8 +3344,20 @@
       "description": "昂热 作客 马赛（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        },
+        "away": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        }
+      },
       "details": {
         "主场": "马赛",
         "客场": "昂热",
@@ -2351,8 +3383,20 @@
       "description": "摩纳哥 作客 南特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        },
+        "away": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        }
+      },
       "details": {
         "主场": "南特",
         "客场": "摩纳哥",
@@ -2378,8 +3422,20 @@
       "description": "里昂 作客 巴黎FC（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        },
+        "away": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        }
+      },
       "details": {
         "主场": "巴黎FC",
         "客场": "里昂",
@@ -2405,8 +3461,20 @@
       "description": "欧塞尔 作客 斯特拉斯堡（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        },
+        "away": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        }
+      },
       "details": {
         "主场": "斯特拉斯堡",
         "客场": "欧塞尔",
@@ -2432,8 +3500,20 @@
       "description": "雷恩 作客 图卢兹（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        },
+        "away": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        }
+      },
       "details": {
         "主场": "图卢兹",
         "客场": "雷恩",
@@ -2459,8 +3539,20 @@
       "description": "尼斯 作客 巴黎圣日耳曼（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        },
+        "away": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        }
+      },
       "details": {
         "主场": "巴黎圣日耳曼",
         "客场": "尼斯",
@@ -2486,8 +3578,20 @@
       "description": "巴黎FC 作客 摩纳哥（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        },
+        "away": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        }
+      },
       "details": {
         "主场": "摩纳哥",
         "客场": "巴黎FC",
@@ -2513,8 +3617,20 @@
       "description": "马赛 作客 欧塞尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        },
+        "away": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        }
+      },
       "details": {
         "主场": "欧塞尔",
         "客场": "马赛",
@@ -2540,8 +3656,20 @@
       "description": "斯特拉斯堡 作客 雷恩（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        },
+        "away": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        }
+      },
       "details": {
         "主场": "雷恩",
         "客场": "斯特拉斯堡",
@@ -2567,8 +3695,20 @@
       "description": "洛里昂 作客 朗斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        },
+        "away": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        }
+      },
       "details": {
         "主场": "朗斯",
         "客场": "洛里昂",
@@ -2594,8 +3734,20 @@
       "description": "昂热 作客 里尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        },
+        "away": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        }
+      },
       "details": {
         "主场": "里尔",
         "客场": "昂热",
@@ -2621,8 +3773,20 @@
       "description": "梅斯 作客 南特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        },
+        "away": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        }
+      },
       "details": {
         "主场": "南特",
         "客场": "梅斯",
@@ -2648,8 +3812,20 @@
       "description": "勒阿弗尔 作客 图卢兹（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        },
+        "away": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        }
+      },
       "details": {
         "主场": "图卢兹",
         "客场": "勒阿弗尔",
@@ -2675,8 +3851,20 @@
       "description": "里昂 作客 布雷斯特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        },
+        "away": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        }
+      },
       "details": {
         "主场": "布雷斯特",
         "客场": "里昂",
@@ -2702,8 +3890,20 @@
       "description": "雷恩 作客 巴黎FC（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        },
+        "away": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        }
+      },
       "details": {
         "主场": "巴黎FC",
         "客场": "雷恩",
@@ -2729,8 +3929,20 @@
       "description": "布雷斯特 作客 马赛（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        },
+        "away": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        }
+      },
       "details": {
         "主场": "马赛",
         "客场": "布雷斯特",
@@ -2756,8 +3968,20 @@
       "description": "南特 作客 勒阿弗尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        },
+        "away": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        }
+      },
       "details": {
         "主场": "勒阿弗尔",
         "客场": "南特",
@@ -2783,8 +4007,20 @@
       "description": "朗斯 作客 摩纳哥（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        },
+        "away": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        }
+      },
       "details": {
         "主场": "摩纳哥",
         "客场": "朗斯",
@@ -2810,8 +4046,20 @@
       "description": "图卢兹 作客 洛里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        },
+        "away": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        }
+      },
       "details": {
         "主场": "洛里昂",
         "客场": "图卢兹",
@@ -2837,8 +4085,20 @@
       "description": "欧塞尔 作客 昂热（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        },
+        "away": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        }
+      },
       "details": {
         "主场": "昂热",
         "客场": "欧塞尔",
@@ -2864,8 +4124,20 @@
       "description": "尼斯 作客 梅斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        },
+        "away": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        }
+      },
       "details": {
         "主场": "梅斯",
         "客场": "尼斯",
@@ -2891,8 +4163,20 @@
       "description": "里尔 作客 斯特拉斯堡（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        },
+        "away": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        }
+      },
       "details": {
         "主场": "斯特拉斯堡",
         "客场": "里尔",
@@ -2918,8 +4202,20 @@
       "description": "巴黎圣日耳曼 作客 里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        },
+        "away": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        }
+      },
       "details": {
         "主场": "里昂",
         "客场": "巴黎圣日耳曼",
@@ -2945,8 +4241,20 @@
       "description": "马赛 作客 尼斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        },
+        "away": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        }
+      },
       "details": {
         "主场": "尼斯",
         "客场": "马赛",
@@ -2972,8 +4280,20 @@
       "description": "斯特拉斯堡 作客 朗斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        },
+        "away": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        }
+      },
       "details": {
         "主场": "朗斯",
         "客场": "斯特拉斯堡",
@@ -2999,8 +4319,20 @@
       "description": "摩纳哥 作客 雷恩（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        },
+        "away": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        }
+      },
       "details": {
         "主场": "雷恩",
         "客场": "摩纳哥",
@@ -3026,8 +4358,20 @@
       "description": "勒阿弗尔 作客 巴黎圣日耳曼（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        },
+        "away": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        }
+      },
       "details": {
         "主场": "巴黎圣日耳曼",
         "客场": "勒阿弗尔",
@@ -3053,8 +4397,20 @@
       "description": "里昂 作客 欧塞尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        },
+        "away": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        }
+      },
       "details": {
         "主场": "欧塞尔",
         "客场": "里昂",
@@ -3080,8 +4436,20 @@
       "description": "梅斯 作客 布雷斯特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        },
+        "away": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        }
+      },
       "details": {
         "主场": "布雷斯特",
         "客场": "梅斯",
@@ -3107,8 +4475,20 @@
       "description": "洛里昂 作客 南特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        },
+        "away": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        }
+      },
       "details": {
         "主场": "南特",
         "客场": "洛里昂",
@@ -3134,8 +4514,20 @@
       "description": "昂热 作客 图卢兹（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        },
+        "away": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        }
+      },
       "details": {
         "主场": "图卢兹",
         "客场": "昂热",
@@ -3161,8 +4553,20 @@
       "description": "巴黎FC 作客 里尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        },
+        "away": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        }
+      },
       "details": {
         "主场": "里尔",
         "客场": "巴黎FC",
@@ -3188,8 +4592,20 @@
       "description": "雷恩 作客 梅斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        },
+        "away": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        }
+      },
       "details": {
         "主场": "梅斯",
         "客场": "雷恩",
@@ -3215,8 +4631,20 @@
       "description": "巴黎圣日耳曼 作客 摩纳哥（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        },
+        "away": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        }
+      },
       "details": {
         "主场": "摩纳哥",
         "客场": "巴黎圣日耳曼",
@@ -3242,8 +4670,20 @@
       "description": "欧塞尔 作客 巴黎FC（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        },
+        "away": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        }
+      },
       "details": {
         "主场": "巴黎FC",
         "客场": "欧塞尔",
@@ -3269,8 +4709,20 @@
       "description": "图卢兹 作客 马赛（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        },
+        "away": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        }
+      },
       "details": {
         "主场": "马赛",
         "客场": "图卢兹",
@@ -3296,8 +4748,20 @@
       "description": "布雷斯特 作客 斯特拉斯堡（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        },
+        "away": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        }
+      },
       "details": {
         "主场": "斯特拉斯堡",
         "客场": "布雷斯特",
@@ -3323,8 +4787,20 @@
       "description": "朗斯 作客 昂热（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        },
+        "away": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        }
+      },
       "details": {
         "主场": "昂热",
         "客场": "朗斯",
@@ -3350,8 +4826,20 @@
       "description": "里尔 作客 勒阿弗尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        },
+        "away": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        }
+      },
       "details": {
         "主场": "勒阿弗尔",
         "客场": "里尔",
@@ -3377,8 +4865,20 @@
       "description": "尼斯 作客 洛里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        },
+        "away": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        }
+      },
       "details": {
         "主场": "洛里昂",
         "客场": "尼斯",
@@ -3404,8 +4904,20 @@
       "description": "南特 作客 里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        },
+        "away": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        }
+      },
       "details": {
         "主场": "里昂",
         "客场": "南特",
@@ -3431,8 +4943,20 @@
       "description": "摩纳哥 作客 布雷斯特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        },
+        "away": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        }
+      },
       "details": {
         "主场": "布雷斯特",
         "客场": "摩纳哥",
@@ -3458,8 +4982,20 @@
       "description": "马赛 作客 里尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        },
+        "away": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        }
+      },
       "details": {
         "主场": "里尔",
         "客场": "马赛",
@@ -3485,8 +5021,20 @@
       "description": "朗斯 作客 南特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        },
+        "away": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        }
+      },
       "details": {
         "主场": "南特",
         "客场": "朗斯",
@@ -3512,8 +5060,20 @@
       "description": "斯特拉斯堡 作客 图卢兹（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        },
+        "away": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        }
+      },
       "details": {
         "主场": "图卢兹",
         "客场": "斯特拉斯堡",
@@ -3539,8 +5099,20 @@
       "description": "雷恩 作客 巴黎圣日耳曼（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        },
+        "away": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        }
+      },
       "details": {
         "主场": "巴黎圣日耳曼",
         "客场": "雷恩",
@@ -3566,8 +5138,20 @@
       "description": "昂热 作客 尼斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        },
+        "away": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        }
+      },
       "details": {
         "主场": "尼斯",
         "客场": "昂热",
@@ -3593,8 +5177,20 @@
       "description": "梅斯 作客 欧塞尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        },
+        "away": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        }
+      },
       "details": {
         "主场": "欧塞尔",
         "客场": "梅斯",
@@ -3620,8 +5216,20 @@
       "description": "巴黎FC 作客 勒阿弗尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        },
+        "away": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        }
+      },
       "details": {
         "主场": "勒阿弗尔",
         "客场": "巴黎FC",
@@ -3647,8 +5255,20 @@
       "description": "里昂 作客 洛里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        },
+        "away": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        }
+      },
       "details": {
         "主场": "洛里昂",
         "客场": "里昂",
@@ -3674,8 +5294,20 @@
       "description": "南特 作客 昂热（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        },
+        "away": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        }
+      },
       "details": {
         "主场": "昂热",
         "客场": "南特",
@@ -3701,8 +5333,20 @@
       "description": "布雷斯特 作客 雷恩（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        },
+        "away": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        }
+      },
       "details": {
         "主场": "雷恩",
         "客场": "布雷斯特",
@@ -3728,8 +5372,20 @@
       "description": "巴黎圣日耳曼 作客 梅斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        },
+        "away": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        }
+      },
       "details": {
         "主场": "梅斯",
         "客场": "巴黎圣日耳曼",
@@ -3755,8 +5411,20 @@
       "description": "图卢兹 作客 巴黎FC（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        },
+        "away": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        }
+      },
       "details": {
         "主场": "巴黎FC",
         "客场": "图卢兹",
@@ -3782,8 +5450,20 @@
       "description": "勒阿弗尔 作客 里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        },
+        "away": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        }
+      },
       "details": {
         "主场": "里昂",
         "客场": "勒阿弗尔",
@@ -3809,8 +5489,20 @@
       "description": "里尔 作客 欧塞尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        },
+        "away": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        }
+      },
       "details": {
         "主场": "欧塞尔",
         "客场": "里尔",
@@ -3836,8 +5528,20 @@
       "description": "尼斯 作客 朗斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        },
+        "away": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        }
+      },
       "details": {
         "主场": "朗斯",
         "客场": "尼斯",
@@ -3863,8 +5567,20 @@
       "description": "洛里昂 作客 斯特拉斯堡（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        },
+        "away": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        }
+      },
       "details": {
         "主场": "斯特拉斯堡",
         "客场": "洛里昂",
@@ -3890,8 +5606,20 @@
       "description": "摩纳哥 作客 马赛（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        },
+        "away": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        }
+      },
       "details": {
         "主场": "马赛",
         "客场": "摩纳哥",
@@ -3917,8 +5645,20 @@
       "description": "朗斯 作客 图卢兹（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        },
+        "away": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        }
+      },
       "details": {
         "主场": "图卢兹",
         "客场": "朗斯",
@@ -3944,8 +5684,20 @@
       "description": "里昂 作客 摩纳哥（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        },
+        "away": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        }
+      },
       "details": {
         "主场": "摩纳哥",
         "客场": "里昂",
@@ -3971,8 +5723,20 @@
       "description": "斯特拉斯堡 作客 尼斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        },
+        "away": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        }
+      },
       "details": {
         "主场": "尼斯",
         "客场": "斯特拉斯堡",
@@ -3998,8 +5762,20 @@
       "description": "雷恩 作客 里尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        },
+        "away": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        }
+      },
       "details": {
         "主场": "里尔",
         "客场": "雷恩",
@@ -4025,8 +5801,20 @@
       "description": "南特 作客 马赛（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        },
+        "away": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        }
+      },
       "details": {
         "主场": "马赛",
         "客场": "南特",
@@ -4052,8 +5840,20 @@
       "description": "欧塞尔 作客 布雷斯特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        },
+        "away": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        }
+      },
       "details": {
         "主场": "布雷斯特",
         "客场": "欧塞尔",
@@ -4079,8 +5879,20 @@
       "description": "昂热 作客 勒阿弗尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        },
+        "away": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        }
+      },
       "details": {
         "主场": "勒阿弗尔",
         "客场": "昂热",
@@ -4106,8 +5918,20 @@
       "description": "梅斯 作客 洛里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        },
+        "away": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        }
+      },
       "details": {
         "主场": "洛里昂",
         "客场": "梅斯",
@@ -4133,8 +5957,20 @@
       "description": "巴黎FC 作客 巴黎圣日耳曼（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        },
+        "away": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        }
+      },
       "details": {
         "主场": "巴黎圣日耳曼",
         "客场": "巴黎FC",
@@ -4160,8 +5996,20 @@
       "description": "洛里昂 作客 摩纳哥（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        },
+        "away": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        }
+      },
       "details": {
         "主场": "摩纳哥",
         "客场": "洛里昂",
@@ -4187,8 +6035,20 @@
       "description": "里尔 作客 巴黎圣日耳曼（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        },
+        "away": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        }
+      },
       "details": {
         "主场": "巴黎圣日耳曼",
         "客场": "里尔",
@@ -4214,8 +6074,20 @@
       "description": "欧塞尔 作客 朗斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        },
+        "away": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        }
+      },
       "details": {
         "主场": "朗斯",
         "客场": "欧塞尔",
@@ -4241,8 +6113,20 @@
       "description": "尼斯 作客 图卢兹（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        },
+        "away": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        }
+      },
       "details": {
         "主场": "图卢兹",
         "客场": "尼斯",
@@ -4268,8 +6152,20 @@
       "description": "马赛 作客 昂热（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        },
+        "away": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        }
+      },
       "details": {
         "主场": "昂热",
         "客场": "马赛",
@@ -4295,8 +6191,20 @@
       "description": "梅斯 作客 斯特拉斯堡（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        },
+        "away": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        }
+      },
       "details": {
         "主场": "斯特拉斯堡",
         "客场": "梅斯",
@@ -4322,8 +6230,20 @@
       "description": "巴黎FC 作客 南特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        },
+        "away": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        }
+      },
       "details": {
         "主场": "南特",
         "客场": "巴黎FC",
@@ -4349,8 +6269,20 @@
       "description": "勒阿弗尔 作客 雷恩（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        },
+        "away": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        }
+      },
       "details": {
         "主场": "雷恩",
         "客场": "勒阿弗尔",
@@ -4376,8 +6308,20 @@
       "description": "布雷斯特 作客 里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        },
+        "away": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        }
+      },
       "details": {
         "主场": "里昂",
         "客场": "布雷斯特",
@@ -4403,8 +6347,20 @@
       "description": "巴黎圣日耳曼 作客 欧塞尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        },
+        "away": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        }
+      },
       "details": {
         "主场": "欧塞尔",
         "客场": "巴黎圣日耳曼",
@@ -4430,8 +6386,20 @@
       "description": "洛里昂 作客 雷恩（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        },
+        "away": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        }
+      },
       "details": {
         "主场": "雷恩",
         "客场": "洛里昂",
@@ -4457,8 +6425,20 @@
       "description": "摩纳哥 作客 勒阿弗尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        },
+        "away": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        }
+      },
       "details": {
         "主场": "勒阿弗尔",
         "客场": "摩纳哥",
@@ -4484,8 +6464,20 @@
       "description": "朗斯 作客 马赛（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        },
+        "away": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        }
+      },
       "details": {
         "主场": "马赛",
         "客场": "朗斯",
@@ -4511,8 +6503,20 @@
       "description": "尼斯 作客 南特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        },
+        "away": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        }
+      },
       "details": {
         "主场": "南特",
         "客场": "尼斯",
@@ -4538,8 +6542,20 @@
       "description": "图卢兹 作客 布雷斯特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        },
+        "away": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        }
+      },
       "details": {
         "主场": "布雷斯特",
         "客场": "图卢兹",
@@ -4565,8 +6581,20 @@
       "description": "里昂 作客 梅斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        },
+        "away": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        }
+      },
       "details": {
         "主场": "梅斯",
         "客场": "里昂",
@@ -4592,8 +6620,20 @@
       "description": "昂热 作客 巴黎FC（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        },
+        "away": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        }
+      },
       "details": {
         "主场": "巴黎FC",
         "客场": "昂热",
@@ -4619,8 +6659,20 @@
       "description": "斯特拉斯堡 作客 里尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        },
+        "away": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        }
+      },
       "details": {
         "主场": "里尔",
         "客场": "斯特拉斯堡",
@@ -4646,8 +6698,20 @@
       "description": "勒阿弗尔 作客 朗斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        },
+        "away": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        }
+      },
       "details": {
         "主场": "朗斯",
         "客场": "勒阿弗尔",
@@ -4673,8 +6737,20 @@
       "description": "马赛 作客 巴黎FC（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        },
+        "away": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        }
+      },
       "details": {
         "主场": "巴黎FC",
         "客场": "马赛",
@@ -4700,8 +6776,20 @@
       "description": "南特 作客 洛里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        },
+        "away": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        }
+      },
       "details": {
         "主场": "洛里昂",
         "客场": "南特",
@@ -4727,8 +6815,20 @@
       "description": "雷恩 作客 摩纳哥（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        },
+        "away": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        }
+      },
       "details": {
         "主场": "摩纳哥",
         "客场": "雷恩",
@@ -4754,8 +6854,20 @@
       "description": "里尔 作客 里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        },
+        "away": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        }
+      },
       "details": {
         "主场": "里昂",
         "客场": "里尔",
@@ -4781,8 +6893,20 @@
       "description": "梅斯 作客 昂热（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        },
+        "away": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        }
+      },
       "details": {
         "主场": "昂热",
         "客场": "梅斯",
@@ -4808,8 +6932,20 @@
       "description": "布雷斯特 作客 尼斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        },
+        "away": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        }
+      },
       "details": {
         "主场": "尼斯",
         "客场": "布雷斯特",
@@ -4835,8 +6971,20 @@
       "description": "欧塞尔 作客 图卢兹（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        },
+        "away": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        }
+      },
       "details": {
         "主场": "图卢兹",
         "客场": "欧塞尔",
@@ -4862,8 +7010,20 @@
       "description": "巴黎圣日耳曼 作客 斯特拉斯堡（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        },
+        "away": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        }
+      },
       "details": {
         "主场": "斯特拉斯堡",
         "客场": "巴黎圣日耳曼",
@@ -4889,8 +7049,20 @@
       "description": "里尔 作客 梅斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        },
+        "away": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        }
+      },
       "details": {
         "主场": "梅斯",
         "客场": "里尔",
@@ -4916,8 +7088,20 @@
       "description": "雷恩 作客 朗斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        },
+        "away": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        }
+      },
       "details": {
         "主场": "朗斯",
         "客场": "雷恩",
@@ -4943,8 +7127,20 @@
       "description": "洛里昂 作客 布雷斯特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        },
+        "away": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        }
+      },
       "details": {
         "主场": "布雷斯特",
         "客场": "洛里昂",
@@ -4970,8 +7166,20 @@
       "description": "里昂 作客 南特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        },
+        "away": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        }
+      },
       "details": {
         "主场": "南特",
         "客场": "里昂",
@@ -4997,8 +7205,20 @@
       "description": "摩纳哥 作客 尼斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        },
+        "away": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        }
+      },
       "details": {
         "主场": "尼斯",
         "客场": "摩纳哥",
@@ -5024,8 +7244,20 @@
       "description": "巴黎FC 作客 欧塞尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        },
+        "away": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        }
+      },
       "details": {
         "主场": "欧塞尔",
         "客场": "巴黎FC",
@@ -5051,8 +7283,20 @@
       "description": "图卢兹 作客 昂热（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        },
+        "away": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        }
+      },
       "details": {
         "主场": "昂热",
         "客场": "图卢兹",
@@ -5078,8 +7322,20 @@
       "description": "斯特拉斯堡 作客 勒阿弗尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        },
+        "away": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        }
+      },
       "details": {
         "主场": "勒阿弗尔",
         "客场": "斯特拉斯堡",
@@ -5105,8 +7361,20 @@
       "description": "马赛 作客 巴黎圣日耳曼（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        },
+        "away": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        }
+      },
       "details": {
         "主场": "巴黎圣日耳曼",
         "客场": "马赛",
@@ -5132,8 +7400,20 @@
       "description": "巴黎圣日耳曼 作客 雷恩（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        },
+        "away": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        }
+      },
       "details": {
         "主场": "雷恩",
         "客场": "巴黎圣日耳曼",
@@ -5159,8 +7439,20 @@
       "description": "南特 作客 摩纳哥（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        },
+        "away": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        }
+      },
       "details": {
         "主场": "摩纳哥",
         "客场": "南特",
@@ -5186,8 +7478,20 @@
       "description": "斯特拉斯堡 作客 马赛（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        },
+        "away": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        }
+      },
       "details": {
         "主场": "马赛",
         "客场": "斯特拉斯堡",
@@ -5213,8 +7517,20 @@
       "description": "布雷斯特 作客 里尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        },
+        "away": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        }
+      },
       "details": {
         "主场": "里尔",
         "客场": "布雷斯特",
@@ -5240,8 +7556,20 @@
       "description": "朗斯 作客 巴黎FC（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        },
+        "away": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        }
+      },
       "details": {
         "主场": "巴黎FC",
         "客场": "朗斯",
@@ -5267,8 +7595,20 @@
       "description": "图卢兹 作客 勒阿弗尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        },
+        "away": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        }
+      },
       "details": {
         "主场": "勒阿弗尔",
         "客场": "图卢兹",
@@ -5294,8 +7634,20 @@
       "description": "昂热 作客 洛里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        },
+        "away": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        }
+      },
       "details": {
         "主场": "洛里昂",
         "客场": "昂热",
@@ -5321,8 +7673,20 @@
       "description": "欧塞尔 作客 梅斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        },
+        "away": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        }
+      },
       "details": {
         "主场": "梅斯",
         "客场": "欧塞尔",
@@ -5348,8 +7712,20 @@
       "description": "尼斯 作客 里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        },
+        "away": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        }
+      },
       "details": {
         "主场": "里昂",
         "客场": "尼斯",
@@ -5375,8 +7751,20 @@
       "description": "马赛 作客 布雷斯特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        },
+        "away": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        }
+      },
       "details": {
         "主场": "布雷斯特",
         "客场": "马赛",
@@ -5402,8 +7790,20 @@
       "description": "摩纳哥 作客 朗斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        },
+        "away": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        }
+      },
       "details": {
         "主场": "朗斯",
         "客场": "摩纳哥",
@@ -5429,8 +7829,20 @@
       "description": "巴黎FC 作客 图卢兹（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        },
+        "away": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        }
+      },
       "details": {
         "主场": "图卢兹",
         "客场": "巴黎FC",
@@ -5456,8 +7868,20 @@
       "description": "梅斯 作客 巴黎圣日耳曼（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        },
+        "away": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        }
+      },
       "details": {
         "主场": "巴黎圣日耳曼",
         "客场": "梅斯",
@@ -5483,8 +7907,20 @@
       "description": "雷恩 作客 欧塞尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        },
+        "away": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        }
+      },
       "details": {
         "主场": "欧塞尔",
         "客场": "雷恩",
@@ -5510,8 +7946,20 @@
       "description": "里尔 作客 昂热（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        },
+        "away": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        }
+      },
       "details": {
         "主场": "昂热",
         "客场": "里尔",
@@ -5537,8 +7985,20 @@
       "description": "勒阿弗尔 作客 南特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        },
+        "away": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        }
+      },
       "details": {
         "主场": "南特",
         "客场": "勒阿弗尔",
@@ -5564,8 +8024,20 @@
       "description": "洛里昂 作客 尼斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        },
+        "away": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        }
+      },
       "details": {
         "主场": "尼斯",
         "客场": "洛里昂",
@@ -5591,8 +8063,20 @@
       "description": "里昂 作客 斯特拉斯堡（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        },
+        "away": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        }
+      },
       "details": {
         "主场": "斯特拉斯堡",
         "客场": "里昂",
@@ -5618,8 +8102,20 @@
       "description": "朗斯 作客 斯特拉斯堡（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        },
+        "away": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        }
+      },
       "details": {
         "主场": "斯特拉斯堡",
         "客场": "朗斯",
@@ -5645,8 +8141,20 @@
       "description": "图卢兹 作客 雷恩（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        },
+        "away": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        }
+      },
       "details": {
         "主场": "雷恩",
         "客场": "图卢兹",
@@ -5672,8 +8180,20 @@
       "description": "昂热 作客 摩纳哥（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        },
+        "away": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        }
+      },
       "details": {
         "主场": "摩纳哥",
         "客场": "昂热",
@@ -5699,8 +8219,20 @@
       "description": "巴黎圣日耳曼 作客 勒阿弗尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        },
+        "away": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        }
+      },
       "details": {
         "主场": "勒阿弗尔",
         "客场": "巴黎圣日耳曼",
@@ -5726,8 +8258,20 @@
       "description": "尼斯 作客 巴黎FC（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        },
+        "away": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        }
+      },
       "details": {
         "主场": "巴黎FC",
         "客场": "尼斯",
@@ -5753,8 +8297,20 @@
       "description": "南特 作客 里尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        },
+        "away": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        }
+      },
       "details": {
         "主场": "里尔",
         "客场": "南特",
@@ -5780,8 +8336,20 @@
       "description": "欧塞尔 作客 洛里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        },
+        "away": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        }
+      },
       "details": {
         "主场": "洛里昂",
         "客场": "欧塞尔",
@@ -5807,8 +8375,20 @@
       "description": "布雷斯特 作客 梅斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        },
+        "away": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        }
+      },
       "details": {
         "主场": "梅斯",
         "客场": "布雷斯特",
@@ -5834,8 +8414,20 @@
       "description": "里昂 作客 马赛（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        },
+        "away": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        }
+      },
       "details": {
         "主场": "马赛",
         "客场": "里昂",
@@ -5861,8 +8453,20 @@
       "description": "摩纳哥 作客 巴黎圣日耳曼（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        },
+        "away": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        }
+      },
       "details": {
         "主场": "巴黎圣日耳曼",
         "客场": "摩纳哥",
@@ -5888,8 +8492,20 @@
       "description": "昂热 作客 南特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        },
+        "away": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        }
+      },
       "details": {
         "主场": "南特",
         "客场": "昂热",
@@ -5915,8 +8531,20 @@
       "description": "斯特拉斯堡 作客 欧塞尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        },
+        "away": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        }
+      },
       "details": {
         "主场": "欧塞尔",
         "客场": "斯特拉斯堡",
@@ -5942,8 +8570,20 @@
       "description": "马赛 作客 图卢兹（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        },
+        "away": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        }
+      },
       "details": {
         "主场": "图卢兹",
         "客场": "马赛",
@@ -5969,8 +8609,20 @@
       "description": "梅斯 作客 朗斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        },
+        "away": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        }
+      },
       "details": {
         "主场": "朗斯",
         "客场": "梅斯",
@@ -5996,8 +8648,20 @@
       "description": "勒阿弗尔 作客 布雷斯特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        },
+        "away": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        }
+      },
       "details": {
         "主场": "布雷斯特",
         "客场": "勒阿弗尔",
@@ -6023,8 +8687,20 @@
       "description": "洛里昂 作客 里尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        },
+        "away": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        }
+      },
       "details": {
         "主场": "里尔",
         "客场": "洛里昂",
@@ -6050,8 +8726,20 @@
       "description": "雷恩 作客 尼斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        },
+        "away": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        }
+      },
       "details": {
         "主场": "尼斯",
         "客场": "雷恩",
@@ -6077,8 +8765,20 @@
       "description": "巴黎FC 作客 里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        },
+        "away": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        }
+      },
       "details": {
         "主场": "里昂",
         "客场": "巴黎FC",
@@ -6104,8 +8804,20 @@
       "description": "欧塞尔 作客 马赛（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        },
+        "away": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        }
+      },
       "details": {
         "主场": "马赛",
         "客场": "欧塞尔",
@@ -6131,8 +8843,20 @@
       "description": "朗斯 作客 洛里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        },
+        "away": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        }
+      },
       "details": {
         "主场": "洛里昂",
         "客场": "朗斯",
@@ -6158,8 +8882,20 @@
       "description": "尼斯 作客 昂热（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        },
+        "away": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        }
+      },
       "details": {
         "主场": "昂热",
         "客场": "尼斯",
@@ -6185,8 +8921,20 @@
       "description": "布雷斯特 作客 摩纳哥（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        },
+        "away": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        }
+      },
       "details": {
         "主场": "摩纳哥",
         "客场": "布雷斯特",
@@ -6212,8 +8960,20 @@
       "description": "巴黎FC 作客 斯特拉斯堡（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        },
+        "away": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        }
+      },
       "details": {
         "主场": "斯特拉斯堡",
         "客场": "巴黎FC",
@@ -6239,8 +8999,20 @@
       "description": "里昂 作客 勒阿弗尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        },
+        "away": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        }
+      },
       "details": {
         "主场": "勒阿弗尔",
         "客场": "里昂",
@@ -6266,8 +9038,20 @@
       "description": "图卢兹 作客 梅斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        },
+        "away": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        }
+      },
       "details": {
         "主场": "梅斯",
         "客场": "图卢兹",
@@ -6293,8 +9077,20 @@
       "description": "里尔 作客 雷恩（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        },
+        "away": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        }
+      },
       "details": {
         "主场": "雷恩",
         "客场": "里尔",
@@ -6320,8 +9116,20 @@
       "description": "昂热 作客 朗斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        },
+        "away": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        }
+      },
       "details": {
         "主场": "朗斯",
         "客场": "昂热",
@@ -6347,8 +9155,20 @@
       "description": "洛里昂 作客 图卢兹（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        },
+        "away": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        }
+      },
       "details": {
         "主场": "图卢兹",
         "客场": "洛里昂",
@@ -6374,8 +9194,20 @@
       "description": "布雷斯特 作客 欧塞尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        },
+        "away": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        }
+      },
       "details": {
         "主场": "欧塞尔",
         "客场": "布雷斯特",
@@ -6401,8 +9233,20 @@
       "description": "巴黎圣日耳曼 作客 尼斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        },
+        "away": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        }
+      },
       "details": {
         "主场": "尼斯",
         "客场": "巴黎圣日耳曼",
@@ -6428,8 +9272,20 @@
       "description": "摩纳哥 作客 里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        },
+        "away": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        }
+      },
       "details": {
         "主场": "里昂",
         "客场": "摩纳哥",
@@ -6455,8 +9311,20 @@
       "description": "里尔 作客 马赛（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        },
+        "away": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        }
+      },
       "details": {
         "主场": "马赛",
         "客场": "里尔",
@@ -6482,8 +9350,20 @@
       "description": "勒阿弗尔 作客 巴黎FC（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        },
+        "away": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        }
+      },
       "details": {
         "主场": "巴黎FC",
         "客场": "勒阿弗尔",
@@ -6509,8 +9389,20 @@
       "description": "梅斯 作客 雷恩（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        },
+        "away": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        }
+      },
       "details": {
         "主场": "雷恩",
         "客场": "梅斯",
@@ -6536,8 +9428,20 @@
       "description": "斯特拉斯堡 作客 南特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        },
+        "away": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        }
+      },
       "details": {
         "主场": "南特",
         "客场": "斯特拉斯堡",
@@ -6563,8 +9467,20 @@
       "description": "图卢兹 作客 巴黎圣日耳曼（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        },
+        "away": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        }
+      },
       "details": {
         "主场": "巴黎圣日耳曼",
         "客场": "图卢兹",
@@ -6590,8 +9506,20 @@
       "description": "尼斯 作客 斯特拉斯堡（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        },
+        "away": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        }
+      },
       "details": {
         "主场": "斯特拉斯堡",
         "客场": "尼斯",
@@ -6617,8 +9545,20 @@
       "description": "雷恩 作客 布雷斯特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        },
+        "away": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        }
+      },
       "details": {
         "主场": "布雷斯特",
         "客场": "雷恩",
@@ -6644,8 +9584,20 @@
       "description": "朗斯 作客 里尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        },
+        "away": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        }
+      },
       "details": {
         "主场": "里尔",
         "客场": "朗斯",
@@ -6671,8 +9623,20 @@
       "description": "里昂 作客 昂热（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        },
+        "away": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        }
+      },
       "details": {
         "主场": "昂热",
         "客场": "里昂",
@@ -6698,8 +9662,20 @@
       "description": "欧塞尔 作客 勒阿弗尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        },
+        "away": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        }
+      },
       "details": {
         "主场": "勒阿弗尔",
         "客场": "欧塞尔",
@@ -6725,8 +9701,20 @@
       "description": "巴黎FC 作客 洛里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        },
+        "away": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        }
+      },
       "details": {
         "主场": "洛里昂",
         "客场": "巴黎FC",
@@ -6752,8 +9740,20 @@
       "description": "南特 作客 梅斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        },
+        "away": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        }
+      },
       "details": {
         "主场": "梅斯",
         "客场": "南特",
@@ -6779,8 +9779,20 @@
       "description": "马赛 作客 摩纳哥（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        },
+        "away": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        }
+      },
       "details": {
         "主场": "摩纳哥",
         "客场": "马赛",
@@ -6806,8 +9818,20 @@
       "description": "摩纳哥 作客 巴黎FC（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        },
+        "away": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        }
+      },
       "details": {
         "主场": "巴黎FC",
         "客场": "摩纳哥",
@@ -6833,8 +9857,20 @@
       "description": "梅斯 作客 马赛（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        },
+        "away": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        }
+      },
       "details": {
         "主场": "马赛",
         "客场": "梅斯",
@@ -6860,8 +9896,20 @@
       "description": "南特 作客 欧塞尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        },
+        "away": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        }
+      },
       "details": {
         "主场": "欧塞尔",
         "客场": "南特",
@@ -6887,8 +9935,20 @@
       "description": "昂热 作客 雷恩（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        },
+        "away": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        }
+      },
       "details": {
         "主场": "雷恩",
         "客场": "昂热",
@@ -6914,8 +9974,20 @@
       "description": "勒阿弗尔 作客 尼斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        },
+        "away": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        }
+      },
       "details": {
         "主场": "尼斯",
         "客场": "勒阿弗尔",
@@ -6941,8 +10013,20 @@
       "description": "里尔 作客 图卢兹（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        },
+        "away": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        }
+      },
       "details": {
         "主场": "图卢兹",
         "客场": "里尔",
@@ -6968,8 +10052,20 @@
       "description": "洛里昂 作客 里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        },
+        "away": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        }
+      },
       "details": {
         "主场": "里昂",
         "客场": "洛里昂",
@@ -6995,8 +10091,20 @@
       "description": "图卢兹 作客 朗斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        },
+        "away": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        }
+      },
       "details": {
         "主场": "朗斯",
         "客场": "图卢兹",
@@ -7022,8 +10130,20 @@
       "description": "马赛 作客 洛里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        },
+        "away": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        }
+      },
       "details": {
         "主场": "洛里昂",
         "客场": "马赛",
@@ -7049,8 +10169,20 @@
       "description": "勒阿弗尔 作客 昂热（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        },
+        "away": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        }
+      },
       "details": {
         "主场": "昂热",
         "客场": "勒阿弗尔",
@@ -7076,8 +10208,20 @@
       "description": "尼斯 作客 里尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        },
+        "away": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        }
+      },
       "details": {
         "主场": "里尔",
         "客场": "尼斯",
@@ -7103,8 +10247,20 @@
       "description": "欧塞尔 作客 摩纳哥（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        },
+        "away": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        }
+      },
       "details": {
         "主场": "摩纳哥",
         "客场": "欧塞尔",
@@ -7130,8 +10286,20 @@
       "description": "巴黎FC 作客 梅斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        },
+        "away": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        }
+      },
       "details": {
         "主场": "梅斯",
         "客场": "巴黎FC",
@@ -7157,8 +10325,20 @@
       "description": "布雷斯特 作客 南特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        },
+        "away": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        }
+      },
       "details": {
         "主场": "南特",
         "客场": "布雷斯特",
@@ -7184,8 +10364,20 @@
       "description": "雷恩 作客 斯特拉斯堡（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        },
+        "away": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        }
+      },
       "details": {
         "主场": "斯特拉斯堡",
         "客场": "雷恩",
@@ -7211,8 +10403,20 @@
       "description": "里昂 作客 巴黎圣日耳曼（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        },
+        "away": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        }
+      },
       "details": {
         "主场": "巴黎圣日耳曼",
         "客场": "里昂",
@@ -7238,8 +10442,20 @@
       "description": "南特 作客 巴黎圣日耳曼（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        },
+        "away": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        }
+      },
       "details": {
         "主场": "巴黎圣日耳曼",
         "客场": "南特",
@@ -7265,8 +10481,20 @@
       "description": "朗斯 作客 布雷斯特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        },
+        "away": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        }
+      },
       "details": {
         "主场": "布雷斯特",
         "客场": "朗斯",
@@ -7292,8 +10520,20 @@
       "description": "欧塞尔 作客 里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        },
+        "away": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        }
+      },
       "details": {
         "主场": "里昂",
         "客场": "欧塞尔",
@@ -7319,8 +10559,20 @@
       "description": "巴黎圣日耳曼 作客 昂热（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        },
+        "away": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        }
+      },
       "details": {
         "主场": "昂热",
         "客场": "巴黎圣日耳曼",
@@ -7346,8 +10598,20 @@
       "description": "摩纳哥 作客 图卢兹（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        },
+        "away": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        }
+      },
       "details": {
         "主场": "图卢兹",
         "客场": "摩纳哥",
@@ -7373,8 +10637,20 @@
       "description": "斯特拉斯堡 作客 洛里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        },
+        "away": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        }
+      },
       "details": {
         "主场": "洛里昂",
         "客场": "斯特拉斯堡",
@@ -7400,8 +10676,20 @@
       "description": "梅斯 作客 勒阿弗尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        },
+        "away": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        }
+      },
       "details": {
         "主场": "勒阿弗尔",
         "客场": "梅斯",
@@ -7427,8 +10715,20 @@
       "description": "里尔 作客 巴黎FC（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        },
+        "away": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        }
+      },
       "details": {
         "主场": "巴黎FC",
         "客场": "里尔",
@@ -7454,8 +10754,20 @@
       "description": "南特 作客 雷恩（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        },
+        "away": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        }
+      },
       "details": {
         "主场": "雷恩",
         "客场": "南特",
@@ -7481,8 +10793,20 @@
       "description": "尼斯 作客 马赛（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        },
+        "away": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        }
+      },
       "details": {
         "主场": "马赛",
         "客场": "尼斯",
@@ -7508,8 +10832,20 @@
       "description": "马赛 作客 南特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        },
+        "away": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        }
+      },
       "details": {
         "主场": "南特",
         "客场": "马赛",
@@ -7535,8 +10871,20 @@
       "description": "洛里昂 作客 巴黎圣日耳曼（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        },
+        "away": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        }
+      },
       "details": {
         "主场": "巴黎圣日耳曼",
         "客场": "洛里昂",
@@ -7562,8 +10910,20 @@
       "description": "摩纳哥 作客 梅斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        },
+        "away": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        }
+      },
       "details": {
         "主场": "梅斯",
         "客场": "摩纳哥",
@@ -7589,8 +10949,20 @@
       "description": "朗斯 作客 尼斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        },
+        "away": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        }
+      },
       "details": {
         "主场": "尼斯",
         "客场": "朗斯",
@@ -7616,8 +10988,20 @@
       "description": "勒阿弗尔 作客 里尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        },
+        "away": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        }
+      },
       "details": {
         "主场": "里尔",
         "客场": "勒阿弗尔",
@@ -7643,8 +11027,20 @@
       "description": "昂热 作客 欧塞尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        },
+        "away": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        }
+      },
       "details": {
         "主场": "欧塞尔",
         "客场": "昂热",
@@ -7670,8 +11066,20 @@
       "description": "布雷斯特 作客 巴黎FC（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        },
+        "away": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        }
+      },
       "details": {
         "主场": "巴黎FC",
         "客场": "布雷斯特",
@@ -7697,8 +11105,20 @@
       "description": "图卢兹 作客 斯特拉斯堡（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        },
+        "away": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        }
+      },
       "details": {
         "主场": "斯特拉斯堡",
         "客场": "图卢兹",
@@ -7724,8 +11144,20 @@
       "description": "雷恩 作客 里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        },
+        "away": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        }
+      },
       "details": {
         "主场": "里昂",
         "客场": "雷恩",
@@ -7751,8 +11183,20 @@
       "description": "南特 作客 朗斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        },
+        "away": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        }
+      },
       "details": {
         "主场": "朗斯",
         "客场": "南特",
@@ -7778,8 +11222,20 @@
       "description": "尼斯 作客 欧塞尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        },
+        "away": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        }
+      },
       "details": {
         "主场": "欧塞尔",
         "客场": "尼斯",
@@ -7805,8 +11261,20 @@
       "description": "斯特拉斯堡 作客 昂热（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        },
+        "away": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        }
+      },
       "details": {
         "主场": "昂热",
         "客场": "斯特拉斯堡",
@@ -7832,8 +11300,20 @@
       "description": "里尔 作客 摩纳哥（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        },
+        "away": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        }
+      },
       "details": {
         "主场": "摩纳哥",
         "客场": "里尔",
@@ -7859,8 +11339,20 @@
       "description": "马赛 作客 勒阿弗尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        },
+        "away": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        }
+      },
       "details": {
         "主场": "勒阿弗尔",
         "客场": "马赛",
@@ -7886,8 +11378,20 @@
       "description": "洛里昂 作客 梅斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        },
+        "away": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        }
+      },
       "details": {
         "主场": "梅斯",
         "客场": "洛里昂",
@@ -7913,8 +11417,20 @@
       "description": "布雷斯特 作客 巴黎圣日耳曼（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        },
+        "away": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        }
+      },
       "details": {
         "主场": "巴黎圣日耳曼",
         "客场": "布雷斯特",
@@ -7940,8 +11456,20 @@
       "description": "巴黎FC 作客 雷恩（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        },
+        "away": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        }
+      },
       "details": {
         "主场": "雷恩",
         "客场": "巴黎FC",
@@ -7967,8 +11495,20 @@
       "description": "里昂 作客 图卢兹（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        },
+        "away": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        }
+      },
       "details": {
         "主场": "图卢兹",
         "客场": "里昂",
@@ -7994,8 +11534,20 @@
       "description": "斯特拉斯堡 作客 布雷斯特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        },
+        "away": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        }
+      },
       "details": {
         "主场": "布雷斯特",
         "客场": "斯特拉斯堡",
@@ -8021,8 +11573,20 @@
       "description": "巴黎圣日耳曼 作客 朗斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        },
+        "away": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        }
+      },
       "details": {
         "主场": "朗斯",
         "客场": "巴黎圣日耳曼",
@@ -8048,8 +11612,20 @@
       "description": "昂热 作客 布雷斯特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "bre",
+          "code": "BRE",
+          "name": "布雷斯特"
+        },
+        "away": {
+          "id": "ang",
+          "code": "ANG",
+          "name": "昂热"
+        }
+      },
       "details": {
         "主场": "布雷斯特",
         "客场": "昂热",
@@ -8075,8 +11651,20 @@
       "description": "欧塞尔 作客 里尔（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lill",
+          "code": "LILL",
+          "name": "里尔"
+        },
+        "away": {
+          "id": "aux",
+          "code": "AUX",
+          "name": "欧塞尔"
+        }
+      },
       "details": {
         "主场": "里尔",
         "客场": "欧塞尔",
@@ -8102,8 +11690,20 @@
       "description": "勒阿弗尔 作客 洛里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lor",
+          "code": "LOR",
+          "name": "洛里昂"
+        },
+        "away": {
+          "id": "hac",
+          "code": "HAC",
+          "name": "勒阿弗尔"
+        }
+      },
       "details": {
         "主场": "洛里昂",
         "客场": "勒阿弗尔",
@@ -8129,8 +11729,20 @@
       "description": "朗斯 作客 里昂（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lyon",
+          "code": "LYON",
+          "name": "里昂"
+        },
+        "away": {
+          "id": "rcl",
+          "code": "RCL",
+          "name": "朗斯"
+        }
+      },
       "details": {
         "主场": "里昂",
         "客场": "朗斯",
@@ -8156,8 +11768,20 @@
       "description": "雷恩 作客 马赛（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "olm",
+          "code": "OLM",
+          "name": "马赛"
+        },
+        "away": {
+          "id": "ren",
+          "code": "REN",
+          "name": "雷恩"
+        }
+      },
       "details": {
         "主场": "马赛",
         "客场": "雷恩",
@@ -8183,8 +11807,20 @@
       "description": "图卢兹 作客 南特（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "confirmed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nan",
+          "code": "NAN",
+          "name": "南特"
+        },
+        "away": {
+          "id": "tou",
+          "code": "TOU",
+          "name": "图卢兹"
+        }
+      },
       "details": {
         "主场": "南特",
         "客场": "图卢兹",
@@ -8203,8 +11839,20 @@
       "description": "梅斯 作客 尼斯（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nice",
+          "code": "NICE",
+          "name": "尼斯"
+        },
+        "away": {
+          "id": "metz",
+          "code": "METZ",
+          "name": "梅斯"
+        }
+      },
       "details": {
         "主场": "尼斯",
         "客场": "梅斯",
@@ -8230,8 +11878,20 @@
       "description": "巴黎圣日耳曼 作客 巴黎FC（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "par",
+          "code": "PAR",
+          "name": "巴黎FC"
+        },
+        "away": {
+          "id": "psg",
+          "code": "PSG",
+          "name": "巴黎圣日耳曼"
+        }
+      },
       "details": {
         "主场": "巴黎FC",
         "客场": "巴黎圣日耳曼",
@@ -8257,8 +11917,20 @@
       "description": "摩纳哥 作客 斯特拉斯堡（法甲 2025-26 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
       "status": "completed",
-      "last_verified": "2026-05-30",
+      "last_verified": "2026-06-02",
       "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "str",
+          "code": "STR",
+          "name": "斯特拉斯堡"
+        },
+        "away": {
+          "id": "mon",
+          "code": "MON",
+          "name": "摩纳哥"
+        }
+      },
       "details": {
         "主场": "斯特拉斯堡",
         "客场": "摩纳哥",

@@ -47,6 +47,16 @@
             "description": "事件详情键值对，用于日历 tooltip 和详情页展示。键名即标签，值即内容。",
             "additionalProperties": { "type": "string" }
           },
+          "teams": {
+            "type": "object",
+            "description": "体育赛事的结构化主客队信息，用于生成球队专属订阅日历",
+            "required": ["home", "away"],
+            "properties": {
+              "home": { "$ref": "#/definitions/team" },
+              "away": { "$ref": "#/definitions/team" }
+            },
+            "additionalProperties": false
+          },
           "result": {
             "type": "object",
             "description": "已结束体育赛事的结构化赛果",
@@ -76,6 +86,28 @@
           }
         }
       }
+    }
+  },
+  "definitions": {
+    "team": {
+      "type": "object",
+      "required": ["id", "code", "name"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]+$",
+          "description": "球队稳定 ID，用于 iCal 文件名，如 lal、ars"
+        },
+        "code": {
+          "type": "string",
+          "description": "赛事方常用球队缩写或短码，如 LAL、ARS"
+        },
+        "name": {
+          "type": "string",
+          "description": "球队展示名"
+        }
+      },
+      "additionalProperties": false
     }
   }
 }

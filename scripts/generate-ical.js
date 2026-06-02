@@ -68,23 +68,49 @@ function eventsForCalendar(source) {
   )
 }
 
-const files = collectJsonFiles(EVENTS_DIR)
-let totalEvents = 0
+function collectTeams(events) {
+  const teams = new Map()
+  for (const event of events) {
+    for (const side of ['home', 'away']) {
+      const team = event.teams?.[side]
+      if (!team?.id || !team?.name) continue
+      teams.set(team.id, {
+        id: team.id,
+        code: team.code ?? team.id.toUpperCase(),
+        name: team.name,
+      })
+    }
+  }
+  return Array.from(teams.values()).sort((a, b) => a.id.localeCompare(b.id))
+}
 
-for (const file of files) {
-  const source = JSON.parse(readFileSync(file, 'utf8'))
+function eventIncludesTeam(event, teamId) {
+  return event.teams?.home?.id === teamId || event.teams?.away?.id === teamId
+}
 
+function teamEventSummary(event, team) {
+  const home = event.teams?.home
+  const away = event.teams?.away
+  if (!home || !away) return event.name
+
+  const isHome = home.id === team.id
+  const opponent = isHome ? away : home
+  const marker = isHome ? 'vs' : '@'
+  const phase = event.details?.['阶段'] ?? event.details?.['赛段'] ?? ''
+  const prefix = phase ? `${phase} · ` : ''
+  return `${prefix}${team.name} ${marker} ${opponent.name}`
+}
+
+function createCalendar(source, events, options = {}) {
   const cal = ical({
-    name: source.name,
-    description: source.description ?? '',
-    prodId: { company: 'Koyomi Cast', product: source.id },
-    url: `https://koyomi.cast/sources/${source.id}`,
+    name: options.name ?? source.name,
+    description: options.description ?? source.description ?? '',
+    prodId: { company: 'Koyomi Cast', product: options.productId ?? source.id },
+    url: options.url ?? `https://koyomi.cast/sources/${source.id}`,
     timezone: source.timezone ?? 'Asia/Shanghai',
   })
 
-  const calendarEvents = eventsForCalendar(source)
-
-  for (const event of calendarEvents) {
+  for (const event of events) {
     const tz = event.timezone ?? 'Asia/Shanghai'
     const offset = tzOffset(tz)
     const hasTime = !!event.time
@@ -109,8 +135,9 @@ for (const file of files) {
     // 去掉 event.name 中的年份前缀，避免重复（如「2026年报名开始」→「报名开始」）
     // 支持格式：2026年 / 2026 / 2027 等任意 4 位年份 + 可选「年」字 + 可选空格
     // 保护跨赛季格式如「2025-26」，要求年份后不能紧跟数字或连字符
-    const shortEventName = event.name.replace(/^\d{4}(?:年|\s*)(?![\d-])/u, '')
-    const summary = `${source.name} · ${shortEventName}`
+    const rawEventName = options.summaryForEvent?.(event) ?? event.name
+    const shortEventName = rawEventName.replace(/^\d{4}(?:年|\s*)(?![\d-])/u, '')
+    const summary = `${options.calendarName ?? source.name} · ${shortEventName}`
 
     cal.createEvent({
       start,
@@ -131,14 +158,48 @@ for (const file of files) {
       ].filter(Boolean).join('\n\n'),
       url: event.url ?? source.source_url ?? `https://koyomi.cast/sources/${source.id}`,
       status: event.status === 'cancelled' ? 'CANCELLED' : 'CONFIRMED',
-      categories: [{ name: source.name }],
+      categories: [{ name: options.calendarName ?? source.name }],
     })
-    totalEvents++
   }
+
+  return cal
+}
+
+const files = collectJsonFiles(EVENTS_DIR)
+let totalEvents = 0
+let totalTeamCalendars = 0
+
+for (const file of files) {
+  const source = JSON.parse(readFileSync(file, 'utf8'))
+  const calendarEvents = eventsForCalendar(source)
+  const cal = createCalendar(source, calendarEvents)
+  totalEvents += calendarEvents.length
 
   const outPath = join(ICAL_DIR, `${source.id}.ics`)
   writeFileSync(outPath, cal.toString(), 'utf8')
-  console.log(`✓ ${source.id}.ics (${calendarEvents.length}/${source.events?.length ?? 0} events)`)
+
+  const teams = collectTeams(calendarEvents)
+  for (const team of teams) {
+    const teamEvents = calendarEvents.filter(event => eventIncludesTeam(event, team.id))
+    if (teamEvents.length === 0) continue
+
+    const teamSourceId = `${source.id}-${team.id}`
+    const teamName = `${team.name}赛程`
+    const teamCal = createCalendar(source, teamEvents, {
+      name: teamName,
+      calendarName: teamName,
+      description: `${team.name}在${source.name}中的比赛日程，自动同步更新。`,
+      productId: teamSourceId,
+      url: `https://koyomi.cast/sources/${source.id}`,
+      summaryForEvent: event => teamEventSummary(event, team),
+    })
+
+    writeFileSync(join(ICAL_DIR, `${teamSourceId}.ics`), teamCal.toString(), 'utf8')
+    totalTeamCalendars++
+  }
+
+  const teamLabel = teams.length > 0 ? `, ${teams.length} team calendars` : ''
+  console.log(`✓ ${source.id}.ics (${calendarEvents.length}/${source.events?.length ?? 0} events${teamLabel})`)
 }
 
-console.log(`\n✓ Generated ${files.length} .ics files, ${totalEvents} events total`)
+console.log(`\n✓ Generated ${files.length} source calendars, ${totalTeamCalendars} team calendars, ${totalEvents} events total`)
