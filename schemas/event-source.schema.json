@@ -10,12 +10,26 @@
       "description": "唯一标识，全小写+连字符，不含年份"
     },
     "name": { "type": "string" },
+    "name_en": { "type": "string", "description": "英文名称" },
     "category": {
       "type": "string",
       "enum": ["exam", "gaming", "sports", "shopping", "entertainment", "holidays", "other"]
     },
     "description": { "type": "string" },
+    "description_en": { "type": "string", "description": "英文描述" },
+    "subcategory": { "type": "string" },
+    "subcategory_en": { "type": "string", "description": "英文子分类" },
     "tags": { "type": "array", "items": { "type": "string" } },
+    "tags_en": { "type": "array", "items": { "type": "string" }, "description": "英文标签" },
+    "icon": { "type": "string" },
+    "source_url": { "type": "string", "format": "uri" },
+    "maintainer": { "type": "string", "enum": ["official", "community"] },
+    "subscriber_count": { "type": "integer" },
+    "rating": { "type": "number" },
+    "rating_count": { "type": "integer" },
+    "last_updated": { "type": "string", "format": "date" },
+    "version": { "type": "string" },
+    "events": {
     "maintainer": { "type": "string", "enum": ["official", "community"] },
     "last_updated": { "type": "string", "format": "date" },
     "events": {
@@ -26,6 +40,7 @@
         "properties": {
           "id": { "type": "string" },
           "name": { "type": "string" },
+          "name_en": { "type": "string", "description": "英文事件名" },
           "date": { "type": "string", "format": "date" },
           "time": { "type": "string", "pattern": "^[0-9]{2}:[0-9]{2}$" },
           "timezone": { "type": "string" },
@@ -35,6 +50,7 @@
           },
           "year": { "type": "integer" },
           "description": { "type": "string" },
+          "description_en": { "type": "string", "description": "英文事件描述" },
           "url": { "type": "string", "format": "uri" },
           "status": {
             "type": "string",
