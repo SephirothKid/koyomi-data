@@ -1,0 +1,123 @@
+{
+  "id": "cet",
+  "name": "大学英语四六级",
+  "category": "exam",
+  "name_en": "CET-4 and CET-6",
+  "subcategory": "语言考试",
+  "description": "全国大学英语四、六级考试报名、口试、笔试、成绩查询等关键时间节点。",
+  "icon": "📝",
+  "tags": [
+    "四六级",
+    "CET",
+    "英语考试",
+    "成绩查询"
+  ],
+  "tags_en": [
+    "CET",
+    "English",
+    "Exam"
+  ],
+  "maintainer": "official",
+  "source_url": "https://cet.neea.edu.cn",
+  "subscriber_count": 46800,
+  "rating": 4.8,
+  "rating_count": 530,
+  "events": [
+    {
+      "id": "cet-2026-h1-registration",
+      "name": "2026上半年四六级报名",
+      "date": "2026-03-15",
+      "end_date": "2026-04-10",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "各考点报名时间不同，以所在学校通知为准。",
+      "url": "https://cet.neea.edu.cn",
+      "status": "completed",
+      "last_verified": "2026-06-04",
+      "verified_by": "official"
+    },
+    {
+      "id": "cet-2026-h1-oral-exam",
+      "name": "2026上半年四六级口试",
+      "date": "2026-05-23",
+      "end_date": "2026-05-24",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "大学英语四、六级口语考试。",
+      "url": "https://cet.neea.edu.cn",
+      "status": "completed",
+      "last_verified": "2026-06-04",
+      "verified_by": "official"
+    },
+    {
+      "id": "cet-2026-h1-written-exam",
+      "name": "2026上半年四六级笔试",
+      "date": "2026-06-13",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "大学英语四、六级笔试。",
+      "url": "https://cet.neea.edu.cn",
+      "status": "confirmed",
+      "last_verified": "2026-06-04",
+      "verified_by": "official"
+    },
+    {
+      "id": "cet-2026-h1-results",
+      "name": "2026上半年四六级成绩查询",
+      "date": "2026-08-22",
+      "timezone": "Asia/Shanghai",
+      "type": "announcement",
+      "year": 2026,
+      "description": "成绩查询预计 8 月下旬开放，具体以中国教育考试网公告为准。",
+      "url": "https://cet.neea.edu.cn",
+      "status": "planned",
+      "last_verified": "2026-06-04",
+      "verified_by": "official"
+    },
+    {
+      "id": "cet-2026-h2-registration",
+      "name": "2026下半年四六级报名",
+      "date": "2026-09-10",
+      "end_date": "2026-10-10",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "各考点报名时间不同，以所在学校通知为准。",
+      "url": "https://cet.neea.edu.cn",
+      "status": "planned",
+      "last_verified": "2026-06-04",
+      "verified_by": "official"
+    },
+    {
+      "id": "cet-2026-h2-oral-exam",
+      "name": "2026下半年四六级口试",
+      "date": "2026-11-21",
+      "end_date": "2026-11-22",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "大学英语四、六级口语考试，具体以官方公告为准。",
+      "url": "https://cet.neea.edu.cn",
+      "status": "planned",
+      "last_verified": "2026-06-04",
+      "verified_by": "official"
+    },
+    {
+      "id": "cet-2026-h2-written-exam",
+      "name": "2026下半年四六级笔试",
+      "date": "2026-12-12",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "大学英语四、六级笔试，具体以官方公告为准。",
+      "url": "https://cet.neea.edu.cn",
+      "status": "planned",
+      "last_verified": "2026-06-04",
+      "verified_by": "official"
+    }
+  ],
+  "last_updated": "2026-06-04"
+}

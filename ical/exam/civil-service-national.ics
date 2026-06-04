@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//civil-service-national//EN
+URL:https://koyomi.cast/sources/civil-service-national
+NAME:国考
+X-WR-CALNAME:国考
+X-WR-CALDESC:中央机关及其直属机构考试录用公务员关键时
+ 间节点，包括公告、报名、资格审查、缴费、准考证、
+ 笔试和成绩查询。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:civil-service-national-civil-service-national-2026-announcement@koyomi
+ .cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20251014
+DTEND;VALUE=DATE:20251015
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:国考 · 度国考公告发布
+DESCRIPTION:中央机关及其直属机构 2026 年度考试录用公务
+ 员公告发布。
+CATEGORIES:国考
+URL;VALUE=URI:http://bm.scs.gov.cn/kl2026
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-national-civil-service-national-2026-register-open@koyom
+ i.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART:20251015T080000
+DTEND:20251015T090000
+SUMMARY:国考 · 度国考报名开始
+DESCRIPTION:考生可登录专题网站提交报考申请。
+CATEGORIES:国考
+URL;VALUE=URI:http://bm.scs.gov.cn/kl2026
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-national-civil-service-national-2026-register-close@koyo
+ mi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART:20251024T180000
+DTEND:20251024T190000
+SUMMARY:国考 · 度国考报名截止
+DESCRIPTION:报名申请提交截止，逾期不再受理。
+CATEGORIES:国考
+URL;VALUE=URI:http://bm.scs.gov.cn/kl2026
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-national-civil-service-national-2026-qualification-close
+ @koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART:20251026T180000
+DTEND:20251026T190000
+SUMMARY:国考 · 度国考资格审查截止
+DESCRIPTION:招录机关资格审查截止。
+CATEGORIES:国考
+URL;VALUE=URI:http://bm.scs.gov.cn/kl2026
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-national-civil-service-national-2026-payment-close@koyom
+ i.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART:20251106T000000
+DTEND:20251106T010000
+SUMMARY:国考 · 度国考缴费确认截止
+DESCRIPTION:通过资格审查的考生完成网上报名确认并缴费
+ 。
+CATEGORIES:国考
+URL;VALUE=URI:http://bm.scs.gov.cn/kl2026
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-national-civil-service-national-2026-admission-ticket@ko
+ yomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20251124
+DTEND;VALUE=DATE:20251201
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:国考 · 度国考准考证打印
+DESCRIPTION:准考证打印开放期。
+CATEGORIES:国考
+URL;VALUE=URI:http://bm.scs.gov.cn/kl2026
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-national-civil-service-national-2026-written-exam@koyomi
+ .cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20251130
+DTEND;VALUE=DATE:20251201
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:国考 · 度国考公共科目笔试
+DESCRIPTION:中央机关及其直属机构考试录用公务员公共科
+ 目笔试。
+CATEGORIES:国考
+URL;VALUE=URI:http://bm.scs.gov.cn/kl2026
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-national-civil-service-national-2026-results@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:国考 · 度国考笔试成绩查询
+DESCRIPTION:笔试成绩和合格分数线预计于 2026 年 1 月公布
+ ，具体以官方专题网站为准。
+CATEGORIES:国考
+URL;VALUE=URI:http://bm.scs.gov.cn/kl2026
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

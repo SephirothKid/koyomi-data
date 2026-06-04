@@ -1,0 +1,111 @@
+{
+  "id": "ruankao",
+  "name": "软考",
+  "category": "exam",
+  "name_en": "China Computer Technology and Software Professional Qualification Exam",
+  "subcategory": "职业资格",
+  "description": "计算机技术与软件专业技术资格考试上半年、下半年报名、准考证、考试和成绩节点。",
+  "icon": "💻",
+  "tags": [
+    "软考",
+    "软件资格",
+    "职称",
+    "计算机"
+  ],
+  "tags_en": [
+    "Software Qualification",
+    "Computer",
+    "Exam"
+  ],
+  "maintainer": "official",
+  "source_url": "https://www.ruankao.org.cn",
+  "subscriber_count": 28600,
+  "rating": 4.7,
+  "rating_count": 310,
+  "events": [
+    {
+      "id": "ruankao-2026-h1-registration",
+      "name": "2026上半年软考报名",
+      "date": "2026-03-15",
+      "end_date": "2026-04-15",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "各地报名时间不同，以当地软考办通知为准。",
+      "url": "https://www.ruankao.org.cn",
+      "status": "completed",
+      "last_verified": "2026-06-04",
+      "verified_by": "official"
+    },
+    {
+      "id": "ruankao-2026-h1-admission-ticket",
+      "name": "2026上半年软考准考证打印",
+      "date": "2026-05-18",
+      "end_date": "2026-05-24",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "准考证打印开放期，具体以当地通知为准。",
+      "url": "https://www.ruankao.org.cn",
+      "status": "completed",
+      "last_verified": "2026-06-04",
+      "verified_by": "official"
+    },
+    {
+      "id": "ruankao-2026-h1-exam",
+      "name": "2026上半年软考",
+      "date": "2026-05-23",
+      "end_date": "2026-05-24",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "计算机技术与软件专业技术资格考试上半年考试。",
+      "url": "https://www.ruankao.org.cn",
+      "status": "completed",
+      "last_verified": "2026-06-04",
+      "verified_by": "official"
+    },
+    {
+      "id": "ruankao-2026-h1-results",
+      "name": "2026上半年软考成绩查询",
+      "date": "2026-07-15",
+      "timezone": "Asia/Shanghai",
+      "type": "announcement",
+      "year": 2026,
+      "description": "成绩查询预计 7 月开放，具体以官方公告为准。",
+      "url": "https://www.ruankao.org.cn",
+      "status": "planned",
+      "last_verified": "2026-06-04",
+      "verified_by": "official"
+    },
+    {
+      "id": "ruankao-2026-h2-registration",
+      "name": "2026下半年软考报名",
+      "date": "2026-08-15",
+      "end_date": "2026-09-15",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "各地报名时间不同，以当地软考办通知为准。",
+      "url": "https://www.ruankao.org.cn",
+      "status": "planned",
+      "last_verified": "2026-06-04",
+      "verified_by": "official"
+    },
+    {
+      "id": "ruankao-2026-h2-exam",
+      "name": "2026下半年软考",
+      "date": "2026-11-07",
+      "end_date": "2026-11-08",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "计算机技术与软件专业技术资格考试下半年考试。",
+      "url": "https://www.ruankao.org.cn",
+      "status": "planned",
+      "last_verified": "2026-06-04",
+      "verified_by": "official"
+    }
+  ],
+  "last_updated": "2026-06-04"
+}

@@ -1,0 +1,131 @@
+{
+  "id": "lpl",
+  "name": "LPL",
+  "category": "sports",
+  "name_en": "League of Legends Pro League",
+  "subcategory": "电竞",
+  "description": "英雄联盟职业联赛 LPL 赛季关键阶段，包括赛季开赛、常规赛、季后赛、决赛和全球总决赛资格相关节点。",
+  "icon": "🎮",
+  "tags": [
+    "LPL",
+    "英雄联盟",
+    "电竞",
+    "季后赛",
+    "决赛"
+  ],
+  "tags_en": [
+    "LPL",
+    "League of Legends",
+    "Esports"
+  ],
+  "maintainer": "community",
+  "source_url": "https://lpl.qq.com",
+  "subscriber_count": 56600,
+  "rating": 4.8,
+  "rating_count": 510,
+  "events": [
+    {
+      "id": "lpl-2026-split-1-opening-window",
+      "name": "2026 LPL 第一赛段开赛窗口",
+      "date": "2026-01-10",
+      "end_date": "2026-01-25",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "LPL 年初赛段常见开赛窗口，具体赛程和队伍对阵以英雄联盟赛事官方公布为准。",
+      "url": "https://lpl.qq.com",
+      "status": "completed",
+      "last_verified": "2026-06-04",
+      "verified_by": "community",
+      "details": {
+        "赛事": "英雄联盟职业联赛",
+        "状态说明": "未接入逐场官方赛程前，以阶段窗口提醒为主"
+      }
+    },
+    {
+      "id": "lpl-2026-split-1-playoffs-window",
+      "name": "2026 LPL 第一赛段淘汰赛窗口",
+      "date": "2026-03-01",
+      "end_date": "2026-03-25",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "第一赛段淘汰赛和决赛窗口，具体日期以官方赛程为准。",
+      "url": "https://lpl.qq.com",
+      "status": "completed",
+      "last_verified": "2026-06-04",
+      "verified_by": "community"
+    },
+    {
+      "id": "lpl-2026-split-2-opening-window",
+      "name": "2026 LPL 第二赛段开赛窗口",
+      "date": "2026-04-05",
+      "end_date": "2026-04-20",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "LPL 年中赛段常见开赛窗口，具体赛制、分组和对阵以官方公告为准。",
+      "url": "https://lpl.qq.com",
+      "status": "completed",
+      "last_verified": "2026-06-04",
+      "verified_by": "community"
+    },
+    {
+      "id": "lpl-2026-split-2-finals-window",
+      "name": "2026 LPL 第二赛段决赛窗口",
+      "date": "2026-05-20",
+      "end_date": "2026-06-05",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "第二赛段收官和国际赛事资格相关窗口。",
+      "url": "https://lpl.qq.com",
+      "status": "planned",
+      "last_verified": "2026-06-04",
+      "verified_by": "community"
+    },
+    {
+      "id": "lpl-2026-summer-opening-window",
+      "name": "2026 LPL 夏季赛开赛窗口",
+      "date": "2026-06-15",
+      "end_date": "2026-07-05",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "LPL 夏季赛常见开赛窗口，后续可升级为逐场比赛订阅。",
+      "url": "https://lpl.qq.com",
+      "status": "planned",
+      "last_verified": "2026-06-04",
+      "verified_by": "community"
+    },
+    {
+      "id": "lpl-2026-summer-playoffs-window",
+      "name": "2026 LPL 夏季赛季后赛窗口",
+      "date": "2026-08-15",
+      "end_date": "2026-09-10",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "夏季赛季后赛和年度总决赛资格集中窗口。",
+      "url": "https://lpl.qq.com",
+      "status": "planned",
+      "last_verified": "2026-06-04",
+      "verified_by": "community"
+    },
+    {
+      "id": "lpl-2026-regional-finals-window",
+      "name": "2026 LPL 全球总决赛资格赛窗口",
+      "date": "2026-09-10",
+      "end_date": "2026-09-20",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "LPL 全球总决赛资格赛常见窗口，具体以官方公告为准。",
+      "url": "https://lpl.qq.com",
+      "status": "planned",
+      "last_verified": "2026-06-04",
+      "verified_by": "community"
+    }
+  ],
+  "last_updated": "2026-06-04"
+}

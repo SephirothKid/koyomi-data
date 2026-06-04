@@ -30,9 +30,6 @@
     "last_updated": { "type": "string", "format": "date" },
     "version": { "type": "string" },
     "events": {
-    "maintainer": { "type": "string", "enum": ["official", "community"] },
-    "last_updated": { "type": "string", "format": "date" },
-    "events": {
       "type": "array",
       "items": {
         "type": "object",

@@ -12,6 +12,20 @@ const SEASONAL_FOOTBALL_SOURCE_IDS = new Set(['epl', 'bundesliga', 'laliga', 'se
 
 mkdirSync(ICAL_DIR, { recursive: true })
 
+function sourceIcalDir(source) {
+  const category = source.category ?? 'other'
+  const dir = join(ICAL_DIR, category)
+  mkdirSync(dir, { recursive: true })
+  return dir
+}
+
+function writeCalendar(source, filename, calendar) {
+  const content = calendar.toString()
+  writeFileSync(join(sourceIcalDir(source), filename), content, 'utf8')
+  // Backward-compatible flat path for existing webcal links.
+  writeFileSync(join(ICAL_DIR, filename), content, 'utf8')
+}
+
 function collectJsonFiles(dir) {
   const files = []
   for (const entry of readdirSync(dir)) {
@@ -30,6 +44,11 @@ function parseEventDate(dateStr, timeStr, tzOffsetStr) {
     return new Date(`${dateStr}T${timeStr}:00${tzOffsetStr}`)
   }
   return new Date(`${dateStr}T00:00:00${tzOffsetStr}`)
+}
+
+function stampForEvent(event) {
+  const date = event.last_verified ?? event.date
+  return new Date(`${date}T00:00:00+08:00`)
 }
 
 function tzOffset(tz) {
@@ -140,8 +159,10 @@ function createCalendar(source, events, options = {}) {
     const summary = `${options.calendarName ?? source.name} · ${shortEventName}`
 
     cal.createEvent({
+      id: `${options.productId ?? source.id}-${event.id}@koyomi.cast`,
       start,
       end,
+      stamp: stampForEvent(event),
       allDay: !hasTime,
       summary,
       description: [
@@ -175,8 +196,7 @@ for (const file of files) {
   const cal = createCalendar(source, calendarEvents)
   totalEvents += calendarEvents.length
 
-  const outPath = join(ICAL_DIR, `${source.id}.ics`)
-  writeFileSync(outPath, cal.toString(), 'utf8')
+  writeCalendar(source, `${source.id}.ics`, cal)
 
   const teams = collectTeams(calendarEvents)
   for (const team of teams) {
@@ -194,7 +214,7 @@ for (const file of files) {
       summaryForEvent: event => teamEventSummary(event, team),
     })
 
-    writeFileSync(join(ICAL_DIR, `${teamSourceId}.ics`), teamCal.toString(), 'utf8')
+    writeCalendar(source, `${teamSourceId}.ics`, teamCal)
     totalTeamCalendars++
   }
 

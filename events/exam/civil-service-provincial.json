@@ -1,0 +1,121 @@
+{
+  "id": "civil-service-provincial",
+  "name": "省考",
+  "category": "exam",
+  "name_en": "China Provincial Civil Service Exams",
+  "subcategory": "公务员",
+  "description": "各省公务员考试公告、报名、笔试、成绩、面试等关键窗口聚合。省级时间差异较大，本源优先提醒全国共性阶段。",
+  "icon": "🏛️",
+  "tags": [
+    "省考",
+    "公务员",
+    "联考",
+    "报名",
+    "笔试"
+  ],
+  "tags_en": [
+    "Provincial Civil Service",
+    "Exam",
+    "Registration"
+  ],
+  "maintainer": "community",
+  "source_url": "https://www.offcn.com/gwy/",
+  "subscriber_count": 42800,
+  "rating": 4.7,
+  "rating_count": 360,
+  "events": [
+    {
+      "id": "civil-service-provincial-2026-multi-province-announcement-window",
+      "name": "2026年度省考公告集中发布窗口",
+      "date": "2025-10-15",
+      "end_date": "2025-11-30",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "多省公务员考试公告通常在上一年四季度陆续发布，部分省份单独招录或提前发布。",
+      "url": "https://www.offcn.com/gwy/",
+      "status": "completed",
+      "last_verified": "2026-06-04",
+      "verified_by": "community",
+      "details": {
+        "覆盖省份": "北京、天津、河北、山西、内蒙古、辽宁、吉林、黑龙江、上海、江苏、浙江、安徽、福建、江西、山东、河南、湖北、湖南、广东、广西、海南、重庆、四川、贵州、云南、西藏、陕西、甘肃、青海、宁夏、新疆",
+        "注意事项": "各省公告、职位表、报名时间和考试安排以当地组织部门或人事考试网为准"
+      }
+    },
+    {
+      "id": "civil-service-provincial-2026-multi-province-registration-window",
+      "name": "2026年度省考报名集中窗口",
+      "date": "2025-10-20",
+      "end_date": "2025-12-10",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "各省报名窗口差异较大，建议结合目标省份官方公告确认资格条件、职位表和缴费截止时间。",
+      "url": "https://www.offcn.com/gwy/",
+      "status": "completed",
+      "last_verified": "2026-06-04",
+      "verified_by": "community"
+    },
+    {
+      "id": "civil-service-provincial-2026-admission-ticket-window",
+      "name": "2026年度省考准考证打印窗口",
+      "date": "2025-11-25",
+      "end_date": "2025-12-15",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "准考证打印通常在笔试前一周左右开放，具体以报考省份公告为准。",
+      "url": "https://www.offcn.com/gwy/",
+      "status": "completed",
+      "last_verified": "2026-06-04",
+      "verified_by": "community"
+    },
+    {
+      "id": "civil-service-provincial-2026-joint-written-exam",
+      "name": "2026年度多省联考笔试窗口",
+      "date": "2025-12-06",
+      "end_date": "2025-12-07",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "多省公务员考试笔试集中窗口。并非所有省份同日考试，部分省份会提前或单独组织。",
+      "url": "https://www.offcn.com/gwy/",
+      "status": "completed",
+      "last_verified": "2026-06-04",
+      "verified_by": "community",
+      "details": {
+        "考试科目": "行政职业能力测验、申论；部分岗位含专业科目",
+        "提醒": "请以准考证上的考试时间和考点为准"
+      }
+    },
+    {
+      "id": "civil-service-provincial-2026-score-release-window",
+      "name": "2026年度省考笔试成绩公布窗口",
+      "date": "2026-01-10",
+      "end_date": "2026-02-10",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "各省笔试成绩、合格分数线和资格复审通知陆续公布。",
+      "url": "https://www.offcn.com/gwy/",
+      "status": "completed",
+      "last_verified": "2026-06-04",
+      "verified_by": "community"
+    },
+    {
+      "id": "civil-service-provincial-2026-interview-window",
+      "name": "2026年度省考面试窗口",
+      "date": "2026-02-20",
+      "end_date": "2026-04-30",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "省考面试、体检、考察等后续环节由各省分别组织。",
+      "url": "https://www.offcn.com/gwy/",
+      "status": "completed",
+      "last_verified": "2026-06-04",
+      "verified_by": "community"
+    }
+  ],
+  "last_updated": "2026-06-04"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "console-showcases",
+  "name": "主机游戏发布会",
+  "category": "gaming",
+  "name_en": "Console Game Showcases",
+  "subcategory": "发布会",
+  "description": "PlayStation、Xbox、Nintendo 等主机平台发布会和大型线上展示窗口。",
+  "icon": "🎮",
+  "tags": [
+    "PlayStation",
+    "Xbox",
+    "Nintendo",
+    "发布会"
+  ],
+  "tags_en": [
+    "PlayStation",
+    "Xbox",
+    "Nintendo",
+    "Showcase"
+  ],
+  "maintainer": "community",
+  "source_url": "https://www.playstation.com/en-us/state-of-play/",
+  "subscriber_count": 33600,
+  "rating": 4.6,
+  "rating_count": 240,
+  "events": [
+    {
+      "id": "console-showcases-2026-feb-nintendo-direct-window",
+      "name": "2026 年初 Nintendo Direct 窗口",
+      "date": "2026-02-01",
+      "end_date": "2026-02-28",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "Nintendo Direct 常见年初发布窗口，具体以任天堂官方公告为准。",
+      "url": "https://www.nintendo.com/us/nintendo-direct/",
+      "status": "completed",
+      "last_verified": "2026-06-04",
+      "verified_by": "community"
+    },
+    {
+      "id": "console-showcases-2026-summer-game-fest",
+      "name": "2026 Summer Game Fest 窗口",
+      "date": "2026-06-05",
+      "end_date": "2026-06-15",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "夏季游戏发布集中窗口，含主机平台展示可能性，具体以官方公告为准。",
+      "url": "https://www.summergamefest.com",
+      "status": "planned",
+      "last_verified": "2026-06-04",
+      "verified_by": "community"
+    },
+    {
+      "id": "console-showcases-2026-xbox-showcase-window",
+      "name": "2026 Xbox Showcase 窗口",
+      "date": "2026-06-08",
+      "end_date": "2026-06-15",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "Xbox Games Showcase 常见窗口，具体以 Xbox 官方公告为准。",
+      "url": "https://news.xbox.com/en-us/events/",
+      "status": "planned",
+      "last_verified": "2026-06-04",
+      "verified_by": "community"
+    },
+    {
+      "id": "console-showcases-2026-playstation-state-of-play-window",
+      "name": "2026 PlayStation State of Play 窗口",
+      "date": "2026-09-01",
+      "end_date": "2026-09-30",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "PlayStation State of Play 常见秋季窗口，具体以 PlayStation 官方公告为准。",
+      "url": "https://www.playstation.com/en-us/state-of-play/",
+      "status": "planned",
+      "last_verified": "2026-06-04",
+      "verified_by": "community"
+    },
+    {
+      "id": "console-showcases-2026-sep-nintendo-direct-window",
+      "name": "2026 秋季 Nintendo Direct 窗口",
+      "date": "2026-09-01",
+      "end_date": "2026-09-30",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "Nintendo Direct 常见秋季发布窗口，具体以任天堂官方公告为准。",
+      "url": "https://www.nintendo.com/us/nintendo-direct/",
+      "status": "planned",
+      "last_verified": "2026-06-04",
+      "verified_by": "community"
+    }
+  ],
+  "last_updated": "2026-06-04"
+}
