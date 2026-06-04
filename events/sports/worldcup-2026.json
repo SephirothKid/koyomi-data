@@ -1,11 +1,23 @@
 {
   "id": "worldcup-2026",
   "name": "2026 FIFA 世界杯",
+  "name_en": "FIFA World Cup 2026 Schedule",
   "category": "sports",
   "subcategory": "足球",
   "description": "2026 FIFA 世界杯完整赛程，覆盖小组赛、淘汰赛和决赛，开赛时间自动换算为北京时间。",
   "icon": "/logos/worldcup-2026.svg",
-  "tags": ["世界杯", "足球", "FIFA World Cup", "2026"],
+  "tags": [
+    "世界杯",
+    "足球",
+    "FIFA World Cup",
+    "2026"
+  ],
+  "tags_en": [
+    "World Cup",
+    "Football",
+    "FIFA World Cup",
+    "2026"
+  ],
   "maintainer": "community",
   "source_url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
   "subscriber_count": 0,
@@ -1987,6 +1999,5 @@
         "场馆": "New York/New Jersey (East Rutherford)"
       }
     }
-  ],
-  "last_updated": "2026-05-29"
+  ]
 }
