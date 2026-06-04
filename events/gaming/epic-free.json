@@ -21,7 +21,7 @@
   "subscriber_count": 30160,
   "rating": 4.4,
   "rating_count": 460,
-  "last_updated": "2026-05-29",
+  "last_updated": "2026-06-04",
   "events": [
     {
       "id": "epic-free-2026-w21",
@@ -93,35 +93,71 @@
     },
     {
       "id": "epic-free-2026-w23",
-      "name": "本周免费游戏即将揭晓",
+      "name": "Rogue Waters、Songs of Conquest",
       "date": "2026-06-04",
       "time": "23:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "本周 Epic 免费游戏即将揭晓",
+      "description": "本周免费游戏：Rogue Waters、Songs of Conquest",
       "url": "https://store.epicgames.com/zh-CN/free-games",
-      "status": "confirmed",
-      "last_verified": "2026-05-29",
+      "status": "active",
+      "last_verified": "2026-06-04",
       "verified_by": "auto",
       "details": {
         "领取方式": "Epic Games Store 客户端/网页",
         "领取条件": "免费注册账号即可",
         "注意事项": "每周四 23:00 更新，领取后永久拥有",
-        "本周游戏": "Mystery Game Week 23 Game 2、Mystery Game Week 23 Game 1"
+        "本周游戏": "Rogue Waters、Songs of Conquest"
       },
       "games": [
         {
-          "title": "Mystery Game Week 23 Game 2",
-          "description": "Mystery Game Week 23 Game 2",
-          "cover_url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image24_1200x1600-bdc90908480d4d5a96ec4535855aeff3",
-          "store_url": "https://store.epicgames.com/zh-CN/free-games"
+          "title": "Rogue Waters",
+          "description": "Rogue Waters",
+          "cover_url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/rogue-waters-tall_1200x1600-55610e5192044343b4c29110df6dddd2",
+          "store_url": "https://store.epicgames.com/zh-CN/p/rogue-waters-9764d6"
         },
         {
-          "title": "Mystery Game Week 23 Game 1",
-          "description": "Mystery Game Week 23 Game 1",
-          "cover_url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image24_1200x1600-bdc90908480d4d5a96ec4535855aeff3",
-          "store_url": "https://store.epicgames.com/zh-CN/free-games"
+          "title": "Songs of Conquest",
+          "description": "Raise mighty armies, wield ancient magic and forge an empire. This turn-based strategy adventure game fuses strategic decision making, tactical combat and kingdom management.",
+          "cover_url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/s1_1200x1600-5e296211a81e454581c74020030177c1",
+          "store_url": "https://store.epicgames.com/zh-CN/p/songs-of-conquest"
+        }
+      ]
+    },
+    {
+      "id": "epic-free-2026-w24",
+      "name": "The Ouroboros King、Warhammer 40K Speed Freeks",
+      "date": "2026-06-11",
+      "time": "23:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "本周免费游戏：The Ouroboros King、Warhammer 40K Speed Freeks",
+      "url": "https://store.epicgames.com/zh-CN/free-games",
+      "status": "confirmed",
+      "last_verified": "2026-06-04",
+      "verified_by": "auto",
+      "details": {
+        "领取方式": "Epic Games Store 客户端/网页",
+        "领取条件": "免费注册账号即可",
+        "注意事项": "每周四 23:00 更新，领取后永久拥有",
+        "本周游戏": "The Ouroboros King、Warhammer 40K Speed Freeks"
+      },
+      "games": [
+        {
+          "title": "The Ouroboros King",
+          "description": "The Ouroboros King combines the strategic depth of chess with the build variety and replayability of roguelikes. Assemble a formidable army, discover powerful relics, and buy surprising gadgets to defeat the Coven.",
+          "cover_url": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-1f4ei.jpg",
+          "original_price": "¥31.00",
+          "store_url": "https://store.epicgames.com/zh-CN/p/the-ouroboros-king"
+        },
+        {
+          "title": "Warhammer 40K Speed Freeks",
+          "description": "High-octane combat racing in the Warhammer 40,000 universe.",
+          "cover_url": "https://cdn1.epicgames.com/spt-assets/a1af14251fb748fc9bda63bfc260f933/warhammer-40k-speed-freeks-1qfk9.png",
+          "original_price": "¥62.00",
+          "store_url": "https://store.epicgames.com/zh-CN/p/b28e038bd68b4e80840e7fb8b747de54"
         }
       ]
     }
