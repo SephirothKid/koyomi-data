@@ -10,6 +10,10 @@ const EVENTS_DIR = join(ROOT, 'events')
 const ICAL_DIR = join(ROOT, 'ical')
 const SEASONAL_FOOTBALL_SOURCE_IDS = new Set(['epl', 'bundesliga', 'laliga', 'seriea', 'ligue1', 'ucl', 'uel', 'uecl'])
 
+// 语言模式：通过环境变量 LANG 控制，支持 'zh' (默认) 和 'en'
+const LANG = process.env.LANG === 'en' ? 'en' : 'zh'
+const IS_EN = LANG === 'en'
+
 mkdirSync(ICAL_DIR, { recursive: true })
 
 function sourceIcalDir(source) {
@@ -97,6 +101,7 @@ function collectTeams(events) {
         id: team.id,
         code: team.code ?? team.id.toUpperCase(),
         name: team.name,
+        nameEn: team.name_en ?? team.name,
       })
     }
   }
@@ -107,23 +112,51 @@ function eventIncludesTeam(event, teamId) {
   return event.teams?.home?.id === teamId || event.teams?.away?.id === teamId
 }
 
-function teamEventSummary(event, team) {
+function teamEventSummary(event, team, isEn = false) {
   const home = event.teams?.home
   const away = event.teams?.away
-  if (!home || !away) return event.name
+  if (!home || !away) return eventName(event, isEn)
 
   const isHome = home.id === team.id
   const opponent = isHome ? away : home
+  const opponentName = isEn ? (opponent.name_en ?? opponent.name) : opponent.name
+  const teamName = isEn ? (team.nameEn ?? team.name) : team.name
   const marker = isHome ? 'vs' : '@'
-  const phase = event.details?.['阶段'] ?? event.details?.['赛段'] ?? ''
+  const phaseKey = isEn ? 'Phase' : '阶段'
+  const phase = event.details?.[phaseKey] ?? event.details?.['赛段'] ?? ''
   const prefix = phase ? `${phase} · ` : ''
-  return `${prefix}${team.name} ${marker} ${opponent.name}`
+  return `${prefix}${teamName} ${marker} ${opponentName}`
+}
+
+// 获取事件名称（根据语言）
+function eventName(event, isEn = false) {
+  if (isEn && event.name_en) return event.name_en
+  return event.name
+}
+
+// 获取事件描述（根据语言）
+function eventDescription(event, isEn = false) {
+  if (isEn && event.description_en) return event.description_en
+  return event.description ?? ''
+}
+
+// 获取源名称（根据语言）
+function sourceName(source, isEn = false) {
+  if (isEn && source.name_en) return source.name_en
+  return source.name
+}
+
+// 获取源描述（根据语言）
+function sourceDescription(source, isEn = false) {
+  if (isEn && source.description_en) return source.description_en
+  return source.description ?? ''
 }
 
 function createCalendar(source, events, options = {}) {
+  const isEn = options.lang === 'en'
   const cal = ical({
-    name: options.name ?? source.name,
-    description: options.description ?? source.description ?? '',
+    name: options.name ?? sourceName(source, isEn),
+    description: options.description ?? sourceDescription(source, isEn) ?? '',
     prodId: { company: 'Koyomi Cast', product: options.productId ?? source.id },
     url: options.url ?? `https://koyomi.cast/sources/${source.id}`,
     timezone: source.timezone ?? 'Asia/Shanghai',
@@ -154,9 +187,42 @@ function createCalendar(source, events, options = {}) {
     // 去掉 event.name 中的年份前缀，避免重复（如「2026年报名开始」→「报名开始」）
     // 支持格式：2026年 / 2026 / 2027 等任意 4 位年份 + 可选「年」字 + 可选空格
     // 保护跨赛季格式如「2025-26」，要求年份后不能紧跟数字或连字符
-    const rawEventName = options.summaryForEvent?.(event) ?? event.name
+    const rawEventName = options.summaryForEvent?.(event) ?? eventName(event, isEn)
     const shortEventName = rawEventName.replace(/^\d{4}(?:年|\s*)(?![\d-])/u, '')
-    const summary = `${options.calendarName ?? source.name} · ${shortEventName}`
+    const summary = `${options.calendarName ?? sourceName(source, isEn)} · ${shortEventName}`
+
+    // 构建描述内容
+    const descParts = [eventDescription(event, isEn)]
+
+    // 比分信息
+    if (event.result && event.details?.['主场'] && event.details?.['客场']) {
+      const homeLabel = isEn ? 'Home' : '主场'
+      const awayLabel = isEn ? 'Away' : '客场'
+      const scoreLabel = isEn ? 'Score' : '比分'
+      descParts.push(
+        `${scoreLabel}: ${event.details['主场']} ${event.result.home_score} - ${event.result.away_score} ${event.details['客场']}`
+      )
+    }
+
+    // 游戏列表
+    if (event.games?.length) {
+      const gamesLabel = isEn ? 'Games this week:' : '本周游戏：'
+      descParts.push(
+        gamesLabel + '\n' + event.games.map((g, i) => {
+          const title = g.title_en ?? g.title
+          const priceLabel = isEn ? 'Original price' : '原价'
+          return `${i + 1}. ${title}${g.original_price ? ` (${priceLabel} ${g.original_price})` : ''}`
+        }).join('\n')
+      )
+    }
+
+    // 详情键值对
+    if (event.details) {
+      const detailsEn = event.details_en ?? event.details
+      descParts.push(
+        Object.entries(detailsEn).map(([k, v]) => `${k}: ${v}`).join('\n')
+      )
+    }
 
     cal.createEvent({
       id: `${options.productId ?? source.id}-${event.id}@koyomi.cast`,
@@ -165,21 +231,10 @@ function createCalendar(source, events, options = {}) {
       stamp: stampForEvent(event),
       allDay: !hasTime,
       summary,
-      description: [
-        event.description ?? '',
-        event.result && event.details?.['主场'] && event.details?.['客场']
-          ? `比分: ${event.details['主场']} ${event.result.home_score} - ${event.result.away_score} ${event.details['客场']}`
-          : '',
-        event.games?.length
-          ? '本周游戏：\n' + event.games.map((g, i) => `${i + 1}. ${g.title}${g.original_price ? ` (原价 ${g.original_price})` : ''}`).join('\n')
-          : '',
-        event.details
-          ? Object.entries(event.details).map(([k, v]) => `${k}: ${v}`).join('\n')
-          : '',
-      ].filter(Boolean).join('\n\n'),
+      description: descParts.filter(Boolean).join('\n\n'),
       url: event.url ?? source.source_url ?? `https://koyomi.cast/sources/${source.id}`,
       status: event.status === 'cancelled' ? 'CANCELLED' : 'CONFIRMED',
-      categories: [{ name: options.calendarName ?? source.name }],
+      categories: [{ name: options.calendarName ?? sourceName(source, isEn) }],
     })
   }
 
@@ -193,10 +248,17 @@ let totalTeamCalendars = 0
 for (const file of files) {
   const source = JSON.parse(readFileSync(file, 'utf8'))
   const calendarEvents = eventsForCalendar(source)
-  const cal = createCalendar(source, calendarEvents)
-  totalEvents += calendarEvents.length
 
-  writeCalendar(source, `${source.id}.ics`, cal)
+  // 生成中文 iCal
+  const calZh = createCalendar(source, calendarEvents)
+  totalEvents += calendarEvents.length
+  writeCalendar(source, `${source.id}.ics`, calZh)
+
+  // 生成英文 iCal（如果源有英文名称）
+  if (source.name_en) {
+    const calEn = createCalendar(source, calendarEvents, { lang: 'en' })
+    writeCalendar(source, `${source.id}-en.ics`, calEn)
+  }
 
   const teams = collectTeams(calendarEvents)
   for (const team of teams) {
@@ -204,22 +266,40 @@ for (const file of files) {
     if (teamEvents.length === 0) continue
 
     const teamSourceId = `${source.id}-${team.id}`
-    const teamName = `${team.name}赛程`
-    const teamCal = createCalendar(source, teamEvents, {
-      name: teamName,
-      calendarName: teamName,
+    const teamNameZh = `${team.name}赛程`
+    const teamNameEn = `${team.nameEn} Schedule`
+
+    // 中文球队日历
+    const teamCalZh = createCalendar(source, teamEvents, {
+      name: teamNameZh,
+      calendarName: teamNameZh,
       description: `${team.name}在${source.name}中的比赛日程，自动同步更新。`,
       productId: teamSourceId,
       url: `https://koyomi.cast/sources/${source.id}`,
-      summaryForEvent: event => teamEventSummary(event, team),
+      summaryForEvent: event => teamEventSummary(event, team, false),
     })
+    writeCalendar(source, `${teamSourceId}.ics`, teamCalZh)
 
-    writeCalendar(source, `${teamSourceId}.ics`, teamCal)
+    // 英文球队日历
+    if (source.name_en) {
+      const teamCalEn = createCalendar(source, teamEvents, {
+        name: teamNameEn,
+        calendarName: teamNameEn,
+        description: `${team.nameEn} schedule in ${source.name_en}, auto-synced.`,
+        productId: teamSourceId,
+        url: `https://koyomi.cast/sources/${source.id}`,
+        summaryForEvent: event => teamEventSummary(event, team, true),
+        lang: 'en',
+      })
+      writeCalendar(source, `${teamSourceId}-en.ics`, teamCalEn)
+    }
+
     totalTeamCalendars++
   }
 
   const teamLabel = teams.length > 0 ? `, ${teams.length} team calendars` : ''
-  console.log(`✓ ${source.id}.ics (${calendarEvents.length}/${source.events?.length ?? 0} events${teamLabel})`)
+  const enLabel = source.name_en ? ' (+en)' : ''
+  console.log(`✓ ${source.id}.ics${enLabel} (${calendarEvents.length}/${source.events?.length ?? 0} events${teamLabel})`)
 }
 
 console.log(`\n✓ Generated ${files.length} source calendars, ${totalTeamCalendars} team calendars, ${totalEvents} events total`)

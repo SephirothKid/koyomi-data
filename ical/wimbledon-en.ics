@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//wimbledon//EN
+URL:https://koyomi.cast/sources/wimbledon
+NAME:The Championships, Wimbledon
+X-WR-CALNAME:The Championships, Wimbledon
+X-WR-CALDESC:温布尔登网球锦标赛资格赛、正赛和单打决赛
+ 日历。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:wimbledon-wimbledon-2026-qualifying@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260626
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:The Championships\, Wimbledon · 温布尔登网球锦标赛Qualif
+ ying
+DESCRIPTION:温布尔登网球锦标赛Qualifying窗口.\n\n英文名: The
+  Championships\, Wimbledon\n赛事级别: 网球四大满贯
+CATEGORIES:The Championships\, Wimbledon
+URL;VALUE=URI:https://www.wimbledon.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wimbledon-wimbledon-2026-main-draw@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260713
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:The Championships\, Wimbledon · 温布尔登网球锦标赛Race
+DESCRIPTION:温布尔登网球锦标赛Race日期.\n\n英文名: The Champ
+ ionships\, Wimbledon\n赛事级别: 网球四大满贯
+CATEGORIES:The Championships\, Wimbledon
+URL;VALUE=URI:https://www.wimbledon.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wimbledon-wimbledon-2026-women-final@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:The Championships\, Wimbledon · 温布尔登网球锦标赛Women'
+ s Final
+DESCRIPTION:温布尔登网球锦标赛Women's Final日\,具体开赛时
+ 间以官方赛程为准.
+CATEGORIES:The Championships\, Wimbledon
+URL;VALUE=URI:https://www.wimbledon.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wimbledon-wimbledon-2026-men-final@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:The Championships\, Wimbledon · 温布尔登网球锦标赛Men's 
+ Final
+DESCRIPTION:温布尔登网球锦标赛Men's Final日\,具体开赛时间
+ 以官方赛程为准.
+CATEGORIES:The Championships\, Wimbledon
+URL;VALUE=URI:https://www.wimbledon.com
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

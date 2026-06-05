@@ -118,6 +118,10 @@
         "name": {
           "type": "string",
           "description": "球队展示名"
+        },
+        "name_en": {
+          "type": "string",
+          "description": "球队英文名"
         }
       },
       "additionalProperties": false

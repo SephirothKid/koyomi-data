@@ -1,0 +1,138 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//postgraduate-exam//EN
+URL:https://koyomi.cast/sources/postgraduate-exam
+NAME:China Postgraduate Entrance Exam
+X-WR-CALNAME:China Postgraduate Entrance Exam
+X-WR-CALDESC:全国硕士研究生招生考试关键时间节点，包括
+ 预报名、正式报名、网上确认、准考证、初试、成绩和
+ 复试线。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:postgraduate-exam-postgraduate-exam-2026-pre-register-open@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART:20250924T090000
+DTEND:20250924T100000
+SUMMARY:China Postgraduate Entrance Exam · Postgraduate Pre-registration 
+ Opens
+DESCRIPTION:National postgraduate entrance exam pre-registration opens.
+CATEGORIES:China Postgraduate Entrance Exam
+URL;VALUE=URI:https://yz.chsi.com.cn
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:postgraduate-exam-postgraduate-exam-2026-pre-register-close@koyomi.cas
+ t
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART:20250927T220000
+DTEND:20250927T230000
+SUMMARY:China Postgraduate Entrance Exam · Postgraduate Pre-registration 
+ Closes
+DESCRIPTION:Pre-registration closes.
+CATEGORIES:China Postgraduate Entrance Exam
+URL;VALUE=URI:https://yz.chsi.com.cn
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:postgraduate-exam-postgraduate-exam-2026-register-open@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART:20251008T090000
+DTEND:20251008T100000
+SUMMARY:China Postgraduate Entrance Exam · Postgraduate Registration Open
+ s
+DESCRIPTION:National postgraduate entrance exam formal registration opens.
+CATEGORIES:China Postgraduate Entrance Exam
+URL;VALUE=URI:https://yz.chsi.com.cn
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:postgraduate-exam-postgraduate-exam-2026-register-close@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART:20251025T220000
+DTEND:20251025T230000
+SUMMARY:China Postgraduate Entrance Exam · Postgraduate Registration Clos
+ es
+DESCRIPTION:Formal registration closes.
+CATEGORIES:China Postgraduate Entrance Exam
+URL;VALUE=URI:https://yz.chsi.com.cn
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:postgraduate-exam-postgraduate-exam-2026-confirmation@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251106
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:China Postgraduate Entrance Exam · Postgraduate Online Verificati
+ on
+DESCRIPTION:Online verification period. Exact dates determined by provinci
+ al education authorities.
+CATEGORIES:China Postgraduate Entrance Exam
+URL;VALUE=URI:https://yz.chsi.com.cn
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:postgraduate-exam-postgraduate-exam-2026-admission-ticket@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20251210
+DTEND;VALUE=DATE:20251223
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:China Postgraduate Entrance Exam · Postgraduate Admission Ticket 
+ Download
+DESCRIPTION:Admission ticket download opens.
+CATEGORIES:China Postgraduate Entrance Exam
+URL;VALUE=URI:https://yz.chsi.com.cn
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:postgraduate-exam-postgraduate-exam-2026-initial-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251222
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:China Postgraduate Entrance Exam · Postgraduate Entrance Exam
+DESCRIPTION:National postgraduate entrance examination.
+CATEGORIES:China Postgraduate Entrance Exam
+URL;VALUE=URI:https://yz.chsi.com.cn
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:postgraduate-exam-postgraduate-exam-2026-results@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20260226
+DTEND;VALUE=DATE:20260227
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:China Postgraduate Entrance Exam · Postgraduate Entrance Exam
+DESCRIPTION:National postgraduate entrance examination.
+CATEGORIES:China Postgraduate Entrance Exam
+URL;VALUE=URI:https://yz.chsi.com.cn
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:postgraduate-exam-postgraduate-exam-2026-national-line@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:China Postgraduate Entrance Exam · Postgraduate National Cutoff
+DESCRIPTION:National cutoff score announced.
+CATEGORIES:China Postgraduate Entrance Exam
+URL;VALUE=URI:https://yz.chsi.com.cn
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
