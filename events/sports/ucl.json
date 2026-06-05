@@ -1,8 +1,8 @@
 {
   "id": "ucl",
   "name": "欧冠赛程",
-  "name_en": "UEFA Champions League Schedule",
   "category": "sports",
+  "name_en": "UEFA Champions League Schedule",
   "subcategory": "欧洲杯赛",
   "description": "欧冠完整赛季赛程，持续更新当前及未来赛季，覆盖联赛阶段、淘汰赛和决赛，开赛时间自动换算为北京时间。",
   "icon": "/logos/ucl.svg",
@@ -23,7 +23,7 @@
   "subscriber_count": 0,
   "rating": 0,
   "rating_count": 0,
-  "last_updated": "2026-06-02",
+  "last_updated": "2026-06-05",
   "events": [
     {
       "id": "ucl-2025-757653",
@@ -36,20 +36,18 @@
       "description": "阿森纳 作客 毕尔巴鄂竞技（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "ath",
           "code": "ATH",
-          "name": "毕尔巴鄂竞技",
-          "name_en": "Athletic Bilbao"
+          "name": "毕尔巴鄂竞技"
         },
         "away": {
           "id": "ars",
           "code": "ARS",
-          "name": "阿森纳",
-          "name_en": "Arsenal"
+          "name": "阿森纳"
         }
       },
       "details": {
@@ -65,9 +63,7 @@
         "away_score": 2,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Arsenal @ Athletic Bilbao",
-      "description_en": "Arsenal @ Athletic Bilbao(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757654",
@@ -80,14 +76,13 @@
       "description": "圣日洛瓦联 作客 埃因霍温（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "psv",
           "code": "PSV",
-          "name": "埃因霍温",
-          "name_en": "PSV Eindhoven"
+          "name": "埃因霍温"
         },
         "away": {
           "id": "usg",
@@ -108,9 +103,7 @@
         "away_score": 3,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Union Saint-Gilloise @ PSV Eindhoven",
-      "description_en": "Union Saint-Gilloise @ PSV Eindhoven(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757657",
@@ -123,20 +116,18 @@
       "description": "卡拉巴赫 作客 本菲卡（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "slb",
           "code": "SLB",
-          "name": "本菲卡",
-          "name_en": "Benfica"
+          "name": "本菲卡"
         },
         "away": {
           "id": "qar",
           "code": "QAR",
-          "name": "卡拉巴赫",
-          "name_en": "Qarabag FK"
+          "name": "卡拉巴赫"
         }
       },
       "details": {
@@ -152,9 +143,7 @@
         "away_score": 3,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Qarabag FK @ Benfica",
-      "description_en": "Qarabag FK @ Benfica(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757656",
@@ -167,20 +156,18 @@
       "description": "多特蒙德 作客 尤文图斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "juv",
           "code": "JUV",
-          "name": "尤文图斯",
-          "name_en": "Juventus"
+          "name": "尤文图斯"
         },
         "away": {
           "id": "dor",
           "code": "DOR",
-          "name": "多特蒙德",
-          "name_en": "Borussia Dortmund"
+          "name": "多特蒙德"
         }
       },
       "details": {
@@ -196,9 +183,7 @@
         "away_score": 4,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Borussia Dortmund @ Juventus",
-      "description_en": "Borussia Dortmund @ Juventus(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757655",
@@ -211,20 +196,18 @@
       "description": "马赛 作客 皇家马德里（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "rma",
           "code": "RMA",
-          "name": "皇家马德里",
-          "name_en": "Real Madrid"
+          "name": "皇家马德里"
         },
         "away": {
           "id": "olm",
           "code": "OLM",
-          "name": "马赛",
-          "name_en": "Marseille"
+          "name": "马赛"
         }
       },
       "details": {
@@ -240,9 +223,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Marseille @ Real Madrid",
-      "description_en": "Marseille @ Real Madrid(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757658",
@@ -255,20 +236,18 @@
       "description": "比利亚雷亚尔 作客 热刺（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "tot",
           "code": "TOT",
-          "name": "热刺",
-          "name_en": "Tottenham Hotspur"
+          "name": "热刺"
         },
         "away": {
           "id": "vil",
           "code": "VIL",
-          "name": "比利亚雷亚尔",
-          "name_en": "Villarreal"
+          "name": "比利亚雷亚尔"
         }
       },
       "details": {
@@ -284,9 +263,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Villarreal @ Tottenham Hotspur",
-      "description_en": "Villarreal @ Tottenham Hotspur(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757659",
@@ -299,14 +276,13 @@
       "description": "帕福斯 作客 奥林匹亚科斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "oly",
           "code": "OLY",
-          "name": "奥林匹亚科斯",
-          "name_en": "Olympiacos"
+          "name": "奥林匹亚科斯"
         },
         "away": {
           "id": "paf",
@@ -327,9 +303,7 @@
         "away_score": 0,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Pafos @ Olympiacos",
-      "description_en": "Pafos @ Olympiacos(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757660",
@@ -342,20 +316,18 @@
       "description": "博多/格林特 作客 布拉格斯拉维亚（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "slp",
           "code": "SLP",
-          "name": "布拉格斯拉维亚",
-          "name_en": "Slavia Prague"
+          "name": "布拉格斯拉维亚"
         },
         "away": {
           "id": "bodo",
           "code": "BODO",
-          "name": "博多/格林特",
-          "name_en": "Bodo/Glimt"
+          "name": "博多/格林特"
         }
       },
       "details": {
@@ -371,9 +343,7 @@
         "away_score": 2,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Bodo/Glimt @ Slavia Prague",
-      "description_en": "Bodo/Glimt @ Slavia Prague(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757664",
@@ -386,20 +356,18 @@
       "description": "国际米兰 作客 阿贾克斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "aja",
           "code": "AJA",
-          "name": "阿贾克斯",
-          "name_en": "Ajax"
+          "name": "阿贾克斯"
         },
         "away": {
           "id": "int",
           "code": "INT",
-          "name": "国际米兰",
-          "name_en": "Inter Milan"
+          "name": "国际米兰"
         }
       },
       "details": {
@@ -415,9 +383,7 @@
         "away_score": 2,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Inter Milan @ Ajax",
-      "description_en": "Inter Milan @ Ajax(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757663",
@@ -430,20 +396,18 @@
       "description": "切尔西 作客 拜仁慕尼黑（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mun",
           "code": "MUN",
-          "name": "拜仁慕尼黑",
-          "name_en": "Bayern Munich"
+          "name": "拜仁慕尼黑"
         },
         "away": {
           "id": "che",
           "code": "CHE",
-          "name": "切尔西",
-          "name_en": "Chelsea"
+          "name": "切尔西"
         }
       },
       "details": {
@@ -459,9 +423,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Chelsea @ Bayern Munich",
-      "description_en": "Chelsea @ Bayern Munich(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757662",
@@ -474,14 +436,13 @@
       "description": "马竞 作客 利物浦（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "liv",
           "code": "LIV",
-          "name": "利物浦",
-          "name_en": "Liverpool"
+          "name": "利物浦"
         },
         "away": {
           "id": "atm",
@@ -502,9 +463,7 @@
         "away_score": 2,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Atletico Madrid @ Liverpool",
-      "description_en": "Atletico Madrid @ Liverpool(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757661",
@@ -517,20 +476,18 @@
       "description": "亚特兰大 作客 巴黎圣日耳曼（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "psg",
           "code": "PSG",
-          "name": "巴黎圣日耳曼",
-          "name_en": "Paris Saint-Germain"
+          "name": "巴黎圣日耳曼"
         },
         "away": {
           "id": "ata",
           "code": "ATA",
-          "name": "亚特兰大",
-          "name_en": "Atalanta"
+          "name": "亚特兰大"
         }
       },
       "details": {
@@ -546,9 +503,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Atalanta @ Paris Saint-Germain",
-      "description_en": "Atalanta @ Paris Saint-Germain(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757665",
@@ -561,20 +516,18 @@
       "description": "摩纳哥 作客 布鲁日（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "bru",
           "code": "BRU",
-          "name": "布鲁日",
-          "name_en": "Club Brugge"
+          "name": "布鲁日"
         },
         "away": {
           "id": "mon",
           "code": "MON",
-          "name": "摩纳哥",
-          "name_en": "Monaco"
+          "name": "摩纳哥"
         }
       },
       "details": {
@@ -590,9 +543,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Monaco @ Club Brugge",
-      "description_en": "Monaco @ Club Brugge(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757666",
@@ -605,20 +556,18 @@
       "description": "勒沃库森 作客 哥本哈根（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "kbh",
           "code": "KBH",
-          "name": "哥本哈根",
-          "name_en": "FC Copenhagen"
+          "name": "哥本哈根"
         },
         "away": {
           "id": "b04",
           "code": "B04",
-          "name": "勒沃库森",
-          "name_en": "Bayer Leverkusen"
+          "name": "勒沃库森"
         }
       },
       "details": {
@@ -634,9 +583,7 @@
         "away_score": 2,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Bayer Leverkusen @ FC Copenhagen",
-      "description_en": "Bayer Leverkusen @ FC Copenhagen(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757668",
@@ -649,20 +596,18 @@
       "description": "加拉塔萨雷 作客 法兰克福（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "sge",
           "code": "SGE",
-          "name": "法兰克福",
-          "name_en": "Eintracht Frankfurt"
+          "name": "法兰克福"
         },
         "away": {
           "id": "gal",
           "code": "GAL",
-          "name": "加拉塔萨雷",
-          "name_en": "Galatasaray"
+          "name": "加拉塔萨雷"
         }
       },
       "details": {
@@ -678,9 +623,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Galatasaray @ Eintracht Frankfurt",
-      "description_en": "Galatasaray @ Eintracht Frankfurt(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757667",
@@ -693,20 +636,18 @@
       "description": "那不勒斯 作客 曼城（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mnc",
           "code": "MNC",
-          "name": "曼城",
-          "name_en": "Manchester City"
+          "name": "曼城"
         },
         "away": {
           "id": "nap",
           "code": "NAP",
-          "name": "那不勒斯",
-          "name_en": "Napoli"
+          "name": "那不勒斯"
         }
       },
       "details": {
@@ -722,9 +663,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Napoli @ Manchester City",
-      "description_en": "Napoli @ Manchester City(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757669",
@@ -737,20 +676,18 @@
       "description": "巴塞罗那 作客 纽卡斯尔联（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "new",
           "code": "NEW",
-          "name": "纽卡斯尔联",
-          "name_en": "Newcastle United"
+          "name": "纽卡斯尔联"
         },
         "away": {
           "id": "bar",
           "code": "BAR",
-          "name": "巴塞罗那",
-          "name_en": "Barcelona"
+          "name": "巴塞罗那"
         }
       },
       "details": {
@@ -766,9 +703,7 @@
         "away_score": 2,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Barcelona @ Newcastle United",
-      "description_en": "Barcelona @ Newcastle United(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757670",
@@ -781,14 +716,13 @@
       "description": "阿拉木图凯拉特 作客 葡萄牙体育（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "scp",
           "code": "SCP",
-          "name": "葡萄牙体育",
-          "name_en": "Sporting CP"
+          "name": "葡萄牙体育"
         },
         "away": {
           "id": "kai",
@@ -809,9 +743,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Kairat Almaty @ Sporting CP",
-      "description_en": "Kairat Almaty @ Sporting CP(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757672",
@@ -824,20 +756,18 @@
       "description": "布鲁日 作客 亚特兰大（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "ata",
           "code": "ATA",
-          "name": "亚特兰大",
-          "name_en": "Atalanta"
+          "name": "亚特兰大"
         },
         "away": {
           "id": "bru",
           "code": "BRU",
-          "name": "布鲁日",
-          "name_en": "Club Brugge"
+          "name": "布鲁日"
         }
       },
       "details": {
@@ -853,9 +783,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Club Brugge @ Atalanta",
-      "description_en": "Club Brugge @ Atalanta(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757671",
@@ -868,7 +796,7 @@
       "description": "皇家马德里 作客 阿拉木图凯拉特（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -879,8 +807,7 @@
         "away": {
           "id": "rma",
           "code": "RMA",
-          "name": "皇家马德里",
-          "name_en": "Real Madrid"
+          "name": "皇家马德里"
         }
       },
       "details": {
@@ -896,9 +823,7 @@
         "away_score": 5,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Real Madrid @ Kairat Almaty",
-      "description_en": "Real Madrid @ Kairat Almaty(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757673",
@@ -911,7 +836,7 @@
       "description": "法兰克福 作客 马竞（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -922,8 +847,7 @@
         "away": {
           "id": "sge",
           "code": "SGE",
-          "name": "法兰克福",
-          "name_en": "Eintracht Frankfurt"
+          "name": "法兰克福"
         }
       },
       "details": {
@@ -939,9 +863,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Eintracht Frankfurt @ Atletico Madrid",
-      "description_en": "Eintracht Frankfurt @ Atletico Madrid(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757674",
@@ -954,20 +876,18 @@
       "description": "热刺 作客 博多/格林特（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "bodo",
           "code": "BODO",
-          "name": "博多/格林特",
-          "name_en": "Bodo/Glimt"
+          "name": "博多/格林特"
         },
         "away": {
           "id": "tot",
           "code": "TOT",
-          "name": "热刺",
-          "name_en": "Tottenham Hotspur"
+          "name": "热刺"
         }
       },
       "details": {
@@ -983,9 +903,7 @@
         "away_score": 2,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Tottenham Hotspur @ Bodo/Glimt",
-      "description_en": "Tottenham Hotspur @ Bodo/Glimt(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757675",
@@ -998,20 +916,18 @@
       "description": "本菲卡 作客 切尔西（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "che",
           "code": "CHE",
-          "name": "切尔西",
-          "name_en": "Chelsea"
+          "name": "切尔西"
         },
         "away": {
           "id": "slb",
           "code": "SLB",
-          "name": "本菲卡",
-          "name_en": "Benfica"
+          "name": "本菲卡"
         }
       },
       "details": {
@@ -1027,9 +943,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Benfica @ Chelsea",
-      "description_en": "Benfica @ Chelsea(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757676",
@@ -1042,20 +956,18 @@
       "description": "利物浦 作客 加拉塔萨雷（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "gal",
           "code": "GAL",
-          "name": "加拉塔萨雷",
-          "name_en": "Galatasaray"
+          "name": "加拉塔萨雷"
         },
         "away": {
           "id": "liv",
           "code": "LIV",
-          "name": "利物浦",
-          "name_en": "Liverpool"
+          "name": "利物浦"
         }
       },
       "details": {
@@ -1071,9 +983,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Liverpool @ Galatasaray",
-      "description_en": "Liverpool @ Galatasaray(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757678",
@@ -1086,20 +996,18 @@
       "description": "布拉格斯拉维亚 作客 国际米兰（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "int",
           "code": "INT",
-          "name": "国际米兰",
-          "name_en": "Inter Milan"
+          "name": "国际米兰"
         },
         "away": {
           "id": "slp",
           "code": "SLP",
-          "name": "布拉格斯拉维亚",
-          "name_en": "Slavia Prague"
+          "name": "布拉格斯拉维亚"
         }
       },
       "details": {
@@ -1115,9 +1023,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Slavia Prague @ Inter Milan",
-      "description_en": "Slavia Prague @ Inter Milan(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757679",
@@ -1130,20 +1036,18 @@
       "description": "阿贾克斯 作客 马赛（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "olm",
           "code": "OLM",
-          "name": "马赛",
-          "name_en": "Marseille"
+          "name": "马赛"
         },
         "away": {
           "id": "aja",
           "code": "AJA",
-          "name": "阿贾克斯",
-          "name_en": "Ajax"
+          "name": "阿贾克斯"
         }
       },
       "details": {
@@ -1159,9 +1063,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Ajax @ Marseille",
-      "description_en": "Ajax @ Marseille(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757677",
@@ -1174,7 +1076,7 @@
       "description": "拜仁慕尼黑 作客 帕福斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1185,8 +1087,7 @@
         "away": {
           "id": "mun",
           "code": "MUN",
-          "name": "拜仁慕尼黑",
-          "name_en": "Bayern Munich"
+          "name": "拜仁慕尼黑"
         }
       },
       "details": {
@@ -1202,9 +1103,7 @@
         "away_score": 5,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Bayern Munich @ Pafos",
-      "description_en": "Bayern Munich @ Pafos(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757680",
@@ -1217,20 +1116,18 @@
       "description": "哥本哈根 作客 卡拉巴赫（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "qar",
           "code": "QAR",
-          "name": "卡拉巴赫",
-          "name_en": "Qarabag FK"
+          "name": "卡拉巴赫"
         },
         "away": {
           "id": "kbh",
           "code": "KBH",
-          "name": "哥本哈根",
-          "name_en": "FC Copenhagen"
+          "name": "哥本哈根"
         }
       },
       "details": {
@@ -1246,9 +1143,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · FC Copenhagen @ Qarabag FK",
-      "description_en": "FC Copenhagen @ Qarabag FK(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757681",
@@ -1261,7 +1156,7 @@
       "description": "纽卡斯尔联 作客 圣日洛瓦联（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1272,8 +1167,7 @@
         "away": {
           "id": "new",
           "code": "NEW",
-          "name": "纽卡斯尔联",
-          "name_en": "Newcastle United"
+          "name": "纽卡斯尔联"
         }
       },
       "details": {
@@ -1289,9 +1183,7 @@
         "away_score": 4,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Newcastle United @ Union Saint-Gilloise",
-      "description_en": "Newcastle United @ Union Saint-Gilloise(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757688",
@@ -1304,20 +1196,18 @@
       "description": "奥林匹亚科斯 作客 阿森纳（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "ars",
           "code": "ARS",
-          "name": "阿森纳",
-          "name_en": "Arsenal"
+          "name": "阿森纳"
         },
         "away": {
           "id": "oly",
           "code": "OLY",
-          "name": "奥林匹亚科斯",
-          "name_en": "Olympiacos"
+          "name": "奥林匹亚科斯"
         }
       },
       "details": {
@@ -1333,9 +1223,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Olympiacos @ Arsenal",
-      "description_en": "Olympiacos @ Arsenal(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757686",
@@ -1348,20 +1236,18 @@
       "description": "曼城 作客 摩纳哥（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mon",
           "code": "MON",
-          "name": "摩纳哥",
-          "name_en": "Monaco"
+          "name": "摩纳哥"
         },
         "away": {
           "id": "mnc",
           "code": "MNC",
-          "name": "曼城",
-          "name_en": "Manchester City"
+          "name": "曼城"
         }
       },
       "details": {
@@ -1377,9 +1263,7 @@
         "away_score": 2,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Manchester City @ Monaco",
-      "description_en": "Manchester City @ Monaco(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757687",
@@ -1392,20 +1276,18 @@
       "description": "巴黎圣日耳曼 作客 巴塞罗那（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "bar",
           "code": "BAR",
-          "name": "巴塞罗那",
-          "name_en": "Barcelona"
+          "name": "巴塞罗那"
         },
         "away": {
           "id": "psg",
           "code": "PSG",
-          "name": "巴黎圣日耳曼",
-          "name_en": "Paris Saint-Germain"
+          "name": "巴黎圣日耳曼"
         }
       },
       "details": {
@@ -1421,9 +1303,7 @@
         "away_score": 2,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Paris Saint-Germain @ Barcelona",
-      "description_en": "Paris Saint-Germain @ Barcelona(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757684",
@@ -1436,20 +1316,18 @@
       "description": "埃因霍温 作客 勒沃库森（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "b04",
           "code": "B04",
-          "name": "勒沃库森",
-          "name_en": "Bayer Leverkusen"
+          "name": "勒沃库森"
         },
         "away": {
           "id": "psv",
           "code": "PSV",
-          "name": "埃因霍温",
-          "name_en": "PSV Eindhoven"
+          "name": "埃因霍温"
         }
       },
       "details": {
@@ -1465,9 +1343,7 @@
         "away_score": 1,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · PSV Eindhoven @ Bayer Leverkusen",
-      "description_en": "PSV Eindhoven @ Bayer Leverkusen(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757683",
@@ -1480,20 +1356,18 @@
       "description": "毕尔巴鄂竞技 作客 多特蒙德（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "dor",
           "code": "DOR",
-          "name": "多特蒙德",
-          "name_en": "Borussia Dortmund"
+          "name": "多特蒙德"
         },
         "away": {
           "id": "ath",
           "code": "ATH",
-          "name": "毕尔巴鄂竞技",
-          "name_en": "Athletic Bilbao"
+          "name": "毕尔巴鄂竞技"
         }
       },
       "details": {
@@ -1509,9 +1383,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Athletic Bilbao @ Borussia Dortmund",
-      "description_en": "Athletic Bilbao @ Borussia Dortmund(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757685",
@@ -1524,20 +1396,18 @@
       "description": "葡萄牙体育 作客 那不勒斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "nap",
           "code": "NAP",
-          "name": "那不勒斯",
-          "name_en": "Napoli"
+          "name": "那不勒斯"
         },
         "away": {
           "id": "scp",
           "code": "SCP",
-          "name": "葡萄牙体育",
-          "name_en": "Sporting CP"
+          "name": "葡萄牙体育"
         }
       },
       "details": {
@@ -1553,9 +1423,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Sporting CP @ Napoli",
-      "description_en": "Sporting CP @ Napoli(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757682",
@@ -1568,20 +1436,18 @@
       "description": "尤文图斯 作客 比利亚雷亚尔（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "vil",
           "code": "VIL",
-          "name": "比利亚雷亚尔",
-          "name_en": "Villarreal"
+          "name": "比利亚雷亚尔"
         },
         "away": {
           "id": "juv",
           "code": "JUV",
-          "name": "尤文图斯",
-          "name_en": "Juventus"
+          "name": "尤文图斯"
         }
       },
       "details": {
@@ -1597,9 +1463,7 @@
         "away_score": 2,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Juventus @ Villarreal",
-      "description_en": "Juventus @ Villarreal(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757690",
@@ -1612,20 +1476,18 @@
       "description": "奥林匹亚科斯 作客 巴塞罗那（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "bar",
           "code": "BAR",
-          "name": "巴塞罗那",
-          "name_en": "Barcelona"
+          "name": "巴塞罗那"
         },
         "away": {
           "id": "oly",
           "code": "OLY",
-          "name": "奥林匹亚科斯",
-          "name_en": "Olympiacos"
+          "name": "奥林匹亚科斯"
         }
       },
       "details": {
@@ -1641,9 +1503,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Olympiacos @ Barcelona",
-      "description_en": "Olympiacos @ Barcelona(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757689",
@@ -1656,7 +1516,7 @@
       "description": "帕福斯 作客 阿拉木图凯拉特（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1683,9 +1543,7 @@
         "away_score": 0,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Pafos @ Kairat Almaty",
-      "description_en": "Pafos @ Kairat Almaty(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757697",
@@ -1698,14 +1556,13 @@
       "description": "马竞 作客 阿森纳（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "ars",
           "code": "ARS",
-          "name": "阿森纳",
-          "name_en": "Arsenal"
+          "name": "阿森纳"
         },
         "away": {
           "id": "atm",
@@ -1726,9 +1583,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Atletico Madrid @ Arsenal",
-      "description_en": "Atletico Madrid @ Arsenal(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757693",
@@ -1741,20 +1596,18 @@
       "description": "巴黎圣日耳曼 作客 勒沃库森（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "b04",
           "code": "B04",
-          "name": "勒沃库森",
-          "name_en": "Bayer Leverkusen"
+          "name": "勒沃库森"
         },
         "away": {
           "id": "psg",
           "code": "PSG",
-          "name": "巴黎圣日耳曼",
-          "name_en": "Paris Saint-Germain"
+          "name": "巴黎圣日耳曼"
         }
       },
       "details": {
@@ -1770,9 +1623,7 @@
         "away_score": 7,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Paris Saint-Germain @ Bayer Leverkusen",
-      "description_en": "Paris Saint-Germain @ Bayer Leverkusen(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757695",
@@ -1785,20 +1636,18 @@
       "description": "多特蒙德 作客 哥本哈根（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "kbh",
           "code": "KBH",
-          "name": "哥本哈根",
-          "name_en": "FC Copenhagen"
+          "name": "哥本哈根"
         },
         "away": {
           "id": "dor",
           "code": "DOR",
-          "name": "多特蒙德",
-          "name_en": "Borussia Dortmund"
+          "name": "多特蒙德"
         }
       },
       "details": {
@@ -1814,9 +1663,7 @@
         "away_score": 4,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Borussia Dortmund @ FC Copenhagen",
-      "description_en": "Borussia Dortmund @ FC Copenhagen(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757696",
@@ -1829,20 +1676,18 @@
       "description": "本菲卡 作客 纽卡斯尔联（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "new",
           "code": "NEW",
-          "name": "纽卡斯尔联",
-          "name_en": "Newcastle United"
+          "name": "纽卡斯尔联"
         },
         "away": {
           "id": "slb",
           "code": "SLB",
-          "name": "本菲卡",
-          "name_en": "Benfica"
+          "name": "本菲卡"
         }
       },
       "details": {
@@ -1858,9 +1703,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Benfica @ Newcastle United",
-      "description_en": "Benfica @ Newcastle United(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757691",
@@ -1873,20 +1716,18 @@
       "description": "那不勒斯 作客 埃因霍温（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "psv",
           "code": "PSV",
-          "name": "埃因霍温",
-          "name_en": "PSV Eindhoven"
+          "name": "埃因霍温"
         },
         "away": {
           "id": "nap",
           "code": "NAP",
-          "name": "那不勒斯",
-          "name_en": "Napoli"
+          "name": "那不勒斯"
         }
       },
       "details": {
@@ -1902,9 +1743,7 @@
         "away_score": 2,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Napoli @ PSV Eindhoven",
-      "description_en": "Napoli @ PSV Eindhoven(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757692",
@@ -1917,7 +1756,7 @@
       "description": "国际米兰 作客 圣日洛瓦联（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1928,8 +1767,7 @@
         "away": {
           "id": "int",
           "code": "INT",
-          "name": "国际米兰",
-          "name_en": "Inter Milan"
+          "name": "国际米兰"
         }
       },
       "details": {
@@ -1945,9 +1783,7 @@
         "away_score": 4,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Inter Milan @ Union Saint-Gilloise",
-      "description_en": "Inter Milan @ Union Saint-Gilloise(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757694",
@@ -1960,20 +1796,18 @@
       "description": "曼城 作客 比利亚雷亚尔（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "vil",
           "code": "VIL",
-          "name": "比利亚雷亚尔",
-          "name_en": "Villarreal"
+          "name": "比利亚雷亚尔"
         },
         "away": {
           "id": "mnc",
           "code": "MNC",
-          "name": "曼城",
-          "name_en": "Manchester City"
+          "name": "曼城"
         }
       },
       "details": {
@@ -1989,9 +1823,7 @@
         "away_score": 2,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Manchester City @ Villarreal",
-      "description_en": "Manchester City @ Villarreal(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757699",
@@ -2004,20 +1836,18 @@
       "description": "卡拉巴赫 作客 毕尔巴鄂竞技（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "ath",
           "code": "ATH",
-          "name": "毕尔巴鄂竞技",
-          "name_en": "Athletic Bilbao"
+          "name": "毕尔巴鄂竞技"
         },
         "away": {
           "id": "qar",
           "code": "QAR",
-          "name": "卡拉巴赫",
-          "name_en": "Qarabag FK"
+          "name": "卡拉巴赫"
         }
       },
       "details": {
@@ -2033,9 +1863,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Qarabag FK @ Athletic Bilbao",
-      "description_en": "Qarabag FK @ Athletic Bilbao(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757698",
@@ -2048,20 +1876,18 @@
       "description": "博多/格林特 作客 加拉塔萨雷（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "gal",
           "code": "GAL",
-          "name": "加拉塔萨雷",
-          "name_en": "Galatasaray"
+          "name": "加拉塔萨雷"
         },
         "away": {
           "id": "bodo",
           "code": "BODO",
-          "name": "博多/格林特",
-          "name_en": "Bodo/Glimt"
+          "name": "博多/格林特"
         }
       },
       "details": {
@@ -2077,9 +1903,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Bodo/Glimt @ Galatasaray",
-      "description_en": "Bodo/Glimt @ Galatasaray(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757704",
@@ -2092,20 +1916,18 @@
       "description": "热刺 作客 摩纳哥（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mon",
           "code": "MON",
-          "name": "摩纳哥",
-          "name_en": "Monaco"
+          "name": "摩纳哥"
         },
         "away": {
           "id": "tot",
           "code": "TOT",
-          "name": "热刺",
-          "name_en": "Tottenham Hotspur"
+          "name": "热刺"
         }
       },
       "details": {
@@ -2121,9 +1943,7 @@
         "away_score": 0,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Tottenham Hotspur @ Monaco",
-      "description_en": "Tottenham Hotspur @ Monaco(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757700",
@@ -2136,20 +1956,18 @@
       "description": "布拉格斯拉维亚 作客 亚特兰大（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "ata",
           "code": "ATA",
-          "name": "亚特兰大",
-          "name_en": "Atalanta"
+          "name": "亚特兰大"
         },
         "away": {
           "id": "slp",
           "code": "SLP",
-          "name": "布拉格斯拉维亚",
-          "name_en": "Slavia Prague"
+          "name": "布拉格斯拉维亚"
         }
       },
       "details": {
@@ -2165,9 +1983,7 @@
         "away_score": 0,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Slavia Prague @ Atalanta",
-      "description_en": "Slavia Prague @ Atalanta(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757703",
@@ -2180,20 +1996,18 @@
       "description": "布鲁日 作客 拜仁慕尼黑（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mun",
           "code": "MUN",
-          "name": "拜仁慕尼黑",
-          "name_en": "Bayern Munich"
+          "name": "拜仁慕尼黑"
         },
         "away": {
           "id": "bru",
           "code": "BRU",
-          "name": "布鲁日",
-          "name_en": "Club Brugge"
+          "name": "布鲁日"
         }
       },
       "details": {
@@ -2209,9 +2023,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Club Brugge @ Bayern Munich",
-      "description_en": "Club Brugge @ Bayern Munich(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757701",
@@ -2224,20 +2036,18 @@
       "description": "阿贾克斯 作客 切尔西（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "che",
           "code": "CHE",
-          "name": "切尔西",
-          "name_en": "Chelsea"
+          "name": "切尔西"
         },
         "away": {
           "id": "aja",
           "code": "AJA",
-          "name": "阿贾克斯",
-          "name_en": "Ajax"
+          "name": "阿贾克斯"
         }
       },
       "details": {
@@ -2253,9 +2063,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Ajax @ Chelsea",
-      "description_en": "Ajax @ Chelsea(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757702",
@@ -2268,20 +2076,18 @@
       "description": "利物浦 作客 法兰克福（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "sge",
           "code": "SGE",
-          "name": "法兰克福",
-          "name_en": "Eintracht Frankfurt"
+          "name": "法兰克福"
         },
         "away": {
           "id": "liv",
           "code": "LIV",
-          "name": "利物浦",
-          "name_en": "Liverpool"
+          "name": "利物浦"
         }
       },
       "details": {
@@ -2297,9 +2103,7 @@
         "away_score": 5,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Liverpool @ Eintracht Frankfurt",
-      "description_en": "Liverpool @ Eintracht Frankfurt(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757705",
@@ -2312,20 +2116,18 @@
       "description": "尤文图斯 作客 皇家马德里（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "rma",
           "code": "RMA",
-          "name": "皇家马德里",
-          "name_en": "Real Madrid"
+          "name": "皇家马德里"
         },
         "away": {
           "id": "juv",
           "code": "JUV",
-          "name": "尤文图斯",
-          "name_en": "Juventus"
+          "name": "尤文图斯"
         }
       },
       "details": {
@@ -2341,9 +2143,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Juventus @ Real Madrid",
-      "description_en": "Juventus @ Real Madrid(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757706",
@@ -2356,20 +2156,18 @@
       "description": "马赛 作客 葡萄牙体育（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "scp",
           "code": "SCP",
-          "name": "葡萄牙体育",
-          "name_en": "Sporting CP"
+          "name": "葡萄牙体育"
         },
         "away": {
           "id": "olm",
           "code": "OLM",
-          "name": "马赛",
-          "name_en": "Marseille"
+          "name": "马赛"
         }
       },
       "details": {
@@ -2385,9 +2183,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Marseille @ Sporting CP",
-      "description_en": "Marseille @ Sporting CP(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757708",
@@ -2400,20 +2196,18 @@
       "description": "法兰克福 作客 那不勒斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "nap",
           "code": "NAP",
-          "name": "那不勒斯",
-          "name_en": "Napoli"
+          "name": "那不勒斯"
         },
         "away": {
           "id": "sge",
           "code": "SGE",
-          "name": "法兰克福",
-          "name_en": "Eintracht Frankfurt"
+          "name": "法兰克福"
         }
       },
       "details": {
@@ -2429,9 +2223,7 @@
         "away_score": 0,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Eintracht Frankfurt @ Napoli",
-      "description_en": "Eintracht Frankfurt @ Napoli(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757707",
@@ -2444,20 +2236,18 @@
       "description": "阿森纳 作客 布拉格斯拉维亚（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "slp",
           "code": "SLP",
-          "name": "布拉格斯拉维亚",
-          "name_en": "Slavia Prague"
+          "name": "布拉格斯拉维亚"
         },
         "away": {
           "id": "ars",
           "code": "ARS",
-          "name": "阿森纳",
-          "name_en": "Arsenal"
+          "name": "阿森纳"
         }
       },
       "details": {
@@ -2473,9 +2263,7 @@
         "away_score": 3,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Arsenal @ Slavia Prague",
-      "description_en": "Arsenal @ Slavia Prague(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757711",
@@ -2488,7 +2276,7 @@
       "description": "圣日洛瓦联 作客 马竞（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2515,9 +2303,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Union Saint-Gilloise @ Atletico Madrid",
-      "description_en": "Union Saint-Gilloise @ Atletico Madrid(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757712",
@@ -2530,20 +2316,18 @@
       "description": "摩纳哥 作客 博多/格林特（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "bodo",
           "code": "BODO",
-          "name": "博多/格林特",
-          "name_en": "Bodo/Glimt"
+          "name": "博多/格林特"
         },
         "away": {
           "id": "mon",
           "code": "MON",
-          "name": "摩纳哥",
-          "name_en": "Monaco"
+          "name": "摩纳哥"
         }
       },
       "details": {
@@ -2559,9 +2343,7 @@
         "away_score": 1,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Monaco @ Bodo/Glimt",
-      "description_en": "Monaco @ Bodo/Glimt(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757710",
@@ -2574,20 +2356,18 @@
       "description": "葡萄牙体育 作客 尤文图斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "juv",
           "code": "JUV",
-          "name": "尤文图斯",
-          "name_en": "Juventus"
+          "name": "尤文图斯"
         },
         "away": {
           "id": "scp",
           "code": "SCP",
-          "name": "葡萄牙体育",
-          "name_en": "Sporting CP"
+          "name": "葡萄牙体育"
         }
       },
       "details": {
@@ -2603,9 +2383,7 @@
         "away_score": 1,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Sporting CP @ Juventus",
-      "description_en": "Sporting CP @ Juventus(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757714",
@@ -2618,20 +2396,18 @@
       "description": "皇家马德里 作客 利物浦（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "liv",
           "code": "LIV",
-          "name": "利物浦",
-          "name_en": "Liverpool"
+          "name": "利物浦"
         },
         "away": {
           "id": "rma",
           "code": "RMA",
-          "name": "皇家马德里",
-          "name_en": "Real Madrid"
+          "name": "皇家马德里"
         }
       },
       "details": {
@@ -2647,9 +2423,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Real Madrid @ Liverpool",
-      "description_en": "Real Madrid @ Liverpool(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757713",
@@ -2662,20 +2436,18 @@
       "description": "埃因霍温 作客 奥林匹亚科斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "oly",
           "code": "OLY",
-          "name": "奥林匹亚科斯",
-          "name_en": "Olympiacos"
+          "name": "奥林匹亚科斯"
         },
         "away": {
           "id": "psv",
           "code": "PSV",
-          "name": "埃因霍温",
-          "name_en": "PSV Eindhoven"
+          "name": "埃因霍温"
         }
       },
       "details": {
@@ -2691,9 +2463,7 @@
         "away_score": 1,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · PSV Eindhoven @ Olympiacos",
-      "description_en": "PSV Eindhoven @ Olympiacos(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757709",
@@ -2706,20 +2476,18 @@
       "description": "拜仁慕尼黑 作客 巴黎圣日耳曼（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "psg",
           "code": "PSG",
-          "name": "巴黎圣日耳曼",
-          "name_en": "Paris Saint-Germain"
+          "name": "巴黎圣日耳曼"
         },
         "away": {
           "id": "mun",
           "code": "MUN",
-          "name": "拜仁慕尼黑",
-          "name_en": "Bayern Munich"
+          "name": "拜仁慕尼黑"
         }
       },
       "details": {
@@ -2735,9 +2503,7 @@
         "away_score": 2,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Bayern Munich @ Paris Saint-Germain",
-      "description_en": "Bayern Munich @ Paris Saint-Germain(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757715",
@@ -2750,20 +2516,18 @@
       "description": "哥本哈根 作客 热刺（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "tot",
           "code": "TOT",
-          "name": "热刺",
-          "name_en": "Tottenham Hotspur"
+          "name": "热刺"
         },
         "away": {
           "id": "kbh",
           "code": "KBH",
-          "name": "哥本哈根",
-          "name_en": "FC Copenhagen"
+          "name": "哥本哈根"
         }
       },
       "details": {
@@ -2779,9 +2543,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · FC Copenhagen @ Tottenham Hotspur",
-      "description_en": "FC Copenhagen @ Tottenham Hotspur(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757716",
@@ -2794,20 +2556,18 @@
       "description": "切尔西 作客 卡拉巴赫（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "qar",
           "code": "QAR",
-          "name": "卡拉巴赫",
-          "name_en": "Qarabag FK"
+          "name": "卡拉巴赫"
         },
         "away": {
           "id": "che",
           "code": "CHE",
-          "name": "切尔西",
-          "name_en": "Chelsea"
+          "name": "切尔西"
         }
       },
       "details": {
@@ -2823,9 +2583,7 @@
         "away_score": 2,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Chelsea @ Qarabag FK",
-      "description_en": "Chelsea @ Qarabag FK(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757717",
@@ -2838,7 +2596,7 @@
       "description": "比利亚雷亚尔 作客 帕福斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2849,8 +2607,7 @@
         "away": {
           "id": "vil",
           "code": "VIL",
-          "name": "比利亚雷亚尔",
-          "name_en": "Villarreal"
+          "name": "比利亚雷亚尔"
         }
       },
       "details": {
@@ -2866,9 +2623,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Villarreal @ Pafos",
-      "description_en": "Villarreal @ Pafos(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757721",
@@ -2881,20 +2636,18 @@
       "description": "加拉塔萨雷 作客 阿贾克斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "aja",
           "code": "AJA",
-          "name": "阿贾克斯",
-          "name_en": "Ajax"
+          "name": "阿贾克斯"
         },
         "away": {
           "id": "gal",
           "code": "GAL",
-          "name": "加拉塔萨雷",
-          "name_en": "Galatasaray"
+          "name": "加拉塔萨雷"
         }
       },
       "details": {
@@ -2910,9 +2663,7 @@
         "away_score": 3,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Galatasaray @ Ajax",
-      "description_en": "Galatasaray @ Ajax(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757720",
@@ -2925,20 +2676,18 @@
       "description": "勒沃库森 作客 本菲卡（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "slb",
           "code": "SLB",
-          "name": "本菲卡",
-          "name_en": "Benfica"
+          "name": "本菲卡"
         },
         "away": {
           "id": "b04",
           "code": "B04",
-          "name": "勒沃库森",
-          "name_en": "Bayer Leverkusen"
+          "name": "勒沃库森"
         }
       },
       "details": {
@@ -2954,9 +2703,7 @@
         "away_score": 1,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Bayer Leverkusen @ Benfica",
-      "description_en": "Bayer Leverkusen @ Benfica(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757723",
@@ -2969,20 +2716,18 @@
       "description": "巴塞罗那 作客 布鲁日（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "bru",
           "code": "BRU",
-          "name": "布鲁日",
-          "name_en": "Club Brugge"
+          "name": "布鲁日"
         },
         "away": {
           "id": "bar",
           "code": "BAR",
-          "name": "巴塞罗那",
-          "name_en": "Barcelona"
+          "name": "巴塞罗那"
         }
       },
       "details": {
@@ -2998,9 +2743,7 @@
         "away_score": 3,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Barcelona @ Club Brugge",
-      "description_en": "Barcelona @ Club Brugge(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757722",
@@ -3013,14 +2756,13 @@
       "description": "阿拉木图凯拉特 作客 国际米兰（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "int",
           "code": "INT",
-          "name": "国际米兰",
-          "name_en": "Inter Milan"
+          "name": "国际米兰"
         },
         "away": {
           "id": "kai",
@@ -3041,9 +2783,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Kairat Almaty @ Inter Milan",
-      "description_en": "Kairat Almaty @ Inter Milan(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757718",
@@ -3056,20 +2796,18 @@
       "description": "多特蒙德 作客 曼城（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mnc",
           "code": "MNC",
-          "name": "曼城",
-          "name_en": "Manchester City"
+          "name": "曼城"
         },
         "away": {
           "id": "dor",
           "code": "DOR",
-          "name": "多特蒙德",
-          "name_en": "Borussia Dortmund"
+          "name": "多特蒙德"
         }
       },
       "details": {
@@ -3085,9 +2823,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Borussia Dortmund @ Manchester City",
-      "description_en": "Borussia Dortmund @ Manchester City(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757724",
@@ -3100,20 +2836,18 @@
       "description": "亚特兰大 作客 马赛（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "olm",
           "code": "OLM",
-          "name": "马赛",
-          "name_en": "Marseille"
+          "name": "马赛"
         },
         "away": {
           "id": "ata",
           "code": "ATA",
-          "name": "亚特兰大",
-          "name_en": "Atalanta"
+          "name": "亚特兰大"
         }
       },
       "details": {
@@ -3129,9 +2863,7 @@
         "away_score": 1,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Atalanta @ Marseille",
-      "description_en": "Atalanta @ Marseille(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757719",
@@ -3144,20 +2876,18 @@
       "description": "毕尔巴鄂竞技 作客 纽卡斯尔联（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "new",
           "code": "NEW",
-          "name": "纽卡斯尔联",
-          "name_en": "Newcastle United"
+          "name": "纽卡斯尔联"
         },
         "away": {
           "id": "ath",
           "code": "ATH",
-          "name": "毕尔巴鄂竞技",
-          "name_en": "Athletic Bilbao"
+          "name": "毕尔巴鄂竞技"
         }
       },
       "details": {
@@ -3173,9 +2903,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Athletic Bilbao @ Newcastle United",
-      "description_en": "Athletic Bilbao @ Newcastle United(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757725",
@@ -3188,20 +2916,18 @@
       "description": "本菲卡 作客 阿贾克斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "aja",
           "code": "AJA",
-          "name": "阿贾克斯",
-          "name_en": "Ajax"
+          "name": "阿贾克斯"
         },
         "away": {
           "id": "slb",
           "code": "SLB",
-          "name": "本菲卡",
-          "name_en": "Benfica"
+          "name": "本菲卡"
         }
       },
       "details": {
@@ -3217,9 +2943,7 @@
         "away_score": 2,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Benfica @ Ajax",
-      "description_en": "Benfica @ Ajax(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757726",
@@ -3232,14 +2956,13 @@
       "description": "圣日洛瓦联 作客 加拉塔萨雷（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "gal",
           "code": "GAL",
-          "name": "加拉塔萨雷",
-          "name_en": "Galatasaray"
+          "name": "加拉塔萨雷"
         },
         "away": {
           "id": "usg",
@@ -3260,9 +2983,7 @@
         "away_score": 1,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Union Saint-Gilloise @ Galatasaray",
-      "description_en": "Union Saint-Gilloise @ Galatasaray(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757731",
@@ -3275,20 +2996,18 @@
       "description": "尤文图斯 作客 博多/格林特（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "bodo",
           "code": "BODO",
-          "name": "博多/格林特",
-          "name_en": "Bodo/Glimt"
+          "name": "博多/格林特"
         },
         "away": {
           "id": "juv",
           "code": "JUV",
-          "name": "尤文图斯",
-          "name_en": "Juventus"
+          "name": "尤文图斯"
         }
       },
       "details": {
@@ -3304,9 +3023,7 @@
         "away_score": 3,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Juventus @ Bodo/Glimt",
-      "description_en": "Juventus @ Bodo/Glimt(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757727",
@@ -3319,20 +3036,18 @@
       "description": "比利亚雷亚尔 作客 多特蒙德（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "dor",
           "code": "DOR",
-          "name": "多特蒙德",
-          "name_en": "Borussia Dortmund"
+          "name": "多特蒙德"
         },
         "away": {
           "id": "vil",
           "code": "VIL",
-          "name": "比利亚雷亚尔",
-          "name_en": "Villarreal"
+          "name": "比利亚雷亚尔"
         }
       },
       "details": {
@@ -3348,9 +3063,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Villarreal @ Borussia Dortmund",
-      "description_en": "Villarreal @ Borussia Dortmund(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757732",
@@ -3363,20 +3076,18 @@
       "description": "巴塞罗那 作客 切尔西（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "che",
           "code": "CHE",
-          "name": "切尔西",
-          "name_en": "Chelsea"
+          "name": "切尔西"
         },
         "away": {
           "id": "bar",
           "code": "BAR",
-          "name": "巴塞罗那",
-          "name_en": "Barcelona"
+          "name": "巴塞罗那"
         }
       },
       "details": {
@@ -3392,9 +3103,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Barcelona @ Chelsea",
-      "description_en": "Barcelona @ Chelsea(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757730",
@@ -3407,20 +3116,18 @@
       "description": "勒沃库森 作客 曼城（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mnc",
           "code": "MNC",
-          "name": "曼城",
-          "name_en": "Manchester City"
+          "name": "曼城"
         },
         "away": {
           "id": "b04",
           "code": "B04",
-          "name": "勒沃库森",
-          "name_en": "Bayer Leverkusen"
+          "name": "勒沃库森"
         }
       },
       "details": {
@@ -3436,9 +3143,7 @@
         "away_score": 2,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Bayer Leverkusen @ Manchester City",
-      "description_en": "Bayer Leverkusen @ Manchester City(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757729",
@@ -3451,20 +3156,18 @@
       "description": "纽卡斯尔联 作客 马赛（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "olm",
           "code": "OLM",
-          "name": "马赛",
-          "name_en": "Marseille"
+          "name": "马赛"
         },
         "away": {
           "id": "new",
           "code": "NEW",
-          "name": "纽卡斯尔联",
-          "name_en": "Newcastle United"
+          "name": "纽卡斯尔联"
         }
       },
       "details": {
@@ -3480,9 +3183,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Newcastle United @ Marseille",
-      "description_en": "Newcastle United @ Marseille(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757728",
@@ -3495,20 +3196,18 @@
       "description": "卡拉巴赫 作客 那不勒斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "nap",
           "code": "NAP",
-          "name": "那不勒斯",
-          "name_en": "Napoli"
+          "name": "那不勒斯"
         },
         "away": {
           "id": "qar",
           "code": "QAR",
-          "name": "卡拉巴赫",
-          "name_en": "Qarabag FK"
+          "name": "卡拉巴赫"
         }
       },
       "details": {
@@ -3524,9 +3223,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Qarabag FK @ Napoli",
-      "description_en": "Qarabag FK @ Napoli(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757733",
@@ -3539,20 +3236,18 @@
       "description": "毕尔巴鄂竞技 作客 布拉格斯拉维亚（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "slp",
           "code": "SLP",
-          "name": "布拉格斯拉维亚",
-          "name_en": "Slavia Prague"
+          "name": "布拉格斯拉维亚"
         },
         "away": {
           "id": "ath",
           "code": "ATH",
-          "name": "毕尔巴鄂竞技",
-          "name_en": "Athletic Bilbao"
+          "name": "毕尔巴鄂竞技"
         }
       },
       "details": {
@@ -3568,9 +3263,7 @@
         "away_score": 0,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Athletic Bilbao @ Slavia Prague",
-      "description_en": "Athletic Bilbao @ Slavia Prague(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757735",
@@ -3583,14 +3276,13 @@
       "description": "阿拉木图凯拉特 作客 哥本哈根（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "kbh",
           "code": "KBH",
-          "name": "哥本哈根",
-          "name_en": "FC Copenhagen"
+          "name": "哥本哈根"
         },
         "away": {
           "id": "kai",
@@ -3611,9 +3303,7 @@
         "away_score": 2,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Kairat Almaty @ FC Copenhagen",
-      "description_en": "Kairat Almaty @ FC Copenhagen(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757734",
@@ -3626,7 +3316,7 @@
       "description": "摩纳哥 作客 帕福斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -3637,8 +3327,7 @@
         "away": {
           "id": "mon",
           "code": "MON",
-          "name": "摩纳哥",
-          "name_en": "Monaco"
+          "name": "摩纳哥"
         }
       },
       "details": {
@@ -3654,9 +3343,7 @@
         "away_score": 2,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Monaco @ Pafos",
-      "description_en": "Monaco @ Pafos(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757742",
@@ -3669,20 +3356,18 @@
       "description": "拜仁慕尼黑 作客 阿森纳（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "ars",
           "code": "ARS",
-          "name": "阿森纳",
-          "name_en": "Arsenal"
+          "name": "阿森纳"
         },
         "away": {
           "id": "mun",
           "code": "MUN",
-          "name": "拜仁慕尼黑",
-          "name_en": "Bayern Munich"
+          "name": "拜仁慕尼黑"
         }
       },
       "details": {
@@ -3698,9 +3383,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Bayern Munich @ Arsenal",
-      "description_en": "Bayern Munich @ Arsenal(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757740",
@@ -3713,7 +3396,7 @@
       "description": "国际米兰 作客 马竞（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -3724,8 +3407,7 @@
         "away": {
           "id": "int",
           "code": "INT",
-          "name": "国际米兰",
-          "name_en": "Inter Milan"
+          "name": "国际米兰"
         }
       },
       "details": {
@@ -3741,9 +3423,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Inter Milan @ Atletico Madrid",
-      "description_en": "Inter Milan @ Atletico Madrid(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757739",
@@ -3756,20 +3436,18 @@
       "description": "亚特兰大 作客 法兰克福（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "sge",
           "code": "SGE",
-          "name": "法兰克福",
-          "name_en": "Eintracht Frankfurt"
+          "name": "法兰克福"
         },
         "away": {
           "id": "ata",
           "code": "ATA",
-          "name": "亚特兰大",
-          "name_en": "Atalanta"
+          "name": "亚特兰大"
         }
       },
       "details": {
@@ -3785,9 +3463,7 @@
         "away_score": 3,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Atalanta @ Eintracht Frankfurt",
-      "description_en": "Atalanta @ Eintracht Frankfurt(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757738",
@@ -3800,20 +3476,18 @@
       "description": "埃因霍温 作客 利物浦（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "liv",
           "code": "LIV",
-          "name": "利物浦",
-          "name_en": "Liverpool"
+          "name": "利物浦"
         },
         "away": {
           "id": "psv",
           "code": "PSV",
-          "name": "埃因霍温",
-          "name_en": "PSV Eindhoven"
+          "name": "埃因霍温"
         }
       },
       "details": {
@@ -3829,9 +3503,7 @@
         "away_score": 4,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · PSV Eindhoven @ Liverpool",
-      "description_en": "PSV Eindhoven @ Liverpool(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757737",
@@ -3844,20 +3516,18 @@
       "description": "皇家马德里 作客 奥林匹亚科斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "oly",
           "code": "OLY",
-          "name": "奥林匹亚科斯",
-          "name_en": "Olympiacos"
+          "name": "奥林匹亚科斯"
         },
         "away": {
           "id": "rma",
           "code": "RMA",
-          "name": "皇家马德里",
-          "name_en": "Real Madrid"
+          "name": "皇家马德里"
         }
       },
       "details": {
@@ -3873,9 +3543,7 @@
         "away_score": 4,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Real Madrid @ Olympiacos",
-      "description_en": "Real Madrid @ Olympiacos(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757736",
@@ -3888,20 +3556,18 @@
       "description": "热刺 作客 巴黎圣日耳曼（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "psg",
           "code": "PSG",
-          "name": "巴黎圣日耳曼",
-          "name_en": "Paris Saint-Germain"
+          "name": "巴黎圣日耳曼"
         },
         "away": {
           "id": "tot",
           "code": "TOT",
-          "name": "热刺",
-          "name_en": "Tottenham Hotspur"
+          "name": "热刺"
         }
       },
       "details": {
@@ -3917,9 +3583,7 @@
         "away_score": 3,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Tottenham Hotspur @ Paris Saint-Germain",
-      "description_en": "Tottenham Hotspur @ Paris Saint-Germain(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757741",
@@ -3932,20 +3596,18 @@
       "description": "布鲁日 作客 葡萄牙体育（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "scp",
           "code": "SCP",
-          "name": "葡萄牙体育",
-          "name_en": "Sporting CP"
+          "name": "葡萄牙体育"
         },
         "away": {
           "id": "bru",
           "code": "BRU",
-          "name": "布鲁日",
-          "name_en": "Club Brugge"
+          "name": "布鲁日"
         }
       },
       "details": {
@@ -3961,9 +3623,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Club Brugge @ Sporting CP",
-      "description_en": "Club Brugge @ Sporting CP(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757743",
@@ -3976,7 +3636,7 @@
       "description": "奥林匹亚科斯 作客 阿拉木图凯拉特（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -3987,8 +3647,7 @@
         "away": {
           "id": "oly",
           "code": "OLY",
-          "name": "奥林匹亚科斯",
-          "name_en": "Olympiacos"
+          "name": "奥林匹亚科斯"
         }
       },
       "details": {
@@ -4004,9 +3663,7 @@
         "away_score": 1,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Olympiacos @ Kairat Almaty",
-      "description_en": "Olympiacos @ Kairat Almaty(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757744",
@@ -4019,20 +3676,18 @@
       "description": "葡萄牙体育 作客 拜仁慕尼黑（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mun",
           "code": "MUN",
-          "name": "拜仁慕尼黑",
-          "name_en": "Bayern Munich"
+          "name": "拜仁慕尼黑"
         },
         "away": {
           "id": "scp",
           "code": "SCP",
-          "name": "葡萄牙体育",
-          "name_en": "Sporting CP"
+          "name": "葡萄牙体育"
         }
       },
       "details": {
@@ -4048,9 +3703,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Sporting CP @ Bayern Munich",
-      "description_en": "Sporting CP @ Bayern Munich(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757751",
@@ -4063,20 +3716,18 @@
       "description": "加拉塔萨雷 作客 摩纳哥（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mon",
           "code": "MON",
-          "name": "摩纳哥",
-          "name_en": "Monaco"
+          "name": "摩纳哥"
         },
         "away": {
           "id": "gal",
           "code": "GAL",
-          "name": "加拉塔萨雷",
-          "name_en": "Galatasaray"
+          "name": "加拉塔萨雷"
         }
       },
       "details": {
@@ -4092,9 +3743,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Galatasaray @ Monaco",
-      "description_en": "Galatasaray @ Monaco(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757747",
@@ -4107,20 +3756,18 @@
       "description": "切尔西 作客 亚特兰大（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "ata",
           "code": "ATA",
-          "name": "亚特兰大",
-          "name_en": "Atalanta"
+          "name": "亚特兰大"
         },
         "away": {
           "id": "che",
           "code": "CHE",
-          "name": "切尔西",
-          "name_en": "Chelsea"
+          "name": "切尔西"
         }
       },
       "details": {
@@ -4136,9 +3783,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Chelsea @ Atalanta",
-      "description_en": "Chelsea @ Atalanta(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757746",
@@ -4151,20 +3796,18 @@
       "description": "法兰克福 作客 巴塞罗那（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "bar",
           "code": "BAR",
-          "name": "巴塞罗那",
-          "name_en": "Barcelona"
+          "name": "巴塞罗那"
         },
         "away": {
           "id": "sge",
           "code": "SGE",
-          "name": "法兰克福",
-          "name_en": "Eintracht Frankfurt"
+          "name": "法兰克福"
         }
       },
       "details": {
@@ -4180,9 +3823,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Eintracht Frankfurt @ Barcelona",
-      "description_en": "Eintracht Frankfurt @ Barcelona(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757745",
@@ -4195,20 +3836,18 @@
       "description": "利物浦 作客 国际米兰（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "int",
           "code": "INT",
-          "name": "国际米兰",
-          "name_en": "Inter Milan"
+          "name": "国际米兰"
         },
         "away": {
           "id": "liv",
           "code": "LIV",
-          "name": "利物浦",
-          "name_en": "Liverpool"
+          "name": "利物浦"
         }
       },
       "details": {
@@ -4224,9 +3863,7 @@
         "away_score": 1,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Liverpool @ Inter Milan",
-      "description_en": "Liverpool @ Inter Milan(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757750",
@@ -4239,14 +3876,13 @@
       "description": "马竞 作客 埃因霍温（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "psv",
           "code": "PSV",
-          "name": "埃因霍温",
-          "name_en": "PSV Eindhoven"
+          "name": "埃因霍温"
         },
         "away": {
           "id": "atm",
@@ -4267,9 +3903,7 @@
         "away_score": 3,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Atletico Madrid @ PSV Eindhoven",
-      "description_en": "Atletico Madrid @ PSV Eindhoven(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757749",
@@ -4282,20 +3916,18 @@
       "description": "布拉格斯拉维亚 作客 热刺（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "tot",
           "code": "TOT",
-          "name": "热刺",
-          "name_en": "Tottenham Hotspur"
+          "name": "热刺"
         },
         "away": {
           "id": "slp",
           "code": "SLP",
-          "name": "布拉格斯拉维亚",
-          "name_en": "Slavia Prague"
+          "name": "布拉格斯拉维亚"
         }
       },
       "details": {
@@ -4311,9 +3943,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Slavia Prague @ Tottenham Hotspur",
-      "description_en": "Slavia Prague @ Tottenham Hotspur(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757748",
@@ -4326,7 +3956,7 @@
       "description": "马赛 作客 圣日洛瓦联（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -4337,8 +3967,7 @@
         "away": {
           "id": "olm",
           "code": "OLM",
-          "name": "马赛",
-          "name_en": "Marseille"
+          "name": "马赛"
         }
       },
       "details": {
@@ -4354,9 +3983,7 @@
         "away_score": 3,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Marseille @ Union Saint-Gilloise",
-      "description_en": "Marseille @ Union Saint-Gilloise(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757752",
@@ -4369,20 +3996,18 @@
       "description": "阿贾克斯 作客 卡拉巴赫（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "qar",
           "code": "QAR",
-          "name": "卡拉巴赫",
-          "name_en": "Qarabag FK"
+          "name": "卡拉巴赫"
         },
         "away": {
           "id": "aja",
           "code": "AJA",
-          "name": "阿贾克斯",
-          "name_en": "Ajax"
+          "name": "阿贾克斯"
         }
       },
       "details": {
@@ -4398,9 +4023,7 @@
         "away_score": 4,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Ajax @ Qarabag FK",
-      "description_en": "Ajax @ Qarabag FK(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757753",
@@ -4413,20 +4036,18 @@
       "description": "哥本哈根 作客 比利亚雷亚尔（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "vil",
           "code": "VIL",
-          "name": "比利亚雷亚尔",
-          "name_en": "Villarreal"
+          "name": "比利亚雷亚尔"
         },
         "away": {
           "id": "kbh",
           "code": "KBH",
-          "name": "哥本哈根",
-          "name_en": "FC Copenhagen"
+          "name": "哥本哈根"
         }
       },
       "details": {
@@ -4442,9 +4063,7 @@
         "away_score": 3,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · FC Copenhagen @ Villarreal",
-      "description_en": "FC Copenhagen @ Villarreal(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757759",
@@ -4457,20 +4076,18 @@
       "description": "巴黎圣日耳曼 作客 毕尔巴鄂竞技（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "ath",
           "code": "ATH",
-          "name": "毕尔巴鄂竞技",
-          "name_en": "Athletic Bilbao"
+          "name": "毕尔巴鄂竞技"
         },
         "away": {
           "id": "psg",
           "code": "PSG",
-          "name": "巴黎圣日耳曼",
-          "name_en": "Paris Saint-Germain"
+          "name": "巴黎圣日耳曼"
         }
       },
       "details": {
@@ -4486,9 +4103,7 @@
         "away_score": 0,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Paris Saint-Germain @ Athletic Bilbao",
-      "description_en": "Paris Saint-Germain @ Athletic Bilbao(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757758",
@@ -4501,20 +4116,18 @@
       "description": "纽卡斯尔联 作客 勒沃库森（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "b04",
           "code": "B04",
-          "name": "勒沃库森",
-          "name_en": "Bayer Leverkusen"
+          "name": "勒沃库森"
         },
         "away": {
           "id": "new",
           "code": "NEW",
-          "name": "纽卡斯尔联",
-          "name_en": "Newcastle United"
+          "name": "纽卡斯尔联"
         }
       },
       "details": {
@@ -4530,9 +4143,7 @@
         "away_score": 2,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Newcastle United @ Bayer Leverkusen",
-      "description_en": "Newcastle United @ Bayer Leverkusen(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757754",
@@ -4545,20 +4156,18 @@
       "description": "那不勒斯 作客 本菲卡（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "slb",
           "code": "SLB",
-          "name": "本菲卡",
-          "name_en": "Benfica"
+          "name": "本菲卡"
         },
         "away": {
           "id": "nap",
           "code": "NAP",
-          "name": "那不勒斯",
-          "name_en": "Napoli"
+          "name": "那不勒斯"
         }
       },
       "details": {
@@ -4574,9 +4183,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Napoli @ Benfica",
-      "description_en": "Napoli @ Benfica(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757755",
@@ -4589,20 +4196,18 @@
       "description": "博多/格林特 作客 多特蒙德（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "dor",
           "code": "DOR",
-          "name": "多特蒙德",
-          "name_en": "Borussia Dortmund"
+          "name": "多特蒙德"
         },
         "away": {
           "id": "bodo",
           "code": "BODO",
-          "name": "博多/格林特",
-          "name_en": "Bodo/Glimt"
+          "name": "博多/格林特"
         }
       },
       "details": {
@@ -4618,9 +4223,7 @@
         "away_score": 2,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Bodo/Glimt @ Borussia Dortmund",
-      "description_en": "Bodo/Glimt @ Borussia Dortmund(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757757",
@@ -4633,20 +4236,18 @@
       "description": "阿森纳 作客 布鲁日（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "bru",
           "code": "BRU",
-          "name": "布鲁日",
-          "name_en": "Club Brugge"
+          "name": "布鲁日"
         },
         "away": {
           "id": "ars",
           "code": "ARS",
-          "name": "阿森纳",
-          "name_en": "Arsenal"
+          "name": "阿森纳"
         }
       },
       "details": {
@@ -4662,9 +4263,7 @@
         "away_score": 3,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Arsenal @ Club Brugge",
-      "description_en": "Arsenal @ Club Brugge(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757756",
@@ -4677,14 +4276,13 @@
       "description": "帕福斯 作客 尤文图斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "juv",
           "code": "JUV",
-          "name": "尤文图斯",
-          "name_en": "Juventus"
+          "name": "尤文图斯"
         },
         "away": {
           "id": "paf",
@@ -4705,9 +4303,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Pafos @ Juventus",
-      "description_en": "Pafos @ Juventus(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757760",
@@ -4720,20 +4316,18 @@
       "description": "曼城 作客 皇家马德里（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "rma",
           "code": "RMA",
-          "name": "皇家马德里",
-          "name_en": "Real Madrid"
+          "name": "皇家马德里"
         },
         "away": {
           "id": "mnc",
           "code": "MNC",
-          "name": "曼城",
-          "name_en": "Manchester City"
+          "name": "曼城"
         }
       },
       "details": {
@@ -4749,9 +4343,7 @@
         "away_score": 2,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Manchester City @ Real Madrid",
-      "description_en": "Manchester City @ Real Madrid(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757761",
@@ -4764,7 +4356,7 @@
       "description": "布鲁日 作客 阿拉木图凯拉特（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -4775,8 +4367,7 @@
         "away": {
           "id": "bru",
           "code": "BRU",
-          "name": "布鲁日",
-          "name_en": "Club Brugge"
+          "name": "布鲁日"
         }
       },
       "details": {
@@ -4792,9 +4383,7 @@
         "away_score": 4,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Club Brugge @ Kairat Almaty",
-      "description_en": "Club Brugge @ Kairat Almaty(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757762",
@@ -4807,20 +4396,18 @@
       "description": "曼城 作客 博多/格林特（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "bodo",
           "code": "BODO",
-          "name": "博多/格林特",
-          "name_en": "Bodo/Glimt"
+          "name": "博多/格林特"
         },
         "away": {
           "id": "mnc",
           "code": "MNC",
-          "name": "曼城",
-          "name_en": "Manchester City"
+          "name": "曼城"
         }
       },
       "details": {
@@ -4836,9 +4423,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Manchester City @ Bodo/Glimt",
-      "description_en": "Manchester City @ Bodo/Glimt(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757767",
@@ -4851,20 +4436,18 @@
       "description": "那不勒斯 作客 哥本哈根（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "kbh",
           "code": "KBH",
-          "name": "哥本哈根",
-          "name_en": "FC Copenhagen"
+          "name": "哥本哈根"
         },
         "away": {
           "id": "nap",
           "code": "NAP",
-          "name": "那不勒斯",
-          "name_en": "Napoli"
+          "name": "那不勒斯"
         }
       },
       "details": {
@@ -4880,9 +4463,7 @@
         "away_score": 1,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Napoli @ FC Copenhagen",
-      "description_en": "Napoli @ FC Copenhagen(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757763",
@@ -4895,20 +4476,18 @@
       "description": "阿森纳 作客 国际米兰（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "int",
           "code": "INT",
-          "name": "国际米兰",
-          "name_en": "Inter Milan"
+          "name": "国际米兰"
         },
         "away": {
           "id": "ars",
           "code": "ARS",
-          "name": "阿森纳",
-          "name_en": "Arsenal"
+          "name": "阿森纳"
         }
       },
       "details": {
@@ -4924,9 +4503,7 @@
         "away_score": 3,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Arsenal @ Inter Milan",
-      "description_en": "Arsenal @ Inter Milan(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757765",
@@ -4939,20 +4516,18 @@
       "description": "勒沃库森 作客 奥林匹亚科斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "oly",
           "code": "OLY",
-          "name": "奥林匹亚科斯",
-          "name_en": "Olympiacos"
+          "name": "奥林匹亚科斯"
         },
         "away": {
           "id": "b04",
           "code": "B04",
-          "name": "勒沃库森",
-          "name_en": "Bayer Leverkusen"
+          "name": "勒沃库森"
         }
       },
       "details": {
@@ -4968,9 +4543,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Bayer Leverkusen @ Olympiacos",
-      "description_en": "Bayer Leverkusen @ Olympiacos(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757764",
@@ -4983,20 +4556,18 @@
       "description": "摩纳哥 作客 皇家马德里（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "rma",
           "code": "RMA",
-          "name": "皇家马德里",
-          "name_en": "Real Madrid"
+          "name": "皇家马德里"
         },
         "away": {
           "id": "mon",
           "code": "MON",
-          "name": "摩纳哥",
-          "name_en": "Monaco"
+          "name": "摩纳哥"
         }
       },
       "details": {
@@ -5012,9 +4583,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Monaco @ Real Madrid",
-      "description_en": "Monaco @ Real Madrid(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757768",
@@ -5027,20 +4596,18 @@
       "description": "巴黎圣日耳曼 作客 葡萄牙体育（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "scp",
           "code": "SCP",
-          "name": "葡萄牙体育",
-          "name_en": "Sporting CP"
+          "name": "葡萄牙体育"
         },
         "away": {
           "id": "psg",
           "code": "PSG",
-          "name": "巴黎圣日耳曼",
-          "name_en": "Paris Saint-Germain"
+          "name": "巴黎圣日耳曼"
         }
       },
       "details": {
@@ -5056,9 +4623,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Paris Saint-Germain @ Sporting CP",
-      "description_en": "Paris Saint-Germain @ Sporting CP(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757769",
@@ -5071,20 +4636,18 @@
       "description": "多特蒙德 作客 热刺（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "tot",
           "code": "TOT",
-          "name": "热刺",
-          "name_en": "Tottenham Hotspur"
+          "name": "热刺"
         },
         "away": {
           "id": "dor",
           "code": "DOR",
-          "name": "多特蒙德",
-          "name_en": "Borussia Dortmund"
+          "name": "多特蒙德"
         }
       },
       "details": {
@@ -5100,9 +4663,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Borussia Dortmund @ Tottenham Hotspur",
-      "description_en": "Borussia Dortmund @ Tottenham Hotspur(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757766",
@@ -5115,20 +4676,18 @@
       "description": "阿贾克斯 作客 比利亚雷亚尔（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "vil",
           "code": "VIL",
-          "name": "比利亚雷亚尔",
-          "name_en": "Villarreal"
+          "name": "比利亚雷亚尔"
         },
         "away": {
           "id": "aja",
           "code": "AJA",
-          "name": "阿贾克斯",
-          "name_en": "Ajax"
+          "name": "阿贾克斯"
         }
       },
       "details": {
@@ -5144,9 +4703,7 @@
         "away_score": 2,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Ajax @ Villarreal",
-      "description_en": "Ajax @ Villarreal(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757770",
@@ -5159,20 +4716,18 @@
       "description": "法兰克福 作客 卡拉巴赫（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "qar",
           "code": "QAR",
-          "name": "卡拉巴赫",
-          "name_en": "Qarabag FK"
+          "name": "卡拉巴赫"
         },
         "away": {
           "id": "sge",
           "code": "SGE",
-          "name": "法兰克福",
-          "name_en": "Eintracht Frankfurt"
+          "name": "法兰克福"
         }
       },
       "details": {
@@ -5188,9 +4743,7 @@
         "away_score": 2,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Eintracht Frankfurt @ Qarabag FK",
-      "description_en": "Eintracht Frankfurt @ Qarabag FK(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757771",
@@ -5203,14 +4756,13 @@
       "description": "马竞 作客 加拉塔萨雷（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "gal",
           "code": "GAL",
-          "name": "加拉塔萨雷",
-          "name_en": "Galatasaray"
+          "name": "加拉塔萨雷"
         },
         "away": {
           "id": "atm",
@@ -5231,9 +4783,7 @@
         "away_score": 1,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Atletico Madrid @ Galatasaray",
-      "description_en": "Atletico Madrid @ Galatasaray(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757772",
@@ -5246,20 +4796,18 @@
       "description": "毕尔巴鄂竞技 作客 亚特兰大（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "ata",
           "code": "ATA",
-          "name": "亚特兰大",
-          "name_en": "Atalanta"
+          "name": "亚特兰大"
         },
         "away": {
           "id": "ath",
           "code": "ATH",
-          "name": "毕尔巴鄂竞技",
-          "name_en": "Athletic Bilbao"
+          "name": "毕尔巴鄂竞技"
         }
       },
       "details": {
@@ -5275,9 +4823,7 @@
         "away_score": 3,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Athletic Bilbao @ Atalanta",
-      "description_en": "Athletic Bilbao @ Atalanta(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757774",
@@ -5290,14 +4836,13 @@
       "description": "圣日洛瓦联 作客 拜仁慕尼黑（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mun",
           "code": "MUN",
-          "name": "拜仁慕尼黑",
-          "name_en": "Bayern Munich"
+          "name": "拜仁慕尼黑"
         },
         "away": {
           "id": "usg",
@@ -5318,9 +4863,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Union Saint-Gilloise @ Bayern Munich",
-      "description_en": "Union Saint-Gilloise @ Bayern Munich(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757773",
@@ -5333,14 +4876,13 @@
       "description": "帕福斯 作客 切尔西（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "che",
           "code": "CHE",
-          "name": "切尔西",
-          "name_en": "Chelsea"
+          "name": "切尔西"
         },
         "away": {
           "id": "paf",
@@ -5361,9 +4903,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Pafos @ Chelsea",
-      "description_en": "Pafos @ Chelsea(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757775",
@@ -5376,20 +4916,18 @@
       "description": "本菲卡 作客 尤文图斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "juv",
           "code": "JUV",
-          "name": "尤文图斯",
-          "name_en": "Juventus"
+          "name": "尤文图斯"
         },
         "away": {
           "id": "slb",
           "code": "SLB",
-          "name": "本菲卡",
-          "name_en": "Benfica"
+          "name": "本菲卡"
         }
       },
       "details": {
@@ -5405,9 +4943,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Benfica @ Juventus",
-      "description_en": "Benfica @ Juventus(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757776",
@@ -5420,20 +4956,18 @@
       "description": "利物浦 作客 马赛（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "olm",
           "code": "OLM",
-          "name": "马赛",
-          "name_en": "Marseille"
+          "name": "马赛"
         },
         "away": {
           "id": "liv",
           "code": "LIV",
-          "name": "利物浦",
-          "name_en": "Liverpool"
+          "name": "利物浦"
         }
       },
       "details": {
@@ -5449,9 +4983,7 @@
         "away_score": 3,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Liverpool @ Marseille",
-      "description_en": "Liverpool @ Marseille(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757777",
@@ -5464,20 +4996,18 @@
       "description": "埃因霍温 作客 纽卡斯尔联（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "new",
           "code": "NEW",
-          "name": "纽卡斯尔联",
-          "name_en": "Newcastle United"
+          "name": "纽卡斯尔联"
         },
         "away": {
           "id": "psv",
           "code": "PSV",
-          "name": "埃因霍温",
-          "name_en": "PSV Eindhoven"
+          "name": "埃因霍温"
         }
       },
       "details": {
@@ -5493,9 +5023,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · PSV Eindhoven @ Newcastle United",
-      "description_en": "PSV Eindhoven @ Newcastle United(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757778",
@@ -5508,20 +5036,18 @@
       "description": "巴塞罗那 作客 布拉格斯拉维亚（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "slp",
           "code": "SLP",
-          "name": "布拉格斯拉维亚",
-          "name_en": "Slavia Prague"
+          "name": "布拉格斯拉维亚"
         },
         "away": {
           "id": "bar",
           "code": "BAR",
-          "name": "巴塞罗那",
-          "name_en": "Barcelona"
+          "name": "巴塞罗那"
         }
       },
       "details": {
@@ -5537,9 +5063,7 @@
         "away_score": 4,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Barcelona @ Slavia Prague",
-      "description_en": "Barcelona @ Slavia Prague(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757779",
@@ -5552,20 +5076,18 @@
       "description": "奥林匹亚科斯 作客 阿贾克斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "aja",
           "code": "AJA",
-          "name": "阿贾克斯",
-          "name_en": "Ajax"
+          "name": "阿贾克斯"
         },
         "away": {
           "id": "oly",
           "code": "OLY",
-          "name": "奥林匹亚科斯",
-          "name_en": "Olympiacos"
+          "name": "奥林匹亚科斯"
         }
       },
       "details": {
@@ -5581,9 +5103,7 @@
         "away_score": 2,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Olympiacos @ Ajax",
-      "description_en": "Olympiacos @ Ajax(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757780",
@@ -5596,14 +5116,13 @@
       "description": "阿拉木图凯拉特 作客 阿森纳（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "ars",
           "code": "ARS",
-          "name": "阿森纳",
-          "name_en": "Arsenal"
+          "name": "阿森纳"
         },
         "away": {
           "id": "kai",
@@ -5624,9 +5143,7 @@
         "away_score": 2,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Kairat Almaty @ Arsenal",
-      "description_en": "Kairat Almaty @ Arsenal(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757791",
@@ -5639,20 +5156,18 @@
       "description": "尤文图斯 作客 摩纳哥（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mon",
           "code": "MON",
-          "name": "摩纳哥",
-          "name_en": "Monaco"
+          "name": "摩纳哥"
         },
         "away": {
           "id": "juv",
           "code": "JUV",
-          "name": "尤文图斯",
-          "name_en": "Juventus"
+          "name": "尤文图斯"
         }
       },
       "details": {
@@ -5668,9 +5183,7 @@
         "away_score": 0,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Juventus @ Monaco",
-      "description_en": "Juventus @ Monaco(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757781",
@@ -5683,20 +5196,18 @@
       "description": "葡萄牙体育 作客 毕尔巴鄂竞技（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "ath",
           "code": "ATH",
-          "name": "毕尔巴鄂竞技",
-          "name_en": "Athletic Bilbao"
+          "name": "毕尔巴鄂竞技"
         },
         "away": {
           "id": "scp",
           "code": "SCP",
-          "name": "葡萄牙体育",
-          "name_en": "Sporting CP"
+          "name": "葡萄牙体育"
         }
       },
       "details": {
@@ -5712,9 +5223,7 @@
         "away_score": 3,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Sporting CP @ Athletic Bilbao",
-      "description_en": "Sporting CP @ Athletic Bilbao(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757782",
@@ -5727,7 +5236,7 @@
       "description": "博多/格林特 作客 马竞（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -5738,8 +5247,7 @@
         "away": {
           "id": "bodo",
           "code": "BODO",
-          "name": "博多/格林特",
-          "name_en": "Bodo/Glimt"
+          "name": "博多/格林特"
         }
       },
       "details": {
@@ -5755,9 +5263,7 @@
         "away_score": 2,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Bodo/Glimt @ Atletico Madrid",
-      "description_en": "Bodo/Glimt @ Atletico Madrid(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757783",
@@ -5770,20 +5276,18 @@
       "description": "哥本哈根 作客 巴塞罗那（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "bar",
           "code": "BAR",
-          "name": "巴塞罗那",
-          "name_en": "Barcelona"
+          "name": "巴塞罗那"
         },
         "away": {
           "id": "kbh",
           "code": "KBH",
-          "name": "哥本哈根",
-          "name_en": "FC Copenhagen"
+          "name": "哥本哈根"
         }
       },
       "details": {
@@ -5799,9 +5303,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · FC Copenhagen @ Barcelona",
-      "description_en": "FC Copenhagen @ Barcelona(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757784",
@@ -5814,20 +5316,18 @@
       "description": "比利亚雷亚尔 作客 勒沃库森（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "b04",
           "code": "B04",
-          "name": "勒沃库森",
-          "name_en": "Bayer Leverkusen"
+          "name": "勒沃库森"
         },
         "away": {
           "id": "vil",
           "code": "VIL",
-          "name": "比利亚雷亚尔",
-          "name_en": "Villarreal"
+          "name": "比利亚雷亚尔"
         }
       },
       "details": {
@@ -5843,9 +5343,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Villarreal @ Bayer Leverkusen",
-      "description_en": "Villarreal @ Bayer Leverkusen(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757785",
@@ -5858,20 +5356,18 @@
       "description": "皇家马德里 作客 本菲卡（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "slb",
           "code": "SLB",
-          "name": "本菲卡",
-          "name_en": "Benfica"
+          "name": "本菲卡"
         },
         "away": {
           "id": "rma",
           "code": "RMA",
-          "name": "皇家马德里",
-          "name_en": "Real Madrid"
+          "name": "皇家马德里"
         }
       },
       "details": {
@@ -5887,9 +5383,7 @@
         "away_score": 2,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Real Madrid @ Benfica",
-      "description_en": "Real Madrid @ Benfica(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757786",
@@ -5902,20 +5396,18 @@
       "description": "国际米兰 作客 多特蒙德（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "dor",
           "code": "DOR",
-          "name": "多特蒙德",
-          "name_en": "Borussia Dortmund"
+          "name": "多特蒙德"
         },
         "away": {
           "id": "int",
           "code": "INT",
-          "name": "国际米兰",
-          "name_en": "Inter Milan"
+          "name": "国际米兰"
         }
       },
       "details": {
@@ -5931,9 +5423,7 @@
         "away_score": 2,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Inter Milan @ Borussia Dortmund",
-      "description_en": "Inter Milan @ Borussia Dortmund(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757787",
@@ -5946,20 +5436,18 @@
       "description": "马赛 作客 布鲁日（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "bru",
           "code": "BRU",
-          "name": "布鲁日",
-          "name_en": "Club Brugge"
+          "name": "布鲁日"
         },
         "away": {
           "id": "olm",
           "code": "OLM",
-          "name": "马赛",
-          "name_en": "Marseille"
+          "name": "马赛"
         }
       },
       "details": {
@@ -5975,9 +5463,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Marseille @ Club Brugge",
-      "description_en": "Marseille @ Club Brugge(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757788",
@@ -5990,20 +5476,18 @@
       "description": "热刺 作客 法兰克福（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "sge",
           "code": "SGE",
-          "name": "法兰克福",
-          "name_en": "Eintracht Frankfurt"
+          "name": "法兰克福"
         },
         "away": {
           "id": "tot",
           "code": "TOT",
-          "name": "热刺",
-          "name_en": "Tottenham Hotspur"
+          "name": "热刺"
         }
       },
       "details": {
@@ -6019,9 +5503,7 @@
         "away_score": 2,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Tottenham Hotspur @ Eintracht Frankfurt",
-      "description_en": "Tottenham Hotspur @ Eintracht Frankfurt(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757789",
@@ -6034,20 +5516,18 @@
       "description": "卡拉巴赫 作客 利物浦（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "liv",
           "code": "LIV",
-          "name": "利物浦",
-          "name_en": "Liverpool"
+          "name": "利物浦"
         },
         "away": {
           "id": "qar",
           "code": "QAR",
-          "name": "卡拉巴赫",
-          "name_en": "Qarabag FK"
+          "name": "卡拉巴赫"
         }
       },
       "details": {
@@ -6063,9 +5543,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Qarabag FK @ Liverpool",
-      "description_en": "Qarabag FK @ Liverpool(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757790",
@@ -6078,20 +5556,18 @@
       "description": "加拉塔萨雷 作客 曼城（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mnc",
           "code": "MNC",
-          "name": "曼城",
-          "name_en": "Manchester City"
+          "name": "曼城"
         },
         "away": {
           "id": "gal",
           "code": "GAL",
-          "name": "加拉塔萨雷",
-          "name_en": "Galatasaray"
+          "name": "加拉塔萨雷"
         }
       },
       "details": {
@@ -6107,9 +5583,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Galatasaray @ Manchester City",
-      "description_en": "Galatasaray @ Manchester City(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757792",
@@ -6122,20 +5596,18 @@
       "description": "切尔西 作客 那不勒斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "nap",
           "code": "NAP",
-          "name": "那不勒斯",
-          "name_en": "Napoli"
+          "name": "那不勒斯"
         },
         "away": {
           "id": "che",
           "code": "CHE",
-          "name": "切尔西",
-          "name_en": "Chelsea"
+          "name": "切尔西"
         }
       },
       "details": {
@@ -6151,9 +5623,7 @@
         "away_score": 3,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Chelsea @ Napoli",
-      "description_en": "Chelsea @ Napoli(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757794",
@@ -6166,7 +5636,7 @@
       "description": "布拉格斯拉维亚 作客 帕福斯（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -6177,8 +5647,7 @@
         "away": {
           "id": "slp",
           "code": "SLP",
-          "name": "布拉格斯拉维亚",
-          "name_en": "Slavia Prague"
+          "name": "布拉格斯拉维亚"
         }
       },
       "details": {
@@ -6194,9 +5663,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Slavia Prague @ Pafos",
-      "description_en": "Slavia Prague @ Pafos(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757795",
@@ -6209,20 +5676,18 @@
       "description": "纽卡斯尔联 作客 巴黎圣日耳曼（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "psg",
           "code": "PSG",
-          "name": "巴黎圣日耳曼",
-          "name_en": "Paris Saint-Germain"
+          "name": "巴黎圣日耳曼"
         },
         "away": {
           "id": "new",
           "code": "NEW",
-          "name": "纽卡斯尔联",
-          "name_en": "Newcastle United"
+          "name": "纽卡斯尔联"
         }
       },
       "details": {
@@ -6238,9 +5703,7 @@
         "away_score": 1,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Newcastle United @ Paris Saint-Germain",
-      "description_en": "Newcastle United @ Paris Saint-Germain(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757793",
@@ -6253,20 +5716,18 @@
       "description": "拜仁慕尼黑 作客 埃因霍温（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "psv",
           "code": "PSV",
-          "name": "埃因霍温",
-          "name_en": "PSV Eindhoven"
+          "name": "埃因霍温"
         },
         "away": {
           "id": "mun",
           "code": "MUN",
-          "name": "拜仁慕尼黑",
-          "name_en": "Bayern Munich"
+          "name": "拜仁慕尼黑"
         }
       },
       "details": {
@@ -6282,9 +5743,7 @@
         "away_score": 2,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Bayern Munich @ PSV Eindhoven",
-      "description_en": "Bayern Munich @ PSV Eindhoven(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-757796",
@@ -6297,7 +5756,7 @@
       "description": "亚特兰大 作客 圣日洛瓦联（欧冠 2025-26 赛季 联赛阶段，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -6308,8 +5767,7 @@
         "away": {
           "id": "ata",
           "code": "ATA",
-          "name": "亚特兰大",
-          "name_en": "Atalanta"
+          "name": "亚特兰大"
         }
       },
       "details": {
@@ -6325,9 +5783,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League League Phase · Atalanta @ Union Saint-Gilloise",
-      "description_en": "Atalanta @ Union Saint-Gilloise(Champions League 2025-26 Season League Phase,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401858759",
@@ -6340,20 +5796,18 @@
       "description": "尤文图斯 作客 加拉塔萨雷（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "gal",
           "code": "GAL",
-          "name": "加拉塔萨雷",
-          "name_en": "Galatasaray"
+          "name": "加拉塔萨雷"
         },
         "away": {
           "id": "juv",
           "code": "JUV",
-          "name": "尤文图斯",
-          "name_en": "Juventus"
+          "name": "尤文图斯"
         }
       },
       "details": {
@@ -6369,9 +5823,7 @@
         "away_score": 2,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League KnockoutPlay-In · Juventus @ Galatasaray",
-      "description_en": "Juventus @ Galatasaray(Champions League 2025-26 Season KnockoutPlay-In,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401858758",
@@ -6384,20 +5836,18 @@
       "description": "巴黎圣日耳曼 作客 摩纳哥（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mon",
           "code": "MON",
-          "name": "摩纳哥",
-          "name_en": "Monaco"
+          "name": "摩纳哥"
         },
         "away": {
           "id": "psg",
           "code": "PSG",
-          "name": "巴黎圣日耳曼",
-          "name_en": "Paris Saint-Germain"
+          "name": "巴黎圣日耳曼"
         }
       },
       "details": {
@@ -6413,9 +5863,7 @@
         "away_score": 3,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League KnockoutPlay-In · Paris Saint-Germain @ Monaco",
-      "description_en": "Paris Saint-Germain @ Monaco(Champions League 2025-26 Season KnockoutPlay-In,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401858735",
@@ -6428,20 +5876,18 @@
       "description": "皇家马德里 作客 本菲卡（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "slb",
           "code": "SLB",
-          "name": "本菲卡",
-          "name_en": "Benfica"
+          "name": "本菲卡"
         },
         "away": {
           "id": "rma",
           "code": "RMA",
-          "name": "皇家马德里",
-          "name_en": "Real Madrid"
+          "name": "皇家马德里"
         }
       },
       "details": {
@@ -6457,9 +5903,7 @@
         "away_score": 1,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League KnockoutPlay-In · Real Madrid @ Benfica",
-      "description_en": "Real Madrid @ Benfica(Champions League 2025-26 Season KnockoutPlay-In,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401858761",
@@ -6472,20 +5916,18 @@
       "description": "亚特兰大 作客 多特蒙德（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "dor",
           "code": "DOR",
-          "name": "多特蒙德",
-          "name_en": "Borussia Dortmund"
+          "name": "多特蒙德"
         },
         "away": {
           "id": "ata",
           "code": "ATA",
-          "name": "亚特兰大",
-          "name_en": "Atalanta"
+          "name": "亚特兰大"
         }
       },
       "details": {
@@ -6501,9 +5943,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League KnockoutPlay-In · Atalanta @ Borussia Dortmund",
-      "description_en": "Atalanta @ Borussia Dortmund(Champions League 2025-26 Season KnockoutPlay-In,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401858736",
@@ -6516,20 +5956,18 @@
       "description": "纽卡斯尔联 作客 卡拉巴赫（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "qar",
           "code": "QAR",
-          "name": "卡拉巴赫",
-          "name_en": "Qarabag FK"
+          "name": "卡拉巴赫"
         },
         "away": {
           "id": "new",
           "code": "NEW",
-          "name": "纽卡斯尔联",
-          "name_en": "Newcastle United"
+          "name": "纽卡斯尔联"
         }
       },
       "details": {
@@ -6545,9 +5983,7 @@
         "away_score": 6,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League KnockoutPlay-In · Newcastle United @ Qarabag FK",
-      "description_en": "Newcastle United @ Qarabag FK(Champions League 2025-26 Season KnockoutPlay-In,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401858734",
@@ -6560,20 +5996,18 @@
       "description": "国际米兰 作客 博多/格林特（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "bodo",
           "code": "BODO",
-          "name": "博多/格林特",
-          "name_en": "Bodo/Glimt"
+          "name": "博多/格林特"
         },
         "away": {
           "id": "int",
           "code": "INT",
-          "name": "国际米兰",
-          "name_en": "Inter Milan"
+          "name": "国际米兰"
         }
       },
       "details": {
@@ -6589,9 +6023,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League KnockoutPlay-In · Inter Milan @ Bodo/Glimt",
-      "description_en": "Inter Milan @ Bodo/Glimt(Champions League 2025-26 Season KnockoutPlay-In,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401858760",
@@ -6604,14 +6036,13 @@
       "description": "马竞 作客 布鲁日（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "bru",
           "code": "BRU",
-          "name": "布鲁日",
-          "name_en": "Club Brugge"
+          "name": "布鲁日"
         },
         "away": {
           "id": "atm",
@@ -6632,9 +6063,7 @@
         "away_score": 3,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League KnockoutPlay-In · Atletico Madrid @ Club Brugge",
-      "description_en": "Atletico Madrid @ Club Brugge(Champions League 2025-26 Season KnockoutPlay-In,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401858737",
@@ -6647,20 +6076,18 @@
       "description": "勒沃库森 作客 奥林匹亚科斯（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "oly",
           "code": "OLY",
-          "name": "奥林匹亚科斯",
-          "name_en": "Olympiacos"
+          "name": "奥林匹亚科斯"
         },
         "away": {
           "id": "b04",
           "code": "B04",
-          "name": "勒沃库森",
-          "name_en": "Bayer Leverkusen"
+          "name": "勒沃库森"
         }
       },
       "details": {
@@ -6676,9 +6103,7 @@
         "away_score": 2,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League KnockoutPlay-In · Bayer Leverkusen @ Olympiacos",
-      "description_en": "Bayer Leverkusen @ Olympiacos(Champions League 2025-26 Season KnockoutPlay-In,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401858768",
@@ -6691,7 +6116,7 @@
       "description": "布鲁日 作客 马竞（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -6702,8 +6127,7 @@
         "away": {
           "id": "bru",
           "code": "BRU",
-          "name": "布鲁日",
-          "name_en": "Club Brugge"
+          "name": "布鲁日"
         }
       },
       "details": {
@@ -6719,9 +6143,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League KnockoutPlay-In · Club Brugge @ Atletico Madrid",
-      "description_en": "Club Brugge @ Atletico Madrid(Champions League 2025-26 Season KnockoutPlay-In,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401858767",
@@ -6734,20 +6156,18 @@
       "description": "奥林匹亚科斯 作客 勒沃库森（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "b04",
           "code": "B04",
-          "name": "勒沃库森",
-          "name_en": "Bayer Leverkusen"
+          "name": "勒沃库森"
         },
         "away": {
           "id": "oly",
           "code": "OLY",
-          "name": "奥林匹亚科斯",
-          "name_en": "Olympiacos"
+          "name": "奥林匹亚科斯"
         }
       },
       "details": {
@@ -6763,9 +6183,7 @@
         "away_score": 0,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League KnockoutPlay-In · Olympiacos @ Bayer Leverkusen",
-      "description_en": "Olympiacos @ Bayer Leverkusen(Champions League 2025-26 Season KnockoutPlay-In,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401858766",
@@ -6778,20 +6196,18 @@
       "description": "博多/格林特 作客 国际米兰（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "int",
           "code": "INT",
-          "name": "国际米兰",
-          "name_en": "Inter Milan"
+          "name": "国际米兰"
         },
         "away": {
           "id": "bodo",
           "code": "BODO",
-          "name": "博多/格林特",
-          "name_en": "Bodo/Glimt"
+          "name": "博多/格林特"
         }
       },
       "details": {
@@ -6807,9 +6223,7 @@
         "away_score": 2,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League KnockoutPlay-In · Bodo/Glimt @ Inter Milan",
-      "description_en": "Bodo/Glimt @ Inter Milan(Champions League 2025-26 Season KnockoutPlay-In,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401858764",
@@ -6822,20 +6236,18 @@
       "description": "卡拉巴赫 作客 纽卡斯尔联（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "new",
           "code": "NEW",
-          "name": "纽卡斯尔联",
-          "name_en": "Newcastle United"
+          "name": "纽卡斯尔联"
         },
         "away": {
           "id": "qar",
           "code": "QAR",
-          "name": "卡拉巴赫",
-          "name_en": "Qarabag FK"
+          "name": "卡拉巴赫"
         }
       },
       "details": {
@@ -6851,9 +6263,7 @@
         "away_score": 2,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League KnockoutPlay-In · Qarabag FK @ Newcastle United",
-      "description_en": "Qarabag FK @ Newcastle United(Champions League 2025-26 Season KnockoutPlay-In,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401858762",
@@ -6866,20 +6276,18 @@
       "description": "多特蒙德 作客 亚特兰大（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "ata",
           "code": "ATA",
-          "name": "亚特兰大",
-          "name_en": "Atalanta"
+          "name": "亚特兰大"
         },
         "away": {
           "id": "dor",
           "code": "DOR",
-          "name": "多特蒙德",
-          "name_en": "Borussia Dortmund"
+          "name": "多特蒙德"
         }
       },
       "details": {
@@ -6895,9 +6303,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League KnockoutPlay-In · Borussia Dortmund @ Atalanta",
-      "description_en": "Borussia Dortmund @ Atalanta(Champions League 2025-26 Season KnockoutPlay-In,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401858765",
@@ -6910,20 +6316,18 @@
       "description": "加拉塔萨雷 作客 尤文图斯（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "juv",
           "code": "JUV",
-          "name": "尤文图斯",
-          "name_en": "Juventus"
+          "name": "尤文图斯"
         },
         "away": {
           "id": "gal",
           "code": "GAL",
-          "name": "加拉塔萨雷",
-          "name_en": "Galatasaray"
+          "name": "加拉塔萨雷"
         }
       },
       "details": {
@@ -6932,9 +6336,7 @@
         "客场": "加拉塔萨雷",
         "场馆": "Allianz Stadium",
         "城市": "Torino"
-      },
-      "name_en": "Champions League KnockoutPlay-In · Galatasaray @ Juventus",
-      "description_en": "Galatasaray @ Juventus(Champions League 2025-26 Season KnockoutPlay-In,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401858763",
@@ -6947,20 +6349,18 @@
       "description": "摩纳哥 作客 巴黎圣日耳曼（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "psg",
           "code": "PSG",
-          "name": "巴黎圣日耳曼",
-          "name_en": "Paris Saint-Germain"
+          "name": "巴黎圣日耳曼"
         },
         "away": {
           "id": "mon",
           "code": "MON",
-          "name": "摩纳哥",
-          "name_en": "Monaco"
+          "name": "摩纳哥"
         }
       },
       "details": {
@@ -6976,9 +6376,7 @@
         "away_score": 2,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League KnockoutPlay-In · Monaco @ Paris Saint-Germain",
-      "description_en": "Monaco @ Paris Saint-Germain(Champions League 2025-26 Season KnockoutPlay-In,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401858769",
@@ -6991,20 +6389,18 @@
       "description": "本菲卡 作客 皇家马德里（欧冠 2025-26 赛季 淘汰附加赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "rma",
           "code": "RMA",
-          "name": "皇家马德里",
-          "name_en": "Real Madrid"
+          "name": "皇家马德里"
         },
         "away": {
           "id": "slb",
           "code": "SLB",
-          "name": "本菲卡",
-          "name_en": "Benfica"
+          "name": "本菲卡"
         }
       },
       "details": {
@@ -7020,9 +6416,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League KnockoutPlay-In · Benfica @ Real Madrid",
-      "description_en": "Benfica @ Real Madrid(Champions League 2025-26 Season KnockoutPlay-In,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862667",
@@ -7035,20 +6429,18 @@
       "description": "利物浦 作客 加拉塔萨雷（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "gal",
           "code": "GAL",
-          "name": "加拉塔萨雷",
-          "name_en": "Galatasaray"
+          "name": "加拉塔萨雷"
         },
         "away": {
           "id": "liv",
           "code": "LIV",
-          "name": "利物浦",
-          "name_en": "Liverpool"
+          "name": "利物浦"
         }
       },
       "details": {
@@ -7064,9 +6456,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League Round of 16 · Liverpool @ Galatasaray",
-      "description_en": "Liverpool @ Galatasaray(Champions League 2025-26 Season Round of 16,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862641",
@@ -7079,20 +6469,18 @@
       "description": "拜仁慕尼黑 作客 亚特兰大（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "ata",
           "code": "ATA",
-          "name": "亚特兰大",
-          "name_en": "Atalanta"
+          "name": "亚特兰大"
         },
         "away": {
           "id": "mun",
           "code": "MUN",
-          "name": "拜仁慕尼黑",
-          "name_en": "Bayern Munich"
+          "name": "拜仁慕尼黑"
         }
       },
       "details": {
@@ -7108,9 +6496,7 @@
         "away_score": 6,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League Round of 16 · Bayern Munich @ Atalanta",
-      "description_en": "Bayern Munich @ Atalanta(Champions League 2025-26 Season Round of 16,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862579",
@@ -7123,7 +6509,7 @@
       "description": "热刺 作客 马竞（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -7134,8 +6520,7 @@
         "away": {
           "id": "tot",
           "code": "TOT",
-          "name": "热刺",
-          "name_en": "Tottenham Hotspur"
+          "name": "热刺"
         }
       },
       "details": {
@@ -7151,9 +6536,7 @@
         "away_score": 2,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League Round of 16 · Tottenham Hotspur @ Atletico Madrid",
-      "description_en": "Tottenham Hotspur @ Atletico Madrid(Champions League 2025-26 Season Round of 16,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862577",
@@ -7166,20 +6549,18 @@
       "description": "巴塞罗那 作客 纽卡斯尔联（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "new",
           "code": "NEW",
-          "name": "纽卡斯尔联",
-          "name_en": "Newcastle United"
+          "name": "纽卡斯尔联"
         },
         "away": {
           "id": "bar",
           "code": "BAR",
-          "name": "巴塞罗那",
-          "name_en": "Barcelona"
+          "name": "巴塞罗那"
         }
       },
       "details": {
@@ -7195,9 +6576,7 @@
         "away_score": 1,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League Round of 16 · Barcelona @ Newcastle United",
-      "description_en": "Barcelona @ Newcastle United(Champions League 2025-26 Season Round of 16,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862578",
@@ -7210,20 +6589,18 @@
       "description": "阿森纳 作客 勒沃库森（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "b04",
           "code": "B04",
-          "name": "勒沃库森",
-          "name_en": "Bayer Leverkusen"
+          "name": "勒沃库森"
         },
         "away": {
           "id": "ars",
           "code": "ARS",
-          "name": "阿森纳",
-          "name_en": "Arsenal"
+          "name": "阿森纳"
         }
       },
       "details": {
@@ -7239,9 +6616,7 @@
         "away_score": 1,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League Round of 16 · Arsenal @ Bayer Leverkusen",
-      "description_en": "Arsenal @ Bayer Leverkusen(Champions League 2025-26 Season Round of 16,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862583",
@@ -7254,20 +6629,18 @@
       "description": "葡萄牙体育 作客 博多/格林特（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "bodo",
           "code": "BODO",
-          "name": "博多/格林特",
-          "name_en": "Bodo/Glimt"
+          "name": "博多/格林特"
         },
         "away": {
           "id": "scp",
           "code": "SCP",
-          "name": "葡萄牙体育",
-          "name_en": "Sporting CP"
+          "name": "葡萄牙体育"
         }
       },
       "details": {
@@ -7283,9 +6656,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League Round of 16 · Sporting CP @ Bodo/Glimt",
-      "description_en": "Sporting CP @ Bodo/Glimt(Champions League 2025-26 Season Round of 16,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862646",
@@ -7298,20 +6669,18 @@
       "description": "切尔西 作客 巴黎圣日耳曼（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "psg",
           "code": "PSG",
-          "name": "巴黎圣日耳曼",
-          "name_en": "Paris Saint-Germain"
+          "name": "巴黎圣日耳曼"
         },
         "away": {
           "id": "che",
           "code": "CHE",
-          "name": "切尔西",
-          "name_en": "Chelsea"
+          "name": "切尔西"
         }
       },
       "details": {
@@ -7327,9 +6696,7 @@
         "away_score": 2,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League Round of 16 · Chelsea @ Paris Saint-Germain",
-      "description_en": "Chelsea @ Paris Saint-Germain(Champions League 2025-26 Season Round of 16,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862645",
@@ -7342,20 +6709,18 @@
       "description": "曼城 作客 皇家马德里（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "rma",
           "code": "RMA",
-          "name": "皇家马德里",
-          "name_en": "Real Madrid"
+          "name": "皇家马德里"
         },
         "away": {
           "id": "mnc",
           "code": "MNC",
-          "name": "曼城",
-          "name_en": "Manchester City"
+          "name": "曼城"
         }
       },
       "details": {
@@ -7371,9 +6736,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League Round of 16 · Manchester City @ Real Madrid",
-      "description_en": "Manchester City @ Real Madrid(Champions League 2025-26 Season Round of 16,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862584",
@@ -7386,20 +6749,18 @@
       "description": "博多/格林特 作客 葡萄牙体育（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "scp",
           "code": "SCP",
-          "name": "葡萄牙体育",
-          "name_en": "Sporting CP"
+          "name": "葡萄牙体育"
         },
         "away": {
           "id": "bodo",
           "code": "BODO",
-          "name": "博多/格林特",
-          "name_en": "Bodo/Glimt"
+          "name": "博多/格林特"
         }
       },
       "details": {
@@ -7408,9 +6769,7 @@
         "客场": "博多/格林特",
         "场馆": "Estádio José Alvalade",
         "城市": "Lisbon"
-      },
-      "name_en": "Champions League Round of 16 · Bodo/Glimt @ Sporting CP",
-      "description_en": "Bodo/Glimt @ Sporting CP(Champions League 2025-26 Season Round of 16,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862581",
@@ -7423,20 +6782,18 @@
       "description": "勒沃库森 作客 阿森纳（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "ars",
           "code": "ARS",
-          "name": "阿森纳",
-          "name_en": "Arsenal"
+          "name": "阿森纳"
         },
         "away": {
           "id": "b04",
           "code": "B04",
-          "name": "勒沃库森",
-          "name_en": "Bayer Leverkusen"
+          "name": "勒沃库森"
         }
       },
       "details": {
@@ -7452,9 +6809,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League Round of 16 · Bayer Leverkusen @ Arsenal",
-      "description_en": "Bayer Leverkusen @ Arsenal(Champions League 2025-26 Season Round of 16,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862648",
@@ -7467,20 +6822,18 @@
       "description": "巴黎圣日耳曼 作客 切尔西（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "che",
           "code": "CHE",
-          "name": "切尔西",
-          "name_en": "Chelsea"
+          "name": "切尔西"
         },
         "away": {
           "id": "psg",
           "code": "PSG",
-          "name": "巴黎圣日耳曼",
-          "name_en": "Paris Saint-Germain"
+          "name": "巴黎圣日耳曼"
         }
       },
       "details": {
@@ -7496,9 +6849,7 @@
         "away_score": 3,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League Round of 16 · Paris Saint-Germain @ Chelsea",
-      "description_en": "Paris Saint-Germain @ Chelsea(Champions League 2025-26 Season Round of 16,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862647",
@@ -7511,20 +6862,18 @@
       "description": "皇家马德里 作客 曼城（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mnc",
           "code": "MNC",
-          "name": "曼城",
-          "name_en": "Manchester City"
+          "name": "曼城"
         },
         "away": {
           "id": "rma",
           "code": "RMA",
-          "name": "皇家马德里",
-          "name_en": "Real Madrid"
+          "name": "皇家马德里"
         }
       },
       "details": {
@@ -7540,9 +6889,7 @@
         "away_score": 2,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League Round of 16 · Real Madrid @ Manchester City",
-      "description_en": "Real Madrid @ Manchester City(Champions League 2025-26 Season Round of 16,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862582",
@@ -7555,20 +6902,18 @@
       "description": "纽卡斯尔联 作客 巴塞罗那（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "bar",
           "code": "BAR",
-          "name": "巴塞罗那",
-          "name_en": "Barcelona"
+          "name": "巴塞罗那"
         },
         "away": {
           "id": "new",
           "code": "NEW",
-          "name": "纽卡斯尔联",
-          "name_en": "Newcastle United"
+          "name": "纽卡斯尔联"
         }
       },
       "details": {
@@ -7584,9 +6929,7 @@
         "away_score": 2,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League Round of 16 · Newcastle United @ Barcelona",
-      "description_en": "Newcastle United @ Barcelona(Champions League 2025-26 Season Round of 16,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862642",
@@ -7599,20 +6942,18 @@
       "description": "亚特兰大 作客 拜仁慕尼黑（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mun",
           "code": "MUN",
-          "name": "拜仁慕尼黑",
-          "name_en": "Bayern Munich"
+          "name": "拜仁慕尼黑"
         },
         "away": {
           "id": "ata",
           "code": "ATA",
-          "name": "亚特兰大",
-          "name_en": "Atalanta"
+          "name": "亚特兰大"
         }
       },
       "details": {
@@ -7628,9 +6969,7 @@
         "away_score": 1,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League Round of 16 · Atalanta @ Bayern Munich",
-      "description_en": "Atalanta @ Bayern Munich(Champions League 2025-26 Season Round of 16,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862668",
@@ -7643,20 +6982,18 @@
       "description": "加拉塔萨雷 作客 利物浦（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "liv",
           "code": "LIV",
-          "name": "利物浦",
-          "name_en": "Liverpool"
+          "name": "利物浦"
         },
         "away": {
           "id": "gal",
           "code": "GAL",
-          "name": "加拉塔萨雷",
-          "name_en": "Galatasaray"
+          "name": "加拉塔萨雷"
         }
       },
       "details": {
@@ -7672,9 +7009,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League Round of 16 · Galatasaray @ Liverpool",
-      "description_en": "Galatasaray @ Liverpool(Champions League 2025-26 Season Round of 16,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862580",
@@ -7687,14 +7022,13 @@
       "description": "马竞 作客 热刺（欧冠 2025-26 赛季 十六强赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "tot",
           "code": "TOT",
-          "name": "热刺",
-          "name_en": "Tottenham Hotspur"
+          "name": "热刺"
         },
         "away": {
           "id": "atm",
@@ -7715,9 +7049,7 @@
         "away_score": 2,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League Round of 16 · Atletico Madrid @ Tottenham Hotspur",
-      "description_en": "Atletico Madrid @ Tottenham Hotspur(Champions League 2025-26 Season Round of 16,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862886",
@@ -7730,20 +7062,18 @@
       "description": "拜仁慕尼黑 作客 皇家马德里（欧冠 2025-26 赛季 四分之一决赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "rma",
           "code": "RMA",
-          "name": "皇家马德里",
-          "name_en": "Real Madrid"
+          "name": "皇家马德里"
         },
         "away": {
           "id": "mun",
           "code": "MUN",
-          "name": "拜仁慕尼黑",
-          "name_en": "Bayern Munich"
+          "name": "拜仁慕尼黑"
         }
       },
       "details": {
@@ -7759,9 +7089,7 @@
         "away_score": 2,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League Quarterfinals · Bayern Munich @ Real Madrid",
-      "description_en": "Bayern Munich @ Real Madrid(Champions League 2025-26 Season Quarterfinals,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862888",
@@ -7774,20 +7102,18 @@
       "description": "阿森纳 作客 葡萄牙体育（欧冠 2025-26 赛季 四分之一决赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "scp",
           "code": "SCP",
-          "name": "葡萄牙体育",
-          "name_en": "Sporting CP"
+          "name": "葡萄牙体育"
         },
         "away": {
           "id": "ars",
           "code": "ARS",
-          "name": "阿森纳",
-          "name_en": "Arsenal"
+          "name": "阿森纳"
         }
       },
       "details": {
@@ -7803,9 +7129,7 @@
         "away_score": 1,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League Quarterfinals · Arsenal @ Sporting CP",
-      "description_en": "Arsenal @ Sporting CP(Champions League 2025-26 Season Quarterfinals,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862887",
@@ -7818,14 +7142,13 @@
       "description": "马竞 作客 巴塞罗那（欧冠 2025-26 赛季 四分之一决赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "bar",
           "code": "BAR",
-          "name": "巴塞罗那",
-          "name_en": "Barcelona"
+          "name": "巴塞罗那"
         },
         "away": {
           "id": "atm",
@@ -7846,9 +7169,7 @@
         "away_score": 2,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League Quarterfinals · Atletico Madrid @ Barcelona",
-      "description_en": "Atletico Madrid @ Barcelona(Champions League 2025-26 Season Quarterfinals,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862885",
@@ -7861,20 +7182,18 @@
       "description": "利物浦 作客 巴黎圣日耳曼（欧冠 2025-26 赛季 四分之一决赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "psg",
           "code": "PSG",
-          "name": "巴黎圣日耳曼",
-          "name_en": "Paris Saint-Germain"
+          "name": "巴黎圣日耳曼"
         },
         "away": {
           "id": "liv",
           "code": "LIV",
-          "name": "利物浦",
-          "name_en": "Liverpool"
+          "name": "利物浦"
         }
       },
       "details": {
@@ -7890,9 +7209,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League Quarterfinals · Liverpool @ Paris Saint-Germain",
-      "description_en": "Liverpool @ Paris Saint-Germain(Champions League 2025-26 Season Quarterfinals,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862892",
@@ -7905,7 +7222,7 @@
       "description": "巴塞罗那 作客 马竞（欧冠 2025-26 赛季 四分之一决赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -7916,8 +7233,7 @@
         "away": {
           "id": "bar",
           "code": "BAR",
-          "name": "巴塞罗那",
-          "name_en": "Barcelona"
+          "name": "巴塞罗那"
         }
       },
       "details": {
@@ -7933,9 +7249,7 @@
         "away_score": 2,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League Quarterfinals · Barcelona @ Atletico Madrid",
-      "description_en": "Barcelona @ Atletico Madrid(Champions League 2025-26 Season Quarterfinals,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862889",
@@ -7948,20 +7262,18 @@
       "description": "巴黎圣日耳曼 作客 利物浦（欧冠 2025-26 赛季 四分之一决赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "liv",
           "code": "LIV",
-          "name": "利物浦",
-          "name_en": "Liverpool"
+          "name": "利物浦"
         },
         "away": {
           "id": "psg",
           "code": "PSG",
-          "name": "巴黎圣日耳曼",
-          "name_en": "Paris Saint-Germain"
+          "name": "巴黎圣日耳曼"
         }
       },
       "details": {
@@ -7977,9 +7289,7 @@
         "away_score": 2,
         "winner": "away",
         "status": "FT"
-      },
-      "name_en": "Champions League Quarterfinals · Paris Saint-Germain @ Liverpool",
-      "description_en": "Paris Saint-Germain @ Liverpool(Champions League 2025-26 Season Quarterfinals,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862890",
@@ -7992,20 +7302,18 @@
       "description": "葡萄牙体育 作客 阿森纳（欧冠 2025-26 赛季 四分之一决赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "ars",
           "code": "ARS",
-          "name": "阿森纳",
-          "name_en": "Arsenal"
+          "name": "阿森纳"
         },
         "away": {
           "id": "scp",
           "code": "SCP",
-          "name": "葡萄牙体育",
-          "name_en": "Sporting CP"
+          "name": "葡萄牙体育"
         }
       },
       "details": {
@@ -8021,9 +7329,7 @@
         "away_score": 0,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League Quarterfinals · Sporting CP @ Arsenal",
-      "description_en": "Sporting CP @ Arsenal(Champions League 2025-26 Season Quarterfinals,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862891",
@@ -8036,20 +7342,18 @@
       "description": "皇家马德里 作客 拜仁慕尼黑（欧冠 2025-26 赛季 四分之一决赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mun",
           "code": "MUN",
-          "name": "拜仁慕尼黑",
-          "name_en": "Bayern Munich"
+          "name": "拜仁慕尼黑"
         },
         "away": {
           "id": "rma",
           "code": "RMA",
-          "name": "皇家马德里",
-          "name_en": "Real Madrid"
+          "name": "皇家马德里"
         }
       },
       "details": {
@@ -8065,9 +7369,7 @@
         "away_score": 3,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League Quarterfinals · Real Madrid @ Bayern Munich",
-      "description_en": "Real Madrid @ Bayern Munich(Champions League 2025-26 Season Quarterfinals,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862893",
@@ -8080,20 +7382,18 @@
       "description": "拜仁慕尼黑 作客 巴黎圣日耳曼（欧冠 2025-26 赛季 半决赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "psg",
           "code": "PSG",
-          "name": "巴黎圣日耳曼",
-          "name_en": "Paris Saint-Germain"
+          "name": "巴黎圣日耳曼"
         },
         "away": {
           "id": "mun",
           "code": "MUN",
-          "name": "拜仁慕尼黑",
-          "name_en": "Bayern Munich"
+          "name": "拜仁慕尼黑"
         }
       },
       "details": {
@@ -8109,9 +7409,7 @@
         "away_score": 4,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League Semifinals · Bayern Munich @ Paris Saint-Germain",
-      "description_en": "Bayern Munich @ Paris Saint-Germain(Champions League 2025-26 Season Semifinals,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862894",
@@ -8124,7 +7422,7 @@
       "description": "阿森纳 作客 马竞（欧冠 2025-26 赛季 半决赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -8135,8 +7433,7 @@
         "away": {
           "id": "ars",
           "code": "ARS",
-          "name": "阿森纳",
-          "name_en": "Arsenal"
+          "name": "阿森纳"
         }
       },
       "details": {
@@ -8152,9 +7449,7 @@
         "away_score": 1,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League Semifinals · Arsenal @ Atletico Madrid",
-      "description_en": "Arsenal @ Atletico Madrid(Champions League 2025-26 Season Semifinals,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862896",
@@ -8167,14 +7462,13 @@
       "description": "马竞 作客 阿森纳（欧冠 2025-26 赛季 半决赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "ars",
           "code": "ARS",
-          "name": "阿森纳",
-          "name_en": "Arsenal"
+          "name": "阿森纳"
         },
         "away": {
           "id": "atm",
@@ -8195,9 +7489,7 @@
         "away_score": 0,
         "winner": "home",
         "status": "FT"
-      },
-      "name_en": "Champions League Semifinals · Atletico Madrid @ Arsenal",
-      "description_en": "Atletico Madrid @ Arsenal(Champions League 2025-26 Season Semifinals,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862895",
@@ -8210,20 +7502,18 @@
       "description": "巴黎圣日耳曼 作客 拜仁慕尼黑（欧冠 2025-26 赛季 半决赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mun",
           "code": "MUN",
-          "name": "拜仁慕尼黑",
-          "name_en": "Bayern Munich"
+          "name": "拜仁慕尼黑"
         },
         "away": {
           "id": "psg",
           "code": "PSG",
-          "name": "巴黎圣日耳曼",
-          "name_en": "Paris Saint-Germain"
+          "name": "巴黎圣日耳曼"
         }
       },
       "details": {
@@ -8239,9 +7529,7 @@
         "away_score": 1,
         "winner": "draw",
         "status": "FT"
-      },
-      "name_en": "Champions League Semifinals · Paris Saint-Germain @ Bayern Munich",
-      "description_en": "Paris Saint-Germain @ Bayern Munich(Champions League 2025-26 Season Semifinals,Beijing Time)"
+      }
     },
     {
       "id": "ucl-2025-401862897",
@@ -8254,20 +7542,18 @@
       "description": "阿森纳 作客 巴黎圣日耳曼（欧冠 2025-26 赛季 决赛，北京时间）",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-06-02",
+      "last_verified": "2026-06-05",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "psg",
           "code": "PSG",
-          "name": "巴黎圣日耳曼",
-          "name_en": "Paris Saint-Germain"
+          "name": "巴黎圣日耳曼"
         },
         "away": {
           "id": "ars",
           "code": "ARS",
-          "name": "阿森纳",
-          "name_en": "Arsenal"
+          "name": "阿森纳"
         }
       },
       "details": {
@@ -8276,9 +7562,7 @@
         "客场": "阿森纳",
         "场馆": "Puskás Aréna",
         "城市": "Budapest"
-      },
-      "name_en": "Champions League Final · Arsenal @ Paris Saint-Germain",
-      "description_en": "Arsenal @ Paris Saint-Germain(Champions League 2025-26 Season Final,Beijing Time)"
+      }
     }
   ]
 }
