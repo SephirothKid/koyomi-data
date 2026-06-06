@@ -42,7 +42,9 @@
         "报名入口": "司法部官网",
         "报名费用": "¥190-300（各省不同）",
         "照片要求": "白底证件照 413×626px"
-      }
+      },
+      "name_en": "2026 Registration Opens",
+      "description_en": "Online registration system opens. Apply early to avoid system congestion."
     },
     {
       "id": "judicial-2026-register-close",
@@ -61,7 +63,9 @@
         "报名入口": "司法部官网",
         "报名费用": "¥190-300（各省不同）",
         "照片要求": "白底证件照 413×626px"
-      }
+      },
+      "name_en": "2026 Registration Closes",
+      "description_en": "Online registration closes."
     },
     {
       "id": "judicial-2026-obj-exam",
@@ -81,7 +85,9 @@
         "考试形式": "机考",
         "合格标准": "180分",
         "成绩有效期": "当年有效"
-      }
+      },
+      "name_en": "2026 Objective Test",
+      "description_en": "Objective test over two days, morning and afternoon sessions each day."
     },
     {
       "id": "judicial-2026-sub-exam",
@@ -100,7 +106,9 @@
         "考试形式": "机考",
         "合格标准": "108分",
         "成绩有效期": "当年有效"
-      }
+      },
+      "name_en": "2026 Subjective Test",
+      "description_en": "Subjective test, morning and afternoon sessions."
     },
     {
       "id": "judicial-2026-result",
@@ -113,7 +121,9 @@
       "url": "https://www.moj.gov.cn",
       "status": "planned",
       "last_verified": "2026-05-10",
-      "verified_by": "official"
+      "verified_by": "official",
+      "name_en": "2026 Objective Test Results",
+      "description_en": "Objective test results release. Date subject to official announcement."
     }
   ]
 }

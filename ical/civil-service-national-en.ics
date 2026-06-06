@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//civil-service-national//EN
+URL:https://koyomi.cast/sources/civil-service-national
+NAME:China National Civil Service Exam
+X-WR-CALNAME:China National Civil Service Exam
+X-WR-CALDESC:中央机关及其直属机构考试录用公务员关键时
+ 间节点，包括公告、报名、资格审查、缴费、准考证、
+ 笔试和成绩查询。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:civil-service-national-civil-service-national-2026-announcement@koyomi
+ .cast
+SEQUENCE:0
+DTSTAMP:20260603T160000
+DTSTART;VALUE=DATE:20251013
+DTEND;VALUE=DATE:20251014
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:China National Civil Service Exam · National Civil Service Announ
+ cement
+DESCRIPTION:Central government and directly-affiliated institutions recrui
+ tment announcement released.
+CATEGORIES:China National Civil Service Exam
+URL;VALUE=URI:http://bm.scs.gov.cn/kl2026
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-national-civil-service-national-2026-register-open@koyom
+ i.cast
+SEQUENCE:0
+DTSTAMP:20260603T160000
+DTSTART:20251015T000000
+DTEND:20251015T010000
+SUMMARY:China National Civil Service Exam · National Civil Service Regist
+ ration Opens
+DESCRIPTION:Candidates can submit applications on the official portal.
+CATEGORIES:China National Civil Service Exam
+URL;VALUE=URI:http://bm.scs.gov.cn/kl2026
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-national-civil-service-national-2026-register-close@koyo
+ mi.cast
+SEQUENCE:0
+DTSTAMP:20260603T160000
+DTSTART:20251024T100000
+DTEND:20251024T110000
+SUMMARY:China National Civil Service Exam · National Civil Service Regist
+ ration Closes
+DESCRIPTION:Application submission deadline. Late applications not accepte
+ d.
+CATEGORIES:China National Civil Service Exam
+URL;VALUE=URI:http://bm.scs.gov.cn/kl2026
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-national-civil-service-national-2026-qualification-close
+ @koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260603T160000
+DTSTART:20251026T100000
+DTEND:20251026T110000
+SUMMARY:China National Civil Service Exam · National Civil Service Qualif
+ ication Review Ends
+DESCRIPTION:Recruiting authority qualification review deadline.
+CATEGORIES:China National Civil Service Exam
+URL;VALUE=URI:http://bm.scs.gov.cn/kl2026
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-national-civil-service-national-2026-payment-close@koyom
+ i.cast
+SEQUENCE:0
+DTSTAMP:20260603T160000
+DTSTART:20251105T160000
+DTEND:20251105T170000
+SUMMARY:China National Civil Service Exam · National Civil Service Paymen
+ t Deadline
+DESCRIPTION:Candidates who passed qualification review must complete onlin
+ e confirmation and payment.
+CATEGORIES:China National Civil Service Exam
+URL;VALUE=URI:http://bm.scs.gov.cn/kl2026
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-national-civil-service-national-2026-admission-ticket@ko
+ yomi.cast
+SEQUENCE:0
+DTSTAMP:20260603T160000
+DTSTART;VALUE=DATE:20251123
+DTEND;VALUE=DATE:20251130
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:China National Civil Service Exam · National Civil Service Admiss
+ ion Ticket
+DESCRIPTION:Admission ticket printing opens.
+CATEGORIES:China National Civil Service Exam
+URL;VALUE=URI:http://bm.scs.gov.cn/kl2026
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-national-civil-service-national-2026-written-exam@koyomi
+ .cast
+SEQUENCE:0
+DTSTAMP:20260603T160000
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251130
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:China National Civil Service Exam · National Civil Service Public
+  Subject Exam
+DESCRIPTION:National civil service public subject written examination.
+CATEGORIES:China National Civil Service Exam
+URL;VALUE=URI:http://bm.scs.gov.cn/kl2026
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-national-civil-service-national-2026-results@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260603T160000
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:China National Civil Service Exam · National Civil Service Writte
+ n Exam
+DESCRIPTION:National civil service written examination.
+CATEGORIES:China National Civil Service Exam
+URL;VALUE=URI:http://bm.scs.gov.cn/kl2026
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//lpl//EN
+URL:https://koyomi.cast/sources/lpl
+NAME:League of Legends Pro League
+X-WR-CALNAME:League of Legends Pro League
+X-WR-CALDESC:英雄联盟职业联赛 LPL 赛季关键阶段，包括赛
+ 季开赛、常规赛、季后赛、决赛和全球总决赛资格相关
+ 节点。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:lpl-lpl-2026-split-1-opening-window@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260603T160000
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260125
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:League of Legends Pro League · League of Legends Pro League Stage
+  1Opening Window
+DESCRIPTION:League of Legends Pro League 年初赛段常见Opening Window\
+ ,具体赛程和队伍对阵以英雄联盟赛事官方公布为准.\n\n
+ 赛事: 英雄联盟职业联赛\n状态说明: 未接入逐场官方赛
+ 程前，以阶段窗口提醒为主
+CATEGORIES:League of Legends Pro League
+URL;VALUE=URI:https://lpl.qq.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lpl-lpl-2026-split-1-playoffs-window@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260603T160000
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260325
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:League of Legends Pro League · League of Legends Pro League Stage
+  1Knockout Stage Window
+DESCRIPTION:Stage 1Knockout Stage和Final Window\,具体日期以官方赛
+ 程为准.
+CATEGORIES:League of Legends Pro League
+URL;VALUE=URI:https://lpl.qq.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lpl-lpl-2026-split-2-opening-window@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260603T160000
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260420
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:League of Legends Pro League · League of Legends Pro League Stage
+  2Opening Window
+DESCRIPTION:League of Legends Pro League 年中赛段常见Opening Window\
+ ,具体赛制、分组和对阵以官方公告为准.
+CATEGORIES:League of Legends Pro League
+URL;VALUE=URI:https://lpl.qq.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lpl-lpl-2026-split-2-finals-window@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260603T160000
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260605
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:League of Legends Pro League · League of Legends Pro League Stage
+  2Final Window
+DESCRIPTION:Stage 2收官和国际赛事资格相关 Window.
+CATEGORIES:League of Legends Pro League
+URL;VALUE=URI:https://lpl.qq.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lpl-lpl-2026-summer-opening-window@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260603T160000
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260705
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:League of Legends Pro League · League of Legends Pro League Summe
+ rOpening Window
+DESCRIPTION:League of Legends Pro League Summer常见Opening Window\,后
+ 续可升级为逐比赛订阅.
+CATEGORIES:League of Legends Pro League
+URL;VALUE=URI:https://lpl.qq.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lpl-lpl-2026-summer-playoffs-window@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260603T160000
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260910
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:League of Legends Pro League · League of Legends Pro League Summe
+ rPlayoffs Window
+DESCRIPTION:SummerPlayoffs和AnnualFinals资格集中 Window.
+CATEGORIES:League of Legends Pro League
+URL;VALUE=URI:https://lpl.qq.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lpl-lpl-2026-regional-finals-window@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260603T160000
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260920
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:League of Legends Pro League · League of Legends Pro League World
+ FinalsQualifying Window
+DESCRIPTION:League of Legends Pro League WorldFinalsQualifying常见 Windo
+ w\,具体以官方公告为准.
+CATEGORIES:League of Legends Pro League
+URL;VALUE=URI:https://lpl.qq.com
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

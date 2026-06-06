@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//civil-service-provincial//EN
+URL:https://koyomi.cast/sources/civil-service-provincial
+NAME:China Provincial Civil Service Exams
+X-WR-CALNAME:China Provincial Civil Service Exams
+X-WR-CALDESC:各省公务员考试公告、报名、笔试、成绩、面
+ 试等关键窗口聚合。省级时间差异较大，本源优先提醒
+ 全国共性阶段。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:civil-service-provincial-civil-service-provincial-2026-multi-province-
+ announcement-window@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260603T160000
+DTSTART;VALUE=DATE:20251014
+DTEND;VALUE=DATE:20251130
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:China Provincial Civil Service Exams · Provincial Civil Service A
+ nnouncement Window
+DESCRIPTION:Multiple provinces typically release announcements in Q4. Some
+  provinces may recruit separately or earlier.\n\n覆盖省份: 北京、
+ 天津、河北、山西、内蒙古、辽宁、吉林、黑龙江、上
+ 海、江苏、浙江、安徽、福建、江西、山东、河南、湖
+ 北、湖南、广东、广西、海南、重庆、四川、贵州、云
+ 南、西藏、陕西、甘肃、青海、宁夏、新疆\n注意事项: 
+ 各省公告、职位表、报名时间和考试安排以当地组织部
+ 门或人事考试网为准
+CATEGORIES:China Provincial Civil Service Exams
+URL;VALUE=URI:https://www.offcn.com/gwy/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-provincial-civil-service-provincial-2026-multi-province-
+ registration-window@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260603T160000
+DTSTART;VALUE=DATE:20251019
+DTEND;VALUE=DATE:20251210
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:China Provincial Civil Service Exams · Provincial Civil Service R
+ egistration Window
+DESCRIPTION:Registration windows vary by province. Check official announce
+ ments for eligibility\, positions and payment deadlines.
+CATEGORIES:China Provincial Civil Service Exams
+URL;VALUE=URI:https://www.offcn.com/gwy/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-provincial-civil-service-provincial-2026-admission-ticke
+ t-window@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260603T160000
+DTSTART;VALUE=DATE:20251124
+DTEND;VALUE=DATE:20251215
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:China Provincial Civil Service Exams · Provincial Civil Service A
+ dmission Ticket Window
+DESCRIPTION:Admission ticket printing typically opens one week before the 
+ exam. Check provincial announcements.
+CATEGORIES:China Provincial Civil Service Exams
+URL;VALUE=URI:https://www.offcn.com/gwy/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-provincial-civil-service-provincial-2026-joint-written-e
+ xam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260603T160000
+DTSTART;VALUE=DATE:20251205
+DTEND;VALUE=DATE:20251207
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:China Provincial Civil Service Exams · Provincial Civil Service J
+ oint Exam Window
+DESCRIPTION:Multiple provinces hold exams on the same date. Not all provin
+ ces participate\; some may hold exams earlier or separately.\n\n考试科
+ 目: 行政职业能力测验、申论；部分岗位含专业科目\n提
+ 醒: 请以准考证上的考试时间和考点为准
+CATEGORIES:China Provincial Civil Service Exams
+URL;VALUE=URI:https://www.offcn.com/gwy/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-provincial-civil-service-provincial-2026-score-release-w
+ indow@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260603T160000
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260210
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:China Provincial Civil Service Exams · Provincial Civil Service R
+ esults Window
+DESCRIPTION:Written exam results\, cutoff scores and qualification review 
+ notices released by each province.
+CATEGORIES:China Provincial Civil Service Exams
+URL;VALUE=URI:https://www.offcn.com/gwy/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-provincial-civil-service-provincial-2026-interview-windo
+ w@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260603T160000
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260430
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:China Provincial Civil Service Exams · Provincial Civil Service I
+ nterview Window
+DESCRIPTION:Interview period for provincial civil service recruitment.
+CATEGORIES:China Provincial Civil Service Exams
+URL;VALUE=URI:https://www.offcn.com/gwy/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

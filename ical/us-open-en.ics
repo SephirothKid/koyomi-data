@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//us-open//EN
+URL:https://koyomi.cast/sources/us-open
+NAME:US Open Tennis Championships
+X-WR-CALNAME:US Open Tennis Championships
+X-WR-CALDESC:美国网球公开赛资格赛、正赛和单打决赛日历
+ 。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:us-open-us-open-2026-qualifying@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260603T160000
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260828
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:US Open Tennis Championships · US OpenQualifying
+DESCRIPTION:US OpenQualifying Window.\n\n英文名: US Open Tennis Champio
+ nships\n赛事级别: 网球四大满贯
+CATEGORIES:US Open Tennis Championships
+URL;VALUE=URI:https://www.usopen.org
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:us-open-us-open-2026-main-draw@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260603T160000
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260914
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:US Open Tennis Championships · US OpenRace
+DESCRIPTION:US OpenRace日期.\n\n英文名: US Open Tennis Championships\
+ n赛事级别: 网球四大满贯
+CATEGORIES:US Open Tennis Championships
+URL;VALUE=URI:https://www.usopen.org
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:us-open-us-open-2026-women-final@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260603T160000
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:US Open Tennis Championships · US OpenWomen's Final
+DESCRIPTION:US OpenWomen's Final日\,具体开赛时间以官方赛程为
+ 准.
+CATEGORIES:US Open Tennis Championships
+URL;VALUE=URI:https://www.usopen.org
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:us-open-us-open-2026-men-final@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260603T160000
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:US Open Tennis Championships · US OpenMen's Final
+DESCRIPTION:US OpenMen's Final日\,具体开赛时间以官方赛程为准
+ .
+CATEGORIES:US Open Tennis Championships
+URL;VALUE=URI:https://www.usopen.org
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

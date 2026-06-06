@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cpa//EN
+URL:https://koyomi.cast/sources/cpa
+NAME:CPA Exam
+X-WR-CALNAME:CPA Exam
+X-WR-CALDESC:注册会计师全国统一考试，持续更新各年报名
+ 、考试、成绩公布等关键时间节点。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cpa-cpa-2026-register-open@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260331T160000
+DTSTART:20260408T000000
+DTEND:20260408T010000
+SUMMARY:CPA Exam · Registration Opens
+DESCRIPTION:National online registration system opens.\n\n报名入口: 
+ 中国注册会计师协会官网\n报名费用: ¥60-90/科\n照片要求
+ : 白底证件照 178×220px
+CATEGORIES:CPA Exam
+URL;VALUE=URI:https://cpaexam.cicpa.org.cn
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cpa-cpa-2026-register-close@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260331T160000
+DTSTART:20260428T100000
+DTEND:20260428T110000
+SUMMARY:CPA Exam · Registration Closes
+DESCRIPTION:Online registration closes. Late applications not accepted.\n\
+ n注意事项: 逾期不予补报\n修改信息: 缴费前可修改报考
+ 科目
+CATEGORIES:CPA Exam
+URL;VALUE=URI:https://cpaexam.cicpa.org.cn
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cpa-cpa-2026-payment@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260331T160000
+DTSTART:20260510T090000
+DTEND:20260510T100000
+SUMMARY:CPA Exam · Payment Deadline
+DESCRIPTION:Exam registration fee payment deadline. Unpaid applications wi
+ ll be forfeited.\n\n缴费方式: 网上支付\n退费政策: 报名截止
+ 后不予退费
+CATEGORIES:CPA Exam
+URL;VALUE=URI:https://cpaexam.cicpa.org.cn
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cpa-cpa-2026-exam-pro@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260519T160000
+DTSTART:20260821T003000
+DTEND:20260823T003000
+SUMMARY:CPA Exam · Professional Stage Exam
+DESCRIPTION:Professional stage: 6 subjects over 3 days\, morning and after
+ noon sessions.\n\n考试科目: 会计、审计、税法、经济法、财
+ 管、战略\n考试形式: 机考\n合格标准: 60分/科\n成绩有效
+ 期: 5年内通过6科
+CATEGORIES:CPA Exam
+URL;VALUE=URI:https://cpaexam.cicpa.org.cn
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cpa-cpa-2026-exam-comp@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260519T160000
+DTSTART:20260830T003000
+DTEND:20260830T013000
+SUMMARY:CPA Exam · Comprehensive Stage Exam
+DESCRIPTION:Comprehensive stage: professional competence integrated assess
+ ment.\n\n考试科目: 职业能力综合测试\n考试形式: 机考\n合
+ 格标准: 60分
+CATEGORIES:CPA Exam
+URL;VALUE=URI:https://cpaexam.cicpa.org.cn
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cpa-cpa-2026-result@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260519T160000
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:CPA Exam · Results Release
+DESCRIPTION:Exam results release. Date subject to official announcement.\n
+ \n查询入口: 中注协官网成绩查询系统\n合格证书: 专业阶
+ 段合格证（电子版）
+CATEGORIES:CPA Exam
+URL;VALUE=URI:https://cpaexam.cicpa.org.cn
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
