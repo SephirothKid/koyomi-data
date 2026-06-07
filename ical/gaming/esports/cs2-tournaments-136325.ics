@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-136325//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:Aetheris赛程
+X-WR-CALNAME:Aetheris赛程
+X-WR-CALDESC:Aetheris在CS2中的比赛日程，自动同步更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-136325-cs2-2025-m1137196@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250305T213300
+DTEND:20250305T223300
+SUMMARY:Aetheris赛程 · Group B · Aetheris vs Take Flyte
+DESCRIPTION:Aetheris vs Take Flyte — PGL Group B（北京时间）\n\n
+ 赛事: PGL\n阶段: Group B\n赛制: BO3
+CATEGORIES:Aetheris赛程
+URL;VALUE=URI:https://www.twitch.tv/Trottah
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-136325-cs2-2025-m1138536@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250306T183600
+DTEND:20250306T193600
+SUMMARY:Aetheris赛程 · Group B · Aetheris @ Team Aether
+DESCRIPTION:Team Aether vs Aetheris — PGL Group B（北京时间）\n\n
+ 赛事: PGL\n阶段: Group B\n赛制: BO3
+CATEGORIES:Aetheris赛程
+URL;VALUE=URI:https://www.twitch.tv/trottahtv
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-136325-cs2-2025-m1138541@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250308T022100
+DTEND:20250308T032100
+SUMMARY:Aetheris赛程 · Group B · Aetheris @ Immigrants Peek
+DESCRIPTION:Immigrants Peek vs Aetheris — PGL Group B（北京时间）\
+ n\n赛事: PGL\n阶段: Group B\n赛制: BO3
+CATEGORIES:Aetheris赛程
+URL;VALUE=URI:https://www.twitch.tv/Trottah
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-136325-cs2-2025-m1138538@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250307T211600
+DTEND:20250307T221600
+SUMMARY:Aetheris赛程 · Group B · Aetheris vs Bad News Capybaras
+DESCRIPTION:Aetheris vs Bad News Capybaras — PGL Group B（北京时间
+ ）\n\n赛事: PGL\n阶段: Group B\n赛制: BO3
+CATEGORIES:Aetheris赛程
+URL;VALUE=URI:https://www.twitch.tv/trottahtv
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

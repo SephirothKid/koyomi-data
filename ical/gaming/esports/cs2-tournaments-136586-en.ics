@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-136586//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:WiSe.Black Schedule
+X-WR-CALNAME:WiSe.Black Schedule
+X-WR-CALDESC:WiSe.Black schedule in CS2, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-136586-cs2-2025-m1130563@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250221T191400
+DTEND:20250221T201400
+SUMMARY:WiSe.Black Schedule · WiSe.Black @ paiN Academy
+DESCRIPTION:paiN Academy vs WiSe.Black — PGL Playoffs (CST)\n\n赛事: P
+ GL\n阶段: 季后赛\n赛制: BO3
+CATEGORIES:WiSe.Black Schedule
+URL;VALUE=URI:https://pandascore.co/matches/1130563
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

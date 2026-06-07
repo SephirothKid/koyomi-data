@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-136579//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:Lithuanian Wolves赛程
+X-WR-CALNAME:Lithuanian Wolves赛程
+X-WR-CALDESC:Lithuanian Wolves在CS2中的比赛日程，自动同步更
+ 新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-136579-cs2-2025-m1130243@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250221T150800
+DTEND:20250221T160800
+SUMMARY:Lithuanian Wolves赛程 · 季后赛 · Lithuanian Wolves vs BASEM
+ ENT BOYS
+DESCRIPTION:Lithuanian Wolves vs BASEMENT BOYS — PGL 季后赛（北京
+ 时间）\n\n赛事: PGL\n阶段: 季后赛\n赛制: BO1
+CATEGORIES:Lithuanian Wolves赛程
+URL;VALUE=URI:https://pandascore.co/matches/1130243
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-136579-cs2-2025-m1131496@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250223T151100
+DTEND:20250223T161100
+SUMMARY:Lithuanian Wolves赛程 · 季后赛 · Lithuanian Wolves vs Copen
+ hagen Wolves
+DESCRIPTION:Lithuanian Wolves vs Copenhagen Wolves — PGL 季后赛（北
+ 京时间）\n\n赛事: PGL\n阶段: 季后赛\n赛制: BO1
+CATEGORIES:Lithuanian Wolves赛程
+URL;VALUE=URI:https://www.twitch.tv/emenjay
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

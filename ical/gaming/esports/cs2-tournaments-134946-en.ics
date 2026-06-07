@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-134946//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:Sensei Team Schedule
+X-WR-CALNAME:Sensei Team Schedule
+X-WR-CALDESC:Sensei Team schedule in CS2, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-134946-cs2-2025-m1131780@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250222T200500
+DTEND:20250222T210500
+SUMMARY:Sensei Team Schedule · Sensei Team @ MAGICOS
+DESCRIPTION:MAGICOS vs Sensei Team — PGL Playoffs (CST)\n\n赛事: PGL\n
+ 阶段: 季后赛\n赛制: BO3
+CATEGORIES:Sensei Team Schedule
+URL;VALUE=URI:https://pandascore.co/matches/1131780
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

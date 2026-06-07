@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-136689//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:Hooligangsters Schedule
+X-WR-CALNAME:Hooligangsters Schedule
+X-WR-CALDESC:Hooligangsters schedule in CS2, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-136689-cs2-2025-m1150871@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250328T023800
+DTEND:20250328T033800
+SUMMARY:Hooligangsters Schedule · Hooligangsters @ Supernova Comets
+DESCRIPTION:Supernova Comets vs Hooligangsters — PGL Group A (CST)\n\n
+ 赛事: PGL\n阶段: Group A\n赛制: BO3
+CATEGORIES:Hooligangsters Schedule
+URL;VALUE=URI:https://pandascore.co/matches/1150871
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-136689-cs2-2025-m1151559@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250328T223100
+DTEND:20250328T233100
+SUMMARY:Hooligangsters Schedule · Hooligangsters @ MIGHT
+DESCRIPTION:MIGHT vs Hooligangsters — PGL Group A (CST)\n\n赛事: PGL\n
+ 阶段: Group A\n赛制: BO3
+CATEGORIES:Hooligangsters Schedule
+URL;VALUE=URI:https://www.twitch.tv/sxstem_cs
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-136689-cs2-2025-m1151566@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250330T030700
+DTEND:20250330T040700
+SUMMARY:Hooligangsters Schedule · Hooligangsters vs Chicken Coop Esports
+DESCRIPTION:Hooligangsters vs Chicken Coop Esports — PGL Group A (CST)\n
+ \n赛事: PGL\n阶段: Group A\n赛制: BO3
+CATEGORIES:Hooligangsters Schedule
+URL;VALUE=URI:https://www.twitch.tv/Trottah
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

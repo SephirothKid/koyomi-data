@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-136587//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:seouI Schedule
+X-WR-CALNAME:seouI Schedule
+X-WR-CALDESC:seouI schedule in CS2, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-136587-cs2-2025-m1137201@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250306T001100
+DTEND:20250306T011100
+SUMMARY:seouI Schedule · seouI @ SUPER EVIL GANG
+DESCRIPTION:SUPER EVIL GANG vs seouI — PGL Group C (CST)\n\n赛事: PGL\
+ n阶段: Group C\n赛制: BO3
+CATEGORIES:seouI Schedule
+URL;VALUE=URI:https://www.twitch.tv/sxstem_cs
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-136587-cs2-2025-m1138558@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250306T211900
+DTEND:20250306T221900
+SUMMARY:seouI Schedule · seouI vs NuTorious
+DESCRIPTION:seouI vs NuTorious — PGL Group C (CST)\n\n赛事: PGL\n阶
+ 段: Group C\n赛制: BO3
+CATEGORIES:seouI Schedule
+URL;VALUE=URI:https://www.twitch.tv/trottahtv
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-136587-cs2-2025-m1150893@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250328T021100
+DTEND:20250328T031100
+SUMMARY:seouI Schedule · seouI @ Marsborne
+DESCRIPTION:Marsborne vs seouI — PGL Group D (CST)\n\n赛事: PGL\n阶
+ 段: Group D\n赛制: BO3
+CATEGORIES:seouI Schedule
+URL;VALUE=URI:https://www.twitch.tv/Trottah
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-136587-cs2-2025-m1151594@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250328T230700
+DTEND:20250329T000700
+SUMMARY:seouI Schedule · seouI vs Team Aether
+DESCRIPTION:seouI vs Team Aether — PGL Group D (CST)\n\n赛事: PGL\n阶
+ 段: Group D\n赛制: BO3
+CATEGORIES:seouI Schedule
+URL;VALUE=URI:https://pandascore.co/matches/1151594
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

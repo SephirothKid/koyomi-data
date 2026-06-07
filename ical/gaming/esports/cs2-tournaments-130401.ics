@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-130401//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:InControl赛程
+X-WR-CALNAME:InControl赛程
+X-WR-CALDESC:InControl在CS2中的比赛日程，自动同步更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-130401-cs2-2025-m1138560@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250306T225100
+DTEND:20250306T235100
+SUMMARY:InControl赛程 · Group D · InControl @ Getting Info
+DESCRIPTION:Getting Info vs InControl — PGL Group D（北京时间）\n\
+ n赛事: PGL\n阶段: Group D\n赛制: BO3
+CATEGORIES:InControl赛程
+URL;VALUE=URI:https://pandascore.co/matches/1138560
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-130401-cs2-2025-m1138567@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250307T180800
+DTEND:20250307T190800
+SUMMARY:InControl赛程 · Group D · InControl vs Nouns
+DESCRIPTION:InControl vs Nouns — PGL Group D（北京时间）\n\n赛事
+ : PGL\n阶段: Group D\n赛制: BO3
+CATEGORIES:InControl赛程
+URL;VALUE=URI:https://www.twitch.tv/Trottah
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-130401-cs2-2025-m1150877@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250328T015900
+DTEND:20250328T025900
+SUMMARY:InControl赛程 · Group B · InControl @ Bad News Capybaras
+DESCRIPTION:Bad News Capybaras vs InControl — PGL Group B（北京时间
+ ）\n\n赛事: PGL\n阶段: Group B\n赛制: BO3
+CATEGORIES:InControl赛程
+URL;VALUE=URI:https://www.twitch.tv/moose13377
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-130401-cs2-2025-m1151573@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250328T230500
+DTEND:20250329T000500
+SUMMARY:InControl赛程 · Group B · InControl @ regain
+DESCRIPTION:regain vs InControl — PGL Group B（北京时间）\n\n赛
+ 事: PGL\n阶段: Group B\n赛制: BO3
+CATEGORIES:InControl赛程
+URL;VALUE=URI:https://www.twitch.tv/ynotcs2
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

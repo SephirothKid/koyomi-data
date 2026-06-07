@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-136470//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:Supernova Comets Schedule
+X-WR-CALNAME:Supernova Comets Schedule
+X-WR-CALDESC:Supernova Comets schedule in CS2, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-136470-cs2-2025-m1150871@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250328T023800
+DTEND:20250328T033800
+SUMMARY:Supernova Comets Schedule · Supernova Comets vs Hooligangsters
+DESCRIPTION:Supernova Comets vs Hooligangsters — PGL Group A (CST)\n\n
+ 赛事: PGL\n阶段: Group A\n赛制: BO3
+CATEGORIES:Supernova Comets Schedule
+URL;VALUE=URI:https://pandascore.co/matches/1150871
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-136470-cs2-2025-m1151562@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250328T230700
+DTEND:20250329T000700
+SUMMARY:Supernova Comets Schedule · Supernova Comets @ LL
+DESCRIPTION:LL vs Supernova Comets — PGL Group A (CST)\n\n赛事: PGL\n
+ 阶段: Group A\n赛制: BO3
+CATEGORIES:Supernova Comets Schedule
+URL;VALUE=URI:https://pandascore.co/matches/1151562
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

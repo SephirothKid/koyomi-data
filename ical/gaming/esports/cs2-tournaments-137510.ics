@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-137510//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:Voca赛程
+X-WR-CALNAME:Voca赛程
+X-WR-CALDESC:Voca在CS2中的比赛日程，自动同步更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-137510-cs2-2026-m1426980@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260606T160000
+DTSTART:20260404T101400
+DTEND:20260404T111400
+SUMMARY:Voca赛程 · 小组赛 · Voca @ NRG
+DESCRIPTION:NRG vs Voca — PGL 布加勒斯特（北京时间）\n\n赛
+ 事: PGL\n赛季: 布加勒斯特\n阶段: 小组赛\n赛制: BO3
+CATEGORIES:Voca赛程
+URL;VALUE=URI:https://www.twitch.tv/watchfulTV
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-137510-cs2-2026-m1426985@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260606T160000
+DTSTART:20260405T070300
+DTEND:20260405T080300
+SUMMARY:Voca赛程 · 小组赛 · Voca @ 3DMAX
+DESCRIPTION:3DMAX vs Voca — PGL 布加勒斯特（北京时间）\n\n赛
+ 事: PGL\n赛季: 布加勒斯特\n阶段: 小组赛\n赛制: BO3
+CATEGORIES:Voca赛程
+URL;VALUE=URI:https://www.youtube.com/watch?v=HisidZ23hYA&pp=ygUNcGdsIGJ1Y
+ 2hhcmVzdA%3D%3D
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-137510-cs2-2026-m1427000@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260606T160000
+DTSTART:20260406T145400
+DTEND:20260406T155400
+SUMMARY:Voca赛程 · 小组赛 · Voca @ BC.Game Esports
+DESCRIPTION:BC.Game Esports vs Voca — PGL 布加勒斯特（北京时间
+ ）\n\n赛事: PGL\n赛季: 布加勒斯特\n阶段: 小组赛\n赛制: BO
+ 3
+CATEGORIES:Voca赛程
+URL;VALUE=URI:https://www.twitch.tv/CS2_maincast2
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

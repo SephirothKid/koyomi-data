@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-128874//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:Steel Helmet Schedule
+X-WR-CALNAME:Steel Helmet Schedule
+X-WR-CALDESC:Steel Helmet schedule in CS2, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-128874-cs2-2025-m1150954@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250327T030500
+DTEND:20250327T040500
+SUMMARY:Steel Helmet Schedule · Steel Helmet @ Rare Atom
+DESCRIPTION:Rare Atom vs Steel Helmet — PGL Playoffs (CST)\n\n赛事: PG
+ L\n阶段: 季后赛\n赛制: BO3
+CATEGORIES:Steel Helmet Schedule
+URL;VALUE=URI:https://pandascore.co/matches/1150954
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-128874-cs2-2025-m1151374@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250328T030900
+DTEND:20250328T040900
+SUMMARY:Steel Helmet Schedule · Steel Helmet vs DogEvil
+DESCRIPTION:Steel Helmet vs DogEvil — PGL Playoffs (CST)\n\n赛事: PGL\
+ n阶段: 季后赛\n赛制: BO3
+CATEGORIES:Steel Helmet Schedule
+URL;VALUE=URI:https://pandascore.co/matches/1151374
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

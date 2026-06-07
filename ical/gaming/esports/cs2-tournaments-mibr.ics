@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-mibr//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:MIBR赛程
+X-WR-CALNAME:MIBR赛程
+X-WR-CALDESC:MIBR在CS2中的比赛日程，自动同步更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-mibr-cs2-2026-iem-cologne-stage2-r1-8@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20260606T153000
+DTEND:20260606T163000
+SUMMARY:MIBR赛程 · Stage 2 瑞士轮 R1 · MIBR @ Legacy
+DESCRIPTION:Legacy vs MIBR — IEM Cologne 2026 Stage 2 瑞士轮首轮（
+ 北京时间）\n\n赛事: IEM\n赛季: 科隆 2026\n阶段: Stage 2 瑞
+ 士轮 R1\n赛制: BO3\n来源: https://bo3.gg/tournaments/iem-cologne-202
+ 6
+CATEGORIES:MIBR赛程
+URL;VALUE=URI:https://www.hltv.org/events/8464/iem-cologne-2026
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

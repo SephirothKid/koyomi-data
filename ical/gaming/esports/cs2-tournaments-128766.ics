@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-128766//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:Spirit Academy赛程
+X-WR-CALNAME:Spirit Academy赛程
+X-WR-CALDESC:Spirit Academy在CS2中的比赛日程，自动同步更新
+ 。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-128766-cs2-2025-m1137359@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250307T180900
+DTEND:20250307T190900
+SUMMARY:Spirit Academy赛程 · Group D · Spirit Academy vs Sashi Esport
+DESCRIPTION:Spirit Academy vs Sashi Esport — PGL Group D（北京时间
+ ）\n\n赛事: PGL\n阶段: Group D\n赛制: BO3
+CATEGORIES:Spirit Academy赛程
+URL;VALUE=URI:https://www.twitch.tv/krl_stream
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-128766-cs2-2025-m1133470@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250308T121400
+DTEND:20250308T131400
+SUMMARY:Spirit Academy赛程 · Group D · Spirit Academy @ BetBoom Team
+DESCRIPTION:BetBoom Team vs Spirit Academy — PGL Group D（北京时间
+ ）\n\n赛事: PGL\n阶段: Group D\n赛制: BO3
+CATEGORIES:Spirit Academy赛程
+URL;VALUE=URI:https://www.twitch.tv/watchfultvb
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-128766-cs2-2025-m1133471@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250309T150500
+DTEND:20250309T160500
+SUMMARY:Spirit Academy赛程 · Group D · Spirit Academy vs Nemiga
+DESCRIPTION:Spirit Academy vs Nemiga — PGL Group D（北京时间）\n\n
+ 赛事: PGL\n阶段: Group D\n赛制: BO3
+CATEGORIES:Spirit Academy赛程
+URL;VALUE=URI:https://www.twitch.tv/del1ght
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-128766-cs2-2025-m1133479@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250310T140900
+DTEND:20250310T150900
+SUMMARY:Spirit Academy赛程 · Group D · Spirit Academy vs BetBoom Team
+DESCRIPTION:Spirit Academy vs BetBoom Team — PGL Group D（北京时间
+ ）\n\n赛事: PGL\n阶段: Group D\n赛制: BO3
+CATEGORIES:Spirit Academy赛程
+URL;VALUE=URI:https://www.twitch.tv/del1ght
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

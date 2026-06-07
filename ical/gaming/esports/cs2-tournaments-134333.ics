@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-134333//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:Wanted Goons赛程
+X-WR-CALNAME:Wanted Goons赛程
+X-WR-CALDESC:Wanted Goons在CS2中的比赛日程，自动同步更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-134333-cs2-2025-m1151497@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250329T021100
+DTEND:20250329T031100
+SUMMARY:Wanted Goons赛程 · Group C · Wanted Goons @ Nouns
+DESCRIPTION:Nouns vs Wanted Goons — PGL Group C（北京时间）\n\n赛
+ 事: PGL\n阶段: Group C\n赛制: BO3
+CATEGORIES:Wanted Goons赛程
+URL;VALUE=URI:https://pandascore.co/matches/1151497
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-134333-cs2-2025-m1151500@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250329T204900
+DTEND:20250329T214900
+SUMMARY:Wanted Goons赛程 · Group C · Wanted Goons vs Party Astronauts
+DESCRIPTION:Wanted Goons vs Party Astronauts — PGL Group C（北京时
+ 间）\n\n赛事: PGL\n阶段: Group C\n赛制: BO3
+CATEGORIES:Wanted Goons赛程
+URL;VALUE=URI:https://pandascore.co/matches/1151500
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

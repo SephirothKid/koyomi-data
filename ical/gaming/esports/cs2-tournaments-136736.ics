@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-136736//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:st4rboys赛程
+X-WR-CALNAME:st4rboys赛程
+X-WR-CALDESC:st4rboys在CS2中的比赛日程，自动同步更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-136736-cs2-2025-m1150944@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250327T141300
+DTEND:20250327T151300
+SUMMARY:st4rboys赛程 · 季后赛 · st4rboys @ ScarX
+DESCRIPTION:ScarX vs st4rboys — PGL 季后赛（北京时间）\n\n赛
+ 事: PGL\n阶段: 季后赛\n赛制: BO3
+CATEGORIES:st4rboys赛程
+URL;VALUE=URI:https://pandascore.co/matches/1150944
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-136736-cs2-2025-m1150942@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250327T101900
+DTEND:20250327T111900
+SUMMARY:st4rboys赛程 · 季后赛 · st4rboys vs POWERmix
+DESCRIPTION:st4rboys vs POWERmix — PGL 季后赛（北京时间）\n\n
+ 赛事: PGL\n阶段: 季后赛\n赛制: BO3
+CATEGORIES:st4rboys赛程
+URL;VALUE=URI:https://pandascore.co/matches/1150942
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

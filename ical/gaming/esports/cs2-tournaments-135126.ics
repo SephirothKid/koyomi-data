@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-135126//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:FORZE Reload赛程
+X-WR-CALNAME:FORZE Reload赛程
+X-WR-CALDESC:FORZE Reload在CS2中的比赛日程，自动同步更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-135126-cs2-2025-m1144857@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250317T150600
+DTEND:20250317T160600
+SUMMARY:FORZE Reload赛程 · 季后赛 · FORZE Reload @ Chimera Esports
+DESCRIPTION:Chimera Esports vs FORZE Reload — PGL 季后赛（北京时
+ 间）\n\n赛事: PGL\n阶段: 季后赛\n赛制: BO1
+CATEGORIES:FORZE Reload赛程
+URL;VALUE=URI:https://www.twitch.tv/watchfulTVb
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-135126-cs2-2025-m1144863@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250317T163100
+DTEND:20250317T173100
+SUMMARY:FORZE Reload赛程 · 季后赛 · FORZE Reload vs Roler Coaster
+DESCRIPTION:FORZE Reload vs Roler Coaster — PGL 季后赛（北京时间
+ ）\n\n赛事: PGL\n阶段: 季后赛\n赛制: BO3
+CATEGORIES:FORZE Reload赛程
+URL;VALUE=URI:https://www.twitch.tv/watchfulTVb
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-130059//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:Eternal Fire Academy赛程
+X-WR-CALNAME:Eternal Fire Academy赛程
+X-WR-CALDESC:Eternal Fire Academy在CS2中的比赛日程，自动同步
+ 更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-130059-cs2-2025-m1131492@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250223T151500
+DTEND:20250223T161500
+SUMMARY:Eternal Fire Academy赛程 · 季后赛 · Eternal Fire Academy @ 
+ Alliance
+DESCRIPTION:Alliance vs Eternal Fire Academy — PGL 季后赛（北京时
+ 间）\n\n赛事: PGL\n阶段: 季后赛\n赛制: BO1
+CATEGORIES:Eternal Fire Academy赛程
+URL;VALUE=URI:https://pandascore.co/matches/1131492
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

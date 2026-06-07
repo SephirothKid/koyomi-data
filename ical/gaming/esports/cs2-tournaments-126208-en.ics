@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-126208//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:Illuminar Schedule
+X-WR-CALNAME:Illuminar Schedule
+X-WR-CALDESC:Illuminar schedule in CS2, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-126208-cs2-2025-m1148528@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250322T151600
+DTEND:20250322T161600
+SUMMARY:Illuminar Schedule · Illuminar @ Team Next Level
+DESCRIPTION:Team Next Level vs Illuminar — PGL Playoffs (CST)\n\n赛事:
+  PGL\n阶段: 季后赛\n赛制: BO1
+CATEGORIES:Illuminar Schedule
+URL;VALUE=URI:https://www.twitch.tv/homecast_cs
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

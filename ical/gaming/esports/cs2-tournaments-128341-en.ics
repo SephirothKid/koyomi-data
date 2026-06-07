@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-128341//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:Astralis Talent Schedule
+X-WR-CALNAME:Astralis Talent Schedule
+X-WR-CALDESC:Astralis Talent schedule in CS2, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-128341-cs2-2025-m1130247@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250221T151700
+DTEND:20250221T161700
+SUMMARY:Astralis Talent Schedule · Astralis Talent @ RUSH B
+DESCRIPTION:RUSH B vs Astralis Talent — PGL Playoffs (CST)\n\n赛事: PG
+ L\n阶段: 季后赛\n赛制: BO1
+CATEGORIES:Astralis Talent Schedule
+URL;VALUE=URI:https://pandascore.co/matches/1130247
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-128341-cs2-2025-m1130253@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250221T165100
+DTEND:20250221T175100
+SUMMARY:Astralis Talent Schedule · Astralis Talent @ Minsk House
+DESCRIPTION:Minsk House vs Astralis Talent — PGL Playoffs (CST)\n\n赛
+ 事: PGL\n阶段: 季后赛\n赛制: BO3
+CATEGORIES:Astralis Talent Schedule
+URL;VALUE=URI:https://www.twitch.tv/Trottah
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

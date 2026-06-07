@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-135172//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:x7 Team赛程
+X-WR-CALNAME:x7 Team赛程
+X-WR-CALDESC:x7 Team在CS2中的比赛日程，自动同步更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-135172-cs2-2025-m1144363@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250314T191500
+DTEND:20250314T201500
+SUMMARY:x7 Team赛程 · 季后赛 · x7 Team @ Galorys
+DESCRIPTION:Galorys vs x7 Team — PGL 季后赛（北京时间）\n\n赛
+ 事: PGL\n阶段: 季后赛\n赛制: BO3
+CATEGORIES:x7 Team赛程
+URL;VALUE=URI:https://pandascore.co/matches/1144363
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-135172-cs2-2025-m1150924@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250327T200300
+DTEND:20250327T210300
+SUMMARY:x7 Team赛程 · Group D · x7 Team @ ODDIK
+DESCRIPTION:ODDIK vs x7 Team — PGL Group D（北京时间）\n\n赛事: 
+ PGL\n阶段: Group D\n赛制: BO3
+CATEGORIES:x7 Team赛程
+URL;VALUE=URI:https://www.twitch.tv/forg1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-135172-cs2-2025-m1151545@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250328T171100
+DTEND:20250328T181100
+SUMMARY:x7 Team赛程 · Group D · x7 Team vs UNO MILLE
+DESCRIPTION:x7 Team vs UNO MILLE — PGL Group D（北京时间）\n\n赛
+ 事: PGL\n阶段: Group D\n赛制: BO3
+CATEGORIES:x7 Team赛程
+URL;VALUE=URI:https://pandascore.co/matches/1151545
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-132007//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:500 Schedule
+X-WR-CALNAME:500 Schedule
+X-WR-CALDESC:500 schedule in CS2, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-132007-cs2-2025-m1133457@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250308T120800
+DTEND:20250308T130800
+SUMMARY:500 Schedule · 500 @ Nexus
+DESCRIPTION:Nexus vs 500 — PGL Group C (CST)\n\n赛事: PGL\n阶段: Gro
+ up C\n赛制: BO3
+CATEGORIES:500 Schedule
+URL;VALUE=URI:https://pandascore.co/matches/1133457
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-132007-cs2-2025-m1133459@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250309T093500
+DTEND:20250309T103500
+SUMMARY:500 Schedule · 500 vs Leo Team
+DESCRIPTION:500 vs Leo Team — PGL Group C (CST)\n\n赛事: PGL\n阶段: 
+ Group C\n赛制: BO3
+CATEGORIES:500 Schedule
+URL;VALUE=URI:https://pandascore.co/matches/1133459
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

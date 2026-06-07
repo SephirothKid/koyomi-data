@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-135227//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:ENJOY赛程
+X-WR-CALNAME:ENJOY赛程
+X-WR-CALDESC:ENJOY在CS2中的比赛日程，自动同步更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-135227-cs2-2025-m1144858@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250317T153100
+DTEND:20250317T163100
+SUMMARY:ENJOY赛程 · 季后赛 · ENJOY @ Roler Coaster
+DESCRIPTION:Roler Coaster vs ENJOY — PGL 季后赛（北京时间）\n\n
+ 赛事: PGL\n阶段: 季后赛\n赛制: BO1
+CATEGORIES:ENJOY赛程
+URL;VALUE=URI:https://pandascore.co/matches/1144858
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

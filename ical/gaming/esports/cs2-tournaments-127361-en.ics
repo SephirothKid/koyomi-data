@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-127361//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:GTZ.Esports Schedule
+X-WR-CALNAME:GTZ.Esports Schedule
+X-WR-CALDESC:GTZ.Esports schedule in CS2, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-127361-cs2-2025-m1137357@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250307T123500
+DTEND:20250307T133500
+SUMMARY:GTZ.Esports Schedule · GTZ.Esports vs Zero Tenacity
+DESCRIPTION:GTZ.Esports vs Zero Tenacity — PGL Group D (CST)\n\n赛事: 
+ PGL\n阶段: Group D\n赛制: BO3
+CATEGORIES:GTZ.Esports Schedule
+URL;VALUE=URI:https://www.twitch.tv/prcs
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-127361-cs2-2025-m1133473@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250308T091700
+DTEND:20250308T101700
+SUMMARY:GTZ.Esports Schedule · GTZ.Esports @ CYBERSHOKE Esports
+DESCRIPTION:CYBERSHOKE Esports vs GTZ.Esports — PGL Group D (CST)\n\n赛
+ 事: PGL\n阶段: Group D\n赛制: BO3
+CATEGORIES:GTZ.Esports Schedule
+URL;VALUE=URI:https://www.twitch.tv/pedrotavares12
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-127361-cs2-2025-m1150563@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250327T121600
+DTEND:20250327T131600
+SUMMARY:GTZ.Esports Schedule · GTZ.Esports vs JANO Esports
+DESCRIPTION:GTZ.Esports vs JANO Esports — PGL Group D (CST)\n\n赛事: P
+ GL\n阶段: Group D\n赛制: BO3
+CATEGORIES:GTZ.Esports Schedule
+URL;VALUE=URI:https://www.twitch.tv/muchapt
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-127361-cs2-2025-m1151465@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250328T090100
+DTEND:20250328T100100
+SUMMARY:GTZ.Esports Schedule · GTZ.Esports @ Passion UA
+DESCRIPTION:Passion UA vs GTZ.Esports — PGL Group D (CST)\n\n赛事: PGL
+ \n阶段: Group D\n赛制: BO3
+CATEGORIES:GTZ.Esports Schedule
+URL;VALUE=URI:https://www.twitch.tv/CS2_maincast2
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
