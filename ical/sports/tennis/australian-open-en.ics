@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//australian-open//EN
+URL:https://koyomi.cast/sources/australian-open
+NAME:Australian Open
+X-WR-CALNAME:Australian Open
+X-WR-CALDESC:澳大利亚网球公开赛资格赛、正赛和单打决赛
+ 日历。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:australian-open-australian-open-2026-qualifying@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260116
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Australian Open · Australian OpenQualifying
+DESCRIPTION:Australian OpenQualifying Window.\n\n英文名: Australian Ope
+ n\n赛事级别: 网球四大满贯
+CATEGORIES:Australian Open
+URL;VALUE=URI:https://ausopen.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:australian-open-australian-open-2026-main-draw@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260202
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Australian Open · Australian OpenRace
+DESCRIPTION:Australian OpenRace日期.\n\n英文名: Australian Open\n赛
+ 事级别: 网球四大满贯
+CATEGORIES:Australian Open
+URL;VALUE=URI:https://ausopen.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:australian-open-australian-open-2026-women-final@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Australian Open · Australian OpenWomen's Final
+DESCRIPTION:Australian OpenWomen's Final日\,具体开赛时间以官方
+ 赛程为准.
+CATEGORIES:Australian Open
+URL;VALUE=URI:https://ausopen.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:australian-open-australian-open-2026-men-final@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Australian Open · Australian OpenMen's Final
+DESCRIPTION:Australian OpenMen's Final日\,具体开赛时间以官方赛
+ 程为准.
+CATEGORIES:Australian Open
+URL;VALUE=URI:https://ausopen.com
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

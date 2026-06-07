@@ -1,0 +1,101 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//kpl//EN
+URL:https://koyomi.cast/sources/kpl
+NAME:King Pro League
+X-WR-CALNAME:King Pro League
+X-WR-CALDESC:王者荣耀职业联赛 KPL 赛季关键阶段，包括春
+ 季赛、夏季赛、季后赛、总决赛和挑战者杯相关窗口。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:kpl-kpl-2026-spring-regular-season-window@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260421
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:King Pro League · King Pro League SpringRegular Season Window
+DESCRIPTION:King Pro League SpringRegular Season常见 Window\,具体分
+ 组、Round次和对阵以王者荣耀赛事官方公布为准.\n\n赛事:
+  王者荣耀职业联赛\n状态说明: 未接入逐场官方赛程前，
+ 以阶段窗口提醒为主
+CATEGORIES:King Pro League
+URL;VALUE=URI:https://pvp.qq.com/match/kpl/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kpl-kpl-2026-spring-playoffs-window@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260516
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:King Pro League · King Pro League SpringPlayoffs Window
+DESCRIPTION:SpringPlayoffs和Finals集中 Window.
+CATEGORIES:King Pro League
+URL;VALUE=URI:https://pvp.qq.com/match/kpl/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kpl-kpl-2026-summer-regular-season-window@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260806
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:King Pro League · King Pro League SummerRegular Season Window
+DESCRIPTION:King Pro League SummerRegular Season常见 Window\,具体以
+ 官方赛程为准.
+CATEGORIES:King Pro League
+URL;VALUE=URI:https://pvp.qq.com/match/kpl/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kpl-kpl-2026-summer-playoffs-window@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260906
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:King Pro League · King Pro League SummerPlayoffs Window
+DESCRIPTION:SummerPlayoffs和Finals集中 Window.
+CATEGORIES:King Pro League
+URL;VALUE=URI:https://pvp.qq.com/match/kpl/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kpl-kpl-2026-challenger-cup-window@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261111
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:King Pro League · King Pro League Challenger Cup Window
+DESCRIPTION:王者荣耀Challenger Cup常见赛事 Window\,具体赛程以
+ 官方公告为准.
+CATEGORIES:King Pro League
+URL;VALUE=URI:https://pvp.qq.com/match/kpl/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kpl-kpl-2026-annual-finals-window@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261221
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:King Pro League · King Pro League AnnualFinals Window
+DESCRIPTION:王者荣耀AnnualFinals相关 Window\,具体赛程以官方
+ 公告为准.
+CATEGORIES:King Pro League
+URL;VALUE=URI:https://pvp.qq.com/match/kpl/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

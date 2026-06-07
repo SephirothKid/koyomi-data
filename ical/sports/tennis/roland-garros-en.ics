@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//roland-garros//EN
+URL:https://koyomi.cast/sources/roland-garros
+NAME:Roland-Garros
+X-WR-CALNAME:Roland-Garros
+X-WR-CALDESC:法国网球公开赛资格赛、正赛和单打决赛日历
+ 。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:roland-garros-roland-garros-2026-qualifying@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260523
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Roland-Garros · French OpenQualifying
+DESCRIPTION:French OpenQualifying Window.\n\n英文名: Roland-Garros\n赛
+ 事级别: 网球四大满贯
+CATEGORIES:Roland-Garros
+URL;VALUE=URI:https://www.rolandgarros.com/en-us/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:roland-garros-roland-garros-2026-main-draw@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260608
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Roland-Garros · French OpenRace
+DESCRIPTION:French OpenRace日期.\n\n英文名: Roland-Garros\n赛事级
+ 别: 网球四大满贯
+CATEGORIES:Roland-Garros
+URL;VALUE=URI:https://www.rolandgarros.com/en-us/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:roland-garros-roland-garros-2026-women-final@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Roland-Garros · French OpenWomen's Final
+DESCRIPTION:French OpenWomen's Final日\,具体开赛时间以官方赛程
+ 为准.
+CATEGORIES:Roland-Garros
+URL;VALUE=URI:https://www.rolandgarros.com/en-us/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:roland-garros-roland-garros-2026-men-final@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260604T000000
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Roland-Garros · French OpenMen's Final
+DESCRIPTION:French OpenMen's Final日\,具体开赛时间以官方赛程
+ 为准.
+CATEGORIES:Roland-Garros
+URL;VALUE=URI:https://www.rolandgarros.com/en-us/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

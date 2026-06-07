@@ -36628,203 +36628,157 @@
       }
     },
     {
-      "id": "cs2-2026-iem-cologne-g1",
-      "name": "IEM 科隆 · 小组赛 #1 Vitality vs NAVI",
-      "name_en": "IEM Cologne · Groups #1 Vitality vs NAVI",
-      "date": "2026-06-02",
-      "time": "21:00",
+      "id": "cs2-2026-iem-cologne-stage2-r1-1",
+      "name": "IEM 科隆 · Stage 2 瑞士轮 R1 #1 Astralis vs GamerLegion",
+      "name_en": "IEM Cologne · Stage 2 Swiss R1 #1 Astralis vs GamerLegion",
+      "date": "2026-06-06",
+      "time": "20:30",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Vitality vs NAVI — IEM 科隆 Major 2026（北京时间）",
-      "description_en": "Vitality vs NAVI — IEM Cologne Major 2026 (CST)",
-      "url": "https://liquipedia.net/counterstrike/Intel_Extreme_Masters/2026/Cologne",
-      "status": "completed",
+      "description": "Astralis vs GamerLegion — IEM Cologne 2026 Stage 2 瑞士轮首轮（北京时间）",
+      "description_en": "Astralis vs GamerLegion — IEM Cologne 2026 Stage 2 Swiss Round 1 (CST)",
+      "url": "https://www.hltv.org/events/8464/iem-cologne-2026",
+      "status": "confirmed",
       "last_verified": "2026-06-06",
       "verified_by": "official",
       "teams": {
         "team1": {
-          "id": "vitality",
-          "code": "Vitality",
-          "name": "Team Vitality"
-        },
-        "team2": {
-          "id": "navi",
-          "code": "NAVI",
-          "name": "Natus Vincere"
-        }
-      },
-      "result": {
-        "winner": "team1",
-        "score": "2 - 1"
-      },
-      "details": {
-        "赛事": "IEM",
-        "赛季": "科隆 Major 2026",
-        "阶段": "小组赛",
-        "赛制": "BO3"
-      }
-    },
-    {
-      "id": "cs2-2026-iem-cologne-g2",
-      "name": "IEM 科隆 · 小组赛 #2 FaZe vs Spirit",
-      "name_en": "IEM Cologne · Groups #2 FaZe vs Spirit",
-      "date": "2026-06-03",
-      "time": "21:00",
-      "timezone": "Asia/Shanghai",
-      "type": "event",
-      "year": 2026,
-      "description": "FaZe vs Spirit — IEM 科隆 Major 2026（北京时间）",
-      "description_en": "FaZe vs Spirit — IEM Cologne Major 2026 (CST)",
-      "url": "https://liquipedia.net/counterstrike/Intel_Extreme_Masters/2026/Cologne",
-      "status": "completed",
-      "last_verified": "2026-06-06",
-      "verified_by": "official",
-      "teams": {
-        "team1": {
-          "id": "faze",
-          "code": "FaZe",
-          "name": "FaZe Clan"
-        },
-        "team2": {
-          "id": "spirit",
-          "code": "Spirit",
-          "name": "Team Spirit"
-        }
-      },
-      "result": {
-        "winner": "team2",
-        "score": "2 - 0"
-      },
-      "details": {
-        "赛事": "IEM",
-        "赛季": "科隆 Major 2026",
-        "阶段": "小组赛",
-        "赛制": "BO3"
-      }
-    },
-    {
-      "id": "cs2-2026-iem-cologne-g3",
-      "name": "IEM 科隆 · 小组赛 #3 G2 vs MOUZ",
-      "name_en": "IEM Cologne · Groups #3 G2 vs MOUZ",
-      "date": "2026-06-04",
-      "time": "21:00",
-      "timezone": "Asia/Shanghai",
-      "type": "event",
-      "year": 2026,
-      "description": "G2 vs MOUZ — IEM 科隆 Major 2026（北京时间）",
-      "description_en": "G2 vs MOUZ — IEM Cologne Major 2026 (CST)",
-      "url": "https://liquipedia.net/counterstrike/Intel_Extreme_Masters/2026/Cologne",
-      "status": "completed",
-      "last_verified": "2026-06-06",
-      "verified_by": "official",
-      "teams": {
-        "team1": {
-          "id": "g2",
-          "code": "G2",
-          "name": "G2 Esports"
-        },
-        "team2": {
-          "id": "mouz",
-          "code": "MOUZ",
-          "name": "MOUZ"
-        }
-      },
-      "result": {
-        "winner": "team1",
-        "score": "2 - 1"
-      },
-      "details": {
-        "赛事": "IEM",
-        "赛季": "科隆 Major 2026",
-        "阶段": "小组赛",
-        "赛制": "BO3"
-      }
-    },
-    {
-      "id": "cs2-2026-iem-cologne-g4",
-      "name": "IEM 科隆 · 小组赛 #4 Falcons vs Astralis",
-      "name_en": "IEM Cologne · Groups #4 Falcons vs Astralis",
-      "date": "2026-06-05",
-      "time": "21:00",
-      "timezone": "Asia/Shanghai",
-      "type": "event",
-      "year": 2026,
-      "description": "Falcons vs Astralis — IEM 科隆 Major 2026（北京时间）",
-      "description_en": "Falcons vs Astralis — IEM Cologne Major 2026 (CST)",
-      "url": "https://liquipedia.net/counterstrike/Intel_Extreme_Masters/2026/Cologne",
-      "status": "completed",
-      "last_verified": "2026-06-06",
-      "verified_by": "official",
-      "teams": {
-        "team1": {
-          "id": "falcons",
-          "code": "Falcons",
-          "name": "Team Falcons"
-        },
-        "team2": {
           "id": "astralis",
           "code": "Astralis",
           "name": "Astralis"
+        },
+        "team2": {
+          "id": "gamerlegion",
+          "code": "GamerLegion",
+          "name": "GamerLegion"
         }
-      },
-      "result": {
-        "winner": "team1",
-        "score": "2 - 0"
       },
       "details": {
         "赛事": "IEM",
-        "赛季": "科隆 Major 2026",
-        "阶段": "小组赛",
-        "赛制": "BO3"
+        "赛季": "科隆 2026",
+        "阶段": "Stage 2 瑞士轮 R1",
+        "赛制": "BO3",
+        "来源": "https://bo3.gg/tournaments/iem-cologne-2026"
       }
     },
     {
-      "id": "cs2-2026-iem-cologne-p1",
-      "name": "IEM 科隆 · 淘汰赛 #1 Vitality vs Spirit",
-      "name_en": "IEM Cologne · Playoffs #1 Vitality vs Spirit",
+      "id": "cs2-2026-iem-cologne-stage2-r1-2",
+      "name": "IEM 科隆 · Stage 2 瑞士轮 R1 #2 9z vs FlyQuest",
+      "name_en": "IEM Cologne · Stage 2 Swiss R1 #2 9z vs FlyQuest",
       "date": "2026-06-06",
-      "time": "21:00",
+      "time": "20:30",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Vitality vs Spirit — IEM 科隆 Major 2026（北京时间）",
-      "description_en": "Vitality vs Spirit — IEM Cologne Major 2026 (CST)",
-      "url": "https://liquipedia.net/counterstrike/Intel_Extreme_Masters/2026/Cologne",
-      "status": "active",
+      "description": "9z vs FlyQuest — IEM Cologne 2026 Stage 2 瑞士轮首轮（北京时间）",
+      "description_en": "9z vs FlyQuest — IEM Cologne 2026 Stage 2 Swiss Round 1 (CST)",
+      "url": "https://www.hltv.org/events/8464/iem-cologne-2026",
+      "status": "confirmed",
       "last_verified": "2026-06-06",
       "verified_by": "official",
       "teams": {
         "team1": {
-          "id": "vitality",
-          "code": "Vitality",
-          "name": "Team Vitality"
+          "id": "9z",
+          "code": "9z",
+          "name": "9z Team"
         },
         "team2": {
-          "id": "spirit",
-          "code": "Spirit",
-          "name": "Team Spirit"
+          "id": "flyquest",
+          "code": "FlyQuest",
+          "name": "FlyQuest"
         }
       },
       "details": {
         "赛事": "IEM",
-        "赛季": "科隆 Major 2026",
-        "阶段": "淘汰赛",
-        "赛制": "BO3"
+        "赛季": "科隆 2026",
+        "阶段": "Stage 2 瑞士轮 R1",
+        "赛制": "BO3",
+        "来源": "https://bo3.gg/tournaments/iem-cologne-2026"
       }
     },
     {
-      "id": "cs2-2026-iem-cologne-p2",
-      "name": "IEM 科隆 · 淘汰赛 #2 G2 vs Falcons",
-      "name_en": "IEM Cologne · Playoffs #2 G2 vs Falcons",
-      "date": "2026-06-07",
-      "time": "21:00",
+      "id": "cs2-2026-iem-cologne-stage2-r1-3",
+      "name": "IEM 科隆 · Stage 2 瑞士轮 R1 #3 FUT Esports vs B8",
+      "name_en": "IEM Cologne · Stage 2 Swiss R1 #3 FUT Esports vs B8",
+      "date": "2026-06-06",
+      "time": "21:30",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "G2 vs Falcons — IEM 科隆 Major 2026（北京时间）",
-      "description_en": "G2 vs Falcons — IEM Cologne Major 2026 (CST)",
-      "url": "https://liquipedia.net/counterstrike/Intel_Extreme_Masters/2026/Cologne",
+      "description": "FUT Esports vs B8 — IEM Cologne 2026 Stage 2 瑞士轮首轮（北京时间）",
+      "description_en": "FUT Esports vs B8 — IEM Cologne 2026 Stage 2 Swiss Round 1 (CST)",
+      "url": "https://www.hltv.org/events/8464/iem-cologne-2026",
+      "status": "confirmed",
+      "last_verified": "2026-06-06",
+      "verified_by": "official",
+      "teams": {
+        "team1": {
+          "id": "fut-esports",
+          "code": "FUT Esports",
+          "name": "FUT Esports"
+        },
+        "team2": {
+          "id": "b8",
+          "code": "B8",
+          "name": "B8"
+        }
+      },
+      "details": {
+        "赛事": "IEM",
+        "赛季": "科隆 2026",
+        "阶段": "Stage 2 瑞士轮 R1",
+        "赛制": "BO3",
+        "来源": "https://bo3.gg/tournaments/iem-cologne-2026"
+      }
+    },
+    {
+      "id": "cs2-2026-iem-cologne-stage2-r1-4",
+      "name": "IEM 科隆 · Stage 2 瑞士轮 R1 #4 paiN vs TYLOO",
+      "name_en": "IEM Cologne · Stage 2 Swiss R1 #4 paiN vs TYLOO",
+      "date": "2026-06-06",
+      "time": "21:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "paiN vs TYLOO — IEM Cologne 2026 Stage 2 瑞士轮首轮（北京时间）",
+      "description_en": "paiN vs TYLOO — IEM Cologne 2026 Stage 2 Swiss Round 1 (CST)",
+      "url": "https://www.hltv.org/events/8464/iem-cologne-2026",
+      "status": "confirmed",
+      "last_verified": "2026-06-06",
+      "verified_by": "official",
+      "teams": {
+        "team1": {
+          "id": "pain",
+          "code": "paiN",
+          "name": "paiN Gaming"
+        },
+        "team2": {
+          "id": "tyloo",
+          "code": "TYLOO",
+          "name": "TYLOO"
+        }
+      },
+      "details": {
+        "赛事": "IEM",
+        "赛季": "科隆 2026",
+        "阶段": "Stage 2 瑞士轮 R1",
+        "赛制": "BO3",
+        "来源": "https://bo3.gg/tournaments/iem-cologne-2026"
+      }
+    },
+    {
+      "id": "cs2-2026-iem-cologne-stage2-r1-5",
+      "name": "IEM 科隆 · Stage 2 瑞士轮 R1 #5 G2 vs M80",
+      "name_en": "IEM Cologne · Stage 2 Swiss R1 #5 G2 vs M80",
+      "date": "2026-06-06",
+      "time": "22:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "G2 vs M80 — IEM Cologne 2026 Stage 2 瑞士轮首轮（北京时间）",
+      "description_en": "G2 vs M80 — IEM Cologne 2026 Stage 2 Swiss Round 1 (CST)",
+      "url": "https://www.hltv.org/events/8464/iem-cologne-2026",
       "status": "confirmed",
       "last_verified": "2026-06-06",
       "verified_by": "official",
@@ -36835,84 +36789,122 @@
           "name": "G2 Esports"
         },
         "team2": {
-          "id": "falcons",
-          "code": "Falcons",
-          "name": "Team Falcons"
+          "id": "m80",
+          "code": "M80",
+          "name": "M80"
         }
       },
       "details": {
         "赛事": "IEM",
-        "赛季": "科隆 Major 2026",
-        "阶段": "淘汰赛",
-        "赛制": "BO3"
+        "赛季": "科隆 2026",
+        "阶段": "Stage 2 瑞士轮 R1",
+        "赛制": "BO3",
+        "来源": "https://bo3.gg/tournaments/iem-cologne-2026"
       }
     },
     {
-      "id": "cs2-2026-iem-cologne-sf",
-      "name": "IEM 科隆 · 半决赛 #1 TBD vs TBD",
-      "name_en": "IEM Cologne · Semifinal #1 TBD vs TBD",
-      "date": "2026-06-08",
-      "time": "21:00",
+      "id": "cs2-2026-iem-cologne-stage2-r1-6",
+      "name": "IEM 科隆 · Stage 2 瑞士轮 R1 #6 Monte vs BIG",
+      "name_en": "IEM Cologne · Stage 2 Swiss R1 #6 Monte vs BIG",
+      "date": "2026-06-06",
+      "time": "22:30",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "半决赛 — IEM 科隆 Major 2026（北京时间）",
-      "description_en": "Semifinal — IEM Cologne Major 2026 (CST)",
-      "url": "https://liquipedia.net/counterstrike/Intel_Extreme_Masters/2026/Cologne",
+      "description": "Monte vs BIG — IEM Cologne 2026 Stage 2 瑞士轮首轮（北京时间）",
+      "description_en": "Monte vs BIG — IEM Cologne 2026 Stage 2 Swiss Round 1 (CST)",
+      "url": "https://www.hltv.org/events/8464/iem-cologne-2026",
       "status": "confirmed",
       "last_verified": "2026-06-06",
       "verified_by": "official",
       "teams": {
         "team1": {
-          "id": "tbd1",
-          "code": "TBD",
-          "name": "TBD"
+          "id": "monte",
+          "code": "Monte",
+          "name": "Monte"
         },
         "team2": {
-          "id": "tbd2",
-          "code": "TBD",
-          "name": "TBD"
+          "id": "big",
+          "code": "BIG",
+          "name": "BIG"
         }
       },
       "details": {
         "赛事": "IEM",
-        "赛季": "科隆 Major 2026",
-        "阶段": "半决赛",
-        "赛制": "BO3"
+        "赛季": "科隆 2026",
+        "阶段": "Stage 2 瑞士轮 R1",
+        "赛制": "BO3",
+        "来源": "https://bo3.gg/tournaments/iem-cologne-2026"
       }
     },
     {
-      "id": "cs2-2026-iem-cologne-gf",
-      "name": "IEM 科隆 · 决赛 TBD vs TBD",
-      "name_en": "IEM Cologne · Grand Final TBD vs TBD",
-      "date": "2026-06-09",
-      "time": "21:00",
+      "id": "cs2-2026-iem-cologne-stage2-r1-7",
+      "name": "IEM 科隆 · Stage 2 瑞士轮 R1 #7 Spirit vs BetBoom",
+      "name_en": "IEM Cologne · Stage 2 Swiss R1 #7 Spirit vs BetBoom",
+      "date": "2026-06-06",
+      "time": "23:30",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "决赛 — IEM 科隆 Major 2026（北京时间）",
-      "description_en": "Grand Final — IEM Cologne Major 2026 (CST)",
-      "url": "https://liquipedia.net/counterstrike/Intel_Extreme_Masters/2026/Cologne",
+      "description": "Spirit vs BetBoom — IEM Cologne 2026 Stage 2 瑞士轮首轮（北京时间）",
+      "description_en": "Spirit vs BetBoom — IEM Cologne 2026 Stage 2 Swiss Round 1 (CST)",
+      "url": "https://www.hltv.org/events/8464/iem-cologne-2026",
       "status": "confirmed",
       "last_verified": "2026-06-06",
       "verified_by": "official",
       "teams": {
         "team1": {
-          "id": "tbd1",
-          "code": "TBD",
-          "name": "TBD"
+          "id": "spirit",
+          "code": "Spirit",
+          "name": "Team Spirit"
         },
         "team2": {
-          "id": "tbd2",
-          "code": "TBD",
-          "name": "TBD"
+          "id": "betboom",
+          "code": "BetBoom",
+          "name": "BetBoom Team"
         }
       },
       "details": {
         "赛事": "IEM",
-        "赛季": "科隆 Major 2026",
-        "阶段": "决赛",
-        "赛制": "BO5"
+        "赛季": "科隆 2026",
+        "阶段": "Stage 2 瑞士轮 R1",
+        "赛制": "BO3",
+        "来源": "https://bo3.gg/tournaments/iem-cologne-2026"
+      }
+    },
+    {
+      "id": "cs2-2026-iem-cologne-stage2-r1-8",
+      "name": "IEM 科隆 · Stage 2 瑞士轮 R1 #8 Legacy vs MIBR",
+      "name_en": "IEM Cologne · Stage 2 Swiss R1 #8 Legacy vs MIBR",
+      "date": "2026-06-06",
+      "time": "23:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Legacy vs MIBR — IEM Cologne 2026 Stage 2 瑞士轮首轮（北京时间）",
+      "description_en": "Legacy vs MIBR — IEM Cologne 2026 Stage 2 Swiss Round 1 (CST)",
+      "url": "https://www.hltv.org/events/8464/iem-cologne-2026",
+      "status": "confirmed",
+      "last_verified": "2026-06-06",
+      "verified_by": "official",
+      "teams": {
+        "team1": {
+          "id": "legacy",
+          "code": "Legacy",
+          "name": "Legacy"
+        },
+        "team2": {
+          "id": "mibr",
+          "code": "MIBR",
+          "name": "MIBR"
+        }
+      },
+      "details": {
+        "赛事": "IEM",
+        "赛季": "科隆 2026",
+        "阶段": "Stage 2 瑞士轮 R1",
+        "赛制": "BO3",
+        "来源": "https://bo3.gg/tournaments/iem-cologne-2026"
       }
     }
   ],

@@ -10,6 +10,36 @@ const EVENTS_DIR = join(ROOT, 'events')
 const ICAL_DIR = join(ROOT, 'ical')
 const SEASONAL_FOOTBALL_SOURCE_IDS = new Set(['epl', 'bundesliga', 'laliga', 'seriea', 'ligue1', 'ucl', 'uel', 'uecl'])
 
+// source.id → subcategory 映射（用于 ical 目录细分）
+const SUBCATEGORY_MAP = {
+  // football
+  epl: 'football',
+  laliga: 'football',
+  bundesliga: 'football',
+  seriea: 'football',
+  ligue1: 'football',
+  ucl: 'football',
+  uel: 'football',
+  uecl: 'football',
+  'worldcup-2026': 'football',
+  // basketball
+  nba: 'basketball',
+  // tennis
+  'australian-open': 'tennis',
+  'roland-garros': 'tennis',
+  wimbledon: 'tennis',
+  'us-open': 'tennis',
+  // motorsport
+  'f1-2026': 'motorsport',
+  // esports
+  lpl: 'esports',
+  kpl: 'esports',
+}
+
+function getSubcategory(source) {
+  return SUBCATEGORY_MAP[source.id] ?? null
+}
+
 // 语言模式：通过环境变量 LANG 控制，支持 'zh' (默认) 和 'en'
 const LANG = process.env.LANG === 'en' ? 'en' : 'zh'
 const IS_EN = LANG === 'en'
@@ -18,16 +48,18 @@ mkdirSync(ICAL_DIR, { recursive: true })
 
 function sourceIcalDir(source) {
   const category = source.category ?? 'other'
-  const dir = join(ICAL_DIR, category)
+  const subcategory = getSubcategory(source)
+  const dir = subcategory
+    ? join(ICAL_DIR, category, subcategory)
+    : join(ICAL_DIR, category)
   mkdirSync(dir, { recursive: true })
   return dir
 }
 
 function writeCalendar(source, filename, calendar) {
   const content = calendar.toString()
+  // 写入分类子目录
   writeFileSync(join(sourceIcalDir(source), filename), content, 'utf8')
-  // Backward-compatible flat path for existing webcal links.
-  writeFileSync(join(ICAL_DIR, filename), content, 'utf8')
 }
 
 function collectJsonFiles(dir) {
