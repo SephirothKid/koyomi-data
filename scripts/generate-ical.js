@@ -99,11 +99,21 @@ function stampForEvent(event) {
 function tzOffset(tz) {
   const offsets = {
     'Asia/Shanghai': '+08:00',
+    'Asia/Hong_Kong': '+08:00',
+    'Asia/Singapore': '+08:00',
     'Asia/Tokyo': '+09:00',
+    'Asia/Seoul': '+09:00',
+    'Asia/Ho_Chi_Minh': '+07:00',
+    'Asia/Jakarta': '+07:00',
+    'Asia/Taipei': '+08:00',
     'America/New_York': '-05:00',
+    'America/Toronto': '-05:00',
+    'America/Sao_Paulo': '-03:00',
     'America/Los_Angeles': '-08:00',
     'Europe/London': '+00:00',
     'Europe/Berlin': '+01:00',
+    'Europe/Paris': '+01:00',
+    'Australia/Sydney': '+10:00',
     'UTC': '+00:00',
   }
   return offsets[tz] ?? '+08:00'
