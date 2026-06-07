@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-136330//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:Just Swing赛程
+X-WR-CALNAME:Just Swing赛程
+X-WR-CALDESC:Just Swing在CS2中的比赛日程，自动同步更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-136330-cs2-2025-m1150957@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250327T094500
+DTEND:20250327T104500
+SUMMARY:Just Swing赛程 · 季后赛 · Just Swing @ TYLOO
+DESCRIPTION:TYLOO vs Just Swing — PGL 季后赛（北京时间）\n\n赛
+ 事: PGL\n阶段: 季后赛\n赛制: BO3
+CATEGORIES:Just Swing赛程
+URL;VALUE=URI:https://pandascore.co/matches/1150957
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-136330-cs2-2025-m1151375@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250328T055100
+DTEND:20250328T065100
+SUMMARY:Just Swing赛程 · 季后赛 · Just Swing vs Shika
+DESCRIPTION:Just Swing vs Shika — PGL 季后赛（北京时间）\n\n赛
+ 事: PGL\n阶段: 季后赛\n赛制: BO3
+CATEGORIES:Just Swing赛程
+URL;VALUE=URI:https://www.huya.com/825801
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

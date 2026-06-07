@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-126944//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:1WIN赛程
+X-WR-CALNAME:1WIN赛程
+X-WR-CALDESC:1WIN在CS2中的比赛日程，自动同步更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-126944-cs2-2025-m1130248@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250221T151400
+DTEND:20250221T161400
+SUMMARY:1WIN赛程 · 季后赛 · 1WIN vs Dark Cloud Esports
+DESCRIPTION:1WIN vs Dark Cloud Esports — PGL 季后赛（北京时间）
+ \n\n赛事: PGL\n阶段: 季后赛\n赛制: BO1
+CATEGORIES:1WIN赛程
+URL;VALUE=URI:https://pandascore.co/matches/1130248
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

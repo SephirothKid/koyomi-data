@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-135453//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:thekillaz fe Schedule
+X-WR-CALNAME:thekillaz fe Schedule
+X-WR-CALDESC:thekillaz fe schedule in CS2, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-135453-cs2-2025-m1133386@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250308T001000
+DTEND:20250308T011000
+SUMMARY:thekillaz fe Schedule · thekillaz fe @ Elevate
+DESCRIPTION:Elevate vs thekillaz fe — PGL Group D (CST)\n\n赛事: PGL\n
+ 阶段: Group D\n赛制: BO3
+CATEGORIES:thekillaz fe Schedule
+URL;VALUE=URI:https://pandascore.co/matches/1133386
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-135453-cs2-2025-m1133395@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250308T184300
+DTEND:20250308T194300
+SUMMARY:thekillaz fe Schedule · thekillaz fe @ Galorys
+DESCRIPTION:Galorys vs thekillaz fe — PGL Group D (CST)\n\n赛事: PGL\n
+ 阶段: Group D\n赛制: BO3
+CATEGORIES:thekillaz fe Schedule
+URL;VALUE=URI:https://pandascore.co/matches/1133395
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

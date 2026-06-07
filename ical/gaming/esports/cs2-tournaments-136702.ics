@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-136702//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:undeRRRated赛程
+X-WR-CALNAME:undeRRRated赛程
+X-WR-CALDESC:undeRRRated在CS2中的比赛日程，自动同步更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-136702-cs2-2025-m1149236@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250324T153700
+DTEND:20250324T163700
+SUMMARY:undeRRRated赛程 · 季后赛 · undeRRRated vs Betera Esports
+DESCRIPTION:undeRRRated vs Betera Esports — PGL 季后赛（北京时间
+ ）\n\n赛事: PGL\n阶段: 季后赛\n赛制: BO1
+CATEGORIES:undeRRRated赛程
+URL;VALUE=URI:https://www.twitch.tv/mdsparty
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-136565//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:MakersMeetYou赛程
+X-WR-CALNAME:MakersMeetYou赛程
+X-WR-CALDESC:MakersMeetYou在CS2中的比赛日程，自动同步更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-136565-cs2-2025-m1137199@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250305T181600
+DTEND:20250305T191600
+SUMMARY:MakersMeetYou赛程 · Group C · MakersMeetYou @ BLUEJAYS
+DESCRIPTION:BLUEJAYS vs MakersMeetYou — PGL Group C（北京时间）\n\
+ n赛事: PGL\n阶段: Group C\n赛制: BO3
+CATEGORIES:MakersMeetYou赛程
+URL;VALUE=URI:https://pandascore.co/matches/1137199
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-136565-cs2-2025-m1138557@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250306T181800
+DTEND:20250306T191800
+SUMMARY:MakersMeetYou赛程 · Group C · MakersMeetYou vs Mythic
+DESCRIPTION:MakersMeetYou vs Mythic — PGL Group C（北京时间）\n\n
+ 赛事: PGL\n阶段: Group C\n赛制: BO3
+CATEGORIES:MakersMeetYou赛程
+URL;VALUE=URI:https://www.twitch.tv/Trottah
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

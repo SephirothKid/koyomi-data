@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-133304//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:FlyQuest RED Schedule
+X-WR-CALNAME:FlyQuest RED Schedule
+X-WR-CALDESC:FlyQuest RED schedule in CS2, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-133304-cs2-2025-m1150866@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250327T231800
+DTEND:20250328T001800
+SUMMARY:FlyQuest RED Schedule · FlyQuest RED @ Chicken Coop Esports
+DESCRIPTION:Chicken Coop Esports vs FlyQuest RED — PGL Group A (CST)\n\n
+ 赛事: PGL\n阶段: Group A\n赛制: BO3
+CATEGORIES:FlyQuest RED Schedule
+URL;VALUE=URI:https://pandascore.co/matches/1150866
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-133304-cs2-2025-m1151561@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250328T223200
+DTEND:20250328T233200
+SUMMARY:FlyQuest RED Schedule · FlyQuest RED @ Daaku
+DESCRIPTION:Daaku vs FlyQuest RED — PGL Group A (CST)\n\n赛事: PGL\n
+ 阶段: Group A\n赛制: BO3
+CATEGORIES:FlyQuest RED Schedule
+URL;VALUE=URI:https://www.twitch.tv/Trottah
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

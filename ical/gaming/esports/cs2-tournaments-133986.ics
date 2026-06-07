@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-133986//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:RUSH B赛程
+X-WR-CALNAME:RUSH B赛程
+X-WR-CALDESC:RUSH B在CS2中的比赛日程，自动同步更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-133986-cs2-2025-m1130247@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250221T151700
+DTEND:20250221T161700
+SUMMARY:RUSH B赛程 · 季后赛 · RUSH B vs Astralis Talent
+DESCRIPTION:RUSH B vs Astralis Talent — PGL 季后赛（北京时间）\
+ n\n赛事: PGL\n阶段: 季后赛\n赛制: BO1
+CATEGORIES:RUSH B赛程
+URL;VALUE=URI:https://pandascore.co/matches/1130247
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

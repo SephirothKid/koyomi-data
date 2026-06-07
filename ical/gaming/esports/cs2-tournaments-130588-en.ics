@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-130588//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:IHC Esports Schedule
+X-WR-CALNAME:IHC Esports Schedule
+X-WR-CALDESC:IHC Esports schedule in CS2, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-130588-cs2-2025-m1150935@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250327T114700
+DTEND:20250327T124700
+SUMMARY:IHC Esports Schedule · IHC Esports @ The Huns Esports
+DESCRIPTION:The Huns Esports vs IHC Esports — PGL Playoffs (CST)\n\n赛
+ 事: PGL\n阶段: 季后赛\n赛制: BO3
+CATEGORIES:IHC Esports Schedule
+URL;VALUE=URI:https://pandascore.co/matches/1150935
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-130588-cs2-2025-m1151403@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250328T051400
+DTEND:20250328T061400
+SUMMARY:IHC Esports Schedule · IHC Esports @ Victores Sumus
+DESCRIPTION:Victores Sumus vs IHC Esports — PGL Playoffs (CST)\n\n赛事
+ : PGL\n阶段: 季后赛\n赛制: BO3
+CATEGORIES:IHC Esports Schedule
+URL;VALUE=URI:https://pandascore.co/matches/1151403
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-130588-cs2-2025-m1151406@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250329T021200
+DTEND:20250329T031200
+SUMMARY:IHC Esports Schedule · IHC Esports vs Chinggis Warriors
+DESCRIPTION:IHC Esports vs Chinggis Warriors — PGL Playoffs (CST)\n\n赛
+ 事: PGL\n阶段: 季后赛\n赛制: BO3
+CATEGORIES:IHC Esports Schedule
+URL;VALUE=URI:https://www.twitch.tv/kant0ka
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

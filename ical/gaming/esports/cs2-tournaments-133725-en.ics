@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-133725//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:Alliance Schedule
+X-WR-CALNAME:Alliance Schedule
+X-WR-CALDESC:Alliance schedule in CS2, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-133725-cs2-2025-m1131492@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250223T151500
+DTEND:20250223T161500
+SUMMARY:Alliance Schedule · Alliance vs Eternal Fire Academy
+DESCRIPTION:Alliance vs Eternal Fire Academy — PGL Playoffs (CST)\n\n赛
+ 事: PGL\n阶段: 季后赛\n赛制: BO1
+CATEGORIES:Alliance Schedule
+URL;VALUE=URI:https://pandascore.co/matches/1131492
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-133725-cs2-2025-m1131499@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250223T165100
+DTEND:20250223T175100
+SUMMARY:Alliance Schedule · Alliance vs Roler Coaster
+DESCRIPTION:Alliance vs Roler Coaster — PGL Playoffs (CST)\n\n赛事: PG
+ L\n阶段: 季后赛\n赛制: BO3
+CATEGORIES:Alliance Schedule
+URL;VALUE=URI:https://www.twitch.tv/trottah
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

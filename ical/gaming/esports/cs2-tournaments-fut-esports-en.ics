@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-fut-esports//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:FUT Esports Schedule
+X-WR-CALNAME:FUT Esports Schedule
+X-WR-CALDESC:FUT Esports schedule in CS2, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-fut-esports-cs2-2026-iem-cologne-stage2-r1-3@koyomi.ca
+ st
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20260606T133000
+DTEND:20260606T143000
+SUMMARY:FUT Esports Schedule · FUT Esports vs B8
+DESCRIPTION:FUT Esports vs B8 — IEM Cologne 2026 Stage 2 Swiss Round 1 (
+ CST)\n\n赛事: IEM\n赛季: 科隆 2026\n阶段: Stage 2 瑞士轮 R1\n
+ 赛制: BO3\n来源: https://bo3.gg/tournaments/iem-cologne-2026
+CATEGORIES:FUT Esports Schedule
+URL;VALUE=URI:https://www.hltv.org/events/8464/iem-cologne-2026
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

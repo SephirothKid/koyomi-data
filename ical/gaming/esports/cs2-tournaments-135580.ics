@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-135580//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:Game Hunters赛程
+X-WR-CALNAME:Game Hunters赛程
+X-WR-CALDESC:Game Hunters在CS2中的比赛日程，自动同步更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-135580-cs2-2025-m1133353@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250307T222800
+DTEND:20250307T232800
+SUMMARY:Game Hunters赛程 · Group B · Game Hunters @ Yawara Esports
+DESCRIPTION:Yawara Esports vs Game Hunters — PGL Group B（北京时间
+ ）\n\n赛事: PGL\n阶段: Group B\n赛制: BO3
+CATEGORIES:Game Hunters赛程
+URL;VALUE=URI:https://pandascore.co/matches/1133353
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-135580-cs2-2025-m1133357@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250309T013100
+DTEND:20250309T023100
+SUMMARY:Game Hunters赛程 · Group B · Game Hunters @ Fluxo
+DESCRIPTION:Fluxo vs Game Hunters — PGL Group B（北京时间）\n\n赛
+ 事: PGL\n阶段: Group B\n赛制: BO3
+CATEGORIES:Game Hunters赛程
+URL;VALUE=URI:https://www.twitch.tv/gaules
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-135580-cs2-2025-m1133365@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250309T225000
+DTEND:20250309T235000
+SUMMARY:Game Hunters赛程 · Group B · Game Hunters vs KRÜ Esports
+DESCRIPTION:Game Hunters vs KRÜ Esports — PGL Group B（北京时间）
+ \n\n赛事: PGL\n阶段: Group B\n赛制: BO3
+CATEGORIES:Game Hunters赛程
+URL;VALUE=URI:https://pandascore.co/matches/1133365
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-135580-cs2-2025-m1133363@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250309T173100
+DTEND:20250309T183100
+SUMMARY:Game Hunters赛程 · Group B · Game Hunters vs Floripa Stars
+DESCRIPTION:Game Hunters vs Floripa Stars — PGL Group B（北京时间
+ ）\n\n赛事: PGL\n阶段: Group B\n赛制: BO3
+CATEGORIES:Game Hunters赛程
+URL;VALUE=URI:https://pandascore.co/matches/1133363
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

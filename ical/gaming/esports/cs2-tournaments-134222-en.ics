@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-134222//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:adalYamigos Schedule
+X-WR-CALNAME:adalYamigos Schedule
+X-WR-CALDESC:adalYamigos schedule in CS2, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-134222-cs2-2025-m1133343@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250308T151400
+DTEND:20250308T161400
+SUMMARY:adalYamigos Schedule · adalYamigos @ ODDIK
+DESCRIPTION:ODDIK vs adalYamigos — PGL Group A (CST)\n\n赛事: PGL\n阶
+ 段: Group A\n赛制: BO3
+CATEGORIES:adalYamigos Schedule
+URL;VALUE=URI:https://www.twitch.tv/gaulestv3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-134222-cs2-2025-m1133303@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250307T173400
+DTEND:20250307T183400
+SUMMARY:adalYamigos Schedule · adalYamigos vs Prasso
+DESCRIPTION:adalYamigos vs Prasso — PGL Group A (CST)\n\n赛事: PGL\n
+ 阶段: Group A\n赛制: BO3
+CATEGORIES:adalYamigos Schedule
+URL;VALUE=URI:https://www.twitch.tv/gaulestv3
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

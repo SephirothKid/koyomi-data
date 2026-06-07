@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-135673//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:Nuclear TigeRES Schedule
+X-WR-CALNAME:Nuclear TigeRES Schedule
+X-WR-CALDESC:Nuclear TigeRES schedule in CS2, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-135673-cs2-2025-m1148533@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250322T151600
+DTEND:20250322T161600
+SUMMARY:Nuclear TigeRES Schedule · Nuclear TigeRES @ Tricked
+DESCRIPTION:Tricked vs Nuclear TigeRES — PGL Playoffs (CST)\n\n赛事: P
+ GL\n阶段: 季后赛\n赛制: BO1
+CATEGORIES:Nuclear TigeRES Schedule
+URL;VALUE=URI:https://www.twitch.tv/TravCS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-135673-cs2-2025-m1149231@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250324T151300
+DTEND:20250324T161300
+SUMMARY:Nuclear TigeRES Schedule · Nuclear TigeRES vs Inner Circle Esport
+ s
+DESCRIPTION:Nuclear TigeRES vs Inner Circle Esports — PGL Playoffs (CST)
+ \n\n赛事: PGL\n阶段: 季后赛\n赛制: BO1
+CATEGORIES:Nuclear TigeRES Schedule
+URL;VALUE=URI:https://www.twitch.tv/emenjay
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-135673-cs2-2025-m1149239@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250324T162500
+DTEND:20250324T172500
+SUMMARY:Nuclear TigeRES Schedule · Nuclear TigeRES @ Hesta
+DESCRIPTION:Hesta vs Nuclear TigeRES — PGL Playoffs (CST)\n\n赛事: PGL
+ \n阶段: 季后赛\n赛制: BO3
+CATEGORIES:Nuclear TigeRES Schedule
+URL;VALUE=URI:https://www.twitch.tv/fyflo
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

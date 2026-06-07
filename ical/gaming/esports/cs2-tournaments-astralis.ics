@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-astralis//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:Astralis赛程
+X-WR-CALNAME:Astralis赛程
+X-WR-CALDESC:Astralis在CS2中的比赛日程，自动同步更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-astralis-cs2-2026-iem-cologne-stage2-r1-1@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20260606T123000
+DTEND:20260606T133000
+SUMMARY:Astralis赛程 · Stage 2 瑞士轮 R1 · Astralis vs GamerLegion
+DESCRIPTION:Astralis vs GamerLegion — IEM Cologne 2026 Stage 2 瑞士轮
+ 首轮（北京时间）\n\n赛事: IEM\n赛季: 科隆 2026\n阶段: Stag
+ e 2 瑞士轮 R1\n赛制: BO3\n来源: https://bo3.gg/tournaments/iem-colo
+ gne-2026
+CATEGORIES:Astralis赛程
+URL;VALUE=URI:https://www.hltv.org/events/8464/iem-cologne-2026
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

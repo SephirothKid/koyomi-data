@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-136581//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:Minsk House Schedule
+X-WR-CALNAME:Minsk House Schedule
+X-WR-CALDESC:Minsk House schedule in CS2, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-136581-cs2-2025-m1130246@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250221T151300
+DTEND:20250221T161300
+SUMMARY:Minsk House Schedule · Minsk House vs VOLT
+DESCRIPTION:Minsk House vs VOLT — PGL Playoffs (CST)\n\n赛事: PGL\n阶
+ 段: 季后赛\n赛制: BO1
+CATEGORIES:Minsk House Schedule
+URL;VALUE=URI:https://pandascore.co/matches/1130246
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-136581-cs2-2025-m1130256@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250221T190200
+DTEND:20250221T200200
+SUMMARY:Minsk House Schedule · Minsk House @ BASEMENT BOYS
+DESCRIPTION:BASEMENT BOYS vs Minsk House — PGL Playoffs (CST)\n\n赛事:
+  PGL\n阶段: 季后赛\n赛制: BO3
+CATEGORIES:Minsk House Schedule
+URL;VALUE=URI:https://www.twitch.tv/Trottah
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-136581-cs2-2025-m1130253@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250221T165100
+DTEND:20250221T175100
+SUMMARY:Minsk House Schedule · Minsk House vs Astralis Talent
+DESCRIPTION:Minsk House vs Astralis Talent — PGL Playoffs (CST)\n\n赛
+ 事: PGL\n阶段: 季后赛\n赛制: BO3
+CATEGORIES:Minsk House Schedule
+URL;VALUE=URI:https://www.twitch.tv/Trottah
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

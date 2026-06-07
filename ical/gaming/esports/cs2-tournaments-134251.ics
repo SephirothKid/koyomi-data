@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-134251//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:Rebels Gaming赛程
+X-WR-CALNAME:Rebels Gaming赛程
+X-WR-CALDESC:Rebels Gaming在CS2中的比赛日程，自动同步更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-134251-cs2-2025-m1137335@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250307T091800
+DTEND:20250307T101800
+SUMMARY:Rebels Gaming赛程 · Group B · Rebels Gaming @ Dynamo Eclot
+DESCRIPTION:Dynamo Eclot vs Rebels Gaming — PGL Group B（北京时间
+ ）\n\n赛事: PGL\n阶段: Group B\n赛制: BO3
+CATEGORIES:Rebels Gaming赛程
+URL;VALUE=URI:https://pandascore.co/matches/1137335
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-134251-cs2-2025-m1133435@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250308T090700
+DTEND:20250308T100700
+SUMMARY:Rebels Gaming赛程 · Group B · Rebels Gaming vs 9INE
+DESCRIPTION:Rebels Gaming vs 9INE — PGL Group B（北京时间）\n\n赛
+ 事: PGL\n阶段: Group B\n赛制: BO3
+CATEGORIES:Rebels Gaming赛程
+URL;VALUE=URI:https://www.twitch.tv/9inegg
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

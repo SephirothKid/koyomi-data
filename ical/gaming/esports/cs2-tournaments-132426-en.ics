@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cs2-tournaments-132426//EN
+URL:https://koyomi.cast/sources/cs2-tournaments
+NAME:Lazer Cats Schedule
+X-WR-CALNAME:Lazer Cats Schedule
+X-WR-CALDESC:Lazer Cats schedule in CS2, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cs2-tournaments-132426-cs2-2025-m1144147@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250315T151600
+DTEND:20250315T161600
+SUMMARY:Lazer Cats Schedule · Lazer Cats @ Mercenaires
+DESCRIPTION:Mercenaires vs Lazer Cats — PGL Playoffs (CST)\n\n赛事: PG
+ L\n阶段: 季后赛\n赛制: BO1
+CATEGORIES:Lazer Cats Schedule
+URL;VALUE=URI:https://www.twitch.tv/lyonder_cast
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-132426-cs2-2025-m1144859@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250317T151000
+DTEND:20250317T161000
+SUMMARY:Lazer Cats Schedule · Lazer Cats @ RUBY
+DESCRIPTION:RUBY vs Lazer Cats — PGL Playoffs (CST)\n\n赛事: PGL\n阶
+ 段: 季后赛\n赛制: BO1
+CATEGORIES:Lazer Cats Schedule
+URL;VALUE=URI:https://www.twitch.tv/lyonder_cast
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-132426-cs2-2025-m1148529@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250322T151500
+DTEND:20250322T161500
+SUMMARY:Lazer Cats Schedule · Lazer Cats @ GenOne
+DESCRIPTION:GenOne vs Lazer Cats — PGL Playoffs (CST)\n\n赛事: PGL\n
+ 阶段: 季后赛\n赛制: BO1
+CATEGORIES:Lazer Cats Schedule
+URL;VALUE=URI:https://www.twitch.tv/krl_stream2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-132426-cs2-2025-m1148535@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260605T160000
+DTSTART:20250322T162300
+DTEND:20250322T172300
+SUMMARY:Lazer Cats Schedule · Lazer Cats vs Team Next Level
+DESCRIPTION:Lazer Cats vs Team Next Level — PGL Playoffs (CST)\n\n赛事
+ : PGL\n阶段: 季后赛\n赛制: BO3
+CATEGORIES:Lazer Cats Schedule
+URL;VALUE=URI:https://www.twitch.tv/lyonder_cast
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
