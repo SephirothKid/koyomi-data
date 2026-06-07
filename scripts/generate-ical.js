@@ -31,7 +31,16 @@ const SUBCATEGORY_MAP = {
   'us-open': 'tennis',
   // motorsport
   'f1-2026': 'motorsport',
-  // esports
+  // esports (gaming)
+  'cs2-tournaments': 'esports',
+  // gacha (gaming)
+  'genshin-impact': 'gacha',
+  'honkai-star-rail': 'gacha',
+  // platform (gaming)
+  'epic-free': 'platform',
+  'steam-sales': 'platform',
+  'console-showcases': 'platform',
+  // esports (sports)
   lpl: 'esports',
   kpl: 'esports',
 }
