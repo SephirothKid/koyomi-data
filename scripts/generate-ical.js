@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { readFileSync, readdirSync, statSync, writeFileSync, mkdirSync } from 'fs'
+import { readFileSync, readdirSync, statSync, writeFileSync, mkdirSync, unlinkSync } from 'fs'
 import { join, resolve, dirname } from 'path'
 import { fileURLToPath } from 'url'
 import ical from 'ical-generator'
@@ -9,6 +9,11 @@ const ROOT = resolve(__dirname, '..')
 const EVENTS_DIR = join(ROOT, 'events')
 const ICAL_DIR = join(ROOT, 'ical')
 const SEASONAL_FOOTBALL_SOURCE_IDS = new Set(['epl', 'bundesliga', 'laliga', 'seriea', 'ligue1', 'ucl', 'uel', 'uecl'])
+const TEAM_CALENDAR_SOURCE_IDS = new Set(['nba', 'epl', 'bundesliga', 'laliga', 'seriea', 'ligue1', 'ucl', 'uel', 'uecl'])
+const LEGACY_ICAL_ALIASES = {
+  f1: [{ id: 'f1-2026' }],
+  worldcup: [{ id: 'worldcup-2026', eventIdForUid: legacyWorldcupEventId }],
+}
 
 // source.id → subcategory 映射（用于 ical 目录细分）
 const SUBCATEGORY_MAP = {
@@ -21,7 +26,7 @@ const SUBCATEGORY_MAP = {
   ucl: 'football',
   uel: 'football',
   uecl: 'football',
-  'worldcup-2026': 'football',
+  worldcup: 'football',
   // basketball
   nba: 'basketball',
   // tennis
@@ -30,7 +35,7 @@ const SUBCATEGORY_MAP = {
   wimbledon: 'tennis',
   'us-open': 'tennis',
   // motorsport
-  'f1-2026': 'motorsport',
+  f1: 'motorsport',
   // esports (gaming)
   'cs2-tournaments': 'esports',
   // gacha (gaming)
@@ -55,6 +60,17 @@ const IS_EN = LANG === 'en'
 
 mkdirSync(ICAL_DIR, { recursive: true })
 
+function cleanGeneratedIcalFiles(dir) {
+  for (const entry of readdirSync(dir)) {
+    const fullPath = join(dir, entry)
+    if (statSync(fullPath).isDirectory()) {
+      cleanGeneratedIcalFiles(fullPath)
+    } else if (entry.endsWith('.ics')) {
+      unlinkSync(fullPath)
+    }
+  }
+}
+
 function sourceIcalDir(source) {
   const category = source.category ?? 'other'
   const subcategory = getSubcategory(source)
@@ -69,6 +85,35 @@ function writeCalendar(source, filename, calendar) {
   const content = calendar.toString()
   // 写入分类子目录
   writeFileSync(join(sourceIcalDir(source), filename), content, 'utf8')
+}
+
+function writeSourceCalendars(source, events) {
+  const calZh = createCalendar(source, events)
+  writeCalendar(source, `${source.id}.ics`, calZh)
+
+  if (source.name_en) {
+    const calEn = createCalendar(source, events, { lang: 'en' })
+    writeCalendar(source, `${source.id}-en.ics`, calEn)
+  }
+
+  for (const alias of LEGACY_ICAL_ALIASES[source.id] ?? []) {
+    const aliasZh = createCalendar(source, events, {
+      productId: alias.id,
+      url: `https://koyomi.cast/sources/${source.id}`,
+      eventIdForUid: alias.eventIdForUid,
+    })
+    writeCalendar(source, `${alias.id}.ics`, aliasZh)
+
+    if (source.name_en) {
+      const aliasEn = createCalendar(source, events, {
+        productId: alias.id,
+        url: `https://koyomi.cast/sources/${source.id}`,
+        eventIdForUid: alias.eventIdForUid,
+        lang: 'en',
+      })
+      writeCalendar(source, `${alias.id}-en.ics`, aliasEn)
+    }
+  }
 }
 
 function collectJsonFiles(dir) {
@@ -94,6 +139,12 @@ function parseEventDate(dateStr, timeStr, tzOffsetStr) {
 function stampForEvent(event) {
   const date = event.last_verified ?? event.date
   return new Date(`${date}T00:00:00+08:00`)
+}
+
+function legacyWorldcupEventId(event) {
+  return event.id
+    .replace(/^worldcup-2026-(\d{2}-\d{2}-)/, 'wc2026-2026-$1')
+    .replace(/^worldcup-2026-/, 'wc2026-')
 }
 
 function tzOffset(tz) {
@@ -276,7 +327,7 @@ function createCalendar(source, events, options = {}) {
     }
 
     cal.createEvent({
-      id: `${options.productId ?? source.id}-${event.id}@koyomi.cast`,
+      id: `${options.productId ?? source.id}-${options.eventIdForUid?.(event) ?? event.id}@koyomi.cast`,
       start,
       end,
       stamp: stampForEvent(event),
@@ -296,22 +347,16 @@ const files = collectJsonFiles(EVENTS_DIR)
 let totalEvents = 0
 let totalTeamCalendars = 0
 
+cleanGeneratedIcalFiles(ICAL_DIR)
+
 for (const file of files) {
   const source = JSON.parse(readFileSync(file, 'utf8'))
   const calendarEvents = eventsForCalendar(source)
 
-  // 生成中文 iCal
-  const calZh = createCalendar(source, calendarEvents)
   totalEvents += calendarEvents.length
-  writeCalendar(source, `${source.id}.ics`, calZh)
+  writeSourceCalendars(source, calendarEvents)
 
-  // 生成英文 iCal（如果源有英文名称）
-  if (source.name_en) {
-    const calEn = createCalendar(source, calendarEvents, { lang: 'en' })
-    writeCalendar(source, `${source.id}-en.ics`, calEn)
-  }
-
-  const teams = collectTeams(calendarEvents)
+  const teams = TEAM_CALENDAR_SOURCE_IDS.has(source.id) ? collectTeams(calendarEvents) : []
   for (const team of teams) {
     const teamEvents = calendarEvents.filter(event => eventIncludesTeam(event, team.id))
     if (teamEvents.length === 0) continue
