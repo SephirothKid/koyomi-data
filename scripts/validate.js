@@ -2,7 +2,7 @@
 // validate.js — 用 AJV 校验 events/ 下所有 JSON 文件是否符合 schema
 
 import { readFileSync, readdirSync, statSync } from 'fs'
-import { join, resolve, dirname } from 'path'
+import { basename, join, resolve, dirname } from 'path'
 import { fileURLToPath } from 'url'
 import Ajv from 'ajv'
 import addFormats from 'ajv-formats'
@@ -53,6 +53,19 @@ for (const file of files) {
     }
     errors++
   } else {
+    const expectedId = basename(file, '.json')
+    if (data.id !== expectedId) {
+      console.error(`✗ ${rel}: source id (${data.id}) 必须与文件名 (${expectedId}) 一致`)
+      errors++
+      continue
+    }
+
+    if (/-(?:19|20)\d{2}$/.test(data.id)) {
+      console.error(`✗ ${rel}: source id 不应包含年份后缀；年份应放在 events[].id 和 events[].year 中`)
+      errors++
+      continue
+    }
+
     // 额外检查：event id 不得重复
     const ids = data.events.map(e => e.id)
     const dupes = ids.filter((id, i) => ids.indexOf(id) !== i)

@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Koyomi Cast//worldcup-2026//EN
+PRODID:-//Koyomi Cast//worldcup//EN
 URL:https://koyomi.cast/sources/worldcup
 NAME:FIFA World Cup Schedule
 X-WR-CALNAME:FIFA World Cup Schedule
@@ -10,7 +10,7 @@ X-WR-CALDESC:FIFA World Cup schedule, updated continuously for current and
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-11-mexico-vs-south-africa@koyomi.cast
+UID:worldcup-worldcup-2026-06-11-mexico-vs-south-africa@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260611T190000
@@ -25,8 +25,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-11-south-korea-vs-czech-republic@koyomi.c
- ast
+UID:worldcup-worldcup-2026-06-11-south-korea-vs-czech-republic@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260612T020000
@@ -41,8 +40,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-12-canada-vs-bosnia-herzegovina@koyomi.ca
- st
+UID:worldcup-worldcup-2026-06-12-canada-vs-bosnia-herzegovina@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260612T190000
@@ -57,7 +55,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-12-usa-vs-paraguay@koyomi.cast
+UID:worldcup-worldcup-2026-06-12-usa-vs-paraguay@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260613T010000
@@ -73,7 +71,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-13-qatar-vs-switzerland@koyomi.cast
+UID:worldcup-worldcup-2026-06-13-qatar-vs-switzerland@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260613T190000
@@ -89,7 +87,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-13-brazil-vs-morocco@koyomi.cast
+UID:worldcup-worldcup-2026-06-13-brazil-vs-morocco@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260613T220000
@@ -105,7 +103,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-13-haiti-vs-scotland@koyomi.cast
+UID:worldcup-worldcup-2026-06-13-haiti-vs-scotland@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260614T010000
@@ -120,7 +118,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-13-australia-vs-turkey@koyomi.cast
+UID:worldcup-worldcup-2026-06-13-australia-vs-turkey@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260614T040000
@@ -135,7 +133,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-14-germany-vs-cura-ao@koyomi.cast
+UID:worldcup-worldcup-2026-06-14-germany-vs-cura-ao@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260614T170000
@@ -150,7 +148,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-14-netherlands-vs-japan@koyomi.cast
+UID:worldcup-worldcup-2026-06-14-netherlands-vs-japan@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260614T200000
@@ -165,7 +163,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-14-ivory-coast-vs-ecuador@koyomi.cast
+UID:worldcup-worldcup-2026-06-14-ivory-coast-vs-ecuador@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260614T230000
@@ -181,7 +179,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-14-sweden-vs-tunisia@koyomi.cast
+UID:worldcup-worldcup-2026-06-14-sweden-vs-tunisia@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260615T020000
@@ -197,7 +195,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-15-spain-vs-cape-verde@koyomi.cast
+UID:worldcup-worldcup-2026-06-15-spain-vs-cape-verde@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260615T160000
@@ -212,7 +210,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-15-belgium-vs-egypt@koyomi.cast
+UID:worldcup-worldcup-2026-06-15-belgium-vs-egypt@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260615T190000
@@ -227,7 +225,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-15-saudi-arabia-vs-uruguay@koyomi.cast
+UID:worldcup-worldcup-2026-06-15-saudi-arabia-vs-uruguay@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260615T220000
@@ -243,7 +241,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-15-iran-vs-new-zealand@koyomi.cast
+UID:worldcup-worldcup-2026-06-15-iran-vs-new-zealand@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260616T010000
@@ -259,7 +257,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-16-france-vs-senegal@koyomi.cast
+UID:worldcup-worldcup-2026-06-16-france-vs-senegal@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260616T190000
@@ -275,7 +273,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-16-iraq-vs-norway@koyomi.cast
+UID:worldcup-worldcup-2026-06-16-iraq-vs-norway@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260616T220000
@@ -290,7 +288,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-16-argentina-vs-algeria@koyomi.cast
+UID:worldcup-worldcup-2026-06-16-argentina-vs-algeria@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260617T010000
@@ -305,7 +303,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-16-austria-vs-jordan@koyomi.cast
+UID:worldcup-worldcup-2026-06-16-austria-vs-jordan@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260617T040000
@@ -321,7 +319,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-17-portugal-vs-dr-congo@koyomi.cast
+UID:worldcup-worldcup-2026-06-17-portugal-vs-dr-congo@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260617T170000
@@ -337,7 +335,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-17-england-vs-croatia@koyomi.cast
+UID:worldcup-worldcup-2026-06-17-england-vs-croatia@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260617T200000
@@ -353,7 +351,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-17-ghana-vs-panama@koyomi.cast
+UID:worldcup-worldcup-2026-06-17-ghana-vs-panama@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260617T230000
@@ -368,7 +366,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-17-uzbekistan-vs-colombia@koyomi.cast
+UID:worldcup-worldcup-2026-06-17-uzbekistan-vs-colombia@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260618T020000
@@ -384,8 +382,8 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-18-czech-republic-vs-south-africa@koyomi.
- cast
+UID:worldcup-worldcup-2026-06-18-czech-republic-vs-south-africa@koyomi.cas
+ t
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260618T160000
@@ -400,8 +398,8 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-18-switzerland-vs-bosnia-herzegovina@koyo
- mi.cast
+UID:worldcup-worldcup-2026-06-18-switzerland-vs-bosnia-herzegovina@koyomi.
+ cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260618T190000
@@ -416,7 +414,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-18-canada-vs-qatar@koyomi.cast
+UID:worldcup-worldcup-2026-06-18-canada-vs-qatar@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260618T220000
@@ -431,7 +429,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-18-mexico-vs-south-korea@koyomi.cast
+UID:worldcup-worldcup-2026-06-18-mexico-vs-south-korea@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260619T010000
@@ -447,7 +445,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-19-usa-vs-australia@koyomi.cast
+UID:worldcup-worldcup-2026-06-19-usa-vs-australia@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260619T190000
@@ -462,7 +460,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-19-scotland-vs-morocco@koyomi.cast
+UID:worldcup-worldcup-2026-06-19-scotland-vs-morocco@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260619T220000
@@ -478,7 +476,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-19-brazil-vs-haiti@koyomi.cast
+UID:worldcup-worldcup-2026-06-19-brazil-vs-haiti@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260620T003000
@@ -493,7 +491,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-19-turkey-vs-paraguay@koyomi.cast
+UID:worldcup-worldcup-2026-06-19-turkey-vs-paraguay@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260620T030000
@@ -509,7 +507,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-20-netherlands-vs-sweden@koyomi.cast
+UID:worldcup-worldcup-2026-06-20-netherlands-vs-sweden@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260620T170000
@@ -524,7 +522,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-20-germany-vs-ivory-coast@koyomi.cast
+UID:worldcup-worldcup-2026-06-20-germany-vs-ivory-coast@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260620T200000
@@ -539,7 +537,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-20-ecuador-vs-cura-ao@koyomi.cast
+UID:worldcup-worldcup-2026-06-20-ecuador-vs-cura-ao@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260621T000000
@@ -554,7 +552,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-20-tunisia-vs-japan@koyomi.cast
+UID:worldcup-worldcup-2026-06-20-tunisia-vs-japan@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260621T040000
@@ -570,7 +568,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-21-spain-vs-saudi-arabia@koyomi.cast
+UID:worldcup-worldcup-2026-06-21-spain-vs-saudi-arabia@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260621T160000
@@ -585,7 +583,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-21-belgium-vs-iran@koyomi.cast
+UID:worldcup-worldcup-2026-06-21-belgium-vs-iran@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260621T190000
@@ -601,7 +599,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-21-uruguay-vs-cape-verde@koyomi.cast
+UID:worldcup-worldcup-2026-06-21-uruguay-vs-cape-verde@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260621T220000
@@ -617,7 +615,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-21-new-zealand-vs-egypt@koyomi.cast
+UID:worldcup-worldcup-2026-06-21-new-zealand-vs-egypt@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260622T010000
@@ -632,7 +630,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-22-argentina-vs-austria@koyomi.cast
+UID:worldcup-worldcup-2026-06-22-argentina-vs-austria@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260622T170000
@@ -648,7 +646,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-22-france-vs-iraq@koyomi.cast
+UID:worldcup-worldcup-2026-06-22-france-vs-iraq@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260622T210000
@@ -663,7 +661,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-22-norway-vs-senegal@koyomi.cast
+UID:worldcup-worldcup-2026-06-22-norway-vs-senegal@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260623T000000
@@ -679,7 +677,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-22-jordan-vs-algeria@koyomi.cast
+UID:worldcup-worldcup-2026-06-22-jordan-vs-algeria@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260623T030000
@@ -695,7 +693,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-23-portugal-vs-uzbekistan@koyomi.cast
+UID:worldcup-worldcup-2026-06-23-portugal-vs-uzbekistan@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260623T170000
@@ -710,7 +708,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-23-england-vs-ghana@koyomi.cast
+UID:worldcup-worldcup-2026-06-23-england-vs-ghana@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260623T200000
@@ -725,7 +723,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-23-panama-vs-croatia@koyomi.cast
+UID:worldcup-worldcup-2026-06-23-panama-vs-croatia@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260623T230000
@@ -740,7 +738,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-23-colombia-vs-dr-congo@koyomi.cast
+UID:worldcup-worldcup-2026-06-23-colombia-vs-dr-congo@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260624T020000
@@ -756,7 +754,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-24-switzerland-vs-canada@koyomi.cast
+UID:worldcup-worldcup-2026-06-24-switzerland-vs-canada@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260624T190000
@@ -771,8 +769,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-24-bosnia-herzegovina-vs-qatar@koyomi.cas
- t
+UID:worldcup-worldcup-2026-06-24-bosnia-herzegovina-vs-qatar@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260624T190000
@@ -787,7 +784,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-24-scotland-vs-brazil@koyomi.cast
+UID:worldcup-worldcup-2026-06-24-scotland-vs-brazil@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260624T220000
@@ -803,7 +800,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-24-morocco-vs-haiti@koyomi.cast
+UID:worldcup-worldcup-2026-06-24-morocco-vs-haiti@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260624T220000
@@ -818,7 +815,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-24-czech-republic-vs-mexico@koyomi.cast
+UID:worldcup-worldcup-2026-06-24-czech-republic-vs-mexico@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260625T010000
@@ -833,8 +830,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-24-south-africa-vs-south-korea@koyomi.cas
- t
+UID:worldcup-worldcup-2026-06-24-south-africa-vs-south-korea@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260625T010000
@@ -849,7 +845,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-25-cura-ao-vs-ivory-coast@koyomi.cast
+UID:worldcup-worldcup-2026-06-25-cura-ao-vs-ivory-coast@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260625T200000
@@ -864,7 +860,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-25-ecuador-vs-germany@koyomi.cast
+UID:worldcup-worldcup-2026-06-25-ecuador-vs-germany@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260625T200000
@@ -880,7 +876,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-25-japan-vs-sweden@koyomi.cast
+UID:worldcup-worldcup-2026-06-25-japan-vs-sweden@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260625T230000
@@ -895,7 +891,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-25-tunisia-vs-netherlands@koyomi.cast
+UID:worldcup-worldcup-2026-06-25-tunisia-vs-netherlands@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260625T230000
@@ -910,7 +906,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-25-turkey-vs-usa@koyomi.cast
+UID:worldcup-worldcup-2026-06-25-turkey-vs-usa@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260626T020000
@@ -926,7 +922,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-25-paraguay-vs-australia@koyomi.cast
+UID:worldcup-worldcup-2026-06-25-paraguay-vs-australia@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260626T020000
@@ -942,7 +938,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-26-norway-vs-france@koyomi.cast
+UID:worldcup-worldcup-2026-06-26-norway-vs-france@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260626T190000
@@ -957,7 +953,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-26-senegal-vs-iraq@koyomi.cast
+UID:worldcup-worldcup-2026-06-26-senegal-vs-iraq@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260626T190000
@@ -972,7 +968,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-26-cape-verde-vs-saudi-arabia@koyomi.cast
+UID:worldcup-worldcup-2026-06-26-cape-verde-vs-saudi-arabia@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260627T000000
@@ -987,7 +983,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-26-uruguay-vs-spain@koyomi.cast
+UID:worldcup-worldcup-2026-06-26-uruguay-vs-spain@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260627T000000
@@ -1003,7 +999,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-26-egypt-vs-iran@koyomi.cast
+UID:worldcup-worldcup-2026-06-26-egypt-vs-iran@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260627T030000
@@ -1018,7 +1014,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-26-new-zealand-vs-belgium@koyomi.cast
+UID:worldcup-worldcup-2026-06-26-new-zealand-vs-belgium@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260627T030000
@@ -1033,7 +1029,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-27-panama-vs-england@koyomi.cast
+UID:worldcup-worldcup-2026-06-27-panama-vs-england@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260627T210000
@@ -1049,7 +1045,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-27-croatia-vs-ghana@koyomi.cast
+UID:worldcup-worldcup-2026-06-27-croatia-vs-ghana@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260627T210000
@@ -1064,7 +1060,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-27-colombia-vs-portugal@koyomi.cast
+UID:worldcup-worldcup-2026-06-27-colombia-vs-portugal@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260627T233000
@@ -1080,7 +1076,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-27-dr-congo-vs-uzbekistan@koyomi.cast
+UID:worldcup-worldcup-2026-06-27-dr-congo-vs-uzbekistan@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260627T233000
@@ -1096,7 +1092,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-27-algeria-vs-austria@koyomi.cast
+UID:worldcup-worldcup-2026-06-27-algeria-vs-austria@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260628T020000
@@ -1112,7 +1108,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-06-27-jordan-vs-argentina@koyomi.cast
+UID:worldcup-worldcup-2026-06-27-jordan-vs-argentina@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260628T020000
@@ -1127,7 +1123,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m73@koyomi.cast
+UID:worldcup-worldcup-2026-m73@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260628T190000
@@ -1141,7 +1137,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m76@koyomi.cast
+UID:worldcup-worldcup-2026-m76@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260629T170000
@@ -1155,7 +1151,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m74@koyomi.cast
+UID:worldcup-worldcup-2026-m74@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260629T203000
@@ -1169,7 +1165,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m75@koyomi.cast
+UID:worldcup-worldcup-2026-m75@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260630T010000
@@ -1183,7 +1179,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m78@koyomi.cast
+UID:worldcup-worldcup-2026-m78@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260630T170000
@@ -1197,7 +1193,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m77@koyomi.cast
+UID:worldcup-worldcup-2026-m77@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260630T210000
@@ -1212,7 +1208,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m79@koyomi.cast
+UID:worldcup-worldcup-2026-m79@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260701T010000
@@ -1226,7 +1222,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m80@koyomi.cast
+UID:worldcup-worldcup-2026-m80@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260701T160000
@@ -1240,7 +1236,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m82@koyomi.cast
+UID:worldcup-worldcup-2026-m82@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260701T200000
@@ -1254,7 +1250,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m81@koyomi.cast
+UID:worldcup-worldcup-2026-m81@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260702T000000
@@ -1269,7 +1265,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m84@koyomi.cast
+UID:worldcup-worldcup-2026-m84@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260702T190000
@@ -1283,7 +1279,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m83@koyomi.cast
+UID:worldcup-worldcup-2026-m83@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260702T230000
@@ -1297,7 +1293,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m85@koyomi.cast
+UID:worldcup-worldcup-2026-m85@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260703T030000
@@ -1311,7 +1307,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m88@koyomi.cast
+UID:worldcup-worldcup-2026-m88@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260703T180000
@@ -1325,7 +1321,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m86@koyomi.cast
+UID:worldcup-worldcup-2026-m86@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260703T220000
@@ -1339,7 +1335,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m87@koyomi.cast
+UID:worldcup-worldcup-2026-m87@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260704T013000
@@ -1353,7 +1349,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m90@koyomi.cast
+UID:worldcup-worldcup-2026-m90@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260704T170000
@@ -1367,7 +1363,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m89@koyomi.cast
+UID:worldcup-worldcup-2026-m89@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260704T210000
@@ -1381,7 +1377,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m91@koyomi.cast
+UID:worldcup-worldcup-2026-m91@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260705T200000
@@ -1395,7 +1391,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m92@koyomi.cast
+UID:worldcup-worldcup-2026-m92@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260706T000000
@@ -1409,7 +1405,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m93@koyomi.cast
+UID:worldcup-worldcup-2026-m93@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260706T190000
@@ -1423,7 +1419,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m94@koyomi.cast
+UID:worldcup-worldcup-2026-m94@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260707T000000
@@ -1437,7 +1433,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m95@koyomi.cast
+UID:worldcup-worldcup-2026-m95@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260707T160000
@@ -1451,7 +1447,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m96@koyomi.cast
+UID:worldcup-worldcup-2026-m96@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260707T200000
@@ -1465,7 +1461,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m97@koyomi.cast
+UID:worldcup-worldcup-2026-m97@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260709T200000
@@ -1479,7 +1475,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m98@koyomi.cast
+UID:worldcup-worldcup-2026-m98@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260710T190000
@@ -1493,7 +1489,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m99@koyomi.cast
+UID:worldcup-worldcup-2026-m99@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260711T210000
@@ -1507,7 +1503,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m100@koyomi.cast
+UID:worldcup-worldcup-2026-m100@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260712T010000
@@ -1521,7 +1517,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m101@koyomi.cast
+UID:worldcup-worldcup-2026-m101@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260714T190000
@@ -1535,7 +1531,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-m102@koyomi.cast
+UID:worldcup-worldcup-2026-m102@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260715T190000
@@ -1549,7 +1545,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-07-18-l101-vs-l102@koyomi.cast
+UID:worldcup-worldcup-2026-07-18-l101-vs-l102@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260718T210000
@@ -1563,7 +1559,7 @@ URL;VALUE=URI:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:worldcup-2026-wc2026-2026-07-19-w101-vs-w102@koyomi.cast
+UID:worldcup-worldcup-2026-07-19-w101-vs-w102@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260528T160000
 DTSTART:20260719T190000
