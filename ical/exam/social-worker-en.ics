@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//social-worker//EN
+URL:https://koyomi.cast/sources/social-worker
+NAME:Social Worker Professional Qualification Exam
+X-WR-CALNAME:Social Worker Professional Qualification Exam
+X-WR-CALDESC:Key dates for junior, intermediate, and senior social worker 
+ professional qualification exams.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:social-worker-social-worker-2026-registration@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260609T000000
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260331
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Social Worker Professional Qualification Exam · 社会工作者
+ 报名
+DESCRIPTION:社会工作者职业资格考试报名窗口，各地具体
+ 时间以当地人事考试机构公告为准。
+CATEGORIES:Social Worker Professional Qualification Exam
+URL;VALUE=URI:https://www.cpta.com.cn
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:social-worker-social-worker-2026-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260609T000000
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260525
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Social Worker Professional Qualification Exam · 社会工作者
+ 考试
+DESCRIPTION:社会工作者职业资格初级、中级、高级考试。
+CATEGORIES:Social Worker Professional Qualification Exam
+URL;VALUE=URI:https://www.cpta.com.cn
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:social-worker-social-worker-2026-results@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260609T000000
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Social Worker Professional Qualification Exam · 社会工作者
+ 成绩查询
+DESCRIPTION:成绩计划在 2026 年 7 月下旬发布，具体以中国
+ 人事考试网通知为准。
+CATEGORIES:Social Worker Professional Qualification Exam
+URL;VALUE=URI:https://www.cpta.com.cn
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

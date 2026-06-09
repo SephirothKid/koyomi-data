@@ -1,0 +1,106 @@
+{
+  "id": "nurse-qualification",
+  "name": "护士执业资格考试",
+  "category": "exam",
+  "name_en": "Nurse Licensure Examination",
+  "subcategory": "医药卫生",
+  "subcategory_en": "Healthcare",
+  "exam_classification": {
+    "audiences": [
+      "student",
+      "professional"
+    ],
+    "tracks": [
+      "healthcare"
+    ]
+  },
+  "description": "护士执业资格考试报名、准考证、考试和成绩节点。",
+  "description_en": "Key registration, admission ticket, exam, and score release dates for the nurse licensure exam.",
+  "icon": "/logos/exam/official-exam.png",
+  "tags": [
+    "护士",
+    "护理",
+    "执业资格"
+  ],
+  "tags_en": [
+    "Nurse",
+    "Healthcare"
+  ],
+  "maintainer": "community",
+  "source_url": "https://www.21wecan.com",
+  "subscriber_count": 27600,
+  "rating": 4.6,
+  "rating_count": 290,
+  "events": [
+    {
+      "id": "nurse-qualification-2026-registration",
+      "name": "2026年护士执业资格考试报名",
+      "date": "2025-12-09",
+      "end_date": "2025-12-22",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2025,
+      "description": "网上预报名窗口，各考区现场确认安排不同，以当地通知为准。",
+      "url": "https://www.21wecan.com",
+      "status": "completed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "nurse-qualification-2026-payment",
+      "name": "2026年护士执业资格考试缴费",
+      "date": "2026-02-04",
+      "end_date": "2026-02-13",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "通过资格审核的考生完成网上缴费。",
+      "url": "https://www.21wecan.com",
+      "status": "completed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "nurse-qualification-2026-admission-ticket",
+      "name": "2026年护士执业资格准考证打印",
+      "date": "2026-04-01",
+      "end_date": "2026-04-12",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "准考证打印开放期。",
+      "url": "https://www.21wecan.com",
+      "status": "completed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "nurse-qualification-2026-exam",
+      "name": "2026年护士执业资格考试",
+      "date": "2026-04-11",
+      "end_date": "2026-04-12",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "护士执业资格考试，采用人机对话方式，具体轮次以准考证为准。",
+      "url": "https://www.21wecan.com",
+      "status": "completed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "nurse-qualification-2026-results",
+      "name": "2026年护士执业资格成绩查询",
+      "date": "2026-06-15",
+      "timezone": "Asia/Shanghai",
+      "type": "announcement",
+      "year": 2026,
+      "description": "成绩通常于考后约 45 个工作日公布，具体以国家卫生健康委人才交流服务中心官网为准。",
+      "url": "https://www.21wecan.com",
+      "status": "planned",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    }
+  ],
+  "last_updated": "2026-06-09"
+}

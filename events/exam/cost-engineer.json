@@ -1,0 +1,63 @@
+{
+  "id": "cost-engineer",
+  "name": "造价工程师",
+  "category": "exam",
+  "name_en": "Cost Engineer Qualification Exam",
+  "subcategory": "工程建设",
+  "subcategory_en": "Engineering & Construction",
+  "exam_classification": {
+    "audiences": [
+      "professional"
+    ],
+    "tracks": [
+      "engineering-construction"
+    ]
+  },
+  "description": "一级和二级造价工程师考试关键日期。",
+  "description_en": "Key dates for first-class and second-class cost engineer exams.",
+  "icon": "/logos/exam/official-exam.png",
+  "tags": [
+    "造价工程师",
+    "工程造价",
+    "职业资格"
+  ],
+  "tags_en": [
+    "Cost Engineer",
+    "Construction"
+  ],
+  "maintainer": "community",
+  "source_url": "https://www.cpta.com.cn",
+  "subscriber_count": 30400,
+  "rating": 4.6,
+  "rating_count": 330,
+  "events": [
+    {
+      "id": "cost-engineer-2026-second-class-exam",
+      "name": "2026年二级造价工程师考试",
+      "date": "2026-06-13",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "二级造价工程师考试常见考试日期，具体以各地考试机构公告为准。",
+      "url": "https://www.cpta.com.cn",
+      "status": "confirmed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "cost-engineer-2026-first-class-exam",
+      "name": "2026年一级造价工程师考试",
+      "date": "2026-10-17",
+      "end_date": "2026-10-18",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "一级造价工程师职业资格考试。",
+      "url": "https://www.cpta.com.cn",
+      "status": "confirmed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    }
+  ],
+  "last_updated": "2026-06-09"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "fire-engineer",
+  "name": "一级注册消防工程师",
+  "category": "exam",
+  "name_en": "First-Class Fire Protection Engineer Exam",
+  "subcategory": "工程建设",
+  "subcategory_en": "Engineering & Construction",
+  "exam_classification": {
+    "audiences": [
+      "professional"
+    ],
+    "tracks": [
+      "engineering-construction"
+    ]
+  },
+  "description": "一级注册消防工程师资格考试关键日期。",
+  "description_en": "Key dates for the first-class fire protection engineer exam.",
+  "icon": "/logos/exam/official-exam.png",
+  "tags": [
+    "消防工程师",
+    "一消",
+    "工程"
+  ],
+  "tags_en": [
+    "Fire Engineer",
+    "Construction"
+  ],
+  "maintainer": "community",
+  "source_url": "https://www.cpta.com.cn",
+  "subscriber_count": 22300,
+  "rating": 4.6,
+  "rating_count": 240,
+  "events": [
+    {
+      "id": "fire-engineer-2026-registration",
+      "name": "2026年一级消防工程师报名",
+      "date": "2026-08-24",
+      "end_date": "2026-09-14",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "一级注册消防工程师报名窗口，各省具体时间以当地人事考试机构公告为准。",
+      "url": "https://www.cpta.com.cn",
+      "status": "planned",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "fire-engineer-2026-exam",
+      "name": "2026年一级消防工程师考试",
+      "date": "2026-11-07",
+      "end_date": "2026-11-08",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "一级注册消防工程师资格考试。",
+      "url": "https://www.cpta.com.cn",
+      "status": "confirmed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    }
+  ],
+  "last_updated": "2026-06-09"
+}

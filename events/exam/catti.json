@@ -1,0 +1,81 @@
+{
+  "id": "catti",
+  "name": "翻译专业资格考试",
+  "category": "exam",
+  "name_en": "China Accreditation Test for Translators and Interpreters",
+  "subcategory": "语言考试",
+  "subcategory_en": "Language Exams",
+  "exam_classification": {
+    "audiences": [
+      "student",
+      "professional"
+    ],
+    "tracks": [
+      "language-translation"
+    ]
+  },
+  "description": "全国翻译专业资格（水平）考试口译和笔译关键日期。",
+  "description_en": "Key dates for the China Accreditation Test for Translators and Interpreters.",
+  "icon": "/logos/exam/official-exam.png",
+  "tags": [
+    "CATTI",
+    "翻译",
+    "口译",
+    "笔译"
+  ],
+  "tags_en": [
+    "CATTI",
+    "Translation",
+    "Interpretation"
+  ],
+  "maintainer": "community",
+  "source_url": "https://www.cpta.com.cn",
+  "subscriber_count": 21600,
+  "rating": 4.6,
+  "rating_count": 230,
+  "events": [
+    {
+      "id": "catti-2026-registration",
+      "name": "2026年CATTI报名",
+      "date": "2026-04-13",
+      "end_date": "2026-04-27",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "各地报名时间略有差异，以当地人事考试机构报名公告为准。",
+      "url": "https://www.cpta.com.cn",
+      "status": "completed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "catti-2026-admission-ticket",
+      "name": "2026年CATTI准考证打印",
+      "date": "2026-06-23",
+      "end_date": "2026-06-26",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "准考证打印开放期，各地时间略有差异。",
+      "url": "https://www.cpta.com.cn",
+      "status": "confirmed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "catti-2026-exam",
+      "name": "2026年CATTI考试",
+      "date": "2026-06-27",
+      "end_date": "2026-06-28",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "翻译专业资格（水平）考试，分口译和笔译类别。",
+      "url": "https://www.cpta.com.cn",
+      "status": "confirmed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    }
+  ],
+  "last_updated": "2026-06-09"
+}

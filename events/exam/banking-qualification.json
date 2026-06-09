@@ -1,0 +1,64 @@
+{
+  "id": "banking-qualification",
+  "name": "银行业专业人员职业资格",
+  "category": "exam",
+  "name_en": "Banking Professional Qualification Exam",
+  "subcategory": "金融",
+  "subcategory_en": "Finance",
+  "exam_classification": {
+    "audiences": [
+      "professional"
+    ],
+    "tracks": [
+      "finance-accounting"
+    ]
+  },
+  "description": "银行业专业人员初级和中级职业资格考试上下半年考试时间。",
+  "description_en": "Key dates for junior and intermediate banking professional qualification exams.",
+  "icon": "/logos/exam/official-exam.png",
+  "tags": [
+    "银行从业",
+    "银行业",
+    "金融"
+  ],
+  "tags_en": [
+    "Banking",
+    "Finance"
+  ],
+  "maintainer": "community",
+  "source_url": "https://www.china-cba.net",
+  "subscriber_count": 25900,
+  "rating": 4.6,
+  "rating_count": 270,
+  "events": [
+    {
+      "id": "banking-qualification-2026-h1-exam",
+      "name": "2026上半年银行业职业资格考试",
+      "date": "2026-06-13",
+      "end_date": "2026-06-14",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "上半年银行业专业人员初级和中级职业资格考试。",
+      "url": "https://www.china-cba.net",
+      "status": "confirmed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "banking-qualification-2026-h2-exam",
+      "name": "2026下半年银行业职业资格考试",
+      "date": "2026-10-24",
+      "end_date": "2026-10-25",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "下半年银行业专业人员初级和中级职业资格考试。",
+      "url": "https://www.china-cba.net",
+      "status": "confirmed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    }
+  ],
+  "last_updated": "2026-06-09"
+}

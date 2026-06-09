@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//patent-agent//EN
+URL:https://koyomi.cast/sources/patent-agent
+NAME:Patent Agent Qualification Exam
+X-WR-CALNAME:Patent Agent Qualification Exam
+X-WR-CALDESC:Key dates for the patent agent qualification exam.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:patent-agent-patent-agent-2026-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260609T000000
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260706
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Patent Agent Qualification Exam · 专利代理师资格考试
+DESCRIPTION:专利代理师资格考试。
+CATEGORIES:Patent Agent Qualification Exam
+URL;VALUE=URI:https://www.cnipa.gov.cn
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:patent-agent-patent-agent-2026-results@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260609T000000
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Patent Agent Qualification Exam · 专利代理师成绩查询
+DESCRIPTION:成绩查询时间以国家知识产权局和考试系统公
+ 告为准。
+CATEGORIES:Patent Agent Qualification Exam
+URL;VALUE=URI:https://www.cnipa.gov.cn
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

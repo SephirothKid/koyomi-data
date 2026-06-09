@@ -1,0 +1,79 @@
+{
+  "id": "ncre",
+  "name": "全国计算机等级考试",
+  "category": "exam",
+  "name_en": "National Computer Rank Examination",
+  "subcategory": "校园证书",
+  "subcategory_en": "Campus Certificates",
+  "exam_classification": {
+    "audiences": [
+      "student",
+      "professional"
+    ],
+    "tracks": [
+      "it"
+    ]
+  },
+  "description": "全国计算机等级考试（NCRE）考试、报名和成绩查询提醒。",
+  "description_en": "Key NCRE exam windows, registration, and score release reminders.",
+  "icon": "/logos/exam/official-exam.png",
+  "tags": [
+    "NCRE",
+    "计算机等级",
+    "证书"
+  ],
+  "tags_en": [
+    "NCRE",
+    "Computer",
+    "Certificate"
+  ],
+  "maintainer": "community",
+  "source_url": "https://ncre.neea.edu.cn",
+  "subscriber_count": 31900,
+  "rating": 4.6,
+  "rating_count": 340,
+  "events": [
+    {
+      "id": "ncre-2026-march-exam",
+      "name": "2026年3月全国计算机等级考试",
+      "date": "2026-03-28",
+      "end_date": "2026-03-30",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "3 月全国计算机等级考试。报名期和开考级别以各省报名公告为准。",
+      "url": "https://ncre.neea.edu.cn",
+      "status": "completed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "ncre-2026-march-results",
+      "name": "2026年3月NCRE成绩查询",
+      "date": "2026-05-10",
+      "timezone": "Asia/Shanghai",
+      "type": "announcement",
+      "year": 2026,
+      "description": "成绩查询通常于考试后约 30 个工作日开放，具体以中国教育考试网公告为准。",
+      "url": "https://ncre.neea.edu.cn",
+      "status": "completed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "ncre-2026-september-exam",
+      "name": "2026年9月全国计算机等级考试",
+      "date": "2026-09-19",
+      "end_date": "2026-09-21",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "9 月全国计算机等级考试。报名期和开考级别以各省报名公告为准。",
+      "url": "https://ncre.neea.edu.cn",
+      "status": "planned",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    }
+  ],
+  "last_updated": "2026-06-09"
+}

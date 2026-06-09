@@ -1,0 +1,91 @@
+{
+  "id": "accounting-qualification",
+  "name": "会计专业技术资格",
+  "category": "exam",
+  "name_en": "Accounting Professional Qualification Exam",
+  "subcategory": "财会",
+  "subcategory_en": "Finance & Accounting",
+  "exam_classification": {
+    "audiences": [
+      "professional"
+    ],
+    "tracks": [
+      "finance-accounting"
+    ]
+  },
+  "description": "初级、中级、高级会计专业技术资格考试关键日期。",
+  "description_en": "Key dates for junior, intermediate, and senior accounting qualification exams.",
+  "icon": "/logos/exam/official-exam.png",
+  "tags": [
+    "初级会计",
+    "中级会计",
+    "高级会计",
+    "职称"
+  ],
+  "tags_en": [
+    "Accounting",
+    "Professional Title"
+  ],
+  "maintainer": "community",
+  "source_url": "http://kzp.mof.gov.cn",
+  "subscriber_count": 44600,
+  "rating": 4.8,
+  "rating_count": 470,
+  "events": [
+    {
+      "id": "accounting-qualification-2026-senior-exam",
+      "name": "2026年高级会计考试",
+      "date": "2026-05-16",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "高级会计专业技术资格考试。",
+      "url": "http://kzp.mof.gov.cn",
+      "status": "completed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "accounting-qualification-2026-junior-exam",
+      "name": "2026年初级会计考试",
+      "date": "2026-05-16",
+      "end_date": "2026-05-18",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "初级会计专业技术资格考试。",
+      "url": "http://kzp.mof.gov.cn",
+      "status": "completed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "accounting-qualification-2026-intermediate-exam",
+      "name": "2026年中级会计考试",
+      "date": "2026-09-05",
+      "end_date": "2026-09-06",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "中级会计专业技术资格考试。",
+      "url": "http://kzp.mof.gov.cn",
+      "status": "confirmed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "accounting-qualification-2026-intermediate-results",
+      "name": "2026年中级会计成绩查询",
+      "date": "2026-10-31",
+      "timezone": "Asia/Shanghai",
+      "type": "announcement",
+      "year": 2026,
+      "description": "中级会计成绩预计 10 月底前公布，具体以全国会计资格评价网通知为准。",
+      "url": "http://kzp.mof.gov.cn",
+      "status": "planned",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    }
+  ],
+  "last_updated": "2026-06-09"
+}

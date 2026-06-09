@@ -1,0 +1,77 @@
+{
+  "id": "adult-gaokao",
+  "name": "成人高考",
+  "category": "exam",
+  "name_en": "Adult College Entrance Exam",
+  "subcategory": "升学",
+  "subcategory_en": "Admissions",
+  "exam_classification": {
+    "audiences": [
+      "professional"
+    ],
+    "tracks": [
+      "admissions"
+    ]
+  },
+  "description": "成人高校招生全国统一考试关键节点，包含报名、考试和成绩查询提醒。",
+  "description_en": "Key dates for China adult college entrance exam.",
+  "icon": "/logos/exam/official-exam.png",
+  "tags": [
+    "成考",
+    "成人高考",
+    "学历提升"
+  ],
+  "tags_en": [
+    "Adult Gaokao",
+    "Continuing Education"
+  ],
+  "maintainer": "community",
+  "source_url": "https://www.neea.edu.cn",
+  "subscriber_count": 19600,
+  "rating": 4.6,
+  "rating_count": 210,
+  "events": [
+    {
+      "id": "adult-gaokao-2026-registration",
+      "name": "2026年成人高考报名",
+      "date": "2026-09-01",
+      "end_date": "2026-09-10",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "成人高考报名时间由各省级招生考试机构发布，此处为常见报名窗口提醒。",
+      "url": "https://www.neea.edu.cn",
+      "status": "planned",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "adult-gaokao-2026-exam",
+      "name": "2026年成人高考",
+      "date": "2026-10-17",
+      "end_date": "2026-10-18",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "成人高校招生全国统一考试，具体科目时间以准考证和本省公告为准。",
+      "url": "https://www.neea.edu.cn",
+      "status": "planned",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "adult-gaokao-2026-results",
+      "name": "2026年成人高考成绩查询",
+      "date": "2026-11-20",
+      "timezone": "Asia/Shanghai",
+      "type": "announcement",
+      "year": 2026,
+      "description": "成绩通常于 11 月下旬陆续公布，具体以各省级招生考试机构公告为准。",
+      "url": "https://www.neea.edu.cn",
+      "status": "planned",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    }
+  ],
+  "last_updated": "2026-06-09"
+}

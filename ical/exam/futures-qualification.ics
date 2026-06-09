@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//futures-qualification//EN
+URL:https://koyomi.cast/sources/futures-qualification
+NAME:期货从业人员资格考试
+X-WR-CALNAME:期货从业人员资格考试
+X-WR-CALDESC:期货从业人员资格统一考试和专场考试提醒。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:futures-qualification-futures-qualification-2026-unified-exam@koyomi.c
+ ast
+SEQUENCE:0
+DTSTAMP:20260609T000000
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:期货从业人员资格考试 · 期货从业统一考试
+DESCRIPTION:期货从业人员资格统一考试，面向社会人员和
+ 机构报考。
+CATEGORIES:期货从业人员资格考试
+URL;VALUE=URI:https://www.cfachina.org
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:futures-qualification-futures-qualification-2026-special-september@koy
+ omi.cast
+SEQUENCE:0
+DTSTAMP:20260609T000000
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:期货从业人员资格考试 · 年9月期货从业专场考试
+DESCRIPTION:期货从业人员资格专场考试，面向期货经营机
+ 构报考，具体以协会公告为准。
+CATEGORIES:期货从业人员资格考试
+URL;VALUE=URI:https://www.cfachina.org
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:futures-qualification-futures-qualification-2026-special-november@koyo
+ mi.cast
+SEQUENCE:0
+DTSTAMP:20260609T000000
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:期货从业人员资格考试 · 年11月期货从业专场考试
+DESCRIPTION:期货从业人员资格专场考试，面向期货经营机
+ 构报考，具体以协会公告为准。
+CATEGORIES:期货从业人员资格考试
+URL;VALUE=URI:https://www.cfachina.org
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,79 @@
+{
+  "id": "national-college-entrance-exam",
+  "name": "高考",
+  "category": "exam",
+  "name_en": "National College Entrance Exam",
+  "subcategory": "升学",
+  "subcategory_en": "Admissions",
+  "exam_classification": {
+    "audiences": [
+      "student"
+    ],
+    "tracks": [
+      "admissions"
+    ]
+  },
+  "description": "普通高等学校招生全国统一考试关键节点，包括全国统考、成绩公布和志愿填报提醒。",
+  "description_en": "Key dates for China National College Entrance Exam, including exam days, score release, and application reminders.",
+  "icon": "/logos/exam/official-exam.png",
+  "tags": [
+    "高考",
+    "升学",
+    "志愿填报",
+    "成绩查询"
+  ],
+  "tags_en": [
+    "Gaokao",
+    "Admissions",
+    "Score Release"
+  ],
+  "maintainer": "community",
+  "source_url": "https://gaokao.chsi.com.cn",
+  "subscriber_count": 68100,
+  "rating": 4.9,
+  "rating_count": 760,
+  "events": [
+    {
+      "id": "national-college-entrance-exam-2026-exam",
+      "name": "2026年高考全国统考",
+      "date": "2026-06-07",
+      "end_date": "2026-06-08",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "普通高等学校招生全国统一考试。部分省份考试科目和结束日期以当地招生考试机构安排为准。",
+      "url": "https://gaokao.chsi.com.cn",
+      "status": "completed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "national-college-entrance-exam-2026-results",
+      "name": "2026年高考成绩公布",
+      "date": "2026-06-23",
+      "timezone": "Asia/Shanghai",
+      "type": "announcement",
+      "year": 2026,
+      "description": "各省份高考成绩通常自 6 月下旬陆续公布，具体时间以省级招生考试机构公告为准。",
+      "url": "https://gaokao.chsi.com.cn",
+      "status": "planned",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "national-college-entrance-exam-2026-applications",
+      "name": "2026年高考志愿填报",
+      "date": "2026-06-26",
+      "end_date": "2026-07-05",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "各省份志愿填报批次和时间不同，以本省招生考试机构发布的志愿填报安排为准。",
+      "url": "https://gaokao.chsi.com.cn",
+      "status": "planned",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    }
+  ],
+  "last_updated": "2026-06-09"
+}

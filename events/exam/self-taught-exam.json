@@ -1,0 +1,65 @@
+{
+  "id": "self-taught-exam",
+  "name": "自学考试",
+  "category": "exam",
+  "name_en": "Self-Taught Higher Education Exam",
+  "subcategory": "升学",
+  "subcategory_en": "Admissions",
+  "exam_classification": {
+    "audiences": [
+      "student",
+      "professional"
+    ],
+    "tracks": [
+      "admissions"
+    ]
+  },
+  "description": "高等教育自学考试全国统考关键节点，覆盖上半年和下半年考试期。",
+  "description_en": "Key national test windows for the self-taught higher education exam.",
+  "icon": "/logos/exam/official-exam.png",
+  "tags": [
+    "自考",
+    "学历",
+    "继续教育"
+  ],
+  "tags_en": [
+    "Self-Taught Exam",
+    "Continuing Education"
+  ],
+  "maintainer": "community",
+  "source_url": "https://zikao.neea.edu.cn",
+  "subscriber_count": 23800,
+  "rating": 4.6,
+  "rating_count": 260,
+  "events": [
+    {
+      "id": "self-taught-exam-2026-h1-exam",
+      "name": "2026上半年自学考试全国统考",
+      "date": "2026-04-11",
+      "end_date": "2026-04-12",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "上半年高等教育自学考试全国统考。开考课程和报名期以各省教育考试院公告为准。",
+      "url": "https://zikao.neea.edu.cn",
+      "status": "completed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "self-taught-exam-2026-h2-exam",
+      "name": "2026下半年自学考试全国统考",
+      "date": "2026-10-24",
+      "end_date": "2026-10-25",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "下半年高等教育自学考试全国统考。开考课程和报名期以各省教育考试院公告为准。",
+      "url": "https://zikao.neea.edu.cn",
+      "status": "planned",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    }
+  ],
+  "last_updated": "2026-06-09"
+}

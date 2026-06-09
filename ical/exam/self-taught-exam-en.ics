@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//self-taught-exam//EN
+URL:https://koyomi.cast/sources/self-taught-exam
+NAME:Self-Taught Higher Education Exam
+X-WR-CALNAME:Self-Taught Higher Education Exam
+X-WR-CALDESC:Key national test windows for the self-taught higher educatio
+ n exam.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:self-taught-exam-self-taught-exam-2026-h1-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260609T000000
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260413
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Self-Taught Higher Education Exam · 上半年自学考试全国
+ 统考
+DESCRIPTION:上半年高等教育自学考试全国统考。开考课程
+ 和报名期以各省教育考试院公告为准。
+CATEGORIES:Self-Taught Higher Education Exam
+URL;VALUE=URI:https://zikao.neea.edu.cn
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:self-taught-exam-self-taught-exam-2026-h2-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260609T000000
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Self-Taught Higher Education Exam · 下半年自学考试全国
+ 统考
+DESCRIPTION:下半年高等教育自学考试全国统考。开考课程
+ 和报名期以各省教育考试院公告为准。
+CATEGORIES:Self-Taught Higher Education Exam
+URL;VALUE=URI:https://zikao.neea.edu.cn
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

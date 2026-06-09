@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//supervision-engineer//EN
+URL:https://koyomi.cast/sources/supervision-engineer
+NAME:监理工程师
+X-WR-CALNAME:监理工程师
+X-WR-CALDESC:监理工程师职业资格考试关键日期。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:supervision-engineer-supervision-engineer-2026-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260609T000000
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260518
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:监理工程师 · 监理工程师考试
+DESCRIPTION:监理工程师职业资格考试。
+CATEGORIES:监理工程师
+URL;VALUE=URI:https://www.cpta.com.cn
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

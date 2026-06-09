@@ -1,0 +1,50 @@
+{
+  "id": "second-class-constructor",
+  "name": "二级建造师",
+  "category": "exam",
+  "name_en": "Second-Class Constructor Exam",
+  "subcategory": "工程建设",
+  "subcategory_en": "Engineering & Construction",
+  "exam_classification": {
+    "audiences": [
+      "professional"
+    ],
+    "tracks": [
+      "engineering-construction"
+    ]
+  },
+  "description": "二级建造师考试关键日期。二建由各地组织，具体报名和科目安排以当地住建、人事考试机构公告为准。",
+  "description_en": "Key dates for the second-class constructor exam. Local arrangements vary by province.",
+  "icon": "/logos/exam/official-exam.png",
+  "tags": [
+    "二建",
+    "建造师",
+    "工程"
+  ],
+  "tags_en": [
+    "Constructor",
+    "Construction"
+  ],
+  "maintainer": "community",
+  "source_url": "https://www.cpta.com.cn",
+  "subscriber_count": 39200,
+  "rating": 4.8,
+  "rating_count": 410,
+  "events": [
+    {
+      "id": "second-class-constructor-2026-exam",
+      "name": "2026年二级建造师考试",
+      "date": "2026-05-30",
+      "end_date": "2026-05-31",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "二级建造师考试常见全国集中考试窗口，具体以各省公告和准考证为准。",
+      "url": "https://www.cpta.com.cn",
+      "status": "completed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    }
+  ],
+  "last_updated": "2026-06-09"
+}

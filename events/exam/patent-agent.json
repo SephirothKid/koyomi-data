@@ -1,0 +1,63 @@
+{
+  "id": "patent-agent",
+  "name": "专利代理师",
+  "category": "exam",
+  "name_en": "Patent Agent Qualification Exam",
+  "subcategory": "法律",
+  "subcategory_en": "Law",
+  "exam_classification": {
+    "audiences": [
+      "professional"
+    ],
+    "tracks": [
+      "law"
+    ]
+  },
+  "description": "专利代理师资格考试关键日期。",
+  "description_en": "Key dates for the patent agent qualification exam.",
+  "icon": "/logos/exam/official-exam.png",
+  "tags": [
+    "专利代理师",
+    "知识产权",
+    "法律"
+  ],
+  "tags_en": [
+    "Patent Agent",
+    "Intellectual Property"
+  ],
+  "maintainer": "community",
+  "source_url": "https://www.cnipa.gov.cn",
+  "subscriber_count": 12600,
+  "rating": 4.6,
+  "rating_count": 140,
+  "events": [
+    {
+      "id": "patent-agent-2026-exam",
+      "name": "2026年专利代理师资格考试",
+      "date": "2026-07-04",
+      "end_date": "2026-07-05",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "专利代理师资格考试。",
+      "url": "https://www.cnipa.gov.cn",
+      "status": "confirmed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "patent-agent-2026-results",
+      "name": "2026年专利代理师成绩查询",
+      "date": "2026-08-31",
+      "timezone": "Asia/Shanghai",
+      "type": "announcement",
+      "year": 2026,
+      "description": "成绩查询时间以国家知识产权局和考试系统公告为准。",
+      "url": "https://www.cnipa.gov.cn",
+      "status": "planned",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    }
+  ],
+  "last_updated": "2026-06-09"
+}

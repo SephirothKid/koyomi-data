@@ -1,0 +1,77 @@
+{
+  "id": "securities-qualification",
+  "name": "证券行业专业人员水平评价",
+  "category": "exam",
+  "name_en": "Securities Industry Professional Test",
+  "subcategory": "金融",
+  "subcategory_en": "Finance",
+  "exam_classification": {
+    "audiences": [
+      "professional"
+    ],
+    "tracks": [
+      "finance-accounting"
+    ]
+  },
+  "description": "证券行业专业人员水平评价统一测试关键时间节点。",
+  "description_en": "Key dates for the securities industry professional competency tests.",
+  "icon": "/logos/exam/official-exam.png",
+  "tags": [
+    "证券",
+    "从业",
+    "金融"
+  ],
+  "tags_en": [
+    "Securities",
+    "Finance"
+  ],
+  "maintainer": "community",
+  "source_url": "https://ks.sac.net.cn",
+  "subscriber_count": 26800,
+  "rating": 4.6,
+  "rating_count": 280,
+  "events": [
+    {
+      "id": "securities-qualification-2026-june-registration",
+      "name": "2026年6月证券水平评价报名",
+      "date": "2026-06-02",
+      "end_date": "2026-06-09",
+      "time": "15:00",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "6 月统一测试报名和缴费窗口。",
+      "url": "https://ks.sac.net.cn",
+      "status": "active",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "securities-qualification-2026-june-exam",
+      "name": "2026年6月证券水平评价统一测试",
+      "date": "2026-06-27",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "证券行业专业人员水平评价统一测试。",
+      "url": "https://ks.sac.net.cn",
+      "status": "confirmed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "securities-qualification-2026-september-exam",
+      "name": "2026年9月证券水平评价统一测试",
+      "date": "2026-09-19",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "证券行业专业人员水平评价统一测试，具体以中国证券业协会公告为准。",
+      "url": "https://ks.sac.net.cn",
+      "status": "planned",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    }
+  ],
+  "last_updated": "2026-06-09"
+}

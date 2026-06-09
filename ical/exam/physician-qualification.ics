@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//physician-qualification//EN
+URL:https://koyomi.cast/sources/physician-qualification
+NAME:医师资格考试
+X-WR-CALNAME:医师资格考试
+X-WR-CALDESC:国家医师资格考试报名、实践技能、医学综合
+ 考试和二试节点。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:physician-qualification-physician-qualification-2026-registration@koyo
+ mi.cast
+SEQUENCE:0
+DTSTAMP:20260609T000000
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260212
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:医师资格考试 · 医师资格考试报名
+DESCRIPTION:医师资格考试网上报名窗口，各地资格审核和
+ 缴费安排以考区通知为准。
+CATEGORIES:医师资格考试
+URL;VALUE=URI:https://www.nmec.org.cn
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:physician-qualification-physician-qualification-2026-practical-skills@
+ koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260609T000000
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260618
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:医师资格考试 · 医师资格实践技能考试
+DESCRIPTION:实践技能考试由各省级医师资格考试领导小组
+ 组织实施，具体类别和时间以准考证为准。
+CATEGORIES:医师资格考试
+URL;VALUE=URI:https://www.nmec.org.cn
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:physician-qualification-physician-qualification-2026-comprehensive-exa
+ m@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260609T000000
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260824
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:医师资格考试 · 医师资格医学综合考试
+DESCRIPTION:医学综合考试第一试，具体类别和场次以国家
+ 医学考试网公告和准考证为准。
+CATEGORIES:医师资格考试
+URL;VALUE=URI:https://www.nmec.org.cn
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:physician-qualification-physician-qualification-2026-second-sitting@ko
+ yomi.cast
+SEQUENCE:0
+DTSTAMP:20260609T000000
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:医师资格考试 · 医师资格医学综合二试
+DESCRIPTION:医学综合考试第二试，是否开考和报考范围以
+ 当年公告为准。
+CATEGORIES:医师资格考试
+URL;VALUE=URI:https://www.nmec.org.cn
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

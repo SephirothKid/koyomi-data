@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//securities-qualification//EN
+URL:https://koyomi.cast/sources/securities-qualification
+NAME:证券行业专业人员水平评价
+X-WR-CALNAME:证券行业专业人员水平评价
+X-WR-CALDESC:证券行业专业人员水平评价统一测试关键时间
+ 节点。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:securities-qualification-securities-qualification-2026-june-registrati
+ on@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260609T000000
+DTSTART;TZID=Asia/Shanghai:20260602T150000
+DTEND;TZID=Asia/Shanghai:20260609T150000
+SUMMARY:证券行业专业人员水平评价 · 年6月证券水平评价
+ 报名
+DESCRIPTION:6 月统一测试报名和缴费窗口。
+CATEGORIES:证券行业专业人员水平评价
+URL;VALUE=URI:https://ks.sac.net.cn
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:securities-qualification-securities-qualification-2026-june-exam@koyom
+ i.cast
+SEQUENCE:0
+DTSTAMP:20260609T000000
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:证券行业专业人员水平评价 · 年6月证券水平评价
+ 统一测试
+DESCRIPTION:证券行业专业人员水平评价统一测试。
+CATEGORIES:证券行业专业人员水平评价
+URL;VALUE=URI:https://ks.sac.net.cn
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:securities-qualification-securities-qualification-2026-september-exam@
+ koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260609T000000
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:证券行业专业人员水平评价 · 年9月证券水平评价
+ 统一测试
+DESCRIPTION:证券行业专业人员水平评价统一测试，具体以
+ 中国证券业协会公告为准。
+CATEGORIES:证券行业专业人员水平评价
+URL;VALUE=URI:https://ks.sac.net.cn
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

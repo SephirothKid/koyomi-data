@@ -1,0 +1,77 @@
+{
+  "id": "social-worker",
+  "name": "社会工作者职业资格",
+  "category": "exam",
+  "name_en": "Social Worker Professional Qualification Exam",
+  "subcategory": "社会服务",
+  "subcategory_en": "Social Service",
+  "exam_classification": {
+    "audiences": [
+      "professional"
+    ],
+    "tracks": [
+      "social-service"
+    ]
+  },
+  "description": "社会工作者职业资格初级、中级、高级考试关键日期。",
+  "description_en": "Key dates for junior, intermediate, and senior social worker professional qualification exams.",
+  "icon": "/logos/exam/official-exam.png",
+  "tags": [
+    "社工",
+    "社会工作者",
+    "职业资格"
+  ],
+  "tags_en": [
+    "Social Worker",
+    "Professional Qualification"
+  ],
+  "maintainer": "community",
+  "source_url": "https://www.cpta.com.cn",
+  "subscriber_count": 24800,
+  "rating": 4.6,
+  "rating_count": 260,
+  "events": [
+    {
+      "id": "social-worker-2026-registration",
+      "name": "2026年社会工作者报名",
+      "date": "2026-03-09",
+      "end_date": "2026-03-30",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "社会工作者职业资格考试报名窗口，各地具体时间以当地人事考试机构公告为准。",
+      "url": "https://www.cpta.com.cn",
+      "status": "completed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "social-worker-2026-exam",
+      "name": "2026年社会工作者考试",
+      "date": "2026-05-23",
+      "end_date": "2026-05-24",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "社会工作者职业资格初级、中级、高级考试。",
+      "url": "https://www.cpta.com.cn",
+      "status": "completed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "social-worker-2026-results",
+      "name": "2026年社会工作者成绩查询",
+      "date": "2026-07-31",
+      "timezone": "Asia/Shanghai",
+      "type": "announcement",
+      "year": 2026,
+      "description": "成绩计划在 2026 年 7 月下旬发布，具体以中国人事考试网通知为准。",
+      "url": "https://www.cpta.com.cn",
+      "status": "planned",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    }
+  ],
+  "last_updated": "2026-06-09"
+}

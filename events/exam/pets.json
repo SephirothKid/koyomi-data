@@ -1,0 +1,66 @@
+{
+  "id": "pets",
+  "name": "全国英语等级考试",
+  "category": "exam",
+  "name_en": "Public English Test System",
+  "subcategory": "语言考试",
+  "subcategory_en": "Language Exams",
+  "exam_classification": {
+    "audiences": [
+      "student",
+      "professional"
+    ],
+    "tracks": [
+      "campus-language"
+    ]
+  },
+  "description": "全国英语等级考试（PETS）上半年和下半年考试窗口提醒。",
+  "description_en": "Key PETS exam windows for the first and second half of the year.",
+  "icon": "/logos/exam/official-exam.png",
+  "tags": [
+    "PETS",
+    "英语等级",
+    "语言考试"
+  ],
+  "tags_en": [
+    "PETS",
+    "English",
+    "Language Exam"
+  ],
+  "maintainer": "community",
+  "source_url": "https://pets.neea.edu.cn",
+  "subscriber_count": 12800,
+  "rating": 4.6,
+  "rating_count": 150,
+  "events": [
+    {
+      "id": "pets-2026-h1-exam",
+      "name": "2026上半年全国英语等级考试",
+      "date": "2026-03-21",
+      "end_date": "2026-03-22",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "上半年全国英语等级考试。开考级别和报名期以中国教育考试网公告为准。",
+      "url": "https://pets.neea.edu.cn",
+      "status": "completed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "pets-2026-h2-exam",
+      "name": "2026下半年全国英语等级考试",
+      "date": "2026-09-19",
+      "end_date": "2026-09-20",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "下半年全国英语等级考试。开考级别和报名期以中国教育考试网公告为准。",
+      "url": "https://pets.neea.edu.cn",
+      "status": "planned",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    }
+  ],
+  "last_updated": "2026-06-09"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "health-professional",
+  "name": "卫生专业技术资格",
+  "category": "exam",
+  "name_en": "Health Professional Technical Qualification Exam",
+  "subcategory": "医药卫生",
+  "subcategory_en": "Healthcare",
+  "exam_classification": {
+    "audiences": [
+      "professional"
+    ],
+    "tracks": [
+      "healthcare"
+    ]
+  },
+  "description": "卫生专业技术资格初级和中级考试关键日期。",
+  "description_en": "Key dates for junior and intermediate health professional technical qualification exams.",
+  "icon": "/logos/exam/official-exam.png",
+  "tags": [
+    "卫生资格",
+    "医护职称",
+    "职称"
+  ],
+  "tags_en": [
+    "Healthcare",
+    "Professional Title"
+  ],
+  "maintainer": "community",
+  "source_url": "https://www.21wecan.com",
+  "subscriber_count": 33400,
+  "rating": 4.6,
+  "rating_count": 360,
+  "events": [
+    {
+      "id": "health-professional-2026-exam-window-1",
+      "name": "2026年卫生资格考试第一考试周",
+      "date": "2026-04-11",
+      "end_date": "2026-04-12",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "卫生专业技术资格考试第一考试周，具体科目和批次以准考证为准。",
+      "url": "https://www.21wecan.com",
+      "status": "completed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "health-professional-2026-exam-window-2",
+      "name": "2026年卫生资格考试第二考试周",
+      "date": "2026-04-18",
+      "end_date": "2026-04-19",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "卫生专业技术资格考试第二考试周，具体科目和批次以准考证为准。",
+      "url": "https://www.21wecan.com",
+      "status": "completed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "health-professional-2026-exam-window-3",
+      "name": "2026年卫生资格考试第三考试周",
+      "date": "2026-04-25",
+      "end_date": "2026-04-26",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "卫生专业技术资格考试第三考试周，具体科目和批次以准考证为准。",
+      "url": "https://www.21wecan.com",
+      "status": "completed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "health-professional-2026-results",
+      "name": "2026年卫生资格成绩查询",
+      "date": "2026-06-30",
+      "timezone": "Asia/Shanghai",
+      "type": "announcement",
+      "year": 2026,
+      "description": "成绩查询时间以国家卫生健康委人才交流服务中心官网为准。",
+      "url": "https://www.21wecan.com",
+      "status": "planned",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    }
+  ],
+  "last_updated": "2026-06-09"
+}

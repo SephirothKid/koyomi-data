@@ -1,0 +1,77 @@
+{
+  "id": "tax-agent",
+  "name": "税务师",
+  "category": "exam",
+  "name_en": "Tax Agent Qualification Exam",
+  "subcategory": "财会",
+  "subcategory_en": "Finance & Accounting",
+  "exam_classification": {
+    "audiences": [
+      "professional"
+    ],
+    "tracks": [
+      "finance-accounting"
+    ]
+  },
+  "description": "税务师职业资格考试报名、考试和成绩查询提醒。",
+  "description_en": "Key registration, exam, and score release dates for the tax agent qualification exam.",
+  "icon": "/logos/exam/official-exam.png",
+  "tags": [
+    "税务师",
+    "税法",
+    "财税"
+  ],
+  "tags_en": [
+    "Tax Agent",
+    "Tax"
+  ],
+  "maintainer": "community",
+  "source_url": "https://ksbm.ecctaa.cn",
+  "subscriber_count": 21400,
+  "rating": 4.6,
+  "rating_count": 240,
+  "events": [
+    {
+      "id": "tax-agent-2026-registration",
+      "name": "2026年税务师报名",
+      "date": "2026-05-13",
+      "end_date": "2026-07-10",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "税务师职业资格考试报名窗口，具体以中国注册税务师协会公告为准。",
+      "url": "https://ksbm.ecctaa.cn",
+      "status": "planned",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "tax-agent-2026-exam",
+      "name": "2026年税务师考试",
+      "date": "2026-11-07",
+      "end_date": "2026-11-08",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "税务师职业资格考试。",
+      "url": "https://ksbm.ecctaa.cn",
+      "status": "confirmed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "tax-agent-2026-results",
+      "name": "2026年税务师成绩查询",
+      "date": "2027-01-15",
+      "timezone": "Asia/Shanghai",
+      "type": "announcement",
+      "year": 2027,
+      "description": "成绩查询时间以中国注册税务师协会后续公告为准。",
+      "url": "https://ksbm.ecctaa.cn",
+      "status": "planned",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    }
+  ],
+  "last_updated": "2026-06-09"
+}

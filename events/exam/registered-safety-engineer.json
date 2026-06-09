@@ -1,0 +1,63 @@
+{
+  "id": "registered-safety-engineer",
+  "name": "注册安全工程师",
+  "category": "exam",
+  "name_en": "Registered Safety Engineer Exam",
+  "subcategory": "工程建设",
+  "subcategory_en": "Engineering & Construction",
+  "exam_classification": {
+    "audiences": [
+      "professional"
+    ],
+    "tracks": [
+      "engineering-construction"
+    ]
+  },
+  "description": "初级和中级注册安全工程师考试关键日期。",
+  "description_en": "Key dates for junior and intermediate registered safety engineer exams.",
+  "icon": "/logos/exam/official-exam.png",
+  "tags": [
+    "注安",
+    "安全工程师",
+    "工程"
+  ],
+  "tags_en": [
+    "Safety Engineer",
+    "Construction"
+  ],
+  "maintainer": "community",
+  "source_url": "https://www.cpta.com.cn",
+  "subscriber_count": 28700,
+  "rating": 4.6,
+  "rating_count": 300,
+  "events": [
+    {
+      "id": "registered-safety-engineer-2026-junior-exam",
+      "name": "2026年初级注册安全工程师考试",
+      "date": "2026-06-14",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "初级注册安全工程师考试，具体以各地考试机构公告为准。",
+      "url": "https://www.cpta.com.cn",
+      "status": "confirmed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "registered-safety-engineer-2026-intermediate-exam",
+      "name": "2026年中级注册安全工程师考试",
+      "date": "2026-10-24",
+      "end_date": "2026-10-25",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "中级注册安全工程师职业资格考试。",
+      "url": "https://www.cpta.com.cn",
+      "status": "confirmed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    }
+  ],
+  "last_updated": "2026-06-09"
+}

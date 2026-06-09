@@ -1,0 +1,77 @@
+{
+  "id": "licensed-pharmacist",
+  "name": "执业药师",
+  "category": "exam",
+  "name_en": "Licensed Pharmacist Qualification Exam",
+  "subcategory": "医药卫生",
+  "subcategory_en": "Healthcare",
+  "exam_classification": {
+    "audiences": [
+      "professional"
+    ],
+    "tracks": [
+      "healthcare"
+    ]
+  },
+  "description": "执业药师职业资格考试报名、考试和成绩查询提醒。",
+  "description_en": "Key dates for the licensed pharmacist qualification exam.",
+  "icon": "/logos/exam/official-exam.png",
+  "tags": [
+    "执业药师",
+    "药学",
+    "中药学"
+  ],
+  "tags_en": [
+    "Pharmacist",
+    "Healthcare"
+  ],
+  "maintainer": "community",
+  "source_url": "https://www.cpta.com.cn",
+  "subscriber_count": 29800,
+  "rating": 4.6,
+  "rating_count": 310,
+  "events": [
+    {
+      "id": "licensed-pharmacist-2026-registration",
+      "name": "2026年执业药师报名",
+      "date": "2026-07-01",
+      "end_date": "2026-07-25",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "执业药师报名时间由各省人事考试机构发布，此处为常见报名窗口提醒。",
+      "url": "https://www.cpta.com.cn",
+      "status": "planned",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "licensed-pharmacist-2026-exam",
+      "name": "2026年执业药师考试",
+      "date": "2026-10-31",
+      "end_date": "2026-11-01",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "执业药师职业资格考试。",
+      "url": "https://www.cpta.com.cn",
+      "status": "confirmed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "licensed-pharmacist-2026-results",
+      "name": "2026年执业药师成绩查询",
+      "date": "2027-01-15",
+      "timezone": "Asia/Shanghai",
+      "type": "announcement",
+      "year": 2027,
+      "description": "成绩查询时间以中国人事考试网通知为准。",
+      "url": "https://www.cpta.com.cn",
+      "status": "planned",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    }
+  ],
+  "last_updated": "2026-06-09"
+}

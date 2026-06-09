@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//accounting-qualification//EN
+URL:https://koyomi.cast/sources/accounting-qualification
+NAME:Accounting Professional Qualification Exam
+X-WR-CALNAME:Accounting Professional Qualification Exam
+X-WR-CALDESC:Key dates for junior, intermediate, and senior accounting qua
+ lification exams.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:accounting-qualification-accounting-qualification-2026-senior-exam@koy
+ omi.cast
+SEQUENCE:0
+DTSTAMP:20260609T000000
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Accounting Professional Qualification Exam · 高级会计考试
+DESCRIPTION:高级会计专业技术资格考试。
+CATEGORIES:Accounting Professional Qualification Exam
+URL;VALUE=URI:http://kzp.mof.gov.cn
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:accounting-qualification-accounting-qualification-2026-junior-exam@koy
+ omi.cast
+SEQUENCE:0
+DTSTAMP:20260609T000000
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260519
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Accounting Professional Qualification Exam · 初级会计考试
+DESCRIPTION:初级会计专业技术资格考试。
+CATEGORIES:Accounting Professional Qualification Exam
+URL;VALUE=URI:http://kzp.mof.gov.cn
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:accounting-qualification-accounting-qualification-2026-intermediate-ex
+ am@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260609T000000
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260907
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Accounting Professional Qualification Exam · 中级会计考试
+DESCRIPTION:中级会计专业技术资格考试。
+CATEGORIES:Accounting Professional Qualification Exam
+URL;VALUE=URI:http://kzp.mof.gov.cn
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:accounting-qualification-accounting-qualification-2026-intermediate-re
+ sults@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260609T000000
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Accounting Professional Qualification Exam · 中级会计成绩
+ 查询
+DESCRIPTION:中级会计成绩预计 10 月底前公布，具体以全国
+ 会计资格评价网通知为准。
+CATEGORIES:Accounting Professional Qualification Exam
+URL;VALUE=URI:http://kzp.mof.gov.cn
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

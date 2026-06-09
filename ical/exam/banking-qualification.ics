@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//banking-qualification//EN
+URL:https://koyomi.cast/sources/banking-qualification
+NAME:银行业专业人员职业资格
+X-WR-CALNAME:银行业专业人员职业资格
+X-WR-CALDESC:银行业专业人员初级和中级职业资格考试上下
+ 半年考试时间。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:banking-qualification-banking-qualification-2026-h1-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260609T000000
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260615
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:银行业专业人员职业资格 · 上半年银行业职业资
+ 格考试
+DESCRIPTION:上半年银行业专业人员初级和中级职业资格考
+ 试。
+CATEGORIES:银行业专业人员职业资格
+URL;VALUE=URI:https://www.china-cba.net
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:banking-qualification-banking-qualification-2026-h2-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260609T000000
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:银行业专业人员职业资格 · 下半年银行业职业资
+ 格考试
+DESCRIPTION:下半年银行业专业人员初级和中级职业资格考
+ 试。
+CATEGORIES:银行业专业人员职业资格
+URL;VALUE=URI:https://www.china-cba.net
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

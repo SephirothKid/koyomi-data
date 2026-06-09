@@ -1,0 +1,50 @@
+{
+  "id": "supervision-engineer",
+  "name": "监理工程师",
+  "category": "exam",
+  "name_en": "Supervision Engineer Qualification Exam",
+  "subcategory": "工程建设",
+  "subcategory_en": "Engineering & Construction",
+  "exam_classification": {
+    "audiences": [
+      "professional"
+    ],
+    "tracks": [
+      "engineering-construction"
+    ]
+  },
+  "description": "监理工程师职业资格考试关键日期。",
+  "description_en": "Key dates for the supervision engineer qualification exam.",
+  "icon": "/logos/exam/official-exam.png",
+  "tags": [
+    "监理工程师",
+    "工程",
+    "职业资格"
+  ],
+  "tags_en": [
+    "Supervision Engineer",
+    "Construction"
+  ],
+  "maintainer": "community",
+  "source_url": "https://www.cpta.com.cn",
+  "subscriber_count": 18500,
+  "rating": 4.6,
+  "rating_count": 190,
+  "events": [
+    {
+      "id": "supervision-engineer-2026-exam",
+      "name": "2026年监理工程师考试",
+      "date": "2026-05-16",
+      "end_date": "2026-05-17",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "监理工程师职业资格考试。",
+      "url": "https://www.cpta.com.cn",
+      "status": "completed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    }
+  ],
+  "last_updated": "2026-06-09"
+}

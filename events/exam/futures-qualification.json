@@ -1,0 +1,75 @@
+{
+  "id": "futures-qualification",
+  "name": "期货从业人员资格考试",
+  "category": "exam",
+  "name_en": "Futures Practitioner Qualification Exam",
+  "subcategory": "金融",
+  "subcategory_en": "Finance",
+  "exam_classification": {
+    "audiences": [
+      "professional"
+    ],
+    "tracks": [
+      "finance-accounting"
+    ]
+  },
+  "description": "期货从业人员资格统一考试和专场考试提醒。",
+  "description_en": "Key dates for the futures practitioner qualification exam.",
+  "icon": "/logos/exam/official-exam.png",
+  "tags": [
+    "期货从业",
+    "期货",
+    "金融"
+  ],
+  "tags_en": [
+    "Futures",
+    "Finance"
+  ],
+  "maintainer": "community",
+  "source_url": "https://www.cfachina.org",
+  "subscriber_count": 14200,
+  "rating": 4.6,
+  "rating_count": 160,
+  "events": [
+    {
+      "id": "futures-qualification-2026-unified-exam",
+      "name": "2026年期货从业统一考试",
+      "date": "2026-05-16",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "期货从业人员资格统一考试，面向社会人员和机构报考。",
+      "url": "https://www.cfachina.org",
+      "status": "completed",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "futures-qualification-2026-special-september",
+      "name": "2026年9月期货从业专场考试",
+      "date": "2026-09-19",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "期货从业人员资格专场考试，面向期货经营机构报考，具体以协会公告为准。",
+      "url": "https://www.cfachina.org",
+      "status": "planned",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    },
+    {
+      "id": "futures-qualification-2026-special-november",
+      "name": "2026年11月期货从业专场考试",
+      "date": "2026-11-21",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "期货从业人员资格专场考试，面向期货经营机构报考，具体以协会公告为准。",
+      "url": "https://www.cfachina.org",
+      "status": "planned",
+      "last_verified": "2026-06-09",
+      "verified_by": "community"
+    }
+  ],
+  "last_updated": "2026-06-09"
+}
