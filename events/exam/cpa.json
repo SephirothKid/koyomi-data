@@ -4,6 +4,10 @@
   "name_en": "CPA Exam",
   "category": "exam",
   "subcategory": "财会",
+  "exam_classification": {
+    "audiences": ["professional"],
+    "tracks": ["finance-accounting"]
+  },
   "description": "注册会计师全国统一考试，持续更新各年报名、考试、成绩公布等关键时间节点。",
   "icon": "/logos/exam/official-exam.png",
   "tags": [
@@ -18,7 +22,7 @@
     "CPA",
     "Certification"
   ],
-  "maintainer": "official",
+  "maintainer": "community",
   "source_url": "https://cpaexam.cicpa.org.cn",
   "subscriber_count": 12690,
   "rating": 4.5,
@@ -37,7 +41,7 @@
       "url": "https://cpaexam.cicpa.org.cn",
       "status": "completed",
       "last_verified": "2026-04-01",
-      "verified_by": "official",
+      "verified_by": "community",
       "details": {
         "报名入口": "中国注册会计师协会官网",
         "报名费用": "¥60-90/科",
@@ -58,7 +62,7 @@
       "url": "https://cpaexam.cicpa.org.cn",
       "status": "completed",
       "last_verified": "2026-04-01",
-      "verified_by": "official",
+      "verified_by": "community",
       "details": {
         "注意事项": "逾期不予补报",
         "修改信息": "缴费前可修改报考科目"
@@ -78,7 +82,7 @@
       "url": "https://cpaexam.cicpa.org.cn",
       "status": "completed",
       "last_verified": "2026-04-01",
-      "verified_by": "official",
+      "verified_by": "community",
       "details": {
         "缴费方式": "网上支付",
         "退费政策": "报名截止后不予退费"
@@ -99,7 +103,7 @@
       "url": "https://cpaexam.cicpa.org.cn",
       "status": "confirmed",
       "last_verified": "2026-05-20",
-      "verified_by": "official",
+      "verified_by": "community",
       "details": {
         "考试科目": "会计、审计、税法、经济法、财管、战略",
         "考试形式": "机考",
@@ -121,7 +125,7 @@
       "url": "https://cpaexam.cicpa.org.cn",
       "status": "confirmed",
       "last_verified": "2026-05-20",
-      "verified_by": "official",
+      "verified_by": "community",
       "details": {
         "考试科目": "职业能力综合测试",
         "考试形式": "机考",
@@ -137,17 +141,17 @@
       "timezone": "Asia/Shanghai",
       "type": "announcement",
       "year": 2026,
-      "description": "专业阶段成绩查询开放（预计日期，以官方为准）",
+      "description": "专业阶段成绩查询开放（预计日期，以发布信息为准）",
       "url": "https://cpaexam.cicpa.org.cn",
       "status": "planned",
       "last_verified": "2026-05-20",
-      "verified_by": "official",
+      "verified_by": "community",
       "details": {
         "查询入口": "中注协官网成绩查询系统",
         "合格证书": "专业阶段合格证（电子版）"
       },
       "name_en": "2026 Results Release",
-      "description_en": "Exam results release. Date subject to official announcement."
+      "description_en": "Exam results release. Date subject to source announcement."
     }
   ]
 }

@@ -4,6 +4,10 @@
   "category": "exam",
   "name_en": "China Provincial Civil Service Exams",
   "subcategory": "公务员",
+  "exam_classification": {
+    "audiences": ["professional"],
+    "tracks": ["public-service"]
+  },
   "description": "各省公务员考试公告、报名、笔试、成绩、面试等关键窗口聚合。省级时间差异较大，本源优先提醒全国共性阶段。",
   "icon": "/logos/exam/official-exam.png",
   "tags": [
@@ -52,13 +56,13 @@
       "timezone": "Asia/Shanghai",
       "type": "range",
       "year": 2026,
-      "description": "各省报名窗口差异较大，建议结合目标省份官方公告确认资格条件、职位表和缴费截止时间。",
+      "description": "各省报名窗口差异较大，建议结合目标省份发布信息确认资格条件、职位表和缴费截止时间。",
       "url": "https://www.offcn.com/gwy/",
       "status": "completed",
       "last_verified": "2026-06-04",
       "verified_by": "community",
       "name_en": "2026 Provincial Civil Service Registration Window",
-      "description_en": "Registration windows vary by province. Check official announcements for eligibility, positions and payment deadlines."
+      "description_en": "Registration windows vary by province. Check source announcements for eligibility, positions and payment deadlines."
     },
     {
       "id": "civil-service-provincial-2026-admission-ticket-window",

@@ -4,6 +4,10 @@
   "category": "exam",
   "name_en": "China Postgraduate Entrance Exam",
   "subcategory": "升学",
+  "exam_classification": {
+    "audiences": ["student"],
+    "tracks": ["admissions"]
+  },
   "description": "全国硕士研究生招生考试关键时间节点，包括预报名、正式报名、网上确认、准考证、初试、成绩和复试线。",
   "icon": "/logos/exam/official-exam.png",
   "tags": [
@@ -17,7 +21,7 @@
     "Admissions",
     "Exam"
   ],
-  "maintainer": "official",
+  "maintainer": "community",
   "source_url": "https://yz.chsi.com.cn",
   "subscriber_count": 52200,
   "rating": 4.9,
@@ -35,7 +39,7 @@
       "url": "https://yz.chsi.com.cn",
       "status": "completed",
       "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "verified_by": "community",
       "name_en": "2026 Postgraduate Pre-registration Opens",
       "description_en": "National postgraduate entrance exam pre-registration opens."
     },
@@ -51,7 +55,7 @@
       "url": "https://yz.chsi.com.cn",
       "status": "completed",
       "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "verified_by": "community",
       "name_en": "2026 Postgraduate Pre-registration Closes",
       "description_en": "Pre-registration closes."
     },
@@ -67,7 +71,7 @@
       "url": "https://yz.chsi.com.cn",
       "status": "completed",
       "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "verified_by": "community",
       "name_en": "2026 Postgraduate Registration Opens",
       "description_en": "National postgraduate entrance exam formal registration opens."
     },
@@ -83,7 +87,7 @@
       "url": "https://yz.chsi.com.cn",
       "status": "completed",
       "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "verified_by": "community",
       "name_en": "2026 Postgraduate Registration Closes",
       "description_en": "Formal registration closes."
     },
@@ -99,7 +103,7 @@
       "url": "https://yz.chsi.com.cn",
       "status": "completed",
       "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "verified_by": "community",
       "name_en": "2026 Postgraduate Online Verification",
       "description_en": "Online verification period. Exact dates determined by provincial education authorities."
     },
@@ -115,7 +119,7 @@
       "url": "https://yz.chsi.com.cn",
       "status": "completed",
       "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "verified_by": "community",
       "name_en": "2026 Postgraduate Admission Ticket Download",
       "description_en": "Admission ticket download opens."
     },
@@ -131,7 +135,7 @@
       "url": "https://yz.chsi.com.cn",
       "status": "completed",
       "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "verified_by": "community",
       "name_en": "2026 Postgraduate Entrance Exam",
       "description_en": "National postgraduate entrance examination."
     },
@@ -146,7 +150,7 @@
       "url": "https://yz.chsi.com.cn",
       "status": "completed",
       "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "verified_by": "community",
       "name_en": "2026 Postgraduate Entrance Exam",
       "description_en": "National postgraduate entrance examination."
     },
@@ -161,7 +165,7 @@
       "url": "https://yz.chsi.com.cn",
       "status": "completed",
       "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "verified_by": "community",
       "name_en": "2026 Postgraduate National Cutoff",
       "description_en": "National cutoff score announced."
     }

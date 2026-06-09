@@ -4,6 +4,10 @@
   "category": "exam",
   "name_en": "National Teacher Qualification Exam",
   "subcategory": "职业资格",
+  "exam_classification": {
+    "audiences": ["student", "professional"],
+    "tracks": ["education"]
+  },
   "description": "中小学教师资格考试笔试、面试、成绩查询和认定相关关键时间节点。",
   "icon": "/logos/exam/official-exam.png",
   "tags": [
@@ -16,7 +20,7 @@
     "Teacher Qualification",
     "Exam"
   ],
-  "maintainer": "official",
+  "maintainer": "community",
   "source_url": "https://ntce.neea.edu.cn",
   "subscriber_count": 35400,
   "rating": 4.7,
@@ -34,7 +38,7 @@
       "url": "https://ntce.neea.edu.cn",
       "status": "completed",
       "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "verified_by": "community",
       "name_en": "2026 H1 Teacher Qualification Written Test Registration",
       "description_en": "Registration for the first half written test of the National Teacher Qualification Exam."
     },
@@ -49,7 +53,7 @@
       "url": "https://ntce.neea.edu.cn",
       "status": "completed",
       "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "verified_by": "community",
       "name_en": "2026 H1 Teacher Qualification Written Test",
       "description_en": "First half written test of the National Teacher Qualification Exam."
     },
@@ -64,7 +68,7 @@
       "url": "https://ntce.neea.edu.cn",
       "status": "completed",
       "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "verified_by": "community",
       "name_en": "2026 H1 Teacher Qualification Written Test",
       "description_en": "First half written test of the National Teacher Qualification Exam."
     },
@@ -80,7 +84,7 @@
       "url": "https://ntce.neea.edu.cn",
       "status": "completed",
       "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "verified_by": "community",
       "name_en": "2026 H1 Teacher Qualification Interview Registration",
       "description_en": "Registration for the first half interview of the National Teacher Qualification Exam."
     },
@@ -96,7 +100,7 @@
       "url": "https://ntce.neea.edu.cn",
       "status": "completed",
       "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "verified_by": "community",
       "name_en": "2026 H1 Teacher Qualification Interview",
       "description_en": "First half interview of the National Teacher Qualification Exam."
     },
@@ -108,11 +112,11 @@
       "timezone": "Asia/Shanghai",
       "type": "range",
       "year": 2026,
-      "description": "下半年笔试报名，具体以官方公告为准。",
+      "description": "下半年笔试报名，具体以发布信息为准。",
       "url": "https://ntce.neea.edu.cn",
       "status": "planned",
       "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "verified_by": "community",
       "name_en": "2026 H2 Teacher Qualification Written Test Registration",
       "description_en": "Registration for the second half written test of the National Teacher Qualification Exam."
     },
@@ -123,11 +127,11 @@
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "下半年笔试，具体以官方公告为准。",
+      "description": "下半年笔试，具体以发布信息为准。",
       "url": "https://ntce.neea.edu.cn",
       "status": "planned",
       "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "verified_by": "community",
       "name_en": "2026 H2 Teacher Qualification Written Test",
       "description_en": "Second half written test of the National Teacher Qualification Exam."
     },
@@ -139,11 +143,11 @@
       "timezone": "Asia/Shanghai",
       "type": "range",
       "year": 2026,
-      "description": "下半年面试，具体以官方公告为准。",
+      "description": "下半年面试，具体以发布信息为准。",
       "url": "https://ntce.neea.edu.cn",
       "status": "planned",
       "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "verified_by": "community",
       "name_en": "2026 H2 Teacher Qualification Interview",
       "description_en": "Second half interview of the National Teacher Qualification Exam."
     }

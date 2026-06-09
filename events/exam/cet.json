@@ -4,7 +4,11 @@
   "category": "exam",
   "name_en": "CET-4 and CET-6",
   "subcategory": "语言考试",
-  "description": "全国大学英语四、六级考试报名、口试、笔试、成绩查询等关键时间节点。",
+  "exam_classification": {
+    "audiences": ["student"],
+    "tracks": ["campus-language"]
+  },
+  "description": "全国大学英语四、六级考试报名、笔试、成绩查询等关键时间节点。默认源不并入口语考试，避免干扰只关注笔试的用户。",
   "icon": "/logos/exam/official-exam.png",
   "tags": [
     "四六级",
@@ -17,7 +21,7 @@
     "English",
     "Exam"
   ],
-  "maintainer": "official",
+  "maintainer": "community",
   "source_url": "https://cet.neea.edu.cn",
   "subscriber_count": 46800,
   "rating": 4.8,
@@ -32,28 +36,12 @@
       "type": "range",
       "year": 2026,
       "description": "各考点报名时间不同，以所在学校通知为准。",
-      "url": "https://cet.neea.edu.cn",
+      "url": "https://cet.neea.edu.cn/html1/report/2603/2-1.htm",
       "status": "completed",
-      "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "last_verified": "2026-06-09",
+      "verified_by": "community",
       "name_en": "2026 H1 CET Registration",
       "description_en": "Registration varies by test center. Follow your school notice."
-    },
-    {
-      "id": "cet-2026-h1-oral-exam",
-      "name": "2026上半年四六级口试",
-      "date": "2026-05-23",
-      "end_date": "2026-05-24",
-      "timezone": "Asia/Shanghai",
-      "type": "range",
-      "year": 2026,
-      "description": "大学英语四、六级口语考试。",
-      "url": "https://cet.neea.edu.cn",
-      "status": "completed",
-      "last_verified": "2026-06-04",
-      "verified_by": "official",
-      "name_en": "2026 H1 CET Oral Test",
-      "description_en": "College English Test Band 4/6 oral examination."
     },
     {
       "id": "cet-2026-h1-written-exam",
@@ -63,10 +51,10 @@
       "type": "event",
       "year": 2026,
       "description": "大学英语四、六级笔试。",
-      "url": "https://cet.neea.edu.cn",
+      "url": "https://cet.neea.edu.cn/html1/report/2603/2-1.htm",
       "status": "confirmed",
-      "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "last_verified": "2026-06-09",
+      "verified_by": "community",
       "name_en": "2026 H1 CET Written Test",
       "description_en": "College English Test Band 4/6 written examination."
     },
@@ -80,10 +68,10 @@
       "description": "成绩查询预计 8 月下旬开放，具体以中国教育考试网公告为准。",
       "url": "https://cet.neea.edu.cn",
       "status": "planned",
-      "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "last_verified": "2026-06-09",
+      "verified_by": "community",
       "name_en": "2026 H1 CET Results",
-      "description_en": "Results expected in late August. Subject to official announcement."
+      "description_en": "Results are expected in late August. Check the source page before making plans."
     },
     {
       "id": "cet-2026-h2-registration",
@@ -96,26 +84,10 @@
       "description": "各考点报名时间不同，以所在学校通知为准。",
       "url": "https://cet.neea.edu.cn",
       "status": "planned",
-      "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "last_verified": "2026-06-09",
+      "verified_by": "community",
       "name_en": "2026 H2 CET Registration",
       "description_en": "Registration varies by test center. Follow your school notice."
-    },
-    {
-      "id": "cet-2026-h2-oral-exam",
-      "name": "2026下半年四六级口试",
-      "date": "2026-11-21",
-      "end_date": "2026-11-22",
-      "timezone": "Asia/Shanghai",
-      "type": "range",
-      "year": 2026,
-      "description": "大学英语四、六级口语考试，具体以官方公告为准。",
-      "url": "https://cet.neea.edu.cn",
-      "status": "planned",
-      "last_verified": "2026-06-04",
-      "verified_by": "official",
-      "name_en": "2026 H2 CET Oral Test",
-      "description_en": "College English Test Band 4/6 oral examination."
     },
     {
       "id": "cet-2026-h2-written-exam",
@@ -124,14 +96,14 @@
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "大学英语四、六级笔试，具体以官方公告为准。",
+      "description": "大学英语四、六级笔试，具体以发布信息为准。",
       "url": "https://cet.neea.edu.cn",
       "status": "planned",
-      "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "last_verified": "2026-06-09",
+      "verified_by": "community",
       "name_en": "2026 H2 CET Written Test",
       "description_en": "College English Test Band 4/6 written examination."
     }
   ],
-  "last_updated": "2026-06-04"
+  "last_updated": "2026-06-09"
 }

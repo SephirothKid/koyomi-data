@@ -4,6 +4,10 @@
   "category": "exam",
   "name_en": "China National Civil Service Exam",
   "subcategory": "公务员",
+  "exam_classification": {
+    "audiences": ["professional"],
+    "tracks": ["public-service"]
+  },
   "description": "中央机关及其直属机构考试录用公务员关键时间节点，包括公告、报名、资格审查、缴费、准考证、笔试和成绩查询。",
   "icon": "/logos/exam/official-exam.png",
   "tags": [
@@ -17,7 +21,7 @@
     "Exam",
     "Registration"
   ],
-  "maintainer": "official",
+  "maintainer": "community",
   "source_url": "http://bm.scs.gov.cn/kl2026",
   "subscriber_count": 38600,
   "rating": 4.8,
@@ -34,7 +38,7 @@
       "url": "http://bm.scs.gov.cn/kl2026",
       "status": "completed",
       "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "verified_by": "community",
       "name_en": "2026 National Civil Service Announcement",
       "description_en": "Central government and directly-affiliated institutions recruitment announcement released."
     },
@@ -50,9 +54,9 @@
       "url": "http://bm.scs.gov.cn/kl2026",
       "status": "completed",
       "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "verified_by": "community",
       "name_en": "2026 National Civil Service Registration Opens",
-      "description_en": "Candidates can submit applications on the official portal."
+      "description_en": "Candidates can submit applications on the source portal."
     },
     {
       "id": "civil-service-national-2026-register-close",
@@ -66,7 +70,7 @@
       "url": "http://bm.scs.gov.cn/kl2026",
       "status": "completed",
       "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "verified_by": "community",
       "name_en": "2026 National Civil Service Registration Closes",
       "description_en": "Application submission deadline. Late applications not accepted."
     },
@@ -82,7 +86,7 @@
       "url": "http://bm.scs.gov.cn/kl2026",
       "status": "completed",
       "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "verified_by": "community",
       "name_en": "2026 National Civil Service Qualification Review Ends",
       "description_en": "Recruiting authority qualification review deadline."
     },
@@ -98,7 +102,7 @@
       "url": "http://bm.scs.gov.cn/kl2026",
       "status": "completed",
       "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "verified_by": "community",
       "name_en": "2026 National Civil Service Payment Deadline",
       "description_en": "Candidates who passed qualification review must complete online confirmation and payment."
     },
@@ -114,7 +118,7 @@
       "url": "http://bm.scs.gov.cn/kl2026",
       "status": "completed",
       "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "verified_by": "community",
       "name_en": "2026 National Civil Service Admission Ticket",
       "description_en": "Admission ticket printing opens."
     },
@@ -129,7 +133,7 @@
       "url": "http://bm.scs.gov.cn/kl2026",
       "status": "completed",
       "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "verified_by": "community",
       "name_en": "2026 National Civil Service Public Subject Exam",
       "description_en": "National civil service public subject written examination."
     },
@@ -140,11 +144,11 @@
       "timezone": "Asia/Shanghai",
       "type": "announcement",
       "year": 2026,
-      "description": "笔试成绩和合格分数线预计于 2026 年 1 月公布，具体以官方专题网站为准。",
+      "description": "笔试成绩和合格分数线预计于 2026 年 1 月公布，具体以专题网站为准。",
       "url": "http://bm.scs.gov.cn/kl2026",
       "status": "completed",
       "last_verified": "2026-06-04",
-      "verified_by": "official",
+      "verified_by": "community",
       "name_en": "2026 National Civil Service Written Exam",
       "description_en": "National civil service written examination."
     }

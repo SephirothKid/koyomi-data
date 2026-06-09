@@ -129,45 +129,107 @@ function collectJsonFiles(dir) {
   return files
 }
 
-function parseEventDate(dateStr, timeStr, tzOffsetStr) {
-  if (timeStr) {
-    return new Date(`${dateStr}T${timeStr}:00${tzOffsetStr}`)
+function parseDateParts(dateStr) {
+  const [year, month, day] = dateStr.split('-').map(Number)
+  return { year, month, day }
+}
+
+function parseTimeParts(timeStr = '00:00') {
+  const [hour, minute, second = 0] = timeStr.split(':').map(Number)
+  return { hour, minute, second }
+}
+
+function pad2(value) {
+  return String(value).padStart(2, '0')
+}
+
+function formatIsoDate(date) {
+  return [
+    date.getUTCFullYear(),
+    pad2(date.getUTCMonth() + 1),
+    pad2(date.getUTCDate()),
+  ].join('-')
+}
+
+function formatIsoTime(date) {
+  return [
+    pad2(date.getUTCHours()),
+    pad2(date.getUTCMinutes()),
+    pad2(date.getUTCSeconds()),
+  ].join(':')
+}
+
+function addDays(dateStr, days) {
+  const { year, month, day } = parseDateParts(dateStr)
+  const date = new Date(Date.UTC(year, month - 1, day + days))
+  return formatIsoDate(date)
+}
+
+// Minimal Luxon-compatible wall-clock object for ical-generator.
+// Native Date would be formatted in the Node process timezone and drift.
+class WallClockDateTime {
+  constructor(dateStr, timeStr = '00:00') {
+    const { year, month, day } = parseDateParts(dateStr)
+    const { hour, minute, second } = parseTimeParts(timeStr)
+    this.year = year
+    this.month = month
+    this.day = day
+    this.hour = hour
+    this.minute = minute
+    this.second = second
+    this.isValid = true
+    this.zone = { type: 'koyomi-wall-clock' }
   }
-  return new Date(`${dateStr}T00:00:00${tzOffsetStr}`)
+
+  setZone() {
+    return this
+  }
+
+  toFormat(format) {
+    if (format === 'yyyyLLdd') {
+      return `${this.year}${pad2(this.month)}${pad2(this.day)}`
+    }
+    if (format === 'HHmmss') {
+      return `${pad2(this.hour)}${pad2(this.minute)}${pad2(this.second)}`
+    }
+    throw new Error(`Unsupported date format: ${format}`)
+  }
+
+  toJSDate() {
+    return new Date(Date.UTC(
+      this.year,
+      this.month - 1,
+      this.day,
+      this.hour,
+      this.minute,
+      this.second,
+    ))
+  }
+
+  toJSON() {
+    return `${this.year}-${pad2(this.month)}-${pad2(this.day)}T${pad2(this.hour)}:${pad2(this.minute)}:${pad2(this.second)}`
+  }
+
+  addMinutes(minutes) {
+    const date = this.toJSDate()
+    date.setUTCMinutes(date.getUTCMinutes() + minutes)
+    return new WallClockDateTime(formatIsoDate(date), formatIsoTime(date))
+  }
+}
+
+function wallClockDateTime(dateStr, timeStr = '00:00') {
+  return new WallClockDateTime(dateStr, timeStr)
 }
 
 function stampForEvent(event) {
   const date = event.last_verified ?? event.date
-  return new Date(`${date}T00:00:00+08:00`)
+  return wallClockDateTime(date)
 }
 
 function legacyWorldcupEventId(event) {
   return event.id
     .replace(/^worldcup-2026-(\d{2}-\d{2}-)/, 'wc2026-2026-$1')
     .replace(/^worldcup-2026-/, 'wc2026-')
-}
-
-function tzOffset(tz) {
-  const offsets = {
-    'Asia/Shanghai': '+08:00',
-    'Asia/Hong_Kong': '+08:00',
-    'Asia/Singapore': '+08:00',
-    'Asia/Tokyo': '+09:00',
-    'Asia/Seoul': '+09:00',
-    'Asia/Ho_Chi_Minh': '+07:00',
-    'Asia/Jakarta': '+07:00',
-    'Asia/Taipei': '+08:00',
-    'America/New_York': '-05:00',
-    'America/Toronto': '-05:00',
-    'America/Sao_Paulo': '-03:00',
-    'America/Los_Angeles': '-08:00',
-    'Europe/London': '+00:00',
-    'Europe/Berlin': '+01:00',
-    'Europe/Paris': '+01:00',
-    'Australia/Sydney': '+10:00',
-    'UTC': '+00:00',
-  }
-  return offsets[tz] ?? '+08:00'
 }
 
 function currentSeasonYear() {
@@ -266,24 +328,21 @@ function createCalendar(source, events, options = {}) {
 
   for (const event of events) {
     const tz = event.timezone ?? 'Asia/Shanghai'
-    const offset = tzOffset(tz)
     const hasTime = !!event.time
     const endDateStr = event.end_date ?? event.endDate ?? event.date
 
-    const start = parseEventDate(event.date, event.time, offset)
+    const start = wallClockDateTime(event.date, event.time)
     let end
 
     if (hasTime) {
-      end = parseEventDate(endDateStr, event.time, offset)
+      end = wallClockDateTime(endDateStr, event.time)
       // Ensure end is at least 1 hour after start for point-in-time events
-      if (end <= start) {
-        end = new Date(start.getTime() + 60 * 60 * 1000)
+      if (end.toJSDate() <= start.toJSDate()) {
+        end = start.addMinutes(60)
       }
     } else {
       // All-day: end is the day after the last day (iCal exclusive end)
-      const endDay = new Date(`${endDateStr}T00:00:00${offset}`)
-      endDay.setDate(endDay.getDate() + 1)
-      end = endDay
+      end = wallClockDateTime(addDays(endDateStr, 1))
     }
 
     // 去掉 event.name 中的年份前缀，避免重复（如「2026年报名开始」→「报名开始」）
@@ -332,6 +391,7 @@ function createCalendar(source, events, options = {}) {
       end,
       stamp: stampForEvent(event),
       allDay: !hasTime,
+      timezone: hasTime && tz !== 'UTC' ? tz : null,
       summary,
       description: descParts.filter(Boolean).join('\n\n'),
       url: event.url ?? source.source_url ?? `https://koyomi.cast/sources/${source.id}`,

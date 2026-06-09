@@ -4,6 +4,10 @@
   "name_en": "National Legal Professional Qualification Exam",
   "category": "exam",
   "subcategory": "法律",
+  "exam_classification": {
+    "audiences": ["professional"],
+    "tracks": ["law"]
+  },
   "description": "国家统一法律职业资格考试（法考），包含主观题、客观题报名与考试时间安排。",
   "icon": "/logos/exam/official-exam.png",
   "tags": [
@@ -18,7 +22,7 @@
     "Law",
     "Judicial"
   ],
-  "maintainer": "official",
+  "maintainer": "community",
   "source_url": "https://www.moj.gov.cn",
   "subscriber_count": 13690,
   "rating": 4.7,
@@ -37,7 +41,7 @@
       "url": "https://www.moj.gov.cn",
       "status": "confirmed",
       "last_verified": "2026-05-10",
-      "verified_by": "official",
+      "verified_by": "community",
       "details": {
         "报名入口": "司法部官网",
         "报名费用": "¥190-300（各省不同）",
@@ -58,7 +62,7 @@
       "url": "https://www.moj.gov.cn",
       "status": "confirmed",
       "last_verified": "2026-05-10",
-      "verified_by": "official",
+      "verified_by": "community",
       "details": {
         "报名入口": "司法部官网",
         "报名费用": "¥190-300（各省不同）",
@@ -79,7 +83,7 @@
       "url": "https://www.moj.gov.cn",
       "status": "confirmed",
       "last_verified": "2026-05-10",
-      "verified_by": "official",
+      "verified_by": "community",
       "details": {
         "考试科目": "试卷一、试卷二",
         "考试形式": "机考",
@@ -100,7 +104,7 @@
       "url": "https://www.moj.gov.cn",
       "status": "confirmed",
       "last_verified": "2026-05-10",
-      "verified_by": "official",
+      "verified_by": "community",
       "details": {
         "考试科目": "试卷一、试卷二",
         "考试形式": "机考",
@@ -117,13 +121,13 @@
       "timezone": "Asia/Shanghai",
       "type": "announcement",
       "year": 2026,
-      "description": "客观题成绩公布，预计日期，以官方为准",
+      "description": "客观题成绩公布，预计日期，以发布信息为准",
       "url": "https://www.moj.gov.cn",
       "status": "planned",
       "last_verified": "2026-05-10",
-      "verified_by": "official",
+      "verified_by": "community",
       "name_en": "2026 Objective Test Results",
-      "description_en": "Objective test results release. Date subject to official announcement."
+      "description_en": "Objective test results release. Date subject to source announcement."
     }
   ]
 }

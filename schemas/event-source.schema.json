@@ -19,6 +19,41 @@
     "description_en": { "type": "string", "description": "英文描述" },
     "subcategory": { "type": "string" },
     "subcategory_en": { "type": "string", "description": "英文子分类" },
+    "exam_classification": {
+      "type": "object",
+      "description": "考试分类结构化字段。只用于 exam 分类；key 使用英文，展示文案由各端本地化。",
+      "required": ["audiences", "tracks"],
+      "properties": {
+        "audiences": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["student", "professional"]
+          },
+          "minItems": 1,
+          "uniqueItems": true
+        },
+        "tracks": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "admissions",
+              "campus-language",
+              "study-abroad-language",
+              "public-service",
+              "finance-accounting",
+              "law",
+              "education",
+              "it"
+            ]
+          },
+          "minItems": 1,
+          "uniqueItems": true
+        }
+      },
+      "additionalProperties": false
+    },
     "tags": { "type": "array", "items": { "type": "string" } },
     "tags_en": { "type": "array", "items": { "type": "string" }, "description": "英文标签" },
     "icon": { "type": "string" },
