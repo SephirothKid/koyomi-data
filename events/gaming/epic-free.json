@@ -21,7 +21,7 @@
   "subscriber_count": 30160,
   "rating": 4.4,
   "rating_count": 460,
-  "last_updated": "2026-06-05",
+  "last_updated": "2026-06-11",
   "events": [
     {
       "id": "epic-free-2026-w21",
@@ -106,7 +106,7 @@
       "description": "本周免费游戏：Rogue Waters、Songs of Conquest",
       "url": "https://store.epicgames.com/zh-CN/free-games",
       "status": "completed",
-      "last_verified": "2026-06-05",
+      "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
         "领取方式": "Epic Games Store 客户端/网页",
@@ -142,7 +142,7 @@
       "description": "本周免费游戏：The Ouroboros King、Warhammer 40K Speed Freeks",
       "url": "https://store.epicgames.com/zh-CN/free-games",
       "status": "confirmed",
-      "last_verified": "2026-06-05",
+      "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
         "领取方式": "Epic Games Store 客户端/网页",
@@ -168,6 +168,42 @@
       ],
       "name_en": "The Ouroboros King、Warhammer 40K Speed Freeks",
       "description_en": "Free games this week: The Ouroboros King、Warhammer 40K Speed Freeks"
+    },
+    {
+      "id": "epic-free-2026-w25",
+      "name": "深空梦里人、ROBOBEAT",
+      "date": "2026-06-18",
+      "time": "23:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "本周免费游戏：深空梦里人、ROBOBEAT",
+      "url": "https://store.epicgames.com/zh-CN/free-games",
+      "status": "confirmed",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "领取方式": "Epic Games Store 客户端/网页",
+        "领取条件": "免费注册账号即可",
+        "注意事项": "每周四 23:00 更新，领取后永久拥有",
+        "本周游戏": "深空梦里人、ROBOBEAT"
+      },
+      "games": [
+        {
+          "title": "深空梦里人",
+          "description": "在星际资本主义的废墟里体验出逃员工的人生，如丧家之犬般游荡在寰宇社会边缘的法外空间站。本作承袭桌上角色扮演游戏的灵活性与自由度，玩家可以尽情探索空间站，自主决定与谁交好，逃离过去，改变未来。",
+          "cover_url": "https://cdn1.epicgames.com/spt-assets/919d5976f3804d4cabb8ca90ea43a956/citizen-sleeper-ar9aj.jpg",
+          "original_price": "¥62.00",
+          "store_url": "https://store.epicgames.com/zh-CN/p/da528841e0eb43d8b93fd243c6767b0c"
+        },
+        {
+          "title": "ROBOBEAT",
+          "description": "永远不要松开扣动扳机的手指！在音游射击游戏《ROBOBEAT》中，你将扮演正在执行任务的赏金猎手Ace，你要做的就是在叛乱机器人Frazzer的变换巢穴中将其抓捕。通过飞檐走壁、滑铲与节奏射击来突破机器人军团，追逐你的目标吧。",
+          "cover_url": "https://cdn1.epicgames.com/spt-assets/91105717b53044ed8e384e5fada71db8/robobeat-15z8d.png",
+          "original_price": "¥70.00",
+          "store_url": "https://store.epicgames.com/zh-CN/p/4ee365fd76704f37ae3dc13676f1ac61"
+        }
+      ]
     }
   ],
   "subcategory_en": "Free Games"

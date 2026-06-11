@@ -1,0 +1,826 @@
+{
+  "id": "rawg-releases",
+  "name": "RAWG 游戏发售",
+  "category": "gaming",
+  "name_en": "RAWG Game Releases",
+  "subcategory": "游戏发售",
+  "description": "主流平台（PC / PS5 / PS4 / Xbox Series / Switch / iOS / Android）游戏发售日历，数据来自 RAWG 数据库。",
+  "icon": "🕹️",
+  "tags": [
+    "游戏发售",
+    "PC",
+    "PlayStation",
+    "Xbox",
+    "Switch"
+  ],
+  "tags_en": [
+    "Game Release",
+    "PC",
+    "PlayStation",
+    "Xbox",
+    "Nintendo Switch"
+  ],
+  "maintainer": "community",
+  "source_url": "https://rawg.io",
+  "attribution": "Data provided by RAWG (https://rawg.io)",
+  "events": [
+    {
+      "id": "rawg-1014269",
+      "date": "2026-06-18",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "The Adventures of Elliot: The Millennium Tales 发售",
+      "description": "平台：PC / PS5 / Switch",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/the-adventures-of-elliot-the-millenium-tales",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "The Adventures of Elliot: The Millennium Tales",
+        "rawg_id": "1014269",
+        "平台": "PC / PS5 / Switch"
+      }
+    },
+    {
+      "id": "rawg-1018039",
+      "date": "2026-06-19",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Maseylia: Echoes of the past 发售",
+      "description": "平台：PC",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/maseylia-echoes-of-the-past",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Maseylia: Echoes of the past",
+        "rawg_id": "1018039",
+        "平台": "PC"
+      }
+    },
+    {
+      "id": "rawg-1017771",
+      "date": "2026-06-25",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Star Fox 发售",
+      "description": "平台：Switch",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/star-fox-2",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Star Fox",
+        "rawg_id": "1017771",
+        "平台": "Switch"
+      }
+    },
+    {
+      "id": "rawg-1017360",
+      "date": "2026-07-09",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Assassin's Creed Back Flag Resynced 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/assassins-creed-back-flag-resynced",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Assassin's Creed Back Flag Resynced",
+        "rawg_id": "1017360",
+        "平台": "PC / PS5"
+      }
+    },
+    {
+      "id": "rawg-1018111",
+      "date": "2026-07-13",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "The Alters: Last Variable 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/the-alters-last-variable",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "The Alters: Last Variable",
+        "rawg_id": "1018111",
+        "平台": "PC / PS5"
+      }
+    },
+    {
+      "id": "rawg-1013132",
+      "date": "2026-07-28",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Halo Campaign Evolved 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/halo-campaign-evolved",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Halo Campaign Evolved",
+        "rawg_id": "1013132",
+        "平台": "PC / PS5"
+      }
+    },
+    {
+      "id": "rawg-1016605",
+      "date": "2026-07-29",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Truxton Extreme 发售",
+      "description": "平台：PC",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/truxton-extreme",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Truxton Extreme",
+        "rawg_id": "1016605",
+        "平台": "PC"
+      }
+    },
+    {
+      "id": "rawg-1004522",
+      "date": "2026-08-04",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Beast of Reincarnation 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/beast-of-reincarnation",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Beast of Reincarnation",
+        "rawg_id": "1004522",
+        "平台": "PC / PS5"
+      }
+    },
+    {
+      "id": "rawg-1010532",
+      "date": "2026-08-06",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Marvel Tokon: Fighting Souls 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/marvel-tokon-fighting-souls",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Marvel Tokon: Fighting Souls",
+        "rawg_id": "1010532",
+        "平台": "PC / PS5"
+      }
+    },
+    {
+      "id": "rawg-1018109",
+      "date": "2026-08-14",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Mafia: The Old Country - Man of Honor 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/mafia-the-old-country-man-of-honor",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Mafia: The Old Country - Man of Honor",
+        "rawg_id": "1018109",
+        "平台": "PC / PS5"
+      }
+    },
+    {
+      "id": "rawg-1018100",
+      "date": "2026-08-18",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Sinking City 2 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/sinking-city-2-2",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Sinking City 2",
+        "rawg_id": "1018100",
+        "平台": "PC / PS5"
+      }
+    },
+    {
+      "id": "rawg-1004520",
+      "date": "2026-08-27",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Resonance: A Plague Tale Legacy 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/resonance-a-plague-tale-legacy",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Resonance: A Plague Tale Legacy",
+        "rawg_id": "1004520",
+        "平台": "PC / PS5"
+      }
+    },
+    {
+      "id": "rawg-1002691",
+      "date": "2026-08-27",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Star Wars Zero Company 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/star-wars-zero-company",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Star Wars Zero Company",
+        "rawg_id": "1002691",
+        "平台": "PC / PS5"
+      }
+    },
+    {
+      "id": "rawg-1018108",
+      "date": "2026-08-31",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "S.T.A.L.K.E.R. 2: Cost of Hope 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/stalker-2-cost-of-hope",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "S.T.A.L.K.E.R. 2: Cost of Hope",
+        "rawg_id": "1018108",
+        "平台": "PC / PS5"
+      }
+    },
+    {
+      "id": "rawg-996046",
+      "date": "2026-09-03",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "The Blood Of Dawnwalker 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/the-blood-of-dawnwalker",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "The Blood Of Dawnwalker",
+        "rawg_id": "996046",
+        "平台": "PC / PS5"
+      }
+    },
+    {
+      "id": "rawg-662318",
+      "date": "2026-09-15",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Marvel's Wolverine 发售",
+      "description": "平台：PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/wolverine-2022",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Marvel's Wolverine",
+        "rawg_id": "662318",
+        "平台": "PS5"
+      }
+    },
+    {
+      "id": "rawg-1017960",
+      "date": "2026-09-17",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Trails in the Sky 2nd Chapter 发售",
+      "description": "平台：PC / PS5 / Switch",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/trails-in-the-sky-2nd-chapter",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Trails in the Sky 2nd Chapter",
+        "rawg_id": "1017960",
+        "平台": "PC / PS5 / Switch"
+      }
+    },
+    {
+      "id": "rawg-1018106",
+      "date": "2026-09-17",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Trine 6: Together in Time 发售",
+      "description": "平台：PC / PS5 / Switch",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/trine-6-together-in-time",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Trine 6: Together in Time",
+        "rawg_id": "1018106",
+        "平台": "PC / PS5 / Switch"
+      }
+    },
+    {
+      "id": "rawg-1008986",
+      "date": "2026-09-24",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Valor Mortis 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/valor-mortis",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Valor Mortis",
+        "rawg_id": "1008986",
+        "平台": "PC / PS5"
+      }
+    },
+    {
+      "id": "rawg-1015409",
+      "date": "2026-09-24",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Control Resonant 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/control-resonant",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Control Resonant",
+        "rawg_id": "1015409",
+        "平台": "PC / PS5",
+        "rawg_rating": "4.67"
+      }
+    },
+    {
+      "id": "rawg-868088",
+      "date": "2026-09-24",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Silent Hill Townfall 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/silent-hill-townfall",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Silent Hill Townfall",
+        "rawg_id": "868088",
+        "平台": "PC / PS5"
+      }
+    },
+    {
+      "id": "rawg-994600",
+      "date": "2026-09-25",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Onimusha: Way Of The Sword 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/onimusha-way-of-the-sword",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Onimusha: Way Of The Sword",
+        "rawg_id": "994600",
+        "平台": "PC / PS5"
+      }
+    },
+    {
+      "id": "rawg-1018059",
+      "date": "2026-10-01",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Rayman Legends Retold 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/rayman-legends-retold",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Rayman Legends Retold",
+        "rawg_id": "1018059",
+        "平台": "PC / PS5"
+      }
+    },
+    {
+      "id": "rawg-1004513",
+      "date": "2026-10-01",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "End of Abyss 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/end-of-abyss",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "End of Abyss",
+        "rawg_id": "1004513",
+        "平台": "PC / PS5"
+      }
+    },
+    {
+      "id": "rawg-1015425",
+      "date": "2026-10-02",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Ace Combat 8: Wings of Theve 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/ace-combat-8-wings-of-theve",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Ace Combat 8: Wings of Theve",
+        "rawg_id": "1015425",
+        "平台": "PC / PS5"
+      }
+    },
+    {
+      "id": "rawg-983213",
+      "date": "2026-10-06",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Gears of War: E-Day 发售",
+      "description": "平台：PC",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/gears-of-war-e-day",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Gears of War: E-Day",
+        "rawg_id": "983213",
+        "平台": "PC"
+      }
+    },
+    {
+      "id": "rawg-1018102",
+      "date": "2026-10-15",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Castlevania: Belmont's Curse 发售",
+      "description": "平台：PC / PS5 / Switch",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/castlevania-belmonts-curse",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Castlevania: Belmont's Curse",
+        "rawg_id": "1018102",
+        "平台": "PC / PS5 / Switch"
+      }
+    },
+    {
+      "id": "rawg-1016322",
+      "date": "2026-10-16",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Tenebris Somnia 发售",
+      "description": "平台：PC",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/tenebris-somnia-demo",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Tenebris Somnia",
+        "rawg_id": "1016322",
+        "平台": "PC"
+      }
+    },
+    {
+      "id": "rawg-1018134",
+      "date": "2026-10-22",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "FINAL FANTASY RESONANCE 发售",
+      "description": "平台：PC / PS5 / Switch",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/final-fantasy-resonance",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "FINAL FANTASY RESONANCE",
+        "rawg_id": "1018134",
+        "平台": "PC / PS5 / Switch"
+      }
+    },
+    {
+      "id": "rawg-961205",
+      "date": "2026-10-29",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Phantom Blade Zero 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/phantom-blade-zero",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Phantom Blade Zero",
+        "rawg_id": "961205",
+        "平台": "PC / PS5",
+        "rawg_rating": "3.50"
+      }
+    },
+    {
+      "id": "rawg-973539",
+      "date": "2026-10-30",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "No Rest for the Wicked 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/no-rest-for-the-wicked-2024",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "No Rest for the Wicked",
+        "rawg_id": "973539",
+        "平台": "PC / PS5",
+        "rawg_rating": "3.94"
+      }
+    },
+    {
+      "id": "rawg-1008979",
+      "date": "2026-10-31",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Lords of the Fallen 2 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/lords-of-the-fallen-2-2",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Lords of the Fallen 2",
+        "rawg_id": "1008979",
+        "平台": "PC / PS5"
+      }
+    },
+    {
+      "id": "rawg-972995",
+      "date": "2026-11-19",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Grand Theft Auto VI 发售",
+      "description": "平台：PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/grand-theft-aito-vi",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Grand Theft Auto VI",
+        "rawg_id": "972995",
+        "平台": "PS5",
+        "rawg_rating": "3.63"
+      }
+    },
+    {
+      "id": "rawg-998661",
+      "date": "2026-12-01",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Beautiful Light 发售",
+      "description": "平台：PC",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/beautiful-light",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Beautiful Light",
+        "rawg_id": "998661",
+        "平台": "PC"
+      }
+    },
+    {
+      "id": "rawg-1012187",
+      "date": "2026-12-16",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "They Come in Fives 发售",
+      "description": "平台：PC",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/they-come-in-fives",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "They Come in Fives",
+        "rawg_id": "1012187",
+        "平台": "PC"
+      }
+    },
+    {
+      "id": "rawg-1015972",
+      "date": "2026-12-31",
+      "year": 2026,
+      "timezone": "UTC",
+      "name": "Kena: Scars of Kosmora 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/kena-scars-of-kosmora",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Kena: Scars of Kosmora",
+        "rawg_id": "1015972",
+        "平台": "PC / PS5"
+      }
+    },
+    {
+      "id": "rawg-1015421",
+      "date": "2027-02-12",
+      "year": 2027,
+      "timezone": "UTC",
+      "name": "Tomb Raider: Legacy of Atlantis 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/tomb-raider-legacy-of-atlantis",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Tomb Raider: Legacy of Atlantis",
+        "rawg_id": "1015421",
+        "平台": "PC / PS5"
+      }
+    },
+    {
+      "id": "rawg-471026",
+      "date": "2027-02-23",
+      "year": 2027,
+      "timezone": "UTC",
+      "name": "Fable 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/fable2020",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Fable",
+        "rawg_id": "471026",
+        "平台": "PC / PS5",
+        "rawg_rating": "3.78"
+      }
+    },
+    {
+      "id": "rawg-973389",
+      "date": "2027-03-31",
+      "year": 2027,
+      "timezone": "UTC",
+      "name": "Exodus (Archetype Entertainment) 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/exodus-archetype-entertainment",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Exodus (Archetype Entertainment)",
+        "rawg_id": "973389",
+        "平台": "PC / PS5"
+      }
+    },
+    {
+      "id": "rawg-1018060",
+      "date": "2027-05-31",
+      "year": 2027,
+      "timezone": "UTC",
+      "name": "Clutch (2027) 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/clutch-2027",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Clutch (2027)",
+        "rawg_id": "1018060",
+        "平台": "PC / PS5"
+      }
+    },
+    {
+      "id": "rawg-825322",
+      "date": "2027-09-07",
+      "year": 2027,
+      "timezone": "UTC",
+      "name": "Unknown Carnivores Dinosaur Hunt Sequel 发售",
+      "description": "平台：PC",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/unknown-carnivores-dinosaur-hunt-sequel",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Unknown Carnivores Dinosaur Hunt Sequel",
+        "rawg_id": "825322",
+        "平台": "PC"
+      }
+    },
+    {
+      "id": "rawg-984070",
+      "date": "2027-12-31",
+      "year": 2027,
+      "timezone": "UTC",
+      "name": "Exodus (2026) 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/exodus-2026",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Exodus (2026)",
+        "rawg_id": "984070",
+        "平台": "PC / PS5"
+      }
+    },
+    {
+      "id": "rawg-1015411",
+      "date": "2027-12-31",
+      "year": 2027,
+      "timezone": "UTC",
+      "name": "Tomb Raider: Catalyst 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/tomb-raider-catalyst",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "Tomb Raider: Catalyst",
+        "rawg_id": "1015411",
+        "平台": "PC / PS5"
+      }
+    },
+    {
+      "id": "rawg-1004517",
+      "date": "2027-12-31",
+      "year": 2027,
+      "timezone": "UTC",
+      "name": "The Expanse: Osiris Reborn 发售",
+      "description": "平台：PC / PS5",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/the-expanse-osiris-reborn",
+      "last_verified": "2026-06-11",
+      "verified_by": "auto",
+      "details": {
+        "原始名称": "The Expanse: Osiris Reborn",
+        "rawg_id": "1004517",
+        "平台": "PC / PS5"
+      }
+    }
+  ],
+  "last_updated": "2026-06-11"
+}
