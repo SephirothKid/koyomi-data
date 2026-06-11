@@ -5,8 +5,12 @@
   "name_en": "China Postgraduate Entrance Exam",
   "subcategory": "升学",
   "exam_classification": {
-    "audiences": ["student"],
-    "tracks": ["admissions"]
+    "audiences": [
+      "student"
+    ],
+    "tracks": [
+      "admissions"
+    ]
   },
   "description": "全国硕士研究生招生考试关键时间节点，包括预报名、正式报名、网上确认、准考证、初试、成绩和复试线。",
   "icon": "/logos/exam/official-exam.png",
@@ -40,8 +44,9 @@
       "status": "completed",
       "last_verified": "2026-06-04",
       "verified_by": "community",
-      "name_en": "2026 Postgraduate Pre-registration Opens",
-      "description_en": "National postgraduate entrance exam pre-registration opens."
+      "description_en": "National postgraduate entrance exam pre-registration opens.",
+      "name_en": "2026 Postgraduate Entrance Exam Pre-Registration Start",
+      "name_zh": "2026考研预报名开始"
     },
     {
       "id": "postgraduate-exam-2026-pre-register-close",
@@ -56,8 +61,9 @@
       "status": "completed",
       "last_verified": "2026-06-04",
       "verified_by": "community",
-      "name_en": "2026 Postgraduate Pre-registration Closes",
-      "description_en": "Pre-registration closes."
+      "description_en": "Pre-registration closes.",
+      "name_en": "2026 Postgraduate Entrance Exam Pre-Registration End",
+      "name_zh": "2026考研预报名截止"
     },
     {
       "id": "postgraduate-exam-2026-register-open",
@@ -72,8 +78,9 @@
       "status": "completed",
       "last_verified": "2026-06-04",
       "verified_by": "community",
-      "name_en": "2026 Postgraduate Registration Opens",
-      "description_en": "National postgraduate entrance exam formal registration opens."
+      "description_en": "National postgraduate entrance exam formal registration opens.",
+      "name_en": "2026 Postgraduate Entrance Exam Registration Start",
+      "name_zh": "2026考研正式报名开始"
     },
     {
       "id": "postgraduate-exam-2026-register-close",
@@ -88,8 +95,9 @@
       "status": "completed",
       "last_verified": "2026-06-04",
       "verified_by": "community",
-      "name_en": "2026 Postgraduate Registration Closes",
-      "description_en": "Formal registration closes."
+      "description_en": "Formal registration closes.",
+      "name_en": "2026 Postgraduate Entrance Exam Registration End",
+      "name_zh": "2026考研正式报名截止"
     },
     {
       "id": "postgraduate-exam-2026-confirmation",
@@ -104,8 +112,9 @@
       "status": "completed",
       "last_verified": "2026-06-04",
       "verified_by": "community",
-      "name_en": "2026 Postgraduate Online Verification",
-      "description_en": "Online verification period. Exact dates determined by provincial education authorities."
+      "description_en": "Online verification period. Exact dates determined by provincial education authorities.",
+      "name_en": "2026 Postgraduate Entrance Exam Online Verification",
+      "name_zh": "2026考研网上确认"
     },
     {
       "id": "postgraduate-exam-2026-admission-ticket",
@@ -120,8 +129,9 @@
       "status": "completed",
       "last_verified": "2026-06-04",
       "verified_by": "community",
-      "name_en": "2026 Postgraduate Admission Ticket Download",
-      "description_en": "Admission ticket download opens."
+      "description_en": "Admission ticket download opens.",
+      "name_en": "2026 Postgraduate Entrance Exam Admit Card Download",
+      "name_zh": "2026考研准考证下载"
     },
     {
       "id": "postgraduate-exam-2026-initial-exam",
@@ -136,8 +146,9 @@
       "status": "completed",
       "last_verified": "2026-06-04",
       "verified_by": "community",
-      "name_en": "2026 Postgraduate Entrance Exam",
-      "description_en": "National postgraduate entrance examination."
+      "description_en": "National postgraduate entrance examination.",
+      "name_en": "2026 Postgraduate Entrance Exam Written Exam",
+      "name_zh": "2026考研初试"
     },
     {
       "id": "postgraduate-exam-2026-results",
@@ -151,8 +162,9 @@
       "status": "completed",
       "last_verified": "2026-06-04",
       "verified_by": "community",
-      "name_en": "2026 Postgraduate Entrance Exam",
-      "description_en": "National postgraduate entrance examination."
+      "description_en": "National postgraduate entrance examination.",
+      "name_en": "2026 Postgraduate Entrance Exam Score Release",
+      "name_zh": "2026考研初试成绩公布"
     },
     {
       "id": "postgraduate-exam-2026-national-line",
@@ -166,8 +178,9 @@
       "status": "completed",
       "last_verified": "2026-06-04",
       "verified_by": "community",
-      "name_en": "2026 Postgraduate National Cutoff",
-      "description_en": "National cutoff score announced."
+      "description_en": "National cutoff score announced.",
+      "name_en": "2026 Postgraduate Entrance Exam National Score Line Released",
+      "name_zh": "2026考研国家线公布"
     }
   ],
   "last_updated": "2026-06-04",

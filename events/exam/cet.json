@@ -5,8 +5,12 @@
   "name_en": "CET-4 and CET-6",
   "subcategory": "语言考试",
   "exam_classification": {
-    "audiences": ["student"],
-    "tracks": ["campus-language"]
+    "audiences": [
+      "student"
+    ],
+    "tracks": [
+      "campus-language"
+    ]
   },
   "description": "全国大学英语四、六级考试报名、笔试、成绩查询等关键时间节点。默认源不并入口语考试，避免干扰只关注笔试的用户。",
   "icon": "/logos/exam/official-exam.png",
@@ -40,8 +44,9 @@
       "status": "completed",
       "last_verified": "2026-06-09",
       "verified_by": "community",
-      "name_en": "2026 H1 CET Registration",
-      "description_en": "Registration varies by test center. Follow your school notice."
+      "description_en": "Registration varies by test center. Follow your school notice.",
+      "name_en": "2026 H1 CET (Level 4 & 6) Registration",
+      "name_zh": "2026上半年四六级报名"
     },
     {
       "id": "cet-2026-h1-written-exam",
@@ -55,8 +60,9 @@
       "status": "confirmed",
       "last_verified": "2026-06-09",
       "verified_by": "community",
-      "name_en": "2026 H1 CET Written Test",
-      "description_en": "College English Test Band 4/6 written examination."
+      "description_en": "College English Test Band 4/6 written examination.",
+      "name_en": "2026 H1 CET (Level 4 & 6) Written Exam",
+      "name_zh": "2026上半年四六级笔试"
     },
     {
       "id": "cet-2026-h1-results",
@@ -70,8 +76,9 @@
       "status": "planned",
       "last_verified": "2026-06-09",
       "verified_by": "community",
-      "name_en": "2026 H1 CET Results",
-      "description_en": "Results are expected in late August. Check the source page before making plans."
+      "description_en": "Results are expected in late August. Check the source page before making plans.",
+      "name_en": "2026 H1 CET (Level 4 & 6) Score Query",
+      "name_zh": "2026上半年四六级成绩查询"
     },
     {
       "id": "cet-2026-h2-registration",
@@ -86,8 +93,9 @@
       "status": "planned",
       "last_verified": "2026-06-09",
       "verified_by": "community",
-      "name_en": "2026 H2 CET Registration",
-      "description_en": "Registration varies by test center. Follow your school notice."
+      "description_en": "Registration varies by test center. Follow your school notice.",
+      "name_en": "2026 H2 CET (Level 4 & 6) Registration",
+      "name_zh": "2026下半年四六级报名"
     },
     {
       "id": "cet-2026-h2-written-exam",
@@ -101,8 +109,9 @@
       "status": "planned",
       "last_verified": "2026-06-09",
       "verified_by": "community",
-      "name_en": "2026 H2 CET Written Test",
-      "description_en": "College English Test Band 4/6 written examination."
+      "description_en": "College English Test Band 4/6 written examination.",
+      "name_en": "2026 H2 CET (Level 4 & 6) Written Exam",
+      "name_zh": "2026下半年四六级笔试"
     }
   ],
   "last_updated": "2026-06-09",

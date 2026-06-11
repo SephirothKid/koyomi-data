@@ -5,8 +5,13 @@
   "name_en": "China Computer Technology and Software Professional Qualification Exam",
   "subcategory": "职业资格",
   "exam_classification": {
-    "audiences": ["student", "professional"],
-    "tracks": ["it"]
+    "audiences": [
+      "student",
+      "professional"
+    ],
+    "tracks": [
+      "it"
+    ]
   },
   "description": "计算机技术与软件专业技术资格考试上半年、下半年报名、准考证、考试和成绩节点。",
   "icon": "/logos/exam/official-exam.png",
@@ -40,8 +45,9 @@
       "status": "completed",
       "last_verified": "2026-06-04",
       "verified_by": "community",
-      "name_en": "2026 H1 Software Qualification Registration",
-      "description_en": "Registration varies by region. Follow local software qualification office notice."
+      "description_en": "Registration varies by region. Follow local software qualification office notice.",
+      "name_en": "2026 H1 Software Professional Exam Registration",
+      "name_zh": "2026上半年软考报名"
     },
     {
       "id": "ruankao-2026-h1-admission-ticket",
@@ -56,8 +62,9 @@
       "status": "completed",
       "last_verified": "2026-06-04",
       "verified_by": "community",
-      "name_en": "2026 H1 Software Qualification Admission Ticket",
-      "description_en": "Admission ticket printing period. Check local notice."
+      "description_en": "Admission ticket printing period. Check local notice.",
+      "name_en": "2026 H1 Software Professional Exam Admit Card",
+      "name_zh": "2026上半年软考准考证打印"
     },
     {
       "id": "ruankao-2026-h1-exam",
@@ -72,8 +79,9 @@
       "status": "completed",
       "last_verified": "2026-06-04",
       "verified_by": "community",
-      "name_en": "2026 H1 Software Qualification Exam",
-      "description_en": "Computer technology and software professional qualification exam (first half)."
+      "description_en": "Computer technology and software professional qualification exam (first half).",
+      "name_en": "2026 H1 Software Professional Exam",
+      "name_zh": "2026上半年软考"
     },
     {
       "id": "ruankao-2026-h1-results",
@@ -87,8 +95,9 @@
       "status": "planned",
       "last_verified": "2026-06-04",
       "verified_by": "community",
-      "name_en": "2026 H1 Software Qualification Exam",
-      "description_en": "Computer technology and software professional qualification exam (first half)."
+      "description_en": "Computer technology and software professional qualification exam (first half).",
+      "name_en": "2026 H1 Software Professional Exam Score Query",
+      "name_zh": "2026上半年软考成绩查询"
     },
     {
       "id": "ruankao-2026-h2-registration",
@@ -103,8 +112,9 @@
       "status": "planned",
       "last_verified": "2026-06-04",
       "verified_by": "community",
-      "name_en": "2026 H2 Software Qualification Registration",
-      "description_en": "Registration varies by region. Follow local software qualification office notice."
+      "description_en": "Registration varies by region. Follow local software qualification office notice.",
+      "name_en": "2026 H2 Software Professional Exam Registration",
+      "name_zh": "2026下半年软考报名"
     },
     {
       "id": "ruankao-2026-h2-exam",
@@ -119,8 +129,9 @@
       "status": "planned",
       "last_verified": "2026-06-04",
       "verified_by": "community",
-      "name_en": "2026 H2 Software Qualification Exam",
-      "description_en": "Computer technology and software professional qualification exam (second half)."
+      "description_en": "Computer technology and software professional qualification exam (second half).",
+      "name_en": "2026 H2 Software Professional Exam",
+      "name_zh": "2026下半年软考"
     }
   ],
   "last_updated": "2026-06-04",

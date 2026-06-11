@@ -5,8 +5,12 @@
   "name_en": "China National Civil Service Exam",
   "subcategory": "公务员",
   "exam_classification": {
-    "audiences": ["professional"],
-    "tracks": ["public-service"]
+    "audiences": [
+      "professional"
+    ],
+    "tracks": [
+      "public-service"
+    ]
   },
   "description": "中央机关及其直属机构考试录用公务员关键时间节点，包括公告、报名、资格审查、缴费、准考证、笔试和成绩查询。",
   "icon": "/logos/exam/official-exam.png",
@@ -39,8 +43,9 @@
       "status": "completed",
       "last_verified": "2026-06-04",
       "verified_by": "community",
-      "name_en": "2026 National Civil Service Announcement",
-      "description_en": "Central government and directly-affiliated institutions recruitment announcement released."
+      "description_en": "Central government and directly-affiliated institutions recruitment announcement released.",
+      "name_en": "2026 National Civil Service Exam Announcement",
+      "name_zh": "2026年度国考公告发布"
     },
     {
       "id": "civil-service-national-2026-register-open",
@@ -55,8 +60,9 @@
       "status": "completed",
       "last_verified": "2026-06-04",
       "verified_by": "community",
-      "name_en": "2026 National Civil Service Registration Opens",
-      "description_en": "Candidates can submit applications on the source portal."
+      "description_en": "Candidates can submit applications on the source portal.",
+      "name_en": "2026 National Civil Service Exam Registration Start",
+      "name_zh": "2026年度国考报名开始"
     },
     {
       "id": "civil-service-national-2026-register-close",
@@ -71,8 +77,9 @@
       "status": "completed",
       "last_verified": "2026-06-04",
       "verified_by": "community",
-      "name_en": "2026 National Civil Service Registration Closes",
-      "description_en": "Application submission deadline. Late applications not accepted."
+      "description_en": "Application submission deadline. Late applications not accepted.",
+      "name_en": "2026 National Civil Service Exam Registration Deadline",
+      "name_zh": "2026年度国考报名截止"
     },
     {
       "id": "civil-service-national-2026-qualification-close",
@@ -87,8 +94,9 @@
       "status": "completed",
       "last_verified": "2026-06-04",
       "verified_by": "community",
-      "name_en": "2026 National Civil Service Qualification Review Ends",
-      "description_en": "Recruiting authority qualification review deadline."
+      "description_en": "Recruiting authority qualification review deadline.",
+      "name_en": "2026 National Civil Service Exam Qualification Review Deadline",
+      "name_zh": "2026年度国考资格审查截止"
     },
     {
       "id": "civil-service-national-2026-payment-close",
@@ -103,8 +111,9 @@
       "status": "completed",
       "last_verified": "2026-06-04",
       "verified_by": "community",
-      "name_en": "2026 National Civil Service Payment Deadline",
-      "description_en": "Candidates who passed qualification review must complete online confirmation and payment."
+      "description_en": "Candidates who passed qualification review must complete online confirmation and payment.",
+      "name_en": "2026 National Civil Service Exam Payment Deadline",
+      "name_zh": "2026年度国考缴费确认截止"
     },
     {
       "id": "civil-service-national-2026-admission-ticket",
@@ -119,8 +128,9 @@
       "status": "completed",
       "last_verified": "2026-06-04",
       "verified_by": "community",
-      "name_en": "2026 National Civil Service Admission Ticket",
-      "description_en": "Admission ticket printing opens."
+      "description_en": "Admission ticket printing opens.",
+      "name_en": "2026 National Civil Service Exam Admit Card",
+      "name_zh": "2026年度国考准考证打印"
     },
     {
       "id": "civil-service-national-2026-written-exam",
@@ -134,8 +144,9 @@
       "status": "completed",
       "last_verified": "2026-06-04",
       "verified_by": "community",
-      "name_en": "2026 National Civil Service Public Subject Exam",
-      "description_en": "National civil service public subject written examination."
+      "description_en": "National civil service public subject written examination.",
+      "name_en": "2026 National Civil Service Exam Written Exam",
+      "name_zh": "2026年度国考公共科目笔试"
     },
     {
       "id": "civil-service-national-2026-results",
@@ -149,8 +160,9 @@
       "status": "completed",
       "last_verified": "2026-06-04",
       "verified_by": "community",
-      "name_en": "2026 National Civil Service Written Exam",
-      "description_en": "National civil service written examination."
+      "description_en": "National civil service written examination.",
+      "name_en": "2026 National Civil Service Exam Score Query",
+      "name_zh": "2026年度国考笔试成绩查询"
     }
   ],
   "last_updated": "2026-06-04",
