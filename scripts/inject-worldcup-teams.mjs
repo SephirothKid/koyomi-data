@@ -103,8 +103,8 @@ data.events = data.events.map(event => {
   return {
     ...rest,
     teams: {
-      team1: parseTeam(t1raw),
-      team2: parseTeam(t2raw),
+      home: parseTeam(t1raw),
+      away: parseTeam(t2raw),
     },
     ...(Object.keys(restDetails).length > 0 ? { details: restDetails } : {}),
   }
