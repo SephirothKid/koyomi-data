@@ -347,6 +347,57 @@ function rawgReleaseSummary(event, isEn = false) {
     : `${firstTitle} 等 ${games.length} 款发售`
 }
 
+function bannerItemLabel(item) {
+  const base = item.title ? `${item.title}·${item.name}` : item.name
+  const meta = [item.path, item.element, item.weapon_type].filter(Boolean).join('·')
+  return meta ? `${base}（${meta}）` : base
+}
+
+function bannerTypeLabel(type, isEn = false) {
+  const labels = {
+    character: isEn ? 'Character' : '角色',
+    weapon: isEn ? 'Weapon' : '武器',
+    light_cone: isEn ? 'Light Cone' : '光锥',
+    bangboo: isEn ? 'Bangboo' : '邦布',
+    standard: isEn ? 'Standard' : '常驻',
+    collaboration: isEn ? 'Collaboration' : '联动',
+    other: isEn ? 'Banner' : '卡池',
+  }
+  return labels[type] ?? labels.other
+}
+
+function bannerDescription(event, isEn = false) {
+  const banners = event.banners ?? []
+  if (banners.length === 0) return ''
+
+  const fiveLabel = isEn ? '5-star rate-up' : '5星 UP'
+  const fourLabel = isEn ? '4-star rate-up' : '4星 UP'
+  return banners.map((banner, index) => {
+    const lines = [`${index + 1}. ${banner.name}（${bannerTypeLabel(banner.type, isEn)}）`]
+    if (banner.featured_5?.length) {
+      lines.push(`${fiveLabel}: ${banner.featured_5.map(bannerItemLabel).join(' / ')}`)
+    }
+    if (banner.featured_4?.length) {
+      lines.push(`${fourLabel}: ${banner.featured_4.map(bannerItemLabel).join(' / ')}`)
+    }
+    return lines.join('\n')
+  }).join('\n')
+}
+
+function gameMetaDescription(event, isEn = false) {
+  if (!event.game) return ''
+
+  const labels = isEn
+    ? { version: 'Version', phase: 'Phase', sourceKind: 'Type', source: 'Official source' }
+    : { version: '版本', phase: '阶段', sourceKind: '类型', source: '官方来源' }
+  const lines = []
+  if (event.game.version) lines.push(`${labels.version}: ${event.game.version}`)
+  if (event.game.phase) lines.push(`${labels.phase}: ${event.game.phase}`)
+  if (event.game.source_kind) lines.push(`${labels.sourceKind}: ${event.game.source_kind}`)
+  if (event.game.source_title) lines.push(`${labels.source}: ${event.game.source_title}`)
+  return lines.join('\n')
+}
+
 // 获取源名称（根据语言）
 function sourceName(source, isEn = false) {
   if (isEn && source.name_en) return source.name_en
@@ -432,6 +483,14 @@ function createCalendar(source, events, options = {}) {
           return `${i + 1}. ${title}${meta.length ? ` (${meta.join(' · ')})` : ''}`
         }).join('\n')
       )
+    }
+
+    const gameMeta = gameMetaDescription(event, isEn)
+    if (gameMeta) descParts.push(gameMeta)
+
+    const banners = bannerDescription(event, isEn)
+    if (banners) {
+      descParts.push(isEn ? `Banners:\n${banners}` : `卡池信息：\n${banners}`)
     }
 
     // 详情键值对

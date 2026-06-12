@@ -24,447 +24,1736 @@
   "rating_count": 650,
   "events": [
     {
-      "id": "honkai-star-rail-2026-v3-8-preview",
-      "name": "崩坏：星穹铁道 3.8 前瞻直播窗口",
-      "date": "2026-01-01",
+      "id": "honkai-star-rail-2026-162707-maintenance",
+      "name": "崩坏：星穹铁道 4.0 版本维护更新",
+      "date": "2026-02-13",
+      "end_date": "2026-02-13",
+      "time": "06:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "崩坏：星穹铁道官方版本维护更新。",
+      "url": "https://sr.mihoyo.com/news/detail/162707",
+      "status": "completed",
+      "last_verified": "2026-06-12",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "更新时间 2026/02/13 06:00开始，预计5个小时完成",
+        "官方公告": "4.0版本「满月是神不在的时间」版本更新说明"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "version_update",
+        "source_content_id": "162707",
+        "source_title": "4.0版本「满月是神不在的时间」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/detail/162707",
+        "version": "4.0"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-162707-version",
+      "name": "崩坏：星穹铁道 4.0 版本周期",
+      "date": "2026-02-13",
+      "end_date": "2026-03-25",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 4.0 版本官方持续时间。",
+      "url": "https://sr.mihoyo.com/news/detail/162707",
+      "status": "completed",
+      "last_verified": "2026-06-12",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2026/02/13 4.0版本更新后 - 2026/03/25 06:00",
+        "开始时间": "版本更新后",
+        "截止时间": "2026-03-25 06:00",
+        "官方公告": "4.0版本「满月是神不在的时间」版本更新说明"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "version",
+        "source_content_id": "162707",
+        "source_title": "4.0版本「满月是神不在的时间」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/detail/162707",
+        "version": "4.0"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-162979-warps",
+      "name": "崩坏：星穹铁道 4.0 第二期跃迁：火花 / 花花世界迷人眼 / 爻光 / 当她决定看见 等 10 个",
+      "date": "2026-03-03",
+      "end_date": "2026-03-24",
+      "time": "12:00",
+      "end_time": "15:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "崩坏：星穹铁道官方活动跃迁（第二期）。",
+      "url": "https://sr.mihoyo.com/news/detail/162979",
+      "status": "completed",
+      "last_verified": "2026-06-12",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2026/03/03 12:00 - 2026/03/24 15:00",
+        "角色池「狂欢企划」5星": "火花",
+        "角色池「狂欢企划」4星": "佩拉 / 寒鸦 / 青雀",
+        "武器/光锥池「流光定影•花花世界迷人眼」5星": "花花世界迷人眼",
+        "武器/光锥池「流光定影•花花世界迷人眼」4星": "与行星相会 / 决心如汗珠般闪耀 / 故事的下一页",
+        "角色池「光映千翎」5星": "爻光",
+        "角色池「光映千翎」4星": "佩拉 / 寒鸦 / 青雀",
+        "武器/光锥池「流光定影•当她决定看见」5星": "当她决定看见",
+        "武器/光锥池「流光定影•当她决定看见」4星": "与行星相会 / 决心如汗珠般闪耀 / 故事的下一页",
+        "角色池「铭心之萃•刻律德菈」5星": "刻律德菈",
+        "角色池「铭心之萃•刻律德菈」4星": "佩拉 / 寒鸦 / 青雀",
+        "武器/光锥池「真意之汇•金血铭刻的时代」5星": "金血铭刻的时代",
+        "武器/光锥池「真意之汇•金血铭刻的时代」4星": "与行星相会 / 决心如汗珠般闪耀 / 故事的下一页",
+        "角色池「铭心之萃•乱破」5星": "乱破",
+        "角色池「铭心之萃•乱破」4星": "佩拉 / 寒鸦 / 青雀",
+        "武器/光锥池「真意之汇•忍法帖•缭乱破魔」5星": "忍法帖•缭乱破魔",
+        "武器/光锥池「真意之汇•忍法帖•缭乱破魔」4星": "与行星相会 / 决心如汗珠般闪耀 / 故事的下一页",
+        "角色池「铭心之萃•花火」5星": "花火",
+        "角色池「铭心之萃•花火」4星": "佩拉 / 寒鸦 / 青雀",
+        "武器/光锥池「真意之汇•游戏尘寰」5星": "游戏尘寰",
+        "武器/光锥池「真意之汇•游戏尘寰」4星": "与行星相会 / 决心如汗珠般闪耀 / 故事的下一页",
+        "官方公告": "4.0版本活动跃迁（其二）"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "banner",
+        "source_content_id": "162979",
+        "source_title": "4.0版本活动跃迁（其二）",
+        "source_url": "https://sr.mihoyo.com/news/detail/162979",
+        "version": "4.0",
+        "phase": "phase2"
+      },
+      "banners": [
+        {
+          "name": "狂欢企划",
+          "type": "character",
+          "featured_5": [
+            {
+              "name": "火花",
+              "path": "欢愉",
+              "element": "火",
+              "kind": "character",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "佩拉",
+              "path": "虚无",
+              "element": "冰",
+              "kind": "character",
+              "rarity": 4
+            },
+            {
+              "name": "寒鸦",
+              "path": "同谐",
+              "element": "物理",
+              "kind": "character",
+              "rarity": 4
+            },
+            {
+              "name": "青雀",
+              "path": "智识",
+              "element": "量子",
+              "kind": "character",
+              "rarity": 4
+            }
+          ],
+          "source_content_id": "162979",
+          "source_url": "https://sr.mihoyo.com/news/detail/162979",
+          "phase": "phase2"
+        },
+        {
+          "name": "流光定影•花花世界迷人眼",
+          "type": "light_cone",
+          "featured_5": [
+            {
+              "name": "花花世界迷人眼",
+              "path": "欢愉",
+              "kind": "light_cone",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "与行星相会",
+              "path": "同谐",
+              "kind": "light_cone",
+              "rarity": 4
+            },
+            {
+              "name": "决心如汗珠般闪耀",
+              "path": "虚无",
+              "kind": "light_cone",
+              "rarity": 4
+            },
+            {
+              "name": "故事的下一页",
+              "path": "记忆",
+              "kind": "light_cone",
+              "rarity": 4
+            }
+          ],
+          "source_content_id": "162979",
+          "source_url": "https://sr.mihoyo.com/news/detail/162979",
+          "phase": "phase2"
+        },
+        {
+          "name": "光映千翎",
+          "type": "character",
+          "featured_5": [
+            {
+              "name": "爻光",
+              "path": "欢愉",
+              "element": "物理",
+              "kind": "character",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "佩拉",
+              "path": "虚无",
+              "element": "冰",
+              "kind": "character",
+              "rarity": 4
+            },
+            {
+              "name": "寒鸦",
+              "path": "同谐",
+              "element": "物理",
+              "kind": "character",
+              "rarity": 4
+            },
+            {
+              "name": "青雀",
+              "path": "智识",
+              "element": "量子",
+              "kind": "character",
+              "rarity": 4
+            }
+          ],
+          "source_content_id": "162979",
+          "source_url": "https://sr.mihoyo.com/news/detail/162979",
+          "phase": "phase2"
+        },
+        {
+          "name": "流光定影•当她决定看见",
+          "type": "light_cone",
+          "featured_5": [
+            {
+              "name": "当她决定看见",
+              "path": "欢愉",
+              "kind": "light_cone",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "与行星相会",
+              "path": "同谐",
+              "kind": "light_cone",
+              "rarity": 4
+            },
+            {
+              "name": "决心如汗珠般闪耀",
+              "path": "虚无",
+              "kind": "light_cone",
+              "rarity": 4
+            },
+            {
+              "name": "故事的下一页",
+              "path": "记忆",
+              "kind": "light_cone",
+              "rarity": 4
+            }
+          ],
+          "source_content_id": "162979",
+          "source_url": "https://sr.mihoyo.com/news/detail/162979",
+          "phase": "phase2"
+        },
+        {
+          "name": "铭心之萃•刻律德菈",
+          "type": "character",
+          "featured_5": [
+            {
+              "name": "刻律德菈",
+              "path": "同谐",
+              "element": "风",
+              "kind": "character",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "佩拉",
+              "path": "虚无",
+              "element": "冰",
+              "kind": "character",
+              "rarity": 4
+            },
+            {
+              "name": "寒鸦",
+              "path": "同谐",
+              "element": "物理",
+              "kind": "character",
+              "rarity": 4
+            },
+            {
+              "name": "青雀",
+              "path": "智识",
+              "element": "量子",
+              "kind": "character",
+              "rarity": 4
+            }
+          ],
+          "source_content_id": "162979",
+          "source_url": "https://sr.mihoyo.com/news/detail/162979",
+          "phase": "phase2"
+        },
+        {
+          "name": "真意之汇•金血铭刻的时代",
+          "type": "light_cone",
+          "featured_5": [
+            {
+              "name": "金血铭刻的时代",
+              "path": "同谐",
+              "kind": "light_cone",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "与行星相会",
+              "path": "同谐",
+              "kind": "light_cone",
+              "rarity": 4
+            },
+            {
+              "name": "决心如汗珠般闪耀",
+              "path": "虚无",
+              "kind": "light_cone",
+              "rarity": 4
+            },
+            {
+              "name": "故事的下一页",
+              "path": "记忆",
+              "kind": "light_cone",
+              "rarity": 4
+            }
+          ],
+          "source_content_id": "162979",
+          "source_url": "https://sr.mihoyo.com/news/detail/162979",
+          "phase": "phase2"
+        },
+        {
+          "name": "铭心之萃•乱破",
+          "type": "character",
+          "featured_5": [
+            {
+              "name": "乱破",
+              "path": "智识",
+              "element": "虚数",
+              "kind": "character",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "佩拉",
+              "path": "虚无",
+              "element": "冰",
+              "kind": "character",
+              "rarity": 4
+            },
+            {
+              "name": "寒鸦",
+              "path": "同谐",
+              "element": "物理",
+              "kind": "character",
+              "rarity": 4
+            },
+            {
+              "name": "青雀",
+              "path": "智识",
+              "element": "量子",
+              "kind": "character",
+              "rarity": 4
+            }
+          ],
+          "source_content_id": "162979",
+          "source_url": "https://sr.mihoyo.com/news/detail/162979",
+          "phase": "phase2"
+        },
+        {
+          "name": "真意之汇•忍法帖•缭乱破魔",
+          "type": "light_cone",
+          "featured_5": [
+            {
+              "name": "忍法帖•缭乱破魔",
+              "path": "智识",
+              "kind": "light_cone",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "与行星相会",
+              "path": "同谐",
+              "kind": "light_cone",
+              "rarity": 4
+            },
+            {
+              "name": "决心如汗珠般闪耀",
+              "path": "虚无",
+              "kind": "light_cone",
+              "rarity": 4
+            },
+            {
+              "name": "故事的下一页",
+              "path": "记忆",
+              "kind": "light_cone",
+              "rarity": 4
+            }
+          ],
+          "source_content_id": "162979",
+          "source_url": "https://sr.mihoyo.com/news/detail/162979",
+          "phase": "phase2"
+        },
+        {
+          "name": "铭心之萃•花火",
+          "type": "character",
+          "featured_5": [
+            {
+              "name": "花火",
+              "path": "同谐",
+              "element": "量子",
+              "kind": "character",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "佩拉",
+              "path": "虚无",
+              "element": "冰",
+              "kind": "character",
+              "rarity": 4
+            },
+            {
+              "name": "寒鸦",
+              "path": "同谐",
+              "element": "物理",
+              "kind": "character",
+              "rarity": 4
+            },
+            {
+              "name": "青雀",
+              "path": "智识",
+              "element": "量子",
+              "kind": "character",
+              "rarity": 4
+            }
+          ],
+          "source_content_id": "162979",
+          "source_url": "https://sr.mihoyo.com/news/detail/162979",
+          "phase": "phase2"
+        },
+        {
+          "name": "真意之汇•游戏尘寰",
+          "type": "light_cone",
+          "featured_5": [
+            {
+              "name": "游戏尘寰",
+              "path": "同谐",
+              "kind": "light_cone",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "与行星相会",
+              "path": "同谐",
+              "kind": "light_cone",
+              "rarity": 4
+            },
+            {
+              "name": "决心如汗珠般闪耀",
+              "path": "虚无",
+              "kind": "light_cone",
+              "rarity": 4
+            },
+            {
+              "name": "故事的下一页",
+              "path": "记忆",
+              "kind": "light_cone",
+              "rarity": 4
+            }
+          ],
+          "source_content_id": "162979",
+          "source_url": "https://sr.mihoyo.com/news/detail/162979",
+          "phase": "phase2"
+        }
+      ]
+    },
+    {
+      "id": "honkai-star-rail-2026-163276-maintenance",
+      "name": "崩坏：星穹铁道 4.1 版本维护更新",
+      "date": "2026-03-25",
+      "end_date": "2026-03-25",
+      "time": "06:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "崩坏：星穹铁道官方版本维护更新。",
+      "url": "https://sr.mihoyo.com/news/detail/163276",
+      "status": "completed",
+      "last_verified": "2026-06-12",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "更新时间 2026/03/25 06:00开始，预计5个小时完成",
+        "官方公告": "4.1版本「献给破晓的失控」版本更新说明"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "version_update",
+        "source_content_id": "163276",
+        "source_title": "4.1版本「献给破晓的失控」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/detail/163276",
+        "version": "4.1"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-163276-version",
+      "name": "崩坏：星穹铁道 4.1 版本周期",
+      "date": "2026-03-25",
+      "end_date": "2026-04-22",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 4.1 版本官方持续时间。",
+      "url": "https://sr.mihoyo.com/news/detail/163276",
+      "status": "completed",
+      "last_verified": "2026-06-12",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2026/03/25 4.1版本更新后 - 2026/04/22 06:00",
+        "开始时间": "版本更新后",
+        "截止时间": "2026-04-22 06:00",
+        "官方公告": "4.1版本「献给破晓的失控」版本更新说明"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "version",
+        "source_content_id": "163276",
+        "source_title": "4.1版本「献给破晓的失控」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/detail/163276",
+        "version": "4.1"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-163439-warps",
+      "name": "崩坏：星穹铁道 4.1 第二期跃迁：不死途 / 一场谎言的终幕 / 波提欧 / 驶向第二次生命",
+      "date": "2026-04-08",
+      "end_date": "2026-04-21",
+      "time": "12:00",
+      "end_time": "15:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "崩坏：星穹铁道官方活动跃迁（第二期）。",
+      "url": "https://sr.mihoyo.com/news/detail/163439",
+      "status": "completed",
+      "last_verified": "2026-06-12",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2026/04/08 12:00 - 2026/04/21 15:00",
+        "角色池「长夜狩影」5星": "不死途",
+        "角色池「长夜狩影」4星": "艾丝妲 / 貊泽 / 米沙",
+        "武器/光锥池「流光定影•一场谎言的终幕」5星": "一场谎言的终幕",
+        "武器/光锥池「流光定影•一场谎言的终幕」4星": "别让世界静下来 / 黑夜如影随行 / 梦的蒙太奇",
+        "角色池「扬尘孤星」5星": "波提欧",
+        "角色池「扬尘孤星」4星": "艾丝妲 / 貊泽 / 米沙",
+        "武器/光锥池「溯回忆象•驶向第二次生命」5星": "驶向第二次生命",
+        "武器/光锥池「溯回忆象•驶向第二次生命」4星": "别让世界静下来 / 黑夜如影随行 / 梦的蒙太奇",
+        "官方公告": "4.1版本活动跃迁（其二）"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "banner",
+        "source_content_id": "163439",
+        "source_title": "4.1版本活动跃迁（其二）",
+        "source_url": "https://sr.mihoyo.com/news/detail/163439",
+        "version": "4.1",
+        "phase": "phase2"
+      },
+      "banners": [
+        {
+          "name": "长夜狩影",
+          "type": "character",
+          "featured_5": [
+            {
+              "name": "不死途",
+              "path": "巡猎",
+              "element": "雷",
+              "kind": "character",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "艾丝妲",
+              "path": "同谐",
+              "element": "火",
+              "kind": "character",
+              "rarity": 4
+            },
+            {
+              "name": "貊泽",
+              "path": "巡猎",
+              "element": "雷",
+              "kind": "character",
+              "rarity": 4
+            },
+            {
+              "name": "米沙",
+              "path": "毁灭",
+              "element": "冰",
+              "kind": "character",
+              "rarity": 4
+            }
+          ],
+          "source_content_id": "163439",
+          "source_url": "https://sr.mihoyo.com/news/detail/163439",
+          "phase": "phase2"
+        },
+        {
+          "name": "流光定影•一场谎言的终幕",
+          "type": "light_cone",
+          "featured_5": [
+            {
+              "name": "一场谎言的终幕",
+              "path": "巡猎",
+              "kind": "light_cone",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "别让世界静下来",
+              "path": "智识",
+              "kind": "light_cone",
+              "rarity": 4
+            },
+            {
+              "name": "黑夜如影随行",
+              "path": "巡猎",
+              "kind": "light_cone",
+              "rarity": 4
+            },
+            {
+              "name": "梦的蒙太奇",
+              "path": "丰饶",
+              "kind": "light_cone",
+              "rarity": 4
+            }
+          ],
+          "source_content_id": "163439",
+          "source_url": "https://sr.mihoyo.com/news/detail/163439",
+          "phase": "phase2"
+        },
+        {
+          "name": "扬尘孤星",
+          "type": "character",
+          "featured_5": [
+            {
+              "name": "波提欧",
+              "path": "巡猎",
+              "element": "物理",
+              "kind": "character",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "艾丝妲",
+              "path": "同谐",
+              "element": "火",
+              "kind": "character",
+              "rarity": 4
+            },
+            {
+              "name": "貊泽",
+              "path": "巡猎",
+              "element": "雷",
+              "kind": "character",
+              "rarity": 4
+            },
+            {
+              "name": "米沙",
+              "path": "毁灭",
+              "element": "冰",
+              "kind": "character",
+              "rarity": 4
+            }
+          ],
+          "source_content_id": "163439",
+          "source_url": "https://sr.mihoyo.com/news/detail/163439",
+          "phase": "phase2"
+        },
+        {
+          "name": "溯回忆象•驶向第二次生命",
+          "type": "light_cone",
+          "featured_5": [
+            {
+              "name": "驶向第二次生命",
+              "path": "巡猎",
+              "kind": "light_cone",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "别让世界静下来",
+              "path": "智识",
+              "kind": "light_cone",
+              "rarity": 4
+            },
+            {
+              "name": "黑夜如影随行",
+              "path": "巡猎",
+              "kind": "light_cone",
+              "rarity": 4
+            },
+            {
+              "name": "梦的蒙太奇",
+              "path": "丰饶",
+              "kind": "light_cone",
+              "rarity": 4
+            }
+          ],
+          "source_content_id": "163439",
+          "source_url": "https://sr.mihoyo.com/news/detail/163439",
+          "phase": "phase2"
+        }
+      ]
+    },
+    {
+      "id": "honkai-star-rail-2026-163630-maintenance",
+      "name": "崩坏：星穹铁道 4.2 版本维护更新",
+      "date": "2026-04-22",
+      "end_date": "2026-04-22",
+      "time": "06:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "崩坏：星穹铁道官方版本维护更新。",
+      "url": "https://sr.mihoyo.com/news/detail/163630",
+      "status": "completed",
+      "last_verified": "2026-06-12",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "更新时间 2026/04/22 06:00开始，预计5个小时完成",
+        "官方公告": "4.2版本「如是，众生欢笑不已」版本更新说明"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "version_update",
+        "source_content_id": "163630",
+        "source_title": "4.2版本「如是，众生欢笑不已」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/detail/163630",
+        "version": "4.2"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-163630-version",
+      "name": "崩坏：星穹铁道 4.2 版本周期",
+      "date": "2026-04-22",
+      "end_date": "2026-06-01",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 4.2 版本官方持续时间。",
+      "url": "https://sr.mihoyo.com/news/detail/163630",
+      "status": "completed",
+      "last_verified": "2026-06-12",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2026/04/22 4.2版本更新后 - 2026/06/01 06:00",
+        "开始时间": "版本更新后",
+        "截止时间": "2026-06-01 06:00",
+        "官方公告": "4.2版本「如是，众生欢笑不已」版本更新说明"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "version",
+        "source_content_id": "163630",
+        "source_title": "4.2版本「如是，众生欢笑不已」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/detail/163630",
+        "version": "4.2"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-163630-activity",
+      "name": "崩坏：星穹铁道 又上骰了！战力党！",
+      "date": "2026-04-29",
+      "end_date": "2026-06-01",
+      "time": "12:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "崩坏：星穹铁道官方版本活动：又上骰了！战力党！。",
+      "url": "https://sr.mihoyo.com/news/detail/163630",
+      "status": "completed",
+      "last_verified": "2026-06-12",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2026/04/29 12:00 - 2026/06/01 03:59",
+        "活动": "又上骰了！战力党！",
+        "官方公告": "4.2版本「如是，众生欢笑不已」版本更新说明"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "activity",
+        "source_content_id": "163630",
+        "source_title": "4.2版本「如是，众生欢笑不已」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/detail/163630",
+        "version": "4.2",
+        "activity_name": "又上骰了！战力党！"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-163927-warps",
+      "name": "崩坏：星穹铁道 4.2 第二期跃迁：绯英 / 邂逅于下一个花季 / 缇宝 / 如果时间是一朵花 等 8 个",
+      "date": "2026-05-13",
+      "end_date": "2026-06-01",
+      "time": "12:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "崩坏：星穹铁道官方活动跃迁（第二期）。",
+      "url": "https://sr.mihoyo.com/news/detail/163927",
+      "status": "completed",
+      "last_verified": "2026-06-12",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2026/05/13 12:00 - 2026/06/01 03:59",
+        "角色池「韶艾裁英」5星": "绯英",
+        "角色池「韶艾裁英」4星": "桂乃芬 / 玲可 / 素裳",
+        "武器/光锥池「流光定影•邂逅于下一个花季」5星": "邂逅于下一个花季",
+        "武器/光锥池「流光定影•邂逅于下一个花季」4星": "论剑 / 记忆中的模样 / 同一种心情",
+        "角色池「铭心之萃•缇宝」5星": "缇宝",
+        "角色池「铭心之萃•缇宝」4星": "桂乃芬 / 玲可 / 素裳",
+        "武器/光锥池「真意之汇•如果时间是一朵花」5星": "如果时间是一朵花",
+        "武器/光锥池「真意之汇•如果时间是一朵花」4星": "论剑 / 记忆中的模样 / 同一种心情",
+        "角色池「铭心之萃•星期日」5星": "星期日",
+        "角色池「铭心之萃•星期日」4星": "桂乃芬 / 玲可 / 素裳",
+        "武器/光锥池「真意之汇•回到大地的飞行」5星": "回到大地的飞行",
+        "武器/光锥池「真意之汇•回到大地的飞行」4星": "论剑 / 记忆中的模样 / 同一种心情",
+        "角色池「铭心之萃•飞霄」5星": "飞霄",
+        "角色池「铭心之萃•飞霄」4星": "桂乃芬 / 玲可 / 素裳",
+        "武器/光锥池「真意之汇•我将，巡征追猎」5星": "我将，巡征追猎",
+        "武器/光锥池「真意之汇•我将，巡征追猎」4星": "论剑 / 记忆中的模样 / 同一种心情",
+        "官方公告": "4.2版本活动跃迁（其二）"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "banner",
+        "source_content_id": "163927",
+        "source_title": "4.2版本活动跃迁（其二）",
+        "source_url": "https://sr.mihoyo.com/news/detail/163927",
+        "version": "4.2",
+        "phase": "phase2"
+      },
+      "banners": [
+        {
+          "name": "韶艾裁英",
+          "type": "character",
+          "featured_5": [
+            {
+              "name": "绯英",
+              "path": "欢愉",
+              "element": "物理",
+              "kind": "character",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "桂乃芬",
+              "path": "虚无",
+              "element": "火",
+              "kind": "character",
+              "rarity": 4
+            },
+            {
+              "name": "玲可",
+              "path": "丰饶",
+              "element": "量子",
+              "kind": "character",
+              "rarity": 4
+            },
+            {
+              "name": "素裳",
+              "path": "巡猎",
+              "element": "物理",
+              "kind": "character",
+              "rarity": 4
+            }
+          ],
+          "source_content_id": "163927",
+          "source_url": "https://sr.mihoyo.com/news/detail/163927",
+          "phase": "phase2"
+        },
+        {
+          "name": "流光定影•邂逅于下一个花季",
+          "type": "light_cone",
+          "featured_5": [
+            {
+              "name": "邂逅于下一个花季",
+              "path": "欢愉",
+              "kind": "light_cone",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "论剑",
+              "path": "巡猎",
+              "kind": "light_cone",
+              "rarity": 4
+            },
+            {
+              "name": "记忆中的模样",
+              "path": "同谐",
+              "kind": "light_cone",
+              "rarity": 4
+            },
+            {
+              "name": "同一种心情",
+              "path": "丰饶",
+              "kind": "light_cone",
+              "rarity": 4
+            }
+          ],
+          "source_content_id": "163927",
+          "source_url": "https://sr.mihoyo.com/news/detail/163927",
+          "phase": "phase2"
+        },
+        {
+          "name": "铭心之萃•缇宝",
+          "type": "character",
+          "featured_5": [
+            {
+              "name": "缇宝",
+              "path": "同谐",
+              "element": "量子",
+              "kind": "character",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "桂乃芬",
+              "path": "虚无",
+              "element": "火",
+              "kind": "character",
+              "rarity": 4
+            },
+            {
+              "name": "玲可",
+              "path": "丰饶",
+              "element": "量子",
+              "kind": "character",
+              "rarity": 4
+            },
+            {
+              "name": "素裳",
+              "path": "巡猎",
+              "element": "物理",
+              "kind": "character",
+              "rarity": 4
+            }
+          ],
+          "source_content_id": "163927",
+          "source_url": "https://sr.mihoyo.com/news/detail/163927",
+          "phase": "phase2"
+        },
+        {
+          "name": "真意之汇•如果时间是一朵花",
+          "type": "light_cone",
+          "featured_5": [
+            {
+              "name": "如果时间是一朵花",
+              "path": "同谐",
+              "kind": "light_cone",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "论剑",
+              "path": "巡猎",
+              "kind": "light_cone",
+              "rarity": 4
+            },
+            {
+              "name": "记忆中的模样",
+              "path": "同谐",
+              "kind": "light_cone",
+              "rarity": 4
+            },
+            {
+              "name": "同一种心情",
+              "path": "丰饶",
+              "kind": "light_cone",
+              "rarity": 4
+            }
+          ],
+          "source_content_id": "163927",
+          "source_url": "https://sr.mihoyo.com/news/detail/163927",
+          "phase": "phase2"
+        },
+        {
+          "name": "铭心之萃•星期日",
+          "type": "character",
+          "featured_5": [
+            {
+              "name": "星期日",
+              "path": "同谐",
+              "element": "虚数",
+              "kind": "character",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "桂乃芬",
+              "path": "虚无",
+              "element": "火",
+              "kind": "character",
+              "rarity": 4
+            },
+            {
+              "name": "玲可",
+              "path": "丰饶",
+              "element": "量子",
+              "kind": "character",
+              "rarity": 4
+            },
+            {
+              "name": "素裳",
+              "path": "巡猎",
+              "element": "物理",
+              "kind": "character",
+              "rarity": 4
+            }
+          ],
+          "source_content_id": "163927",
+          "source_url": "https://sr.mihoyo.com/news/detail/163927",
+          "phase": "phase2"
+        },
+        {
+          "name": "真意之汇•回到大地的飞行",
+          "type": "light_cone",
+          "featured_5": [
+            {
+              "name": "回到大地的飞行",
+              "path": "同谐",
+              "kind": "light_cone",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "论剑",
+              "path": "巡猎",
+              "kind": "light_cone",
+              "rarity": 4
+            },
+            {
+              "name": "记忆中的模样",
+              "path": "同谐",
+              "kind": "light_cone",
+              "rarity": 4
+            },
+            {
+              "name": "同一种心情",
+              "path": "丰饶",
+              "kind": "light_cone",
+              "rarity": 4
+            }
+          ],
+          "source_content_id": "163927",
+          "source_url": "https://sr.mihoyo.com/news/detail/163927",
+          "phase": "phase2"
+        },
+        {
+          "name": "铭心之萃•飞霄",
+          "type": "character",
+          "featured_5": [
+            {
+              "name": "飞霄",
+              "path": "巡猎",
+              "element": "风",
+              "kind": "character",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "桂乃芬",
+              "path": "虚无",
+              "element": "火",
+              "kind": "character",
+              "rarity": 4
+            },
+            {
+              "name": "玲可",
+              "path": "丰饶",
+              "element": "量子",
+              "kind": "character",
+              "rarity": 4
+            },
+            {
+              "name": "素裳",
+              "path": "巡猎",
+              "element": "物理",
+              "kind": "character",
+              "rarity": 4
+            }
+          ],
+          "source_content_id": "163927",
+          "source_url": "https://sr.mihoyo.com/news/detail/163927",
+          "phase": "phase2"
+        },
+        {
+          "name": "真意之汇•我将，巡征追猎",
+          "type": "light_cone",
+          "featured_5": [
+            {
+              "name": "我将，巡征追猎",
+              "path": "巡猎",
+              "kind": "light_cone",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "论剑",
+              "path": "巡猎",
+              "kind": "light_cone",
+              "rarity": 4
+            },
+            {
+              "name": "记忆中的模样",
+              "path": "同谐",
+              "kind": "light_cone",
+              "rarity": 4
+            },
+            {
+              "name": "同一种心情",
+              "path": "丰饶",
+              "kind": "light_cone",
+              "rarity": 4
+            }
+          ],
+          "source_content_id": "163927",
+          "source_url": "https://sr.mihoyo.com/news/detail/163927",
+          "phase": "phase2"
+        }
+      ]
+    },
+    {
+      "id": "honkai-star-rail-2026-164426-maintenance",
+      "name": "崩坏：星穹铁道 4.3 版本维护更新",
+      "date": "2026-06-01",
+      "end_date": "2026-06-01",
+      "time": "06:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "崩坏：星穹铁道官方版本维护更新。",
+      "url": "https://sr.mihoyo.com/news/detail/164426",
+      "status": "completed",
+      "last_verified": "2026-06-12",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "更新时间 2026/06/01 06:00开始，预计5个小时完成",
+        "官方公告": "4.3版本「沉于生者的忘川」版本更新说明"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "version_update",
+        "source_content_id": "164426",
+        "source_title": "4.3版本「沉于生者的忘川」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/detail/164426",
+        "version": "4.3"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-164425-warps",
+      "name": "崩坏：星穹铁道 4.3 第一期跃迁：千冶•刃 / 灼尽炼狱的新骸 / 爻光 / 当她决定看见",
+      "date": "2026-06-01",
+      "end_date": "2026-06-24",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "崩坏：星穹铁道官方活动跃迁（第一期）。",
+      "url": "https://sr.mihoyo.com/news/detail/164425",
+      "status": "active",
+      "last_verified": "2026-06-12",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2026/06/01 4.3版本更新后 - 2026/06/24 11:59",
+        "开始时间": "版本更新后",
+        "截止时间": "2026-06-24 11:59",
+        "角色池「我身即刃」5星": "千冶•刃",
+        "角色池「我身即刃」4星": "桑博 / 卢卡 / 停云",
+        "武器/光锥池「流光定影•灼尽炼狱的新骸」5星": "灼尽炼狱的新骸",
+        "武器/光锥池「流光定影•灼尽炼狱的新骸」4星": "晚安与睡颜 / 余生的第一天 / 鼹鼠党欢迎你",
+        "角色池「光映千翎」5星": "爻光",
+        "角色池「光映千翎」4星": "桑博 / 卢卡 / 停云",
+        "武器/光锥池「溯回忆象•当她决定看见」5星": "当她决定看见",
+        "武器/光锥池「溯回忆象•当她决定看见」4星": "晚安与睡颜 / 余生的第一天 / 鼹鼠党欢迎你",
+        "官方公告": "4.3版本活动跃迁（其一）"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "banner",
+        "source_content_id": "164425",
+        "source_title": "4.3版本活动跃迁（其一）",
+        "source_url": "https://sr.mihoyo.com/news/detail/164425",
+        "version": "4.3",
+        "phase": "phase1"
+      },
+      "banners": [
+        {
+          "name": "我身即刃",
+          "type": "character",
+          "featured_5": [
+            {
+              "name": "千冶•刃",
+              "path": "虚无",
+              "element": "火",
+              "kind": "character",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "桑博",
+              "path": "虚无",
+              "element": "风",
+              "kind": "character",
+              "rarity": 4
+            },
+            {
+              "name": "卢卡",
+              "path": "虚无",
+              "element": "物理",
+              "kind": "character",
+              "rarity": 4
+            },
+            {
+              "name": "停云",
+              "path": "同谐",
+              "element": "雷",
+              "kind": "character",
+              "rarity": 4
+            }
+          ],
+          "source_content_id": "164425",
+          "source_url": "https://sr.mihoyo.com/news/detail/164425",
+          "phase": "phase1"
+        },
+        {
+          "name": "流光定影•灼尽炼狱的新骸",
+          "type": "light_cone",
+          "featured_5": [
+            {
+              "name": "灼尽炼狱的新骸",
+              "path": "虚无",
+              "kind": "light_cone",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "晚安与睡颜",
+              "path": "虚无",
+              "kind": "light_cone",
+              "rarity": 4
+            },
+            {
+              "name": "余生的第一天",
+              "path": "存护",
+              "kind": "light_cone",
+              "rarity": 4
+            },
+            {
+              "name": "鼹鼠党欢迎你",
+              "path": "毁灭",
+              "kind": "light_cone",
+              "rarity": 4
+            }
+          ],
+          "source_content_id": "164425",
+          "source_url": "https://sr.mihoyo.com/news/detail/164425",
+          "phase": "phase1"
+        },
+        {
+          "name": "光映千翎",
+          "type": "character",
+          "featured_5": [
+            {
+              "name": "爻光",
+              "path": "欢愉",
+              "element": "物理",
+              "kind": "character",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "桑博",
+              "path": "虚无",
+              "element": "风",
+              "kind": "character",
+              "rarity": 4
+            },
+            {
+              "name": "卢卡",
+              "path": "虚无",
+              "element": "物理",
+              "kind": "character",
+              "rarity": 4
+            },
+            {
+              "name": "停云",
+              "path": "同谐",
+              "element": "雷",
+              "kind": "character",
+              "rarity": 4
+            }
+          ],
+          "source_content_id": "164425",
+          "source_url": "https://sr.mihoyo.com/news/detail/164425",
+          "phase": "phase1"
+        },
+        {
+          "name": "溯回忆象•当她决定看见",
+          "type": "light_cone",
+          "featured_5": [
+            {
+              "name": "当她决定看见",
+              "path": "欢愉",
+              "kind": "light_cone",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "晚安与睡颜",
+              "path": "虚无",
+              "kind": "light_cone",
+              "rarity": 4
+            },
+            {
+              "name": "余生的第一天",
+              "path": "存护",
+              "kind": "light_cone",
+              "rarity": 4
+            },
+            {
+              "name": "鼹鼠党欢迎你",
+              "path": "毁灭",
+              "kind": "light_cone",
+              "rarity": 4
+            }
+          ],
+          "source_content_id": "164425",
+          "source_url": "https://sr.mihoyo.com/news/detail/164425",
+          "phase": "phase1"
+        }
+      ]
+    },
+    {
+      "id": "honkai-star-rail-2026-164426-version",
+      "name": "崩坏：星穹铁道 4.3 版本周期",
+      "date": "2026-06-01",
+      "end_date": "2026-07-15",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 4.3 版本官方持续时间。",
+      "url": "https://sr.mihoyo.com/news/detail/164426",
+      "status": "active",
+      "last_verified": "2026-06-12",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2026/06/01 4.3版本更新后 - 2026/07/15 06:00",
+        "开始时间": "版本更新后",
+        "截止时间": "2026-07-15 06:00",
+        "官方公告": "4.3版本「沉于生者的忘川」版本更新说明"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "version",
+        "source_content_id": "164426",
+        "source_title": "4.3版本「沉于生者的忘川」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/detail/164426",
+        "version": "4.3"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-164426-activity",
+      "name": "崩坏：星穹铁道 尘灵游乐园",
+      "date": "2026-06-24",
+      "end_date": "2026-07-15",
+      "time": "12:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "崩坏：星穹铁道官方版本活动：尘灵游乐园。",
+      "url": "https://sr.mihoyo.com/news/detail/164426",
+      "status": "confirmed",
+      "last_verified": "2026-06-12",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2026/06/24 12:00 - 2026/07/15 03:59",
+        "活动": "尘灵游乐园",
+        "官方公告": "4.3版本「沉于生者的忘川」版本更新说明"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "activity",
+        "source_content_id": "164426",
+        "source_title": "4.3版本「沉于生者的忘川」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/detail/164426",
+        "version": "4.3",
+        "activity_name": "尘灵游乐园"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-forecast-vnext-1-preview",
+      "name": "崩坏：星穹铁道 下一版本 前瞻直播窗口",
+      "date": "2026-07-03",
       "timezone": "Asia/Shanghai",
       "type": "announcement",
       "year": 2026,
-      "description": "崩坏：星穹铁道 3.8 版本前瞻直播常见窗口，具体以发布信息为准。",
+      "description": "崩坏：星穹铁道 下一版本 版本前瞻直播预测窗口，需以官方公告为准。",
       "url": "https://sr.mihoyo.com/news",
-      "status": "completed",
-      "last_verified": "2026-06-07",
-      "verified_by": "community",
-      "name_en": "Honkai: Star Rail 3.8 Preview Stream",
-      "name_zh": "崩坏：星穹铁道 3.8 前瞻直播窗口"
-    },
-    {
-      "id": "honkai-star-rail-2026-v3-8-update",
-      "name": "崩坏：星穹铁道 3.8 版本更新",
-      "date": "2026-01-14",
-      "timezone": "Asia/Shanghai",
-      "type": "event",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 3.8 版本维护更新，具体时间以发布信息为准。",
-      "url": "https://sr.mihoyo.com/news",
-      "status": "completed",
-      "last_verified": "2026-06-07",
+      "status": "planned",
+      "last_verified": "2026-06-12",
       "verified_by": "community",
       "details": {
-        "更新节奏": "约 6 周一个版本",
-        "注意事项": "前瞻、维护、卡池和活动结束时间需以发布信息为准"
+        "数据性质": "预测窗口",
+        "依据": "约 42 天一个版本"
       },
-      "name_en": "Honkai: Star Rail 3.8 Version Update",
-      "name_zh": "崩坏：星穹铁道 3.8 版本更新"
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "forecast",
+        "version": "下一版本"
+      }
     },
     {
-      "id": "honkai-star-rail-2026-v3-8-phase2",
-      "name": "崩坏：星穹铁道 3.8 下半卡池窗口",
-      "date": "2026-02-03",
+      "id": "honkai-star-rail-2026-forecast-vnext-1-update",
+      "name": "崩坏：星穹铁道 下一版本 版本更新窗口",
+      "date": "2026-07-15",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "崩坏：星穹铁道 3.8 下半卡池常见开启窗口，具体以发布信息为准。",
+      "description": "崩坏：星穹铁道 下一版本 版本维护更新预测窗口，需以官方公告为准。",
       "url": "https://sr.mihoyo.com/news",
-      "status": "completed",
-      "last_verified": "2026-06-07",
+      "status": "planned",
+      "last_verified": "2026-06-12",
       "verified_by": "community",
-      "name_en": "Honkai: Star Rail 3.8 Second Half Banner",
-      "name_zh": "崩坏：星穹铁道 3.8 下半卡池窗口"
+      "details": {
+        "数据性质": "预测窗口",
+        "依据": "约 42 天一个版本"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "forecast",
+        "version": "下一版本"
+      }
     },
     {
-      "id": "honkai-star-rail-2026-v4-0-preview",
-      "name": "崩坏：星穹铁道 4.0 前瞻直播窗口",
-      "date": "2026-02-11",
+      "id": "honkai-star-rail-2026-forecast-vnext-1-phase2",
+      "name": "崩坏：星穹铁道 下一版本 下半卡池窗口",
+      "date": "2026-08-05",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 下一版本 下半卡池预测窗口，需以官方公告为准。",
+      "url": "https://sr.mihoyo.com/news",
+      "status": "planned",
+      "last_verified": "2026-06-12",
+      "verified_by": "community",
+      "details": {
+        "数据性质": "预测窗口",
+        "依据": "约 42 天一个版本，下半约第 21 天开启"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "forecast",
+        "version": "下一版本",
+        "phase": "phase2"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-forecast-vnext-2-preview",
+      "name": "崩坏：星穹铁道 后续版本二 前瞻直播窗口",
+      "date": "2026-08-14",
       "timezone": "Asia/Shanghai",
       "type": "announcement",
       "year": 2026,
-      "description": "崩坏：星穹铁道 4.0 版本前瞻直播常见窗口，具体以发布信息为准。",
+      "description": "崩坏：星穹铁道 后续版本二 版本前瞻直播预测窗口，需以官方公告为准。",
       "url": "https://sr.mihoyo.com/news",
-      "status": "completed",
-      "last_verified": "2026-06-07",
-      "verified_by": "community",
-      "name_en": "Honkai: Star Rail 4.0 Preview Stream",
-      "name_zh": "崩坏：星穹铁道 4.0 前瞻直播窗口"
-    },
-    {
-      "id": "honkai-star-rail-2026-v4-0-update",
-      "name": "崩坏：星穹铁道 4.0 版本更新",
-      "date": "2026-02-24",
-      "timezone": "Asia/Shanghai",
-      "type": "event",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 4.0 版本维护更新，具体时间以发布信息为准。",
-      "url": "https://sr.mihoyo.com/news",
-      "status": "completed",
-      "last_verified": "2026-06-07",
+      "status": "planned",
+      "last_verified": "2026-06-12",
       "verified_by": "community",
       "details": {
-        "更新节奏": "约 6 周一个版本",
-        "注意事项": "前瞻、维护、卡池和活动结束时间需以发布信息为准"
+        "数据性质": "预测窗口",
+        "依据": "约 42 天一个版本"
       },
-      "name_en": "Honkai: Star Rail 4.0 Version Update",
-      "name_zh": "崩坏：星穹铁道 4.0 版本更新"
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "forecast",
+        "version": "后续版本二"
+      }
     },
     {
-      "id": "honkai-star-rail-2026-v4-0-phase2",
-      "name": "崩坏：星穹铁道 4.0 下半卡池窗口",
-      "date": "2026-03-16",
+      "id": "honkai-star-rail-2026-forecast-vnext-2-update",
+      "name": "崩坏：星穹铁道 后续版本二 版本更新窗口",
+      "date": "2026-08-26",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "崩坏：星穹铁道 4.0 下半卡池常见开启窗口，具体以发布信息为准。",
+      "description": "崩坏：星穹铁道 后续版本二 版本维护更新预测窗口，需以官方公告为准。",
       "url": "https://sr.mihoyo.com/news",
-      "status": "completed",
-      "last_verified": "2026-06-07",
+      "status": "planned",
+      "last_verified": "2026-06-12",
       "verified_by": "community",
-      "name_en": "Honkai: Star Rail 4.0 Second Half Banner",
-      "name_zh": "崩坏：星穹铁道 4.0 下半卡池窗口"
+      "details": {
+        "数据性质": "预测窗口",
+        "依据": "约 42 天一个版本"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "forecast",
+        "version": "后续版本二"
+      }
     },
     {
-      "id": "honkai-star-rail-2026-v4-1-preview",
-      "name": "崩坏：星穹铁道 4.1 前瞻直播窗口",
-      "date": "2026-03-24",
+      "id": "honkai-star-rail-2026-forecast-vnext-2-phase2",
+      "name": "崩坏：星穹铁道 后续版本二 下半卡池窗口",
+      "date": "2026-09-16",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 后续版本二 下半卡池预测窗口，需以官方公告为准。",
+      "url": "https://sr.mihoyo.com/news",
+      "status": "planned",
+      "last_verified": "2026-06-12",
+      "verified_by": "community",
+      "details": {
+        "数据性质": "预测窗口",
+        "依据": "约 42 天一个版本，下半约第 21 天开启"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "forecast",
+        "version": "后续版本二",
+        "phase": "phase2"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-forecast-vnext-3-preview",
+      "name": "崩坏：星穹铁道 后续版本三 前瞻直播窗口",
+      "date": "2026-09-25",
       "timezone": "Asia/Shanghai",
       "type": "announcement",
       "year": 2026,
-      "description": "崩坏：星穹铁道 4.1 版本前瞻直播常见窗口，具体以发布信息为准。",
+      "description": "崩坏：星穹铁道 后续版本三 版本前瞻直播预测窗口，需以官方公告为准。",
       "url": "https://sr.mihoyo.com/news",
-      "status": "completed",
-      "last_verified": "2026-06-07",
-      "verified_by": "community",
-      "name_en": "Honkai: Star Rail 4.1 Preview Stream",
-      "name_zh": "崩坏：星穹铁道 4.1 前瞻直播窗口"
-    },
-    {
-      "id": "honkai-star-rail-2026-v4-1-update",
-      "name": "崩坏：星穹铁道 4.1 版本更新",
-      "date": "2026-04-06",
-      "timezone": "Asia/Shanghai",
-      "type": "event",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 4.1 版本维护更新，具体时间以发布信息为准。",
-      "url": "https://sr.mihoyo.com/news",
-      "status": "completed",
-      "last_verified": "2026-06-07",
+      "status": "planned",
+      "last_verified": "2026-06-12",
       "verified_by": "community",
       "details": {
-        "更新节奏": "约 6 周一个版本",
-        "注意事项": "前瞻、维护、卡池和活动结束时间需以发布信息为准"
+        "数据性质": "预测窗口",
+        "依据": "约 42 天一个版本"
       },
-      "name_en": "Honkai: Star Rail 4.1 Version Update",
-      "name_zh": "崩坏：星穹铁道 4.1 版本更新"
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "forecast",
+        "version": "后续版本三"
+      }
     },
     {
-      "id": "honkai-star-rail-2026-v4-1-phase2",
-      "name": "崩坏：星穹铁道 4.1 下半卡池窗口",
-      "date": "2026-04-26",
-      "timezone": "Asia/Shanghai",
-      "type": "event",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 4.1 下半卡池常见开启窗口，具体以发布信息为准。",
-      "url": "https://sr.mihoyo.com/news",
-      "status": "completed",
-      "last_verified": "2026-06-07",
-      "verified_by": "community",
-      "name_en": "Honkai: Star Rail 4.1 Second Half Banner",
-      "name_zh": "崩坏：星穹铁道 4.1 下半卡池窗口"
-    },
-    {
-      "id": "honkai-star-rail-2026-v4-2-preview",
-      "name": "崩坏：星穹铁道 4.2 前瞻直播窗口",
-      "date": "2026-05-04",
-      "timezone": "Asia/Shanghai",
-      "type": "announcement",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 4.2 版本前瞻直播常见窗口，具体以发布信息为准。",
-      "url": "https://sr.mihoyo.com/news",
-      "status": "completed",
-      "last_verified": "2026-06-07",
-      "verified_by": "community",
-      "name_en": "Honkai: Star Rail 4.2 Preview Stream",
-      "name_zh": "崩坏：星穹铁道 4.2 前瞻直播窗口"
-    },
-    {
-      "id": "honkai-star-rail-2026-v4-2-update",
-      "name": "崩坏：星穹铁道 4.2 版本更新",
-      "date": "2026-05-17",
-      "timezone": "Asia/Shanghai",
-      "type": "event",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 4.2 版本维护更新，具体时间以发布信息为准。",
-      "url": "https://sr.mihoyo.com/news",
-      "status": "completed",
-      "last_verified": "2026-06-07",
-      "verified_by": "community",
-      "details": {
-        "更新节奏": "约 6 周一个版本",
-        "注意事项": "前瞻、维护、卡池和活动结束时间需以发布信息为准"
-      },
-      "name_en": "Honkai: Star Rail 4.2 Version Update",
-      "name_zh": "崩坏：星穹铁道 4.2 版本更新"
-    },
-    {
-      "id": "honkai-star-rail-2026-v4-2-phase2",
-      "name": "崩坏：星穹铁道 4.2 下半卡池窗口",
-      "date": "2026-06-06",
-      "timezone": "Asia/Shanghai",
-      "type": "event",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 4.2 下半卡池常见开启窗口，具体以发布信息为准。",
-      "url": "https://sr.mihoyo.com/news",
-      "status": "completed",
-      "last_verified": "2026-06-07",
-      "verified_by": "community",
-      "name_en": "Honkai: Star Rail 4.2 Second Half Banner",
-      "name_zh": "崩坏：星穹铁道 4.2 下半卡池窗口"
-    },
-    {
-      "id": "honkai-star-rail-2026-v4-3-preview",
-      "name": "崩坏：星穹铁道 4.3 前瞻直播窗口",
-      "date": "2026-06-14",
-      "timezone": "Asia/Shanghai",
-      "type": "announcement",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 4.3 版本前瞻直播常见窗口，具体以发布信息为准。",
-      "url": "https://sr.mihoyo.com/news",
-      "status": "planned",
-      "last_verified": "2026-06-07",
-      "verified_by": "community",
-      "name_en": "Honkai: Star Rail 4.3 Preview Stream",
-      "name_zh": "崩坏：星穹铁道 4.3 前瞻直播窗口"
-    },
-    {
-      "id": "honkai-star-rail-2026-v4-3-update",
-      "name": "崩坏：星穹铁道 4.3 版本更新",
-      "date": "2026-06-27",
-      "timezone": "Asia/Shanghai",
-      "type": "event",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 4.3 版本维护更新，具体时间以发布信息为准。",
-      "url": "https://sr.mihoyo.com/news",
-      "status": "planned",
-      "last_verified": "2026-06-07",
-      "verified_by": "community",
-      "details": {
-        "更新节奏": "约 6 周一个版本",
-        "注意事项": "前瞻、维护、卡池和活动结束时间需以发布信息为准"
-      },
-      "name_en": "Honkai: Star Rail 4.3 Version Update",
-      "name_zh": "崩坏：星穹铁道 4.3 版本更新"
-    },
-    {
-      "id": "honkai-star-rail-2026-v4-3-phase2",
-      "name": "崩坏：星穹铁道 4.3 下半卡池窗口",
-      "date": "2026-07-17",
-      "timezone": "Asia/Shanghai",
-      "type": "event",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 4.3 下半卡池常见开启窗口，具体以发布信息为准。",
-      "url": "https://sr.mihoyo.com/news",
-      "status": "planned",
-      "last_verified": "2026-06-07",
-      "verified_by": "community",
-      "name_en": "Honkai: Star Rail 4.3 Second Half Banner",
-      "name_zh": "崩坏：星穹铁道 4.3 下半卡池窗口"
-    },
-    {
-      "id": "honkai-star-rail-2026-v4-4-preview",
-      "name": "崩坏：星穹铁道 4.4 前瞻直播窗口",
-      "date": "2026-07-25",
-      "timezone": "Asia/Shanghai",
-      "type": "announcement",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 4.4 版本前瞻直播常见窗口，具体以发布信息为准。",
-      "url": "https://sr.mihoyo.com/news",
-      "status": "planned",
-      "last_verified": "2026-06-07",
-      "verified_by": "community",
-      "name_en": "Honkai: Star Rail 4.4 Preview Stream",
-      "name_zh": "崩坏：星穹铁道 4.4 前瞻直播窗口"
-    },
-    {
-      "id": "honkai-star-rail-2026-v4-4-update",
-      "name": "崩坏：星穹铁道 4.4 版本更新",
-      "date": "2026-08-07",
-      "timezone": "Asia/Shanghai",
-      "type": "event",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 4.4 版本维护更新，具体时间以发布信息为准。",
-      "url": "https://sr.mihoyo.com/news",
-      "status": "planned",
-      "last_verified": "2026-06-07",
-      "verified_by": "community",
-      "details": {
-        "更新节奏": "约 6 周一个版本",
-        "注意事项": "前瞻、维护、卡池和活动结束时间需以发布信息为准"
-      },
-      "name_en": "Honkai: Star Rail 4.4 Version Update",
-      "name_zh": "崩坏：星穹铁道 4.4 版本更新"
-    },
-    {
-      "id": "honkai-star-rail-2026-v4-4-phase2",
-      "name": "崩坏：星穹铁道 4.4 下半卡池窗口",
-      "date": "2026-08-27",
-      "timezone": "Asia/Shanghai",
-      "type": "event",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 4.4 下半卡池常见开启窗口，具体以发布信息为准。",
-      "url": "https://sr.mihoyo.com/news",
-      "status": "planned",
-      "last_verified": "2026-06-07",
-      "verified_by": "community",
-      "name_en": "Honkai: Star Rail 4.4 Second Half Banner",
-      "name_zh": "崩坏：星穹铁道 4.4 下半卡池窗口"
-    },
-    {
-      "id": "honkai-star-rail-2026-v4-5-preview",
-      "name": "崩坏：星穹铁道 4.5 前瞻直播窗口",
-      "date": "2026-09-04",
-      "timezone": "Asia/Shanghai",
-      "type": "announcement",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 4.5 版本前瞻直播常见窗口，具体以发布信息为准。",
-      "url": "https://sr.mihoyo.com/news",
-      "status": "planned",
-      "last_verified": "2026-06-07",
-      "verified_by": "community",
-      "name_en": "Honkai: Star Rail 4.5 Preview Stream",
-      "name_zh": "崩坏：星穹铁道 4.5 前瞻直播窗口"
-    },
-    {
-      "id": "honkai-star-rail-2026-v4-5-update",
-      "name": "崩坏：星穹铁道 4.5 版本更新",
-      "date": "2026-09-17",
-      "timezone": "Asia/Shanghai",
-      "type": "event",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 4.5 版本维护更新，具体时间以发布信息为准。",
-      "url": "https://sr.mihoyo.com/news",
-      "status": "planned",
-      "last_verified": "2026-06-07",
-      "verified_by": "community",
-      "details": {
-        "更新节奏": "约 6 周一个版本",
-        "注意事项": "前瞻、维护、卡池和活动结束时间需以发布信息为准"
-      },
-      "name_en": "Honkai: Star Rail 4.5 Version Update",
-      "name_zh": "崩坏：星穹铁道 4.5 版本更新"
-    },
-    {
-      "id": "honkai-star-rail-2026-v4-5-phase2",
-      "name": "崩坏：星穹铁道 4.5 下半卡池窗口",
+      "id": "honkai-star-rail-2026-forecast-vnext-3-update",
+      "name": "崩坏：星穹铁道 后续版本三 版本更新窗口",
       "date": "2026-10-07",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "崩坏：星穹铁道 4.5 下半卡池常见开启窗口，具体以发布信息为准。",
+      "description": "崩坏：星穹铁道 后续版本三 版本维护更新预测窗口，需以官方公告为准。",
       "url": "https://sr.mihoyo.com/news",
       "status": "planned",
-      "last_verified": "2026-06-07",
+      "last_verified": "2026-06-12",
       "verified_by": "community",
-      "name_en": "Honkai: Star Rail 4.5 Second Half Banner",
-      "name_zh": "崩坏：星穹铁道 4.5 下半卡池窗口"
+      "details": {
+        "数据性质": "预测窗口",
+        "依据": "约 42 天一个版本"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "forecast",
+        "version": "后续版本三"
+      }
     },
     {
-      "id": "honkai-star-rail-2026-v4-6-preview",
-      "name": "崩坏：星穹铁道 4.6 前瞻直播窗口",
-      "date": "2026-10-15",
-      "timezone": "Asia/Shanghai",
-      "type": "announcement",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 4.6 版本前瞻直播常见窗口，具体以发布信息为准。",
-      "url": "https://sr.mihoyo.com/news",
-      "status": "planned",
-      "last_verified": "2026-06-07",
-      "verified_by": "community",
-      "name_en": "Honkai: Star Rail 4.6 Preview Stream",
-      "name_zh": "崩坏：星穹铁道 4.6 前瞻直播窗口"
-    },
-    {
-      "id": "honkai-star-rail-2026-v4-6-update",
-      "name": "崩坏：星穹铁道 4.6 版本更新",
+      "id": "honkai-star-rail-2026-forecast-vnext-3-phase2",
+      "name": "崩坏：星穹铁道 后续版本三 下半卡池窗口",
       "date": "2026-10-28",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "崩坏：星穹铁道 4.6 版本维护更新，具体时间以发布信息为准。",
+      "description": "崩坏：星穹铁道 后续版本三 下半卡池预测窗口，需以官方公告为准。",
       "url": "https://sr.mihoyo.com/news",
       "status": "planned",
-      "last_verified": "2026-06-07",
+      "last_verified": "2026-06-12",
       "verified_by": "community",
       "details": {
-        "更新节奏": "约 6 周一个版本",
-        "注意事项": "前瞻、维护、卡池和活动结束时间需以发布信息为准"
+        "数据性质": "预测窗口",
+        "依据": "约 42 天一个版本，下半约第 21 天开启"
       },
-      "name_en": "Honkai: Star Rail 4.6 Version Update",
-      "name_zh": "崩坏：星穹铁道 4.6 版本更新"
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "forecast",
+        "version": "后续版本三",
+        "phase": "phase2"
+      }
     },
     {
-      "id": "honkai-star-rail-2026-v4-6-phase2",
-      "name": "崩坏：星穹铁道 4.6 下半卡池窗口",
-      "date": "2026-11-17",
-      "timezone": "Asia/Shanghai",
-      "type": "event",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 4.6 下半卡池常见开启窗口，具体以发布信息为准。",
-      "url": "https://sr.mihoyo.com/news",
-      "status": "planned",
-      "last_verified": "2026-06-07",
-      "verified_by": "community",
-      "name_en": "Honkai: Star Rail 4.6 Second Half Banner",
-      "name_zh": "崩坏：星穹铁道 4.6 下半卡池窗口"
-    },
-    {
-      "id": "honkai-star-rail-2026-v4-7-preview",
-      "name": "崩坏：星穹铁道 4.7 前瞻直播窗口",
-      "date": "2026-11-25",
+      "id": "honkai-star-rail-2026-forecast-vnext-4-preview",
+      "name": "崩坏：星穹铁道 后续版本四 前瞻直播窗口",
+      "date": "2026-11-06",
       "timezone": "Asia/Shanghai",
       "type": "announcement",
       "year": 2026,
-      "description": "崩坏：星穹铁道 4.7 版本前瞻直播常见窗口，具体以发布信息为准。",
+      "description": "崩坏：星穹铁道 后续版本四 版本前瞻直播预测窗口，需以官方公告为准。",
       "url": "https://sr.mihoyo.com/news",
       "status": "planned",
-      "last_verified": "2026-06-07",
-      "verified_by": "community",
-      "name_en": "Honkai: Star Rail 4.7 Preview Stream",
-      "name_zh": "崩坏：星穹铁道 4.7 前瞻直播窗口"
-    },
-    {
-      "id": "honkai-star-rail-2026-v4-7-update",
-      "name": "崩坏：星穹铁道 4.7 版本更新",
-      "date": "2026-12-08",
-      "timezone": "Asia/Shanghai",
-      "type": "event",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 4.7 版本维护更新，具体时间以发布信息为准。",
-      "url": "https://sr.mihoyo.com/news",
-      "status": "planned",
-      "last_verified": "2026-06-07",
+      "last_verified": "2026-06-12",
       "verified_by": "community",
       "details": {
-        "更新节奏": "约 6 周一个版本",
-        "注意事项": "前瞻、维护、卡池和活动结束时间需以发布信息为准"
+        "数据性质": "预测窗口",
+        "依据": "约 42 天一个版本"
       },
-      "name_en": "Honkai: Star Rail 4.7 Version Update",
-      "name_zh": "崩坏：星穹铁道 4.7 版本更新"
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "forecast",
+        "version": "后续版本四"
+      }
     },
     {
-      "id": "honkai-star-rail-2026-v4-7-phase2",
-      "name": "崩坏：星穹铁道 4.7 下半卡池窗口",
-      "date": "2026-12-28",
+      "id": "honkai-star-rail-2026-forecast-vnext-4-update",
+      "name": "崩坏：星穹铁道 后续版本四 版本更新窗口",
+      "date": "2026-11-18",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "崩坏：星穹铁道 4.7 下半卡池常见开启窗口，具体以发布信息为准。",
+      "description": "崩坏：星穹铁道 后续版本四 版本维护更新预测窗口，需以官方公告为准。",
       "url": "https://sr.mihoyo.com/news",
       "status": "planned",
-      "last_verified": "2026-06-07",
+      "last_verified": "2026-06-12",
       "verified_by": "community",
-      "name_en": "Honkai: Star Rail 4.7 Second Half Banner",
-      "name_zh": "崩坏：星穹铁道 4.7 下半卡池窗口"
+      "details": {
+        "数据性质": "预测窗口",
+        "依据": "约 42 天一个版本"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "forecast",
+        "version": "后续版本四"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-forecast-vnext-4-phase2",
+      "name": "崩坏：星穹铁道 后续版本四 下半卡池窗口",
+      "date": "2026-12-09",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 后续版本四 下半卡池预测窗口，需以官方公告为准。",
+      "url": "https://sr.mihoyo.com/news",
+      "status": "planned",
+      "last_verified": "2026-06-12",
+      "verified_by": "community",
+      "details": {
+        "数据性质": "预测窗口",
+        "依据": "约 42 天一个版本，下半约第 21 天开启"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "forecast",
+        "version": "后续版本四",
+        "phase": "phase2"
+      }
     }
   ],
-  "last_updated": "2026-06-07",
+  "last_updated": "2026-06-12",
   "subcategory_en": "Game Updates"
 }

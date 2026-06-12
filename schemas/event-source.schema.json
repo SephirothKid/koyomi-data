@@ -108,6 +108,20 @@
             "description": "事件详情键值对，用于日历 tooltip 和详情页展示。键名即标签，值即内容。",
             "additionalProperties": { "type": "string" }
           },
+          "details_en": {
+            "type": "object",
+            "description": "英文事件详情键值对。",
+            "additionalProperties": { "type": "string" }
+          },
+          "game": {
+            "$ref": "#/definitions/gameEventMeta",
+            "description": "游戏服务型事件的结构化元信息，如版本、阶段、官方公告来源。"
+          },
+          "banners": {
+            "type": "array",
+            "description": "卡池/祈愿/跃迁结构化信息，适用于抽卡类游戏。",
+            "items": { "$ref": "#/definitions/gameBanner" }
+          },
           "teams": {
             "type": "object",
             "description": "体育赛事的结构化主客队信息，用于生成球队专属订阅日历",
@@ -160,6 +174,75 @@
     }
   },
   "definitions": {
+    "gameEventMeta": {
+      "type": "object",
+      "required": ["game_id", "source_kind"],
+      "properties": {
+        "game_id": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]+$",
+          "description": "游戏事件源 ID，如 genshin-impact、honkai-star-rail。"
+        },
+        "provider": {
+          "type": "string",
+          "description": "数据提供方或平台，如 hoyoverse、kuro、community。"
+        },
+        "source_kind": {
+          "type": "string",
+          "enum": ["version", "version_update", "banner", "activity", "announcement", "forecast", "other"]
+        },
+        "version": { "type": "string" },
+        "phase": {
+          "type": "string",
+          "description": "版本内阶段，如 phase1、phase2、phase3。"
+        },
+        "activity_name": { "type": "string" },
+        "source_content_id": { "type": "string" },
+        "source_title": { "type": "string" },
+        "source_url": { "type": "string", "format": "uri" }
+      },
+      "additionalProperties": false
+    },
+    "gameBanner": {
+      "type": "object",
+      "required": ["name", "type"],
+      "properties": {
+        "name": { "type": "string", "description": "卡池/祈愿/跃迁名称" },
+        "type": {
+          "type": "string",
+          "enum": ["character", "weapon", "light_cone", "bangboo", "standard", "collaboration", "other"]
+        },
+        "phase": { "type": "string" },
+        "featured_5": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/gameBannerItem" }
+        },
+        "featured_4": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/gameBannerItem" }
+        },
+        "source_content_id": { "type": "string" },
+        "source_url": { "type": "string", "format": "uri" }
+      },
+      "additionalProperties": false
+    },
+    "gameBannerItem": {
+      "type": "object",
+      "required": ["name"],
+      "properties": {
+        "name": { "type": "string" },
+        "title": { "type": "string", "description": "称号，如恣锐锋镞。" },
+        "kind": {
+          "type": "string",
+          "enum": ["character", "weapon", "light_cone", "bangboo", "other"]
+        },
+        "rarity": { "type": "integer", "minimum": 1, "maximum": 6 },
+        "element": { "type": "string" },
+        "path": { "type": "string", "description": "命途/职业/属性分类。" },
+        "weapon_type": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
     "team": {
       "type": "object",
       "required": ["id", "code", "name"],
