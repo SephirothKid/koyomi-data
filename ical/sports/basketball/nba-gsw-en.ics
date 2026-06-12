@@ -2,1142 +2,1229 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Koyomi Cast//nba-gsw//EN
 URL:https://koyomi.cast/sources/nba
-NAME:金州勇士 Schedule
-X-WR-CALNAME:金州勇士 Schedule
-X-WR-CALDESC:金州勇士 schedule in NBA Season, auto-synced.
+NAME:Golden State Warriors Schedule
+X-WR-CALNAME:Golden State Warriors Schedule
+X-WR-CALDESC:Golden State Warriors schedule in NBA Season, auto-synced.
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500002@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251022T100000
 DTEND;TZID=Asia/Shanghai:20251022T110000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 洛杉矶湖人
-DESCRIPTION:金州勇士 @ 洛杉矶湖人（北京时间）\n\n主场: 
- 洛杉矶湖人\n客场: 金州勇士\n场馆: Crypto.com Arena\, Los Ange
- les
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Los Ange
+ les Lakers
+DESCRIPTION:Golden State Warriors at Los Angeles Lakers (Beijing time)\n\n
+ 主场: 洛杉矶湖人\n客场: 金州勇士\n场馆: Crypto.com Arena\, 
+ Los Angeles
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500006@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251024T100000
 DTEND;TZID=Asia/Shanghai:20251024T110000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 丹佛掘金
-DESCRIPTION:丹佛掘金 @ 金州勇士（北京时间）\n\n主场: 金
- 州勇士\n客场: 丹佛掘金\n场馆: Chase Center\, San Francisco
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Denver 
+ Nuggets
+DESCRIPTION:Denver Nuggets at Golden State Warriors (Beijing time)\n\n主
+ 场: 金州勇士\n客场: 丹佛掘金\n场馆: Chase Center\, San Franci
+ sco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500097@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251025T100000
 DTEND;TZID=Asia/Shanghai:20251025T110000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 波特兰开拓者
-DESCRIPTION:金州勇士 @ 波特兰开拓者（北京时间）\n\n主场:
-  波特兰开拓者\n客场: 金州勇士\n场馆: Moda Center\, Portland
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Portland
+  Trail Blazers
+DESCRIPTION:Golden State Warriors at Portland Trail Blazers (Beijing time)
+ \n\n主场: 波特兰开拓者\n客场: 金州勇士\n场馆: Moda Center\
+ , Portland
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500121@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251028T100000
 DTEND;TZID=Asia/Shanghai:20251028T110000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 孟菲斯灰熊
-DESCRIPTION:孟菲斯灰熊 @ 金州勇士（北京时间）\n\n主场: 
- 金州勇士\n客场: 孟菲斯灰熊\n场馆: Chase Center\, San Francisc
- o
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Memphis
+  Grizzlies
+DESCRIPTION:Memphis Grizzlies at Golden State Warriors (Beijing time)\n\n
+ 主场: 金州勇士\n客场: 孟菲斯灰熊\n场馆: Chase Center\, San 
+ Francisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500127@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251029T110000
 DTEND;TZID=Asia/Shanghai:20251029T120000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 洛杉矶快船
-DESCRIPTION:洛杉矶快船 @ 金州勇士（北京时间）\n\n主场: 
- 金州勇士\n客场: 洛杉矶快船\n场馆: Chase Center\, San Francisc
- o
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs LA Clip
+ pers
+DESCRIPTION:LA Clippers at Golden State Warriors (Beijing time)\n\n主场:
+  金州勇士\n客场: 洛杉矶快船\n场馆: Chase Center\, San Francis
+ co
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500139@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251031T080000
 DTEND;TZID=Asia/Shanghai:20251031T090000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 密尔沃基雄鹿
-DESCRIPTION:金州勇士 @ 密尔沃基雄鹿（北京时间）\n\n主场:
-  密尔沃基雄鹿\n客场: 金州勇士\n场馆: Fiserv Forum\, Milwauke
- e
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Milwauke
+ e Bucks
+DESCRIPTION:Golden State Warriors at Milwaukee Bucks (Beijing time)\n\n主
+ 场: 密尔沃基雄鹿\n客场: 金州勇士\n场馆: Fiserv Forum\, Milw
+ aukee
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500144@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251102T070000
 DTEND;TZID=Asia/Shanghai:20251102T080000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 印第安纳步行者
-DESCRIPTION:金州勇士 @ 印第安纳步行者（北京时间）\n\n主
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Indiana 
+ Pacers
+DESCRIPTION:Golden State Warriors at Indiana Pacers (Beijing time)\n\n主
  场: 印第安纳步行者\n客场: 金州勇士\n场馆: Gainbridge Field
  house\, Indianapolis
-CATEGORIES:金州勇士 Schedule
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500169@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251105T110000
 DTEND;TZID=Asia/Shanghai:20251105T120000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 菲尼克斯太阳
-DESCRIPTION:菲尼克斯太阳 @ 金州勇士（北京时间）\n\n主场:
-  金州勇士\n客场: 菲尼克斯太阳\n场馆: Chase Center\, San Fran
- cisco
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Phoenix
+  Suns
+DESCRIPTION:Phoenix Suns at Golden State Warriors (Beijing time)\n\n主场
+ : 金州勇士\n客场: 菲尼克斯太阳\n场馆: Chase Center\, San Fra
+ ncisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500181@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251106T110000
 DTEND;TZID=Asia/Shanghai:20251106T120000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 萨克拉门托国王
-DESCRIPTION:金州勇士 @ 萨克拉门托国王（北京时间）\n\n主
- 场: 萨克拉门托国王\n客场: 金州勇士\n场馆: Golden 1 Center\
- , Sacramento
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Sacramen
+ to Kings
+DESCRIPTION:Golden State Warriors at Sacramento Kings (Beijing time)\n\n
+ 主场: 萨克拉门托国王\n客场: 金州勇士\n场馆: Golden 1 Cent
+ er\, Sacramento
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500037@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251108T110000
 DTEND;TZID=Asia/Shanghai:20251108T120000
-SUMMARY:金州勇士 Schedule · Emirates NBA Cup · 金州勇士 @ 丹佛
- 掘金
-DESCRIPTION:金州勇士 @ 丹佛掘金（北京时间）\n\n主场: 丹
- 佛掘金\n客场: 金州勇士\n赛段: Emirates NBA Cup\n场馆: Ball Ar
- ena\, Denver
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Emirates NBA Cup · Golden State
+  Warriors @ Denver Nuggets
+DESCRIPTION:Golden State Warriors at Denver Nuggets (Beijing time)\n\n主
+ 场: 丹佛掘金\n客场: 金州勇士\n赛段: Emirates NBA Cup\n场馆:
+  Ball Arena\, Denver
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/nba-cup
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500196@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251110T093000
 DTEND;TZID=Asia/Shanghai:20251110T103000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 印第安纳步行者
-DESCRIPTION:印第安纳步行者 @ 金州勇士（北京时间）\n\n主
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Indiana
+  Pacers
+DESCRIPTION:Indiana Pacers at Golden State Warriors (Beijing time)\n\n主
  场: 金州勇士\n客场: 印第安纳步行者\n场馆: Chase Center\, S
  an Francisco
-CATEGORIES:金州勇士 Schedule
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500210@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251112T090000
 DTEND;TZID=Asia/Shanghai:20251112T100000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 俄克拉荷马雷霆
-DESCRIPTION:金州勇士 @ 俄克拉荷马雷霆（北京时间）\n\n主
- 场: 俄克拉荷马雷霆\n客场: 金州勇士\n场馆: Paycom Center\, 
- Oklahoma City
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Oklahoma
+  City Thunder
+DESCRIPTION:Golden State Warriors at Oklahoma City Thunder (Beijing time)\
+ n\n主场: 俄克拉荷马雷霆\n客场: 金州勇士\n场馆: Paycom Cen
+ ter\, Oklahoma City
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500220@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251113T090000
 DTEND;TZID=Asia/Shanghai:20251113T100000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 圣安东尼奥马刺
-DESCRIPTION:金州勇士 @ 圣安东尼奥马刺（北京时间）\n\n主
- 场: 圣安东尼奥马刺\n客场: 金州勇士\n场馆: Frost Bank Cente
- r\, San Antonio
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ San Anto
+ nio Spurs
+DESCRIPTION:Golden State Warriors at San Antonio Spurs (Beijing time)\n\n
+ 主场: 圣安东尼奥马刺\n客场: 金州勇士\n场馆: Frost Bank Ce
+ nter\, San Antonio
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500047@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251115T103000
 DTEND;TZID=Asia/Shanghai:20251115T113000
-SUMMARY:金州勇士 Schedule · Emirates NBA Cup · 金州勇士 @ 圣安
- 东尼奥马刺
-DESCRIPTION:金州勇士 @ 圣安东尼奥马刺（北京时间）\n\n主
- 场: 圣安东尼奥马刺\n客场: 金州勇士\n赛段: Emirates NBA Cup
- \n场馆: Frost Bank Center\, San Antonio
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Emirates NBA Cup · Golden State
+  Warriors @ San Antonio Spurs
+DESCRIPTION:Golden State Warriors at San Antonio Spurs (Beijing time)\n\n
+ 主场: 圣安东尼奥马刺\n客场: 金州勇士\n赛段: Emirates NBA 
+ Cup\n场馆: Frost Bank Center\, San Antonio
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/nba-cup
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500237@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251117T080000
 DTEND;TZID=Asia/Shanghai:20251117T090000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 新奥尔良鹈鹕
-DESCRIPTION:金州勇士 @ 新奥尔良鹈鹕（北京时间）\n\n主场:
-  新奥尔良鹈鹕\n客场: 金州勇士\n场馆: Smoothie King Center\, 
- New Orleans
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ New Orle
+ ans Pelicans
+DESCRIPTION:Golden State Warriors at New Orleans Pelicans (Beijing time)\n
+ \n主场: 新奥尔良鹈鹕\n客场: 金州勇士\n场馆: Smoothie King 
+ Center\, New Orleans
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500249@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251119T080000
 DTEND;TZID=Asia/Shanghai:20251119T090000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 奥兰多魔术
-DESCRIPTION:金州勇士 @ 奥兰多魔术（北京时间）\n\n主场: 
- 奥兰多魔术\n客场: 金州勇士\n场馆: Kia Center\, Orlando
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Orlando 
+ Magic
+DESCRIPTION:Golden State Warriors at Orlando Magic (Beijing time)\n\n主
+ 场: 奥兰多魔术\n客场: 金州勇士\n场馆: Kia Center\, Orlando
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500257@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251120T083000
 DTEND;TZID=Asia/Shanghai:20251120T093000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 迈阿密热火
-DESCRIPTION:金州勇士 @ 迈阿密热火（北京时间）\n\n主场: 
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Miami He
+ at
+DESCRIPTION:Golden State Warriors at Miami Heat (Beijing time)\n\n主场: 
  迈阿密热火\n客场: 金州勇士\n场馆: Kaseya Center\, Miami
-CATEGORIES:金州勇士 Schedule
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500056@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251122T110000
 DTEND;TZID=Asia/Shanghai:20251122T120000
-SUMMARY:金州勇士 Schedule · Emirates NBA Cup · 金州勇士 vs 波
- 特兰开拓者
-DESCRIPTION:波特兰开拓者 @ 金州勇士（北京时间）\n\n主场:
-  金州勇士\n客场: 波特兰开拓者\n赛段: Emirates NBA Cup\n场
- 馆: Chase Center\, San Francisco
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Emirates NBA Cup · Golden State
+  Warriors vs Portland Trail Blazers
+DESCRIPTION:Portland Trail Blazers at Golden State Warriors (Beijing time)
+ \n\n主场: 金州勇士\n客场: 波特兰开拓者\n赛段: Emirates NBA
+  Cup\n场馆: Chase Center\, San Francisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/nba-cup
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500291@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251125T110000
 DTEND;TZID=Asia/Shanghai:20251125T120000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 犹他爵士
-DESCRIPTION:犹他爵士 @ 金州勇士（北京时间）\n\n主场: 金
- 州勇士\n客场: 犹他爵士\n场馆: Chase Center\, San Francisco
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Utah Ja
+ zz
+DESCRIPTION:Utah Jazz at Golden State Warriors (Beijing time)\n\n主场: 
+ 金州勇士\n客场: 犹他爵士\n场馆: Chase Center\, San Francisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500066@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251127T110000
 DTEND;TZID=Asia/Shanghai:20251127T120000
-SUMMARY:金州勇士 Schedule · Emirates NBA Cup · 金州勇士 vs 休
- 斯顿火箭
-DESCRIPTION:休斯顿火箭 @ 金州勇士（北京时间）\n\n主场: 
- 金州勇士\n客场: 休斯顿火箭\n赛段: Emirates NBA Cup\n场馆: C
- hase Center\, San Francisco
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Emirates NBA Cup · Golden State
+  Warriors vs Houston Rockets
+DESCRIPTION:Houston Rockets at Golden State Warriors (Beijing time)\n\n主
+ 场: 金州勇士\n客场: 休斯顿火箭\n赛段: Emirates NBA Cup\n场
+ 馆: Chase Center\, San Francisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/nba-cup
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500298@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251130T093000
 DTEND;TZID=Asia/Shanghai:20251130T103000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 新奥尔良鹈鹕
-DESCRIPTION:新奥尔良鹈鹕 @ 金州勇士（北京时间）\n\n主场:
-  金州勇士\n客场: 新奥尔良鹈鹕\n场馆: Chase Center\, San Fran
- cisco
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs New Orl
+ eans Pelicans
+DESCRIPTION:New Orleans Pelicans at Golden State Warriors (Beijing time)\n
+ \n主场: 金州勇士\n客场: 新奥尔良鹈鹕\n场馆: Chase Center\,
+  San Francisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500323@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251203T120000
 DTEND;TZID=Asia/Shanghai:20251203T130000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 俄克拉荷马雷霆
-DESCRIPTION:俄克拉荷马雷霆 @ 金州勇士（北京时间）\n\n主
- 场: 金州勇士\n客场: 俄克拉荷马雷霆\n场馆: Chase Center\, S
- an Francisco
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Oklahom
+ a City Thunder
+DESCRIPTION:Oklahoma City Thunder at Golden State Warriors (Beijing time)\
+ n\n主场: 金州勇士\n客场: 俄克拉荷马雷霆\n场馆: Chase Cent
+ er\, San Francisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500333@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251205T080000
 DTEND;TZID=Asia/Shanghai:20251205T090000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 费城76人
-DESCRIPTION:金州勇士 @ 费城76人（北京时间）\n\n主场: 费城
- 76人\n客场: 金州勇士\n场馆: Xfinity Mobile Arena\, Philadelphia
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Philadel
+ phia 76ers
+DESCRIPTION:Golden State Warriors at Philadelphia 76ers (Beijing time)\n\n
+ 主场: 费城76人\n客场: 金州勇士\n场馆: Xfinity Mobile Arena\, 
+ Philadelphia
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500352@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251207T083000
 DTEND;TZID=Asia/Shanghai:20251207T093000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 克利夫兰骑士
-DESCRIPTION:金州勇士 @ 克利夫兰骑士（北京时间）\n\n主场:
-  克利夫兰骑士\n客场: 金州勇士\n场馆: Rocket Arena\, Clevelan
- d
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Clevelan
+ d Cavaliers
+DESCRIPTION:Golden State Warriors at Cleveland Cavaliers (Beijing time)\n\
+ n主场: 克利夫兰骑士\n客场: 金州勇士\n场馆: Rocket Arena\, 
+ Cleveland
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500361@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251208T080000
 DTEND;TZID=Asia/Shanghai:20251208T090000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 芝加哥公牛
-DESCRIPTION:金州勇士 @ 芝加哥公牛（北京时间）\n\n主场: 
- 芝加哥公牛\n客场: 金州勇士\n场馆: United Center\, Chicago
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Chicago 
+ Bulls
+DESCRIPTION:Golden State Warriors at Chicago Bulls (Beijing time)\n\n主
+ 场: 芝加哥公牛\n客场: 金州勇士\n场馆: United Center\, Chicag
+ o
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022501215@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251213T110000
 DTEND;TZID=Asia/Shanghai:20251213T120000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 明尼苏达森林狼
-DESCRIPTION:明尼苏达森林狼 @ 金州勇士（北京时间）\n\n主
- 场: 金州勇士\n客场: 明尼苏达森林狼\n场馆: Chase Center\, S
- an Francisco
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Minneso
+ ta Timberwolves
+DESCRIPTION:Minnesota Timberwolves at Golden State Warriors (Beijing time)
+ \n\n主场: 金州勇士\n客场: 明尼苏达森林狼\n场馆: Chase Cen
+ ter\, San Francisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022501221@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251215T100000
 DTEND;TZID=Asia/Shanghai:20251215T110000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 波特兰开拓者
-DESCRIPTION:金州勇士 @ 波特兰开拓者（北京时间）\n\n主场:
-  波特兰开拓者\n客场: 金州勇士\n场馆: Moda Center\, Portland
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Portland
+  Trail Blazers
+DESCRIPTION:Golden State Warriors at Portland Trail Blazers (Beijing time)
+ \n\n主场: 波特兰开拓者\n客场: 金州勇士\n场馆: Moda Center\
+ , Portland
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500378@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251219T100000
 DTEND;TZID=Asia/Shanghai:20251219T110000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 菲尼克斯太阳
-DESCRIPTION:金州勇士 @ 菲尼克斯太阳（北京时间）\n\n主场:
-  菲尼克斯太阳\n客场: 金州勇士\n场馆: Mortgage Matchup Center
- \, Phoenix
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Phoenix 
+ Suns
+DESCRIPTION:Golden State Warriors at Phoenix Suns (Beijing time)\n\n主场
+ : 菲尼克斯太阳\n客场: 金州勇士\n场馆: Mortgage Matchup Cente
+ r\, Phoenix
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500392@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251221T093000
 DTEND;TZID=Asia/Shanghai:20251221T103000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 菲尼克斯太阳
-DESCRIPTION:菲尼克斯太阳 @ 金州勇士（北京时间）\n\n主场:
-  金州勇士\n客场: 菲尼克斯太阳\n场馆: Chase Center\, San Fran
- cisco
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Phoenix
+  Suns
+DESCRIPTION:Phoenix Suns at Golden State Warriors (Beijing time)\n\n主场
+ : 金州勇士\n客场: 菲尼克斯太阳\n场馆: Chase Center\, San Fra
+ ncisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500407@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251223T110000
 DTEND;TZID=Asia/Shanghai:20251223T120000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 奥兰多魔术
-DESCRIPTION:奥兰多魔术 @ 金州勇士（北京时间）\n\n主场: 
- 金州勇士\n客场: 奥兰多魔术\n场馆: Chase Center\, San Francisc
- o
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Orlando
+  Magic
+DESCRIPTION:Orlando Magic at Golden State Warriors (Beijing time)\n\n主
+ 场: 金州勇士\n客场: 奥兰多魔术\n场馆: Chase Center\, San Fra
+ ncisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500011@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251226T060000
 DTEND;TZID=Asia/Shanghai:20251226T070000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 达拉斯独行侠
-DESCRIPTION:达拉斯独行侠 @ 金州勇士（北京时间）\n\n主场:
-  金州勇士\n客场: 达拉斯独行侠\n场馆: Chase Center\, San Fran
- cisco
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Dallas 
+ Mavericks
+DESCRIPTION:Dallas Mavericks at Golden State Warriors (Beijing time)\n\n
+ 主场: 金州勇士\n客场: 达拉斯独行侠\n场馆: Chase Center\, S
+ an Francisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500441@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251229T043000
 DTEND;TZID=Asia/Shanghai:20251229T053000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 多伦多猛龙
-DESCRIPTION:金州勇士 @ 多伦多猛龙（北京时间）\n\n主场: 
- 多伦多猛龙\n客场: 金州勇士\n场馆: Scotiabank Arena\, Toronto
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Toronto 
+ Raptors
+DESCRIPTION:Golden State Warriors at Toronto Raptors (Beijing time)\n\n主
+ 场: 多伦多猛龙\n客场: 金州勇士\n场馆: Scotiabank Arena\, Tor
+ onto
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500449@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251230T083000
 DTEND;TZID=Asia/Shanghai:20251230T093000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 布鲁克林篮网
-DESCRIPTION:金州勇士 @ 布鲁克林篮网（北京时间）\n\n主场:
-  布鲁克林篮网\n客场: 金州勇士\n场馆: Barclays Center\, Brook
- lyn
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Brooklyn
+  Nets
+DESCRIPTION:Golden State Warriors at Brooklyn Nets (Beijing time)\n\n主
+ 场: 布鲁克林篮网\n客场: 金州勇士\n场馆: Barclays Center\, B
+ rooklyn
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500462@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260101T020000
 DTEND;TZID=Asia/Shanghai:20260101T030000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 夏洛特黄蜂
-DESCRIPTION:金州勇士 @ 夏洛特黄蜂（北京时间）\n\n主场: 
- 夏洛特黄蜂\n客场: 金州勇士\n场馆: Spectrum Center\, Charlotte
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Charlott
+ e Hornets
+DESCRIPTION:Golden State Warriors at Charlotte Hornets (Beijing time)\n\n
+ 主场: 夏洛特黄蜂\n客场: 金州勇士\n场馆: Spectrum Center\, C
+ harlotte
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500484@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260103T110000
 DTEND;TZID=Asia/Shanghai:20260103T120000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 俄克拉荷马雷霆
-DESCRIPTION:俄克拉荷马雷霆 @ 金州勇士（北京时间）\n\n主
- 场: 金州勇士\n客场: 俄克拉荷马雷霆\n场馆: Chase Center\, S
- an Francisco
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Oklahom
+ a City Thunder
+DESCRIPTION:Oklahoma City Thunder at Golden State Warriors (Beijing time)\
+ n\n主场: 金州勇士\n客场: 俄克拉荷马雷霆\n场馆: Chase Cent
+ er\, San Francisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500492@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260104T110000
 DTEND;TZID=Asia/Shanghai:20260104T120000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 犹他爵士
-DESCRIPTION:犹他爵士 @ 金州勇士（北京时间）\n\n主场: 金
- 州勇士\n客场: 犹他爵士\n场馆: Chase Center\, San Francisco
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Utah Ja
+ zz
+DESCRIPTION:Utah Jazz at Golden State Warriors (Beijing time)\n\n主场: 
+ 金州勇士\n客场: 犹他爵士\n场馆: Chase Center\, San Francisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500508@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260106T110000
 DTEND;TZID=Asia/Shanghai:20260106T120000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 洛杉矶快船
-DESCRIPTION:金州勇士 @ 洛杉矶快船（北京时间）\n\n主场: 
- 洛杉矶快船\n客场: 金州勇士\n场馆: Intuit Dome\, Inglewood
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ LA Clipp
+ ers
+DESCRIPTION:Golden State Warriors at LA Clippers (Beijing time)\n\n主场:
+  洛杉矶快船\n客场: 金州勇士\n场馆: Intuit Dome\, Inglewood
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500526@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260108T110000
 DTEND;TZID=Asia/Shanghai:20260108T120000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 密尔沃基雄鹿
-DESCRIPTION:密尔沃基雄鹿 @ 金州勇士（北京时间）\n\n主场:
-  金州勇士\n客场: 密尔沃基雄鹿\n场馆: Chase Center\, San Fran
- cisco
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Milwauk
+ ee Bucks
+DESCRIPTION:Milwaukee Bucks at Golden State Warriors (Beijing time)\n\n主
+ 场: 金州勇士\n客场: 密尔沃基雄鹿\n场馆: Chase Center\, San 
+ Francisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500539@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260110T110000
 DTEND;TZID=Asia/Shanghai:20260110T120000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 萨克拉门托国王
-DESCRIPTION:萨克拉门托国王 @ 金州勇士（北京时间）\n\n主
- 场: 金州勇士\n客场: 萨克拉门托国王\n场馆: Chase Center\, S
- an Francisco
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Sacrame
+ nto Kings
+DESCRIPTION:Sacramento Kings at Golden State Warriors (Beijing time)\n\n
+ 主场: 金州勇士\n客场: 萨克拉门托国王\n场馆: Chase Center\
+ , San Francisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500556@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260112T093000
 DTEND;TZID=Asia/Shanghai:20260112T103000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 亚特兰大老鹰
-DESCRIPTION:亚特兰大老鹰 @ 金州勇士（北京时间）\n\n主场:
-  金州勇士\n客场: 亚特兰大老鹰\n场馆: Chase Center\, San Fran
- cisco
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Atlanta
+  Hawks
+DESCRIPTION:Atlanta Hawks at Golden State Warriors (Beijing time)\n\n主
+ 场: 金州勇士\n客场: 亚特兰大老鹰\n场馆: Chase Center\, San 
+ Francisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500570@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260114T120000
 DTEND;TZID=Asia/Shanghai:20260114T130000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 波特兰开拓者
-DESCRIPTION:波特兰开拓者 @ 金州勇士（北京时间）\n\n主场:
-  金州勇士\n客场: 波特兰开拓者\n场馆: Chase Center\, San Fran
- cisco
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Portlan
+ d Trail Blazers
+DESCRIPTION:Portland Trail Blazers at Golden State Warriors (Beijing time)
+ \n\n主场: 金州勇士\n客场: 波特兰开拓者\n场馆: Chase Center
+ \, San Francisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500584@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260116T110000
 DTEND;TZID=Asia/Shanghai:20260116T120000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 纽约尼克斯
-DESCRIPTION:纽约尼克斯 @ 金州勇士（北京时间）\n\n主场: 
- 金州勇士\n客场: 纽约尼克斯\n场馆: Chase Center\, San Francisc
- o
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs New Yor
+ k Knicks
+DESCRIPTION:New York Knicks at Golden State Warriors (Beijing time)\n\n主
+ 场: 金州勇士\n客场: 纽约尼克斯\n场馆: Chase Center\, San Fra
+ ncisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500599@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260118T093000
 DTEND;TZID=Asia/Shanghai:20260118T103000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 夏洛特黄蜂
-DESCRIPTION:夏洛特黄蜂 @ 金州勇士（北京时间）\n\n主场: 
- 金州勇士\n客场: 夏洛特黄蜂\n场馆: Chase Center\, San Francisc
- o
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Charlot
+ te Hornets
+DESCRIPTION:Charlotte Hornets at Golden State Warriors (Beijing time)\n\n
+ 主场: 金州勇士\n客场: 夏洛特黄蜂\n场馆: Chase Center\, San 
+ Francisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500612@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260120T110000
 DTEND;TZID=Asia/Shanghai:20260120T120000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 迈阿密热火
-DESCRIPTION:迈阿密热火 @ 金州勇士（北京时间）\n\n主场: 
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Miami H
+ eat
+DESCRIPTION:Miami Heat at Golden State Warriors (Beijing time)\n\n主场: 
  金州勇士\n客场: 迈阿密热火\n场馆: Chase Center\, San Francisc
  o
-CATEGORIES:金州勇士 Schedule
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500618@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260121T110000
 DTEND;TZID=Asia/Shanghai:20260121T120000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 多伦多猛龙
-DESCRIPTION:多伦多猛龙 @ 金州勇士（北京时间）\n\n主场: 
- 金州勇士\n客场: 多伦多猛龙\n场馆: Chase Center\, San Francisc
- o
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Toronto
+  Raptors
+DESCRIPTION:Toronto Raptors at Golden State Warriors (Beijing time)\n\n主
+ 场: 金州勇士\n客场: 多伦多猛龙\n场馆: Chase Center\, San Fra
+ ncisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500630@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260123T083000
 DTEND;TZID=Asia/Shanghai:20260123T093000
-SUMMARY:金州勇士 Schedule · AWS NBA Rivals Week · 金州勇士 @ 达
- 拉斯独行侠
-DESCRIPTION:金州勇士 @ 达拉斯独行侠（北京时间）\n\n主场:
-  达拉斯独行侠\n客场: 金州勇士\n赛段: AWS NBA Rivals Week\n
- 场馆: American Airlines Center\, Dallas
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · AWS NBA Rivals Week · Golden St
+ ate Warriors @ Dallas Mavericks
+DESCRIPTION:Golden State Warriors at Dallas Mavericks (Beijing time)\n\n
+ 主场: 达拉斯独行侠\n客场: 金州勇士\n赛段: AWS NBA Rivals W
+ eek\n场馆: American Airlines Center\, Dallas
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500644@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260126T063000
 DTEND;TZID=Asia/Shanghai:20260126T073000
-SUMMARY:金州勇士 Schedule · AWS NBA Rivals Week · 金州勇士 @ 明
- 尼苏达森林狼
-DESCRIPTION:金州勇士 @ 明尼苏达森林狼（北京时间）\n\n主
- 场: 明尼苏达森林狼\n客场: 金州勇士\n赛段: AWS NBA Rivals W
- eek\n场馆: Target Center\, Minneapolis
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · AWS NBA Rivals Week · Golden St
+ ate Warriors @ Minnesota Timberwolves
+DESCRIPTION:Golden State Warriors at Minnesota Timberwolves (Beijing time)
+ \n\n主场: 明尼苏达森林狼\n客场: 金州勇士\n赛段: AWS NBA R
+ ivals Week\n场馆: Target Center\, Minneapolis
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500663@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260127T103000
 DTEND;TZID=Asia/Shanghai:20260127T113000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 明尼苏达森林狼
-DESCRIPTION:金州勇士 @ 明尼苏达森林狼（北京时间）\n\n主
- 场: 明尼苏达森林狼\n客场: 金州勇士\n场馆: Target Center\, 
- Minneapolis
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Minnesot
+ a Timberwolves
+DESCRIPTION:Golden State Warriors at Minnesota Timberwolves (Beijing time)
+ \n\n主场: 明尼苏达森林狼\n客场: 金州勇士\n场馆: Target Ce
+ nter\, Minneapolis
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500678@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260129T100000
 DTEND;TZID=Asia/Shanghai:20260129T110000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 犹他爵士
-DESCRIPTION:金州勇士 @ 犹他爵士（北京时间）\n\n主场: 犹
- 他爵士\n客场: 金州勇士\n场馆: Delta Center\, Salt Lake City
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Utah Jaz
+ z
+DESCRIPTION:Golden State Warriors at Utah Jazz (Beijing time)\n\n主场: 
+ 犹他爵士\n客场: 金州勇士\n场馆: Delta Center\, Salt Lake City
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500696@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260131T110000
 DTEND;TZID=Asia/Shanghai:20260131T120000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 底特律活塞
-DESCRIPTION:底特律活塞 @ 金州勇士（北京时间）\n\n主场: 
- 金州勇士\n客场: 底特律活塞\n场馆: Chase Center\, San Francisc
- o
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Detroit
+  Pistons
+DESCRIPTION:Detroit Pistons at Golden State Warriors (Beijing time)\n\n主
+ 场: 金州勇士\n客场: 底特律活塞\n场馆: Chase Center\, San Fra
+ ncisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500724@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260204T110000
 DTEND;TZID=Asia/Shanghai:20260204T120000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 费城76人
-DESCRIPTION:费城76人 @ 金州勇士（北京时间）\n\n主场: 金州
- 勇士\n客场: 费城76人\n场馆: Chase Center\, San Francisco
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Philade
+ lphia 76ers
+DESCRIPTION:Philadelphia 76ers at Golden State Warriors (Beijing time)\n\n
+ 主场: 金州勇士\n客场: 费城76人\n场馆: Chase Center\, San Fran
+ cisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500739@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260206T110000
 DTEND;TZID=Asia/Shanghai:20260206T120000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 菲尼克斯太阳
-DESCRIPTION:金州勇士 @ 菲尼克斯太阳（北京时间）\n\n主场:
-  菲尼克斯太阳\n客场: 金州勇士\n场馆: Mortgage Matchup Center
- \, Phoenix
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Phoenix 
+ Suns
+DESCRIPTION:Golden State Warriors at Phoenix Suns (Beijing time)\n\n主场
+ : 菲尼克斯太阳\n客场: 金州勇士\n场馆: Mortgage Matchup Cente
+ r\, Phoenix
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500753@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260208T093000
 DTEND;TZID=Asia/Shanghai:20260208T103000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 洛杉矶湖人
-DESCRIPTION:金州勇士 @ 洛杉矶湖人（北京时间）\n\n主场: 
- 洛杉矶湖人\n客场: 金州勇士\n场馆: Crypto.com Arena\, Los Ange
- les
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Los Ange
+ les Lakers
+DESCRIPTION:Golden State Warriors at Los Angeles Lakers (Beijing time)\n\n
+ 主场: 洛杉矶湖人\n客场: 金州勇士\n场馆: Crypto.com Arena\, 
+ Los Angeles
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500768@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260210T110000
 DTEND;TZID=Asia/Shanghai:20260210T120000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 孟菲斯灰熊
-DESCRIPTION:孟菲斯灰熊 @ 金州勇士（北京时间）\n\n主场: 
- 金州勇士\n客场: 孟菲斯灰熊\n场馆: Chase Center\, San Francisc
- o
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Memphis
+  Grizzlies
+DESCRIPTION:Memphis Grizzlies at Golden State Warriors (Beijing time)\n\n
+ 主场: 金州勇士\n客场: 孟菲斯灰熊\n场馆: Chase Center\, San 
+ Francisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500788@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260212T110000
 DTEND;TZID=Asia/Shanghai:20260212T120000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 圣安东尼奥马刺
-DESCRIPTION:圣安东尼奥马刺 @ 金州勇士（北京时间）\n\n主
- 场: 金州勇士\n客场: 圣安东尼奥马刺\n场馆: Chase Center\, S
- an Francisco
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs San Ant
+ onio Spurs
+DESCRIPTION:San Antonio Spurs at Golden State Warriors (Beijing time)\n\n
+ 主场: 金州勇士\n客场: 圣安东尼奥马刺\n场馆: Chase Center\
+ , San Francisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500799@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260220T110000
 DTEND;TZID=Asia/Shanghai:20260220T120000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 波士顿凯尔特人
-DESCRIPTION:波士顿凯尔特人 @ 金州勇士（北京时间）\n\n主
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Boston 
+ Celtics
+DESCRIPTION:Boston Celtics at Golden State Warriors (Beijing time)\n\n主
  场: 金州勇士\n客场: 波士顿凯尔特人\n场馆: Chase Center\, S
  an Francisco
-CATEGORIES:金州勇士 Schedule
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500820@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260223T043000
 DTEND;TZID=Asia/Shanghai:20260223T053000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 丹佛掘金
-DESCRIPTION:丹佛掘金 @ 金州勇士（北京时间）\n\n主场: 金
- 州勇士\n客场: 丹佛掘金\n场馆: Chase Center\, San Francisco
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Denver 
+ Nuggets
+DESCRIPTION:Denver Nuggets at Golden State Warriors (Beijing time)\n\n主
+ 场: 金州勇士\n客场: 丹佛掘金\n场馆: Chase Center\, San Franci
+ sco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500838@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260225T090000
 DTEND;TZID=Asia/Shanghai:20260225T100000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 新奥尔良鹈鹕
-DESCRIPTION:金州勇士 @ 新奥尔良鹈鹕（北京时间）\n\n主场:
-  新奥尔良鹈鹕\n客场: 金州勇士\n场馆: Smoothie King Center\, 
- New Orleans
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ New Orle
+ ans Pelicans
+DESCRIPTION:Golden State Warriors at New Orleans Pelicans (Beijing time)\n
+ \n主场: 新奥尔良鹈鹕\n客场: 金州勇士\n场馆: Smoothie King 
+ Center\, New Orleans
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500844@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260226T083000
 DTEND;TZID=Asia/Shanghai:20260226T093000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 孟菲斯灰熊
-DESCRIPTION:金州勇士 @ 孟菲斯灰熊（北京时间）\n\n主场: 
- 孟菲斯灰熊\n客场: 金州勇士\n场馆: FedExForum\, Memphis
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Memphis 
+ Grizzlies
+DESCRIPTION:Golden State Warriors at Memphis Grizzlies (Beijing time)\n\n
+ 主场: 孟菲斯灰熊\n客场: 金州勇士\n场馆: FedExForum\, Memphi
+ s
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500866@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260301T093000
 DTEND;TZID=Asia/Shanghai:20260301T103000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 洛杉矶湖人
-DESCRIPTION:洛杉矶湖人 @ 金州勇士（北京时间）\n\n主场: 
- 金州勇士\n客场: 洛杉矶湖人\n场馆: Chase Center\, San Francisc
- o
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Los Ang
+ eles Lakers
+DESCRIPTION:Los Angeles Lakers at Golden State Warriors (Beijing time)\n\n
+ 主场: 金州勇士\n客场: 洛杉矶湖人\n场馆: Chase Center\, San 
+ Francisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500882@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260303T110000
 DTEND;TZID=Asia/Shanghai:20260303T120000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 洛杉矶快船
-DESCRIPTION:洛杉矶快船 @ 金州勇士（北京时间）\n\n主场: 
- 金州勇士\n客场: 洛杉矶快船\n场馆: Chase Center\, San Francisc
- o
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs LA Clip
+ pers
+DESCRIPTION:LA Clippers at Golden State Warriors (Beijing time)\n\n主场:
+  金州勇士\n客场: 洛杉矶快船\n场馆: Chase Center\, San Francis
+ co
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500902@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260306T083000
 DTEND;TZID=Asia/Shanghai:20260306T093000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 休斯顿火箭
-DESCRIPTION:金州勇士 @ 休斯顿火箭（北京时间）\n\n主场: 
- 休斯顿火箭\n客场: 金州勇士\n场馆: Toyota Center\, Houston
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Houston 
+ Rockets
+DESCRIPTION:Golden State Warriors at Houston Rockets (Beijing time)\n\n主
+ 场: 休斯顿火箭\n客场: 金州勇士\n场馆: Toyota Center\, Housto
+ n
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500920@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260308T093000
 DTEND;TZID=Asia/Shanghai:20260308T103000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 俄克拉荷马雷霆
-DESCRIPTION:金州勇士 @ 俄克拉荷马雷霆（北京时间）\n\n主
- 场: 俄克拉荷马雷霆\n客场: 金州勇士\n场馆: Paycom Center\, 
- Oklahoma City
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Oklahoma
+  City Thunder
+DESCRIPTION:Golden State Warriors at Oklahoma City Thunder (Beijing time)\
+ n\n主场: 俄克拉荷马雷霆\n客场: 金州勇士\n场馆: Paycom Cen
+ ter\, Oklahoma City
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500934@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260310T090000
 DTEND;TZID=Asia/Shanghai:20260310T100000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 犹他爵士
-DESCRIPTION:金州勇士 @ 犹他爵士（北京时间）\n\n主场: 犹
- 他爵士\n客场: 金州勇士\n场馆: Delta Center\, Salt Lake City
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Utah Jaz
+ z
+DESCRIPTION:Golden State Warriors at Utah Jazz (Beijing time)\n\n主场: 
+ 犹他爵士\n客场: 金州勇士\n场馆: Delta Center\, Salt Lake City
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500943@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260311T100000
 DTEND;TZID=Asia/Shanghai:20260311T110000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 芝加哥公牛
-DESCRIPTION:芝加哥公牛 @ 金州勇士（北京时间）\n\n主场: 
- 金州勇士\n客场: 芝加哥公牛\n场馆: Chase Center\, San Francisc
- o
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Chicago
+  Bulls
+DESCRIPTION:Chicago Bulls at Golden State Warriors (Beijing time)\n\n主
+ 场: 金州勇士\n客场: 芝加哥公牛\n场馆: Chase Center\, San Fra
+ ncisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500966@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260314T100000
 DTEND;TZID=Asia/Shanghai:20260314T110000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 明尼苏达森林狼
-DESCRIPTION:明尼苏达森林狼 @ 金州勇士（北京时间）\n\n主
- 场: 金州勇士\n客场: 明尼苏达森林狼\n场馆: Chase Center\, S
- an Francisco
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Minneso
+ ta Timberwolves
+DESCRIPTION:Minnesota Timberwolves at Golden State Warriors (Beijing time)
+ \n\n主场: 金州勇士\n客场: 明尼苏达森林狼\n场馆: Chase Cen
+ ter\, San Francisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500981@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260316T080000
 DTEND;TZID=Asia/Shanghai:20260316T090000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 纽约尼克斯
-DESCRIPTION:金州勇士 @ 纽约尼克斯（北京时间）\n\n主场: 
- 纽约尼克斯\n客场: 金州勇士\n场馆: Madison Square Garden\, New
-  York
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ New York
+  Knicks
+DESCRIPTION:Golden State Warriors at New York Knicks (Beijing time)\n\n主
+ 场: 纽约尼克斯\n客场: 金州勇士\n场馆: Madison Square Garden\
+ , New York
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500984@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260317T070000
 DTEND;TZID=Asia/Shanghai:20260317T080000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 华盛顿奇才
-DESCRIPTION:金州勇士 @ 华盛顿奇才（北京时间）\n\n主场: 
- 华盛顿奇才\n客场: 金州勇士\n场馆: Capital One Arena\, Washing
- ton
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Washingt
+ on Wizards
+DESCRIPTION:Golden State Warriors at Washington Wizards (Beijing time)\n\n
+ 主场: 华盛顿奇才\n客场: 金州勇士\n场馆: Capital One Arena\,
+  Washington
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022500999@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260319T070000
 DTEND;TZID=Asia/Shanghai:20260319T080000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 波士顿凯尔特人
-DESCRIPTION:金州勇士 @ 波士顿凯尔特人（北京时间）\n\n主
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Boston C
+ eltics
+DESCRIPTION:Golden State Warriors at Boston Celtics (Beijing time)\n\n主
  场: 波士顿凯尔特人\n客场: 金州勇士\n场馆: TD Garden\, Bost
  on
-CATEGORIES:金州勇士 Schedule
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022501017@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260321T073000
 DTEND;TZID=Asia/Shanghai:20260321T083000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 底特律活塞
-DESCRIPTION:金州勇士 @ 底特律活塞（北京时间）\n\n主场: 
- 底特律活塞\n客场: 金州勇士\n场馆: Little Caesars Arena\, Detr
- oit
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Detroit 
+ Pistons
+DESCRIPTION:Golden State Warriors at Detroit Pistons (Beijing time)\n\n主
+ 场: 底特律活塞\n客场: 金州勇士\n场馆: Little Caesars Arena\,
+  Detroit
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022501026@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260322T080000
 DTEND;TZID=Asia/Shanghai:20260322T090000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 亚特兰大老鹰
-DESCRIPTION:金州勇士 @ 亚特兰大老鹰（北京时间）\n\n主场:
-  亚特兰大老鹰\n客场: 金州勇士\n场馆: State Farm Arena\, Atla
- nta
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Atlanta 
+ Hawks
+DESCRIPTION:Golden State Warriors at Atlanta Hawks (Beijing time)\n\n主
+ 场: 亚特兰大老鹰\n客场: 金州勇士\n场馆: State Farm Arena\, 
+ Atlanta
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022501044@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260324T093000
 DTEND;TZID=Asia/Shanghai:20260324T103000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 达拉斯独行侠
-DESCRIPTION:金州勇士 @ 达拉斯独行侠（北京时间）\n\n主场:
-  达拉斯独行侠\n客场: 金州勇士\n场馆: American Airlines Cente
- r\, Dallas
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Dallas M
+ avericks
+DESCRIPTION:Golden State Warriors at Dallas Mavericks (Beijing time)\n\n
+ 主场: 达拉斯独行侠\n客场: 金州勇士\n场馆: American Airline
+ s Center\, Dallas
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022501060@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260326T100000
 DTEND;TZID=Asia/Shanghai:20260326T110000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 布鲁克林篮网
-DESCRIPTION:布鲁克林篮网 @ 金州勇士（北京时间）\n\n主场:
-  金州勇士\n客场: 布鲁克林篮网\n场馆: Chase Center\, San Fran
- cisco
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Brookly
+ n Nets
+DESCRIPTION:Brooklyn Nets at Golden State Warriors (Beijing time)\n\n主
+ 场: 金州勇士\n客场: 布鲁克林篮网\n场馆: Chase Center\, San 
+ Francisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022501073@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260328T100000
 DTEND;TZID=Asia/Shanghai:20260328T110000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 华盛顿奇才
-DESCRIPTION:华盛顿奇才 @ 金州勇士（北京时间）\n\n主场: 
- 金州勇士\n客场: 华盛顿奇才\n场馆: Chase Center\, San Francisc
- o
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Washing
+ ton Wizards
+DESCRIPTION:Washington Wizards at Golden State Warriors (Beijing time)\n\n
+ 主场: 金州勇士\n客场: 华盛顿奇才\n场馆: Chase Center\, San 
+ Francisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022501090@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260330T100000
 DTEND;TZID=Asia/Shanghai:20260330T110000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 丹佛掘金
-DESCRIPTION:金州勇士 @ 丹佛掘金（北京时间）\n\n主场: 丹
- 佛掘金\n客场: 金州勇士\n场馆: Ball Arena\, Denver
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Denver N
+ uggets
+DESCRIPTION:Golden State Warriors at Denver Nuggets (Beijing time)\n\n主
+ 场: 丹佛掘金\n客场: 金州勇士\n场馆: Ball Arena\, Denver
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022501113@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260402T100000
 DTEND;TZID=Asia/Shanghai:20260402T110000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 圣安东尼奥马刺
-DESCRIPTION:圣安东尼奥马刺 @ 金州勇士（北京时间）\n\n主
- 场: 金州勇士\n客场: 圣安东尼奥马刺\n场馆: Chase Center\, S
- an Francisco
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs San Ant
+ onio Spurs
+DESCRIPTION:San Antonio Spurs at Golden State Warriors (Beijing time)\n\n
+ 主场: 金州勇士\n客场: 圣安东尼奥马刺\n场馆: Chase Center\
+ , San Francisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022501117@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260403T100000
 DTEND;TZID=Asia/Shanghai:20260403T110000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 克利夫兰骑士
-DESCRIPTION:克利夫兰骑士 @ 金州勇士（北京时间）\n\n主场:
-  金州勇士\n客场: 克利夫兰骑士\n场馆: Chase Center\, San Fran
- cisco
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Clevela
+ nd Cavaliers
+DESCRIPTION:Cleveland Cavaliers at Golden State Warriors (Beijing time)\n\
+ n主场: 金州勇士\n客场: 克利夫兰骑士\n场馆: Chase Center\, 
+ San Francisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022501142@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260406T100000
 DTEND;TZID=Asia/Shanghai:20260406T110000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 休斯顿火箭
-DESCRIPTION:休斯顿火箭 @ 金州勇士（北京时间）\n\n主场: 
- 金州勇士\n客场: 休斯顿火箭\n场馆: Chase Center\, San Francisc
- o
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Houston
+  Rockets
+DESCRIPTION:Houston Rockets at Golden State Warriors (Beijing time)\n\n主
+ 场: 金州勇士\n客场: 休斯顿火箭\n场馆: Chase Center\, San Fra
+ ncisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022501154@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260408T100000
 DTEND;TZID=Asia/Shanghai:20260408T110000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 萨克拉门托国王
-DESCRIPTION:萨克拉门托国王 @ 金州勇士（北京时间）\n\n主
- 场: 金州勇士\n客场: 萨克拉门托国王\n场馆: Chase Center\, S
- an Francisco
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Sacrame
+ nto Kings
+DESCRIPTION:Sacramento Kings at Golden State Warriors (Beijing time)\n\n
+ 主场: 金州勇士\n客场: 萨克拉门托国王\n场馆: Chase Center\
+ , San Francisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022501170@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260410T100000
 DTEND;TZID=Asia/Shanghai:20260410T110000
-SUMMARY:金州勇士 Schedule · 金州勇士 vs 洛杉矶湖人
-DESCRIPTION:洛杉矶湖人 @ 金州勇士（北京时间）\n\n主场: 
- 金州勇士\n客场: 洛杉矶湖人\n场馆: Chase Center\, San Francisc
- o
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Los Ang
+ eles Lakers
+DESCRIPTION:Los Angeles Lakers at Golden State Warriors (Beijing time)\n\n
+ 主场: 金州勇士\n客场: 洛杉矶湖人\n场馆: Chase Center\, San 
+ Francisco
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022501184@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260411T100000
 DTEND;TZID=Asia/Shanghai:20260411T110000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 萨克拉门托国王
-DESCRIPTION:金州勇士 @ 萨克拉门托国王（北京时间）\n\n主
- 场: 萨克拉门托国王\n客场: 金州勇士\n场馆: Golden 1 Center\
- , Sacramento
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Sacramen
+ to Kings
+DESCRIPTION:Golden State Warriors at Sacramento Kings (Beijing time)\n\n
+ 主场: 萨克拉门托国王\n客场: 金州勇士\n场馆: Golden 1 Cent
+ er\, Sacramento
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-gsw-nba-2026-regular-0022501199@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260611T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20260413T083000
 DTEND;TZID=Asia/Shanghai:20260413T093000
-SUMMARY:金州勇士 Schedule · 金州勇士 @ 洛杉矶快船
-DESCRIPTION:金州勇士 @ 洛杉矶快船（北京时间）\n\n主场: 
- 洛杉矶快船\n客场: 金州勇士\n场馆: Intuit Dome\, Inglewood
-CATEGORIES:金州勇士 Schedule
+SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ LA Clipp
+ ers
+DESCRIPTION:Golden State Warriors at LA Clippers (Beijing time)\n\n主场:
+  洛杉矶快船\n客场: 金州勇士\n场馆: Intuit Dome\, Inglewood
+CATEGORIES:Golden State Warriors Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
