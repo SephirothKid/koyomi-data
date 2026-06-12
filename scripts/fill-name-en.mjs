@@ -357,11 +357,17 @@ function handleNBA(event) {
     const gameM = name.match(/第\s*(\d+)\s*场/)
     const teamsM = name.match(/[··]\s*(.+)$/)
     const gameNum = gameM ? ` Game ${gameM[1]}` : ''
-    const teams = teamsM ? ` · ${teamsM[1].trim()}` : ''
+    const teams = teamsM ? ` · ${normalizeNBAEnglishSuffix(teamsM[1])}` : ''
     return `${en}${gameNum}${teams}`
   }
 
   return null
+}
+
+function normalizeNBAEnglishSuffix(text) {
+  const ifNecessary = text.includes('（如有必要）')
+  const cleaned = text.replace(/（如有必要）/g, '').trim()
+  return `${cleaned}${ifNecessary ? ' (if necessary)' : ''}`
 }
 
 function handleGaming(event) {
