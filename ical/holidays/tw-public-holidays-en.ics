@@ -12,13 +12,13 @@ X-WR-TIMEZONE:Asia/Taipei
 BEGIN:VEVENT
 UID:tw-public-holidays-tw-holiday-2025-new-years-day@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260607T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20250101
 DTEND;VALUE=DATE:20250102
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Taiwan\, China Public Holidays · Founding Day (New Year's Day)
-DESCRIPTION:中华民国开国纪念日，放假1天。
+SUMMARY:Taiwan\, China Public Holidays · New Year's Day
+DESCRIPTION:New Year's Day\, 1 day off.
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -26,13 +26,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tw-public-holidays-tw-holiday-2025-spring-festival@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260607T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20250128
 DTEND;VALUE=DATE:20250201
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Taiwan\, China Public Holidays · Lunar New Year
-DESCRIPTION:农历除夕至初三，放假共4天。
+SUMMARY:Taiwan\, China Public Holidays · Spring Festival (Chinese New Yea
+ r)
+DESCRIPTION:Spring Festival\, 4 days off.
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -40,13 +41,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tw-public-holidays-tw-holiday-2025-peace-memorial-day@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260607T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20250228
 DTEND;VALUE=DATE:20250301
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Taiwan\, China Public Holidays · Peace Memorial Day
-DESCRIPTION:和平纪念日，放假1天。
+SUMMARY:Taiwan\, China Public Holidays · Peace Memorial Day (228)
+DESCRIPTION:Peace Memorial Day\, 1 day off.
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -54,15 +55,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tw-public-holidays-tw-holiday-2025-childrens-day-qingming@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260607T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20250404
 DTEND;VALUE=DATE:20250405
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Taiwan\, China Public Holidays · Children's Day & Tomb Sweeping D
- ay
-DESCRIPTION:儿童节（4月4日）与清明节合并放假。实际放假
- 安排以内政部公告为准，可能包含弹性放假形成连假。
+SUMMARY:Taiwan\, China Public Holidays · Children's Day & Qingming Festiv
+ al
+DESCRIPTION:Children's Day & Qingming Festival. Actual dates subject to MO
+ I announcement.
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -70,13 +71,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tw-public-holidays-tw-holiday-2025-labor-day@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260607T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20250501
 DTEND;VALUE=DATE:20250502
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Labor Day
-DESCRIPTION:劳动节，部分行业放假1天。
+DESCRIPTION:Labor Day\, 1 day off for certain industries.
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -84,13 +85,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tw-public-holidays-tw-holiday-2025-dragon-boat-festival@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260607T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20250531
 DTEND;VALUE=DATE:20250601
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Dragon Boat Festival
-DESCRIPTION:端午节，放假1天。
+DESCRIPTION:Dragon Boat Festival\, 1 day off.
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -98,13 +99,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tw-public-holidays-tw-holiday-2025-mid-autumn-festival@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260607T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20251006
 DTEND;VALUE=DATE:20251007
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Mid-Autumn Festival
-DESCRIPTION:中秋节，放假1天。
+DESCRIPTION:Mid-Autumn Festival\, 1 day off.
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -112,13 +113,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tw-public-holidays-tw-holiday-2025-national-day@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260607T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20251010
 DTEND;VALUE=DATE:20251011
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Taiwan\, China Public Holidays · National Day
-DESCRIPTION:中华民国国庆日（双十节），放假1天。
+SUMMARY:Taiwan\, China Public Holidays · National Day (Double Ten)
+DESCRIPTION:National Day\, 1 day off.
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -126,13 +127,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tw-public-holidays-tw-holiday-2026-new-years-day@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260607T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260102
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Taiwan\, China Public Holidays · Founding Day (New Year's Day)
-DESCRIPTION:中华民国开国纪念日，放假1天。
+SUMMARY:Taiwan\, China Public Holidays · New Year's Day
+DESCRIPTION:New Year's Day\, 1 day off.
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -140,13 +141,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tw-public-holidays-tw-holiday-2026-spring-festival@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260607T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20260216
 DTEND;VALUE=DATE:20260220
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Taiwan\, China Public Holidays · Lunar New Year
-DESCRIPTION:农历除夕至初三，放假共4天。
+SUMMARY:Taiwan\, China Public Holidays · Spring Festival (Chinese New Yea
+ r)
+DESCRIPTION:Spring Festival\, 4 days off.
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -154,13 +156,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tw-public-holidays-tw-holiday-2026-peace-memorial-day@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260607T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20260228
 DTEND;VALUE=DATE:20260301
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Taiwan\, China Public Holidays · Peace Memorial Day
-DESCRIPTION:和平纪念日，放假1天。
+SUMMARY:Taiwan\, China Public Holidays · Peace Memorial Day (228)
+DESCRIPTION:Peace Memorial Day\, 1 day off.
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -168,15 +170,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tw-public-holidays-tw-holiday-2026-childrens-day-qingming@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260607T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20260404
 DTEND;VALUE=DATE:20260406
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Taiwan\, China Public Holidays · Children's Day & Tomb Sweeping D
- ay
-DESCRIPTION:儿童节（4月4日）与清明节合并放假。实际放假
- 安排以内政部公告为准，可能包含弹性放假形成连假。
+SUMMARY:Taiwan\, China Public Holidays · Children's Day & Qingming Festiv
+ al
+DESCRIPTION:Children's Day & Qingming Festival. Actual dates subject to MO
+ I announcement.
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -184,13 +186,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tw-public-holidays-tw-holiday-2026-labor-day@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260607T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Labor Day
-DESCRIPTION:劳动节，部分行业放假1天。
+DESCRIPTION:Labor Day\, 1 day off for certain industries.
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -198,13 +200,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tw-public-holidays-tw-holiday-2026-dragon-boat-festival@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260607T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Dragon Boat Festival
-DESCRIPTION:端午节，放假1天。
+DESCRIPTION:Dragon Boat Festival\, 1 day off.
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -212,13 +214,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tw-public-holidays-tw-holiday-2026-mid-autumn-festival@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260607T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Mid-Autumn Festival
-DESCRIPTION:中秋节，放假1天。
+DESCRIPTION:Mid-Autumn Festival\, 1 day off.
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -226,13 +228,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tw-public-holidays-tw-holiday-2026-national-day@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260607T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Taiwan\, China Public Holidays · National Day
-DESCRIPTION:中华民国国庆日（双十节），放假1天。
+SUMMARY:Taiwan\, China Public Holidays · National Day (Double Ten)
+DESCRIPTION:National Day\, 1 day off.
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -240,13 +242,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tw-public-holidays-tw-holiday-2027-new-years-day@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260607T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Taiwan\, China Public Holidays · Founding Day (New Year's Day)
-DESCRIPTION:中华民国开国纪念日，放假1天。
+SUMMARY:Taiwan\, China Public Holidays · New Year's Day
+DESCRIPTION:New Year's Day\, 1 day off.
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -254,13 +256,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tw-public-holidays-tw-holiday-2027-spring-festival@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260607T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270209
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Taiwan\, China Public Holidays · Lunar New Year
-DESCRIPTION:农历除夕至初三，放假共4天。
+SUMMARY:Taiwan\, China Public Holidays · Spring Festival (Chinese New Yea
+ r)
+DESCRIPTION:Spring Festival\, 4 days off.
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -268,13 +271,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tw-public-holidays-tw-holiday-2027-peace-memorial-day@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260607T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Taiwan\, China Public Holidays · Peace Memorial Day
-DESCRIPTION:和平纪念日，放假1天。
+SUMMARY:Taiwan\, China Public Holidays · Peace Memorial Day (228)
+DESCRIPTION:Peace Memorial Day\, 1 day off.
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -282,15 +285,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tw-public-holidays-tw-holiday-2027-childrens-day-qingming@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260607T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270406
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Taiwan\, China Public Holidays · Children's Day & Tomb Sweeping D
- ay
-DESCRIPTION:儿童节（4月4日）与清明节合并放假。实际放假
- 安排以内政部公告为准，可能包含弹性放假形成连假。
+SUMMARY:Taiwan\, China Public Holidays · Children's Day & Qingming Festiv
+ al
+DESCRIPTION:Children's Day & Qingming Festival. Actual dates subject to MO
+ I announcement.
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -298,13 +301,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tw-public-holidays-tw-holiday-2027-labor-day@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260607T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Labor Day
-DESCRIPTION:劳动节，部分行业放假1天。
+DESCRIPTION:Labor Day\, 1 day off for certain industries.
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -312,13 +315,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tw-public-holidays-tw-holiday-2027-dragon-boat-festival@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260607T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270610
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Dragon Boat Festival
-DESCRIPTION:端午节，放假1天。
+DESCRIPTION:Dragon Boat Festival\, 1 day off.
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -326,13 +329,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tw-public-holidays-tw-holiday-2027-mid-autumn-festival@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260607T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Mid-Autumn Festival
-DESCRIPTION:中秋节，放假1天。
+DESCRIPTION:Mid-Autumn Festival\, 1 day off.
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -340,13 +343,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tw-public-holidays-tw-holiday-2027-national-day@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260607T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20271010
 DTEND;VALUE=DATE:20271011
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Taiwan\, China Public Holidays · National Day
-DESCRIPTION:中华民国国庆日（双十节），放假1天。
+SUMMARY:Taiwan\, China Public Holidays · National Day (Double Ten)
+DESCRIPTION:National Day\, 1 day off.
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
