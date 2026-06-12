@@ -63,6 +63,7 @@
     "tags_en": { "type": "array", "items": { "type": "string" }, "description": "英文标签" },
     "icon": { "type": "string" },
     "source_url": { "type": "string", "format": "uri" },
+    "attribution": { "type": "string", "description": "第三方数据源署名要求" },
     "maintainer": { "type": "string", "enum": ["official", "community"] },
     "subscriber_count": { "type": "integer" },
     "rating": { "type": "number" },
@@ -130,10 +131,20 @@
               "required": ["title"],
               "properties": {
                 "title": { "type": "string", "description": "游戏名称" },
+                "title_zh": { "type": "string", "description": "中文游戏名称" },
+                "title_en": { "type": "string", "description": "英文游戏名称" },
                 "description": { "type": "string", "description": "游戏简介" },
                 "cover_url": { "type": "string", "format": "uri", "description": "游戏封面图 URL" },
                 "original_price": { "type": "string", "description": "原价（如 ¥168.00），免费期间可能无法获取" },
-                "store_url": { "type": "string", "format": "uri", "description": "商店页面链接" }
+                "store_url": { "type": "string", "format": "uri", "description": "商店页面链接" },
+                "platforms": {
+                  "type": "array",
+                  "description": "发售平台列表，适用于游戏发售日历",
+                  "items": { "type": "string" }
+                },
+                "rawg_id": { "type": "string", "description": "RAWG 游戏 ID" },
+                "rawg_rating": { "type": "number", "description": "RAWG 用户评分（0-5）" },
+                "metacritic": { "type": "number", "description": "Metacritic 评分" }
               }
             }
           }

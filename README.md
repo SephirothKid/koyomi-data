@@ -1,32 +1,176 @@
-# koyomi-data
+# Koyomi Data · 岁岁如约
 
-> 「岁岁如约 / Koyomi - Cast」的公开事件数据仓库
+> 一个事件订阅日历平台的公开数据仓库。像订阅播客一样订阅你关心的事件，关键日期自动同步到日历。
 
-订阅你关心的事件，自动同步到日历。本仓库存放所有事件源的 JSON 数据，并自动生成 iCal 订阅文件。
+[English Version](./README.en.md)
 
-## 使用方法
+---
 
-将以下链接粘贴进 Apple Calendar / Google Calendar / Outlook：
+## 快速开始
+
+将任意 iCal 链接粘贴到 Apple Calendar / Google Calendar / Outlook / 钉钉 / 飞书日历，即可自动同步事件提醒：
 
 ```
-webcal://koyomi.pages.dev/ical/cpa.ics
-webcal://koyomi.pages.dev/ical/steam-sales.ics
+webcal://koyomi.pages.dev/ical/exam/cpa.ics
+webcal://koyomi.pages.dev/ical/gaming/platform/steam-sales.ics
+webcal://koyomi.pages.dev/ical/sports/football/epl.ics
 ```
 
-## 贡献数据
+> 每个事件源同时提供 **中文** 和 **英文** 两个版本的 `.ics` 文件（如 `cpa.ics` 和 `cpa-en.ics`）。
 
-欢迎提交 PR 补充或修正事件数据，详见 [CONTRIBUTING.md](./CONTRIBUTING.md)。
+---
+
+## 事件源概览
+
+| 分类 | 数量 | 说明 |
+|------|------|------|
+| 🎓 **考试** `exam/` | 30+ | CPA、法考、建造师、教师资格证、四六级、公务员考试等 |
+| 🎮 **游戏** `gaming/` | 7+ | Steam 促销、Epic 喜加一、原神/星铁版本更新、CS2 赛事等 |
+| ⚽ **体育** `sports/` | 18+ | 五大联赛、欧冠、NBA、F1、网球大满贯、LPL/KPL 等 |
+| 🛍️ **购物** `shopping/` | 4+ | 黑五、Prime Day 等 |
+| 🎬 **娱乐** `entertainment/` | 2+ | Bilibili 年度活动、音乐节等 |
+| 🌍 **节假日** `holidays/` | 15+ | 中国、美国、日本、英国、德国等 15 国公共假期 |
+| 📦 **其他** `other/` | 1+ | 杂项事件源 |
+
+**总计：76+ 事件源 · 512+ iCal 文件**
+
+---
 
 ## 目录结构
 
 ```
-events/          事件数据（按分类）
-  exam/          考试类
-  gaming/        游戏类
-  sports/        体育类
-  shopping/      购物节
-ical/            自动生成的 .ics 文件（勿手动编辑）
-schemas/         JSON Schema 校验规范
-scripts/         数据校验 / iCal 生成 / 新鲜度检查脚本
-.github/         GitHub Actions 自动化
+koyomi-data/
+├── events/                    # 事件源 JSON 数据（唯一正本）
+│   ├── exam/                  # 考试类
+│   ├── gaming/                # 游戏类
+│   │   ├── esports/           # 电竞赛事
+│   │   ├── gacha/             # 抽卡/版本更新
+│   │   └── platform/          # 平台促销
+│   ├── sports/                # 体育类
+│   │   ├── basketball/        # 篮球
+│   │   ├── esports/           # 电竞体育
+│   │   ├── football/          # 足球
+│   │   ├── motorsport/        # 赛车
+│   │   └── tennis/            # 网球
+│   ├── shopping/              # 购物节
+│   ├── entertainment/         # 影视音乐娱乐
+│   ├── holidays/              # 各国公共假期
+│   └── other/                 # 其他
+│
+├── ical/                      # 自动生成的 iCal 文件（请勿手动编辑）
+│   └── {category}/
+│       └── {subcategory}/
+│           ├── {source-id}.ics      # 中文版
+│           └── {source-id}-en.ics   # 英文版
+│
+├── schemas/                   # JSON Schema 校验规范
+│   └── event-source.schema.json
+│
+├── scripts/                   # 数据处理脚本
+│   ├── validate.js            # JSON Schema 校验
+│   ├── generate-ical.js       # iCal 文件生成
+│   ├── check-freshness.js     # 数据新鲜度检查
+│   └── fill-name-en.mjs       # 英文字段补全工具
+│
+└── .github/workflows/         # GitHub Actions 自动化
+    ├── validate.yml           # PR 时校验 JSON
+    ├── generate-ical.yml      # Push 时自动生成 .ics
+    └── check-freshness.yml    # 每日检查数据新鲜度
 ```
+
+---
+
+## 自动化流水线
+
+| Workflow | 触发条件 | 功能 |
+|----------|----------|------|
+| **Validate** | PR 修改 `events/**` 或 `schemas/**` | AJV 校验 JSON Schema + 检查重复 event ID |
+| **Generate iCal** | Push 到 main，修改 `events/**` | 自动生成 `.ics` 文件并自动 commit |
+| **Check Freshness** | 每日凌晨 02:00 UTC | 检查 `last_verified` 超 30 天的事件，创建提醒 Issue |
+
+---
+
+## 数据规范
+
+### 核心设计原则
+
+- **事件源不含年份**：如 `cpa` 而非 `cpa-2026`，年度数据作为 `events` 数组追加
+- **订阅一次，永久有效**：用户订阅后，新年度数据自动生效，无需重新订阅
+- **双语支持**：每个事件源和事件均支持 `name` / `name_en`、`description` / `description_en`、`tags` / `tags_en`
+- **必须可验证**：每个事件必须包含 `last_verified` 和 `verified_by`（`official` 或 `community`）
+
+### 关键字段速查
+
+| 字段 | 类型 | 说明 |
+|------|------|------|
+| `id` | string | 唯一标识，全小写+连字符，**不含年份** |
+| `name` / `name_en` | string | 事件源名称（中/英） |
+| `category` | string | `exam` / `gaming` / `sports` / `shopping` / `entertainment` / `holidays` / `other` |
+| `subcategory` | string | 细分领域，如 `财会`、`esports`、`football` |
+| `events[].id` | string | 事件唯一 ID，格式：`{source}-{year}-{slug}` |
+| `events[].date` | string | ISO 8601 日期，如 `2026-04-08` |
+| `events[].end_date` | string | 仅 `range` 类型事件需要 |
+| `events[].type` | string | `deadline` / `event` / `range` / `announcement` |
+| `events[].timezone` | string | 中国大陆默认 `Asia/Shanghai` |
+| `events[].status` | string | `planned` / `confirmed` / `active` / `completed` |
+| `events[].last_verified` | string | 最后校验日期 `YYYY-MM-DD` |
+| `events[].verified_by` | string | `official`（官方来源）或 `community`（社区维护） |
+
+完整规范见 [`schemas/event-source.schema.json`](./schemas/event-source.schema.json)。
+
+---
+
+## 本地开发
+
+```bash
+# 克隆仓库
+git clone https://github.com/SephirothKid/koyomi-data.git
+cd koyomi-data
+
+# 安装依赖
+npm ci
+
+# 校验所有 JSON 数据
+npm run validate
+
+# 手动生成 iCal 文件
+npm run generate
+
+# 检查数据新鲜度
+npm run check-freshness
+```
+
+---
+
+## 贡献数据
+
+欢迎提交 PR 补充或修正事件数据！
+
+1. Fork 本仓库
+2. 在对应分类目录下新增或修改 JSON 文件
+3. 本地运行 `npm run validate` 确保通过校验
+4. 提交 PR，**必须附官方数据来源链接**
+5. 维护者审核通过后合并，Actions 自动更新 `.ics` 文件
+
+详见 [CONTRIBUTING.md](./CONTRIBUTING.md)。
+
+---
+
+## 相关项目
+
+| 项目 | 说明 |
+|------|------|
+| [koyomi](https://github.com/SephirothKid/koyomi) | 主仓库 — Web 站点（Astro + React）、iOS App（SwiftUI）、微信小程序 |
+| [koyomi-data](https://github.com/SephirothKid/koyomi-data) | 本仓库 — 公开事件数据与 iCal 生成 |
+
+---
+
+## 许可证
+
+事件数据遵循开放数据原则，具体许可证见主仓库。欢迎自由使用、引用和贡献。
+
+---
+
+<p align="center">
+  <sub>Made with ❤️ by <a href="https://my-koyomi.com">Koyomi - Cast · 岁岁如约</a></sub>
+</p>

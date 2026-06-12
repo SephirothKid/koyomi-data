@@ -57,6 +57,7 @@ function getSubcategory(source) {
 // 语言模式：通过环境变量 LANG 控制，支持 'zh' (默认) 和 'en'
 const LANG = process.env.LANG === 'en' ? 'en' : 'zh'
 const IS_EN = LANG === 'en'
+const ONLY_SOURCE_ID = process.env.SOURCE_ID?.trim()
 
 mkdirSync(ICAL_DIR, { recursive: true })
 
@@ -304,6 +305,28 @@ function eventDescription(event, isEn = false) {
   return event.description ?? ''
 }
 
+function gameTitle(game, isEn = false) {
+  if (isEn) return game.title_en ?? game.title
+  return game.title_zh ?? game.title
+}
+
+function rawgReleaseSummary(event, isEn = false) {
+  const games = event.games ?? []
+  if (games.length === 0) return eventName(event, isEn)
+
+  const firstTitle = gameTitle(games[0], isEn)
+
+  if (games.length === 1) {
+    return isEn ? `${firstTitle} release` : `${firstTitle} 发售`
+  }
+
+  const more = games.length - 1
+
+  return isEn
+    ? `${firstTitle} + ${more} more ${more === 1 ? 'release' : 'releases'}`
+    : `${firstTitle} 等 ${games.length} 款发售`
+}
+
 // 获取源名称（根据语言）
 function sourceName(source, isEn = false) {
   if (isEn && source.name_en) return source.name_en
@@ -348,9 +371,12 @@ function createCalendar(source, events, options = {}) {
     // 去掉 event.name 中的年份前缀，避免重复（如「2026年报名开始」→「报名开始」）
     // 支持格式：2026年 / 2026 / 2027 等任意 4 位年份 + 可选「年」字 + 可选空格
     // 保护跨赛季格式如「2025-26」，要求年份后不能紧跟数字或连字符
-    const rawEventName = options.summaryForEvent?.(event) ?? eventName(event, isEn)
+    const rawEventName = options.summaryForEvent?.(event)
+      ?? (source.id === 'rawg-releases' ? rawgReleaseSummary(event, isEn) : eventName(event, isEn))
     const shortEventName = rawEventName.replace(/^\d{4}(?:年|\s*)(?![\d-])/u, '')
-    const summary = `${options.calendarName ?? sourceName(source, isEn)} · ${shortEventName}`
+    const summary = source.id === 'rawg-releases'
+      ? shortEventName
+      : `${options.calendarName ?? sourceName(source, isEn)} · ${shortEventName}`
 
     // 构建描述内容
     const descParts = [eventDescription(event, isEn)]
@@ -367,21 +393,28 @@ function createCalendar(source, events, options = {}) {
 
     // 游戏列表
     if (event.games?.length) {
-      const gamesLabel = isEn ? 'Games this week:' : '本周游戏：'
+      const gamesLabel = source.id === 'rawg-releases'
+        ? (isEn ? 'Releases this day:' : '当天发售：')
+        : (isEn ? 'Games this week:' : '本周游戏：')
       descParts.push(
         gamesLabel + '\n' + event.games.map((g, i) => {
-          const title = g.title_en ?? g.title
+          const title = gameTitle(g, isEn)
           const priceLabel = isEn ? 'Original price' : '原价'
-          return `${i + 1}. ${title}${g.original_price ? ` (${priceLabel} ${g.original_price})` : ''}`
+          const meta = []
+          if (g.platforms?.length) meta.push(g.platforms.join(' / '))
+          if (g.original_price) meta.push(`${priceLabel} ${g.original_price}`)
+          if (g.metacritic != null) meta.push(`Metacritic ${g.metacritic}`)
+          if (g.rawg_rating != null) meta.push(`RAWG ${g.rawg_rating}`)
+          return `${i + 1}. ${title}${meta.length ? ` (${meta.join(' · ')})` : ''}`
         }).join('\n')
       )
     }
 
     // 详情键值对
     if (event.details) {
-      const detailsEn = event.details_en ?? event.details
+      const detailsForLocale = isEn ? (event.details_en ?? event.details) : event.details
       descParts.push(
-        Object.entries(detailsEn).map(([k, v]) => `${k}: ${v}`).join('\n')
+        Object.entries(detailsForLocale).map(([k, v]) => `${k}: ${v}`).join('\n')
       )
     }
 
@@ -404,13 +437,19 @@ function createCalendar(source, events, options = {}) {
 }
 
 const files = collectJsonFiles(EVENTS_DIR)
+let processedSources = 0
 let totalEvents = 0
 let totalTeamCalendars = 0
 
-cleanGeneratedIcalFiles(ICAL_DIR)
+if (!ONLY_SOURCE_ID) {
+  cleanGeneratedIcalFiles(ICAL_DIR)
+}
 
 for (const file of files) {
   const source = JSON.parse(readFileSync(file, 'utf8'))
+  if (ONLY_SOURCE_ID && source.id !== ONLY_SOURCE_ID) continue
+
+  processedSources++
   const calendarEvents = eventsForCalendar(source)
 
   totalEvents += calendarEvents.length
@@ -458,4 +497,4 @@ for (const file of files) {
   console.log(`✓ ${source.id}.ics${enLabel} (${calendarEvents.length}/${source.events?.length ?? 0} events${teamLabel})`)
 }
 
-console.log(`\n✓ Generated ${files.length} source calendars, ${totalTeamCalendars} team calendars, ${totalEvents} events total`)
+console.log(`\n✓ Generated ${processedSources} source calendars, ${totalTeamCalendars} team calendars, ${totalEvents} events total`)

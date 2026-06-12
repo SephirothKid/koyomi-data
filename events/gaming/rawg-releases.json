@@ -1,20 +1,20 @@
 {
   "id": "rawg-releases",
-  "name": "RAWG 游戏发售",
+  "name": "游戏发售日历",
   "category": "gaming",
-  "name_en": "RAWG Game Releases",
+  "name_en": "Multi-Platform Game Releases",
   "subcategory": "游戏发售",
-  "description": "主流平台（PC / PS5 / PS4 / Xbox Series / Switch / iOS / Android）游戏发售日历，数据来自 RAWG 数据库。",
+  "description": "跟踪 PC、PlayStation、Xbox、Switch、移动端等主流平台的新游发售日期，适合玩家提前安排愿望单与游玩计划。",
   "icon": "🕹️",
   "tags": [
-    "游戏发售",
+    "新游发售",
     "PC",
     "PlayStation",
     "Xbox",
     "Switch"
   ],
   "tags_en": [
-    "Game Release",
+    "New Releases",
     "PC",
     "PlayStation",
     "Xbox",
@@ -25,802 +25,1555 @@
   "attribution": "Data provided by RAWG (https://rawg.io)",
   "events": [
     {
-      "id": "rawg-1014269",
+      "id": "rawg-releases-2026-06-18",
       "date": "2026-06-18",
       "year": 2026,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "The Adventures of Elliot: The Millennium Tales 发售",
-      "description": "平台：PC / PS5 / Switch",
+      "name_en": "The Adventures of Elliot: The Millennium Tales release",
+      "description": "The Adventures of Elliot: The Millennium Tales 发售（PC / PS5 / Switch）",
+      "description_en": "The Adventures of Elliot: The Millennium Tales releases on PC / PS5 / Switch.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/the-adventures-of-elliot-the-millenium-tales",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "The Adventures of Elliot: The Millennium Tales",
-        "rawg_id": "1014269",
-        "平台": "PC / PS5 / Switch"
-      }
+        "游戏数量": "1",
+        "发售游戏": "The Adventures of Elliot: The Millennium Tales",
+        "平台": "PC / PS5 / Switch",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "The Adventures of Elliot: The Millennium Tales",
+        "Platforms": "PC / PS5 / Switch",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "The Adventures of Elliot: The Millennium Tales",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Switch"
+          ],
+          "store_url": "https://rawg.io/games/the-adventures-of-elliot-the-millenium-tales",
+          "rawg_id": "1014269",
+          "title_en": "The Adventures of Elliot: The Millennium Tales"
+        }
+      ]
     },
     {
-      "id": "rawg-1018039",
+      "id": "rawg-releases-2026-06-19",
       "date": "2026-06-19",
       "year": 2026,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "Maseylia: Echoes of the past 发售",
-      "description": "平台：PC",
+      "name_en": "Maseylia: Echoes of the past release",
+      "description": "Maseylia: Echoes of the past 发售（PC）",
+      "description_en": "Maseylia: Echoes of the past releases on PC.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/maseylia-echoes-of-the-past",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Maseylia: Echoes of the past",
-        "rawg_id": "1018039",
-        "平台": "PC"
-      }
+        "游戏数量": "1",
+        "发售游戏": "Maseylia: Echoes of the past",
+        "平台": "PC",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Maseylia: Echoes of the past",
+        "Platforms": "PC",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Maseylia: Echoes of the past",
+          "platforms": [
+            "PC"
+          ],
+          "store_url": "https://rawg.io/games/maseylia-echoes-of-the-past",
+          "rawg_id": "1018039",
+          "title_en": "Maseylia: Echoes of the past"
+        }
+      ]
     },
     {
-      "id": "rawg-1017771",
+      "id": "rawg-releases-2026-06-25",
       "date": "2026-06-25",
       "year": 2026,
-      "timezone": "UTC",
-      "name": "Star Fox 发售",
-      "description": "平台：Switch",
+      "timezone": "Asia/Shanghai",
+      "name": "星际火狐 发售",
+      "name_en": "Star Fox release",
+      "description": "星际火狐 发售（Switch）",
+      "description_en": "Star Fox releases on Switch.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/star-fox-2",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Star Fox",
-        "rawg_id": "1017771",
-        "平台": "Switch"
-      }
+        "游戏数量": "1",
+        "发售游戏": "星际火狐",
+        "平台": "Switch",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Star Fox",
+        "Platforms": "Switch",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Star Fox",
+          "platforms": [
+            "Switch"
+          ],
+          "store_url": "https://rawg.io/games/star-fox-2",
+          "rawg_id": "1017771",
+          "title_en": "Star Fox",
+          "title_zh": "星际火狐"
+        }
+      ]
     },
     {
-      "id": "rawg-1017360",
+      "id": "rawg-releases-2026-07-09",
       "date": "2026-07-09",
       "year": 2026,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "Assassin's Creed Back Flag Resynced 发售",
-      "description": "平台：PC / PS5",
+      "name_en": "Assassin's Creed Back Flag Resynced release",
+      "description": "Assassin's Creed Back Flag Resynced 发售（PC / PS5）",
+      "description_en": "Assassin's Creed Back Flag Resynced releases on PC / PS5.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/assassins-creed-back-flag-resynced",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Assassin's Creed Back Flag Resynced",
-        "rawg_id": "1017360",
-        "平台": "PC / PS5"
-      }
+        "游戏数量": "1",
+        "发售游戏": "Assassin's Creed Back Flag Resynced",
+        "平台": "PC / PS5",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Assassin's Creed Back Flag Resynced",
+        "Platforms": "PC / PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Assassin's Creed Back Flag Resynced",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/assassins-creed-back-flag-resynced",
+          "rawg_id": "1017360",
+          "title_en": "Assassin's Creed Back Flag Resynced"
+        }
+      ]
     },
     {
-      "id": "rawg-1018111",
+      "id": "rawg-releases-2026-07-13",
       "date": "2026-07-13",
       "year": 2026,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "The Alters: Last Variable 发售",
-      "description": "平台：PC / PS5",
+      "name_en": "The Alters: Last Variable release",
+      "description": "The Alters: Last Variable 发售（PC / PS5）",
+      "description_en": "The Alters: Last Variable releases on PC / PS5.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/the-alters-last-variable",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "The Alters: Last Variable",
-        "rawg_id": "1018111",
-        "平台": "PC / PS5"
-      }
+        "游戏数量": "1",
+        "发售游戏": "The Alters: Last Variable",
+        "平台": "PC / PS5",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "The Alters: Last Variable",
+        "Platforms": "PC / PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "The Alters: Last Variable",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/the-alters-last-variable",
+          "rawg_id": "1018111",
+          "title_en": "The Alters: Last Variable"
+        }
+      ]
     },
     {
-      "id": "rawg-1013132",
+      "id": "rawg-releases-2026-07-28",
       "date": "2026-07-28",
       "year": 2026,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "Halo Campaign Evolved 发售",
-      "description": "平台：PC / PS5",
+      "name_en": "Halo Campaign Evolved release",
+      "description": "Halo Campaign Evolved 发售（PC / PS5）",
+      "description_en": "Halo Campaign Evolved releases on PC / PS5.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/halo-campaign-evolved",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Halo Campaign Evolved",
-        "rawg_id": "1013132",
-        "平台": "PC / PS5"
-      }
+        "游戏数量": "1",
+        "发售游戏": "Halo Campaign Evolved",
+        "平台": "PC / PS5",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Halo Campaign Evolved",
+        "Platforms": "PC / PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Halo Campaign Evolved",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/halo-campaign-evolved",
+          "rawg_id": "1013132",
+          "title_en": "Halo Campaign Evolved"
+        }
+      ]
     },
     {
-      "id": "rawg-1016605",
+      "id": "rawg-releases-2026-07-29",
       "date": "2026-07-29",
       "year": 2026,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "Truxton Extreme 发售",
-      "description": "平台：PC",
+      "name_en": "Truxton Extreme release",
+      "description": "Truxton Extreme 发售（PC）",
+      "description_en": "Truxton Extreme releases on PC.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/truxton-extreme",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Truxton Extreme",
-        "rawg_id": "1016605",
-        "平台": "PC"
-      }
+        "游戏数量": "1",
+        "发售游戏": "Truxton Extreme",
+        "平台": "PC",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Truxton Extreme",
+        "Platforms": "PC",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Truxton Extreme",
+          "platforms": [
+            "PC"
+          ],
+          "store_url": "https://rawg.io/games/truxton-extreme",
+          "rawg_id": "1016605",
+          "title_en": "Truxton Extreme"
+        }
+      ]
     },
     {
-      "id": "rawg-1004522",
+      "id": "rawg-releases-2026-08-04",
       "date": "2026-08-04",
       "year": 2026,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "Beast of Reincarnation 发售",
-      "description": "平台：PC / PS5",
+      "name_en": "Beast of Reincarnation release",
+      "description": "Beast of Reincarnation 发售（PC / PS5）",
+      "description_en": "Beast of Reincarnation releases on PC / PS5.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/beast-of-reincarnation",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Beast of Reincarnation",
-        "rawg_id": "1004522",
-        "平台": "PC / PS5"
-      }
+        "游戏数量": "1",
+        "发售游戏": "Beast of Reincarnation",
+        "平台": "PC / PS5",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Beast of Reincarnation",
+        "Platforms": "PC / PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Beast of Reincarnation",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/beast-of-reincarnation",
+          "rawg_id": "1004522",
+          "title_en": "Beast of Reincarnation"
+        }
+      ]
     },
     {
-      "id": "rawg-1010532",
+      "id": "rawg-releases-2026-08-06",
       "date": "2026-08-06",
       "year": 2026,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "Marvel Tokon: Fighting Souls 发售",
-      "description": "平台：PC / PS5",
+      "name_en": "Marvel Tokon: Fighting Souls release",
+      "description": "Marvel Tokon: Fighting Souls 发售（PC / PS5）",
+      "description_en": "Marvel Tokon: Fighting Souls releases on PC / PS5.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/marvel-tokon-fighting-souls",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Marvel Tokon: Fighting Souls",
-        "rawg_id": "1010532",
-        "平台": "PC / PS5"
-      }
+        "游戏数量": "1",
+        "发售游戏": "Marvel Tokon: Fighting Souls",
+        "平台": "PC / PS5",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Marvel Tokon: Fighting Souls",
+        "Platforms": "PC / PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Marvel Tokon: Fighting Souls",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/marvel-tokon-fighting-souls",
+          "rawg_id": "1010532",
+          "title_en": "Marvel Tokon: Fighting Souls"
+        }
+      ]
     },
     {
-      "id": "rawg-1018109",
+      "id": "rawg-releases-2026-08-14",
       "date": "2026-08-14",
       "year": 2026,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "Mafia: The Old Country - Man of Honor 发售",
-      "description": "平台：PC / PS5",
+      "name_en": "Mafia: The Old Country - Man of Honor release",
+      "description": "Mafia: The Old Country - Man of Honor 发售（PC / PS5）",
+      "description_en": "Mafia: The Old Country - Man of Honor releases on PC / PS5.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/mafia-the-old-country-man-of-honor",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Mafia: The Old Country - Man of Honor",
-        "rawg_id": "1018109",
-        "平台": "PC / PS5"
-      }
+        "游戏数量": "1",
+        "发售游戏": "Mafia: The Old Country - Man of Honor",
+        "平台": "PC / PS5",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Mafia: The Old Country - Man of Honor",
+        "Platforms": "PC / PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Mafia: The Old Country - Man of Honor",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/mafia-the-old-country-man-of-honor",
+          "rawg_id": "1018109",
+          "title_en": "Mafia: The Old Country - Man of Honor"
+        }
+      ]
     },
     {
-      "id": "rawg-1018100",
+      "id": "rawg-releases-2026-08-18",
       "date": "2026-08-18",
       "year": 2026,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "Sinking City 2 发售",
-      "description": "平台：PC / PS5",
+      "name_en": "Sinking City 2 release",
+      "description": "Sinking City 2 发售（PC / PS5）",
+      "description_en": "Sinking City 2 releases on PC / PS5.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/sinking-city-2-2",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Sinking City 2",
-        "rawg_id": "1018100",
-        "平台": "PC / PS5"
-      }
+        "游戏数量": "1",
+        "发售游戏": "Sinking City 2",
+        "平台": "PC / PS5",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Sinking City 2",
+        "Platforms": "PC / PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Sinking City 2",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/sinking-city-2-2",
+          "rawg_id": "1018100",
+          "title_en": "Sinking City 2"
+        }
+      ]
     },
     {
-      "id": "rawg-1004520",
+      "id": "rawg-releases-2026-08-27",
       "date": "2026-08-27",
       "year": 2026,
-      "timezone": "UTC",
-      "name": "Resonance: A Plague Tale Legacy 发售",
-      "description": "平台：PC / PS5",
+      "timezone": "Asia/Shanghai",
+      "name": "Resonance: A Plague Tale Legacy 等 2 款发售",
+      "name_en": "Resonance: A Plague Tale Legacy + 1 more release",
+      "description": "当天发售：Resonance: A Plague Tale Legacy、Star Wars Zero Company",
+      "description_en": "Releases this day: Resonance: A Plague Tale Legacy, Star Wars Zero Company.",
       "type": "event",
       "status": "planned",
-      "url": "https://rawg.io/games/resonance-a-plague-tale-legacy",
+      "url": "https://rawg.io/games",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Resonance: A Plague Tale Legacy",
-        "rawg_id": "1004520",
-        "平台": "PC / PS5"
-      }
+        "游戏数量": "2",
+        "发售游戏": "Resonance: A Plague Tale Legacy、Star Wars Zero Company",
+        "平台": "PC / PS5",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "2",
+        "Games": "Resonance: A Plague Tale Legacy, Star Wars Zero Company",
+        "Platforms": "PC / PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Resonance: A Plague Tale Legacy",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/resonance-a-plague-tale-legacy",
+          "rawg_id": "1004520",
+          "title_en": "Resonance: A Plague Tale Legacy"
+        },
+        {
+          "title": "Star Wars Zero Company",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/star-wars-zero-company",
+          "rawg_id": "1002691",
+          "title_en": "Star Wars Zero Company"
+        }
+      ]
     },
     {
-      "id": "rawg-1002691",
-      "date": "2026-08-27",
-      "year": 2026,
-      "timezone": "UTC",
-      "name": "Star Wars Zero Company 发售",
-      "description": "平台：PC / PS5",
-      "type": "event",
-      "status": "planned",
-      "url": "https://rawg.io/games/star-wars-zero-company",
-      "last_verified": "2026-06-11",
-      "verified_by": "auto",
-      "details": {
-        "原始名称": "Star Wars Zero Company",
-        "rawg_id": "1002691",
-        "平台": "PC / PS5"
-      }
-    },
-    {
-      "id": "rawg-1018108",
+      "id": "rawg-releases-2026-08-31",
       "date": "2026-08-31",
       "year": 2026,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "S.T.A.L.K.E.R. 2: Cost of Hope 发售",
-      "description": "平台：PC / PS5",
+      "name_en": "S.T.A.L.K.E.R. 2: Cost of Hope release",
+      "description": "S.T.A.L.K.E.R. 2: Cost of Hope 发售（PC / PS5）",
+      "description_en": "S.T.A.L.K.E.R. 2: Cost of Hope releases on PC / PS5.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/stalker-2-cost-of-hope",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "S.T.A.L.K.E.R. 2: Cost of Hope",
-        "rawg_id": "1018108",
-        "平台": "PC / PS5"
-      }
+        "游戏数量": "1",
+        "发售游戏": "S.T.A.L.K.E.R. 2: Cost of Hope",
+        "平台": "PC / PS5",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "S.T.A.L.K.E.R. 2: Cost of Hope",
+        "Platforms": "PC / PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "S.T.A.L.K.E.R. 2: Cost of Hope",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/stalker-2-cost-of-hope",
+          "rawg_id": "1018108",
+          "title_en": "S.T.A.L.K.E.R. 2: Cost of Hope"
+        }
+      ]
     },
     {
-      "id": "rawg-996046",
+      "id": "rawg-releases-2026-09-03",
       "date": "2026-09-03",
       "year": 2026,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "The Blood Of Dawnwalker 发售",
-      "description": "平台：PC / PS5",
+      "name_en": "The Blood Of Dawnwalker release",
+      "description": "The Blood Of Dawnwalker 发售（PC / PS5）",
+      "description_en": "The Blood Of Dawnwalker releases on PC / PS5.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/the-blood-of-dawnwalker",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "The Blood Of Dawnwalker",
-        "rawg_id": "996046",
-        "平台": "PC / PS5"
-      }
+        "游戏数量": "1",
+        "发售游戏": "The Blood Of Dawnwalker",
+        "平台": "PC / PS5",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "The Blood Of Dawnwalker",
+        "Platforms": "PC / PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "The Blood Of Dawnwalker",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/the-blood-of-dawnwalker",
+          "rawg_id": "996046",
+          "title_en": "The Blood Of Dawnwalker"
+        }
+      ]
     },
     {
-      "id": "rawg-662318",
+      "id": "rawg-releases-2026-09-15",
       "date": "2026-09-15",
       "year": 2026,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "Marvel's Wolverine 发售",
-      "description": "平台：PS5",
+      "name_en": "Marvel's Wolverine release",
+      "description": "Marvel's Wolverine 发售（PS5）",
+      "description_en": "Marvel's Wolverine releases on PS5.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/wolverine-2022",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Marvel's Wolverine",
-        "rawg_id": "662318",
-        "平台": "PS5"
-      }
+        "游戏数量": "1",
+        "发售游戏": "Marvel's Wolverine",
+        "平台": "PS5",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Marvel's Wolverine",
+        "Platforms": "PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Marvel's Wolverine",
+          "platforms": [
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/wolverine-2022",
+          "rawg_id": "662318",
+          "title_en": "Marvel's Wolverine"
+        }
+      ]
     },
     {
-      "id": "rawg-1017960",
+      "id": "rawg-releases-2026-09-17",
       "date": "2026-09-17",
       "year": 2026,
-      "timezone": "UTC",
-      "name": "Trails in the Sky 2nd Chapter 发售",
-      "description": "平台：PC / PS5 / Switch",
+      "timezone": "Asia/Shanghai",
+      "name": "Trails in the Sky 2nd Chapter 等 2 款发售",
+      "name_en": "Trails in the Sky 2nd Chapter + 1 more release",
+      "description": "当天发售：Trails in the Sky 2nd Chapter、Trine 6: Together in Time",
+      "description_en": "Releases this day: Trails in the Sky 2nd Chapter, Trine 6: Together in Time.",
       "type": "event",
       "status": "planned",
-      "url": "https://rawg.io/games/trails-in-the-sky-2nd-chapter",
+      "url": "https://rawg.io/games",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Trails in the Sky 2nd Chapter",
-        "rawg_id": "1017960",
-        "平台": "PC / PS5 / Switch"
-      }
+        "游戏数量": "2",
+        "发售游戏": "Trails in the Sky 2nd Chapter、Trine 6: Together in Time",
+        "平台": "PC / PS5 / Switch",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "2",
+        "Games": "Trails in the Sky 2nd Chapter, Trine 6: Together in Time",
+        "Platforms": "PC / PS5 / Switch",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Trails in the Sky 2nd Chapter",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Switch"
+          ],
+          "store_url": "https://rawg.io/games/trails-in-the-sky-2nd-chapter",
+          "rawg_id": "1017960",
+          "title_en": "Trails in the Sky 2nd Chapter"
+        },
+        {
+          "title": "Trine 6: Together in Time",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Switch"
+          ],
+          "store_url": "https://rawg.io/games/trine-6-together-in-time",
+          "rawg_id": "1018106",
+          "title_en": "Trine 6: Together in Time"
+        }
+      ]
     },
     {
-      "id": "rawg-1018106",
-      "date": "2026-09-17",
-      "year": 2026,
-      "timezone": "UTC",
-      "name": "Trine 6: Together in Time 发售",
-      "description": "平台：PC / PS5 / Switch",
-      "type": "event",
-      "status": "planned",
-      "url": "https://rawg.io/games/trine-6-together-in-time",
-      "last_verified": "2026-06-11",
-      "verified_by": "auto",
-      "details": {
-        "原始名称": "Trine 6: Together in Time",
-        "rawg_id": "1018106",
-        "平台": "PC / PS5 / Switch"
-      }
-    },
-    {
-      "id": "rawg-1015409",
+      "id": "rawg-releases-2026-09-24",
       "date": "2026-09-24",
       "year": 2026,
-      "timezone": "UTC",
-      "name": "Control Resonant 发售",
-      "description": "平台：PC / PS5",
+      "timezone": "Asia/Shanghai",
+      "name": "Control Resonant 等 2 款发售",
+      "name_en": "Control Resonant + 1 more release",
+      "description": "当天发售：Control Resonant、Silent Hill Townfall",
+      "description_en": "Releases this day: Control Resonant, Silent Hill Townfall.",
       "type": "event",
       "status": "planned",
-      "url": "https://rawg.io/games/control-resonant",
+      "url": "https://rawg.io/games",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Control Resonant",
-        "rawg_id": "1015409",
+        "游戏数量": "2",
+        "发售游戏": "Control Resonant、Silent Hill Townfall",
         "平台": "PC / PS5",
-        "rawg_rating": "4.67"
-      }
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "2",
+        "Games": "Control Resonant, Silent Hill Townfall",
+        "Platforms": "PC / PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Control Resonant",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/control-resonant",
+          "rawg_id": "1015409",
+          "rawg_rating": 4.67,
+          "title_en": "Control Resonant"
+        },
+        {
+          "title": "Silent Hill Townfall",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/silent-hill-townfall",
+          "rawg_id": "868088",
+          "title_en": "Silent Hill Townfall"
+        }
+      ]
     },
     {
-      "id": "rawg-868088",
-      "date": "2026-09-24",
-      "year": 2026,
-      "timezone": "UTC",
-      "name": "Silent Hill Townfall 发售",
-      "description": "平台：PC / PS5",
-      "type": "event",
-      "status": "planned",
-      "url": "https://rawg.io/games/silent-hill-townfall",
-      "last_verified": "2026-06-11",
-      "verified_by": "auto",
-      "details": {
-        "原始名称": "Silent Hill Townfall",
-        "rawg_id": "868088",
-        "平台": "PC / PS5"
-      }
-    },
-    {
-      "id": "rawg-994600",
+      "id": "rawg-releases-2026-09-25",
       "date": "2026-09-25",
       "year": 2026,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "Onimusha: Way Of The Sword 发售",
-      "description": "平台：PC / PS5",
+      "name_en": "Onimusha: Way Of The Sword release",
+      "description": "Onimusha: Way Of The Sword 发售（PC / PS5）",
+      "description_en": "Onimusha: Way Of The Sword releases on PC / PS5.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/onimusha-way-of-the-sword",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Onimusha: Way Of The Sword",
-        "rawg_id": "994600",
-        "平台": "PC / PS5"
-      }
+        "游戏数量": "1",
+        "发售游戏": "Onimusha: Way Of The Sword",
+        "平台": "PC / PS5",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Onimusha: Way Of The Sword",
+        "Platforms": "PC / PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Onimusha: Way Of The Sword",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/onimusha-way-of-the-sword",
+          "rawg_id": "994600",
+          "title_en": "Onimusha: Way Of The Sword"
+        }
+      ]
     },
     {
-      "id": "rawg-1018059",
+      "id": "rawg-releases-2026-10-01",
       "date": "2026-10-01",
       "year": 2026,
-      "timezone": "UTC",
-      "name": "Rayman Legends Retold 发售",
-      "description": "平台：PC / PS5",
+      "timezone": "Asia/Shanghai",
+      "name": "End of Abyss 等 2 款发售",
+      "name_en": "End of Abyss + 1 more release",
+      "description": "当天发售：End of Abyss、Rayman Legends Retold",
+      "description_en": "Releases this day: End of Abyss, Rayman Legends Retold.",
       "type": "event",
       "status": "planned",
-      "url": "https://rawg.io/games/rayman-legends-retold",
+      "url": "https://rawg.io/games",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Rayman Legends Retold",
-        "rawg_id": "1018059",
-        "平台": "PC / PS5"
-      }
+        "游戏数量": "2",
+        "发售游戏": "End of Abyss、Rayman Legends Retold",
+        "平台": "PC / PS5",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "2",
+        "Games": "End of Abyss, Rayman Legends Retold",
+        "Platforms": "PC / PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "End of Abyss",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/end-of-abyss",
+          "rawg_id": "1004513",
+          "title_en": "End of Abyss"
+        },
+        {
+          "title": "Rayman Legends Retold",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/rayman-legends-retold",
+          "rawg_id": "1018059",
+          "title_en": "Rayman Legends Retold"
+        }
+      ]
     },
     {
-      "id": "rawg-1004513",
-      "date": "2026-10-01",
-      "year": 2026,
-      "timezone": "UTC",
-      "name": "End of Abyss 发售",
-      "description": "平台：PC / PS5",
-      "type": "event",
-      "status": "planned",
-      "url": "https://rawg.io/games/end-of-abyss",
-      "last_verified": "2026-06-11",
-      "verified_by": "auto",
-      "details": {
-        "原始名称": "End of Abyss",
-        "rawg_id": "1004513",
-        "平台": "PC / PS5"
-      }
-    },
-    {
-      "id": "rawg-1015425",
+      "id": "rawg-releases-2026-10-02",
       "date": "2026-10-02",
       "year": 2026,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "Ace Combat 8: Wings of Theve 发售",
-      "description": "平台：PC / PS5",
+      "name_en": "Ace Combat 8: Wings of Theve release",
+      "description": "Ace Combat 8: Wings of Theve 发售（PC / PS5）",
+      "description_en": "Ace Combat 8: Wings of Theve releases on PC / PS5.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/ace-combat-8-wings-of-theve",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Ace Combat 8: Wings of Theve",
-        "rawg_id": "1015425",
-        "平台": "PC / PS5"
-      }
+        "游戏数量": "1",
+        "发售游戏": "Ace Combat 8: Wings of Theve",
+        "平台": "PC / PS5",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Ace Combat 8: Wings of Theve",
+        "Platforms": "PC / PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Ace Combat 8: Wings of Theve",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/ace-combat-8-wings-of-theve",
+          "rawg_id": "1015425",
+          "title_en": "Ace Combat 8: Wings of Theve"
+        }
+      ]
     },
     {
-      "id": "rawg-983213",
+      "id": "rawg-releases-2026-10-06",
       "date": "2026-10-06",
       "year": 2026,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "Gears of War: E-Day 发售",
-      "description": "平台：PC",
+      "name_en": "Gears of War: E-Day release",
+      "description": "Gears of War: E-Day 发售（PC）",
+      "description_en": "Gears of War: E-Day releases on PC.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/gears-of-war-e-day",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Gears of War: E-Day",
-        "rawg_id": "983213",
-        "平台": "PC"
-      }
+        "游戏数量": "1",
+        "发售游戏": "Gears of War: E-Day",
+        "平台": "PC",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Gears of War: E-Day",
+        "Platforms": "PC",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Gears of War: E-Day",
+          "platforms": [
+            "PC"
+          ],
+          "store_url": "https://rawg.io/games/gears-of-war-e-day",
+          "rawg_id": "983213",
+          "title_en": "Gears of War: E-Day"
+        }
+      ]
     },
     {
-      "id": "rawg-1008986",
+      "id": "rawg-releases-2026-10-13",
       "date": "2026-10-13",
       "year": 2026,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "Valor Mortis 发售",
-      "description": "平台：PC / PS5",
+      "name_en": "Valor Mortis release",
+      "description": "Valor Mortis 发售（PC / PS5）",
+      "description_en": "Valor Mortis releases on PC / PS5.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/valor-mortis",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Valor Mortis",
-        "rawg_id": "1008986",
-        "平台": "PC / PS5"
-      }
+        "游戏数量": "1",
+        "发售游戏": "Valor Mortis",
+        "平台": "PC / PS5",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Valor Mortis",
+        "Platforms": "PC / PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Valor Mortis",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/valor-mortis",
+          "rawg_id": "1008986",
+          "title_en": "Valor Mortis"
+        }
+      ]
     },
     {
-      "id": "rawg-1018102",
+      "id": "rawg-releases-2026-10-15",
       "date": "2026-10-15",
       "year": 2026,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "Castlevania: Belmont's Curse 发售",
-      "description": "平台：PC / PS5 / Switch",
+      "name_en": "Castlevania: Belmont's Curse release",
+      "description": "Castlevania: Belmont's Curse 发售（PC / PS5 / Switch）",
+      "description_en": "Castlevania: Belmont's Curse releases on PC / PS5 / Switch.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/castlevania-belmonts-curse",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Castlevania: Belmont's Curse",
-        "rawg_id": "1018102",
-        "平台": "PC / PS5 / Switch"
-      }
+        "游戏数量": "1",
+        "发售游戏": "Castlevania: Belmont's Curse",
+        "平台": "PC / PS5 / Switch",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Castlevania: Belmont's Curse",
+        "Platforms": "PC / PS5 / Switch",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Castlevania: Belmont's Curse",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Switch"
+          ],
+          "store_url": "https://rawg.io/games/castlevania-belmonts-curse",
+          "rawg_id": "1018102",
+          "title_en": "Castlevania: Belmont's Curse"
+        }
+      ]
     },
     {
-      "id": "rawg-1016322",
+      "id": "rawg-releases-2026-10-16",
       "date": "2026-10-16",
       "year": 2026,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "Tenebris Somnia 发售",
-      "description": "平台：PC",
+      "name_en": "Tenebris Somnia release",
+      "description": "Tenebris Somnia 发售（PC）",
+      "description_en": "Tenebris Somnia releases on PC.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/tenebris-somnia-demo",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Tenebris Somnia",
-        "rawg_id": "1016322",
-        "平台": "PC"
-      }
+        "游戏数量": "1",
+        "发售游戏": "Tenebris Somnia",
+        "平台": "PC",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Tenebris Somnia",
+        "Platforms": "PC",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Tenebris Somnia",
+          "platforms": [
+            "PC"
+          ],
+          "store_url": "https://rawg.io/games/tenebris-somnia-demo",
+          "rawg_id": "1016322",
+          "title_en": "Tenebris Somnia"
+        }
+      ]
     },
     {
-      "id": "rawg-1018134",
+      "id": "rawg-releases-2026-10-22",
       "date": "2026-10-22",
       "year": 2026,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "FINAL FANTASY RESONANCE 发售",
-      "description": "平台：PC / PS5 / Switch",
+      "name_en": "FINAL FANTASY RESONANCE release",
+      "description": "FINAL FANTASY RESONANCE 发售（PC / PS5 / Switch）",
+      "description_en": "FINAL FANTASY RESONANCE releases on PC / PS5 / Switch.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/final-fantasy-resonance",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "FINAL FANTASY RESONANCE",
-        "rawg_id": "1018134",
-        "平台": "PC / PS5 / Switch"
-      }
+        "游戏数量": "1",
+        "发售游戏": "FINAL FANTASY RESONANCE",
+        "平台": "PC / PS5 / Switch",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "FINAL FANTASY RESONANCE",
+        "Platforms": "PC / PS5 / Switch",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "FINAL FANTASY RESONANCE",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Switch"
+          ],
+          "store_url": "https://rawg.io/games/final-fantasy-resonance",
+          "rawg_id": "1018134",
+          "title_en": "FINAL FANTASY RESONANCE"
+        }
+      ]
     },
     {
-      "id": "rawg-961205",
+      "id": "rawg-releases-2026-10-29",
       "date": "2026-10-29",
       "year": 2026,
-      "timezone": "UTC",
-      "name": "Phantom Blade Zero 发售",
-      "description": "平台：PC / PS5",
+      "timezone": "Asia/Shanghai",
+      "name": "影之刃零 发售",
+      "name_en": "Phantom Blade Zero release",
+      "description": "影之刃零 发售（PC / PS5）",
+      "description_en": "Phantom Blade Zero releases on PC / PS5.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/phantom-blade-zero",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Phantom Blade Zero",
-        "rawg_id": "961205",
+        "游戏数量": "1",
+        "发售游戏": "影之刃零",
         "平台": "PC / PS5",
-        "rawg_rating": "3.50"
-      }
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Phantom Blade Zero",
+        "Platforms": "PC / PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Phantom Blade Zero",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/phantom-blade-zero",
+          "rawg_id": "961205",
+          "rawg_rating": 3.5,
+          "title_en": "Phantom Blade Zero",
+          "title_zh": "影之刃零"
+        }
+      ]
     },
     {
-      "id": "rawg-973539",
+      "id": "rawg-releases-2026-10-30",
       "date": "2026-10-30",
       "year": 2026,
-      "timezone": "UTC",
-      "name": "No Rest for the Wicked 发售",
-      "description": "平台：PC / PS5",
+      "timezone": "Asia/Shanghai",
+      "name": "恶意不息 发售",
+      "name_en": "No Rest for the Wicked release",
+      "description": "恶意不息 发售（PC / PS5）",
+      "description_en": "No Rest for the Wicked releases on PC / PS5.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/no-rest-for-the-wicked-2024",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "No Rest for the Wicked",
-        "rawg_id": "973539",
+        "游戏数量": "1",
+        "发售游戏": "恶意不息",
         "平台": "PC / PS5",
-        "rawg_rating": "3.94"
-      }
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "No Rest for the Wicked",
+        "Platforms": "PC / PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "No Rest for the Wicked",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/no-rest-for-the-wicked-2024",
+          "rawg_id": "973539",
+          "rawg_rating": 3.94,
+          "title_en": "No Rest for the Wicked",
+          "title_zh": "恶意不息"
+        }
+      ]
     },
     {
-      "id": "rawg-1008979",
+      "id": "rawg-releases-2026-10-31",
       "date": "2026-10-31",
       "year": 2026,
-      "timezone": "UTC",
-      "name": "Lords of the Fallen 2 发售",
-      "description": "平台：PC / PS5",
+      "timezone": "Asia/Shanghai",
+      "name": "堕落之主 2 发售",
+      "name_en": "Lords of the Fallen 2 release",
+      "description": "堕落之主 2 发售（PC / PS5）",
+      "description_en": "Lords of the Fallen 2 releases on PC / PS5.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/lords-of-the-fallen-2-2",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Lords of the Fallen 2",
-        "rawg_id": "1008979",
-        "平台": "PC / PS5"
-      }
+        "游戏数量": "1",
+        "发售游戏": "堕落之主 2",
+        "平台": "PC / PS5",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Lords of the Fallen 2",
+        "Platforms": "PC / PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Lords of the Fallen 2",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/lords-of-the-fallen-2-2",
+          "rawg_id": "1008979",
+          "title_en": "Lords of the Fallen 2",
+          "title_zh": "堕落之主 2"
+        }
+      ]
     },
     {
-      "id": "rawg-972995",
+      "id": "rawg-releases-2026-11-19",
       "date": "2026-11-19",
       "year": 2026,
-      "timezone": "UTC",
-      "name": "Grand Theft Auto VI 发售",
-      "description": "平台：PS5",
+      "timezone": "Asia/Shanghai",
+      "name": "侠盗猎车手 VI 发售",
+      "name_en": "Grand Theft Auto VI release",
+      "description": "侠盗猎车手 VI 发售（PS5）",
+      "description_en": "Grand Theft Auto VI releases on PS5.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/grand-theft-aito-vi",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Grand Theft Auto VI",
-        "rawg_id": "972995",
+        "游戏数量": "1",
+        "发售游戏": "侠盗猎车手 VI",
         "平台": "PS5",
-        "rawg_rating": "3.63"
-      }
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Grand Theft Auto VI",
+        "Platforms": "PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Grand Theft Auto VI",
+          "platforms": [
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/grand-theft-aito-vi",
+          "rawg_id": "972995",
+          "rawg_rating": 3.63,
+          "title_en": "Grand Theft Auto VI",
+          "title_zh": "侠盗猎车手 VI"
+        }
+      ]
     },
     {
-      "id": "rawg-998661",
+      "id": "rawg-releases-2026-12-01",
       "date": "2026-12-01",
       "year": 2026,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "Beautiful Light 发售",
-      "description": "平台：PC",
+      "name_en": "Beautiful Light release",
+      "description": "Beautiful Light 发售（PC）",
+      "description_en": "Beautiful Light releases on PC.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/beautiful-light",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Beautiful Light",
-        "rawg_id": "998661",
-        "平台": "PC"
-      }
+        "游戏数量": "1",
+        "发售游戏": "Beautiful Light",
+        "平台": "PC",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Beautiful Light",
+        "Platforms": "PC",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Beautiful Light",
+          "platforms": [
+            "PC"
+          ],
+          "store_url": "https://rawg.io/games/beautiful-light",
+          "rawg_id": "998661",
+          "title_en": "Beautiful Light"
+        }
+      ]
     },
     {
-      "id": "rawg-1012187",
+      "id": "rawg-releases-2026-12-16",
       "date": "2026-12-16",
       "year": 2026,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "They Come in Fives 发售",
-      "description": "平台：PC",
+      "name_en": "They Come in Fives release",
+      "description": "They Come in Fives 发售（PC）",
+      "description_en": "They Come in Fives releases on PC.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/they-come-in-fives",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "They Come in Fives",
-        "rawg_id": "1012187",
-        "平台": "PC"
-      }
+        "游戏数量": "1",
+        "发售游戏": "They Come in Fives",
+        "平台": "PC",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "They Come in Fives",
+        "Platforms": "PC",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "They Come in Fives",
+          "platforms": [
+            "PC"
+          ],
+          "store_url": "https://rawg.io/games/they-come-in-fives",
+          "rawg_id": "1012187",
+          "title_en": "They Come in Fives"
+        }
+      ]
     },
     {
-      "id": "rawg-1015972",
+      "id": "rawg-releases-2026-12-31",
       "date": "2026-12-31",
       "year": 2026,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "Kena: Scars of Kosmora 发售",
-      "description": "平台：PC / PS5",
+      "name_en": "Kena: Scars of Kosmora release",
+      "description": "Kena: Scars of Kosmora 发售（PC / PS5）",
+      "description_en": "Kena: Scars of Kosmora releases on PC / PS5.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/kena-scars-of-kosmora",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Kena: Scars of Kosmora",
-        "rawg_id": "1015972",
-        "平台": "PC / PS5"
-      }
+        "游戏数量": "1",
+        "发售游戏": "Kena: Scars of Kosmora",
+        "平台": "PC / PS5",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Kena: Scars of Kosmora",
+        "Platforms": "PC / PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Kena: Scars of Kosmora",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/kena-scars-of-kosmora",
+          "rawg_id": "1015972",
+          "title_en": "Kena: Scars of Kosmora"
+        }
+      ]
     },
     {
-      "id": "rawg-1015421",
+      "id": "rawg-releases-2027-02-12",
       "date": "2027-02-12",
       "year": 2027,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "Tomb Raider: Legacy of Atlantis 发售",
-      "description": "平台：PC / PS5",
+      "name_en": "Tomb Raider: Legacy of Atlantis release",
+      "description": "Tomb Raider: Legacy of Atlantis 发售（PC / PS5）",
+      "description_en": "Tomb Raider: Legacy of Atlantis releases on PC / PS5.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/tomb-raider-legacy-of-atlantis",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Tomb Raider: Legacy of Atlantis",
-        "rawg_id": "1015421",
-        "平台": "PC / PS5"
-      }
+        "游戏数量": "1",
+        "发售游戏": "Tomb Raider: Legacy of Atlantis",
+        "平台": "PC / PS5",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Tomb Raider: Legacy of Atlantis",
+        "Platforms": "PC / PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Tomb Raider: Legacy of Atlantis",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/tomb-raider-legacy-of-atlantis",
+          "rawg_id": "1015421",
+          "title_en": "Tomb Raider: Legacy of Atlantis"
+        }
+      ]
     },
     {
-      "id": "rawg-471026",
+      "id": "rawg-releases-2027-02-23",
       "date": "2027-02-23",
       "year": 2027,
-      "timezone": "UTC",
-      "name": "Fable 发售",
-      "description": "平台：PC / PS5",
+      "timezone": "Asia/Shanghai",
+      "name": "神鬼寓言 发售",
+      "name_en": "Fable release",
+      "description": "神鬼寓言 发售（PC / PS5）",
+      "description_en": "Fable releases on PC / PS5.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/fable2020",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Fable",
-        "rawg_id": "471026",
+        "游戏数量": "1",
+        "发售游戏": "神鬼寓言",
         "平台": "PC / PS5",
-        "rawg_rating": "3.78"
-      }
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Fable",
+        "Platforms": "PC / PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Fable",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/fable2020",
+          "rawg_id": "471026",
+          "rawg_rating": 3.78,
+          "title_en": "Fable",
+          "title_zh": "神鬼寓言"
+        }
+      ]
     },
     {
-      "id": "rawg-973389",
+      "id": "rawg-releases-2027-03-31",
       "date": "2027-03-31",
       "year": 2027,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "Exodus (Archetype Entertainment) 发售",
-      "description": "平台：PC / PS5",
+      "name_en": "Exodus (Archetype Entertainment) release",
+      "description": "Exodus (Archetype Entertainment) 发售（PC / PS5）",
+      "description_en": "Exodus (Archetype Entertainment) releases on PC / PS5.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/exodus-archetype-entertainment",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Exodus (Archetype Entertainment)",
-        "rawg_id": "973389",
-        "平台": "PC / PS5"
-      }
+        "游戏数量": "1",
+        "发售游戏": "Exodus (Archetype Entertainment)",
+        "平台": "PC / PS5",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Exodus (Archetype Entertainment)",
+        "Platforms": "PC / PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Exodus (Archetype Entertainment)",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/exodus-archetype-entertainment",
+          "rawg_id": "973389",
+          "title_en": "Exodus (Archetype Entertainment)"
+        }
+      ]
     },
     {
-      "id": "rawg-1018060",
+      "id": "rawg-releases-2027-05-31",
       "date": "2027-05-31",
       "year": 2027,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "Clutch (2027) 发售",
-      "description": "平台：PC / PS5",
+      "name_en": "Clutch (2027) release",
+      "description": "Clutch (2027) 发售（PC / PS5）",
+      "description_en": "Clutch (2027) releases on PC / PS5.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/clutch-2027",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Clutch (2027)",
-        "rawg_id": "1018060",
-        "平台": "PC / PS5"
-      }
+        "游戏数量": "1",
+        "发售游戏": "Clutch (2027)",
+        "平台": "PC / PS5",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Clutch (2027)",
+        "Platforms": "PC / PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Clutch (2027)",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/clutch-2027",
+          "rawg_id": "1018060",
+          "title_en": "Clutch (2027)"
+        }
+      ]
     },
     {
-      "id": "rawg-825322",
+      "id": "rawg-releases-2027-09-07",
       "date": "2027-09-07",
       "year": 2027,
-      "timezone": "UTC",
+      "timezone": "Asia/Shanghai",
       "name": "Unknown Carnivores Dinosaur Hunt Sequel 发售",
-      "description": "平台：PC",
+      "name_en": "Unknown Carnivores Dinosaur Hunt Sequel release",
+      "description": "Unknown Carnivores Dinosaur Hunt Sequel 发售（PC）",
+      "description_en": "Unknown Carnivores Dinosaur Hunt Sequel releases on PC.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/unknown-carnivores-dinosaur-hunt-sequel",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Unknown Carnivores Dinosaur Hunt Sequel",
-        "rawg_id": "825322",
-        "平台": "PC"
-      }
+        "游戏数量": "1",
+        "发售游戏": "Unknown Carnivores Dinosaur Hunt Sequel",
+        "平台": "PC",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Unknown Carnivores Dinosaur Hunt Sequel",
+        "Platforms": "PC",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Unknown Carnivores Dinosaur Hunt Sequel",
+          "platforms": [
+            "PC"
+          ],
+          "store_url": "https://rawg.io/games/unknown-carnivores-dinosaur-hunt-sequel",
+          "rawg_id": "825322",
+          "title_en": "Unknown Carnivores Dinosaur Hunt Sequel"
+        }
+      ]
     },
     {
-      "id": "rawg-984070",
+      "id": "rawg-releases-2027-12-31",
       "date": "2027-12-31",
       "year": 2027,
-      "timezone": "UTC",
-      "name": "Exodus (2026) 发售",
-      "description": "平台：PC / PS5",
+      "timezone": "Asia/Shanghai",
+      "name": "Exodus (2026) 等 3 款发售",
+      "name_en": "Exodus (2026) + 2 more releases",
+      "description": "当天发售：Exodus (2026)、The Expanse: Osiris Reborn、Tomb Raider: Catalyst",
+      "description_en": "Releases this day: Exodus (2026), The Expanse: Osiris Reborn, Tomb Raider: Catalyst.",
       "type": "event",
       "status": "planned",
-      "url": "https://rawg.io/games/exodus-2026",
+      "url": "https://rawg.io/games",
       "last_verified": "2026-06-11",
       "verified_by": "auto",
       "details": {
-        "原始名称": "Exodus (2026)",
-        "rawg_id": "984070",
-        "平台": "PC / PS5"
-      }
-    },
-    {
-      "id": "rawg-1015411",
-      "date": "2027-12-31",
-      "year": 2027,
-      "timezone": "UTC",
-      "name": "Tomb Raider: Catalyst 发售",
-      "description": "平台：PC / PS5",
-      "type": "event",
-      "status": "planned",
-      "url": "https://rawg.io/games/tomb-raider-catalyst",
-      "last_verified": "2026-06-11",
-      "verified_by": "auto",
-      "details": {
-        "原始名称": "Tomb Raider: Catalyst",
-        "rawg_id": "1015411",
-        "平台": "PC / PS5"
-      }
-    },
-    {
-      "id": "rawg-1004517",
-      "date": "2027-12-31",
-      "year": 2027,
-      "timezone": "UTC",
-      "name": "The Expanse: Osiris Reborn 发售",
-      "description": "平台：PC / PS5",
-      "type": "event",
-      "status": "planned",
-      "url": "https://rawg.io/games/the-expanse-osiris-reborn",
-      "last_verified": "2026-06-11",
-      "verified_by": "auto",
-      "details": {
-        "原始名称": "The Expanse: Osiris Reborn",
-        "rawg_id": "1004517",
-        "平台": "PC / PS5"
-      }
+        "游戏数量": "3",
+        "发售游戏": "Exodus (2026)、The Expanse: Osiris Reborn、Tomb Raider: Catalyst",
+        "平台": "PC / PS5",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "3",
+        "Games": "Exodus (2026), The Expanse: Osiris Reborn, Tomb Raider: Catalyst",
+        "Platforms": "PC / PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Exodus (2026)",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/exodus-2026",
+          "rawg_id": "984070",
+          "title_en": "Exodus (2026)"
+        },
+        {
+          "title": "The Expanse: Osiris Reborn",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/the-expanse-osiris-reborn",
+          "rawg_id": "1004517",
+          "title_en": "The Expanse: Osiris Reborn"
+        },
+        {
+          "title": "Tomb Raider: Catalyst",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/tomb-raider-catalyst",
+          "rawg_id": "1015411",
+          "title_en": "Tomb Raider: Catalyst"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-11"
+  "last_updated": "2026-06-12",
+  "subcategory_en": "Game Releases",
+  "description_en": "Upcoming game release dates across PC, PlayStation, Xbox, Nintendo Switch, iOS, and Android."
 }
