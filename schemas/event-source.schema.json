@@ -80,8 +80,15 @@
           "name": { "type": "string" },
           "name_en": { "type": "string", "description": "英文事件名" },
           "date": { "type": "string", "format": "date" },
+          "end_date": { "type": "string", "format": "date" },
           "time": { "type": "string", "pattern": "^[0-9]{2}:[0-9]{2}$" },
+          "end_time": { "type": "string", "pattern": "^[0-9]{2}:[0-9]{2}$" },
           "timezone": { "type": "string" },
+          "time_kind": {
+            "type": "string",
+            "description": "事件时间语义：date/date_range 为官方日期，不做本地时区换算；datetime/datetime_range 为具体瞬间或时间段，可按用户本地时区展示。",
+            "enum": ["date", "datetime", "date_range", "datetime_range"]
+          },
           "type": {
             "type": "string",
             "enum": ["deadline", "event", "range", "announcement"]

@@ -25,6 +25,10 @@ events/sports/f1.json
 | `category` | string | 分类（exam/gaming/sports/shopping） |
 | `events[].id` | string | 事件唯一ID，格式：`{source}-{year}-{slug}` |
 | `events[].date` | string | ISO 8601 日期，如 `2026-04-08` |
+| `events[].end_date` | string | 范围事件结束日期 |
+| `events[].time` | string | 具体时间事件的官方本地时间，如 `18:00` |
+| `events[].end_time` | string | 具体时间范围的结束时间 |
+| `events[].time_kind` | string | `date` / `datetime` / `date_range` / `datetime_range` |
 | `events[].type` | string | `deadline` / `event` / `range` / `announcement` |
 | `events[].timezone` | string | 时区，中国大陆默认 `Asia/Shanghai` |
 | `events[].last_verified` | string | 最后校验日期，格式 `YYYY-MM-DD` |
@@ -34,6 +38,8 @@ events/sports/f1.json
 
 - 事件源**不含年份**（如 `cpa` 而非 `cpa-2026`），年度数据作为 events 追加
 - 用户订阅一次，新年度数据自动生效，无需重新订阅
+- 全天日期事件使用 `date` / `date_range`，不按用户时区换算；有明确时刻的比赛、发布会、截止时间使用 `datetime` / `datetime_range`
+- `timezone` 必须填写事件官方语境下的 IANA 时区，如 `Asia/Shanghai`、`Europe/London`、`America/New_York`
 
 ## 提交流程
 

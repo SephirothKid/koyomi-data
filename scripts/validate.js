@@ -17,6 +17,53 @@ addFormats(ajv)
 
 const schema = JSON.parse(readFileSync(SCHEMA_FILE, 'utf8'))
 const validate = ajv.compile(schema)
+const TIME_KINDS = new Set(['date', 'datetime', 'date_range', 'datetime_range'])
+
+function inferTimeKind(event) {
+  if (event.time_kind) return event.time_kind
+  const hasRange = Boolean(event.end_date && event.end_date !== event.date)
+  if (event.time && hasRange) return 'datetime_range'
+  if (event.time) return 'datetime'
+  if (hasRange || event.type === 'range') return 'date_range'
+  return 'date'
+}
+
+function isKnownTimeZone(timezone) {
+  try {
+    new Intl.DateTimeFormat('en-US', { timeZone: timezone }).format(new Date())
+    return true
+  } catch {
+    return false
+  }
+}
+
+function validateTimeSemantics(data, rel) {
+  let count = 0
+  for (const event of data.events ?? []) {
+    const kind = inferTimeKind(event)
+    if (!TIME_KINDS.has(kind)) {
+      console.error(`✗ ${rel}: ${event.id} 的 time_kind 无效：${kind}`)
+      count++
+    }
+    if ((kind === 'datetime' || kind === 'datetime_range') && !event.time) {
+      console.error(`✗ ${rel}: ${event.id} 是具体时间事件，但缺少 time`)
+      count++
+    }
+    if ((kind === 'date_range' || kind === 'datetime_range') && !event.end_date) {
+      console.error(`✗ ${rel}: ${event.id} 是范围事件，但缺少 end_date`)
+      count++
+    }
+    if (event.end_time && !event.time) {
+      console.error(`✗ ${rel}: ${event.id} 设置了 end_time，但缺少 time`)
+      count++
+    }
+    if (event.timezone && !isKnownTimeZone(event.timezone)) {
+      console.error(`✗ ${rel}: ${event.id} 的 timezone 不是有效 IANA 时区：${event.timezone}`)
+      count++
+    }
+  }
+  return count
+}
 
 function collectJsonFiles(dir) {
   const files = []
@@ -73,7 +120,12 @@ for (const file of files) {
       console.error(`✗ ${rel}: 重复的事件 ID: ${dupes.join(', ')}`)
       errors++
     } else {
-      console.log(`✓ ${rel}`)
+      const semanticErrors = validateTimeSemantics(data, rel)
+      if (semanticErrors > 0) {
+        errors += semanticErrors
+      } else {
+        console.log(`✓ ${rel}`)
+      }
     }
   }
 }

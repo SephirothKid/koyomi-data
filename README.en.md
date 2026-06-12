@@ -110,6 +110,8 @@ koyomi-data/
 | `events[].id` | string | Unique event ID format: `{source}-{year}-{slug}` |
 | `events[].date` | string | ISO 8601 date, e.g. `2026-04-08` |
 | `events[].end_date` | string | Required only for `range` type events |
+| `events[].time` / `events[].end_time` | string | Official local time or time range, format `HH:mm` |
+| `events[].time_kind` | string | `date` / `datetime` / `date_range` / `datetime_range` |
 | `events[].type` | string | `deadline` / `event` / `range` / `announcement` |
 | `events[].timezone` | string | Default for mainland China: `Asia/Shanghai` |
 | `events[].status` | string | `planned` / `confirmed` / `active` / `completed` |
@@ -117,6 +119,8 @@ koyomi-data/
 | `events[].verified_by` | string | `official` (official source) or `community` (community maintained) |
 
 Full specification: [`schemas/event-source.schema.json`](./schemas/event-source.schema.json).
+
+`date` / `date_range` are all-day events in the official calendar context, such as holidays, exam dates, and sale periods. They should not shift by user timezone. `datetime` / `datetime_range` are exact instants or timed ranges, such as match kickoffs, product events, and deadlines. Keep the official `timezone` so clients can render the user's local time.
 
 ---
 

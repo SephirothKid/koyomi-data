@@ -10,6 +10,7 @@ const EVENTS_DIR = join(ROOT, 'events')
 const ICAL_DIR = join(ROOT, 'ical')
 const SEASONAL_FOOTBALL_SOURCE_IDS = new Set(['epl', 'bundesliga', 'laliga', 'seriea', 'ligue1', 'ucl', 'uel', 'uecl'])
 const TEAM_CALENDAR_SOURCE_IDS = new Set(['nba', 'epl', 'bundesliga', 'laliga', 'seriea', 'ligue1', 'ucl', 'uel', 'uecl'])
+const DEFAULT_TIMEZONE = 'Asia/Shanghai'
 const LEGACY_ICAL_ALIASES = {
   f1: [{ id: 'f1-2026' }],
   worldcup: [{ id: 'worldcup-2026', eventIdForUid: legacyWorldcupEventId }],
@@ -164,6 +165,25 @@ function addDays(dateStr, days) {
   const { year, month, day } = parseDateParts(dateStr)
   const date = new Date(Date.UTC(year, month - 1, day + days))
   return formatIsoDate(date)
+}
+
+function inferTimeKind(event) {
+  if (event.time_kind ?? event.timeKind) return event.time_kind ?? event.timeKind
+  const endDate = event.end_date ?? event.endDate
+  const hasRange = Boolean(endDate && endDate !== event.date)
+  if (event.time && hasRange) return 'datetime_range'
+  if (event.time) return 'datetime'
+  if (hasRange || event.type === 'range') return 'date_range'
+  return 'date'
+}
+
+function isTimedEvent(event) {
+  const kind = inferTimeKind(event)
+  return kind === 'datetime' || kind === 'datetime_range'
+}
+
+function eventTimezone(event) {
+  return event.timezone ?? DEFAULT_TIMEZONE
 }
 
 // Minimal Luxon-compatible wall-clock object for ical-generator.
@@ -341,24 +361,28 @@ function sourceDescription(source, isEn = false) {
 
 function createCalendar(source, events, options = {}) {
   const isEn = options.lang === 'en'
+  const calendarTimezone = source.timezone ?? events.find(event => event.timezone)?.timezone ?? DEFAULT_TIMEZONE
   const cal = ical({
     name: options.name ?? sourceName(source, isEn),
     description: options.description ?? sourceDescription(source, isEn) ?? '',
     prodId: { company: 'Koyomi Cast', product: options.productId ?? source.id },
     url: options.url ?? `https://koyomi.cast/sources/${source.id}`,
-    timezone: source.timezone ?? 'Asia/Shanghai',
+    timezone: calendarTimezone,
   })
 
   for (const event of events) {
-    const tz = event.timezone ?? 'Asia/Shanghai'
-    const hasTime = !!event.time
+    const tz = eventTimezone(event)
+    const hasTime = isTimedEvent(event)
     const endDateStr = event.end_date ?? event.endDate ?? event.date
+    const endTimeStr = event.end_time ?? event.endTime ?? event.time
 
     const start = wallClockDateTime(event.date, event.time)
     let end
 
     if (hasTime) {
-      end = wallClockDateTime(endDateStr, event.time)
+      end = inferTimeKind(event) === 'datetime_range'
+        ? wallClockDateTime(endDateStr, endTimeStr)
+        : start.addMinutes(60)
       // Ensure end is at least 1 hour after start for point-in-time events
       if (end.toJSDate() <= start.toJSDate()) {
         end = start.addMinutes(60)

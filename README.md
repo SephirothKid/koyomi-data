@@ -98,6 +98,7 @@ koyomi-data/
 - **订阅一次，永久有效**：用户订阅后，新年度数据自动生效，无需重新订阅
 - **双语支持**：每个事件源和事件均支持 `name` / `name_en`、`description` / `description_en`、`tags` / `tags_en`
 - **必须可验证**：每个事件必须包含 `last_verified` 和 `verified_by`（`official` 或 `community`）
+- **时间语义明确**：全天日期不做时区换算，具体时间事件保留官方时区并可在前端转换为用户本地时间
 
 ### 关键字段速查
 
@@ -110,6 +111,8 @@ koyomi-data/
 | `events[].id` | string | 事件唯一 ID，格式：`{source}-{year}-{slug}` |
 | `events[].date` | string | ISO 8601 日期，如 `2026-04-08` |
 | `events[].end_date` | string | 仅 `range` 类型事件需要 |
+| `events[].time` / `events[].end_time` | string | 具体时间或时间范围，格式 `HH:mm` |
+| `events[].time_kind` | string | `date` / `datetime` / `date_range` / `datetime_range` |
 | `events[].type` | string | `deadline` / `event` / `range` / `announcement` |
 | `events[].timezone` | string | 中国大陆默认 `Asia/Shanghai` |
 | `events[].status` | string | `planned` / `confirmed` / `active` / `completed` |
@@ -117,6 +120,8 @@ koyomi-data/
 | `events[].verified_by` | string | `official`（官方来源）或 `community`（社区维护） |
 
 完整规范见 [`schemas/event-source.schema.json`](./schemas/event-source.schema.json)。
+
+`date` / `date_range` 表示官方日期语境下的全天事件，例如节假日、考试日期、促销日期，不应因为用户时区不同而前后移动。`datetime` / `datetime_range` 表示具体时刻或时间段，例如比赛开球、发布会、报名截止，应保留官方 `timezone` 并允许客户端展示用户本地时间。
 
 ---
 
