@@ -105,12 +105,12 @@
           "verified_by": { "type": "string", "enum": ["official", "community", "auto"] },
           "details": {
             "type": "object",
-            "description": "事件详情键值对，用于日历 tooltip 和详情页展示。键名即标签，值即内容。",
+            "description": "事件详情键值对，用于日历 tooltip 和详情页展示。键名使用英文（如 official_time / s_rank_agents），各端通过 i18n 映射为本地语言。",
             "additionalProperties": { "type": "string" }
           },
           "details_en": {
             "type": "object",
-            "description": "英文事件详情键值对。",
+            "description": "英文事件详情键值对。键名与 details 一致，值为英文内容。",
             "additionalProperties": { "type": "string" }
           },
           "game": {
