@@ -12,12 +12,11 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:postgraduate-exam-postgraduate-exam-2026-pre-register-open@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260604T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20250924T090000
 DTEND;TZID=Asia/Shanghai:20250924T100000
-SUMMARY:China Postgraduate Entrance Exam · Postgraduate Entrance Exam Pre
- -Registration Start
-DESCRIPTION:National postgraduate entrance exam pre-registration opens.
+SUMMARY:China Postgraduate Entrance Exam · 考研预报名开始
+DESCRIPTION:全国硕士研究生招生考试预报名开始。
 CATEGORIES:China Postgraduate Entrance Exam
 URL;VALUE=URI:https://yz.chsi.com.cn
 STATUS:CONFIRMED
@@ -26,12 +25,11 @@ BEGIN:VEVENT
 UID:postgraduate-exam-postgraduate-exam-2026-pre-register-close@koyomi.cas
  t
 SEQUENCE:0
-DTSTAMP:20260604T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20250927T220000
 DTEND;TZID=Asia/Shanghai:20250927T230000
-SUMMARY:China Postgraduate Entrance Exam · Postgraduate Entrance Exam Pre
- -Registration End
-DESCRIPTION:Pre-registration closes.
+SUMMARY:China Postgraduate Entrance Exam · 考研预报名截止
+DESCRIPTION:预报名截止。
 CATEGORIES:China Postgraduate Entrance Exam
 URL;VALUE=URI:https://yz.chsi.com.cn
 STATUS:CONFIRMED
@@ -39,12 +37,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:postgraduate-exam-postgraduate-exam-2026-register-open@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260604T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251008T090000
 DTEND;TZID=Asia/Shanghai:20251008T100000
-SUMMARY:China Postgraduate Entrance Exam · Postgraduate Entrance Exam Reg
- istration Start
-DESCRIPTION:National postgraduate entrance exam formal registration opens.
+SUMMARY:China Postgraduate Entrance Exam · 考研正式报名开始
+DESCRIPTION:全国硕士研究生招生考试正式报名开始。
 CATEGORIES:China Postgraduate Entrance Exam
 URL;VALUE=URI:https://yz.chsi.com.cn
 STATUS:CONFIRMED
@@ -52,12 +49,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:postgraduate-exam-postgraduate-exam-2026-register-close@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260604T000000
+DTSTAMP:20260612T000000
 DTSTART;TZID=Asia/Shanghai:20251025T220000
 DTEND;TZID=Asia/Shanghai:20251025T230000
-SUMMARY:China Postgraduate Entrance Exam · Postgraduate Entrance Exam Reg
- istration End
-DESCRIPTION:Formal registration closes.
+SUMMARY:China Postgraduate Entrance Exam · 考研正式报名截止
+DESCRIPTION:正式报名截止。
 CATEGORIES:China Postgraduate Entrance Exam
 URL;VALUE=URI:https://yz.chsi.com.cn
 STATUS:CONFIRMED
@@ -65,15 +61,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:postgraduate-exam-postgraduate-exam-2026-confirmation@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260604T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20251031
 DTEND;VALUE=DATE:20251106
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:China Postgraduate Entrance Exam · Postgraduate Entrance Exam Onl
- ine Verification
-DESCRIPTION:Online verification period. Exact dates determined by provinci
- al education authorities.
+SUMMARY:China Postgraduate Entrance Exam · 考研网上确认
+DESCRIPTION:网上确认具体时间由各省级教育招生考试机构
+ 确定。
 CATEGORIES:China Postgraduate Entrance Exam
 URL;VALUE=URI:https://yz.chsi.com.cn
 STATUS:CONFIRMED
@@ -81,14 +76,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:postgraduate-exam-postgraduate-exam-2026-admission-ticket@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260604T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20251210
 DTEND;VALUE=DATE:20251223
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:China Postgraduate Entrance Exam · Postgraduate Entrance Exam Adm
- it Card Download
-DESCRIPTION:Admission ticket download opens.
+SUMMARY:China Postgraduate Entrance Exam · 考研准考证下载
+DESCRIPTION:考生可下载打印准考证。
 CATEGORIES:China Postgraduate Entrance Exam
 URL;VALUE=URI:https://yz.chsi.com.cn
 STATUS:CONFIRMED
@@ -96,14 +90,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:postgraduate-exam-postgraduate-exam-2026-initial-exam@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260604T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20251220
 DTEND;VALUE=DATE:20251222
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:China Postgraduate Entrance Exam · Postgraduate Entrance Exam Wri
- tten Exam
-DESCRIPTION:National postgraduate entrance examination.
+SUMMARY:China Postgraduate Entrance Exam · 考研初试
+DESCRIPTION:全国硕士研究生招生考试初试。
 CATEGORIES:China Postgraduate Entrance Exam
 URL;VALUE=URI:https://yz.chsi.com.cn
 STATUS:CONFIRMED
@@ -111,14 +104,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:postgraduate-exam-postgraduate-exam-2026-results@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260604T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20260226
 DTEND;VALUE=DATE:20260227
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:China Postgraduate Entrance Exam · Postgraduate Entrance Exam Sco
- re Release
-DESCRIPTION:National postgraduate entrance examination.
+SUMMARY:China Postgraduate Entrance Exam · 考研初试成绩公布
+DESCRIPTION:初试成绩陆续公布，具体以各招生单位和省级
+ 考试机构为准。
 CATEGORIES:China Postgraduate Entrance Exam
 URL;VALUE=URI:https://yz.chsi.com.cn
 STATUS:CONFIRMED
@@ -126,14 +119,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:postgraduate-exam-postgraduate-exam-2026-national-line@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260604T000000
+DTSTAMP:20260612T000000
 DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260315
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:China Postgraduate Entrance Exam · Postgraduate Entrance Exam Nat
- ional Score Line Released
-DESCRIPTION:National cutoff score announced.
+SUMMARY:China Postgraduate Entrance Exam · 考研国家线公布
+DESCRIPTION:复试基本分数线预计 3 月中旬公布，具体以教
+ 育部通知为准。
 CATEGORIES:China Postgraduate Entrance Exam
 URL;VALUE=URI:https://yz.chsi.com.cn
 STATUS:CONFIRMED
