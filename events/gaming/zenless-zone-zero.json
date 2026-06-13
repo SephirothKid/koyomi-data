@@ -1,0 +1,701 @@
+{
+  "id": "zenless-zone-zero",
+  "name": "绝区零版本日历",
+  "category": "gaming",
+  "name_en": "Zenless Zone Zero Version Calendar",
+  "subcategory": "游戏更新",
+  "description": "绝区零版本前瞻、版本更新、调频阶段提醒。未官宣节点使用 planned 状态。",
+  "icon": "/logos/zenless-zone-zero.jpg",
+  "tags": [
+    "绝区零",
+    "ZZZ",
+    "版本更新",
+    "调频"
+  ],
+  "tags_en": [
+    "Zenless Zone Zero",
+    "Version Update",
+    "Bangboo"
+  ],
+  "maintainer": "community",
+  "source_url": "https://zzz.mihoyo.com/news",
+  "subscriber_count": 0,
+  "rating": 0,
+  "rating_count": 0,
+  "events": [
+    {
+      "id": "zenless-zone-zero-2026-162592-maintenance",
+      "name": "绝区零 2.6 版本维护更新",
+      "date": "2026-02-06",
+      "end_date": "2026-02-06",
+      "time": "06:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "绝区零官方版本维护更新。",
+      "url": "https://zzz.mihoyo.com/news/detail/162592",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2026/02/06 06:00，预计5个小时完成",
+        "官方公告": "2.6版本「旧梦的安可曲」更新公告"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "version_update",
+        "source_content_id": "162592",
+        "source_title": "2.6版本「旧梦的安可曲」更新公告",
+        "source_url": "https://zzz.mihoyo.com/news/detail/162592",
+        "version": "2.6"
+      }
+    },
+    {
+      "id": "zenless-zone-zero-2026-162537-banners",
+      "name": "绝区零 2.6 上期调频：千夏 / 仪玄 / 思络成歌 / 青溟笼舍",
+      "date": "2026-02-06",
+      "end_date": "2026-03-04",
+      "time": "11:00",
+      "end_time": "11:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "绝区零官方活动调频（上期）。",
+      "url": "https://zzz.mihoyo.com/news/detail/162537",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2.6版本更新后~2026/03/04 11:59",
+        "开始时间": "版本更新后",
+        "S级代理人": "千夏 / 仪玄",
+        "S级音擎": "思络成歌 / 青溟笼舍",
+        "官方公告": "2.6版本限时频段（上期）"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "banner",
+        "source_content_id": "162537",
+        "source_title": "2.6版本限时频段（上期）",
+        "source_url": "https://zzz.mihoyo.com/news/detail/162537",
+        "version": "2.6",
+        "phase": "phase1"
+      },
+      "banners": [
+        {
+          "type": "character",
+          "featured_s": [
+            {
+              "name": "千夏",
+              "kind": "agent",
+              "rarity": "S"
+            },
+            {
+              "name": "仪玄",
+              "kind": "agent",
+              "rarity": "S"
+            }
+          ],
+          "source_content_id": "162537",
+          "source_url": "https://zzz.mihoyo.com/news/detail/162537",
+          "phase": "phase1"
+        },
+        {
+          "type": "w_engine",
+          "featured_s": [
+            {
+              "name": "思络成歌",
+              "kind": "w_engine",
+              "rarity": "S"
+            },
+            {
+              "name": "青溟笼舍",
+              "kind": "w_engine",
+              "rarity": "S"
+            }
+          ],
+          "source_content_id": "162537",
+          "source_url": "https://zzz.mihoyo.com/news/detail/162537",
+          "phase": "phase1"
+        }
+      ]
+    },
+    {
+      "id": "zenless-zone-zero-2026-162592-version",
+      "name": "绝区零 2.6 版本周期",
+      "date": "2026-02-06",
+      "end_date": "2026-03-24",
+      "time": "11:00",
+      "end_time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "绝区零 2.6 版本内容开放周期。",
+      "url": "https://zzz.mihoyo.com/news/detail/162592",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方公告": "2.6版本「旧梦的安可曲」更新公告"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "version",
+        "source_content_id": "162592",
+        "source_title": "2.6版本「旧梦的安可曲」更新公告",
+        "source_url": "https://zzz.mihoyo.com/news/detail/162592",
+        "version": "2.6"
+      }
+    },
+    {
+      "id": "zenless-zone-zero-2026-162987-banners",
+      "name": "绝区零 2.6 下期调频：爱芮 / 柚叶 / 壳中之灵 / 狸法七变化",
+      "date": "2026-03-04",
+      "end_date": "2026-03-23",
+      "time": "12:00",
+      "end_time": "14:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "绝区零官方活动调频（下期）。",
+      "url": "https://zzz.mihoyo.com/news/detail/162987",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2026/03/04 12:00 ~ 2026/03/23 14:59",
+        "S级代理人": "爱芮 / 柚叶",
+        "S级音擎": "壳中之灵 / 狸法七变化",
+        "官方公告": "2.6版本限时频段（下期）"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "banner",
+        "source_content_id": "162987",
+        "source_title": "2.6版本限时频段（下期）",
+        "source_url": "https://zzz.mihoyo.com/news/detail/162987",
+        "version": "2.6",
+        "phase": "phase2"
+      },
+      "banners": [
+        {
+          "type": "character",
+          "featured_s": [
+            {
+              "name": "爱芮",
+              "kind": "agent",
+              "rarity": "S"
+            },
+            {
+              "name": "柚叶",
+              "kind": "agent",
+              "rarity": "S"
+            }
+          ],
+          "source_content_id": "162987",
+          "source_url": "https://zzz.mihoyo.com/news/detail/162987",
+          "phase": "phase2"
+        },
+        {
+          "type": "w_engine",
+          "featured_s": [
+            {
+              "name": "壳中之灵",
+              "kind": "w_engine",
+              "rarity": "S"
+            },
+            {
+              "name": "狸法七变化",
+              "kind": "w_engine",
+              "rarity": "S"
+            }
+          ],
+          "source_content_id": "162987",
+          "source_url": "https://zzz.mihoyo.com/news/detail/162987",
+          "phase": "phase2"
+        }
+      ]
+    },
+    {
+      "id": "zenless-zone-zero-2026-163261-maintenance",
+      "name": "绝区零 2.7 版本维护更新",
+      "date": "2026-03-24",
+      "end_date": "2026-03-24",
+      "time": "06:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "绝区零官方版本维护更新。",
+      "url": "https://zzz.mihoyo.com/news/detail/163261",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2026/03/24 06:00，预计5个小时完成",
+        "官方公告": "2.7版本「英雄不死于往昔」更新公告"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "version_update",
+        "source_content_id": "163261",
+        "source_title": "2.7版本「英雄不死于往昔」更新公告",
+        "source_url": "https://zzz.mihoyo.com/news/detail/163261",
+        "version": "2.7"
+      }
+    },
+    {
+      "id": "zenless-zone-zero-2026-163261-version",
+      "name": "绝区零 2.7 版本周期",
+      "date": "2026-03-24",
+      "end_date": "2026-05-06",
+      "time": "11:00",
+      "end_time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "绝区零 2.7 版本内容开放周期。",
+      "url": "https://zzz.mihoyo.com/news/detail/163261",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方公告": "2.7版本「英雄不死于往昔」更新公告"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "version",
+        "source_content_id": "163261",
+        "source_title": "2.7版本「英雄不死于往昔」更新公告",
+        "source_url": "https://zzz.mihoyo.com/news/detail/163261",
+        "version": "2.7"
+      }
+    },
+    {
+      "id": "zenless-zone-zero-2026-163519-banners",
+      "name": "绝区零 2.7 下期调频：希希芙 / 「席德」 / 鳞齿寻踪 / 机巧心种",
+      "date": "2026-04-15",
+      "end_date": "2026-05-05",
+      "time": "12:00",
+      "end_time": "14:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "绝区零官方活动调频（下期）。",
+      "url": "https://zzz.mihoyo.com/news/detail/163519",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2026/04/15 12:00 ~ 2026/05/05 14:59",
+        "S级代理人": "希希芙 / 「席德」",
+        "S级音擎": "鳞齿寻踪 / 机巧心种",
+        "官方公告": "2.7版本限时频段（下期）"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "banner",
+        "source_content_id": "163519",
+        "source_title": "2.7版本限时频段（下期）",
+        "source_url": "https://zzz.mihoyo.com/news/detail/163519",
+        "version": "2.7",
+        "phase": "phase2"
+      },
+      "banners": [
+        {
+          "type": "character",
+          "featured_s": [
+            {
+              "name": "希希芙",
+              "kind": "agent",
+              "rarity": "S"
+            },
+            {
+              "name": "「席德」",
+              "kind": "agent",
+              "rarity": "S"
+            }
+          ],
+          "source_content_id": "163519",
+          "source_url": "https://zzz.mihoyo.com/news/detail/163519",
+          "phase": "phase2"
+        },
+        {
+          "type": "w_engine",
+          "featured_s": [
+            {
+              "name": "鳞齿寻踪",
+              "kind": "w_engine",
+              "rarity": "S"
+            },
+            {
+              "name": "机巧心种",
+              "kind": "w_engine",
+              "rarity": "S"
+            }
+          ],
+          "source_content_id": "163519",
+          "source_url": "https://zzz.mihoyo.com/news/detail/163519",
+          "phase": "phase2"
+        }
+      ]
+    },
+    {
+      "id": "zenless-zone-zero-2026-163857-maintenance",
+      "name": "绝区零 2.8 版本维护更新",
+      "date": "2026-05-06",
+      "end_date": "2026-05-06",
+      "time": "06:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "绝区零官方版本维护更新。",
+      "url": "https://zzz.mihoyo.com/news/detail/163857",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2026/05/06 06:00，预计5个小时完成",
+        "官方公告": "2.8版本「新·艾利都日落时」更新公告"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "version_update",
+        "source_content_id": "163857",
+        "source_title": "2.8版本「新·艾利都日落时」更新公告",
+        "source_url": "https://zzz.mihoyo.com/news/detail/163857",
+        "version": "2.8"
+      }
+    },
+    {
+      "id": "zenless-zone-zero-2026-163844-banners",
+      "name": "绝区零 2.8 上期调频：普罗米娅 / 卢西娅 / 朔月裁霜 / 铸梦炉歌",
+      "date": "2026-05-06",
+      "end_date": "2026-05-27",
+      "time": "11:00",
+      "end_time": "11:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "绝区零官方活动调频（上期）。",
+      "url": "https://zzz.mihoyo.com/news/detail/163844",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2.8版本更新后 ~ 2026/05/27 11:59",
+        "开始时间": "版本更新后",
+        "S级代理人": "普罗米娅 / 卢西娅",
+        "S级音擎": "朔月裁霜 / 铸梦炉歌",
+        "官方公告": "2.8版本限时频段（上期）"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "banner",
+        "source_content_id": "163844",
+        "source_title": "2.8版本限时频段（上期）",
+        "source_url": "https://zzz.mihoyo.com/news/detail/163844",
+        "version": "2.8",
+        "phase": "phase1"
+      },
+      "banners": [
+        {
+          "type": "character",
+          "featured_s": [
+            {
+              "name": "普罗米娅",
+              "kind": "agent",
+              "rarity": "S"
+            },
+            {
+              "name": "卢西娅",
+              "kind": "agent",
+              "rarity": "S"
+            }
+          ],
+          "source_content_id": "163844",
+          "source_url": "https://zzz.mihoyo.com/news/detail/163844",
+          "phase": "phase1"
+        },
+        {
+          "type": "w_engine",
+          "featured_s": [
+            {
+              "name": "朔月裁霜",
+              "kind": "w_engine",
+              "rarity": "S"
+            },
+            {
+              "name": "铸梦炉歌",
+              "kind": "w_engine",
+              "rarity": "S"
+            }
+          ],
+          "source_content_id": "163844",
+          "source_url": "https://zzz.mihoyo.com/news/detail/163844",
+          "phase": "phase1"
+        }
+      ]
+    },
+    {
+      "id": "zenless-zone-zero-2026-163857-version",
+      "name": "绝区零 2.8 版本周期",
+      "date": "2026-05-06",
+      "end_date": "2026-06-17",
+      "time": "11:00",
+      "end_time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "绝区零 2.8 版本内容开放周期。",
+      "url": "https://zzz.mihoyo.com/news/detail/163857",
+      "status": "active",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方公告": "2.8版本「新·艾利都日落时」更新公告"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "version",
+        "source_content_id": "163857",
+        "source_title": "2.8版本「新·艾利都日落时」更新公告",
+        "source_url": "https://zzz.mihoyo.com/news/detail/163857",
+        "version": "2.8"
+      }
+    },
+    {
+      "id": "zenless-zone-zero-2026-forecast-vnext-1-preview",
+      "name": "绝区零 下一版本 前瞻直播窗口",
+      "date": "2026-06-05",
+      "timezone": "Asia/Shanghai",
+      "type": "announcement",
+      "year": 2026,
+      "description": "绝区零 下一版本 版本前瞻直播预测窗口，需以官方公告为准。",
+      "url": "https://zzz.mihoyo.com/zh-cn/news",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "details": {
+        "数据性质": "预测窗口",
+        "依据": "约 42 天一个版本"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "forecast",
+        "version": "下一版本"
+      }
+    },
+    {
+      "id": "zenless-zone-zero-2026-forecast-vnext-1-update",
+      "name": "绝区零 下一版本 版本更新窗口",
+      "date": "2026-06-17",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "绝区零 下一版本 版本维护更新预测窗口，需以官方公告为准。",
+      "url": "https://zzz.mihoyo.com/zh-cn/news",
+      "status": "planned",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "details": {
+        "数据性质": "预测窗口",
+        "依据": "约 42 天一个版本"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "forecast",
+        "version": "下一版本"
+      }
+    },
+    {
+      "id": "zenless-zone-zero-2026-forecast-vnext-1-phase2",
+      "name": "绝区零 下一版本 下半卡池窗口",
+      "date": "2026-07-08",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "绝区零 下一版本 下半卡池预测窗口，需以官方公告为准。",
+      "url": "https://zzz.mihoyo.com/zh-cn/news",
+      "status": "planned",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "details": {
+        "数据性质": "预测窗口",
+        "依据": "约 42 天一个版本，下半约第 21 天开启"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "forecast",
+        "version": "下一版本",
+        "phase": "phase2"
+      }
+    },
+    {
+      "id": "zenless-zone-zero-2026-forecast-vnext-2-preview",
+      "name": "绝区零 后续版本二 前瞻直播窗口",
+      "date": "2026-07-17",
+      "timezone": "Asia/Shanghai",
+      "type": "announcement",
+      "year": 2026,
+      "description": "绝区零 后续版本二 版本前瞻直播预测窗口，需以官方公告为准。",
+      "url": "https://zzz.mihoyo.com/zh-cn/news",
+      "status": "planned",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "details": {
+        "数据性质": "预测窗口",
+        "依据": "约 42 天一个版本"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "forecast",
+        "version": "后续版本二"
+      }
+    },
+    {
+      "id": "zenless-zone-zero-2026-forecast-vnext-2-update",
+      "name": "绝区零 后续版本二 版本更新窗口",
+      "date": "2026-07-29",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "绝区零 后续版本二 版本维护更新预测窗口，需以官方公告为准。",
+      "url": "https://zzz.mihoyo.com/zh-cn/news",
+      "status": "planned",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "details": {
+        "数据性质": "预测窗口",
+        "依据": "约 42 天一个版本"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "forecast",
+        "version": "后续版本二"
+      }
+    },
+    {
+      "id": "zenless-zone-zero-2026-forecast-vnext-2-phase2",
+      "name": "绝区零 后续版本二 下半卡池窗口",
+      "date": "2026-08-19",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "绝区零 后续版本二 下半卡池预测窗口，需以官方公告为准。",
+      "url": "https://zzz.mihoyo.com/zh-cn/news",
+      "status": "planned",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "details": {
+        "数据性质": "预测窗口",
+        "依据": "约 42 天一个版本，下半约第 21 天开启"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "forecast",
+        "version": "后续版本二",
+        "phase": "phase2"
+      }
+    },
+    {
+      "id": "zenless-zone-zero-2026-forecast-vnext-3-preview",
+      "name": "绝区零 后续版本三 前瞻直播窗口",
+      "date": "2026-08-28",
+      "timezone": "Asia/Shanghai",
+      "type": "announcement",
+      "year": 2026,
+      "description": "绝区零 后续版本三 版本前瞻直播预测窗口，需以官方公告为准。",
+      "url": "https://zzz.mihoyo.com/zh-cn/news",
+      "status": "planned",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "details": {
+        "数据性质": "预测窗口",
+        "依据": "约 42 天一个版本"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "forecast",
+        "version": "后续版本三"
+      }
+    },
+    {
+      "id": "zenless-zone-zero-2026-forecast-vnext-3-update",
+      "name": "绝区零 后续版本三 版本更新窗口",
+      "date": "2026-09-09",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "绝区零 后续版本三 版本维护更新预测窗口，需以官方公告为准。",
+      "url": "https://zzz.mihoyo.com/zh-cn/news",
+      "status": "planned",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "details": {
+        "数据性质": "预测窗口",
+        "依据": "约 42 天一个版本"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "forecast",
+        "version": "后续版本三"
+      }
+    },
+    {
+      "id": "zenless-zone-zero-2026-forecast-vnext-3-phase2",
+      "name": "绝区零 后续版本三 下半卡池窗口",
+      "date": "2026-09-30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "绝区零 后续版本三 下半卡池预测窗口，需以官方公告为准。",
+      "url": "https://zzz.mihoyo.com/zh-cn/news",
+      "status": "planned",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "details": {
+        "数据性质": "预测窗口",
+        "依据": "约 42 天一个版本，下半约第 21 天开启"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "forecast",
+        "version": "后续版本三",
+        "phase": "phase2"
+      }
+    }
+  ],
+  "last_updated": "2026-06-13"
+}

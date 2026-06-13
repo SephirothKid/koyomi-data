@@ -1,8 +1,8 @@
 {
   "id": "cn-public-holidays",
   "name": "中国大陆节假日",
-  "name_en": "Mainland China Public Holidays",
   "category": "holidays",
+  "name_en": "Mainland China Public Holidays",
   "subcategory": "公众假期",
   "description": "中国大陆法定节假日安排，自动同步国务院发布的放假通知，包含调休补班信息。",
   "icon": "calendar-days",
@@ -23,7 +23,7 @@
   "subscriber_count": 45200,
   "rating": 4.6,
   "rating_count": 1200,
-  "last_updated": "2026-05-29",
+  "last_updated": "2026-06-13",
   "events": [
     {
       "id": "cn-holiday-2025-new-year",
@@ -36,10 +36,8 @@
       "description": "放假共 1 天",
       "url": "https://www.gov.cn/",
       "status": "completed",
-      "last_verified": "2026-05-29",
-      "verified_by": "auto",
-      "name_en": "New Year's Day",
-      "description_en": "1 day off"
+      "last_verified": "2026-06-13",
+      "verified_by": "auto"
     },
     {
       "id": "cn-holiday-2025-spring-festival",
@@ -52,14 +50,12 @@
       "description": "放假共 8 天",
       "url": "https://www.gov.cn/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-06-13",
       "verified_by": "auto",
       "makeup_workdays": [
         "2025-01-26",
         "2025-02-08"
-      ],
-      "name_en": "Chinese New Year (Spring Festival)",
-      "description_en": "8 days off"
+      ]
     },
     {
       "id": "cn-holiday-2025-qingming",
@@ -72,10 +68,8 @@
       "description": "放假共 3 天",
       "url": "https://www.gov.cn/",
       "status": "completed",
-      "last_verified": "2026-05-29",
-      "verified_by": "auto",
-      "name_en": "Tomb-Sweeping Day",
-      "description_en": "3 days off"
+      "last_verified": "2026-06-13",
+      "verified_by": "auto"
     },
     {
       "id": "cn-holiday-2025-labor-day",
@@ -88,13 +82,11 @@
       "description": "放假共 5 天",
       "url": "https://www.gov.cn/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-06-13",
       "verified_by": "auto",
       "makeup_workdays": [
         "2025-04-27"
-      ],
-      "name_en": "Labor Day",
-      "description_en": "5 days off"
+      ]
     },
     {
       "id": "cn-holiday-2025-dragon-boat",
@@ -107,10 +99,8 @@
       "description": "放假共 3 天",
       "url": "https://www.gov.cn/",
       "status": "completed",
-      "last_verified": "2026-05-29",
-      "verified_by": "auto",
-      "name_en": "Dragon Boat Festival",
-      "description_en": "3 days off"
+      "last_verified": "2026-06-13",
+      "verified_by": "auto"
     },
     {
       "id": "cn-holiday-2025-国庆节、中秋节",
@@ -123,14 +113,12 @@
       "description": "放假共 8 天",
       "url": "https://www.gov.cn/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-06-13",
       "verified_by": "auto",
       "makeup_workdays": [
         "2025-09-28",
         "2025-10-11"
-      ],
-      "name_en": "National Day、Mid-Autumn Festival",
-      "description_en": "8 days off"
+      ]
     },
     {
       "id": "cn-holiday-2026-new-year",
@@ -143,13 +131,11 @@
       "description": "放假共 3 天",
       "url": "https://www.gov.cn/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-06-13",
       "verified_by": "auto",
       "makeup_workdays": [
         "2026-01-04"
-      ],
-      "name_en": "New Year's Day",
-      "description_en": "3 days off"
+      ]
     },
     {
       "id": "cn-holiday-2026-spring-festival",
@@ -162,14 +148,12 @@
       "description": "放假共 9 天",
       "url": "https://www.gov.cn/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-06-13",
       "verified_by": "auto",
       "makeup_workdays": [
         "2026-02-14",
         "2026-02-28"
-      ],
-      "name_en": "Chinese New Year (Spring Festival)",
-      "description_en": "9 days off"
+      ]
     },
     {
       "id": "cn-holiday-2026-qingming",
@@ -182,10 +166,8 @@
       "description": "放假共 3 天",
       "url": "https://www.gov.cn/",
       "status": "completed",
-      "last_verified": "2026-05-29",
-      "verified_by": "auto",
-      "name_en": "Tomb-Sweeping Day",
-      "description_en": "3 days off"
+      "last_verified": "2026-06-13",
+      "verified_by": "auto"
     },
     {
       "id": "cn-holiday-2026-labor-day",
@@ -198,13 +180,11 @@
       "description": "放假共 5 天",
       "url": "https://www.gov.cn/",
       "status": "completed",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-06-13",
       "verified_by": "auto",
       "makeup_workdays": [
         "2026-05-09"
-      ],
-      "name_en": "Labor Day",
-      "description_en": "5 days off"
+      ]
     },
     {
       "id": "cn-holiday-2026-dragon-boat",
@@ -217,10 +197,8 @@
       "description": "放假共 3 天",
       "url": "https://www.gov.cn/",
       "status": "planned",
-      "last_verified": "2026-05-29",
-      "verified_by": "auto",
-      "name_en": "Dragon Boat Festival",
-      "description_en": "3 days off"
+      "last_verified": "2026-06-13",
+      "verified_by": "auto"
     },
     {
       "id": "cn-holiday-2026-mid-autumn",
@@ -233,10 +211,8 @@
       "description": "放假共 3 天",
       "url": "https://www.gov.cn/",
       "status": "planned",
-      "last_verified": "2026-05-29",
-      "verified_by": "auto",
-      "name_en": "Mid-Autumn Festival",
-      "description_en": "3 days off"
+      "last_verified": "2026-06-13",
+      "verified_by": "auto"
     },
     {
       "id": "cn-holiday-2026-national-day",
@@ -249,14 +225,12 @@
       "description": "放假共 7 天",
       "url": "https://www.gov.cn/",
       "status": "planned",
-      "last_verified": "2026-05-29",
+      "last_verified": "2026-06-13",
       "verified_by": "auto",
       "makeup_workdays": [
         "2026-09-20",
         "2026-10-10"
-      ],
-      "name_en": "National Day",
-      "description_en": "7 days off"
+      ]
     }
   ],
   "subcategory_en": "Public Holidays"

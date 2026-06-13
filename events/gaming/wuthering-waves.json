@@ -1,0 +1,978 @@
+{
+  "id": "wuthering-waves",
+  "name": "鸣潮版本日历",
+  "category": "gaming",
+  "name_en": "Wuthering Waves Version Calendar",
+  "subcategory": "游戏更新",
+  "description": "鸣潮版本维护更新和版本周期日历。",
+  "icon": "/logos/wuthering-waves.jpg",
+  "tags": [
+    "鸣潮",
+    "WutheringWaves",
+    "版本更新"
+  ],
+  "tags_en": [
+    "Wuthering Waves",
+    "Version Update"
+  ],
+  "maintainer": "community",
+  "source_url": "https://wutheringwaves.kurogames.com/cn/main/news",
+  "subscriber_count": 0,
+  "rating": 0,
+  "rating_count": 0,
+  "events": [
+    {
+      "id": "wuthering-waves-2024-1617-maintenance",
+      "name": "鸣潮 1.4 版本维护更新",
+      "date": "2024-11-14",
+      "end_date": "2024-11-14",
+      "time": "04:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2024,
+      "description": "鸣潮官方版本维护更新。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/1617",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2024年11月14日04:00 ~ 2024年11月14日11:00（UTC+8）",
+        "官方公告": "《鸣潮》1.4版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version_update",
+        "source_content_id": "1617",
+        "source_title": "《鸣潮》1.4版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/1617",
+        "version": "1.4"
+      }
+    },
+    {
+      "id": "wuthering-waves-2024-1617-version",
+      "name": "鸣潮 1.4 版本周期",
+      "date": "2024-11-14",
+      "end_date": "2025-01-02",
+      "time": "11:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2024,
+      "description": "鸣潮 1.4 版本内容开放周期。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/1617",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方公告": "《鸣潮》1.4版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version",
+        "source_content_id": "1617",
+        "source_title": "《鸣潮》1.4版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/1617",
+        "version": "1.4"
+      }
+    },
+    {
+      "id": "wuthering-waves-2025-1866-maintenance",
+      "name": "鸣潮 2.0 版本维护更新",
+      "date": "2025-01-02",
+      "end_date": "2025-01-02",
+      "time": "04:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2025,
+      "description": "鸣潮官方版本维护更新。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/1866",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2025年1月2日04:00 ~ 2025年1月2日11:00（UTC+8）",
+        "官方公告": "《鸣潮》2.0版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version_update",
+        "source_content_id": "1866",
+        "source_title": "《鸣潮》2.0版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/1866",
+        "version": "2.0"
+      }
+    },
+    {
+      "id": "wuthering-waves-2025-1866-version",
+      "name": "鸣潮 2.0 版本周期",
+      "date": "2025-01-02",
+      "end_date": "2025-02-13",
+      "time": "11:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2025,
+      "description": "鸣潮 2.0 版本内容开放周期。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/1866",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方公告": "《鸣潮》2.0版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version",
+        "source_content_id": "1866",
+        "source_title": "《鸣潮》2.0版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/1866",
+        "version": "2.0"
+      }
+    },
+    {
+      "id": "wuthering-waves-2025-2116-maintenance",
+      "name": "鸣潮 2.1 版本维护更新",
+      "date": "2025-02-13",
+      "end_date": "2025-02-13",
+      "time": "04:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2025,
+      "description": "鸣潮官方版本维护更新。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/2116",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2025年2月13日04:00 ~ 2025年2月13日11:00（UTC+8）",
+        "官方公告": "《鸣潮》2.1版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version_update",
+        "source_content_id": "2116",
+        "source_title": "《鸣潮》2.1版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/2116",
+        "version": "2.1"
+      }
+    },
+    {
+      "id": "wuthering-waves-2025-2116-version",
+      "name": "鸣潮 2.1 版本周期",
+      "date": "2025-02-13",
+      "end_date": "2025-03-27",
+      "time": "11:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2025,
+      "description": "鸣潮 2.1 版本内容开放周期。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/2116",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方公告": "《鸣潮》2.1版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version",
+        "source_content_id": "2116",
+        "source_title": "《鸣潮》2.1版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/2116",
+        "version": "2.1"
+      }
+    },
+    {
+      "id": "wuthering-waves-2025-2319-maintenance",
+      "name": "鸣潮 2.2 版本维护更新",
+      "date": "2025-03-27",
+      "end_date": "2025-03-27",
+      "time": "04:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2025,
+      "description": "鸣潮官方版本维护更新。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/2319",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2025年3月27日04:00 ~ 2025年3月27日11:00（UTC+8）",
+        "官方公告": "《鸣潮》2.2版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version_update",
+        "source_content_id": "2319",
+        "source_title": "《鸣潮》2.2版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/2319",
+        "version": "2.2"
+      }
+    },
+    {
+      "id": "wuthering-waves-2025-2319-version",
+      "name": "鸣潮 2.2 版本周期",
+      "date": "2025-03-27",
+      "end_date": "2025-04-29",
+      "time": "11:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2025,
+      "description": "鸣潮 2.2 版本内容开放周期。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/2319",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方公告": "《鸣潮》2.2版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version",
+        "source_content_id": "2319",
+        "source_title": "《鸣潮》2.2版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/2319",
+        "version": "2.2"
+      }
+    },
+    {
+      "id": "wuthering-waves-2025-2506-maintenance",
+      "name": "鸣潮 2.3 版本维护更新",
+      "date": "2025-04-29",
+      "end_date": "2025-04-29",
+      "time": "04:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2025,
+      "description": "鸣潮官方版本维护更新。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/2506",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2025年4月29日04:00 ~ 2025年4月29日11:00（UTC+8）",
+        "官方公告": "《鸣潮》2.3版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version_update",
+        "source_content_id": "2506",
+        "source_title": "《鸣潮》2.3版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/2506",
+        "version": "2.3"
+      }
+    },
+    {
+      "id": "wuthering-waves-2025-2506-version",
+      "name": "鸣潮 2.3 版本周期",
+      "date": "2025-04-29",
+      "end_date": "2025-06-12",
+      "time": "11:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2025,
+      "description": "鸣潮 2.3 版本内容开放周期。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/2506",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方公告": "《鸣潮》2.3版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version",
+        "source_content_id": "2506",
+        "source_title": "《鸣潮》2.3版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/2506",
+        "version": "2.3"
+      }
+    },
+    {
+      "id": "wuthering-waves-2025-2744-maintenance",
+      "name": "鸣潮 2.4 版本维护更新",
+      "date": "2025-06-12",
+      "end_date": "2025-06-12",
+      "time": "04:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2025,
+      "description": "鸣潮官方版本维护更新。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/2744",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2025年6月12日04:00 ~ 2025年6月12日11:00（UTC+8）",
+        "官方公告": "《鸣潮》2.4版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version_update",
+        "source_content_id": "2744",
+        "source_title": "《鸣潮》2.4版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/2744",
+        "version": "2.4"
+      }
+    },
+    {
+      "id": "wuthering-waves-2025-2744-version",
+      "name": "鸣潮 2.4 版本周期",
+      "date": "2025-06-12",
+      "end_date": "2025-07-24",
+      "time": "11:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2025,
+      "description": "鸣潮 2.4 版本内容开放周期。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/2744",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方公告": "《鸣潮》2.4版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version",
+        "source_content_id": "2744",
+        "source_title": "《鸣潮》2.4版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/2744",
+        "version": "2.4"
+      }
+    },
+    {
+      "id": "wuthering-waves-2025-2923-maintenance",
+      "name": "鸣潮 2.5 版本维护更新",
+      "date": "2025-07-24",
+      "end_date": "2025-07-24",
+      "time": "04:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2025,
+      "description": "鸣潮官方版本维护更新。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/2923",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2025年7月24日04:00 ~ 2025年7月24日11:00（UTC+8）",
+        "官方公告": "《鸣潮》2.5版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version_update",
+        "source_content_id": "2923",
+        "source_title": "《鸣潮》2.5版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/2923",
+        "version": "2.5"
+      }
+    },
+    {
+      "id": "wuthering-waves-2025-2923-version",
+      "name": "鸣潮 2.5 版本周期",
+      "date": "2025-07-24",
+      "end_date": "2025-08-28",
+      "time": "11:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2025,
+      "description": "鸣潮 2.5 版本内容开放周期。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/2923",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方公告": "《鸣潮》2.5版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version",
+        "source_content_id": "2923",
+        "source_title": "《鸣潮》2.5版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/2923",
+        "version": "2.5"
+      }
+    },
+    {
+      "id": "wuthering-waves-2025-3101-maintenance",
+      "name": "鸣潮 2.6 版本维护更新",
+      "date": "2025-08-28",
+      "end_date": "2025-08-28",
+      "time": "04:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2025,
+      "description": "鸣潮官方版本维护更新。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/3101",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2025年8月28日04:00 ~ 2025年8月28日11:00（UTC+8）",
+        "官方公告": "《鸣潮》2.6版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version_update",
+        "source_content_id": "3101",
+        "source_title": "《鸣潮》2.6版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/3101",
+        "version": "2.6"
+      }
+    },
+    {
+      "id": "wuthering-waves-2025-3101-version",
+      "name": "鸣潮 2.6 版本周期",
+      "date": "2025-08-28",
+      "end_date": "2025-10-09",
+      "time": "11:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2025,
+      "description": "鸣潮 2.6 版本内容开放周期。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/3101",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方公告": "《鸣潮》2.6版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version",
+        "source_content_id": "3101",
+        "source_title": "《鸣潮》2.6版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/3101",
+        "version": "2.6"
+      }
+    },
+    {
+      "id": "wuthering-waves-2025-3378-maintenance",
+      "name": "鸣潮 2.7 版本维护更新",
+      "date": "2025-10-09",
+      "end_date": "2025-10-09",
+      "time": "04:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2025,
+      "description": "鸣潮官方版本维护更新。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/3378",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2025年10月9日04:00 ~ 2025年10月9日11:00（UTC+8）",
+        "官方公告": "《鸣潮》2.7版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version_update",
+        "source_content_id": "3378",
+        "source_title": "《鸣潮》2.7版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/3378",
+        "version": "2.7"
+      }
+    },
+    {
+      "id": "wuthering-waves-2025-3378-version",
+      "name": "鸣潮 2.7 版本周期",
+      "date": "2025-10-09",
+      "end_date": "2025-11-20",
+      "time": "11:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2025,
+      "description": "鸣潮 2.7 版本内容开放周期。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/3378",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方公告": "《鸣潮》2.7版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version",
+        "source_content_id": "3378",
+        "source_title": "《鸣潮》2.7版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/3378",
+        "version": "2.7"
+      }
+    },
+    {
+      "id": "wuthering-waves-2025-3581-maintenance",
+      "name": "鸣潮 2.8 版本维护更新",
+      "date": "2025-11-20",
+      "end_date": "2025-11-20",
+      "time": "04:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2025,
+      "description": "鸣潮官方版本维护更新。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/3581",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2025年11月20日04:00 ~ 2025年11月20日11:00（UTC+8）",
+        "官方公告": "《鸣潮》2.8版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version_update",
+        "source_content_id": "3581",
+        "source_title": "《鸣潮》2.8版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/3581",
+        "version": "2.8"
+      }
+    },
+    {
+      "id": "wuthering-waves-2025-3581-version",
+      "name": "鸣潮 2.8 版本周期",
+      "date": "2025-11-20",
+      "end_date": "2025-12-25",
+      "time": "11:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2025,
+      "description": "鸣潮 2.8 版本内容开放周期。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/3581",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方公告": "《鸣潮》2.8版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version",
+        "source_content_id": "3581",
+        "source_title": "《鸣潮》2.8版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/3581",
+        "version": "2.8"
+      }
+    },
+    {
+      "id": "wuthering-waves-2025-3813-maintenance",
+      "name": "鸣潮 3.0 版本维护更新",
+      "date": "2025-12-25",
+      "end_date": "2025-12-25",
+      "time": "04:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2025,
+      "description": "鸣潮官方版本维护更新。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/3813",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2025年12月25日04:00 ~ 2025年12月25日11:00（UTC+8）",
+        "官方公告": "《鸣潮》3.0版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version_update",
+        "source_content_id": "3813",
+        "source_title": "《鸣潮》3.0版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/3813",
+        "version": "3.0"
+      }
+    },
+    {
+      "id": "wuthering-waves-2025-3813-version",
+      "name": "鸣潮 3.0 版本周期",
+      "date": "2025-12-25",
+      "end_date": "2026-02-05",
+      "time": "11:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2025,
+      "description": "鸣潮 3.0 版本内容开放周期。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/3813",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方公告": "《鸣潮》3.0版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version",
+        "source_content_id": "3813",
+        "source_title": "《鸣潮》3.0版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/3813",
+        "version": "3.0"
+      }
+    },
+    {
+      "id": "wuthering-waves-2026-4112-maintenance",
+      "name": "鸣潮 3.1 版本维护更新",
+      "date": "2026-02-05",
+      "end_date": "2026-02-05",
+      "time": "04:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "鸣潮官方版本维护更新。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/4112",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2026年2月5日04:00 ~ 2026年2月5日11:00（UTC+8）",
+        "官方公告": "《鸣潮》3.1版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version_update",
+        "source_content_id": "4112",
+        "source_title": "《鸣潮》3.1版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/4112",
+        "version": "3.1"
+      }
+    },
+    {
+      "id": "wuthering-waves-2026-4112-version",
+      "name": "鸣潮 3.1 版本周期",
+      "date": "2026-02-05",
+      "end_date": "2026-03-19",
+      "time": "11:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "鸣潮 3.1 版本内容开放周期。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/4112",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方公告": "《鸣潮》3.1版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version",
+        "source_content_id": "4112",
+        "source_title": "《鸣潮》3.1版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/4112",
+        "version": "3.1"
+      }
+    },
+    {
+      "id": "wuthering-waves-2026-4411-maintenance",
+      "name": "鸣潮 3.2 版本维护更新",
+      "date": "2026-03-19",
+      "end_date": "2026-03-19",
+      "time": "04:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "鸣潮官方版本维护更新。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/4411",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2026年3月19日04:00 ~ 2026年3月19日11:00（UTC+8）",
+        "官方公告": "《鸣潮》3.2版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version_update",
+        "source_content_id": "4411",
+        "source_title": "《鸣潮》3.2版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/4411",
+        "version": "3.2"
+      }
+    },
+    {
+      "id": "wuthering-waves-2026-4411-version",
+      "name": "鸣潮 3.2 版本周期",
+      "date": "2026-03-19",
+      "end_date": "2026-04-30",
+      "time": "11:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "鸣潮 3.2 版本内容开放周期。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/4411",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方公告": "《鸣潮》3.2版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version",
+        "source_content_id": "4411",
+        "source_title": "《鸣潮》3.2版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/4411",
+        "version": "3.2"
+      }
+    },
+    {
+      "id": "wuthering-waves-2026-4551-maintenance",
+      "name": "鸣潮 3.3 版本维护更新",
+      "date": "2026-04-30",
+      "end_date": "2026-04-30",
+      "time": "04:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "鸣潮官方版本维护更新。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/4551",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2026年4月30日04:00 ~ 2026年4月30日11:00（UTC+8）",
+        "官方公告": "《鸣潮》3.3版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version_update",
+        "source_content_id": "4551",
+        "source_title": "《鸣潮》3.3版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/4551",
+        "version": "3.3"
+      }
+    },
+    {
+      "id": "wuthering-waves-2026-4551-version",
+      "name": "鸣潮 3.3 版本周期",
+      "date": "2026-04-30",
+      "end_date": "2026-06-08",
+      "time": "11:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "鸣潮 3.3 版本内容开放周期。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/4551",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方公告": "《鸣潮》3.3版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version",
+        "source_content_id": "4551",
+        "source_title": "《鸣潮》3.3版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/4551",
+        "version": "3.3"
+      }
+    },
+    {
+      "id": "wuthering-waves-2026-4772-maintenance",
+      "name": "鸣潮 3.4 版本维护更新",
+      "date": "2026-06-08",
+      "end_date": "2026-06-08",
+      "time": "04:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "鸣潮官方版本维护更新。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/4772",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "官方时间": "2026年6月8日04:00 ~ 2026年6月8日11:00（UTC+8）",
+        "官方公告": "《鸣潮》3.4版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version_update",
+        "source_content_id": "4772",
+        "source_title": "《鸣潮》3.4版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/4772",
+        "version": "3.4"
+      }
+    },
+    {
+      "id": "wuthering-waves-2026-4772-version",
+      "name": "鸣潮 3.4 版本周期",
+      "date": "2026-06-08",
+      "end_date": "2026-07-20",
+      "time": "11:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "鸣潮 3.4 版本内容开放周期。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/4772",
+      "status": "active",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "details": {
+        "版本结束": "预测（约42天）",
+        "官方公告": "《鸣潮》3.4版本更新维护预告"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "kurogames",
+        "source_kind": "version",
+        "source_content_id": "4772",
+        "source_title": "《鸣潮》3.4版本更新维护预告",
+        "source_url": "https://wutheringwaves.kurogames.com/cn/main/news/detail/4772",
+        "version": "3.4"
+      }
+    },
+    {
+      "id": "wuthering-waves-2026-forecast-v1-update",
+      "name": "鸣潮 下一版本 版本更新窗口",
+      "date": "2026-07-20",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "鸣潮版本维护更新预测窗口，需以官方公告为准。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news",
+      "status": "planned",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "details": {
+        "数据性质": "预测窗口",
+        "依据": "约 42 天一个版本"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "community",
+        "source_kind": "forecast"
+      }
+    },
+    {
+      "id": "wuthering-waves-2026-forecast-v2-update",
+      "name": "鸣潮 后续版本2 版本更新窗口",
+      "date": "2026-08-31",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "鸣潮版本维护更新预测窗口，需以官方公告为准。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news",
+      "status": "planned",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "details": {
+        "数据性质": "预测窗口",
+        "依据": "约 42 天一个版本"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "community",
+        "source_kind": "forecast"
+      }
+    },
+    {
+      "id": "wuthering-waves-2026-forecast-v3-update",
+      "name": "鸣潮 后续版本3 版本更新窗口",
+      "date": "2026-10-12",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "鸣潮版本维护更新预测窗口，需以官方公告为准。",
+      "url": "https://wutheringwaves.kurogames.com/cn/main/news",
+      "status": "planned",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "details": {
+        "数据性质": "预测窗口",
+        "依据": "约 42 天一个版本"
+      },
+      "game": {
+        "game_id": "wuthering-waves",
+        "provider": "community",
+        "source_kind": "forecast"
+      }
+    }
+  ],
+  "last_updated": "2026-06-13"
+}
