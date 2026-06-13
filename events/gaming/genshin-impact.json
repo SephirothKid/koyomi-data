@@ -24,573 +24,979 @@
   "rating_count": 720,
   "events": [
     {
-      "id": "genshin-impact-2023-118309-maintenance",
-      "name": "原神 3.8 版本维护更新",
-      "date": "2023-07-05",
-      "end_date": "2023-07-05",
+      "id": "genshin-impact-2023-118833-maintenance",
+      "name": "原神 3.5 版本维护更新",
+      "name_en": "Genshin Impact v3.5 Maintenance Update",
+      "date": "2023-03-01",
+      "end_date": "2023-03-05",
       "time": "06:00",
-      "end_time": "11:00",
       "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
+      "time_kind": "datetime",
       "type": "event",
       "year": 2023,
-      "description": "原神官方版本维护更新。",
-      "url": "https://ys.mihoyo.com/main/news/detail/118309",
+      "description": "原神 官方版本维护更新。",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "url": "https://ys.mihoyo.com/main/news/detail/118833",
       "status": "completed",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "official",
       "details": {
-        "官方时间": "更新时间〓 2023/07/05 06:00开始，预计5个小时完成",
-        "官方公告": "「清夏！乐园？大秘境！」3.8版本更新说明"
+        "official_time": "2023/03/01 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至3.5"
+      },
+      "details_en": {
+        "official_time": "2023/03/01 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至3.5"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
-        "source_kind": "version_update",
+        "source_kind": "maintenance",
+        "source_content_id": "118833",
+        "source_title": "《原神》「风花的呼吸」3.5版本更新维护预告",
+        "source_url": "https://ys.mihoyo.com/main/news/detail/118833",
+        "version": "3.5"
+      }
+    },
+    {
+      "id": "genshin-impact-2023-118200-maintenance",
+      "name": "原神 3.7 版本维护更新",
+      "name_en": "Genshin Impact v3.7 Maintenance Update",
+      "date": "2023-05-24",
+      "end_date": "2023-03-07",
+      "time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2023,
+      "description": "原神 官方版本维护更新。",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "url": "https://ys.mihoyo.com/main/news/detail/118200",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2023/05/24 06:00:00前冒险等阶达到5级及以上的旅行者。 领取时间截至3.7"
+      },
+      "details_en": {
+        "official_time": "2023/05/24 06:00:00前冒险等阶达到5级及以上的旅行者。 领取时间截至3.7"
+      },
+      "game": {
+        "game_id": "genshin-impact",
+        "provider": "hoyoverse",
+        "source_kind": "maintenance",
+        "source_content_id": "118200",
+        "source_title": "「决斗！召唤之巅！」3.7版本更新维护预告",
+        "source_url": "https://ys.mihoyo.com/main/news/detail/118200",
+        "version": "3.7"
+      }
+    },
+    {
+      "id": "genshin-impact-2023-118222-maintenance",
+      "name": "原神 3.7 版本维护更新",
+      "name_en": "Genshin Impact v3.7 Maintenance Update",
+      "date": "2023-05-24",
+      "end_date": "2023-03-07",
+      "time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2023,
+      "description": "原神 官方版本维护更新。",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "url": "https://ys.mihoyo.com/main/news/detail/118222",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2023/05/24 06:00:00前冒险等阶达到5级及以上的旅行者。 领取时间截至3.7"
+      },
+      "details_en": {
+        "official_time": "2023/05/24 06:00:00前冒险等阶达到5级及以上的旅行者。 领取时间截至3.7"
+      },
+      "game": {
+        "game_id": "genshin-impact",
+        "provider": "hoyoverse",
+        "source_kind": "maintenance",
+        "source_content_id": "118222",
+        "source_title": "「决斗！召唤之巅！」3.7版本更新说明",
+        "source_url": "https://ys.mihoyo.com/main/news/detail/118222",
+        "version": "3.7"
+      }
+    },
+    {
+      "id": "genshin-impact-2023-118282-maintenance",
+      "name": "原神 3.8 版本维护更新",
+      "name_en": "Genshin Impact v3.8 Maintenance Update",
+      "date": "2023-07-05",
+      "end_date": "2023-03-08",
+      "time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2023,
+      "description": "原神 官方版本维护更新。",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "url": "https://ys.mihoyo.com/main/news/detail/118282",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2023/07/05 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至3.8"
+      },
+      "details_en": {
+        "official_time": "2023/07/05 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至3.8"
+      },
+      "game": {
+        "game_id": "genshin-impact",
+        "provider": "hoyoverse",
+        "source_kind": "maintenance",
+        "source_content_id": "118282",
+        "source_title": "「清夏！乐园？大秘境！」3.8版本更新维护预告",
+        "source_url": "https://ys.mihoyo.com/main/news/detail/118282",
+        "version": "3.8"
+      }
+    },
+    {
+      "id": "genshin-impact-2023-118309-maintenance",
+      "name": "原神 3.8 版本维护更新",
+      "date": "2023-07-05",
+      "end_date": "2023-03-08",
+      "time": "06:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2023,
+      "description": "原神 官方版本维护更新。",
+      "url": "https://ys.mihoyo.com/main/news/detail/118309",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2023/07/05 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至3.8"
+      },
+      "game": {
+        "game_id": "genshin-impact",
+        "provider": "hoyoverse",
+        "source_kind": "maintenance",
         "source_content_id": "118309",
         "source_title": "「清夏！乐园？大秘境！」3.8版本更新说明",
         "source_url": "https://ys.mihoyo.com/main/news/detail/118309",
         "version": "3.8"
+      },
+      "name_en": "Genshin Impact v3.8 Maintenance Update",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "details_en": {
+        "official_time": "2023/07/05 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至3.8"
       }
     },
     {
       "id": "genshin-impact-2023-118417-maintenance",
       "name": "原神 4.0 版本维护更新",
       "date": "2023-08-16",
-      "end_date": "2023-08-16",
+      "end_date": "2023-04-00",
       "time": "06:00",
       "end_time": "11:00",
       "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
+      "time_kind": "datetime",
       "type": "event",
       "year": 2023,
-      "description": "原神官方版本维护更新。",
+      "description": "原神 官方版本维护更新。",
       "url": "https://ys.mihoyo.com/main/news/detail/118417",
       "status": "completed",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "official",
       "details": {
-        "官方时间": "更新时间〓 2023/08/16 06:00开始，预计5个小时完成",
-        "官方公告": "「仿若无因飘落的轻雨」4.0版本更新说明"
+        "official_time": "2023/08/16 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至4.0"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
-        "source_kind": "version_update",
+        "source_kind": "maintenance",
         "source_content_id": "118417",
         "source_title": "「仿若无因飘落的轻雨」4.0版本更新说明",
         "source_url": "https://ys.mihoyo.com/main/news/detail/118417",
         "version": "4.0"
+      },
+      "name_en": "Genshin Impact v4.0 Maintenance Update",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "details_en": {
+        "official_time": "2023/08/16 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至4.0"
       }
     },
     {
       "id": "genshin-impact-2023-118514-maintenance",
       "name": "原神 4.1 版本维护更新",
       "date": "2023-09-27",
-      "end_date": "2023-09-27",
+      "end_date": "2023-04-01",
       "time": "06:00",
       "end_time": "11:00",
       "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
+      "time_kind": "datetime",
       "type": "event",
       "year": 2023,
-      "description": "原神官方版本维护更新。",
+      "description": "原神 官方版本维护更新。",
       "url": "https://ys.mihoyo.com/main/news/detail/118514",
       "status": "completed",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "official",
       "details": {
-        "官方时间": "更新时间〓 2023/09/27 06:00开始，预计5个小时完成",
-        "官方公告": "「向深水中的晨星」4.1版本更新说明"
+        "official_time": "2023/09/27 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至4.1"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
-        "source_kind": "version_update",
+        "source_kind": "maintenance",
         "source_content_id": "118514",
         "source_title": "「向深水中的晨星」4.1版本更新说明",
         "source_url": "https://ys.mihoyo.com/main/news/detail/118514",
         "version": "4.1"
+      },
+      "name_en": "Genshin Impact v4.1 Maintenance Update",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "details_en": {
+        "official_time": "2023/09/27 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至4.1"
       }
     },
     {
       "id": "genshin-impact-2023-118617-maintenance",
       "name": "原神 4.2 版本维护更新",
       "date": "2023-11-08",
-      "end_date": "2023-11-08",
+      "end_date": "2023-04-02",
       "time": "06:00",
       "end_time": "11:00",
       "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
+      "time_kind": "datetime",
       "type": "event",
       "year": 2023,
-      "description": "原神官方版本维护更新。",
+      "description": "原神 官方版本维护更新。",
       "url": "https://ys.mihoyo.com/main/news/detail/118617",
       "status": "completed",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "official",
       "details": {
-        "官方时间": "更新时间〓 2023/11/08 06:00开始，预计5个小时完成",
-        "官方公告": "「罪人舞步旋」4.2版本更新说明"
+        "official_time": "2023/11/08 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至4.2"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
-        "source_kind": "version_update",
+        "source_kind": "maintenance",
         "source_content_id": "118617",
         "source_title": "「罪人舞步旋」4.2版本更新说明",
         "source_url": "https://ys.mihoyo.com/main/news/detail/118617",
         "version": "4.2"
+      },
+      "name_en": "Genshin Impact v4.2 Maintenance Update",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "details_en": {
+        "official_time": "2023/11/08 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至4.2"
       }
     },
     {
       "id": "genshin-impact-2023-118709-maintenance",
       "name": "原神 4.3 版本维护更新",
       "date": "2023-12-20",
-      "end_date": "2023-12-20",
+      "end_date": "2023-04-03",
       "time": "06:00",
       "end_time": "11:00",
       "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
+      "time_kind": "datetime",
       "type": "event",
       "year": 2023,
-      "description": "原神官方版本维护更新。",
+      "description": "原神 官方版本维护更新。",
       "url": "https://ys.mihoyo.com/main/news/detail/118709",
       "status": "completed",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "official",
       "details": {
-        "官方时间": "更新时间〓 2023/12/20 06:00开始，预计5个小时完成",
-        "官方公告": "「蔷薇与铳枪」4.3版本更新说明"
+        "official_time": "2023/12/20 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至4.3"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
-        "source_kind": "version_update",
+        "source_kind": "maintenance",
         "source_content_id": "118709",
         "source_title": "「蔷薇与铳枪」4.3版本更新说明",
         "source_url": "https://ys.mihoyo.com/main/news/detail/118709",
         "version": "4.3"
+      },
+      "name_en": "Genshin Impact v4.3 Maintenance Update",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "details_en": {
+        "official_time": "2023/12/20 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至4.3"
       }
     },
     {
       "id": "genshin-impact-2024-122201-maintenance",
       "name": "原神 4.4 版本维护更新",
       "date": "2024-01-31",
-      "end_date": "2024-01-31",
+      "end_date": "2024-04-04",
       "time": "06:00",
       "end_time": "11:00",
       "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
+      "time_kind": "datetime",
       "type": "event",
       "year": 2024,
-      "description": "原神官方版本维护更新。",
+      "description": "原神 官方版本维护更新。",
       "url": "https://ys.mihoyo.com/main/news/detail/122201",
       "status": "completed",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "official",
       "details": {
-        "官方时间": "更新时间〓 2024/01/31 06:00开始，预计5个小时完成",
-        "官方公告": "「彩鹞栉春风」4.4版本更新说明"
+        "official_time": "2024/01/31 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至4.4"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
-        "source_kind": "version_update",
+        "source_kind": "maintenance",
         "source_content_id": "122201",
         "source_title": "「彩鹞栉春风」4.4版本更新说明",
         "source_url": "https://ys.mihoyo.com/main/news/detail/122201",
         "version": "4.4"
+      },
+      "name_en": "Genshin Impact v4.4 Maintenance Update",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "details_en": {
+        "official_time": "2024/01/31 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至4.4"
       }
     },
     {
       "id": "genshin-impact-2024-122841-maintenance",
       "name": "原神 4.5 版本维护更新",
       "date": "2024-03-13",
-      "end_date": "2024-03-13",
+      "end_date": "2024-04-05",
       "time": "06:00",
       "end_time": "11:00",
       "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
+      "time_kind": "datetime",
       "type": "event",
       "year": 2024,
-      "description": "原神官方版本维护更新。",
+      "description": "原神 官方版本维护更新。",
       "url": "https://ys.mihoyo.com/main/news/detail/122841",
       "status": "completed",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "official",
       "details": {
-        "官方时间": "更新时间〓 2024/03/13 06:00开始，预计5个小时完成",
-        "官方公告": "「铓锋锦间裁」4.5版本更新说明"
+        "official_time": "2024/03/13 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至4.5"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
-        "source_kind": "version_update",
+        "source_kind": "maintenance",
         "source_content_id": "122841",
         "source_title": "「铓锋锦间裁」4.5版本更新说明",
         "source_url": "https://ys.mihoyo.com/main/news/detail/122841",
         "version": "4.5"
+      },
+      "name_en": "Genshin Impact v4.5 Maintenance Update",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "details_en": {
+        "official_time": "2024/03/13 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至4.5"
       }
     },
     {
       "id": "genshin-impact-2024-123431-maintenance",
       "name": "原神 4.6 版本维护更新",
       "date": "2024-04-24",
-      "end_date": "2024-04-24",
+      "end_date": "2024-04-06",
       "time": "06:00",
       "end_time": "11:00",
       "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
+      "time_kind": "datetime",
       "type": "event",
       "year": 2024,
-      "description": "原神官方版本维护更新。",
+      "description": "原神 官方版本维护更新。",
       "url": "https://ys.mihoyo.com/main/news/detail/123431",
       "status": "completed",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "official",
       "details": {
-        "官方时间": "更新时间〓 2024/04/24 06:00开始，预计5个小时完成",
-        "官方公告": "「两界为火，赤夜将熄」4.6版本更新说明"
+        "official_time": "2024/04/24 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至4.6"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
-        "source_kind": "version_update",
+        "source_kind": "maintenance",
         "source_content_id": "123431",
         "source_title": "「两界为火，赤夜将熄」4.6版本更新说明",
         "source_url": "https://ys.mihoyo.com/main/news/detail/123431",
         "version": "4.6"
+      },
+      "name_en": "Genshin Impact v4.6 Maintenance Update",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "details_en": {
+        "official_time": "2024/04/24 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至4.6"
       }
     },
     {
       "id": "genshin-impact-2024-124002-maintenance",
       "name": "原神 4.7 版本维护更新",
       "date": "2024-06-05",
-      "end_date": "2024-06-05",
+      "end_date": "2024-04-07",
       "time": "06:00",
       "end_time": "11:00",
       "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
+      "time_kind": "datetime",
       "type": "event",
       "year": 2024,
-      "description": "原神官方版本维护更新。",
+      "description": "原神 官方版本维护更新。",
       "url": "https://ys.mihoyo.com/main/news/detail/124002",
       "status": "completed",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "official",
       "details": {
-        "官方时间": "更新时间〓 2024/06/05 06:00开始，预计5个小时完成",
-        "官方公告": "「纺坠终久之梦」4.7版本更新说明"
+        "official_time": "2024/06/05 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至4.7"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
-        "source_kind": "version_update",
+        "source_kind": "maintenance",
         "source_content_id": "124002",
         "source_title": "「纺坠终久之梦」4.7版本更新说明",
         "source_url": "https://ys.mihoyo.com/main/news/detail/124002",
         "version": "4.7"
+      },
+      "name_en": "Genshin Impact v4.7 Maintenance Update",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "details_en": {
+        "official_time": "2024/06/05 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至4.7"
       }
     },
     {
       "id": "genshin-impact-2024-124858-maintenance",
       "name": "原神 4.8 版本维护更新",
       "date": "2024-07-17",
-      "end_date": "2024-07-17",
+      "end_date": "2024-04-08",
       "time": "06:00",
       "end_time": "11:00",
       "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
+      "time_kind": "datetime",
       "type": "event",
       "year": 2024,
-      "description": "原神官方版本维护更新。",
+      "description": "原神 官方版本维护更新。",
       "url": "https://ys.mihoyo.com/main/news/detail/124858",
       "status": "completed",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "official",
       "details": {
-        "官方时间": "更新时间〓 2024/07/17 06:00开始，预计5个小时完成",
-        "官方公告": "「欢夏！邪龙？童话国！」4.8版本更新说明"
+        "official_time": "2024/07/17 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至4.8"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
-        "source_kind": "version_update",
+        "source_kind": "maintenance",
         "source_content_id": "124858",
         "source_title": "「欢夏！邪龙？童话国！」4.8版本更新说明",
         "source_url": "https://ys.mihoyo.com/main/news/detail/124858",
         "version": "4.8"
+      },
+      "name_en": "Genshin Impact v4.8 Maintenance Update",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "details_en": {
+        "official_time": "2024/07/17 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至4.8"
       }
     },
     {
       "id": "genshin-impact-2024-125568-maintenance",
       "name": "原神 5.0 版本维护更新",
       "date": "2024-08-28",
-      "end_date": "2024-08-28",
+      "end_date": "2024-05-00",
       "time": "06:00",
       "end_time": "11:00",
       "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
+      "time_kind": "datetime",
       "type": "event",
       "year": 2024,
-      "description": "原神官方版本维护更新。",
+      "description": "原神 官方版本维护更新。",
       "url": "https://ys.mihoyo.com/main/news/detail/125568",
       "status": "completed",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "official",
       "details": {
-        "官方时间": "更新时间〓 2024/08/28 06:00开始，预计5个小时完成",
-        "官方公告": "「荣花与炎日之途」5.0版本更新说明"
+        "official_time": "2024/08/28 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.0"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
-        "source_kind": "version_update",
+        "source_kind": "maintenance",
         "source_content_id": "125568",
         "source_title": "「荣花与炎日之途」5.0版本更新说明",
         "source_url": "https://ys.mihoyo.com/main/news/detail/125568",
         "version": "5.0"
+      },
+      "name_en": "Genshin Impact v5.0 Maintenance Update",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "details_en": {
+        "official_time": "2024/08/28 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.0"
       }
     },
     {
       "id": "genshin-impact-2024-126319-maintenance",
       "name": "原神 5.1 版本维护更新",
       "date": "2024-10-09",
-      "end_date": "2024-10-09",
+      "end_date": "2024-05-01",
       "time": "06:00",
       "end_time": "11:00",
       "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
+      "time_kind": "datetime",
       "type": "event",
       "year": 2024,
-      "description": "原神官方版本维护更新。",
+      "description": "原神 官方版本维护更新。",
       "url": "https://ys.mihoyo.com/main/news/detail/126319",
       "status": "completed",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "official",
       "details": {
-        "官方时间": "更新时间〓 2024/10/09 06:00开始，预计5个小时完成",
-        "官方公告": "「命定将焚的虹光」5.1版本更新说明"
+        "official_time": "2024/10/09 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.1"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
-        "source_kind": "version_update",
+        "source_kind": "maintenance",
         "source_content_id": "126319",
         "source_title": "「命定将焚的虹光」5.1版本更新说明",
         "source_url": "https://ys.mihoyo.com/main/news/detail/126319",
         "version": "5.1"
+      },
+      "name_en": "Genshin Impact v5.1 Maintenance Update",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "details_en": {
+        "official_time": "2024/10/09 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.1"
       }
     },
     {
       "id": "genshin-impact-2024-127036-maintenance",
       "name": "原神 5.2 版本维护更新",
       "date": "2024-11-20",
-      "end_date": "2024-11-20",
+      "end_date": "2024-05-02",
       "time": "06:00",
       "end_time": "11:00",
       "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
+      "time_kind": "datetime",
       "type": "event",
       "year": 2024,
-      "description": "原神官方版本维护更新。",
+      "description": "原神 官方版本维护更新。",
       "url": "https://ys.mihoyo.com/main/news/detail/127036",
       "status": "completed",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "official",
       "details": {
-        "官方时间": "更新时间〓 2024/11/20 06:00开始，预计5个小时完成",
-        "官方公告": "「灵与火的织卷」5.2版本更新说明"
+        "official_time": "2024/11/20 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.2"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
-        "source_kind": "version_update",
+        "source_kind": "maintenance",
         "source_content_id": "127036",
         "source_title": "「灵与火的织卷」5.2版本更新说明",
         "source_url": "https://ys.mihoyo.com/main/news/detail/127036",
         "version": "5.2"
+      },
+      "name_en": "Genshin Impact v5.2 Maintenance Update",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "details_en": {
+        "official_time": "2024/11/20 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.2"
+      }
+    },
+    {
+      "id": "genshin-impact-2025-127697-maintenance",
+      "name": "原神 5.3 版本维护更新",
+      "name_en": "Genshin Impact v5.3 Maintenance Update",
+      "date": "2025-01-01",
+      "end_date": "2025-05-03",
+      "time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "description": "原神 官方版本维护更新。",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "url": "https://ys.mihoyo.com/main/news/detail/127697",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2025/01/01 06:00 前冒险等阶达到5级及以上的旅行者。 领取时间截至5.3"
+      },
+      "details_en": {
+        "official_time": "2025/01/01 06:00 前冒险等阶达到5级及以上的旅行者。 领取时间截至5.3"
+      },
+      "game": {
+        "game_id": "genshin-impact",
+        "provider": "hoyoverse",
+        "source_kind": "maintenance",
+        "source_content_id": "127697",
+        "source_title": "5.3版本更新维护预告",
+        "source_url": "https://ys.mihoyo.com/main/news/detail/127697",
+        "version": "5.3"
       }
     },
     {
       "id": "genshin-impact-2025-127804-maintenance",
       "name": "原神 5.3 版本维护更新",
       "date": "2025-01-01",
-      "end_date": "2025-01-01",
+      "end_date": "2025-05-03",
       "time": "06:00",
       "end_time": "11:00",
       "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
+      "time_kind": "datetime",
       "type": "event",
       "year": 2025,
-      "description": "原神官方版本维护更新。",
+      "description": "原神 官方版本维护更新。",
       "url": "https://ys.mihoyo.com/main/news/detail/127804",
       "status": "completed",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "official",
       "details": {
-        "官方时间": "更新时间〓 2025/01/01 06:00开始，预计5个小时完成",
-        "官方公告": "「炽烈的还魂诗」5.3版本更新说明"
+        "official_time": "2025/01/01 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.3"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
-        "source_kind": "version_update",
+        "source_kind": "maintenance",
         "source_content_id": "127804",
         "source_title": "「炽烈的还魂诗」5.3版本更新说明",
         "source_url": "https://ys.mihoyo.com/main/news/detail/127804",
         "version": "5.3"
+      },
+      "name_en": "Genshin Impact v5.3 Maintenance Update",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "details_en": {
+        "official_time": "2025/01/01 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.3"
+      }
+    },
+    {
+      "id": "genshin-impact-2025-129832-maintenance",
+      "name": "原神 5.4 版本维护更新",
+      "name_en": "Genshin Impact v5.4 Maintenance Update",
+      "date": "2025-02-12",
+      "end_date": "2025-05-04",
+      "time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "description": "原神 官方版本维护更新。",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "url": "https://ys.mihoyo.com/main/news/detail/129832",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2025/02/12 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.4"
+      },
+      "details_en": {
+        "official_time": "2025/02/12 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.4"
+      },
+      "game": {
+        "game_id": "genshin-impact",
+        "provider": "hoyoverse",
+        "source_kind": "maintenance",
+        "source_content_id": "129832",
+        "source_title": "5.4版本更新维护预告",
+        "source_url": "https://ys.mihoyo.com/main/news/detail/129832",
+        "version": "5.4"
       }
     },
     {
       "id": "genshin-impact-2025-154315-maintenance",
       "name": "原神 5.4 版本维护更新",
       "date": "2025-02-12",
-      "end_date": "2025-02-12",
+      "end_date": "2025-05-04",
       "time": "06:00",
       "end_time": "11:00",
       "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
+      "time_kind": "datetime",
       "type": "event",
       "year": 2025,
-      "description": "原神官方版本维护更新。",
+      "description": "原神 官方版本维护更新。",
       "url": "https://ys.mihoyo.com/main/news/detail/154315",
       "status": "completed",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "official",
       "details": {
-        "官方时间": "更新时间〓 2025/02/12 06:00开始，预计5个小时完成",
-        "官方公告": "「梦间见月明」5.4版本更新说明"
+        "official_time": "2025/02/12 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.4"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
-        "source_kind": "version_update",
+        "source_kind": "maintenance",
         "source_content_id": "154315",
         "source_title": "「梦间见月明」5.4版本更新说明",
         "source_url": "https://ys.mihoyo.com/main/news/detail/154315",
         "version": "5.4"
+      },
+      "name_en": "Genshin Impact v5.4 Maintenance Update",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "details_en": {
+        "official_time": "2025/02/12 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.4"
+      }
+    },
+    {
+      "id": "genshin-impact-2025-155128-maintenance",
+      "name": "原神 5.5 版本维护更新",
+      "name_en": "Genshin Impact v5.5 Maintenance Update",
+      "date": "2025-03-26",
+      "end_date": "2025-05-05",
+      "time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "description": "原神 官方版本维护更新。",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "url": "https://ys.mihoyo.com/main/news/detail/155128",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2025/03/26 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.5"
+      },
+      "details_en": {
+        "official_time": "2025/03/26 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.5"
+      },
+      "game": {
+        "game_id": "genshin-impact",
+        "provider": "hoyoverse",
+        "source_kind": "maintenance",
+        "source_content_id": "155128",
+        "source_title": "5.5版本更新维护预告",
+        "source_url": "https://ys.mihoyo.com/main/news/detail/155128",
+        "version": "5.5"
       }
     },
     {
       "id": "genshin-impact-2025-155188-maintenance",
       "name": "原神 5.5 版本维护更新",
       "date": "2025-03-26",
-      "end_date": "2025-03-26",
+      "end_date": "2025-05-05",
       "time": "06:00",
       "end_time": "11:00",
       "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
+      "time_kind": "datetime",
       "type": "event",
       "year": 2025,
-      "description": "原神官方版本维护更新。",
+      "description": "原神 官方版本维护更新。",
       "url": "https://ys.mihoyo.com/main/news/detail/155188",
       "status": "completed",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "official",
       "details": {
-        "官方时间": "更新时间〓 2025/03/26 06:00开始，预计5个小时完成",
-        "官方公告": "「众火溯还之日」5.5版本更新说明"
+        "official_time": "2025/03/26 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.5"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
-        "source_kind": "version_update",
+        "source_kind": "maintenance",
         "source_content_id": "155188",
         "source_title": "「众火溯还之日」5.5版本更新说明",
         "source_url": "https://ys.mihoyo.com/main/news/detail/155188",
         "version": "5.5"
+      },
+      "name_en": "Genshin Impact v5.5 Maintenance Update",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "details_en": {
+        "official_time": "2025/03/26 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.5"
+      }
+    },
+    {
+      "id": "genshin-impact-2025-155785-maintenance",
+      "name": "原神 5.6 版本维护更新",
+      "name_en": "Genshin Impact v5.6 Maintenance Update",
+      "date": "2025-05-07",
+      "end_date": "2025-05-06",
+      "time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "description": "原神 官方版本维护更新。",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "url": "https://ys.mihoyo.com/main/news/detail/155785",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2025/05/07 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.6"
+      },
+      "details_en": {
+        "official_time": "2025/05/07 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.6"
+      },
+      "game": {
+        "game_id": "genshin-impact",
+        "provider": "hoyoverse",
+        "source_kind": "maintenance",
+        "source_content_id": "155785",
+        "source_title": "5.6版本更新维护预告",
+        "source_url": "https://ys.mihoyo.com/main/news/detail/155785",
+        "version": "5.6"
       }
     },
     {
       "id": "genshin-impact-2025-155809-maintenance",
       "name": "原神 5.6 版本维护更新",
       "date": "2025-05-07",
-      "end_date": "2025-05-07",
+      "end_date": "2025-05-06",
       "time": "06:00",
       "end_time": "11:00",
       "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
+      "time_kind": "datetime",
       "type": "event",
       "year": 2025,
-      "description": "原神官方版本维护更新。",
+      "description": "原神 官方版本维护更新。",
       "url": "https://ys.mihoyo.com/main/news/detail/155809",
       "status": "completed",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "official",
       "details": {
-        "官方时间": "更新时间〓 2025/05/07 06:00开始，预计5个小时完成",
-        "官方公告": "「悖理」5.6版本更新说明"
+        "official_time": "2025/05/07 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.6"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
-        "source_kind": "version_update",
+        "source_kind": "maintenance",
         "source_content_id": "155809",
         "source_title": "「悖理」5.6版本更新说明",
         "source_url": "https://ys.mihoyo.com/main/news/detail/155809",
         "version": "5.6"
+      },
+      "name_en": "Genshin Impact v5.6 Maintenance Update",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "details_en": {
+        "official_time": "2025/05/07 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.6"
+      }
+    },
+    {
+      "id": "genshin-impact-2025-157024-maintenance",
+      "name": "原神 5.7 版本维护更新",
+      "name_en": "Genshin Impact v5.7 Maintenance Update",
+      "date": "2025-06-18",
+      "end_date": "2025-05-07",
+      "time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "description": "原神 官方版本维护更新。",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "url": "https://ys.mihoyo.com/main/news/detail/157024",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2025/06/18 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.7"
+      },
+      "details_en": {
+        "official_time": "2025/06/18 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.7"
+      },
+      "game": {
+        "game_id": "genshin-impact",
+        "provider": "hoyoverse",
+        "source_kind": "maintenance",
+        "source_content_id": "157024",
+        "source_title": "5.7版本更新维护预告",
+        "source_url": "https://ys.mihoyo.com/main/news/detail/157024",
+        "version": "5.7"
       }
     },
     {
       "id": "genshin-impact-2025-157083-maintenance",
       "name": "原神 5.7 版本维护更新",
       "date": "2025-06-18",
-      "end_date": "2025-06-18",
+      "end_date": "2025-05-07",
       "time": "06:00",
       "end_time": "11:00",
       "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
+      "time_kind": "datetime",
       "type": "event",
       "year": 2025,
-      "description": "原神官方版本维护更新。",
+      "description": "原神 官方版本维护更新。",
       "url": "https://ys.mihoyo.com/main/news/detail/157083",
       "status": "completed",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "official",
       "details": {
-        "官方时间": "更新时间〓 2025/06/18 06:00开始，预计5个小时完成",
-        "官方公告": "「你存在的时空」5.7版本更新说明"
+        "official_time": "2025/06/18 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.7"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
-        "source_kind": "version_update",
+        "source_kind": "maintenance",
         "source_content_id": "157083",
         "source_title": "「你存在的时空」5.7版本更新说明",
         "source_url": "https://ys.mihoyo.com/main/news/detail/157083",
         "version": "5.7"
+      },
+      "name_en": "Genshin Impact v5.7 Maintenance Update",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "details_en": {
+        "official_time": "2025/06/18 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.7"
+      }
+    },
+    {
+      "id": "genshin-impact-2025-158003-maintenance",
+      "name": "原神 5.8 版本维护更新",
+      "name_en": "Genshin Impact v5.8 Maintenance Update",
+      "date": "2025-07-30",
+      "end_date": "2025-05-08",
+      "time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "description": "原神 官方版本维护更新。",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "url": "https://ys.mihoyo.com/main/news/detail/158003",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2025/07/30 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.8"
+      },
+      "details_en": {
+        "official_time": "2025/07/30 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.8"
+      },
+      "game": {
+        "game_id": "genshin-impact",
+        "provider": "hoyoverse",
+        "source_kind": "maintenance",
+        "source_content_id": "158003",
+        "source_title": "5.8版本更新维护预告",
+        "source_url": "https://ys.mihoyo.com/main/news/detail/158003",
+        "version": "5.8"
       }
     },
     {
       "id": "genshin-impact-2025-158033-maintenance",
       "name": "原神 5.8 版本维护更新",
       "date": "2025-07-30",
-      "end_date": "2025-07-30",
+      "end_date": "2025-05-08",
       "time": "06:00",
       "end_time": "11:00",
       "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
+      "time_kind": "datetime",
       "type": "event",
       "year": 2025,
-      "description": "原神官方版本维护更新。",
+      "description": "原神 官方版本维护更新。",
       "url": "https://ys.mihoyo.com/main/news/detail/158033",
       "status": "completed",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "official",
       "details": {
-        "官方时间": "更新时间〓 2025/07/30 06:00开始，预计5个小时完成",
-        "官方公告": "「绘夏！烈日？度假村！」5.8版本更新说明"
+        "official_time": "2025/07/30 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.8"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
-        "source_kind": "version_update",
+        "source_kind": "maintenance",
         "source_content_id": "158033",
         "source_title": "「绘夏！烈日？度假村！」5.8版本更新说明",
         "source_url": "https://ys.mihoyo.com/main/news/detail/158033",
         "version": "5.8"
+      },
+      "name_en": "Genshin Impact v5.8 Maintenance Update",
+      "description_en": "Genshin Impact Official Maintenance Update.",
+      "details_en": {
+        "official_time": "2025/07/30 06:00前冒险等阶达到5级及以上的旅行者。 领取时间截至5.8"
       }
     },
     {
@@ -1123,17 +1529,23 @@
       "description": "原神 下一版本 版本前瞻直播预测窗口，需以官方公告为准。",
       "url": "https://ys.mihoyo.com/main/news",
       "status": "planned",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "community",
       "details": {
-        "数据性质": "预测窗口",
-        "依据": "约 42 天一个版本"
+        "data_nature": "预测窗口",
+        "basis": "约 42 天一个版本"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
         "source_kind": "forecast",
         "version": "下一版本"
+      },
+      "name_en": "Genshin Impact Next Version Preview Livestream Window",
+      "description_en": "Genshin Impact Next Version Preview Livestream prediction window. Subject to official announcement.",
+      "details_en": {
+        "data_nature": "Forecast Window",
+        "basis": "Approximately 42 days per version"
       }
     },
     {
@@ -1146,17 +1558,23 @@
       "description": "原神 下一版本 版本维护更新预测窗口，需以官方公告为准。",
       "url": "https://ys.mihoyo.com/main/news",
       "status": "planned",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "community",
       "details": {
-        "数据性质": "预测窗口",
-        "依据": "约 42 天一个版本"
+        "data_nature": "预测窗口",
+        "basis": "约 42 天一个版本"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
         "source_kind": "forecast",
         "version": "下一版本"
+      },
+      "name_en": "Genshin Impact Next Version Maintenance Update Window",
+      "description_en": "Genshin Impact Next Version Maintenance Update prediction window. Subject to official announcement.",
+      "details_en": {
+        "data_nature": "Forecast Window",
+        "basis": "Approximately 42 days per version"
       }
     },
     {
@@ -1169,11 +1587,11 @@
       "description": "原神 下一版本 下半卡池预测窗口，需以官方公告为准。",
       "url": "https://ys.mihoyo.com/main/news",
       "status": "planned",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "community",
       "details": {
-        "数据性质": "预测窗口",
-        "依据": "约 42 天一个版本，下半约第 21 天开启"
+        "data_nature": "预测窗口",
+        "basis": "约 42 天一个版本，下半约第 21 天开启"
       },
       "game": {
         "game_id": "genshin-impact",
@@ -1181,6 +1599,12 @@
         "source_kind": "forecast",
         "version": "下一版本",
         "phase": "phase2"
+      },
+      "name_en": "Genshin Impact Next Version Phase 2 Banner Window",
+      "description_en": "Genshin Impact Next Version Phase 2 Banner prediction window. Subject to official announcement.",
+      "details_en": {
+        "data_nature": "Forecast Window",
+        "basis": "Approximately 42 days per version, Phase 2 opens around day 21"
       }
     },
     {
@@ -1193,17 +1617,23 @@
       "description": "原神 后续版本二 版本前瞻直播预测窗口，需以官方公告为准。",
       "url": "https://ys.mihoyo.com/main/news",
       "status": "planned",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "community",
       "details": {
-        "数据性质": "预测窗口",
-        "依据": "约 42 天一个版本"
+        "data_nature": "预测窗口",
+        "basis": "约 42 天一个版本"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
         "source_kind": "forecast",
         "version": "后续版本二"
+      },
+      "name_en": "Genshin Impact Future Version 2 Preview Livestream Window",
+      "description_en": "Genshin Impact Future Version 2 Preview Livestream prediction window. Subject to official announcement.",
+      "details_en": {
+        "data_nature": "Forecast Window",
+        "basis": "Approximately 42 days per version"
       }
     },
     {
@@ -1216,17 +1646,23 @@
       "description": "原神 后续版本二 版本维护更新预测窗口，需以官方公告为准。",
       "url": "https://ys.mihoyo.com/main/news",
       "status": "planned",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "community",
       "details": {
-        "数据性质": "预测窗口",
-        "依据": "约 42 天一个版本"
+        "data_nature": "预测窗口",
+        "basis": "约 42 天一个版本"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
         "source_kind": "forecast",
         "version": "后续版本二"
+      },
+      "name_en": "Genshin Impact Future Version 2 Maintenance Update Window",
+      "description_en": "Genshin Impact Future Version 2 Maintenance Update prediction window. Subject to official announcement.",
+      "details_en": {
+        "data_nature": "Forecast Window",
+        "basis": "Approximately 42 days per version"
       }
     },
     {
@@ -1239,11 +1675,11 @@
       "description": "原神 后续版本二 下半卡池预测窗口，需以官方公告为准。",
       "url": "https://ys.mihoyo.com/main/news",
       "status": "planned",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "community",
       "details": {
-        "数据性质": "预测窗口",
-        "依据": "约 42 天一个版本，下半约第 21 天开启"
+        "data_nature": "预测窗口",
+        "basis": "约 42 天一个版本，下半约第 21 天开启"
       },
       "game": {
         "game_id": "genshin-impact",
@@ -1251,6 +1687,12 @@
         "source_kind": "forecast",
         "version": "后续版本二",
         "phase": "phase2"
+      },
+      "name_en": "Genshin Impact Future Version 2 Phase 2 Banner Window",
+      "description_en": "Genshin Impact Future Version 2 Phase 2 Banner prediction window. Subject to official announcement.",
+      "details_en": {
+        "data_nature": "Forecast Window",
+        "basis": "Approximately 42 days per version, Phase 2 opens around day 21"
       }
     },
     {
@@ -1263,17 +1705,23 @@
       "description": "原神 后续版本三 版本前瞻直播预测窗口，需以官方公告为准。",
       "url": "https://ys.mihoyo.com/main/news",
       "status": "planned",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "community",
       "details": {
-        "数据性质": "预测窗口",
-        "依据": "约 42 天一个版本"
+        "data_nature": "预测窗口",
+        "basis": "约 42 天一个版本"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
         "source_kind": "forecast",
         "version": "后续版本三"
+      },
+      "name_en": "Genshin Impact Future Version 3 Preview Livestream Window",
+      "description_en": "Genshin Impact Future Version 3 Preview Livestream prediction window. Subject to official announcement.",
+      "details_en": {
+        "data_nature": "Forecast Window",
+        "basis": "Approximately 42 days per version"
       }
     },
     {
@@ -1286,17 +1734,23 @@
       "description": "原神 后续版本三 版本维护更新预测窗口，需以官方公告为准。",
       "url": "https://ys.mihoyo.com/main/news",
       "status": "planned",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "community",
       "details": {
-        "数据性质": "预测窗口",
-        "依据": "约 42 天一个版本"
+        "data_nature": "预测窗口",
+        "basis": "约 42 天一个版本"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
         "source_kind": "forecast",
         "version": "后续版本三"
+      },
+      "name_en": "Genshin Impact Future Version 3 Maintenance Update Window",
+      "description_en": "Genshin Impact Future Version 3 Maintenance Update prediction window. Subject to official announcement.",
+      "details_en": {
+        "data_nature": "Forecast Window",
+        "basis": "Approximately 42 days per version"
       }
     },
     {
@@ -1309,11 +1763,11 @@
       "description": "原神 后续版本三 下半卡池预测窗口，需以官方公告为准。",
       "url": "https://ys.mihoyo.com/main/news",
       "status": "planned",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "community",
       "details": {
-        "数据性质": "预测窗口",
-        "依据": "约 42 天一个版本，下半约第 21 天开启"
+        "data_nature": "预测窗口",
+        "basis": "约 42 天一个版本，下半约第 21 天开启"
       },
       "game": {
         "game_id": "genshin-impact",
@@ -1321,6 +1775,12 @@
         "source_kind": "forecast",
         "version": "后续版本三",
         "phase": "phase2"
+      },
+      "name_en": "Genshin Impact Future Version 3 Phase 2 Banner Window",
+      "description_en": "Genshin Impact Future Version 3 Phase 2 Banner prediction window. Subject to official announcement.",
+      "details_en": {
+        "data_nature": "Forecast Window",
+        "basis": "Approximately 42 days per version, Phase 2 opens around day 21"
       }
     },
     {
@@ -1333,17 +1793,23 @@
       "description": "原神 后续版本四 版本前瞻直播预测窗口，需以官方公告为准。",
       "url": "https://ys.mihoyo.com/main/news",
       "status": "planned",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "community",
       "details": {
-        "数据性质": "预测窗口",
-        "依据": "约 42 天一个版本"
+        "data_nature": "预测窗口",
+        "basis": "约 42 天一个版本"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
         "source_kind": "forecast",
         "version": "后续版本四"
+      },
+      "name_en": "Genshin Impact Future Version 4 Preview Livestream Window",
+      "description_en": "Genshin Impact Future Version 4 Preview Livestream prediction window. Subject to official announcement.",
+      "details_en": {
+        "data_nature": "Forecast Window",
+        "basis": "Approximately 42 days per version"
       }
     },
     {
@@ -1356,17 +1822,23 @@
       "description": "原神 后续版本四 版本维护更新预测窗口，需以官方公告为准。",
       "url": "https://ys.mihoyo.com/main/news",
       "status": "planned",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "community",
       "details": {
-        "数据性质": "预测窗口",
-        "依据": "约 42 天一个版本"
+        "data_nature": "预测窗口",
+        "basis": "约 42 天一个版本"
       },
       "game": {
         "game_id": "genshin-impact",
         "provider": "hoyoverse",
         "source_kind": "forecast",
         "version": "后续版本四"
+      },
+      "name_en": "Genshin Impact Future Version 4 Maintenance Update Window",
+      "description_en": "Genshin Impact Future Version 4 Maintenance Update prediction window. Subject to official announcement.",
+      "details_en": {
+        "data_nature": "Forecast Window",
+        "basis": "Approximately 42 days per version"
       }
     },
     {
@@ -1379,11 +1851,11 @@
       "description": "原神 后续版本四 下半卡池预测窗口，需以官方公告为准。",
       "url": "https://ys.mihoyo.com/main/news",
       "status": "planned",
-      "last_verified": "2026-06-12",
+      "last_verified": "2026-06-13",
       "verified_by": "community",
       "details": {
-        "数据性质": "预测窗口",
-        "依据": "约 42 天一个版本，下半约第 21 天开启"
+        "data_nature": "预测窗口",
+        "basis": "约 42 天一个版本，下半约第 21 天开启"
       },
       "game": {
         "game_id": "genshin-impact",
@@ -1391,9 +1863,15 @@
         "source_kind": "forecast",
         "version": "后续版本四",
         "phase": "phase2"
+      },
+      "name_en": "Genshin Impact Future Version 4 Phase 2 Banner Window",
+      "description_en": "Genshin Impact Future Version 4 Phase 2 Banner prediction window. Subject to official announcement.",
+      "details_en": {
+        "data_nature": "Forecast Window",
+        "basis": "Approximately 42 days per version, Phase 2 opens around day 21"
       }
     }
   ],
-  "last_updated": "2026-06-12",
+  "last_updated": "2026-06-13",
   "subcategory_en": "Game Updates"
 }

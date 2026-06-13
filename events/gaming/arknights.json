@@ -1,0 +1,694 @@
+{
+  "id": "arknights",
+  "name": "明日方舟版本日历",
+  "category": "gaming",
+  "name_en": "Arknights Version Calendar",
+  "subcategory": "游戏更新",
+  "description": "明日方舟寻访、版本更新和活动截止提醒。数据来自 PRTS Wiki 社区整理。",
+  "description_en": "Arknights headhunting banners, version updates, and event deadlines. Data sourced from PRTS Wiki community.",
+  "icon": "🏥",
+  "tags": [
+    "明日方舟",
+    "Arknights",
+    "寻访",
+    "限定",
+    "鹰角网络"
+  ],
+  "tags_en": [
+    "Arknights",
+    "Headhunting",
+    "Limited",
+    "Hypergryph"
+  ],
+  "maintainer": "community",
+  "source_url": "https://ak.hypergryph.com/news",
+  "subscriber_count": 0,
+  "rating": 0,
+  "rating_count": 0,
+  "events": [
+    {
+      "id": "arknights-2025-证实完成指引复刻-banner",
+      "name": "明日方舟 证实，完成，指引·复刻 寻访",
+      "name_en": "Arknights 证实，完成，指引·复刻 Headhunting",
+      "date": "2025-12-19",
+      "end_date": "2026-01-02",
+      "time": "16:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2025,
+      "description": "明日方舟寻访「证实，完成，指引·复刻」。",
+      "description_en": "Arknights Headhunting Banner「证实，完成，指引·复刻」.",
+      "url": "https://prts.wiki/w/%E8%AF%81%E5%AE%9E%EF%BC%8C%E5%AE%8C%E6%88%90%EF%BC%8C%E6%8C%87%E5%BC%95%C2%B7%E5%A4%8D%E5%88%BB",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "game": {
+        "game_id": "arknights",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "version": "证实，完成，指引·复刻"
+      },
+      "banners": [
+        {
+          "name": "证实，完成，指引·复刻",
+          "type": "character",
+          "featured_5": [
+            {
+              "name": "引星棘刺",
+              "rarity": 6
+            },
+            {
+              "name": "杏仁",
+              "rarity": 6
+            },
+            {
+              "name": "特克诺",
+              "rarity": 6
+            }
+          ],
+          "featured_4": []
+        }
+      ]
+    },
+    {
+      "id": "arknights-2025-跨年欢庆中坚-banner",
+      "name": "明日方舟 跨年欢庆·中坚 寻访",
+      "name_en": "Arknights 跨年欢庆·中坚 Headhunting",
+      "date": "2025-12-25",
+      "end_date": "2026-01-08",
+      "time": "04:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2025,
+      "description": "明日方舟寻访「跨年欢庆·中坚」。",
+      "description_en": "Arknights Headhunting Banner「跨年欢庆·中坚」.",
+      "url": "https://prts.wiki/w/%E8%B7%A8%E5%B9%B4%E6%AC%A2%E5%BA%86%C2%B7%E4%B8%AD%E5%9D%9A",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "game": {
+        "game_id": "arknights",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "version": "跨年欢庆·中坚"
+      },
+      "banners": [
+        {
+          "name": "跨年欢庆·中坚",
+          "type": "character",
+          "featured_5": [],
+          "featured_4": []
+        }
+      ]
+    },
+    {
+      "id": "arknights-2026-跨年欢庆希冀-banner",
+      "name": "明日方舟 跨年欢庆·希冀 寻访",
+      "name_en": "Arknights 跨年欢庆·希冀 Headhunting",
+      "date": "2026-01-01",
+      "end_date": "2026-01-15",
+      "time": "00:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "明日方舟寻访「跨年欢庆·希冀」。",
+      "description_en": "Arknights Headhunting Banner「跨年欢庆·希冀」.",
+      "url": "https://prts.wiki/w/%E8%B7%A8%E5%B9%B4%E6%AC%A2%E5%BA%86%C2%B7%E5%B8%8C%E5%86%80",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "game": {
+        "game_id": "arknights",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "version": "跨年欢庆·希冀"
+      },
+      "banners": [
+        {
+          "name": "跨年欢庆·希冀",
+          "type": "character",
+          "featured_5": [],
+          "featured_4": []
+        }
+      ]
+    },
+    {
+      "id": "arknights-2026-在凝固的时光中探寻-banner",
+      "name": "明日方舟 在凝固的时光中探寻 寻访",
+      "name_en": "Arknights 在凝固的时光中探寻 Headhunting",
+      "date": "2026-01-09",
+      "end_date": "2026-01-23",
+      "time": "07:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "明日方舟寻访「在凝固的时光中探寻」。",
+      "description_en": "Arknights Headhunting Banner「在凝固的时光中探寻」.",
+      "url": "https://prts.wiki/w/%E5%9C%A8%E5%87%9D%E5%9B%BA%E7%9A%84%E6%97%B6%E5%85%89%E4%B8%AD%E6%8E%A2%E5%AF%BB",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "game": {
+        "game_id": "arknights",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "version": "在凝固的时光中探寻"
+      },
+      "banners": [
+        {
+          "name": "在凝固的时光中探寻",
+          "type": "character",
+          "featured_5": [
+            {
+              "name": "缇缇",
+              "rarity": 6
+            },
+            {
+              "name": "撷英调香师",
+              "rarity": 6
+            },
+            {
+              "name": "海霓",
+              "rarity": 6
+            }
+          ],
+          "featured_4": []
+        }
+      ]
+    },
+    {
+      "id": "arknights-2026-限定寻访春节劫尽古今-banner",
+      "name": "明日方舟 【限定寻访·春节】劫尽古今 寻访",
+      "name_en": "Arknights 【限定寻访·春节】劫尽古今 Headhunting",
+      "date": "2026-02-10",
+      "end_date": "2026-02-24",
+      "time": "12:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "明日方舟限定寻访「【限定寻访·春节】劫尽古今」。",
+      "description_en": "Arknights Limited Headhunting Banner「【限定寻访·春节】劫尽古今」.",
+      "url": "https://prts.wiki/w/%E3%80%90%E9%99%90%E5%AE%9A%E5%AF%BB%E8%AE%BF%C2%B7%E6%98%A5%E8%8A%82%E3%80%91%E5%8A%AB%E5%B0%BD%E5%8F%A4%E4%BB%8A",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "game": {
+        "game_id": "arknights",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "version": "【限定寻访·春节】劫尽古今"
+      },
+      "banners": [
+        {
+          "name": "【限定寻访·春节】劫尽古今",
+          "type": "collaboration",
+          "featured_5": [
+            {
+              "name": "望",
+              "rarity": 6
+            },
+            {
+              "name": "赤刃明霄陈",
+              "rarity": 6
+            },
+            {
+              "name": "风絮",
+              "rarity": 6
+            }
+          ],
+          "featured_4": []
+        }
+      ]
+    },
+    {
+      "id": "arknights-2026-可甄选6干员-banner",
+      "name": "明日方舟 ! 可甄选6★干员 寻访",
+      "name_en": "Arknights ! 可甄选6★干员 Headhunting",
+      "date": "2026-02-19",
+      "end_date": "2026-03-05",
+      "time": "04:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "明日方舟寻访「! 可甄选6★干员」。",
+      "description_en": "Arknights Headhunting Banner「! 可甄选6★干员」.",
+      "url": "https://prts.wiki/w/!%20%E5%8F%AF%E7%94%84%E9%80%896%E2%98%85%E5%B9%B2%E5%91%98",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "game": {
+        "game_id": "arknights",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "version": "! 可甄选6★干员"
+      },
+      "banners": [
+        {
+          "name": "! 可甄选6★干员",
+          "type": "character",
+          "featured_5": [],
+          "featured_4": []
+        }
+      ]
+    },
+    {
+      "id": "arknights-2026-定向甄选06-banner",
+      "name": "明日方舟 定向甄选06 寻访",
+      "name_en": "Arknights 定向甄选06 Headhunting",
+      "date": "2026-02-24",
+      "end_date": "2026-03-10",
+      "time": "16:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "明日方舟寻访「定向甄选06」。",
+      "description_en": "Arknights Headhunting Banner「定向甄选06」.",
+      "url": "https://prts.wiki/w/%E5%AE%9A%E5%90%91%E7%94%84%E9%80%8906",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "game": {
+        "game_id": "arknights",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "version": "定向甄选06"
+      },
+      "banners": [
+        {
+          "name": "定向甄选06",
+          "type": "character",
+          "featured_5": [],
+          "featured_4": []
+        }
+      ]
+    },
+    {
+      "id": "arknights-2026-以我的方式-banner",
+      "name": "明日方舟 以我的方式 寻访",
+      "name_en": "Arknights 以我的方式 Headhunting",
+      "date": "2026-03-10",
+      "end_date": "2026-03-24",
+      "time": "07:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "明日方舟寻访「以我的方式」。",
+      "description_en": "Arknights Headhunting Banner「以我的方式」.",
+      "url": "https://prts.wiki/w/%E4%BB%A5%E6%88%91%E7%9A%84%E6%96%B9%E5%BC%8F",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "game": {
+        "game_id": "arknights",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "version": "以我的方式"
+      },
+      "banners": [
+        {
+          "name": "以我的方式",
+          "type": "character",
+          "featured_5": [
+            {
+              "name": "贝洛内",
+              "rarity": 6
+            },
+            {
+              "name": "复奏",
+              "rarity": 6
+            },
+            {
+              "name": "洋灰",
+              "rarity": 6
+            }
+          ],
+          "featured_4": []
+        }
+      ]
+    },
+    {
+      "id": "arknights-2026-联合行动21-banner",
+      "name": "明日方舟 联合行动21 寻访",
+      "name_en": "Arknights 联合行动21 Headhunting",
+      "date": "2026-03-14",
+      "end_date": "2026-03-28",
+      "time": "16:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "明日方舟寻访「联合行动21」。",
+      "description_en": "Arknights Headhunting Banner「联合行动21」.",
+      "url": "https://prts.wiki/w/%E8%81%94%E5%90%88%E8%A1%8C%E5%8A%A821",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "game": {
+        "game_id": "arknights",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "version": "联合行动21"
+      },
+      "banners": [
+        {
+          "name": "联合行动21",
+          "type": "character",
+          "featured_5": [
+            {
+              "name": "真言",
+              "rarity": 6
+            },
+            {
+              "name": "忍冬",
+              "rarity": 6
+            },
+            {
+              "name": "妮芙",
+              "rarity": 6
+            },
+            {
+              "name": "乌尔比安",
+              "rarity": 6
+            },
+            {
+              "name": "响石",
+              "rarity": 6
+            },
+            {
+              "name": "子月",
+              "rarity": 6
+            },
+            {
+              "name": "和弦",
+              "rarity": 6
+            },
+            {
+              "name": "温米",
+              "rarity": 6
+            },
+            {
+              "name": "寻澜",
+              "rarity": 6
+            },
+            {
+              "name": "波卜",
+              "rarity": 6
+            }
+          ],
+          "featured_4": []
+        }
+      ]
+    },
+    {
+      "id": "arknights-2026-自火中归还复刻-banner",
+      "name": "明日方舟 自火中归还·复刻 寻访",
+      "name_en": "Arknights 自火中归还·复刻 Headhunting",
+      "date": "2026-03-27",
+      "end_date": "2026-04-10",
+      "time": "16:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "明日方舟寻访「自火中归还·复刻」。",
+      "description_en": "Arknights Headhunting Banner「自火中归还·复刻」.",
+      "url": "https://prts.wiki/w/%E8%87%AA%E7%81%AB%E4%B8%AD%E5%BD%92%E8%BF%98%C2%B7%E5%A4%8D%E5%88%BB",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "game": {
+        "game_id": "arknights",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "version": "自火中归还·复刻"
+      },
+      "banners": [
+        {
+          "name": "自火中归还·复刻",
+          "type": "character",
+          "featured_5": [
+            {
+              "name": "死芒",
+              "rarity": 6
+            },
+            {
+              "name": "火哨",
+              "rarity": 6
+            },
+            {
+              "name": "钼铅",
+              "rarity": 6
+            }
+          ],
+          "featured_4": []
+        }
+      ]
+    },
+    {
+      "id": "arknights-2026-辟路之人-banner",
+      "name": "明日方舟 辟路之人 寻访",
+      "name_en": "Arknights 辟路之人 Headhunting",
+      "date": "2026-04-07",
+      "end_date": "2026-04-21",
+      "time": "07:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "明日方舟寻访「辟路之人」。",
+      "description_en": "Arknights Headhunting Banner「辟路之人」.",
+      "url": "https://prts.wiki/w/%E8%BE%9F%E8%B7%AF%E4%B9%8B%E4%BA%BA",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "game": {
+        "game_id": "arknights",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "version": "辟路之人"
+      },
+      "banners": [
+        {
+          "name": "辟路之人",
+          "type": "character",
+          "featured_5": [
+            {
+              "name": "怒潮凛冬",
+              "rarity": 6
+            },
+            {
+              "name": "乌啾",
+              "rarity": 6
+            },
+            {
+              "name": "渡桥",
+              "rarity": 6
+            }
+          ],
+          "featured_4": []
+        }
+      ]
+    },
+    {
+      "id": "arknights-2026-限定寻访庆典承诺-banner",
+      "name": "明日方舟 【限定寻访·庆典】承诺 寻访",
+      "name_en": "Arknights 【限定寻访·庆典】承诺 Headhunting",
+      "date": "2026-05-01",
+      "end_date": "2026-05-15",
+      "time": "07:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "明日方舟限定寻访「【限定寻访·庆典】承诺」。",
+      "description_en": "Arknights Limited Headhunting Banner「【限定寻访·庆典】承诺」.",
+      "url": "https://prts.wiki/w/%E3%80%90%E9%99%90%E5%AE%9A%E5%AF%BB%E8%AE%BF%C2%B7%E5%BA%86%E5%85%B8%E3%80%91%E6%89%BF%E8%AF%BA",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "game": {
+        "game_id": "arknights",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "version": "【限定寻访·庆典】承诺"
+      },
+      "banners": [
+        {
+          "name": "【限定寻访·庆典】承诺",
+          "type": "collaboration",
+          "featured_5": [
+            {
+              "name": "凯尔希·思衡托",
+              "rarity": 6
+            },
+            {
+              "name": "可露希尔",
+              "rarity": 6
+            },
+            {
+              "name": "裂响",
+              "rarity": 6
+            }
+          ],
+          "featured_4": []
+        }
+      ]
+    },
+    {
+      "id": "arknights-2026-定向甄选07-banner",
+      "name": "明日方舟 定向甄选07 寻访",
+      "name_en": "Arknights 定向甄选07 Headhunting",
+      "date": "2026-05-15",
+      "end_date": "2026-05-29",
+      "time": "16:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "明日方舟寻访「定向甄选07」。",
+      "description_en": "Arknights Headhunting Banner「定向甄选07」.",
+      "url": "https://prts.wiki/w/%E5%AE%9A%E5%90%91%E7%94%84%E9%80%8907",
+      "status": "completed",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "game": {
+        "game_id": "arknights",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "version": "定向甄选07"
+      },
+      "banners": [
+        {
+          "name": "定向甄选07",
+          "type": "character",
+          "featured_5": [],
+          "featured_4": []
+        }
+      ]
+    },
+    {
+      "id": "arknights-2026-幽境狩人-banner",
+      "name": "明日方舟 幽境狩人 寻访",
+      "name_en": "Arknights 幽境狩人 Headhunting",
+      "date": "2026-06-01",
+      "end_date": "2026-06-15",
+      "time": "12:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "明日方舟限定寻访「幽境狩人」。",
+      "description_en": "Arknights Limited Headhunting Banner「幽境狩人」.",
+      "url": "https://prts.wiki/w/%E5%B9%BD%E5%A2%83%E7%8B%A9%E4%BA%BA",
+      "status": "active",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "game": {
+        "game_id": "arknights",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "version": "幽境狩人"
+      },
+      "banners": [
+        {
+          "name": "幽境狩人",
+          "type": "collaboration",
+          "featured_5": [
+            {
+              "name": "焰狐龙梓兰",
+              "rarity": 6
+            },
+            {
+              "name": "雷狼龙S空爆",
+              "rarity": 6
+            }
+          ],
+          "featured_4": []
+        }
+      ]
+    },
+    {
+      "id": "arknights-2026-forecast-next-banner",
+      "name": "明日方舟 下一期寻访预测窗口",
+      "name_en": "Arknights Next Headhunting Banner Forecast Window",
+      "date": "2026-06-16",
+      "end_date": "2026-06-30",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "明日方舟下一期寻访预测窗口，需以官方公告为准。",
+      "description_en": "Arknights next headhunting banner prediction window. Subject to official announcement.",
+      "url": "https://ak.hypergryph.com/news",
+      "status": "planned",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "details": {
+        "data_nature": "预测窗口",
+        "basis": "标准寻访约14-21天周期"
+      },
+      "details_en": {
+        "data_nature": "Forecast Window",
+        "basis": "Standard banner ~14-21 day cycle"
+      },
+      "game": {
+        "game_id": "arknights",
+        "provider": "community",
+        "source_kind": "forecast",
+        "version": "下一期"
+      }
+    },
+    {
+      "id": "arknights-2026-forecast-夏活限定",
+      "name": "明日方舟 夏活限定 预测窗口",
+      "name_en": "Arknights 夏活限定 Forecast Window",
+      "date": "2026-08-01",
+      "end_date": "2026-08-15",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "明日方舟夏活限定预测窗口，需以官方公告为准。",
+      "description_en": "Arknights 夏活限定 prediction window. Subject to official announcement.",
+      "url": "https://ak.hypergryph.com/news",
+      "status": "planned",
+      "last_verified": "2026-06-13",
+      "verified_by": "community",
+      "details": {
+        "data_nature": "预测窗口",
+        "basis": "限定寻访历史周期"
+      },
+      "details_en": {
+        "data_nature": "Forecast Window",
+        "basis": "Limited banner historical cycle"
+      },
+      "game": {
+        "game_id": "arknights",
+        "provider": "community",
+        "source_kind": "forecast",
+        "version": "夏活限定"
+      }
+    }
+  ],
+  "last_updated": "2026-06-13"
+}
