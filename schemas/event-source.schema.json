@@ -205,12 +205,12 @@
     },
     "gameBanner": {
       "type": "object",
-      "required": ["name", "type"],
+      "required": ["type"],
       "properties": {
         "name": { "type": "string", "description": "卡池/祈愿/跃迁名称" },
         "type": {
           "type": "string",
-          "enum": ["character", "weapon", "light_cone", "bangboo", "standard", "collaboration", "other"]
+          "enum": ["character", "weapon", "w_engine", "light_cone", "bangboo", "standard", "collaboration", "other"]
         },
         "phase": { "type": "string" },
         "featured_5": {
@@ -219,6 +219,16 @@
         },
         "featured_4": {
           "type": "array",
+          "items": { "$ref": "#/definitions/gameBannerItem" }
+        },
+        "featured_s": {
+          "type": "array",
+          "description": "绝区零等使用 S/A 稀有度体系的 S 级 UP。",
+          "items": { "$ref": "#/definitions/gameBannerItem" }
+        },
+        "featured_a": {
+          "type": "array",
+          "description": "绝区零等使用 S/A 稀有度体系的 A 级 UP。",
           "items": { "$ref": "#/definitions/gameBannerItem" }
         },
         "source_content_id": { "type": "string" },
@@ -234,9 +244,14 @@
         "title": { "type": "string", "description": "称号，如恣锐锋镞。" },
         "kind": {
           "type": "string",
-          "enum": ["character", "weapon", "light_cone", "bangboo", "other"]
+          "enum": ["character", "agent", "weapon", "w_engine", "light_cone", "bangboo", "other"]
         },
-        "rarity": { "type": "integer", "minimum": 1, "maximum": 6 },
+        "rarity": {
+          "oneOf": [
+            { "type": "integer", "minimum": 1, "maximum": 6 },
+            { "type": "string", "enum": ["S", "A", "B"] }
+          ]
+        },
         "element": { "type": "string" },
         "path": { "type": "string", "description": "命途/职业/属性分类。" },
         "weapon_type": { "type": "string" }

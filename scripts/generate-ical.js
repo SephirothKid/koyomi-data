@@ -357,6 +357,7 @@ function bannerTypeLabel(type, isEn = false) {
   const labels = {
     character: isEn ? 'Character' : '角色',
     weapon: isEn ? 'Weapon' : '武器',
+    w_engine: isEn ? 'W-Engine' : '音擎',
     light_cone: isEn ? 'Light Cone' : '光锥',
     bangboo: isEn ? 'Bangboo' : '邦布',
     standard: isEn ? 'Standard' : '常驻',
@@ -370,15 +371,22 @@ function bannerDescription(event, isEn = false) {
   const banners = event.banners ?? []
   if (banners.length === 0) return ''
 
-  const fiveLabel = isEn ? '5-star rate-up' : '5星 UP'
-  const fourLabel = isEn ? '4-star rate-up' : '4星 UP'
   return banners.map((banner, index) => {
-    const lines = [`${index + 1}. ${banner.name}（${bannerTypeLabel(banner.type, isEn)}）`]
-    if (banner.featured_5?.length) {
-      lines.push(`${fiveLabel}: ${banner.featured_5.map(bannerItemLabel).join(' / ')}`)
+    const primaryItems = banner.featured_5 ?? banner.featured_s ?? []
+    const secondaryItems = banner.featured_4 ?? banner.featured_a ?? []
+    const primaryLabel = banner.featured_s
+      ? (isEn ? 'S-rank rate-up' : 'S级 UP')
+      : (isEn ? '5-star rate-up' : '5星 UP')
+    const secondaryLabel = banner.featured_a
+      ? (isEn ? 'A-rank rate-up' : 'A级 UP')
+      : (isEn ? '4-star rate-up' : '4星 UP')
+    const bannerName = banner.name ?? bannerTypeLabel(banner.type, isEn)
+    const lines = [`${index + 1}. ${bannerName}（${bannerTypeLabel(banner.type, isEn)}）`]
+    if (primaryItems.length) {
+      lines.push(`${primaryLabel}: ${primaryItems.map(bannerItemLabel).join(' / ')}`)
     }
-    if (banner.featured_4?.length) {
-      lines.push(`${fourLabel}: ${banner.featured_4.map(bannerItemLabel).join(' / ')}`)
+    if (secondaryItems.length) {
+      lines.push(`${secondaryLabel}: ${secondaryItems.map(bannerItemLabel).join(' / ')}`)
     }
     return lines.join('\n')
   }).join('\n')
