@@ -14,13 +14,13 @@ UID:zenless-zone-zero-zenless-zone-zero-2026-162592-maintenance@koyomi.cas
 SEQUENCE:0
 DTSTAMP:20260613T000000
 DTSTART;TZID=Asia/Shanghai:20260206T060000
-DTEND;TZID=Asia/Shanghai:20260206T110000
-SUMMARY:Zenless Zone Zero Version Calendar · 绝区零 2.6 版本维护
- 更新
-DESCRIPTION:绝区零官方版本维护更新。\n\nVersion: 2.6\nType: ve
- rsion_update\nOfficial source: 2.6版本「旧梦的安可曲」更新公
- 告\n\n官方时间: 2026/02/06 06:00，预计5个小时完成\n官方公
- 告: 2.6版本「旧梦的安可曲」更新公告
+DTEND;TZID=Asia/Shanghai:20260206T070000
+SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero v2.6 Maint
+ enance Update
+DESCRIPTION:Zenless Zone Zero Official Maintenance Update.\n\nVersion: 2.6
+ \nType: maintenance\nOfficial source: 2.6版本「旧梦的安可曲」更
+ 新公告\n\nofficial_time: 2026/02/06 06:00 前绳网等级≥4级的绳
+ 匠。 ※领取时间截至2.6
 CATEGORIES:Zenless Zone Zero Version Calendar
 URL;VALUE=URI:https://zzz.mihoyo.com/news/detail/162592
 STATUS:CONFIRMED
@@ -78,23 +78,6 @@ URL;VALUE=URI:https://zzz.mihoyo.com/news/detail/162987
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:zenless-zone-zero-zenless-zone-zero-2026-163261-maintenance@koyomi.cas
- t
-SEQUENCE:0
-DTSTAMP:20260613T000000
-DTSTART;TZID=Asia/Shanghai:20260324T060000
-DTEND;TZID=Asia/Shanghai:20260324T110000
-SUMMARY:Zenless Zone Zero Version Calendar · 绝区零 2.7 版本维护
- 更新
-DESCRIPTION:绝区零官方版本维护更新。\n\nVersion: 2.7\nType: ve
- rsion_update\nOfficial source: 2.7版本「英雄不死于往昔」更新
- 公告\n\n官方时间: 2026/03/24 06:00，预计5个小时完成\n官方
- 公告: 2.7版本「英雄不死于往昔」更新公告
-CATEGORIES:Zenless Zone Zero Version Calendar
-URL;VALUE=URI:https://zzz.mihoyo.com/news/detail/163261
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:zenless-zone-zero-zenless-zone-zero-2026-163261-version@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260613T000000
@@ -109,20 +92,55 @@ URL;VALUE=URI:https://zzz.mihoyo.com/news/detail/163261
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:zenless-zone-zero-zenless-zone-zero-2026-163261-maintenance@koyomi.cas
+ t
+SEQUENCE:0
+DTSTAMP:20260613T000000
+DTSTART;TZID=Asia/Shanghai:20260325T100000
+DTEND;TZID=Asia/Shanghai:20260505T035900
+SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero v2.7 Maint
+ enance Update
+DESCRIPTION:Zenless Zone Zero Official Maintenance Update.\n\nVersion: 2.7
+ \nType: maintenance\nOfficial source: 2.7版本「英雄不死于往昔」
+ 更新公告
+CATEGORIES:Zenless Zone Zero Version Calendar
+URL;VALUE=URI:https://zzz.mihoyo.com/news/detail/163261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:zenless-zone-zero-zenless-zone-zero-2026-163519-banners@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260613T000000
 DTSTART;TZID=Asia/Shanghai:20260415T120000
 DTEND;TZID=Asia/Shanghai:20260505T145900
-SUMMARY:Zenless Zone Zero Version Calendar · 绝区零 2.7 下期调频
- ：希希芙 / 「席德」 / 鳞齿寻踪 / 机巧心种
-DESCRIPTION:绝区零官方活动调频（下期）。\n\nVersion: 2.7\nPh
- ase: phase2\nType: banner\nOfficial source: 2.7版本限时频段（下期
- ）\n\nBanners:\n1. Character（Character）\nS-rank rate-up: 希希芙 / 
- 「席德」\n2. W-Engine（W-Engine）\nS-rank rate-up: 鳞齿寻踪 / 
- 机巧心种\n\n官方时间: 2026/04/15 12:00 ~ 2026/05/05 14:59\nS级代
- 理人: 希希芙 / 「席德」\nS级音擎: 鳞齿寻踪 / 机巧心种\
- n官方公告: 2.7版本限时频段（下期）
+SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero v2.8 Phase
+  2 Signal Search: 亲爱的绳匠： 本期代理人与音擎调频活动
+ 时间为： 2026/04/15 12:00 ~ 2026/05/05 14:59，包含如下内容： 
+ 活动期间，限定S级代理人[希希芙]、[「席德」]以及A级
+ 代理人[波可娜]、[本]的调频获取概率将大幅提升！ 活动
+ 期间，限定S级音擎[鳞齿寻踪]、[机巧心种]以及A级音擎[
+ 裁纸刀]、[比格气缸]的调频获取概率将大幅提升！ ※详
+ 情可前往游戏内公告及调频界面查看。 -- 欢迎来到新艾
+ 利都！--
+DESCRIPTION:Zenless Zone Zero Official Signal Search (Phase 2)\n\nVersion:
+  2.8\nPhase: phase2\nType: banner\nOfficial source: 2.7版本限时频段
+ （下期）\n\nBanners:\n1. 代理人频段（Banner）\n5-star rate-up: 
+ 亲爱的绳匠： 本期代理人与音擎调频活动时间为： 2026/0
+ 4/15 12:00 ~ 2026/05/05 14:59，包含如下内容： 活动期间，限
+ 定S级代理人[希希芙]、[「席德」]以及A级代理人[波可娜]
+ 、[本]的调频获取概率将大幅提升！ 活动期间，限定S级
+ 音擎[鳞齿寻踪]、[机巧心种]以及A级音擎[裁纸刀]、[比格
+ 气缸]的调频获取概率将大幅提升！ ※详情可前往游戏内
+ 公告及调频界面查看。 -- 欢迎来到新艾利都！--\n\nofficia
+ l_time: 2026/04/15 12:00 ~ 2026/05/05 14:59\nAgent「代理人频段」5
+ ★: 亲爱的绳匠： 本期代理人与音擎调频活动时间为： 2
+ 026/04/15 12:00 ~ 2026/05/05 14:59，包含如下内容： 活动期间，
+ 限定S级代理人[希希芙]、[「席德」]以及A级代理人[波可
+ 娜]、[本]的调频获取概率将大幅提升！ 活动期间，限定S
+ 级音擎[鳞齿寻踪]、[机巧心种]以及A级音擎[裁纸刀]、[比
+ 格气缸]的调频获取概率将大幅提升！ ※详情可前往游戏
+ 内公告及调频界面查看。 -- 欢迎来到新艾利都！--\noffici
+ al_notice: 2.7版本限时频段（下期）
 CATEGORIES:Zenless Zone Zero Version Calendar
 URL;VALUE=URI:https://zzz.mihoyo.com/news/detail/163519
 STATUS:CONFIRMED
@@ -133,13 +151,13 @@ UID:zenless-zone-zero-zenless-zone-zero-2026-163857-maintenance@koyomi.cas
 SEQUENCE:0
 DTSTAMP:20260613T000000
 DTSTART;TZID=Asia/Shanghai:20260506T060000
-DTEND;TZID=Asia/Shanghai:20260506T110000
-SUMMARY:Zenless Zone Zero Version Calendar · 绝区零 2.8 版本维护
- 更新
-DESCRIPTION:绝区零官方版本维护更新。\n\nVersion: 2.8\nType: ve
- rsion_update\nOfficial source: 2.8版本「新·艾利都日落时」更
- 新公告\n\n官方时间: 2026/05/06 06:00，预计5个小时完成\n官
- 方公告: 2.8版本「新·艾利都日落时」更新公告
+DTEND;TZID=Asia/Shanghai:20260506T070000
+SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero v2.8 Maint
+ enance Update
+DESCRIPTION:Zenless Zone Zero Official Maintenance Update.\n\nVersion: 2.8
+ \nType: maintenance\nOfficial source: 2.8版本「新·艾利都日落时
+ 」更新公告\n\nofficial_time: 2026/05/06 06:00 前绳网等级≥4级
+ 的绳匠。 ※领取时间截至2.8
 CATEGORIES:Zenless Zone Zero Version Calendar
 URL;VALUE=URI:https://zzz.mihoyo.com/news/detail/163857
 STATUS:CONFIRMED
@@ -187,13 +205,14 @@ DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Zenless Zone Zero Version Calendar · 绝区零 下一版本 前
- 瞻直播窗口
-DESCRIPTION:绝区零 下一版本 版本前瞻直播预测窗口，需以
- 官方公告为准。\n\nVersion: 下一版本\nType: forecast\n\n数据
- 性质: 预测窗口\n依据: 约 42 天一个版本
+SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero Next Versi
+ on Preview Livestream Window
+DESCRIPTION:Zenless Zone Zero Next Version Preview Livestream prediction w
+ indow. Subject to official announcement.\n\nVersion: 下一版本\nType: f
+ orecast\n\ndata_nature: Forecast Window\nbasis: Approximately 42 days per 
+ version
 CATEGORIES:Zenless Zone Zero Version Calendar
-URL;VALUE=URI:https://zzz.mihoyo.com/zh-cn/news
+URL;VALUE=URI:https://zzz.mihoyo.com/news
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -205,13 +224,14 @@ DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260618
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Zenless Zone Zero Version Calendar · 绝区零 下一版本 版
- 本更新窗口
-DESCRIPTION:绝区零 下一版本 版本维护更新预测窗口，需以
- 官方公告为准。\n\nVersion: 下一版本\nType: forecast\n\n数据
- 性质: 预测窗口\n依据: 约 42 天一个版本
+SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero Next Versi
+ on Maintenance Update Window
+DESCRIPTION:Zenless Zone Zero Next Version Maintenance Update prediction w
+ indow. Subject to official announcement.\n\nVersion: 下一版本\nType: f
+ orecast\n\ndata_nature: Forecast Window\nbasis: Approximately 42 days per 
+ version
 CATEGORIES:Zenless Zone Zero Version Calendar
-URL;VALUE=URI:https://zzz.mihoyo.com/zh-cn/news
+URL;VALUE=URI:https://zzz.mihoyo.com/news
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -223,14 +243,14 @@ DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260709
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Zenless Zone Zero Version Calendar · 绝区零 下一版本 下
- 半卡池窗口
-DESCRIPTION:绝区零 下一版本 下半卡池预测窗口，需以官方
- 公告为准。\n\nVersion: 下一版本\nPhase: phase2\nType: forecast\n\
- n数据性质: 预测窗口\n依据: 约 42 天一个版本，下半约第
-  21 天开启
+SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero Next Versi
+ on Phase 2 Banner Window
+DESCRIPTION:Zenless Zone Zero Next Version Phase 2 Banner prediction windo
+ w. Subject to official announcement.\n\nVersion: 下一版本\nPhase: phas
+ e2\nType: forecast\n\ndata_nature: Forecast Window\nbasis: Approximately 4
+ 2 days per version\, Phase 2 opens around day 21
 CATEGORIES:Zenless Zone Zero Version Calendar
-URL;VALUE=URI:https://zzz.mihoyo.com/zh-cn/news
+URL;VALUE=URI:https://zzz.mihoyo.com/news
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -242,13 +262,14 @@ DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Zenless Zone Zero Version Calendar · 绝区零 后续版本二 
- 前瞻直播窗口
-DESCRIPTION:绝区零 后续版本二 版本前瞻直播预测窗口，需
- 以官方公告为准。\n\nVersion: 后续版本二\nType: forecast\n\n
- 数据性质: 预测窗口\n依据: 约 42 天一个版本
+SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero Future Ver
+ sion 2 Preview Livestream Window
+DESCRIPTION:Zenless Zone Zero Future Version 2 Preview Livestream predicti
+ on window. Subject to official announcement.\n\nVersion: 后续版本二\n
+ Type: forecast\n\ndata_nature: Forecast Window\nbasis: Approximately 42 da
+ ys per version
 CATEGORIES:Zenless Zone Zero Version Calendar
-URL;VALUE=URI:https://zzz.mihoyo.com/zh-cn/news
+URL;VALUE=URI:https://zzz.mihoyo.com/news
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -260,13 +281,14 @@ DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Zenless Zone Zero Version Calendar · 绝区零 后续版本二 
- 版本更新窗口
-DESCRIPTION:绝区零 后续版本二 版本维护更新预测窗口，需
- 以官方公告为准。\n\nVersion: 后续版本二\nType: forecast\n\n
- 数据性质: 预测窗口\n依据: 约 42 天一个版本
+SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero Future Ver
+ sion 2 Maintenance Update Window
+DESCRIPTION:Zenless Zone Zero Future Version 2 Maintenance Update predicti
+ on window. Subject to official announcement.\n\nVersion: 后续版本二\n
+ Type: forecast\n\ndata_nature: Forecast Window\nbasis: Approximately 42 da
+ ys per version
 CATEGORIES:Zenless Zone Zero Version Calendar
-URL;VALUE=URI:https://zzz.mihoyo.com/zh-cn/news
+URL;VALUE=URI:https://zzz.mihoyo.com/news
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -278,14 +300,14 @@ DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Zenless Zone Zero Version Calendar · 绝区零 后续版本二 
- 下半卡池窗口
-DESCRIPTION:绝区零 后续版本二 下半卡池预测窗口，需以官
- 方公告为准。\n\nVersion: 后续版本二\nPhase: phase2\nType: forec
- ast\n\n数据性质: 预测窗口\n依据: 约 42 天一个版本，下半
- 约第 21 天开启
+SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero Future Ver
+ sion 2 Phase 2 Banner Window
+DESCRIPTION:Zenless Zone Zero Future Version 2 Phase 2 Banner prediction w
+ indow. Subject to official announcement.\n\nVersion: 后续版本二\nPhas
+ e: phase2\nType: forecast\n\ndata_nature: Forecast Window\nbasis: Approxim
+ ately 42 days per version\, Phase 2 opens around day 21
 CATEGORIES:Zenless Zone Zero Version Calendar
-URL;VALUE=URI:https://zzz.mihoyo.com/zh-cn/news
+URL;VALUE=URI:https://zzz.mihoyo.com/news
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -297,13 +319,14 @@ DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Zenless Zone Zero Version Calendar · 绝区零 后续版本三 
- 前瞻直播窗口
-DESCRIPTION:绝区零 后续版本三 版本前瞻直播预测窗口，需
- 以官方公告为准。\n\nVersion: 后续版本三\nType: forecast\n\n
- 数据性质: 预测窗口\n依据: 约 42 天一个版本
+SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero Future Ver
+ sion 3 Preview Livestream Window
+DESCRIPTION:Zenless Zone Zero Future Version 3 Preview Livestream predicti
+ on window. Subject to official announcement.\n\nVersion: 后续版本三\n
+ Type: forecast\n\ndata_nature: Forecast Window\nbasis: Approximately 42 da
+ ys per version
 CATEGORIES:Zenless Zone Zero Version Calendar
-URL;VALUE=URI:https://zzz.mihoyo.com/zh-cn/news
+URL;VALUE=URI:https://zzz.mihoyo.com/news
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -315,13 +338,14 @@ DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Zenless Zone Zero Version Calendar · 绝区零 后续版本三 
- 版本更新窗口
-DESCRIPTION:绝区零 后续版本三 版本维护更新预测窗口，需
- 以官方公告为准。\n\nVersion: 后续版本三\nType: forecast\n\n
- 数据性质: 预测窗口\n依据: 约 42 天一个版本
+SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero Future Ver
+ sion 3 Maintenance Update Window
+DESCRIPTION:Zenless Zone Zero Future Version 3 Maintenance Update predicti
+ on window. Subject to official announcement.\n\nVersion: 后续版本三\n
+ Type: forecast\n\ndata_nature: Forecast Window\nbasis: Approximately 42 da
+ ys per version
 CATEGORIES:Zenless Zone Zero Version Calendar
-URL;VALUE=URI:https://zzz.mihoyo.com/zh-cn/news
+URL;VALUE=URI:https://zzz.mihoyo.com/news
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -333,14 +357,14 @@ DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Zenless Zone Zero Version Calendar · 绝区零 后续版本三 
- 下半卡池窗口
-DESCRIPTION:绝区零 后续版本三 下半卡池预测窗口，需以官
- 方公告为准。\n\nVersion: 后续版本三\nPhase: phase2\nType: forec
- ast\n\n数据性质: 预测窗口\n依据: 约 42 天一个版本，下半
- 约第 21 天开启
+SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero Future Ver
+ sion 3 Phase 2 Banner Window
+DESCRIPTION:Zenless Zone Zero Future Version 3 Phase 2 Banner prediction w
+ indow. Subject to official announcement.\n\nVersion: 后续版本三\nPhas
+ e: phase2\nType: forecast\n\ndata_nature: Forecast Window\nbasis: Approxim
+ ately 42 days per version\, Phase 2 opens around day 21
 CATEGORIES:Zenless Zone Zero Version Calendar
-URL;VALUE=URI:https://zzz.mihoyo.com/zh-cn/news
+URL;VALUE=URI:https://zzz.mihoyo.com/news
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

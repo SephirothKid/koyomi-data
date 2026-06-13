@@ -11,16 +11,17 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:honkai-star-rail-honkai-star-rail-2026-162707-maintenance@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260612T000000
-DTSTART;TZID=Asia/Shanghai:20260213T060000
-DTEND;TZID=Asia/Shanghai:20260213T110000
-SUMMARY:Honkai: Star Rail Version Calendar · 崩坏：星穹铁道 4.0 
- 版本维护更新
-DESCRIPTION:崩坏：星穹铁道官方版本维护更新。\n\nVersion: 4
- .0\nType: version_update\nOfficial source: 4.0版本「满月是神不在
- 的时间」版本更新说明\n\n官方时间: 更新时间 2026/02/13 06
- :00开始，预计5个小时完成\n官方公告: 4.0版本「满月是神
- 不在的时间」版本更新说明
+DTSTAMP:20260613T000000
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260326
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Honkai: Star Rail Version Calendar · Honkai: Star Rail v4.0 Maint
+ enance Update
+DESCRIPTION:Honkai: Star Rail Official Maintenance Update.\n\nVersion: 4.0
+ \nType: maintenance\nOfficial source: 4.0版本「满月是神不在的时
+ 间」版本更新说明\n\nofficial_time: 2026/02/13 4.0版本更新后 -
+  2026/03/25 06:00\nstart_time: 版本更新后\nend_time: 2026-03-25 06:00
 CATEGORIES:Honkai: Star Rail Version Calendar
 URL;VALUE=URI:https://sr.mihoyo.com/news/detail/162707
 STATUS:CONFIRMED
@@ -115,16 +116,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:honkai-star-rail-honkai-star-rail-2026-163276-maintenance@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260612T000000
-DTSTART;TZID=Asia/Shanghai:20260325T060000
-DTEND;TZID=Asia/Shanghai:20260325T110000
-SUMMARY:Honkai: Star Rail Version Calendar · 崩坏：星穹铁道 4.1 
- 版本维护更新
-DESCRIPTION:崩坏：星穹铁道官方版本维护更新。\n\nVersion: 4
- .1\nType: version_update\nOfficial source: 4.1版本「献给破晓的失
- 控」版本更新说明\n\n官方时间: 更新时间 2026/03/25 06:00开
- 始，预计5个小时完成\n官方公告: 4.1版本「献给破晓的失
- 控」版本更新说明
+DTSTAMP:20260613T000000
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260423
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Honkai: Star Rail Version Calendar · Honkai: Star Rail v4.1 Maint
+ enance Update
+DESCRIPTION:Honkai: Star Rail Official Maintenance Update.\n\nVersion: 4.1
+ \nType: maintenance\nOfficial source: 4.1版本「献给破晓的失控」
+ 版本更新说明\n\nofficial_time: 2026/03/25 4.1版本更新后 - 2026/
+ 04/22 06:00\nstart_time: 版本更新后\nend_time: 2026-04-22 06:00
 CATEGORIES:Honkai: Star Rail Version Calendar
 URL;VALUE=URI:https://sr.mihoyo.com/news/detail/163276
 STATUS:CONFIRMED
@@ -186,18 +188,35 @@ URL;VALUE=URI:https://sr.mihoyo.com/news/detail/163439
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:honkai-star-rail-honkai-star-rail-2026-163585-maintenance@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260613T000000
+DTSTART;TZID=Asia/Shanghai:20260422T060000
+DTEND;TZID=Asia/Shanghai:20260422T070000
+SUMMARY:Honkai: Star Rail Version Calendar · Honkai: Star Rail v4.2 Maint
+ enance Update
+DESCRIPTION:Honkai: Star Rail Official Maintenance Update.\n\nVersion: 4.2
+ \nType: maintenance\nOfficial source: 4.2版本更新维护预告\n\noffic
+ ial_time: 2026/04/22 06:00进行版本更新维护，维护完成后将更
+ 新至4.2
+CATEGORIES:Honkai: Star Rail Version Calendar
+URL;VALUE=URI:https://sr.mihoyo.com/news/detail/163585
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:honkai-star-rail-honkai-star-rail-2026-163630-maintenance@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260612T000000
-DTSTART;TZID=Asia/Shanghai:20260422T060000
-DTEND;TZID=Asia/Shanghai:20260422T110000
-SUMMARY:Honkai: Star Rail Version Calendar · 崩坏：星穹铁道 4.2 
- 版本维护更新
-DESCRIPTION:崩坏：星穹铁道官方版本维护更新。\n\nVersion: 4
- .2\nType: version_update\nOfficial source: 4.2版本「如是，众生欢
- 笑不已」版本更新说明\n\n官方时间: 更新时间 2026/04/22 06
- :00开始，预计5个小时完成\n官方公告: 4.2版本「如是，众
- 生欢笑不已」版本更新说明
+DTSTAMP:20260613T000000
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260602
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Honkai: Star Rail Version Calendar · Honkai: Star Rail v4.2 Maint
+ enance Update
+DESCRIPTION:Honkai: Star Rail Official Maintenance Update.\n\nVersion: 4.2
+ \nType: maintenance\nOfficial source: 4.2版本「如是，众生欢笑不
+ 已」版本更新说明\n\nofficial_time: 2026/04/22 4.2版本更新后 -
+  2026/06/01 06:00\nstart_time: 版本更新后\nend_time: 2026-06-01 06:00
 CATEGORIES:Honkai: Star Rail Version Calendar
 URL;VALUE=URI:https://sr.mihoyo.com/news/detail/163630
 STATUS:CONFIRMED
@@ -299,18 +318,37 @@ END:VEVENT
 BEGIN:VEVENT
 UID:honkai-star-rail-honkai-star-rail-2026-164426-maintenance@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260612T000000
-DTSTART;TZID=Asia/Shanghai:20260601T060000
-DTEND;TZID=Asia/Shanghai:20260601T110000
-SUMMARY:Honkai: Star Rail Version Calendar · 崩坏：星穹铁道 4.3 
- 版本维护更新
-DESCRIPTION:崩坏：星穹铁道官方版本维护更新。\n\nVersion: 4
- .3\nType: version_update\nOfficial source: 4.3版本「沉于生者的忘
- 川」版本更新说明\n\n官方时间: 更新时间 2026/06/01 06:00开
- 始，预计5个小时完成\n官方公告: 4.3版本「沉于生者的忘
- 川」版本更新说明
+DTSTAMP:20260613T000000
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260716
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Honkai: Star Rail Version Calendar · Honkai: Star Rail v4.3 Maint
+ enance Update
+DESCRIPTION:Honkai: Star Rail Official Maintenance Update.\n\nVersion: 4.3
+ \nType: maintenance\nOfficial source: 4.3版本「沉于生者的忘川」
+ 版本更新说明\n\nofficial_time: 2026/06/01 4.3版本更新后 - 2026/
+ 07/15 06:00\nstart_time: 版本更新后\nend_time: 2026-07-15 06:00
 CATEGORIES:Honkai: Star Rail Version Calendar
 URL;VALUE=URI:https://sr.mihoyo.com/news/detail/164426
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:honkai-star-rail-honkai-star-rail-2026-164408-maintenance@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260613T000000
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260601
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Honkai: Star Rail Version Calendar · Honkai: Star Rail v Maintena
+ nce Update
+DESCRIPTION:Honkai: Star Rail Official Maintenance Update.\n\nType: mainte
+ nance\nOfficial source: 【4.3】更新维护预告&预下载\n\nofficial_
+ time: 2026/06/01（周一） 06:00进行版本更新维护，维护完成
+ 后将更新至4.3
+CATEGORIES:Honkai: Star Rail Version Calendar
+URL;VALUE=URI:https://sr.mihoyo.com/news/detail/164408
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -393,16 +431,17 @@ BEGIN:VEVENT
 UID:honkai-star-rail-honkai-star-rail-2026-forecast-vnext-1-preview@koyomi
  .cast
 SEQUENCE:0
-DTSTAMP:20260612T000000
+DTSTAMP:20260613T000000
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Honkai: Star Rail Version Calendar · 崩坏：星穹铁道 下一
- 版本 前瞻直播窗口
-DESCRIPTION:崩坏：星穹铁道 下一版本 版本前瞻直播预测窗
- 口，需以官方公告为准。\n\nVersion: 下一版本\nType: forecast
- \n\n数据性质: 预测窗口\n依据: 约 42 天一个版本
+SUMMARY:Honkai: Star Rail Version Calendar · Honkai: Star Rail Next Versi
+ on Preview Livestream Window
+DESCRIPTION:Honkai: Star Rail Next Version Preview Livestream prediction w
+ indow. Subject to official announcement.\n\nVersion: 下一版本\nType: f
+ orecast\n\ndata_nature: Forecast Window\nbasis: Approximately 42 days per 
+ version
 CATEGORIES:Honkai: Star Rail Version Calendar
 URL;VALUE=URI:https://sr.mihoyo.com/news
 STATUS:CONFIRMED
@@ -411,16 +450,17 @@ BEGIN:VEVENT
 UID:honkai-star-rail-honkai-star-rail-2026-forecast-vnext-1-update@koyomi.
  cast
 SEQUENCE:0
-DTSTAMP:20260612T000000
+DTSTAMP:20260613T000000
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Honkai: Star Rail Version Calendar · 崩坏：星穹铁道 下一
- 版本 版本更新窗口
-DESCRIPTION:崩坏：星穹铁道 下一版本 版本维护更新预测窗
- 口，需以官方公告为准。\n\nVersion: 下一版本\nType: forecast
- \n\n数据性质: 预测窗口\n依据: 约 42 天一个版本
+SUMMARY:Honkai: Star Rail Version Calendar · Honkai: Star Rail Next Versi
+ on Maintenance Update Window
+DESCRIPTION:Honkai: Star Rail Next Version Maintenance Update prediction w
+ indow. Subject to official announcement.\n\nVersion: 下一版本\nType: f
+ orecast\n\ndata_nature: Forecast Window\nbasis: Approximately 42 days per 
+ version
 CATEGORIES:Honkai: Star Rail Version Calendar
 URL;VALUE=URI:https://sr.mihoyo.com/news
 STATUS:CONFIRMED
@@ -429,17 +469,17 @@ BEGIN:VEVENT
 UID:honkai-star-rail-honkai-star-rail-2026-forecast-vnext-1-phase2@koyomi.
  cast
 SEQUENCE:0
-DTSTAMP:20260612T000000
+DTSTAMP:20260613T000000
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Honkai: Star Rail Version Calendar · 崩坏：星穹铁道 下一
- 版本 下半卡池窗口
-DESCRIPTION:崩坏：星穹铁道 下一版本 下半卡池预测窗口，
- 需以官方公告为准。\n\nVersion: 下一版本\nPhase: phase2\nType:
-  forecast\n\n数据性质: 预测窗口\n依据: 约 42 天一个版本，
- 下半约第 21 天开启
+SUMMARY:Honkai: Star Rail Version Calendar · Honkai: Star Rail Next Versi
+ on Phase 2 Banner Window
+DESCRIPTION:Honkai: Star Rail Next Version Phase 2 Banner prediction windo
+ w. Subject to official announcement.\n\nVersion: 下一版本\nPhase: phas
+ e2\nType: forecast\n\ndata_nature: Forecast Window\nbasis: Approximately 4
+ 2 days per version\, Phase 2 opens around day 21
 CATEGORIES:Honkai: Star Rail Version Calendar
 URL;VALUE=URI:https://sr.mihoyo.com/news
 STATUS:CONFIRMED
@@ -448,16 +488,17 @@ BEGIN:VEVENT
 UID:honkai-star-rail-honkai-star-rail-2026-forecast-vnext-2-preview@koyomi
  .cast
 SEQUENCE:0
-DTSTAMP:20260612T000000
+DTSTAMP:20260613T000000
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Honkai: Star Rail Version Calendar · 崩坏：星穹铁道 后续
- 版本二 前瞻直播窗口
-DESCRIPTION:崩坏：星穹铁道 后续版本二 版本前瞻直播预测
- 窗口，需以官方公告为准。\n\nVersion: 后续版本二\nType: fo
- recast\n\n数据性质: 预测窗口\n依据: 约 42 天一个版本
+SUMMARY:Honkai: Star Rail Version Calendar · Honkai: Star Rail Future Ver
+ sion 2 Preview Livestream Window
+DESCRIPTION:Honkai: Star Rail Future Version 2 Preview Livestream predicti
+ on window. Subject to official announcement.\n\nVersion: 后续版本二\n
+ Type: forecast\n\ndata_nature: Forecast Window\nbasis: Approximately 42 da
+ ys per version
 CATEGORIES:Honkai: Star Rail Version Calendar
 URL;VALUE=URI:https://sr.mihoyo.com/news
 STATUS:CONFIRMED
@@ -466,16 +507,17 @@ BEGIN:VEVENT
 UID:honkai-star-rail-honkai-star-rail-2026-forecast-vnext-2-update@koyomi.
  cast
 SEQUENCE:0
-DTSTAMP:20260612T000000
+DTSTAMP:20260613T000000
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Honkai: Star Rail Version Calendar · 崩坏：星穹铁道 后续
- 版本二 版本更新窗口
-DESCRIPTION:崩坏：星穹铁道 后续版本二 版本维护更新预测
- 窗口，需以官方公告为准。\n\nVersion: 后续版本二\nType: fo
- recast\n\n数据性质: 预测窗口\n依据: 约 42 天一个版本
+SUMMARY:Honkai: Star Rail Version Calendar · Honkai: Star Rail Future Ver
+ sion 2 Maintenance Update Window
+DESCRIPTION:Honkai: Star Rail Future Version 2 Maintenance Update predicti
+ on window. Subject to official announcement.\n\nVersion: 后续版本二\n
+ Type: forecast\n\ndata_nature: Forecast Window\nbasis: Approximately 42 da
+ ys per version
 CATEGORIES:Honkai: Star Rail Version Calendar
 URL;VALUE=URI:https://sr.mihoyo.com/news
 STATUS:CONFIRMED
@@ -484,17 +526,17 @@ BEGIN:VEVENT
 UID:honkai-star-rail-honkai-star-rail-2026-forecast-vnext-2-phase2@koyomi.
  cast
 SEQUENCE:0
-DTSTAMP:20260612T000000
+DTSTAMP:20260613T000000
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Honkai: Star Rail Version Calendar · 崩坏：星穹铁道 后续
- 版本二 下半卡池窗口
-DESCRIPTION:崩坏：星穹铁道 后续版本二 下半卡池预测窗口
- ，需以官方公告为准。\n\nVersion: 后续版本二\nPhase: phase2\
- nType: forecast\n\n数据性质: 预测窗口\n依据: 约 42 天一个版
- 本，下半约第 21 天开启
+SUMMARY:Honkai: Star Rail Version Calendar · Honkai: Star Rail Future Ver
+ sion 2 Phase 2 Banner Window
+DESCRIPTION:Honkai: Star Rail Future Version 2 Phase 2 Banner prediction w
+ indow. Subject to official announcement.\n\nVersion: 后续版本二\nPhas
+ e: phase2\nType: forecast\n\ndata_nature: Forecast Window\nbasis: Approxim
+ ately 42 days per version\, Phase 2 opens around day 21
 CATEGORIES:Honkai: Star Rail Version Calendar
 URL;VALUE=URI:https://sr.mihoyo.com/news
 STATUS:CONFIRMED
@@ -503,16 +545,17 @@ BEGIN:VEVENT
 UID:honkai-star-rail-honkai-star-rail-2026-forecast-vnext-3-preview@koyomi
  .cast
 SEQUENCE:0
-DTSTAMP:20260612T000000
+DTSTAMP:20260613T000000
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Honkai: Star Rail Version Calendar · 崩坏：星穹铁道 后续
- 版本三 前瞻直播窗口
-DESCRIPTION:崩坏：星穹铁道 后续版本三 版本前瞻直播预测
- 窗口，需以官方公告为准。\n\nVersion: 后续版本三\nType: fo
- recast\n\n数据性质: 预测窗口\n依据: 约 42 天一个版本
+SUMMARY:Honkai: Star Rail Version Calendar · Honkai: Star Rail Future Ver
+ sion 3 Preview Livestream Window
+DESCRIPTION:Honkai: Star Rail Future Version 3 Preview Livestream predicti
+ on window. Subject to official announcement.\n\nVersion: 后续版本三\n
+ Type: forecast\n\ndata_nature: Forecast Window\nbasis: Approximately 42 da
+ ys per version
 CATEGORIES:Honkai: Star Rail Version Calendar
 URL;VALUE=URI:https://sr.mihoyo.com/news
 STATUS:CONFIRMED
@@ -521,16 +564,17 @@ BEGIN:VEVENT
 UID:honkai-star-rail-honkai-star-rail-2026-forecast-vnext-3-update@koyomi.
  cast
 SEQUENCE:0
-DTSTAMP:20260612T000000
+DTSTAMP:20260613T000000
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Honkai: Star Rail Version Calendar · 崩坏：星穹铁道 后续
- 版本三 版本更新窗口
-DESCRIPTION:崩坏：星穹铁道 后续版本三 版本维护更新预测
- 窗口，需以官方公告为准。\n\nVersion: 后续版本三\nType: fo
- recast\n\n数据性质: 预测窗口\n依据: 约 42 天一个版本
+SUMMARY:Honkai: Star Rail Version Calendar · Honkai: Star Rail Future Ver
+ sion 3 Maintenance Update Window
+DESCRIPTION:Honkai: Star Rail Future Version 3 Maintenance Update predicti
+ on window. Subject to official announcement.\n\nVersion: 后续版本三\n
+ Type: forecast\n\ndata_nature: Forecast Window\nbasis: Approximately 42 da
+ ys per version
 CATEGORIES:Honkai: Star Rail Version Calendar
 URL;VALUE=URI:https://sr.mihoyo.com/news
 STATUS:CONFIRMED
@@ -539,17 +583,17 @@ BEGIN:VEVENT
 UID:honkai-star-rail-honkai-star-rail-2026-forecast-vnext-3-phase2@koyomi.
  cast
 SEQUENCE:0
-DTSTAMP:20260612T000000
+DTSTAMP:20260613T000000
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Honkai: Star Rail Version Calendar · 崩坏：星穹铁道 后续
- 版本三 下半卡池窗口
-DESCRIPTION:崩坏：星穹铁道 后续版本三 下半卡池预测窗口
- ，需以官方公告为准。\n\nVersion: 后续版本三\nPhase: phase2\
- nType: forecast\n\n数据性质: 预测窗口\n依据: 约 42 天一个版
- 本，下半约第 21 天开启
+SUMMARY:Honkai: Star Rail Version Calendar · Honkai: Star Rail Future Ver
+ sion 3 Phase 2 Banner Window
+DESCRIPTION:Honkai: Star Rail Future Version 3 Phase 2 Banner prediction w
+ indow. Subject to official announcement.\n\nVersion: 后续版本三\nPhas
+ e: phase2\nType: forecast\n\ndata_nature: Forecast Window\nbasis: Approxim
+ ately 42 days per version\, Phase 2 opens around day 21
 CATEGORIES:Honkai: Star Rail Version Calendar
 URL;VALUE=URI:https://sr.mihoyo.com/news
 STATUS:CONFIRMED
@@ -558,16 +602,17 @@ BEGIN:VEVENT
 UID:honkai-star-rail-honkai-star-rail-2026-forecast-vnext-4-preview@koyomi
  .cast
 SEQUENCE:0
-DTSTAMP:20260612T000000
+DTSTAMP:20260613T000000
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Honkai: Star Rail Version Calendar · 崩坏：星穹铁道 后续
- 版本四 前瞻直播窗口
-DESCRIPTION:崩坏：星穹铁道 后续版本四 版本前瞻直播预测
- 窗口，需以官方公告为准。\n\nVersion: 后续版本四\nType: fo
- recast\n\n数据性质: 预测窗口\n依据: 约 42 天一个版本
+SUMMARY:Honkai: Star Rail Version Calendar · Honkai: Star Rail Future Ver
+ sion 4 Preview Livestream Window
+DESCRIPTION:Honkai: Star Rail Future Version 4 Preview Livestream predicti
+ on window. Subject to official announcement.\n\nVersion: 后续版本四\n
+ Type: forecast\n\ndata_nature: Forecast Window\nbasis: Approximately 42 da
+ ys per version
 CATEGORIES:Honkai: Star Rail Version Calendar
 URL;VALUE=URI:https://sr.mihoyo.com/news
 STATUS:CONFIRMED
@@ -576,16 +621,17 @@ BEGIN:VEVENT
 UID:honkai-star-rail-honkai-star-rail-2026-forecast-vnext-4-update@koyomi.
  cast
 SEQUENCE:0
-DTSTAMP:20260612T000000
+DTSTAMP:20260613T000000
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Honkai: Star Rail Version Calendar · 崩坏：星穹铁道 后续
- 版本四 版本更新窗口
-DESCRIPTION:崩坏：星穹铁道 后续版本四 版本维护更新预测
- 窗口，需以官方公告为准。\n\nVersion: 后续版本四\nType: fo
- recast\n\n数据性质: 预测窗口\n依据: 约 42 天一个版本
+SUMMARY:Honkai: Star Rail Version Calendar · Honkai: Star Rail Future Ver
+ sion 4 Maintenance Update Window
+DESCRIPTION:Honkai: Star Rail Future Version 4 Maintenance Update predicti
+ on window. Subject to official announcement.\n\nVersion: 后续版本四\n
+ Type: forecast\n\ndata_nature: Forecast Window\nbasis: Approximately 42 da
+ ys per version
 CATEGORIES:Honkai: Star Rail Version Calendar
 URL;VALUE=URI:https://sr.mihoyo.com/news
 STATUS:CONFIRMED
@@ -594,17 +640,17 @@ BEGIN:VEVENT
 UID:honkai-star-rail-honkai-star-rail-2026-forecast-vnext-4-phase2@koyomi.
  cast
 SEQUENCE:0
-DTSTAMP:20260612T000000
+DTSTAMP:20260613T000000
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Honkai: Star Rail Version Calendar · 崩坏：星穹铁道 后续
- 版本四 下半卡池窗口
-DESCRIPTION:崩坏：星穹铁道 后续版本四 下半卡池预测窗口
- ，需以官方公告为准。\n\nVersion: 后续版本四\nPhase: phase2\
- nType: forecast\n\n数据性质: 预测窗口\n依据: 约 42 天一个版
- 本，下半约第 21 天开启
+SUMMARY:Honkai: Star Rail Version Calendar · Honkai: Star Rail Future Ver
+ sion 4 Phase 2 Banner Window
+DESCRIPTION:Honkai: Star Rail Future Version 4 Phase 2 Banner prediction w
+ indow. Subject to official announcement.\n\nVersion: 后续版本四\nPhas
+ e: phase2\nType: forecast\n\ndata_nature: Forecast Window\nbasis: Approxim
+ ately 42 days per version\, Phase 2 opens around day 21
 CATEGORIES:Honkai: Star Rail Version Calendar
 URL;VALUE=URI:https://sr.mihoyo.com/news
 STATUS:CONFIRMED
