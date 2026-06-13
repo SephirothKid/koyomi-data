@@ -42,6 +42,8 @@ const SUBCATEGORY_MAP = {
   // gacha (gaming)
   'genshin-impact': 'gacha',
   'honkai-star-rail': 'gacha',
+  'arknights': 'gacha',
+  'fgo': 'gacha',
   // platform (gaming)
   'epic-free': 'platform',
   'steam-sales': 'platform',
