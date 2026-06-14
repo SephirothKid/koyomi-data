@@ -145,6 +145,10 @@
             },
             "additionalProperties": false
           },
+          "bracket": {
+            "$ref": "#/definitions/esportsBracketMeta",
+            "description": "PandaScore 淘汰赛 bracket 元数据（LPL/KPL 等双败赛制）"
+          },
           "games": {
             "type": "array",
             "description": "游戏列表（仅 gaming 分类事件源使用），描述本周/当期免费或促销的具体游戏",
@@ -260,6 +264,34 @@
       },
       "additionalProperties": false
     },
+    "esportsBracketMeta": {
+      "type": "object",
+      "required": ["tournament_id", "panda_match_id", "lane", "round_key", "round_order", "slot_index", "label", "label_en", "label_zh", "previous_matches"],
+      "properties": {
+        "tournament_id": { "type": "string" },
+        "panda_match_id": { "type": "string" },
+        "lane": { "type": "string", "enum": ["upper", "lower", "grand"] },
+        "round_key": { "type": "string" },
+        "round_order": { "type": "integer", "minimum": 0 },
+        "slot_index": { "type": "integer", "minimum": 0 },
+        "label": { "type": "string" },
+        "label_en": { "type": "string" },
+        "label_zh": { "type": "string" },
+        "previous_matches": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["panda_match_id", "type"],
+            "properties": {
+              "panda_match_id": { "type": "string" },
+              "type": { "type": "string", "enum": ["winner", "loser"] }
+            },
+            "additionalProperties": false
+          }
+        }
+      },
+      "additionalProperties": false
+    },
     "team": {
       "type": "object",
       "required": ["id", "code", "name"],
@@ -280,6 +312,11 @@
         "name_en": {
           "type": "string",
           "description": "球队英文名"
+        },
+        "image_url": {
+          "type": "string",
+          "format": "uri",
+          "description": "球队 logo URL（电竞等外部数据源可选）"
         }
       },
       "additionalProperties": false
