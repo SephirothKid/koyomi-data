@@ -23,7 +23,7 @@
   "subscriber_count": 0,
   "rating": 0,
   "rating_count": 0,
-  "last_updated": "2026-06-13",
+  "last_updated": "2026-06-14",
   "events": [
     {
       "id": "worldcup-2026-06-11-mexico-vs-south-africa",
@@ -36,7 +36,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 1 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "completed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -54,7 +54,7 @@
         "home_score": 2,
         "away_score": 0,
         "winner": "home",
-        "score": "2 - 0"
+        "status": "completed"
       },
       "details": {
         "分组": "Group A",
@@ -72,7 +72,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 1 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "completed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -90,7 +90,7 @@
         "home_score": 2,
         "away_score": 1,
         "winner": "home",
-        "score": "2 - 1"
+        "status": "completed"
       },
       "details": {
         "分组": "Group A",
@@ -107,8 +107,8 @@
       "year": 2026,
       "description": "2026 FIFA 世界杯 小组赛第 2 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "status": "completed",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -126,7 +126,7 @@
         "home_score": 1,
         "away_score": 1,
         "winner": "draw",
-        "score": "1 - 1"
+        "status": "completed"
       },
       "details": {
         "分组": "Group B",
@@ -143,8 +143,8 @@
       "year": 2026,
       "description": "2026 FIFA 世界杯 小组赛第 2 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "status": "completed",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -162,7 +162,7 @@
         "home_score": 4,
         "away_score": 1,
         "winner": "home",
-        "score": "4 - 1"
+        "status": "completed"
       },
       "details": {
         "分组": "Group D",
@@ -180,7 +180,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 3 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -193,6 +193,12 @@
           "code": "SUI",
           "name": "瑞士"
         }
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "completed"
       },
       "details": {
         "分组": "Group B",
@@ -210,7 +216,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 3 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -223,6 +229,12 @@
           "code": "MAR",
           "name": "摩洛哥"
         }
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "completed"
       },
       "details": {
         "分组": "Group C",
@@ -240,7 +252,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 3 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -270,7 +282,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 3 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -300,7 +312,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 4 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -330,7 +342,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 4 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -360,7 +372,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 4 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -390,7 +402,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 4 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -420,7 +432,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 5 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -450,7 +462,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 5 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -480,7 +492,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 5 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -510,7 +522,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 5 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -540,7 +552,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 6 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -570,7 +582,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 6 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -600,7 +612,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 6 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -630,7 +642,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 6 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -660,7 +672,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 7 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -690,7 +702,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 7 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -720,7 +732,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 7 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -750,7 +762,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 7 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -780,7 +792,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 8 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -810,7 +822,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 8 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -840,7 +852,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 8 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -870,7 +882,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 8 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -900,7 +912,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 9 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -930,7 +942,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 9 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -960,7 +972,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 9 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -990,7 +1002,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 9 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1020,7 +1032,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 10 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1050,7 +1062,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 10 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1080,7 +1092,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 10 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1110,7 +1122,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 10 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1140,7 +1152,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 11 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1170,7 +1182,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 11 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1200,7 +1212,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 11 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1230,7 +1242,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 11 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1260,7 +1272,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 12 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1290,7 +1302,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 12 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1320,7 +1332,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 12 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1350,7 +1362,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 12 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1380,7 +1392,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 13 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1410,7 +1422,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 13 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1440,7 +1452,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 13 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1470,7 +1482,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 13 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1500,7 +1512,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 14 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1530,7 +1542,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 14 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1560,7 +1572,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 14 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1590,7 +1602,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 14 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1620,7 +1632,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 14 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1650,7 +1662,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 14 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1680,7 +1692,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 15 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1710,7 +1722,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 15 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1740,7 +1752,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 15 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1770,7 +1782,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 15 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1800,7 +1812,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 15 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1830,7 +1842,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 15 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1860,7 +1872,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 16 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1890,7 +1902,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 16 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1920,7 +1932,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 16 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1950,7 +1962,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 16 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -1980,7 +1992,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 16 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2010,7 +2022,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 16 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2040,7 +2052,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 17 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2070,7 +2082,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 17 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2100,7 +2112,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 17 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2130,7 +2142,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 17 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2160,7 +2172,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 17 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2190,7 +2202,7 @@
       "description": "2026 FIFA 世界杯 小组赛第 17 轮（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2220,7 +2232,7 @@
       "description": "2026 FIFA 世界杯 三十二强赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2250,7 +2262,7 @@
       "description": "2026 FIFA 世界杯 三十二强赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2280,7 +2292,7 @@
       "description": "2026 FIFA 世界杯 三十二强赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2310,7 +2322,7 @@
       "description": "2026 FIFA 世界杯 三十二强赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2340,7 +2352,7 @@
       "description": "2026 FIFA 世界杯 三十二强赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2370,7 +2382,7 @@
       "description": "2026 FIFA 世界杯 三十二强赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2400,7 +2412,7 @@
       "description": "2026 FIFA 世界杯 三十二强赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2430,7 +2442,7 @@
       "description": "2026 FIFA 世界杯 三十二强赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2460,7 +2472,7 @@
       "description": "2026 FIFA 世界杯 三十二强赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2490,7 +2502,7 @@
       "description": "2026 FIFA 世界杯 三十二强赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2520,7 +2532,7 @@
       "description": "2026 FIFA 世界杯 三十二强赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2550,7 +2562,7 @@
       "description": "2026 FIFA 世界杯 三十二强赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2580,7 +2592,7 @@
       "description": "2026 FIFA 世界杯 三十二强赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2610,7 +2622,7 @@
       "description": "2026 FIFA 世界杯 三十二强赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2640,7 +2652,7 @@
       "description": "2026 FIFA 世界杯 三十二强赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2670,7 +2682,7 @@
       "description": "2026 FIFA 世界杯 三十二强赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2700,7 +2712,7 @@
       "description": "2026 FIFA 世界杯 十六强赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2730,7 +2742,7 @@
       "description": "2026 FIFA 世界杯 十六强赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2760,7 +2772,7 @@
       "description": "2026 FIFA 世界杯 十六强赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2790,7 +2802,7 @@
       "description": "2026 FIFA 世界杯 十六强赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2820,7 +2832,7 @@
       "description": "2026 FIFA 世界杯 十六强赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2850,7 +2862,7 @@
       "description": "2026 FIFA 世界杯 十六强赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2880,7 +2892,7 @@
       "description": "2026 FIFA 世界杯 十六强赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2910,7 +2922,7 @@
       "description": "2026 FIFA 世界杯 十六强赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2940,7 +2952,7 @@
       "description": "2026 FIFA 世界杯 四分之一决赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -2970,7 +2982,7 @@
       "description": "2026 FIFA 世界杯 四分之一决赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -3000,7 +3012,7 @@
       "description": "2026 FIFA 世界杯 四分之一决赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -3030,7 +3042,7 @@
       "description": "2026 FIFA 世界杯 四分之一决赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -3060,7 +3072,7 @@
       "description": "2026 FIFA 世界杯 半决赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -3090,7 +3102,7 @@
       "description": "2026 FIFA 世界杯 半决赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -3120,7 +3132,7 @@
       "description": "2026 FIFA 世界杯 三四名决赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -3150,7 +3162,7 @@
       "description": "2026 FIFA 世界杯 决赛（北京时间）",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
       "status": "confirmed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-14",
       "verified_by": "auto",
       "teams": {
         "home": {

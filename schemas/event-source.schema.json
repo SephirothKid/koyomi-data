@@ -189,7 +189,7 @@
         },
         "source_kind": {
           "type": "string",
-          "enum": ["version", "version_update", "banner", "activity", "announcement", "forecast", "other"]
+          "enum": ["version", "version_update", "maintenance", "banner", "activity", "announcement", "forecast", "other"]
         },
         "version": { "type": "string" },
         "phase": {
@@ -208,6 +208,7 @@
       "required": ["type"],
       "properties": {
         "name": { "type": "string", "description": "卡池/祈愿/跃迁名称" },
+        "name_en": { "type": "string", "description": "英文名称" },
         "type": {
           "type": "string",
           "enum": ["character", "weapon", "w_engine", "light_cone", "bangboo", "standard", "collaboration", "other"]
