@@ -54,7 +54,8 @@
         "home_score": 2,
         "away_score": 0,
         "winner": "home",
-        "status": "completed"
+        "status": "FT",
+        "score": "2 - 0"
       },
       "details": {
         "分组": "Group A",
@@ -90,7 +91,8 @@
         "home_score": 2,
         "away_score": 1,
         "winner": "home",
-        "status": "completed"
+        "status": "FT",
+        "score": "2 - 1"
       },
       "details": {
         "分组": "Group A",
@@ -126,7 +128,8 @@
         "home_score": 1,
         "away_score": 1,
         "winner": "draw",
-        "status": "completed"
+        "status": "FT",
+        "score": "1 - 1"
       },
       "details": {
         "分组": "Group B",
@@ -162,7 +165,8 @@
         "home_score": 4,
         "away_score": 1,
         "winner": "home",
-        "status": "completed"
+        "status": "FT",
+        "score": "4 - 1"
       },
       "details": {
         "分组": "Group D",
@@ -198,7 +202,8 @@
         "home_score": 1,
         "away_score": 1,
         "winner": "draw",
-        "status": "completed"
+        "status": "FT",
+        "score": "1 - 1"
       },
       "details": {
         "分组": "Group B",
@@ -234,7 +239,8 @@
         "home_score": 1,
         "away_score": 1,
         "winner": "draw",
-        "status": "completed"
+        "status": "FT",
+        "score": "1 - 1"
       },
       "details": {
         "分组": "Group C",
@@ -265,6 +271,13 @@
           "code": "SCO",
           "name": "苏格兰"
         }
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT",
+        "score": "0 - 1"
       },
       "details": {
         "分组": "Group C",
