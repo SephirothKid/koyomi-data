@@ -2618,6 +2618,18 @@
         "赛季": "Split 1 2026",
         "阶段": "Knights Rivals",
         "赛制": "BO5"
+      },
+      "bracket": {
+        "tournament_id": "20084",
+        "panda_match_id": "1352490",
+        "lane": "lower",
+        "round_key": "other",
+        "round_order": 99,
+        "slot_index": 0,
+        "label": "Round 1 match 1: TES vs WE",
+        "label_en": "Round 1 match 1: TES vs WE",
+        "label_zh": "Round 1 match 1: TES vs WE",
+        "previous_matches": []
       }
     },
     {
@@ -2664,6 +2676,18 @@
         "赛季": "Split 1 2026",
         "阶段": "Knights Rivals",
         "赛制": "BO5"
+      },
+      "bracket": {
+        "tournament_id": "20084",
+        "panda_match_id": "1352491",
+        "lane": "lower",
+        "round_key": "other",
+        "round_order": 99,
+        "slot_index": 0,
+        "label": "Round 1 match 2: IG vs NIP",
+        "label_en": "Round 1 match 2: IG vs NIP",
+        "label_zh": "Round 1 match 2: IG vs NIP",
+        "previous_matches": []
       }
     },
     {
@@ -2710,6 +2734,18 @@
         "赛季": "Split 1 2026",
         "阶段": "Knights Rivals",
         "赛制": "BO5"
+      },
+      "bracket": {
+        "tournament_id": "20084",
+        "panda_match_id": "1352493",
+        "lane": "lower",
+        "round_key": "other",
+        "round_order": 99,
+        "slot_index": 0,
+        "label": "Round 2 match 2: TT vs LNG",
+        "label_en": "Round 2 match 2: TT vs LNG",
+        "label_zh": "Round 2 match 2: TT vs LNG",
+        "previous_matches": []
       }
     },
     {
@@ -2756,6 +2792,18 @@
         "赛季": "Split 1 2026",
         "阶段": "Knights Rivals",
         "赛制": "BO5"
+      },
+      "bracket": {
+        "tournament_id": "20084",
+        "panda_match_id": "1352492",
+        "lane": "lower",
+        "round_key": "other",
+        "round_order": 99,
+        "slot_index": 0,
+        "label": "Round 2 match 1: EDG vs OMG",
+        "label_en": "Round 2 match 1: EDG vs OMG",
+        "label_zh": "Round 2 match 1: EDG vs OMG",
+        "previous_matches": []
       }
     },
     {
@@ -2802,6 +2850,27 @@
         "赛季": "Split 1 2026",
         "阶段": "Knights Rivals",
         "赛制": "BO5"
+      },
+      "bracket": {
+        "tournament_id": "20084",
+        "panda_match_id": "1352495",
+        "lane": "lower",
+        "round_key": "other",
+        "round_order": 99,
+        "slot_index": 0,
+        "label": "Round 3 match 1: IG vs OMG",
+        "label_en": "Round 3 match 1: IG vs OMG",
+        "label_zh": "Round 3 match 1: IG vs OMG",
+        "previous_matches": [
+          {
+            "panda_match_id": "1352492",
+            "type": "winner"
+          },
+          {
+            "panda_match_id": "1352491",
+            "type": "loser"
+          }
+        ]
       }
     },
     {
@@ -2848,6 +2917,27 @@
         "赛季": "Split 1 2026",
         "阶段": "Knights Rivals",
         "赛制": "BO5"
+      },
+      "bracket": {
+        "tournament_id": "20084",
+        "panda_match_id": "1352496",
+        "lane": "lower",
+        "round_key": "other",
+        "round_order": 99,
+        "slot_index": 0,
+        "label": "Round 3 match 2: WE vs LNG",
+        "label_en": "Round 3 match 2: WE vs LNG",
+        "label_zh": "Round 3 match 2: WE vs LNG",
+        "previous_matches": [
+          {
+            "panda_match_id": "1352493",
+            "type": "winner"
+          },
+          {
+            "panda_match_id": "1352490",
+            "type": "loser"
+          }
+        ]
       }
     },
     {
@@ -3268,9 +3358,9 @@
         "round_key": "r1",
         "round_order": 0,
         "slot_index": 0,
-        "label": "败者组第一轮 1",
+        "label": "败者组第1轮 1",
         "label_en": "Lower Round 1 · Match 1",
-        "label_zh": "败者组第一轮 1",
+        "label_zh": "败者组第1轮 1",
         "previous_matches": [
           {
             "panda_match_id": "1352791",
@@ -3349,9 +3439,9 @@
         "round_key": "r1",
         "round_order": 0,
         "slot_index": 1,
-        "label": "败者组第一轮 2",
+        "label": "败者组第1轮 2",
         "label_en": "Lower Round 1 · Match 2",
-        "label_zh": "败者组第一轮 2",
+        "label_zh": "败者组第1轮 2",
         "previous_matches": [
           {
             "panda_match_id": "1352793",
@@ -7662,9 +7752,9 @@
         "round_key": "r1",
         "round_order": 0,
         "slot_index": 0,
-        "label": "败者组第一轮 1",
+        "label": "败者组第1轮 1",
         "label_en": "Lower Round 1 · Match 1",
-        "label_zh": "败者组第一轮 1",
+        "label_zh": "败者组第1轮 1",
         "previous_matches": [
           {
             "panda_match_id": "1422511",
@@ -7729,9 +7819,9 @@
         "round_key": "r1",
         "round_order": 0,
         "slot_index": 1,
-        "label": "败者组第一轮 2",
+        "label": "败者组第1轮 2",
         "label_en": "Lower Round 1 · Match 2",
-        "label_zh": "败者组第一轮 2",
+        "label_zh": "败者组第1轮 2",
         "previous_matches": [
           {
             "panda_match_id": "1422513",
@@ -8136,11 +8226,11 @@
         "label_zh": "总决赛",
         "previous_matches": [
           {
-            "panda_match_id": "1422522",
+            "panda_match_id": "1422521",
             "type": "winner"
           },
           {
-            "panda_match_id": "1422521",
+            "panda_match_id": "1422522",
             "type": "winner"
           }
         ]
