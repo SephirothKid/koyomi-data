@@ -140,7 +140,8 @@
               "home_score": { "type": "integer" },
               "away_score": { "type": "integer" },
               "winner": { "type": "string", "enum": ["home", "away", "draw"] },
-              "status": { "type": "string" }
+              "status": { "type": "string" },
+              "score": { "type": "string", "description": "格式化比分字符串，如 '2 - 1'" }
             },
             "additionalProperties": false
           },
