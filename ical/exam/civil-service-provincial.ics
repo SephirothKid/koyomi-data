@@ -10,55 +10,212 @@ X-WR-CALDESC:各省公务员考试公告、报名、笔试、成绩、面
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-UID:civil-service-provincial-civil-service-provincial-2026-multi-province-
- announcement-window@koyomi.cast
+UID:civil-service-provincial-civil-service-provincial-2026-early-announcem
+ ent@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260613T000000
-DTSTART;VALUE=DATE:20251015
-DTEND;VALUE=DATE:20251201
+DTSTAMP:20260614T000000
+DTSTART;VALUE=DATE:20251019
+DTEND;VALUE=DATE:20251203
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:省考 · 度省考公告集中发布窗口
-DESCRIPTION:多省公务员考试公告通常在上一年四季度陆续
- 发布，部分省份单独招录或提前发布。\n\n覆盖省份: 北
- 京、天津、河北、山西、内蒙古、辽宁、吉林、黑龙江
- 、上海、江苏、浙江、安徽、福建、江西、山东、河南
- 、湖北、湖南、广东、广西、海南、重庆、四川、贵州
- 、云南、西藏、陕西、甘肃、青海、宁夏、新疆\n注意事
- 项: 各省公告、职位表、报名时间和考试安排以当地组织
- 部门或人事考试网为准
+SUMMARY:省考 · 度提前批次省考公告发布
+DESCRIPTION:2026年提前批次省考公告集中发布期（北京、上
+ 海、江苏、浙江、山东、广东、四川、天津、西藏）。\n
+ \n_provinces: {"新疆":{"batch":"joint"\,"announcementDate":"2026-02-04"\
+ ,"registrationStart":"2026-02-06"\,"registrationEnd":"2026-02-11"\,"writte
+ nExamDate":"2026-03-14"}\,"河北":{"batch":"joint"\,"announcementDate":"2
+ 026-01-30"\,"registrationStart":"2026-02-01"\,"registrationEnd":"2026-02-0
+ 5"\,"writtenExamDate":"2026-03-14"}\,"甘肃":{"batch":"joint"\,"announcem
+ entDate":"2026-01-30"\,"registrationStart":"2026-02-02"\,"registrationEnd"
+ :"2026-02-08"\,"writtenExamDate":"2026-03-14"}\,"云南":{"batch":"joint"\
+ ,"announcementDate":"2026-01-30"\,"registrationStart":"2026-02-07"\,"regis
+ trationEnd":"2026-02-11"\,"writtenExamDate":"2026-03-14"}\,"宁夏":{"batc
+ h":"joint"\,"announcementDate":"2026-01-29"\,"registrationStart":"2026-02-
+ 01"\,"registrationEnd":"2026-02-06"\,"writtenExamDate":"2026-03-14"}\,"吉
+ 林":{"batch":"joint"\,"announcementDate":"2026-01-29"\,"registrationStart
+ ":"2026-02-02"\,"registrationEnd":"2026-02-06"\,"writtenExamDate":"2026-03
+ -14"}\,"辽宁":{"batch":"joint"\,"announcementDate":"2026-01-27"\,"regist
+ rationStart":"2026-01-30"\,"registrationEnd":"2026-02-03"\,"writtenExamDat
+ e":"2026-03-14"}\,"陕西":{"batch":"joint"\,"announcementDate":"2026-01-2
+ 6"\,"registrationStart":"2026-02-01"\,"registrationEnd":"2026-02-06"\,"wri
+ ttenExamDate":"2026-03-14"}\,"青海":{"batch":"joint"\,"announcementDate"
+ :"2026-01-23"\,"registrationStart":"2026-01-26"\,"registrationEnd":"2026-0
+ 1-30"\,"writtenExamDate":"2026-03-14"}\,"黑龙江":{"batch":"joint"\,"ann
+ ouncementDate":"2026-01-23"\,"registrationStart":"2026-02-02"\,"registrati
+ onEnd":"2026-02-06"\,"writtenExamDate":"2026-03-14"}\,"内蒙古":{"batch"
+ :"joint"\,"announcementDate":"2026-01-22"\,"registrationStart":"2026-02-01
+ "\,"registrationEnd":"2026-02-05"\,"writtenExamDate":"2026-03-14"}\,"江
+ 西":{"batch":"joint"\,"announcementDate":"2026-01-21"\,"registrationStart
+ ":"2026-01-22"\,"registrationEnd":"2026-01-29"\,"writtenExamDate":"2026-03
+ -14"}\,"山西":{"batch":"joint"\,"announcementDate":"2026-01-19"\,"regist
+ rationStart":"2026-01-20"\,"registrationEnd":"2026-01-26"\,"writtenExamDat
+ e":"2026-03-14"}\,"广西":{"batch":"joint"\,"announcementDate":"2026-01-1
+ 8"\,"registrationStart":"2026-01-19"\,"registrationEnd":"2026-01-25"\,"wri
+ ttenExamDate":"2026-03-14"}\,"贵州":{"batch":"joint"\,"announcementDate"
+ :"2026-01-16"\,"registrationStart":"2026-01-19"\,"registrationEnd":"2026-0
+ 1-23"\,"writtenExamDate":"2026-03-14"}\,"福建":{"batch":"joint"\,"announ
+ cementDate":"2026-01-16"\,"registrationStart":"2026-01-19"\,"registrationE
+ nd":"2026-01-23"\,"writtenExamDate":"2026-03-14"}\,"重庆":{"batch":"join
+ t"\,"announcementDate":"2026-01-15"\,"registrationStart":"2026-01-20"\,"re
+ gistrationEnd":"2026-01-25"\,"writtenExamDate":"2026-03-14"}\,"海南":{"b
+ atch":"joint"\,"announcementDate":"2026-01-15"\,"registrationStart":"2026-
+ 01-19"\,"registrationEnd":"2026-01-23"\,"writtenExamDate":"2026-03-14"}\,"
+ 安徽":{"batch":"joint"\,"announcementDate":"2026-01-15"\,"registrationSt
+ art":"2026-01-19"\,"registrationEnd":"2026-01-25"\,"writtenExamDate":"2026
+ -03-14"}\,"湖南":{"batch":"joint"\,"announcementDate":"2026-01-13"\,"reg
+ istrationStart":"2026-01-29"\,"registrationEnd":"2026-02-04"\,"writtenExam
+ Date":"2026-03-14"}\,"湖北":{"batch":"joint"\,"announcementDate":"2026-0
+ 1-12"\,"registrationStart":"2026-01-13"\,"registrationEnd":"2026-01-19"\,"
+ writtenExamDate":"2026-03-14"}\,"河南":{"batch":"joint"\,"announcementDa
+ te":"2026-01-05"\,"registrationStart":"2026-01-06"\,"registrationEnd":"202
+ 6-01-14"\,"writtenExamDate":"2026-03-14"}\,"西藏":{"batch":"early"\,"ann
+ ouncementDate":"2025-12-02"\,"registrationStart":"2025-12-07"\,"registrati
+ onEnd":"2025-12-12"\,"writtenExamDate":"2025-12-28"}\,"北京":{"batch":"e
+ arly"\,"announcementDate":"2025-11-10"\,"registrationStart":"2025-11-17"\,
+ "registrationEnd":"2025-11-21"\,"writtenExamDate":"2025-12-07"}\,"山东":
+ {"batch":"early"\,"announcementDate":"2025-11-05"\,"registrationStart":"20
+ 25-11-07"\,"registrationEnd":"2025-11-10"\,"writtenExamDate":"2025-12-07"}
+ \,"天津":{"batch":"early"\,"announcementDate":"2025-11-04"\,"registratio
+ nStart":"2025-11-05"\,"registrationEnd":"2025-11-11"\,"writtenExamDate":"2
+ 025-12-07"}\,"浙江":{"batch":"early"\,"announcementDate":"2025-11-03"\,"
+ registrationStart":"2025-11-06"\,"registrationEnd":"2025-11-11"\,"writtenE
+ xamDate":"2025-12-07"}\,"上海":{"batch":"early"\,"announcementDate":"202
+ 5-10-31"\,"registrationStart":"2025-11-01"\,"registrationEnd":"2025-11-07"
+ \,"writtenExamDate":"2025-12-07"}\,"江苏":{"batch":"early"\,"announcemen
+ tDate":"2025-10-31"\,"registrationStart":"2025-11-04"\,"registrationEnd":"
+ 2025-11-10"\,"writtenExamDate":"2025-12-07"}\,"四川":{"batch":"early"\,"
+ announcementDate":"2025-10-29"\,"registrationStart":"2025-10-30"\,"registr
+ ationEnd":"2025-11-05"\,"writtenExamDate":"2025-12-07"}\,"广东":{"batch"
+ :"early"\,"announcementDate":"2025-10-19"\,"registrationStart":"2025-10-20
+ "\,"registrationEnd":"2025-10-24"\,"writtenExamDate":"2025-12-07"}}\n_prov
+ inceList: 北京、天津、河北、山西、内蒙古、辽宁、吉林
+ 、黑龙江、上海、江苏、浙江、安徽、福建、江西、山
+ 东、河南、湖北、湖南、广东、广西、海南、重庆、四
+ 川、贵州、云南、西藏、陕西、甘肃、青海、宁夏、新
+ 疆
 CATEGORIES:省考
 URL;VALUE=URI:https://www.offcn.com/gwy/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:civil-service-provincial-civil-service-provincial-2026-multi-province-
- registration-window@koyomi.cast
+UID:civil-service-provincial-civil-service-provincial-2026-early-registrat
+ ion@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260613T000000
+DTSTAMP:20260614T000000
 DTSTART;VALUE=DATE:20251020
-DTEND;VALUE=DATE:20251211
+DTEND;VALUE=DATE:20251213
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:省考 · 度省考报名集中窗口
-DESCRIPTION:各省报名窗口差异较大，建议结合目标省份发
- 布信息确认资格条件、职位表和缴费截止时间。
+SUMMARY:省考 · 度提前批次省考报名
+DESCRIPTION:2026年提前批次省考报名窗口。
 CATEGORIES:省考
 URL;VALUE=URI:https://www.offcn.com/gwy/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:civil-service-provincial-civil-service-provincial-2026-admission-ticke
- t-window@koyomi.cast
+UID:civil-service-provincial-civil-service-provincial-2026-early-admission
+ -ticket@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260613T000000
-DTSTART;VALUE=DATE:20251125
-DTEND;VALUE=DATE:20251216
+DTSTAMP:20260614T000000
+DTSTART;VALUE=DATE:20251130
+DTEND;VALUE=DATE:20251229
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:省考 · 度省考准考证打印窗口
-DESCRIPTION:准考证打印通常在笔试前一周左右开放，具体
- 以报考省份公告为准。
+SUMMARY:省考 · 度提前批次省考准考证打印
+DESCRIPTION:2026年提前批次准考证打印窗口。
+CATEGORIES:省考
+URL;VALUE=URI:https://www.offcn.com/gwy/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-provincial-civil-service-provincial-2026-early-written-e
+ xam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260614T000000
+DTSTART;VALUE=DATE:20251207
+DTEND;VALUE=DATE:20251229
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:省考 · 度提前批次省考笔试
+DESCRIPTION:2026年提前批次省考笔试（北京、上海、江苏、
+ 浙江、山东、广东、四川、天津、西藏）。\n\n考试科目:
+  行政职业能力测验、申论；部分岗位含专业科目
+CATEGORIES:省考
+URL;VALUE=URI:https://www.offcn.com/gwy/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-provincial-civil-service-provincial-2026-joint-announcem
+ ent@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260614T000000
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260205
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:省考 · 度省考联考公告发布
+DESCRIPTION:2026年多省公务员联考公告集中发布期。
+CATEGORIES:省考
+URL;VALUE=URI:https://www.offcn.com/gwy/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-provincial-civil-service-provincial-2026-joint-registrat
+ ion@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260614T000000
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260212
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:省考 · 度省考联考报名
+DESCRIPTION:2026年联考省份报名窗口。
+CATEGORIES:省考
+URL;VALUE=URI:https://www.offcn.com/gwy/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-provincial-civil-service-provincial-2026-early-score-rel
+ ease@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260614T000000
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260217
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:省考 · 度提前批次省考成绩公布
+DESCRIPTION:2026年提前批次省份笔试成绩陆续公布。
+CATEGORIES:省考
+URL;VALUE=URI:https://www.offcn.com/gwy/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-provincial-civil-service-provincial-2026-early-interview
+ @koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260614T000000
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260329
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:省考 · 度提前批次省考面试
+DESCRIPTION:2026年提前批次省份面试、体检、考察等后续环
+ 节。
+CATEGORIES:省考
+URL;VALUE=URI:https://www.offcn.com/gwy/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-provincial-civil-service-provincial-2026-joint-admission
+ -ticket@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260614T000000
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260315
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:省考 · 度省考联考准考证打印
+DESCRIPTION:2026年联考准考证打印窗口。
 CATEGORIES:省考
 URL;VALUE=URI:https://www.offcn.com/gwy/
 STATUS:CONFIRMED
@@ -67,48 +224,44 @@ BEGIN:VEVENT
 UID:civil-service-provincial-civil-service-provincial-2026-joint-written-e
  xam@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260613T000000
-DTSTART;VALUE=DATE:20251206
-DTEND;VALUE=DATE:20251208
+DTSTAMP:20260614T000000
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:省考 · 度多省联考笔试窗口
-DESCRIPTION:多省公务员考试笔试集中窗口。并非所有省份
- 同日考试，部分省份会提前或单独组织。\n\n考试科目: 
- 行政职业能力测验、申论；部分岗位含专业科目\n提醒: 
- 请以准考证上的考试时间和考点为准
+SUMMARY:省考 · 度多省联考笔试
+DESCRIPTION:2026年多省公务员联考笔试。\n\n考试科目: 行政
+ 职业能力测验、申论；部分岗位含专业科目
 CATEGORIES:省考
 URL;VALUE=URI:https://www.offcn.com/gwy/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:civil-service-provincial-civil-service-provincial-2026-score-release-w
- indow@koyomi.cast
+UID:civil-service-provincial-civil-service-provincial-2026-joint-score-rel
+ ease@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260613T000000
-DTSTART;VALUE=DATE:20260110
-DTEND;VALUE=DATE:20260211
+DTSTAMP:20260614T000000
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260504
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:省考 · 度省考笔试成绩公布窗口
-DESCRIPTION:各省笔试成绩、合格分数线和资格复审通知陆
- 续公布。
+SUMMARY:省考 · 度省考联考成绩公布
+DESCRIPTION:2026年联考省份笔试成绩陆续公布。
 CATEGORIES:省考
 URL;VALUE=URI:https://www.offcn.com/gwy/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:civil-service-provincial-civil-service-provincial-2026-interview-windo
- w@koyomi.cast
+UID:civil-service-provincial-civil-service-provincial-2026-joint-interview
+ @koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260613T000000
-DTSTART;VALUE=DATE:20260220
-DTEND;VALUE=DATE:20260501
+DTSTAMP:20260614T000000
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260613
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:省考 · 度省考面试窗口
-DESCRIPTION:省考面试、体检、考察等后续环节由各省分别
- 组织。
+SUMMARY:省考 · 度省考联考面试
+DESCRIPTION:2026年联考省份面试、体检、考察等后续环节。
 CATEGORIES:省考
 URL;VALUE=URI:https://www.offcn.com/gwy/
 STATUS:CONFIRMED
