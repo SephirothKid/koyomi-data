@@ -19,9 +19,17 @@ const schema = JSON.parse(readFileSync(SCHEMA_FILE, 'utf8'))
 const validate = ajv.compile(schema)
 const TIME_KINDS = new Set(['date', 'datetime', 'date_range', 'datetime_range'])
 
+function datePart(value) {
+  if (!value || typeof value !== 'string') return value
+  const match = value.match(/^(\d{4}-\d{2}-\d{2})/)
+  return match ? match[1] : value
+}
+
 function inferTimeKind(event) {
   if (event.time_kind) return event.time_kind
-  const hasRange = Boolean(event.end_date && event.end_date !== event.date)
+  const endDate = datePart(event.end_date)
+  const startDate = datePart(event.date)
+  const hasRange = Boolean(endDate && endDate !== startDate)
   if (event.time && hasRange) return 'datetime_range'
   if (event.time) return 'datetime'
   if (hasRange || event.type === 'range') return 'date_range'
