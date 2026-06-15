@@ -25,6 +25,20 @@ function datePart(value) {
   return match ? match[1] : value
 }
 
+function isValidCalendarDate(dateStr) {
+  if (!dateStr || typeof dateStr !== 'string') return false
+  const match = dateStr.match(/^(\d{4})-(\d{2})-(\d{2})$/)
+  if (!match) return false
+  const year = Number(match[1])
+  const month = Number(match[2])
+  const day = Number(match[3])
+  if (month < 1 || month > 12 || day < 1 || day > 31) return false
+  const probe = new Date(Date.UTC(year, month - 1, day))
+  return probe.getUTCFullYear() === year
+    && probe.getUTCMonth() === month - 1
+    && probe.getUTCDate() === day
+}
+
 function inferTimeKind(event) {
   if (event.time_kind) return event.time_kind
   const endDate = datePart(event.end_date)
@@ -63,6 +77,14 @@ function validateTimeSemantics(data, rel) {
     }
     if (event.end_time && !event.time) {
       console.error(`✗ ${rel}: ${event.id} 设置了 end_time，但缺少 time`)
+      count++
+    }
+    if (event.date && !isValidCalendarDate(datePart(event.date))) {
+      console.error(`✗ ${rel}: ${event.id} 的 date 不是有效日历日期：${event.date}`)
+      count++
+    }
+    if (event.end_date && !isValidCalendarDate(datePart(event.end_date))) {
+      console.error(`✗ ${rel}: ${event.id} 的 end_date 不是有效日历日期：${event.end_date}`)
       count++
     }
     if (event.timezone && !isKnownTimeZone(event.timezone)) {
