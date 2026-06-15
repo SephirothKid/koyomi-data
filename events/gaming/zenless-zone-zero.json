@@ -27,9 +27,7 @@
       "id": "zenless-zone-zero-2026-162592-maintenance",
       "name": "绝区零 2.6 版本维护更新",
       "date": "2026-02-06",
-      "end_date": "2026-02-06",
       "time": "06:00",
-      "end_time": "11:00",
       "timezone": "Asia/Shanghai",
       "time_kind": "datetime",
       "type": "event",
@@ -37,7 +35,7 @@
       "description": "绝区零 官方版本维护更新。",
       "url": "https://zzz.mihoyo.com/news/detail/162592",
       "status": "completed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-15",
       "verified_by": "official",
       "details": {
         "official_time": "2026/02/06 06:00 前绳网等级≥4级的绳匠。 ※领取时间截至2.6"
@@ -272,7 +270,7 @@
       "description": "绝区零 官方版本维护更新。",
       "url": "https://zzz.mihoyo.com/news/detail/163261",
       "status": "completed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-15",
       "verified_by": "official",
       "details": {},
       "game": {
@@ -290,7 +288,7 @@
     },
     {
       "id": "zenless-zone-zero-2026-163519-banners",
-      "name": "绝区零 2.7 下期调频：希希芙 / 「席德」 / 鳞齿寻踪 / 机巧心种",
+      "name": "绝区零 2.8 第二期调频：亲爱的绳匠： 本期代理人与音擎调频活动时间为： 2026/04/15 12:00 ~ 2026/05/05 14:59，包含如下内容： 活动期间，限定S级代理人[希希芙]、[「席德」]以及A级代理人[波可娜]、[本]的调频获取概率将大幅提升！ 活动期间，限定S级音擎[鳞齿寻踪]、[机巧心种]以及A级音擎[裁纸刀]、[比格气缸]的调频获取概率将大幅提升！ ※详情可前往游戏内公告及调频界面查看。 -- 欢迎来到新艾利都！--",
       "date": "2026-04-15",
       "end_date": "2026-05-05",
       "time": "12:00",
@@ -299,17 +297,14 @@
       "time_kind": "datetime_range",
       "type": "range",
       "year": 2026,
-      "description": "绝区零官方活动调频（下期）。",
+      "description": "绝区零官方活动调频（第二期）",
       "url": "https://zzz.mihoyo.com/news/detail/163519",
       "status": "completed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-15",
       "verified_by": "official",
       "details": {
         "official_time": "2026/04/15 12:00 ~ 2026/05/05 14:59",
-        "S级代理人": "希希芙 / 「席德」",
-        "S级音擎": "鳞齿寻踪 / 机巧心种",
-        "A级代理人": "波可娜 / 本",
-        "A级音擎": "裁纸刀 / 比格气缸",
+        "代理人「代理人频段」5★": "亲爱的绳匠： 本期代理人与音擎调频活动时间为： 2026/04/15 12:00 ~ 2026/05/05 14:59，包含如下内容： 活动期间，限定S级代理人[希希芙]、[「席德」]以及A级代理人[波可娜]、[本]的调频获取概率将大幅提升！ 活动期间，限定S级音擎[鳞齿寻踪]、[机巧心种]以及A级音擎[裁纸刀]、[比格气缸]的调频获取概率将大幅提升！ ※详情可前往游戏内公告及调频界面查看。 -- 欢迎来到新艾利都！--",
         "official_notice": "2.7版本限时频段（下期）"
       },
       "game": {
@@ -319,84 +314,31 @@
         "source_content_id": "163519",
         "source_title": "2.7版本限时频段（下期）",
         "source_url": "https://zzz.mihoyo.com/news/detail/163519",
-        "version": "2.7",
+        "version": "2.8",
         "phase": "phase2"
       },
       "banners": [
         {
+          "featured_5": [
+            {
+              "name": "亲爱的绳匠： 本期代理人与音擎调频活动时间为： 2026/04/15 12:00 ~ 2026/05/05 14:59，包含如下内容： 活动期间，限定S级代理人[希希芙]、[「席德」]以及A级代理人[波可娜]、[本]的调频获取概率将大幅提升！ 活动期间，限定S级音擎[鳞齿寻踪]、[机巧心种]以及A级音擎[裁纸刀]、[比格气缸]的调频获取概率将大幅提升！ ※详情可前往游戏内公告及调频界面查看。 -- 欢迎来到新艾利都！--",
+              "type": "agent",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [],
           "name": "代理人频段",
           "name_en": "Agent Channel",
-          "type": "character",
-          "featured_s": [
-            {
-              "name": "希希芙",
-              "kind": "agent",
-              "rarity": "S"
-            },
-            {
-              "name": "「席德」",
-              "kind": "agent",
-              "rarity": "S"
-            }
-          ],
-          "featured_a": [
-            {
-              "name": "波可娜",
-              "kind": "agent",
-              "rarity": "A"
-            },
-            {
-              "name": "本",
-              "kind": "agent",
-              "rarity": "A"
-            }
-          ],
-          "source_content_id": "163519",
-          "source_url": "https://zzz.mihoyo.com/news/detail/163519",
-          "phase": "phase2"
-        },
-        {
-          "name": "音擎频段",
-          "name_en": "W-Engine Channel",
-          "type": "w_engine",
-          "featured_s": [
-            {
-              "name": "鳞齿寻踪",
-              "kind": "w_engine",
-              "rarity": "S"
-            },
-            {
-              "name": "机巧心种",
-              "kind": "w_engine",
-              "rarity": "S"
-            }
-          ],
-          "featured_a": [
-            {
-              "name": "裁纸刀",
-              "kind": "w_engine",
-              "rarity": "A"
-            },
-            {
-              "name": "比格气缸",
-              "kind": "w_engine",
-              "rarity": "A"
-            }
-          ],
-          "source_content_id": "163519",
-          "source_url": "https://zzz.mihoyo.com/news/detail/163519",
+          "type": "agent",
           "phase": "phase2"
         }
       ],
-      "name_en": "Zenless Zone Zero v2.7 Phase 2 Signal Search: Sif / \"Sid\" / Scale-Tooth Tracker / Machina Core",
-      "description_en": "Zenless Zone Zero Official Signal Search (Phase 2).",
+      "name_en": "Zenless Zone Zero v2.8 Phase 2 Signal Search: 亲爱的绳匠： 本期代理人与音擎调频活动时间为： 2026/04/15 12:00 ~ 2026/05/05 14:59，包含如下内容： 活动期间，限定S级代理人[希希芙]、[「席德」]以及A级代理人[波可娜]、[本]的调频获取概率将大幅提升！ 活动期间，限定S级音擎[鳞齿寻踪]、[机巧心种]以及A级音擎[裁纸刀]、[比格气缸]的调频获取概率将大幅提升！ ※详情可前往游戏内公告及调频界面查看。 -- 欢迎来到新艾利都！--",
+      "description_en": "Zenless Zone Zero Official Signal Search (Phase 2)",
       "details_en": {
         "official_time": "2026/04/15 12:00 ~ 2026/05/05 14:59",
-        "S-Rank Agents": "Sif / \"Sid\"",
-        "S-Rank W-Engines": "Scale-Tooth Tracker / Machina Core",
-        "A-Rank Agents": "Pokona / Ben",
-        "A-Rank W-Engines": "Paper Cutter / Big Cylinder",
-        "official_notice": "Version 2.7 Limited Signal Search (Phase 2)"
+        "Agent「代理人频段」5★": "亲爱的绳匠： 本期代理人与音擎调频活动时间为： 2026/04/15 12:00 ~ 2026/05/05 14:59，包含如下内容： 活动期间，限定S级代理人[希希芙]、[「席德」]以及A级代理人[波可娜]、[本]的调频获取概率将大幅提升！ 活动期间，限定S级音擎[鳞齿寻踪]、[机巧心种]以及A级音擎[裁纸刀]、[比格气缸]的调频获取概率将大幅提升！ ※详情可前往游戏内公告及调频界面查看。 -- 欢迎来到新艾利都！--",
+        "official_notice": "2.7版本限时频段（下期）"
       }
     },
     {
@@ -413,7 +355,7 @@
       "description": "绝区零 官方版本维护更新。",
       "url": "https://zzz.mihoyo.com/news/detail/163857",
       "status": "completed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-15",
       "verified_by": "official",
       "details": {
         "official_time": "2026/05/06 06:00 前绳网等级≥4级的绳匠。 ※领取时间截至2.8"
@@ -544,7 +486,7 @@
       "description": "绝区零 下一版本 版本前瞻直播预测窗口，需以官方公告为准。",
       "url": "https://zzz.mihoyo.com/news",
       "status": "completed",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-15",
       "verified_by": "community",
       "details": {
         "data_nature": "预测窗口",
@@ -573,7 +515,7 @@
       "description": "绝区零 下一版本 版本维护更新预测窗口，需以官方公告为准。",
       "url": "https://zzz.mihoyo.com/news",
       "status": "planned",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-15",
       "verified_by": "community",
       "details": {
         "data_nature": "预测窗口",
@@ -602,7 +544,7 @@
       "description": "绝区零 下一版本 下半卡池预测窗口，需以官方公告为准。",
       "url": "https://zzz.mihoyo.com/news",
       "status": "planned",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-15",
       "verified_by": "community",
       "details": {
         "data_nature": "预测窗口",
@@ -632,7 +574,7 @@
       "description": "绝区零 后续版本二 版本前瞻直播预测窗口，需以官方公告为准。",
       "url": "https://zzz.mihoyo.com/news",
       "status": "planned",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-15",
       "verified_by": "community",
       "details": {
         "data_nature": "预测窗口",
@@ -661,7 +603,7 @@
       "description": "绝区零 后续版本二 版本维护更新预测窗口，需以官方公告为准。",
       "url": "https://zzz.mihoyo.com/news",
       "status": "planned",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-15",
       "verified_by": "community",
       "details": {
         "data_nature": "预测窗口",
@@ -690,7 +632,7 @@
       "description": "绝区零 后续版本二 下半卡池预测窗口，需以官方公告为准。",
       "url": "https://zzz.mihoyo.com/news",
       "status": "planned",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-15",
       "verified_by": "community",
       "details": {
         "data_nature": "预测窗口",
@@ -720,7 +662,7 @@
       "description": "绝区零 后续版本三 版本前瞻直播预测窗口，需以官方公告为准。",
       "url": "https://zzz.mihoyo.com/news",
       "status": "planned",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-15",
       "verified_by": "community",
       "details": {
         "data_nature": "预测窗口",
@@ -749,7 +691,7 @@
       "description": "绝区零 后续版本三 版本维护更新预测窗口，需以官方公告为准。",
       "url": "https://zzz.mihoyo.com/news",
       "status": "planned",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-15",
       "verified_by": "community",
       "details": {
         "data_nature": "预测窗口",
@@ -778,7 +720,7 @@
       "description": "绝区零 后续版本三 下半卡池预测窗口，需以官方公告为准。",
       "url": "https://zzz.mihoyo.com/news",
       "status": "planned",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-15",
       "verified_by": "community",
       "details": {
         "data_nature": "预测窗口",
@@ -799,5 +741,5 @@
       }
     }
   ],
-  "last_updated": "2026-06-13"
+  "last_updated": "2026-06-15"
 }
