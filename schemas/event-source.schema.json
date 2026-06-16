@@ -70,6 +70,16 @@
     "rating_count": { "type": "integer" },
     "last_updated": { "type": "string", "format": "date" },
     "version": { "type": "string" },
+    "cycle_kind": {
+      "type": "string",
+      "description": "事件源的周期展示类型。year 表示按自然年切换，season 表示按赛事/赛季切换。",
+      "enum": ["year", "season"]
+    },
+    "season_basis": {
+      "type": "string",
+      "description": "season 类型事件源的年份基准。start-year 表示 2025-26 赛季记为 2025；end-year 表示 2025-26 赛季记为 2026；calendar-year 表示单自然年赛季。",
+      "enum": ["start-year", "end-year", "calendar-year", "custom"]
+    },
     "events": {
       "type": "array",
       "items": {
@@ -95,6 +105,22 @@
             "enum": ["deadline", "event", "range", "announcement"]
           },
           "year": { "type": "integer" },
+          "season_key": {
+            "type": "string",
+            "description": "可选。赛事/赛季筛选用稳定 key。缺省时由 year 与 source.season_basis 推导。"
+          },
+          "season_label": {
+            "type": "string",
+            "description": "可选。面向用户展示的赛季标签，如 2025-26、2026 Spring。"
+          },
+          "season_start_year": {
+            "type": "integer",
+            "description": "可选。跨自然年赛季的起始年份。"
+          },
+          "season_end_year": {
+            "type": "integer",
+            "description": "可选。跨自然年赛季的结束年份。"
+          },
           "description": { "type": "string" },
           "description_en": { "type": "string", "description": "英文事件描述" },
           "description_zh": { "type": "string", "description": "中文事件描述" },

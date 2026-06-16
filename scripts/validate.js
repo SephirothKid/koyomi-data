@@ -18,6 +18,8 @@ addFormats(ajv)
 const schema = JSON.parse(readFileSync(SCHEMA_FILE, 'utf8'))
 const validate = ajv.compile(schema)
 const TIME_KINDS = new Set(['date', 'datetime', 'date_range', 'datetime_range'])
+const CYCLE_KINDS = new Set(['year', 'season'])
+const SEASON_BASES = new Set(['start-year', 'end-year', 'calendar-year', 'custom'])
 
 function datePart(value) {
   if (!value || typeof value !== 'string') return value
@@ -95,6 +97,48 @@ function validateTimeSemantics(data, rel) {
   return count
 }
 
+function validateCycleSemantics(data, rel) {
+  let count = 0
+
+  if (data.cycle_kind && !CYCLE_KINDS.has(data.cycle_kind)) {
+    console.error(`✗ ${rel}: cycle_kind 无效：${data.cycle_kind}`)
+    count++
+  }
+
+  if (data.season_basis && !SEASON_BASES.has(data.season_basis)) {
+    console.error(`✗ ${rel}: season_basis 无效：${data.season_basis}`)
+    count++
+  }
+
+  if (data.cycle_kind === 'season' && !data.season_basis) {
+    console.error(`✗ ${rel}: season 类型事件源必须声明 season_basis`)
+    count++
+  }
+
+  if (data.cycle_kind !== 'season' && data.season_basis) {
+    console.error(`✗ ${rel}: 只有 season 类型事件源可以声明 season_basis`)
+    count++
+  }
+
+  for (const event of data.events ?? []) {
+    if (event.season_key && !/^[a-z0-9][a-z0-9._-]*$/i.test(event.season_key)) {
+      console.error(`✗ ${rel}: ${event.id} 的 season_key 只能包含字母、数字、点、下划线和连字符`)
+      count++
+    }
+
+    if (
+      event.season_start_year !== undefined
+      && event.season_end_year !== undefined
+      && event.season_start_year > event.season_end_year
+    ) {
+      console.error(`✗ ${rel}: ${event.id} 的 season_start_year 不应晚于 season_end_year`)
+      count++
+    }
+  }
+
+  return count
+}
+
 function collectJsonFiles(dir) {
   const files = []
   for (const entry of readdirSync(dir)) {
@@ -150,7 +194,7 @@ for (const file of files) {
       console.error(`✗ ${rel}: 重复的事件 ID: ${dupes.join(', ')}`)
       errors++
     } else {
-      const semanticErrors = validateTimeSemantics(data, rel)
+      const semanticErrors = validateTimeSemantics(data, rel) + validateCycleSemantics(data, rel)
       if (semanticErrors > 0) {
         errors += semanticErrors
       } else {
