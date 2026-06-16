@@ -96,6 +96,7 @@ koyomi-data/
 
 - **事件源不含年份**：如 `cpa` 而非 `cpa-2026`，年度数据作为 `events` 数组追加
 - **订阅一次，永久有效**：用户订阅后，新年度数据自动生效，无需重新订阅
+- **年份/赛季分离**：自然年事件用 `cycle_kind: "year"`；跨自然年联赛用 `cycle_kind: "season"` + `season_basis`
 - **双语支持**：每个事件源和事件均支持 `name` / `name_en`、`description` / `description_en`、`tags` / `tags_en`
 - **必须可验证**：每个事件必须包含 `last_verified` 和 `verified_by`（`official` 或 `community`）
 - **时间语义明确**：全天日期不做时区换算，具体时间事件保留官方时区并可在前端转换为用户本地时间
@@ -108,12 +109,17 @@ koyomi-data/
 | `name` / `name_en` | string | 事件源名称（中/英） |
 | `category` | string | `exam` / `gaming` / `sports` / `shopping` / `entertainment` / `holidays` / `other` |
 | `subcategory` | string | 细分领域，如 `财会`、`esports`、`football` |
+| `cycle_kind` | string | 可选。`year` 表示按自然年切换，`season` 表示按赛事赛季切换 |
+| `season_basis` | string | `season` 源必填：`start-year` / `end-year` / `calendar-year` / `custom` |
 | `events[].id` | string | 事件唯一 ID，格式：`{source}-{year}-{slug}` |
 | `events[].date` | string | ISO 8601 日期，如 `2026-04-08` |
 | `events[].end_date` | string | 仅 `range` 类型事件需要 |
 | `events[].time` / `events[].end_time` | string | 具体时间或时间范围，格式 `HH:mm` |
 | `events[].time_kind` | string | `date` / `datetime` / `date_range` / `datetime_range` |
 | `events[].type` | string | `deadline` / `event` / `range` / `announcement` |
+| `events[].year` | number | 周期年份。非赛季源通常等于开始日期年份；赛季源按 `season_basis` 定义 |
+| `events[].season_key` | string | 可选。赛季筛选用稳定 key；缺省时由 `year` 推导 |
+| `events[].season_label` | string | 可选。展示标签，如 `2025-26`、`2026 Spring` |
 | `events[].timezone` | string | 中国大陆默认 `Asia/Shanghai` |
 | `events[].status` | string | `planned` / `confirmed` / `active` / `completed` |
 | `events[].last_verified` | string | 最后校验日期 `YYYY-MM-DD` |
@@ -122,6 +128,14 @@ koyomi-data/
 完整规范见 [`schemas/event-source.schema.json`](./schemas/event-source.schema.json)。
 
 `date` / `date_range` 表示官方日期语境下的全天事件，例如节假日、考试日期、促销日期，不应因为用户时区不同而前后移动。`datetime` / `datetime_range` 表示具体时刻或时间段，例如比赛开球、发布会、报名截止，应保留官方 `timezone` 并允许客户端展示用户本地时间。
+
+### 周期与订阅规则
+
+- 事件源始终是长期主题 ID，禁止按年份拆成 `epl-2027`、`nba-2027` 等新源。
+- 多年份/多赛季数据追加在同一个 JSON 文件中，前端详情页通过年份/赛季筛选切换。
+- 默认展示周期按“进行中 → 下一条未来事件 → 最新已发布周期”选择。
+- iCal URL 不随年份变化；生成的 `.ics` 默认只包含未来事件和最近 30 天内结束的事件，避免多年历史持续进入用户日历。
+- 跨年赛季的 `season_basis` 示例：欧洲足球 `2025-26` 使用 `start-year`，NBA `2025-26` 使用 `end-year`，LPL/KPL 这类自然年赛季使用 `calendar-year`。
 
 ---
 

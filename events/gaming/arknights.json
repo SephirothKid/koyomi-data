@@ -630,11 +630,53 @@
       ]
     },
     {
+      "id": "arknights-2026-砺火成锋复刻-banner",
+      "name": "明日方舟 砺火成锋·复刻 寻访",
+      "name_en": "Arknights 砺火成锋·复刻 Headhunting",
+      "date": "2026-06-15",
+      "end_date": "2026-06-29",
+      "time": "16:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "明日方舟寻访「砺火成锋·复刻」。",
+      "description_en": "Arknights Headhunting Banner「砺火成锋·复刻」.",
+      "url": "https://prts.wiki/w/%E7%A0%BA%E7%81%AB%E6%88%90%E9%94%8B%C2%B7%E5%A4%8D%E5%88%BB",
+      "status": "active",
+      "last_verified": "2026-06-16",
+      "verified_by": "community",
+      "game": {
+        "game_id": "arknights",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "version": "砺火成锋·复刻"
+      },
+      "banners": [
+        {
+          "name": "砺火成锋·复刻",
+          "type": "character",
+          "featured_5": [
+            {
+              "name": "麒麟R夜刀",
+              "rarity": 6
+            },
+            {
+              "name": "火龙S黑角",
+              "rarity": 6
+            }
+          ],
+          "featured_4": []
+        }
+      ]
+    },
+    {
       "id": "arknights-2026-forecast-next-banner",
       "name": "明日方舟 下一期寻访预测窗口",
       "name_en": "Arknights Next Headhunting Banner Forecast Window",
-      "date": "2026-06-16",
-      "end_date": "2026-06-30",
+      "date": "2026-06-30",
+      "end_date": "2026-07-14",
       "timezone": "Asia/Shanghai",
       "type": "range",
       "year": 2026,
@@ -642,7 +684,7 @@
       "description_en": "Arknights next headhunting banner prediction window. Subject to official announcement.",
       "url": "https://ak.hypergryph.com/news",
       "status": "planned",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-16",
       "verified_by": "community",
       "details": {
         "data_nature": "预测窗口",
@@ -672,7 +714,7 @@
       "description_en": "Arknights 夏活限定 prediction window. Subject to official announcement.",
       "url": "https://ak.hypergryph.com/news",
       "status": "planned",
-      "last_verified": "2026-06-13",
+      "last_verified": "2026-06-16",
       "verified_by": "community",
       "details": {
         "data_nature": "预测窗口",

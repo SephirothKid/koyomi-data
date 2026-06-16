@@ -266,16 +266,23 @@ function recentCompletedCutoff(days = 30) {
   return d.toISOString().slice(0, 10)
 }
 
+function eventEndDate(event) {
+  return event.end_date ?? event.endDate ?? event.date
+}
+
 function eventsForCalendar(source) {
   const events = source.events ?? []
-  if (!SEASONAL_FOOTBALL_SOURCE_IDS.has(source.id)) return events
-
-  const season = currentSeasonYear()
   const cutoff = recentCompletedCutoff()
-  return events.filter(event =>
-    event.year >= season ||
-    (event.status === 'completed' && event.date >= cutoff),
-  )
+  const rollingEvents = events.filter(event => eventEndDate(event) >= cutoff)
+
+  if (rollingEvents.length > 0) return rollingEvents
+
+  if (SEASONAL_FOOTBALL_SOURCE_IDS.has(source.id)) {
+    const season = currentSeasonYear()
+    return events.filter(event => event.year >= season)
+  }
+
+  return []
 }
 
 function collectTeams(events) {
@@ -548,10 +555,9 @@ for (const file of files) {
   totalEvents += calendarEvents.length
   writeSourceCalendars(source, calendarEvents)
 
-  const teams = TEAM_CALENDAR_SOURCE_IDS.has(source.id) ? collectTeams(calendarEvents) : []
+  const teams = TEAM_CALENDAR_SOURCE_IDS.has(source.id) ? collectTeams(source.events ?? []) : []
   for (const team of teams) {
     const teamEvents = calendarEvents.filter(event => eventIncludesTeam(event, team.id))
-    if (teamEvents.length === 0) continue
 
     const teamSourceId = `${source.id}-${team.id}`
     const teamNameZh = `${team.name}赛程`

@@ -9,48 +9,6 @@ X-WR-CALDESC:注册会计师全国统一考试，持续更新各年报名
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-UID:cpa-cpa-2026-register-open@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260401T000000
-DTSTART;TZID=Asia/Shanghai:20260408T080000
-DTEND;TZID=Asia/Shanghai:20260408T090000
-SUMMARY:CPA Exam · Registration Opens
-DESCRIPTION:National online registration system opens.\n\n报名入口: 
- 中国注册会计师协会官网\n报名费用: ¥60-90/科\n照片要求
- : 白底证件照 178×220px
-CATEGORIES:CPA Exam
-URL;VALUE=URI:https://cpaexam.cicpa.org.cn
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:cpa-cpa-2026-register-close@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260401T000000
-DTSTART;TZID=Asia/Shanghai:20260428T180000
-DTEND;TZID=Asia/Shanghai:20260428T190000
-SUMMARY:CPA Exam · Registration Closes
-DESCRIPTION:Online registration closes. Late applications not accepted.\n\
- n注意事项: 逾期不予补报\n修改信息: 缴费前可修改报考
- 科目
-CATEGORIES:CPA Exam
-URL;VALUE=URI:https://cpaexam.cicpa.org.cn
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:cpa-cpa-2026-payment@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260401T000000
-DTSTART;TZID=Asia/Shanghai:20260510T170000
-DTEND;TZID=Asia/Shanghai:20260510T180000
-SUMMARY:CPA Exam · Payment Deadline
-DESCRIPTION:Exam registration fee payment deadline. Unpaid applications wi
- ll be forfeited.\n\n缴费方式: 网上支付\n退费政策: 报名截止
- 后不予退费
-CATEGORIES:CPA Exam
-URL;VALUE=URI:https://cpaexam.cicpa.org.cn
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:cpa-cpa-2026-exam-pro@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260520T000000
