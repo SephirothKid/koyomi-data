@@ -6163,12 +6163,12 @@
         "label_zh": "败者组八强 2",
         "previous_matches": [
           {
-            "panda_match_id": "1411638",
-            "type": "loser"
-          },
-          {
             "panda_match_id": "1411635",
             "type": "winner"
+          },
+          {
+            "panda_match_id": "1411638",
+            "type": "loser"
           }
         ]
       }
@@ -6230,12 +6230,12 @@
         "label_zh": "败者组八强 1",
         "previous_matches": [
           {
-            "panda_match_id": "1411658",
-            "type": "loser"
-          },
-          {
             "panda_match_id": "1411636",
             "type": "winner"
+          },
+          {
+            "panda_match_id": "1411658",
+            "type": "loser"
           }
         ]
       }
@@ -6297,11 +6297,11 @@
         "label_zh": "胜者组决赛",
         "previous_matches": [
           {
-            "panda_match_id": "1411658",
+            "panda_match_id": "1411638",
             "type": "winner"
           },
           {
-            "panda_match_id": "1411638",
+            "panda_match_id": "1411658",
             "type": "winner"
           }
         ]
@@ -6364,11 +6364,11 @@
         "label_zh": "败者组四强",
         "previous_matches": [
           {
-            "panda_match_id": "1411660",
+            "panda_match_id": "1411659",
             "type": "winner"
           },
           {
-            "panda_match_id": "1411659",
+            "panda_match_id": "1411660",
             "type": "winner"
           }
         ]
@@ -6431,12 +6431,12 @@
         "label_zh": "败者组决赛",
         "previous_matches": [
           {
-            "panda_match_id": "1411661",
-            "type": "winner"
-          },
-          {
             "panda_match_id": "1411663",
             "type": "loser"
+          },
+          {
+            "panda_match_id": "1411661",
+            "type": "winner"
           }
         ]
       }
@@ -6884,7 +6884,7 @@
       "name_en": "Stage 1 Group 3 · WOL vs KSG",
       "name_zh": "Stage 1 Group 3 · WOL vs KSG",
       "date": "2026-06-17",
-      "time": "20:00",
+      "time": "20:04",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -6892,7 +6892,7 @@
       "description_en": "Wolves vs Kuaishou Gaming — Stage 1 Group 3 (CST)",
       "description_zh": "Wolves vs Kuaishou Gaming — Stage 1 Group 3（北京时间）",
       "url": "https://www.youtube.com/watch?v=uUALpQHB_8o",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-06-17",
       "verified_by": "official",
       "teams": {
@@ -6910,6 +6910,12 @@
           "name_en": "Kuaishou Gaming",
           "image_url": "https://cdn-api.pandascore.co/images/team/image/129036/782px_kuaishou_gaming_2025_allmode.png"
         }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 3,
+        "winner": "home",
+        "status": "completed"
       },
       "details": {
         "赛事": "King Pro League",
