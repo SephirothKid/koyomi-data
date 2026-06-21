@@ -6230,12 +6230,12 @@
         "label_zh": "败者组八强 1",
         "previous_matches": [
           {
-            "panda_match_id": "1411658",
-            "type": "loser"
-          },
-          {
             "panda_match_id": "1411636",
             "type": "winner"
+          },
+          {
+            "panda_match_id": "1411658",
+            "type": "loser"
           }
         ]
       }
@@ -6297,11 +6297,11 @@
         "label_zh": "胜者组决赛",
         "previous_matches": [
           {
-            "panda_match_id": "1411658",
+            "panda_match_id": "1411638",
             "type": "winner"
           },
           {
-            "panda_match_id": "1411638",
+            "panda_match_id": "1411658",
             "type": "winner"
           }
         ]
@@ -6364,11 +6364,11 @@
         "label_zh": "败者组四强",
         "previous_matches": [
           {
-            "panda_match_id": "1411660",
+            "panda_match_id": "1411659",
             "type": "winner"
           },
           {
-            "panda_match_id": "1411659",
+            "panda_match_id": "1411660",
             "type": "winner"
           }
         ]
@@ -7344,7 +7344,7 @@
       "name_en": "Stage 1 Group 2 · RNG.M vs ESP",
       "name_zh": "Stage 1 Group 2 · RNG.M vs ESP",
       "date": "2026-06-21",
-      "time": "14:00",
+      "time": "14:08",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -7352,7 +7352,7 @@
       "description_en": "Royal Never Give Up vs eStar Pro — Stage 1 Group 2 (CST)",
       "description_zh": "Royal Never Give Up vs eStar Pro — Stage 1 Group 2（北京时间）",
       "url": "https://www.youtube.com/watch?v=H2KvuMpfKGo",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-06-21",
       "verified_by": "official",
       "teams": {
@@ -7371,6 +7371,12 @@
           "image_url": "https://cdn-api.pandascore.co/images/team/image/129033/186px_e_star_pro_logo.png"
         }
       },
+      "result": {
+        "away_score": 1,
+        "home_score": 3,
+        "winner": "home",
+        "status": "completed"
+      },
       "details": {
         "赛事": "King Pro League",
         "赛季": "Summer 2026",
@@ -7384,7 +7390,7 @@
       "name_en": "Stage 1 Group 1 · JDG vs TES.A",
       "name_zh": "Stage 1 Group 1 · JDG vs TES.A",
       "date": "2026-06-21",
-      "time": "17:00",
+      "time": "17:07",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -7392,7 +7398,7 @@
       "description_en": "JD Gaming vs TOP Esports Armor — Stage 1 Group 1 (CST)",
       "description_zh": "JD Gaming vs TOP Esports Armor — Stage 1 Group 1（北京时间）",
       "url": "https://live.bilibili.com/55",
-      "status": "confirmed",
+      "status": "active",
       "last_verified": "2026-06-21",
       "verified_by": "official",
       "teams": {
@@ -7410,6 +7416,12 @@
           "name_en": "TOP Esports Armor",
           "image_url": "https://cdn-api.pandascore.co/images/team/image/129644/600px_top_esports_armor_2025_allmode.png"
         }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "active"
       },
       "details": {
         "赛事": "King Pro League",
