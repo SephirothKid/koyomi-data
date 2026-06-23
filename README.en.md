@@ -24,15 +24,13 @@ webcal://koyomi.pages.dev/ical/sports/football/epl.ics
 
 | Category | Count | Description |
 |----------|-------|-------------|
-| 🎓 **Exam** `exam/` | 30+ | CPA, Bar Exam, Constructor License, Teacher Qualification, CET-4/6, Civil Service Exam, etc. |
-| 🎮 **Gaming** `gaming/` | 7+ | Steam Sales, Epic Free Games, Genshin/HSR Version Updates, CS2 Tournaments, etc. |
-| ⚽ **Sports** `sports/` | 18+ | Top 5 Football Leagues, UEFA Champions League, NBA, F1, Tennis Grand Slams, LPL/KPL, etc. |
-| 🛍️ **Shopping** `shopping/` | 4+ | Black Friday, Prime Day, etc. |
-| 🎬 **Entertainment** `entertainment/` | 2+ | Bilibili Annual Events, Music Festivals, etc. |
-| 🌍 **Holidays** `holidays/` | 15+ | Public holidays for China, US, Japan, UK, Germany, and 10+ other countries |
-| 📦 **Other** `other/` | 1+ | Miscellaneous event sources |
+| 🎓 **Exam** `exam/` | 32 | CPA, Bar Exam, Constructor License, Teacher Qualification, CET-4/6, Civil Service Exam, etc. |
+| 🎮 **Gaming** `gaming/` | 11 | Steam Sales, Epic Free Games, Genshin/HSR/ZZZ Version Updates, CS2 Tournaments, etc. |
+| ⚽ **Sports** `sports/` | 17 | Top 5 Football Leagues, UEFA Champions League, NBA, F1, Tennis Grand Slams, LPL/KPL, etc. |
+| 🌍 **Holidays** `holidays/` | 15 | Public holidays for China, US, Japan, UK, Germany, and 10+ other countries |
+| 📦 **Other** `other/` | 0 | Reserved category, currently empty |
 
-**Total: 76+ event sources · 512+ iCal files**
+**Total: 75 event sources · 616 iCal files**
 
 ---
 
@@ -43,25 +41,23 @@ koyomi-data/
 ├── events/                    # Event source JSON data (single source of truth)
 │   ├── exam/                  # Exams
 │   ├── gaming/                # Gaming
+│   ├── holidays/              # Public holidays by country
+│   ├── other/                 # Miscellaneous (reserved)
+│   └── sports/                # Sports
+│
+├── ical/                      # Auto-generated iCal files (do not edit manually)
+│   ├── exam/                  # Exams (directly under category)
+│   ├── gaming/                # Gaming
 │   │   ├── esports/           # Esports tournaments
 │   │   ├── gacha/             # Gacha / version updates
 │   │   └── platform/          # Platform sales & promotions
-│   ├── sports/                # Sports
-│   │   ├── basketball/        # Basketball
-│   │   ├── esports/           # Esports as sports
-│   │   ├── football/          # Football / Soccer
-│   │   ├── motorsport/        # Motorsport
-│   │   └── tennis/            # Tennis
-│   ├── shopping/              # Shopping events
-│   ├── entertainment/         # Entertainment
-│   ├── holidays/              # Public holidays by country
-│   └── other/                 # Miscellaneous
-│
-├── ical/                      # Auto-generated iCal files (do not edit manually)
-│   └── {category}/
-│       └── {subcategory}/
-│           ├── {source-id}.ics      # Chinese version
-│           └── {source-id}-en.ics   # English version
+│   ├── holidays/              # Public holidays (directly under category)
+│   └── sports/                # Sports
+│       ├── basketball/        # Basketball (NBA per-team splits)
+│       ├── esports/           # Esports as sports (LPL/KPL)
+│       ├── football/          # Football / Soccer (top 5 leagues, UCL/EL/CON)
+│       ├── motorsport/        # Motorsport (F1)
+│       └── tennis/            # Tennis (Grand Slams)
 │
 ├── schemas/                   # JSON Schema validation specs
 │   └── event-source.schema.json
@@ -70,7 +66,8 @@ koyomi-data/
 │   ├── validate.js            # JSON Schema validation
 │   ├── generate-ical.js       # iCal file generation
 │   ├── check-freshness.js     # Data freshness check
-│   └── fill-name-en.mjs       # English field auto-fill tool
+│   ├── fill-name-en.mjs       # English field auto-fill tool
+│   └── inject-worldcup-teams.mjs  # World Cup team injection tool
 │
 └── .github/workflows/         # GitHub Actions automation
     ├── validate.yml           # Validate JSON on PR
@@ -105,13 +102,11 @@ koyomi-data/
 |-------|------|-------------|
 | `id` | string | Unique identifier, lowercase + hyphens, **no year** |
 | `name` / `name_en` | string | Event source name (Chinese / English) |
-| `category` | string | `exam` / `gaming` / `sports` / `shopping` / `entertainment` / `holidays` / `other` |
+| `category` | string | `exam` / `gaming` / `sports` / `holidays` / `other` |
 | `subcategory` | string | Sub-field, e.g. `finance-accounting`, `esports`, `football` |
 | `events[].id` | string | Unique event ID format: `{source}-{year}-{slug}` |
 | `events[].date` | string | ISO 8601 date, e.g. `2026-04-08` |
 | `events[].end_date` | string | Required only for `range` type events |
-| `events[].time` / `events[].end_time` | string | Official local time or time range, format `HH:mm` |
-| `events[].time_kind` | string | `date` / `datetime` / `date_range` / `datetime_range` |
 | `events[].type` | string | `deadline` / `event` / `range` / `announcement` |
 | `events[].timezone` | string | Default for mainland China: `Asia/Shanghai` |
 | `events[].status` | string | `planned` / `confirmed` / `active` / `completed` |
@@ -120,17 +115,11 @@ koyomi-data/
 
 Full specification: [`schemas/event-source.schema.json`](./schemas/event-source.schema.json).
 
-`date` / `date_range` are all-day events in the official calendar context, such as holidays, exam dates, and sale periods. They should not shift by user timezone. `datetime` / `datetime_range` are exact instants or timed ranges, such as match kickoffs, product events, and deadlines. Keep the official `timezone` so clients can render the user's local time.
-
 ---
 
 ## Local Development
 
 ```bash
-# Clone the repository
-git clone https://github.com/SephirothKid/koyomi-data.git
-cd koyomi-data
-
 # Install dependencies
 npm ci
 
@@ -160,21 +149,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
 
 ---
 
-## Related Projects
-
-| Project | Description |
-|---------|-------------|
-| [koyomi](https://github.com/SephirothKid/koyomi) | Main repo — Web site (Astro + React), iOS App (SwiftUI), WeChat Mini Program |
-| [koyomi-data](https://github.com/SephirothKid/koyomi-data) | This repo — Open event data and iCal generation |
-
----
-
-## License
-
-Event data follows open data principles. See the main repository for the specific license. Free to use, cite, and contribute.
-
----
-
 <p align="center">
-  <sub>Made with ❤️ by <a href="https://my-koyomi.com">Koyomi - Cast · 岁岁如约</a></sub>
+  <sub>Made with ❤️ by Koyomi - Cast · 岁岁如约</sub>
 </p>
