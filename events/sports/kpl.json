@@ -6163,12 +6163,12 @@
         "label_zh": "败者组八强 2",
         "previous_matches": [
           {
-            "panda_match_id": "1411635",
-            "type": "winner"
-          },
-          {
             "panda_match_id": "1411638",
             "type": "loser"
+          },
+          {
+            "panda_match_id": "1411635",
+            "type": "winner"
           }
         ]
       }
@@ -6230,12 +6230,12 @@
         "label_zh": "败者组八强 1",
         "previous_matches": [
           {
-            "panda_match_id": "1411658",
-            "type": "loser"
-          },
-          {
             "panda_match_id": "1411636",
             "type": "winner"
+          },
+          {
+            "panda_match_id": "1411658",
+            "type": "loser"
           }
         ]
       }
@@ -7482,7 +7482,7 @@
       "name_en": "Stage 1 Group 1 · TES.A vs SYG",
       "name_zh": "Stage 1 Group 1 · TES.A vs SYG",
       "date": "2026-06-24",
-      "time": "14:00",
+      "time": "14:05",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -7490,7 +7490,7 @@
       "description_en": "TOP Esports Armor vs SYGaming — Stage 1 Group 1 (CST)",
       "description_zh": "TOP Esports Armor vs SYGaming — Stage 1 Group 1（北京时间）",
       "url": "https://live.bilibili.com/55",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-06-24",
       "verified_by": "official",
       "teams": {
@@ -7509,6 +7509,12 @@
           "image_url": "https://cdn-api.pandascore.co/images/team/image/137634/190px_sy_gaming_allmode.png"
         }
       },
+      "result": {
+        "away_score": 2,
+        "home_score": 3,
+        "winner": "home",
+        "status": "completed"
+      },
       "details": {
         "赛事": "King Pro League",
         "赛季": "Summer 2026",
@@ -7522,7 +7528,7 @@
       "name_en": "Stage 1 Group 1 · WE vs DRG",
       "name_zh": "Stage 1 Group 1 · WE vs DRG",
       "date": "2026-06-24",
-      "time": "17:00",
+      "time": "17:44",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -7530,7 +7536,7 @@
       "description_en": "Team WE vs Dragon Ranger Gaming — Stage 1 Group 1 (CST)",
       "description_zh": "Team WE vs Dragon Ranger Gaming — Stage 1 Group 1（北京时间）",
       "url": "https://live.bilibili.com/55",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-06-24",
       "verified_by": "official",
       "teams": {
@@ -7549,6 +7555,12 @@
           "image_url": "https://cdn-api.pandascore.co/images/team/image/132753/172px_dragon_ranger_gaming_logo_without_text_allmode.png"
         }
       },
+      "result": {
+        "away_score": 3,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
       "details": {
         "赛事": "King Pro League",
         "赛季": "Summer 2026",
@@ -7562,7 +7574,7 @@
       "name_en": "Stage 1 Group 3 · RW vs KSG",
       "name_zh": "Stage 1 Group 3 · RW vs KSG",
       "date": "2026-06-24",
-      "time": "20:00",
+      "time": "20:40",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -7570,7 +7582,7 @@
       "description_en": "Rogue Warriors vs Kuaishou Gaming — Stage 1 Group 3 (CST)",
       "description_zh": "Rogue Warriors vs Kuaishou Gaming — Stage 1 Group 3（北京时间）",
       "url": "https://live.bilibili.com/55",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-06-24",
       "verified_by": "official",
       "teams": {
@@ -7588,6 +7600,12 @@
           "name_en": "Kuaishou Gaming",
           "image_url": "https://cdn-api.pandascore.co/images/team/image/129036/782px_kuaishou_gaming_2025_allmode.png"
         }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 3,
+        "winner": "home",
+        "status": "completed"
       },
       "details": {
         "赛事": "King Pro League",
