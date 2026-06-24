@@ -10,32 +10,6 @@ X-WR-CALDESC:F1 全年分站赛程，持续更新当前及未来赛季，
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-UID:f1-2026-f1-2026-r05-quali@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260615T000000
-DTSTART;TZID=Asia/Shanghai:20260524T040000
-DTEND;TZID=Asia/Shanghai:20260524T050000
-SUMMARY:F1 赛季赛程 · Canadian GP 排位赛
-DESCRIPTION:Canadian Grand Prix（北京时间）\n\ncircuit: Circuit Gill
- es Villeneuve\nlocation: Montreal\, Canada\nround: 第 5 站，共 22 站
-CATEGORIES:F1 赛季赛程
-URL;VALUE=URI:https://www.formula1.com/en/racing/2026
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:f1-2026-f1-2026-r05-sprint@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260615T000000
-DTSTART;TZID=Asia/Shanghai:20260524T000000
-DTEND;TZID=Asia/Shanghai:20260524T010000
-SUMMARY:F1 赛季赛程 · Canadian GP 冲刺赛
-DESCRIPTION:Canadian Grand Prix（北京时间）\n\ncircuit: Circuit Gill
- es Villeneuve\nlocation: Montreal\, Canada\nround: 第 5 站，共 22 站
-CATEGORIES:F1 赛季赛程
-URL;VALUE=URI:https://www.formula1.com/en/racing/2026
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:f1-2026-f1-2026-r05-race@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260615T000000
