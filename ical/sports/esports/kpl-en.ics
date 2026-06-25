@@ -301,8 +301,8 @@ BEGIN:VEVENT
 UID:kpl-kpl-2026-m1526402@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260625T000000
-DTSTART;TZID=Asia/Shanghai:20260625T200000
-DTEND;TZID=Asia/Shanghai:20260625T210000
+DTSTART;TZID=Asia/Shanghai:20260625T200400
+DTEND;TZID=Asia/Shanghai:20260625T210400
 SUMMARY:King Pro League · Stage 1 Group 2 · LGD vs ESP
 DESCRIPTION:LGD NBW vs eStar Pro — Stage 1 Group 2 (CST)\n\n赛事: King
   Pro League\n赛季: Summer 2026\n阶段: Stage 1 Group 2\n赛制: BO5
@@ -335,7 +335,7 @@ DESCRIPTION:Hero JiuJing vs EDward Gaming — Stage 1 Group 2 (CST)\n\n赛
  事: King Pro League\n赛季: Summer 2026\n阶段: Stage 1 Group 2\n赛制
  : BO5
 CATEGORIES:King Pro League
-URL;VALUE=URI:https://www.youtube.com/@2019KPL/live
+URL;VALUE=URI:https://live.bilibili.com/55
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -349,7 +349,7 @@ DESCRIPTION:JD Gaming vs Talent Gaming — Stage 1 Group 1 (CST)\n\n赛事
  : King Pro League\n赛季: Summer 2026\n阶段: Stage 1 Group 1\n赛制: B
  O5
 CATEGORIES:King Pro League
-URL;VALUE=URI:https://www.youtube.com/@2019KPL/live
+URL;VALUE=URI:https://live.bilibili.com/55
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT

@@ -6163,12 +6163,12 @@
         "label_zh": "败者组八强 2",
         "previous_matches": [
           {
-            "panda_match_id": "1411638",
-            "type": "loser"
-          },
-          {
             "panda_match_id": "1411635",
             "type": "winner"
+          },
+          {
+            "panda_match_id": "1411638",
+            "type": "loser"
           }
         ]
       }
@@ -6230,12 +6230,12 @@
         "label_zh": "败者组八强 1",
         "previous_matches": [
           {
-            "panda_match_id": "1411636",
-            "type": "winner"
-          },
-          {
             "panda_match_id": "1411658",
             "type": "loser"
+          },
+          {
+            "panda_match_id": "1411636",
+            "type": "winner"
           }
         ]
       }
@@ -6364,11 +6364,11 @@
         "label_zh": "败者组四强",
         "previous_matches": [
           {
-            "panda_match_id": "1411660",
+            "panda_match_id": "1411659",
             "type": "winner"
           },
           {
-            "panda_match_id": "1411659",
+            "panda_match_id": "1411660",
             "type": "winner"
           }
         ]
@@ -7674,7 +7674,7 @@
       "description_en": "WST vs Douyu Gaming — Stage 1 Group 3 (CST)",
       "description_zh": "WST vs Douyu Gaming — Stage 1 Group 3（北京时间）",
       "url": "https://live.bilibili.com/55",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-06-25",
       "verified_by": "official",
       "teams": {
@@ -7695,9 +7695,9 @@
       },
       "result": {
         "away_score": 0,
-        "home_score": 2,
+        "home_score": 3,
         "winner": "home",
-        "status": "active"
+        "status": "completed"
       },
       "details": {
         "赛事": "King Pro League",
@@ -7712,7 +7712,7 @@
       "name_en": "Stage 1 Group 2 · LGD vs ESP",
       "name_zh": "Stage 1 Group 2 · LGD vs ESP",
       "date": "2026-06-25",
-      "time": "20:00",
+      "time": "20:04",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -7720,7 +7720,7 @@
       "description_en": "LGD NBW vs eStar Pro — Stage 1 Group 2 (CST)",
       "description_zh": "LGD NBW vs eStar Pro — Stage 1 Group 2（北京时间）",
       "url": "https://live.bilibili.com/55",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-06-25",
       "verified_by": "official",
       "teams": {
@@ -7738,6 +7738,12 @@
           "name_en": "eStar Pro",
           "image_url": "https://cdn-api.pandascore.co/images/team/image/129033/186px_e_star_pro_logo.png"
         }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
       },
       "details": {
         "赛事": "King Pro League",
@@ -7799,7 +7805,7 @@
       "description": "Hero JiuJing vs EDward Gaming — Stage 1 Group 2（北京时间）",
       "description_en": "Hero JiuJing vs EDward Gaming — Stage 1 Group 2 (CST)",
       "description_zh": "Hero JiuJing vs EDward Gaming — Stage 1 Group 2（北京时间）",
-      "url": "https://www.youtube.com/@2019KPL/live",
+      "url": "https://live.bilibili.com/55",
       "status": "confirmed",
       "last_verified": "2026-06-25",
       "verified_by": "official",
@@ -7839,7 +7845,7 @@
       "description": "JD Gaming vs Talent Gaming — Stage 1 Group 1（北京时间）",
       "description_en": "JD Gaming vs Talent Gaming — Stage 1 Group 1 (CST)",
       "description_zh": "JD Gaming vs Talent Gaming — Stage 1 Group 1（北京时间）",
-      "url": "https://www.youtube.com/@2019KPL/live",
+      "url": "https://live.bilibili.com/55",
       "status": "confirmed",
       "last_verified": "2026-06-25",
       "verified_by": "official",
