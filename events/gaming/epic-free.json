@@ -21,7 +21,7 @@
   "subscriber_count": 30160,
   "rating": 4.4,
   "rating_count": 460,
-  "last_updated": "2026-06-19",
+  "last_updated": "2026-06-25",
   "events": [
     {
       "id": "epic-free-2026-w21",
@@ -215,8 +215,8 @@
       "year": 2026,
       "description": "本周免费游戏：Voidwrought",
       "url": "https://store.epicgames.com/zh-CN/free-games",
-      "status": "confirmed",
-      "last_verified": "2026-06-19",
+      "status": "active",
+      "last_verified": "2026-06-25",
       "verified_by": "auto",
       "details": {
         "领取方式": "Epic Games Store 客户端/网页",
@@ -231,6 +231,42 @@
           "cover_url": "https://cdn1.epicgames.com/spt-assets/ae3f962fab4d42eba2dbefa4a1e76ff6/voidwrought-9gwxt.png",
           "original_price": "¥76.00",
           "store_url": "https://store.epicgames.com/zh-CN/p/8d0e69e541454ac7818117af13960b30"
+        }
+      ]
+    },
+    {
+      "id": "epic-free-2026-w27",
+      "name": "热血硬派国夫君外传 热血少女2、I Have No Mouth, and I Must Scream",
+      "date": "2026-07-02",
+      "time": "23:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "本周免费游戏：热血硬派国夫君外传 热血少女2、I Have No Mouth, and I Must Scream",
+      "url": "https://store.epicgames.com/zh-CN/free-games",
+      "status": "confirmed",
+      "last_verified": "2026-06-25",
+      "verified_by": "auto",
+      "details": {
+        "领取方式": "Epic Games Store 客户端/网页",
+        "领取条件": "免费注册账号即可",
+        "注意事项": "每周四 23:00 更新，领取后永久拥有",
+        "本周游戏": "热血硬派国夫君外传 热血少女2、I Have No Mouth, and I Must Scream"
+      },
+      "games": [
+        {
+          "title": "热血硬派国夫君外传 热血少女2",
+          "description": "Higher stakes. Meaner streets. The River City Girls are back in action!",
+          "cover_url": "https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-12b0w.png",
+          "original_price": "¥128.00",
+          "store_url": "https://store.epicgames.com/zh-CN/p/f6229ed5b32d4e098b930103b6470b49"
+        },
+        {
+          "title": "I Have No Mouth, and I Must Scream",
+          "description": "The Allied Mastercomputer has destroyed all of humanity except for five people, whom it has been keeping them alive and torturing them for the past one hundred and nine years by designing virtual adventures based on their fears and weaknesses.",
+          "cover_url": "https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-1f2lo.png",
+          "original_price": "¥31.00",
+          "store_url": "https://store.epicgames.com/zh-CN/p/0937dc8ff7874fb8897a678d8a27c9ac"
         }
       ]
     }
