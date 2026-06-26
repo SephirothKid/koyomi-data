@@ -39,6 +39,8 @@ const SUBCATEGORY_MAP = {
   f1: 'motorsport',
   // esports (gaming)
   'cs2-tournaments': 'esports',
+  lpl: 'esports',
+  kpl: 'esports',
   // gacha (gaming)
   'genshin-impact': 'gacha',
   'honkai-star-rail': 'gacha',
@@ -48,9 +50,6 @@ const SUBCATEGORY_MAP = {
   'epic-free': 'platform',
   'steam-sales': 'platform',
   'console-showcases': 'platform',
-  // esports (sports)
-  lpl: 'esports',
-  kpl: 'esports',
 }
 
 function getSubcategory(source) {

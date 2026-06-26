@@ -490,7 +490,7 @@ function generateNameEn(event, sourceId, filePath) {
   // File-specific handlers
   if (filePath.includes('/sports/f1')) return handleF1(event)
   if (filePath.includes('/sports/nba')) return handleNBA(event)
-  if (filePath.includes('/sports/lpl')) return handleLPL(event)
+  if (filePath.includes('/gaming/lpl')) return handleLPL(event)
   if (filePath.includes('/sports/roland-garros')) return handleRolandGarros(event)
 
   if (filePath.includes('/gaming/genshin') ||

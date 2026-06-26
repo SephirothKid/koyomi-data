@@ -25,8 +25,8 @@ webcal://koyomi.pages.dev/ical/sports/football/epl.ics
 | 分类 | 数量 | 说明 |
 |------|------|------|
 | 🎓 **考试** `exam/` | 32 | CPA、法考、建造师、教师资格证、四六级、公务员考试等 |
-| 🎮 **游戏** `gaming/` | 11 | Steam 促销、Epic 喜加一、原神/星铁/绝区零版本更新、CS2 赛事等 |
-| ⚽ **体育** `sports/` | 17 | 五大联赛、欧冠、NBA、F1、网球大满贯、LPL/KPL 等 |
+| 🎮 **游戏** `gaming/` | 13 | Steam 促销、Epic 喜加一、原神/星铁/绝区零版本更新、CS2/LPL/KPL 赛事等 |
+| ⚽ **体育** `sports/` | 15 | 五大联赛、欧冠、NBA、F1、网球大满贯等 |
 | 🌍 **节假日** `holidays/` | 15 | 中国、美国、日本、英国、德国等 15 国公共假期 |
 | 📦 **其他** `other/` | 0 | 预留分类，暂无内容 |
 
@@ -48,13 +48,12 @@ koyomi-data/
 ├── ical/                      # 自动生成的 iCal 文件（请勿手动编辑）
 │   ├── exam/                  # 考试类（直接放 category 下）
 │   ├── gaming/                # 游戏类
-│   │   ├── esports/           # 电竞赛事
+│   │   ├── esports/           # 电竞赛事（CS2/LPL/KPL）
 │   │   ├── gacha/             # 抽卡/版本更新
 │   │   └── platform/          # 平台促销
 │   ├── holidays/              # 各国公共假期（直接放 category 下）
 │   └── sports/                # 体育类
 │       ├── basketball/        # 篮球（NBA 按球队细分）
-│       ├── esports/           # 电竞体育（LPL/KPL）
 │       ├── football/          # 足球（五大联赛、欧冠、欧联、欧协联）
 │       ├── motorsport/        # 赛车（F1）
 │       └── tennis/            # 网球（四大满贯）
