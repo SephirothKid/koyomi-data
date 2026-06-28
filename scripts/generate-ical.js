@@ -9,7 +9,7 @@ const ROOT = resolve(__dirname, '..')
 const EVENTS_DIR = join(ROOT, 'events')
 const ICAL_DIR = join(ROOT, 'ical')
 const SEASONAL_FOOTBALL_SOURCE_IDS = new Set(['epl', 'bundesliga', 'laliga', 'seriea', 'ligue1', 'ucl', 'uel', 'uecl'])
-const TEAM_CALENDAR_SOURCE_IDS = new Set(['nba', 'epl', 'bundesliga', 'laliga', 'seriea', 'ligue1', 'ucl', 'uel', 'uecl'])
+const TEAM_CALENDAR_SOURCE_IDS = new Set(['nba', 'cba', 'epl', 'csl', 'bundesliga', 'laliga', 'seriea', 'ligue1', 'ucl', 'uel', 'uecl'])
 const DEFAULT_TIMEZONE = 'Asia/Shanghai'
 const LEGACY_ICAL_ALIASES = {
   f1: [{ id: 'f1-2026' }],
@@ -27,9 +27,11 @@ const SUBCATEGORY_MAP = {
   ucl: 'football',
   uel: 'football',
   uecl: 'football',
+  csl: 'football',
   worldcup: 'football',
   // basketball
   nba: 'basketball',
+  cba: 'basketball',
   // tennis
   'australian-open': 'tennis',
   'roland-garros': 'tennis',
@@ -39,6 +41,8 @@ const SUBCATEGORY_MAP = {
   f1: 'motorsport',
   // esports (gaming)
   'cs2-tournaments': 'esports',
+  lpl: 'esports',
+  kpl: 'esports',
   // gacha (gaming)
   'genshin-impact': 'gacha',
   'honkai-star-rail': 'gacha',
@@ -48,9 +52,6 @@ const SUBCATEGORY_MAP = {
   'epic-free': 'platform',
   'steam-sales': 'platform',
   'console-showcases': 'platform',
-  // esports (sports)
-  lpl: 'esports',
-  kpl: 'esports',
 }
 
 function getSubcategory(source) {

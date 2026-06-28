@@ -25,8 +25,8 @@ webcal://koyomi.pages.dev/ical/sports/football/epl.ics
 | Category | Count | Description |
 |----------|-------|-------------|
 | 🎓 **Exam** `exam/` | 32 | CPA, Bar Exam, Constructor License, Teacher Qualification, CET-4/6, Civil Service Exam, etc. |
-| 🎮 **Gaming** `gaming/` | 11 | Steam Sales, Epic Free Games, Genshin/HSR/ZZZ Version Updates, CS2 Tournaments, etc. |
-| ⚽ **Sports** `sports/` | 17 | Top 5 Football Leagues, UEFA Champions League, NBA, F1, Tennis Grand Slams, LPL/KPL, etc. |
+| 🎮 **Gaming** `gaming/` | 13 | Steam Sales, Epic Free Games, Genshin/HSR/ZZZ Version Updates, CS2/LPL/KPL tournaments, etc. |
+| ⚽ **Sports** `sports/` | 15 | Top 5 Football Leagues, UEFA Champions League, NBA, F1, Tennis Grand Slams, etc. |
 | 🌍 **Holidays** `holidays/` | 15 | Public holidays for China, US, Japan, UK, Germany, and 10+ other countries |
 | 📦 **Other** `other/` | 0 | Reserved category, currently empty |
 
@@ -48,13 +48,12 @@ koyomi-data/
 ├── ical/                      # Auto-generated iCal files (do not edit manually)
 │   ├── exam/                  # Exams (directly under category)
 │   ├── gaming/                # Gaming
-│   │   ├── esports/           # Esports tournaments
+│   │   ├── esports/           # Esports tournaments (CS2/LPL/KPL)
 │   │   ├── gacha/             # Gacha / version updates
 │   │   └── platform/          # Platform sales & promotions
 │   ├── holidays/              # Public holidays (directly under category)
 │   └── sports/                # Sports
 │       ├── basketball/        # Basketball (NBA per-team splits)
-│       ├── esports/           # Esports as sports (LPL/KPL)
 │       ├── football/          # Football / Soccer (top 5 leagues, UCL/EL/CON)
 │       ├── motorsport/        # Motorsport (F1)
 │       └── tennis/            # Tennis (Grand Slams)
