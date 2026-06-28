@@ -7224,7 +7224,7 @@
       "description": "浙江俱乐部绿城 作客 青岛西海岸（中超 2026 赛季，北京时间）",
       "description_en": "Zhejiang at Qingdao West Coast (Chinese Super League 2026, Beijing time)",
       "url": "https://www.cfl-china.cn/zh/fixtures/details.html?match_id=75odjerpx342nz3pfdbewvy1g&competition_code=CSL&local_date=2026-06-28&home_contestant_id=2ff3aaqtf2g91wbcz4w80kkr8&away_contestant_id=a3l87ozfq8bjwpy0nxvs5w28o",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-06-28",
       "verified_by": "auto",
       "teams": {
@@ -7248,6 +7248,7 @@
         "轮次": "第 16 轮",
         "主场": "青岛西海岸",
         "客场": "浙江俱乐部绿城",
+        "比分": "青岛西海岸 3 - 1 浙江俱乐部绿城",
         "场馆": "青岛西海岸大学城体育场"
       },
       "details_en": {
@@ -7255,7 +7256,15 @@
         "Round": "Round 16",
         "Home": "Qingdao West Coast",
         "Away": "Zhejiang",
+        "Score": "Qingdao West Coast 3 - 1 Zhejiang",
         "Venue": "Qingdao West Coast University City Stadium"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT",
+        "score": "3 - 1"
       }
     },
     {
@@ -7272,7 +7281,7 @@
       "description": "上海申花 作客 大连英博海发（中超 2026 赛季，北京时间）",
       "description_en": "Shanghai Shenhua at Dalian Yingbo (Chinese Super League 2026, Beijing time)",
       "url": "https://www.cfl-china.cn/zh/fixtures/details.html?match_id=767f4gtmnn8929ih2473r7ms4&competition_code=CSL&local_date=2026-06-28&home_contestant_id=dicpumaiand6vk7vqbn4tqdxw&away_contestant_id=cvx4yvx5oby9dz7vm70mw04um",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-06-28",
       "verified_by": "auto",
       "teams": {
@@ -7296,6 +7305,7 @@
         "轮次": "第 16 轮",
         "主场": "大连英博海发",
         "客场": "上海申花",
+        "比分": "大连英博海发 1 - 4 上海申花",
         "场馆": "大连梭鱼湾足球场"
       },
       "details_en": {
@@ -7303,7 +7313,15 @@
         "Round": "Round 16",
         "Home": "Dalian Yingbo",
         "Away": "Shanghai Shenhua",
+        "Score": "Dalian Yingbo 1 - 4 Shanghai Shenhua",
         "Venue": "Dalian Suoyuwan Football Stadium"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 4,
+        "winner": "away",
+        "status": "FT",
+        "score": "1 - 4"
       }
     },
     {
