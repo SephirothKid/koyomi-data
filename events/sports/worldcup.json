@@ -2751,7 +2751,7 @@
     },
     {
       "id": "worldcup-2026-m74",
-      "name": "三十二强赛 · 德国 vs 3A/B/C/D/F",
+      "name": "三十二强赛 · 德国 vs 巴拉圭",
       "date": "2026-06-30",
       "time": "04:30",
       "timezone": "Asia/Shanghai",
@@ -2769,9 +2769,9 @@
           "name": "德国"
         },
         "away": {
-          "id": "3a-b-c-d-f",
-          "code": "3A/",
-          "name": "3A/B/C/D/F"
+          "id": "par",
+          "code": "PAR",
+          "name": "巴拉圭"
         }
       },
       "details": {
@@ -2811,7 +2811,7 @@
     },
     {
       "id": "worldcup-2026-m78",
-      "name": "三十二强赛 · 科特迪瓦 vs 2I",
+      "name": "三十二强赛 · 科特迪瓦 vs 挪威",
       "date": "2026-07-01",
       "time": "01:00",
       "timezone": "Asia/Shanghai",
@@ -2829,9 +2829,9 @@
           "name": "科特迪瓦"
         },
         "away": {
-          "id": "2i",
-          "code": "2I",
-          "name": "2I"
+          "id": "nor",
+          "code": "NOR",
+          "name": "挪威"
         }
       },
       "details": {
@@ -2841,7 +2841,7 @@
     },
     {
       "id": "worldcup-2026-m77",
-      "name": "三十二强赛 · 1I vs 3C/D/F/G/H",
+      "name": "三十二强赛 · 法国 vs 瑞典",
       "date": "2026-07-01",
       "time": "05:00",
       "timezone": "Asia/Shanghai",
@@ -2854,14 +2854,14 @@
       "verified_by": "auto",
       "teams": {
         "home": {
-          "id": "1i",
-          "code": "1I",
-          "name": "1I"
+          "id": "fra",
+          "code": "FRA",
+          "name": "法国"
         },
         "away": {
-          "id": "3c-d-f-g-h",
-          "code": "3C/",
-          "name": "3C/D/F/G/H"
+          "id": "swe",
+          "code": "SWE",
+          "name": "瑞典"
         }
       },
       "details": {
@@ -2871,7 +2871,7 @@
     },
     {
       "id": "worldcup-2026-m79",
-      "name": "三十二强赛 · 墨西哥 vs 3C/E/F/H/I",
+      "name": "三十二强赛 · 墨西哥 vs 厄瓜多尔",
       "date": "2026-07-01",
       "time": "09:00",
       "timezone": "Asia/Shanghai",
@@ -2889,9 +2889,9 @@
           "name": "墨西哥"
         },
         "away": {
-          "id": "3c-e-f-h-i",
-          "code": "3C/",
-          "name": "3C/E/F/H/I"
+          "id": "ecu",
+          "code": "ECU",
+          "name": "厄瓜多尔"
         }
       },
       "details": {
@@ -2901,7 +2901,7 @@
     },
     {
       "id": "worldcup-2026-m80",
-      "name": "三十二强赛 · 1L vs 3E/H/I/J/K",
+      "name": "三十二强赛 · 英格兰 vs 刚果民主共和国",
       "date": "2026-07-02",
       "time": "00:00",
       "timezone": "Asia/Shanghai",
@@ -2914,14 +2914,14 @@
       "verified_by": "auto",
       "teams": {
         "home": {
-          "id": "1l",
-          "code": "1L",
-          "name": "1L"
+          "id": "eng",
+          "code": "ENG",
+          "name": "英格兰"
         },
         "away": {
-          "id": "3e-h-i-j-k",
-          "code": "3E/",
-          "name": "3E/H/I/J/K"
+          "id": "cod",
+          "code": "COD",
+          "name": "刚果民主共和国"
         }
       },
       "details": {
@@ -2931,7 +2931,7 @@
     },
     {
       "id": "worldcup-2026-m82",
-      "name": "三十二强赛 · 1G vs 3A/E/H/I/J",
+      "name": "三十二强赛 · 比利时 vs 塞内加尔",
       "date": "2026-07-02",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
@@ -2944,14 +2944,14 @@
       "verified_by": "auto",
       "teams": {
         "home": {
-          "id": "1g",
-          "code": "1G",
-          "name": "1G"
+          "id": "bel",
+          "code": "BEL",
+          "name": "比利时"
         },
         "away": {
-          "id": "3a-e-h-i-j",
-          "code": "3A/",
-          "name": "3A/E/H/I/J"
+          "id": "sen",
+          "code": "SEN",
+          "name": "塞内加尔"
         }
       },
       "details": {
@@ -2961,7 +2961,7 @@
     },
     {
       "id": "worldcup-2026-m81",
-      "name": "三十二强赛 · 美国 vs 3B/E/F/I/J",
+      "name": "三十二强赛 · 美国 vs 波黑",
       "date": "2026-07-02",
       "time": "08:00",
       "timezone": "Asia/Shanghai",
@@ -2979,9 +2979,9 @@
           "name": "美国"
         },
         "away": {
-          "id": "3b-e-f-i-j",
-          "code": "3B/",
-          "name": "3B/E/F/I/J"
+          "id": "bih",
+          "code": "BIH",
+          "name": "波黑"
         }
       },
       "details": {
@@ -2991,7 +2991,7 @@
     },
     {
       "id": "worldcup-2026-m84",
-      "name": "三十二强赛 · 1H vs 2J",
+      "name": "三十二强赛 · 西班牙 vs 奥地利",
       "date": "2026-07-03",
       "time": "03:00",
       "timezone": "Asia/Shanghai",
@@ -3004,14 +3004,14 @@
       "verified_by": "auto",
       "teams": {
         "home": {
-          "id": "1h",
-          "code": "1H",
-          "name": "1H"
+          "id": "esp",
+          "code": "ESP",
+          "name": "西班牙"
         },
         "away": {
-          "id": "2j",
-          "code": "2J",
-          "name": "2J"
+          "id": "aut",
+          "code": "AUT",
+          "name": "奥地利"
         }
       },
       "details": {
@@ -3021,7 +3021,7 @@
     },
     {
       "id": "worldcup-2026-m83",
-      "name": "三十二强赛 · 2K vs 2L",
+      "name": "三十二强赛 · 葡萄牙 vs 克罗地亚",
       "date": "2026-07-03",
       "time": "07:00",
       "timezone": "Asia/Shanghai",
@@ -3034,14 +3034,14 @@
       "verified_by": "auto",
       "teams": {
         "home": {
-          "id": "2k",
-          "code": "2K",
-          "name": "2K"
+          "id": "por",
+          "code": "POR",
+          "name": "葡萄牙"
         },
         "away": {
-          "id": "2l",
-          "code": "2L",
-          "name": "2L"
+          "id": "cro",
+          "code": "CRO",
+          "name": "克罗地亚"
         }
       },
       "details": {
@@ -3051,7 +3051,7 @@
     },
     {
       "id": "worldcup-2026-m85",
-      "name": "三十二强赛 · 瑞士 vs 3E/F/G/I/J",
+      "name": "三十二强赛 · 瑞士 vs 阿尔及利亚",
       "date": "2026-07-03",
       "time": "11:00",
       "timezone": "Asia/Shanghai",
@@ -3069,9 +3069,9 @@
           "name": "瑞士"
         },
         "away": {
-          "id": "3e-f-g-i-j",
-          "code": "3E/",
-          "name": "3E/F/G/I/J"
+          "id": "alg",
+          "code": "ALG",
+          "name": "阿尔及利亚"
         }
       },
       "details": {
@@ -3081,7 +3081,7 @@
     },
     {
       "id": "worldcup-2026-m88",
-      "name": "三十二强赛 · 澳大利亚 vs 2G",
+      "name": "三十二强赛 · 澳大利亚 vs 埃及",
       "date": "2026-07-04",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
@@ -3099,9 +3099,9 @@
           "name": "澳大利亚"
         },
         "away": {
-          "id": "2g",
-          "code": "2G",
-          "name": "2G"
+          "id": "egy",
+          "code": "EGY",
+          "name": "埃及"
         }
       },
       "details": {
@@ -3111,7 +3111,7 @@
     },
     {
       "id": "worldcup-2026-m86",
-      "name": "三十二强赛 · 1J vs 2H",
+      "name": "三十二强赛 · 阿根廷 vs 佛得角",
       "date": "2026-07-04",
       "time": "06:00",
       "timezone": "Asia/Shanghai",
@@ -3124,14 +3124,14 @@
       "verified_by": "auto",
       "teams": {
         "home": {
-          "id": "1j",
-          "code": "1J",
-          "name": "1J"
+          "id": "arg",
+          "code": "ARG",
+          "name": "阿根廷"
         },
         "away": {
-          "id": "2h",
-          "code": "2H",
-          "name": "2H"
+          "id": "cpv",
+          "code": "CPV",
+          "name": "佛得角"
         }
       },
       "details": {
@@ -3141,7 +3141,7 @@
     },
     {
       "id": "worldcup-2026-m87",
-      "name": "三十二强赛 · 1K vs 3D/E/I/J/L",
+      "name": "三十二强赛 · 哥伦比亚 vs 加纳",
       "date": "2026-07-04",
       "time": "09:30",
       "timezone": "Asia/Shanghai",
@@ -3154,14 +3154,14 @@
       "verified_by": "auto",
       "teams": {
         "home": {
-          "id": "1k",
-          "code": "1K",
-          "name": "1K"
+          "id": "col",
+          "code": "COL",
+          "name": "哥伦比亚"
         },
         "away": {
-          "id": "3d-e-i-j-l",
-          "code": "3D/",
-          "name": "3D/E/I/J/L"
+          "id": "gha",
+          "code": "GHA",
+          "name": "加纳"
         }
       },
       "details": {
