@@ -2936,6 +2936,13 @@
           "name": "厄瓜多尔"
         }
       },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT",
+        "score": "2 - 0"
+      },
       "details": {
         "场馆": "Mexico City",
         "场次": "第 79 场"
@@ -3213,7 +3220,7 @@
     },
     {
       "id": "worldcup-2026-m90",
-      "name": "十六强赛 · 加拿大 vs W75",
+      "name": "十六强赛 · 加拿大 vs 摩洛哥",
       "date": "2026-07-05",
       "time": "01:00",
       "timezone": "Asia/Shanghai",
@@ -3231,9 +3238,9 @@
           "name": "加拿大"
         },
         "away": {
-          "id": "w75",
-          "code": "W75",
-          "name": "W75"
+          "id": "mar",
+          "code": "MAR",
+          "name": "摩洛哥"
         }
       },
       "details": {
@@ -3243,7 +3250,7 @@
     },
     {
       "id": "worldcup-2026-m89",
-      "name": "十六强赛 · W74 vs W77",
+      "name": "十六强赛 · 巴拉圭 vs 法国",
       "date": "2026-07-05",
       "time": "05:00",
       "timezone": "Asia/Shanghai",
@@ -3256,14 +3263,14 @@
       "verified_by": "auto",
       "teams": {
         "home": {
-          "id": "w74",
-          "code": "W74",
-          "name": "W74"
+          "id": "par",
+          "code": "PAR",
+          "name": "巴拉圭"
         },
         "away": {
-          "id": "w77",
-          "code": "W77",
-          "name": "W77"
+          "id": "fra",
+          "code": "FRA",
+          "name": "法国"
         }
       },
       "details": {
@@ -3273,7 +3280,7 @@
     },
     {
       "id": "worldcup-2026-m91",
-      "name": "十六强赛 · W76 vs W78",
+      "name": "十六强赛 · 巴西 vs 挪威",
       "date": "2026-07-06",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
@@ -3286,14 +3293,14 @@
       "verified_by": "auto",
       "teams": {
         "home": {
-          "id": "w76",
-          "code": "W76",
-          "name": "W76"
+          "id": "bra",
+          "code": "BRA",
+          "name": "巴西"
         },
         "away": {
-          "id": "w78",
-          "code": "W78",
-          "name": "W78"
+          "id": "nor",
+          "code": "NOR",
+          "name": "挪威"
         }
       },
       "details": {
