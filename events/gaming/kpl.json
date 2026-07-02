@@ -6297,11 +6297,11 @@
         "label_zh": "胜者组决赛",
         "previous_matches": [
           {
-            "panda_match_id": "1411658",
+            "panda_match_id": "1411638",
             "type": "winner"
           },
           {
-            "panda_match_id": "1411638",
+            "panda_match_id": "1411658",
             "type": "winner"
           }
         ]
@@ -6364,11 +6364,11 @@
         "label_zh": "败者组四强",
         "previous_matches": [
           {
-            "panda_match_id": "1411660",
+            "panda_match_id": "1411659",
             "type": "winner"
           },
           {
-            "panda_match_id": "1411659",
+            "panda_match_id": "1411660",
             "type": "winner"
           }
         ]
@@ -8318,7 +8318,7 @@
       "description_en": "Talent Gaming vs TOP Esports Armor — Stage 1 Group 1 (CST)",
       "description_zh": "Talent Gaming vs TOP Esports Armor — Stage 1 Group 1（北京时间）",
       "url": "https://www.youtube.com/watch?v=_tnwkj4oM2Y",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-07-02",
       "verified_by": "official",
       "teams": {
@@ -8337,6 +8337,12 @@
           "image_url": "https://cdn-api.pandascore.co/images/team/image/129644/600px_top_esports_armor_2025_allmode.png"
         }
       },
+      "result": {
+        "away_score": 2,
+        "home_score": 3,
+        "winner": "home",
+        "status": "completed"
+      },
       "details": {
         "赛事": "King Pro League",
         "赛季": "Summer 2026",
@@ -8350,7 +8356,7 @@
       "name_en": "Stage 1 Group 3 · DYG vs RW",
       "name_zh": "Stage 1 Group 3 · DYG vs RW",
       "date": "2026-07-02",
-      "time": "17:00",
+      "time": "17:46",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -8358,7 +8364,7 @@
       "description_en": "Douyu Gaming vs Rogue Warriors — Stage 1 Group 3 (CST)",
       "description_zh": "Douyu Gaming vs Rogue Warriors — Stage 1 Group 3（北京时间）",
       "url": "https://www.youtube.com/watch?v=_tnwkj4oM2Y",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-07-02",
       "verified_by": "official",
       "teams": {
@@ -8377,6 +8383,12 @@
           "image_url": "https://cdn-api.pandascore.co/images/team/image/129039/190px_rogue_warriors_2020_allmode.png"
         }
       },
+      "result": {
+        "away_score": 0,
+        "home_score": 3,
+        "winner": "home",
+        "status": "completed"
+      },
       "details": {
         "赛事": "King Pro League",
         "赛季": "Summer 2026",
@@ -8390,7 +8402,7 @@
       "name_en": "Stage 1 Group 1 · JDG vs WE",
       "name_zh": "Stage 1 Group 1 · JDG vs WE",
       "date": "2026-07-02",
-      "time": "20:00",
+      "time": "20:05",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -8398,7 +8410,7 @@
       "description_en": "JD Gaming vs Team WE — Stage 1 Group 1 (CST)",
       "description_zh": "JD Gaming vs Team WE — Stage 1 Group 1（北京时间）",
       "url": "https://www.youtube.com/watch?v=_tnwkj4oM2Y",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-07-02",
       "verified_by": "official",
       "teams": {
@@ -8416,6 +8428,12 @@
           "name_en": "Team WE",
           "image_url": "https://cdn-api.pandascore.co/images/team/image/129042/190px_team_we_notext.png"
         }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
       },
       "details": {
         "赛事": "King Pro League",
