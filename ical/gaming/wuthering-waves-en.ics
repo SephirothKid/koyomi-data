@@ -10,7 +10,7 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:wuthering-waves-wuthering-waves-2026-4551-version@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260613T000000
+DTSTAMP:20260704T000000
 DTSTART;TZID=Asia/Shanghai:20260430T110000
 DTEND;TZID=Asia/Shanghai:20260608T040000
 SUMMARY:Wuthering Waves Version Calendar · Wuthering Waves v3.3 Version D
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wuthering-waves-wuthering-waves-2026-4772-maintenance@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260613T000000
+DTSTAMP:20260704T000000
 DTSTART;TZID=Asia/Shanghai:20260608T040000
 DTEND;TZID=Asia/Shanghai:20260608T110000
 SUMMARY:Wuthering Waves Version Calendar · Wuthering Waves v3.4 Maintenan
@@ -43,26 +43,59 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wuthering-waves-wuthering-waves-2026-4772-version@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260613T000000
+DTSTAMP:20260704T000000
 DTSTART;TZID=Asia/Shanghai:20260608T110000
-DTEND;TZID=Asia/Shanghai:20260720T040000
+DTEND;TZID=Asia/Shanghai:20260710T040000
 SUMMARY:Wuthering Waves Version Calendar · Wuthering Waves v3.4 Version D
  uration
 DESCRIPTION:Wuthering Waves v3.4 Version Content Availability.\n\nVersion:
   3.4\nType: version\nOfficial source: 《鸣潮》3.4版本更新维护预
- 告\n\nversion_end: Estimated (~42 days)\nofficial_notice: 《鸣潮》3.4
- 版本更新维护预告
+ 告\n\nofficial_notice: 《鸣潮》3.4版本更新维护预告
 CATEGORIES:Wuthering Waves Version Calendar
 URL;VALUE=URI:https://wutheringwaves.kurogames.com/cn/main/news/detail/477
  2
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:wuthering-waves-wuthering-waves-2026-5004-maintenance@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260704T000000
+DTSTART;TZID=Asia/Shanghai:20260710T040000
+DTEND;TZID=Asia/Shanghai:20260710T110000
+SUMMARY:Wuthering Waves Version Calendar · Wuthering Waves v3.5 Maintenan
+ ce Update
+DESCRIPTION:Wuthering Waves Official Maintenance Update.\n\nVersion: 3.5\n
+ Type: version_update\nOfficial source: 《鸣潮》3.5版本更新维护
+ 预告\n\nofficial_time: 2026年7月10日04:00 ~ 2026年7月10日11:00（U
+ TC+8）\nofficial_notice: 《鸣潮》3.5版本更新维护预告
+CATEGORIES:Wuthering Waves Version Calendar
+URL;VALUE=URI:https://wutheringwaves.kurogames.com/cn/main/news/detail/500
+ 4
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wuthering-waves-wuthering-waves-2026-5004-version@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260704T000000
+DTSTART;TZID=Asia/Shanghai:20260710T110000
+DTEND;TZID=Asia/Shanghai:20260821T040000
+SUMMARY:Wuthering Waves Version Calendar · Wuthering Waves v3.5 Version D
+ uration
+DESCRIPTION:Wuthering Waves v3.5 Version Content Availability.\n\nVersion:
+  3.5\nType: version\nOfficial source: 《鸣潮》3.5版本更新维护预
+ 告\n\nversion_end: Estimated (~42 days)\nofficial_notice: 《鸣潮》3.5
+ 版本更新维护预告
+CATEGORIES:Wuthering Waves Version Calendar
+URL;VALUE=URI:https://wutheringwaves.kurogames.com/cn/main/news/detail/500
+ 4
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:wuthering-waves-wuthering-waves-2026-forecast-v1-update@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260613T000000
-DTSTART;VALUE=DATE:20260720
-DTEND;VALUE=DATE:20260721
+DTSTAMP:20260704T000000
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Wuthering Waves Version Calendar · Wuthering Waves Next Version M
@@ -77,9 +110,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wuthering-waves-wuthering-waves-2026-forecast-v2-update@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260613T000000
-DTSTART;VALUE=DATE:20260831
-DTEND;VALUE=DATE:20260901
+DTSTAMP:20260704T000000
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Wuthering Waves Version Calendar · Wuthering Waves Future Version
@@ -94,9 +127,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wuthering-waves-wuthering-waves-2026-forecast-v3-update@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260613T000000
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
+DTSTAMP:20260704T000000
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Wuthering Waves Version Calendar · Wuthering Waves Future Version
