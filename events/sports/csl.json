@@ -7623,7 +7623,7 @@
       "description": "深圳新鹏城 作客 天津津门虎（中超 2026 赛季，北京时间）",
       "description_en": "Shenzhen Peng City at Tianjin Jinmen Tiger (Chinese Super League 2026, Beijing time)",
       "url": "https://www.cfl-china.cn/zh/fixtures/details.html?match_id=79s9sewotqt9nyzpqa0q358no&competition_code=CSL&local_date=2026-07-04&home_contestant_id=di8wvsww8w86i7gr80pbbhsyi&away_contestant_id=a1a0zo3jliehxemg6qpa3lrva",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-07-04",
       "verified_by": "auto",
       "teams": {
@@ -7647,6 +7647,7 @@
         "轮次": "第 17 轮",
         "主场": "天津津门虎",
         "客场": "深圳新鹏城",
+        "比分": "天津津门虎 3 - 0 深圳新鹏城",
         "场馆": "泰达足球场"
       },
       "details_en": {
@@ -7654,7 +7655,15 @@
         "Round": "Round 17",
         "Home": "Tianjin Jinmen Tiger",
         "Away": "Shenzhen Peng City",
+        "Score": "Tianjin Jinmen Tiger 3 - 0 Shenzhen Peng City",
         "Venue": "TEDA Football Stadium"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT",
+        "score": "3 - 0"
       }
     },
     {
