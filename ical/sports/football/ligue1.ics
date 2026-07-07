@@ -23,39 +23,11 @@ URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ligue1-ligue1-2026-401876492@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260707T000000
-DTSTART;TZID=Asia/Shanghai:20260823T020000
-DTEND;TZID=Asia/Shanghai:20260823T030000
-SUMMARY:法甲赛程 · 法甲 · 摩纳哥 @ 勒阿弗尔
-DESCRIPTION:摩纳哥 作客 勒阿弗尔（法甲 2026-27 赛季，北京
- 时间）\n\n主场: 勒阿弗尔\n客场: 摩纳哥\n场馆: Stade Océan
- e\n城市: Le Havre
-CATEGORIES:法甲赛程
-URL;VALUE=URI:https://www.ligue1.com/fixtures-results
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:ligue1-ligue1-2026-401876491@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260707T000000
-DTSTART;TZID=Asia/Shanghai:20260823T020000
-DTEND;TZID=Asia/Shanghai:20260823T030000
-SUMMARY:法甲赛程 · 法甲 · 布雷斯特 @ Le Mans
-DESCRIPTION:布雷斯特 作客 Le Mans（法甲 2026-27 赛季，北京
- 时间）\n\n主场: Le Mans\n客场: 布雷斯特\n场馆: Stade Marie-Ma
- rvingt\n城市: Le Mans
-CATEGORIES:法甲赛程
-URL;VALUE=URI:https://www.ligue1.com/fixtures-results
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:ligue1-ligue1-2026-401876490@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260707T000000
-DTSTART;TZID=Asia/Shanghai:20260823T020000
-DTEND;TZID=Asia/Shanghai:20260823T030000
+DTSTART;TZID=Asia/Shanghai:20260822T231500
+DTEND;TZID=Asia/Shanghai:20260823T001500
 SUMMARY:法甲赛程 · 法甲 · 欧塞尔 @ 朗斯
 DESCRIPTION:欧塞尔 作客 朗斯（法甲 2026-27 赛季，北京时间
  ）\n\n主场: 朗斯\n客场: 欧塞尔\n场馆: Stade Bollaert-Delelis\n
@@ -65,29 +37,15 @@ URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ligue1-ligue1-2026-401876486@koyomi.cast
+UID:ligue1-ligue1-2026-401876491@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260707T000000
-DTSTART;TZID=Asia/Shanghai:20260823T020000
-DTEND;TZID=Asia/Shanghai:20260823T030000
-SUMMARY:法甲赛程 · 法甲 · 里昂 @ 图卢兹
-DESCRIPTION:里昂 作客 图卢兹（法甲 2026-27 赛季，北京时间
- ）\n\n主场: 图卢兹\n客场: 里昂\n场馆: Stadium Municipal de Tou
- louse\n城市: Toulouse
-CATEGORIES:法甲赛程
-URL;VALUE=URI:https://www.ligue1.com/fixtures-results
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:ligue1-ligue1-2026-401876485@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260707T000000
-DTSTART;TZID=Asia/Shanghai:20260823T020000
-DTEND;TZID=Asia/Shanghai:20260823T030000
-SUMMARY:法甲赛程 · 法甲 · 巴黎FC @ Troyes
-DESCRIPTION:巴黎FC 作客 Troyes（法甲 2026-27 赛季，北京时间
- ）\n\n主场: Troyes\n客场: 巴黎FC\n场馆: Stade de l'Aube\n城市: 
- Paris
+DTSTART;TZID=Asia/Shanghai:20260823T024500
+DTEND;TZID=Asia/Shanghai:20260823T034500
+SUMMARY:法甲赛程 · 法甲 · 布雷斯特 @ Le Mans
+DESCRIPTION:布雷斯特 作客 Le Mans（法甲 2026-27 赛季，北京
+ 时间）\n\n主场: Le Mans\n客场: 布雷斯特\n场馆: Stade Marie-Ma
+ rvingt\n城市: Le Mans
 CATEGORIES:法甲赛程
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -107,6 +65,34 @@ URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:ligue1-ligue1-2026-401876486@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260707T000000
+DTSTART;TZID=Asia/Shanghai:20260823T024500
+DTEND;TZID=Asia/Shanghai:20260823T034500
+SUMMARY:法甲赛程 · 法甲 · 里昂 @ 图卢兹
+DESCRIPTION:里昂 作客 图卢兹（法甲 2026-27 赛季，北京时间
+ ）\n\n主场: 图卢兹\n客场: 里昂\n场馆: Stadium Municipal de Tou
+ louse\n城市: Toulouse
+CATEGORIES:法甲赛程
+URL;VALUE=URI:https://www.ligue1.com/fixtures-results
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-ligue1-2026-401876485@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260707T000000
+DTSTART;TZID=Asia/Shanghai:20260823T024500
+DTEND;TZID=Asia/Shanghai:20260823T034500
+SUMMARY:法甲赛程 · 法甲 · 巴黎FC @ Troyes
+DESCRIPTION:巴黎FC 作客 Troyes（法甲 2026-27 赛季，北京时间
+ ）\n\n主场: Troyes\n客场: 巴黎FC\n场馆: Stade de l'Aube\n城市: 
+ Paris
+CATEGORIES:法甲赛程
+URL;VALUE=URI:https://www.ligue1.com/fixtures-results
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:ligue1-ligue1-2026-401876493@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260707T000000
@@ -116,6 +102,20 @@ SUMMARY:法甲赛程 · 法甲 · 里尔 @ 昂热
 DESCRIPTION:里尔 作客 昂热（法甲 2026-27 赛季，北京时间）
  \n\n主场: 昂热\n客场: 里尔\n场馆: Stade Raymond Kopa\n城市: An
  gers
+CATEGORIES:法甲赛程
+URL;VALUE=URI:https://www.ligue1.com/fixtures-results
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-ligue1-2026-401876492@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260707T000000
+DTSTART;TZID=Asia/Shanghai:20260823T234500
+DTEND;TZID=Asia/Shanghai:20260824T004500
+SUMMARY:法甲赛程 · 法甲 · 摩纳哥 @ 勒阿弗尔
+DESCRIPTION:摩纳哥 作客 勒阿弗尔（法甲 2026-27 赛季，北京
+ 时间）\n\n主场: 勒阿弗尔\n客场: 摩纳哥\n场馆: Stade Océan
+ e\n城市: Le Havre
 CATEGORIES:法甲赛程
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -135,57 +135,15 @@ URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ligue1-ligue1-2026-401876484@koyomi.cast
+UID:ligue1-ligue1-2026-401876476@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260707T000000
-DTSTART;TZID=Asia/Shanghai:20260830T020000
-DTEND;TZID=Asia/Shanghai:20260830T030000
-SUMMARY:法甲赛程 · 法甲 · 昂热 @ 欧塞尔
-DESCRIPTION:昂热 作客 欧塞尔（法甲 2026-27 赛季，北京时间
- ）\n\n主场: 欧塞尔\n客场: 昂热\n场馆: Stade de l'Abbé-Descham
- ps\n城市: Auxerre
-CATEGORIES:法甲赛程
-URL;VALUE=URI:https://www.ligue1.com/fixtures-results
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:ligue1-ligue1-2026-401876480@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260707T000000
-DTSTART;TZID=Asia/Shanghai:20260830T020000
-DTEND;TZID=Asia/Shanghai:20260830T030000
-SUMMARY:法甲赛程 · 法甲 · 马赛 @ 摩纳哥
-DESCRIPTION:马赛 作客 摩纳哥（法甲 2026-27 赛季，北京时间
- ）\n\n主场: 摩纳哥\n客场: 马赛\n场馆: Stade Louis II\n城市: 
- Monaco
-CATEGORIES:法甲赛程
-URL;VALUE=URI:https://www.ligue1.com/fixtures-results
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:ligue1-ligue1-2026-401876482@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260707T000000
-DTSTART;TZID=Asia/Shanghai:20260830T020000
-DTEND;TZID=Asia/Shanghai:20260830T030000
-SUMMARY:法甲赛程 · 法甲 · Troyes @ 洛里昂
-DESCRIPTION:Troyes 作客 洛里昂（法甲 2026-27 赛季，北京时间
- ）\n\n主场: 洛里昂\n客场: Troyes\n场馆: Stade du Moustoir - Yves
-  Allainmat\n城市: Lorient
-CATEGORIES:法甲赛程
-URL;VALUE=URI:https://www.ligue1.com/fixtures-results
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:ligue1-ligue1-2026-401876481@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260707T000000
-DTSTART;TZID=Asia/Shanghai:20260830T020000
-DTEND;TZID=Asia/Shanghai:20260830T030000
-SUMMARY:法甲赛程 · 法甲 · 勒阿弗尔 @ 里昂
-DESCRIPTION:勒阿弗尔 作客 里昂（法甲 2026-27 赛季，北京时
- 间）\n\n主场: 里昂\n客场: 勒阿弗尔\n场馆: Groupama Stadium\n
- 城市: Lyon
+DTSTART;TZID=Asia/Shanghai:20260829T024500
+DTEND;TZID=Asia/Shanghai:20260829T034500
+SUMMARY:法甲赛程 · 法甲 · 巴黎圣日耳曼 @ 里尔
+DESCRIPTION:巴黎圣日耳曼 作客 里尔（法甲 2026-27 赛季，北
+ 京时间）\n\n主场: 里尔\n客场: 巴黎圣日耳曼\n场馆: Decath
+ lon Arena - Stade Pierre-Mauroy\n城市: Lille
 CATEGORIES:法甲赛程
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -194,12 +152,26 @@ BEGIN:VEVENT
 UID:ligue1-ligue1-2026-401876477@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260707T000000
-DTSTART;TZID=Asia/Shanghai:20260830T020000
-DTEND;TZID=Asia/Shanghai:20260830T030000
+DTSTART;TZID=Asia/Shanghai:20260829T231500
+DTEND;TZID=Asia/Shanghai:20260830T001500
 SUMMARY:法甲赛程 · 法甲 · 朗斯 @ 斯特拉斯堡
 DESCRIPTION:朗斯 作客 斯特拉斯堡（法甲 2026-27 赛季，北京
  时间）\n\n主场: 斯特拉斯堡\n客场: 朗斯\n场馆: Stade de la 
  Meinau\n城市: Strasbourg
+CATEGORIES:法甲赛程
+URL;VALUE=URI:https://www.ligue1.com/fixtures-results
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-ligue1-2026-401876484@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260707T000000
+DTSTART;TZID=Asia/Shanghai:20260830T024500
+DTEND;TZID=Asia/Shanghai:20260830T034500
+SUMMARY:法甲赛程 · 法甲 · 昂热 @ 欧塞尔
+DESCRIPTION:昂热 作客 欧塞尔（法甲 2026-27 赛季，北京时间
+ ）\n\n主场: 欧塞尔\n客场: 昂热\n场馆: Stade de l'Abbé-Descham
+ ps\n城市: Auxerre
 CATEGORIES:法甲赛程
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -214,6 +186,34 @@ SUMMARY:法甲赛程 · 法甲 · 图卢兹 @ 布雷斯特
 DESCRIPTION:图卢兹 作客 布雷斯特（法甲 2026-27 赛季，北京
  时间）\n\n主场: 布雷斯特\n客场: 图卢兹\n场馆: Stade Franci
  s-Le Blé\n城市: Brest
+CATEGORIES:法甲赛程
+URL;VALUE=URI:https://www.ligue1.com/fixtures-results
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-ligue1-2026-401876482@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260707T000000
+DTSTART;TZID=Asia/Shanghai:20260830T024500
+DTEND;TZID=Asia/Shanghai:20260830T034500
+SUMMARY:法甲赛程 · 法甲 · Troyes @ 洛里昂
+DESCRIPTION:Troyes 作客 洛里昂（法甲 2026-27 赛季，北京时间
+ ）\n\n主场: 洛里昂\n客场: Troyes\n场馆: Stade du Moustoir - Yves
+  Allainmat\n城市: Lorient
+CATEGORIES:法甲赛程
+URL;VALUE=URI:https://www.ligue1.com/fixtures-results
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-ligue1-2026-401876481@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260707T000000
+DTSTART;TZID=Asia/Shanghai:20260830T024500
+DTEND;TZID=Asia/Shanghai:20260830T034500
+SUMMARY:法甲赛程 · 法甲 · 勒阿弗尔 @ 里昂
+DESCRIPTION:勒阿弗尔 作客 里昂（法甲 2026-27 赛季，北京时
+ 间）\n\n主场: 里昂\n客场: 勒阿弗尔\n场馆: Groupama Stadium\n
+ 城市: Lyon
 CATEGORIES:法甲赛程
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -247,15 +247,15 @@ URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ligue1-ligue1-2026-401876476@koyomi.cast
+UID:ligue1-ligue1-2026-401876480@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260707T000000
 DTSTART;TZID=Asia/Shanghai:20260831T024500
 DTEND;TZID=Asia/Shanghai:20260831T034500
-SUMMARY:法甲赛程 · 法甲 · 巴黎圣日耳曼 @ 里尔
-DESCRIPTION:巴黎圣日耳曼 作客 里尔（法甲 2026-27 赛季，北
- 京时间）\n\n主场: 里尔\n客场: 巴黎圣日耳曼\n场馆: Decath
- lon Arena - Stade Pierre-Mauroy\n城市: Lille
+SUMMARY:法甲赛程 · 法甲 · 马赛 @ 摩纳哥
+DESCRIPTION:马赛 作客 摩纳哥（法甲 2026-27 赛季，北京时间
+ ）\n\n主场: 摩纳哥\n客场: 马赛\n场馆: Stade Louis II\n城市: 
+ Monaco
 CATEGORIES:法甲赛程
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
