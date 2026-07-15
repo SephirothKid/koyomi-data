@@ -11,7 +11,7 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884817@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20260829T023000
 DTEND;TZID=Asia/Shanghai:20260829T033000
 SUMMARY:Bundesliga Schedule · 德甲 · 斯图加特 @ 拜仁慕尼黑
@@ -25,9 +25,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884811@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260830T020000
-DTEND;TZID=Asia/Shanghai:20260830T030000
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260829T213000
+DTEND;TZID=Asia/Shanghai:20260829T223000
 SUMMARY:Bundesliga Schedule · 德甲 · 法兰克福 @ 柏林联合
 DESCRIPTION:法兰克福 作客 柏林联合（德甲 2026-27 赛季，北
  京时间）\n\n主场: 柏林联合\n客场: 法兰克福\n场馆: Stadio
@@ -37,39 +37,11 @@ URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bundesliga-bundesliga-2026-401884816@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260830T020000
-DTEND;TZID=Asia/Shanghai:20260830T030000
-SUMMARY:Bundesliga Schedule · 德甲 · 汉堡 @ 多特蒙德
-DESCRIPTION:汉堡 作客 多特蒙德（德甲 2026-27 赛季，北京时
- 间）\n\n主场: 多特蒙德\n客场: 汉堡\n场馆: Signal Iduna Park\
- n城市: Aue
-CATEGORIES:Bundesliga Schedule
-URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bundesliga-bundesliga-2026-401884813@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260830T020000
-DTEND;TZID=Asia/Shanghai:20260830T030000
-SUMMARY:Bundesliga Schedule · 德甲 · Schalke 04 @ 奥格斯堡
-DESCRIPTION:Schalke 04 作客 奥格斯堡（德甲 2026-27 赛季，北
- 京时间）\n\n主场: 奥格斯堡\n客场: Schalke 04\n场馆: WWK Aren
- a\n城市: Augsburg
-CATEGORIES:Bundesliga Schedule
-URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884810@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260830T020000
-DTEND;TZID=Asia/Shanghai:20260830T030000
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260829T213000
+DTEND;TZID=Asia/Shanghai:20260829T223000
 SUMMARY:Bundesliga Schedule · 德甲 · 霍芬海姆 @ 科隆
 DESCRIPTION:霍芬海姆 作客 科隆（德甲 2026-27 赛季，北京时
  间）\n\n主场: 科隆\n客场: 霍芬海姆\n场馆: RheinEnergieStadio
@@ -81,9 +53,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884812@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260830T020000
-DTEND;TZID=Asia/Shanghai:20260830T030000
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260829T213000
+DTEND;TZID=Asia/Shanghai:20260829T223000
 SUMMARY:Bundesliga Schedule · 德甲 · SC Paderborn 07 @ 美因茨
 DESCRIPTION:SC Paderborn 07 作客 美因茨（德甲 2026-27 赛季，北
  京时间）\n\n主场: 美因茨\n客场: SC Paderborn 07\n场馆: MEWA A
@@ -95,9 +67,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884815@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260830T020000
-DTEND;TZID=Asia/Shanghai:20260830T030000
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260829T213000
+DTEND;TZID=Asia/Shanghai:20260829T223000
 SUMMARY:Bundesliga Schedule · 德甲 · 门兴格拉德巴赫 @ 莱比锡
 DESCRIPTION:门兴格拉德巴赫 作客 莱比锡（德甲 2026-27 赛季
  ，北京时间）\n\n主场: 莱比锡\n客场: 门兴格拉德巴赫\n
@@ -107,25 +79,11 @@ URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bundesliga-bundesliga-2026-401884814@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260830T020000
-DTEND;TZID=Asia/Shanghai:20260830T030000
-SUMMARY:Bundesliga Schedule · 德甲 · 不来梅 @ 弗莱堡
-DESCRIPTION:不来梅 作客 弗莱堡（德甲 2026-27 赛季，北京时
- 间）\n\n主场: 弗莱堡\n客场: 不来梅\n场馆: Europa-Park Stadio
- n\n城市: Freiburg im Breisgau
-CATEGORIES:Bundesliga Schedule
-URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884809@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260830T020000
-DTEND;TZID=Asia/Shanghai:20260830T030000
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260829T213000
+DTEND;TZID=Asia/Shanghai:20260829T223000
 SUMMARY:Bundesliga Schedule · 德甲 · 勒沃库森 @ SV Elversberg
 DESCRIPTION:勒沃库森 作客 SV Elversberg（德甲 2026-27 赛季，
  北京时间）\n\n主场: SV Elversberg\n客场: 勒沃库森\n场馆: UR
@@ -135,11 +93,67 @@ URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:bundesliga-bundesliga-2026-401884816@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260830T003000
+DTEND;TZID=Asia/Shanghai:20260830T013000
+SUMMARY:Bundesliga Schedule · 德甲 · 汉堡 @ 多特蒙德
+DESCRIPTION:汉堡 作客 多特蒙德（德甲 2026-27 赛季，北京时
+ 间）\n\n主场: 多特蒙德\n客场: 汉堡\n场馆: Signal Iduna Park\
+ n城市: Aue
+CATEGORIES:Bundesliga Schedule
+URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-bundesliga-2026-401884814@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260830T213000
+DTEND;TZID=Asia/Shanghai:20260830T223000
+SUMMARY:Bundesliga Schedule · 德甲 · 不来梅 @ 弗莱堡
+DESCRIPTION:不来梅 作客 弗莱堡（德甲 2026-27 赛季，北京时
+ 间）\n\n主场: 弗莱堡\n客场: 不来梅\n场馆: Europa-Park Stadio
+ n\n城市: Freiburg im Breisgau
+CATEGORIES:Bundesliga Schedule
+URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-bundesliga-2026-401884813@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260830T233000
+DTEND;TZID=Asia/Shanghai:20260831T003000
+SUMMARY:Bundesliga Schedule · 德甲 · Schalke 04 @ 奥格斯堡
+DESCRIPTION:Schalke 04 作客 奥格斯堡（德甲 2026-27 赛季，北
+ 京时间）\n\n主场: 奥格斯堡\n客场: Schalke 04\n场馆: WWK Aren
+ a\n城市: Augsburg
+CATEGORIES:Bundesliga Schedule
+URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-bundesliga-2026-401884808@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260905T023000
+DTEND;TZID=Asia/Shanghai:20260905T033000
+SUMMARY:Bundesliga Schedule · 德甲 · 科隆 @ 斯图加特
+DESCRIPTION:科隆 作客 斯图加特（德甲 2026-27 赛季，北京时
+ 间）\n\n主场: 斯图加特\n客场: 科隆\n场馆: MHPArena\n城市: 
+ Stuttgart
+CATEGORIES:Bundesliga Schedule
+URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884806@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260906T020000
-DTEND;TZID=Asia/Shanghai:20260906T030000
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260905T213000
+DTEND;TZID=Asia/Shanghai:20260905T223000
 SUMMARY:Bundesliga Schedule · 德甲 · 柏林联合 @ 勒沃库森
 DESCRIPTION:柏林联合 作客 勒沃库森（德甲 2026-27 赛季，北
  京时间）\n\n主场: 勒沃库森\n客场: 柏林联合\n场馆: BayAre
@@ -151,9 +165,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884804@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260906T020000
-DTEND;TZID=Asia/Shanghai:20260906T030000
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260905T213000
+DTEND;TZID=Asia/Shanghai:20260905T223000
 SUMMARY:Bundesliga Schedule · 德甲 · SV Elversberg @ 门兴格拉德
  巴赫
 DESCRIPTION:SV Elversberg 作客 门兴格拉德巴赫（德甲 2026-27 
@@ -164,39 +178,11 @@ URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bundesliga-bundesliga-2026-401884805@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260906T020000
-DTEND;TZID=Asia/Shanghai:20260906T030000
-SUMMARY:Bundesliga Schedule · 德甲 · 奥格斯堡 @ 法兰克福
-DESCRIPTION:奥格斯堡 作客 法兰克福（德甲 2026-27 赛季，北
- 京时间）\n\n主场: 法兰克福\n客场: 奥格斯堡\n场馆: Deutsc
- he Bank Park\n城市: Frankfurt
-CATEGORIES:Bundesliga Schedule
-URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bundesliga-bundesliga-2026-401884803@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260906T020000
-DTEND;TZID=Asia/Shanghai:20260906T030000
-SUMMARY:Bundesliga Schedule · 德甲 · 美因茨 @ 汉堡
-DESCRIPTION:美因茨 作客 汉堡（德甲 2026-27 赛季，北京时间
- ）\n\n主场: 汉堡\n客场: 美因茨\n场馆: Volksparkstadion\n城市
- : Hamburg Norderstedt
-CATEGORIES:Bundesliga Schedule
-URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884800@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260906T020000
-DTEND;TZID=Asia/Shanghai:20260906T030000
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260905T213000
+DTEND;TZID=Asia/Shanghai:20260905T223000
 SUMMARY:Bundesliga Schedule · 德甲 · 弗莱堡 @ SC Paderborn 07
 DESCRIPTION:弗莱堡 作客 SC Paderborn 07（德甲 2026-27 赛季，北
  京时间）\n\n主场: SC Paderborn 07\n客场: 弗莱堡\n场馆: Home D
@@ -206,25 +192,11 @@ URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bundesliga-bundesliga-2026-401884801@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260906T020000
-DTEND;TZID=Asia/Shanghai:20260906T030000
-SUMMARY:Bundesliga Schedule · 德甲 · 拜仁慕尼黑 @ Schalke 04
-DESCRIPTION:拜仁慕尼黑 作客 Schalke 04（德甲 2026-27 赛季，
- 北京时间）\n\n主场: Schalke 04\n客场: 拜仁慕尼黑\n场馆: Ve
- ltins Arena\n城市: Gelsenkirchen
-CATEGORIES:Bundesliga Schedule
-URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884807@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260906T020000
-DTEND;TZID=Asia/Shanghai:20260906T030000
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260905T213000
+DTEND;TZID=Asia/Shanghai:20260905T223000
 SUMMARY:Bundesliga Schedule · 德甲 · 多特蒙德 @ 霍芬海姆
 DESCRIPTION:多特蒙德 作客 霍芬海姆（德甲 2026-27 赛季，北
  京时间）\n\n主场: 霍芬海姆\n客场: 多特蒙德\n场馆: PreZer
@@ -234,25 +206,11 @@ URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bundesliga-bundesliga-2026-401884808@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260906T020000
-DTEND;TZID=Asia/Shanghai:20260906T030000
-SUMMARY:Bundesliga Schedule · 德甲 · 科隆 @ 斯图加特
-DESCRIPTION:科隆 作客 斯图加特（德甲 2026-27 赛季，北京时
- 间）\n\n主场: 斯图加特\n客场: 科隆\n场馆: MHPArena\n城市: 
- Stuttgart
-CATEGORIES:Bundesliga Schedule
-URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884802@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260906T020000
-DTEND;TZID=Asia/Shanghai:20260906T030000
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260905T213000
+DTEND;TZID=Asia/Shanghai:20260905T223000
 SUMMARY:Bundesliga Schedule · 德甲 · 莱比锡 @ 不来梅
 DESCRIPTION:莱比锡 作客 不来梅（德甲 2026-27 赛季，北京时
  间）\n\n主场: 不来梅\n客场: 莱比锡\n场馆: Weserstadion\n城
@@ -262,11 +220,53 @@ URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:bundesliga-bundesliga-2026-401884801@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260906T003000
+DTEND;TZID=Asia/Shanghai:20260906T013000
+SUMMARY:Bundesliga Schedule · 德甲 · 拜仁慕尼黑 @ Schalke 04
+DESCRIPTION:拜仁慕尼黑 作客 Schalke 04（德甲 2026-27 赛季，
+ 北京时间）\n\n主场: Schalke 04\n客场: 拜仁慕尼黑\n场馆: Ve
+ ltins Arena\n城市: Gelsenkirchen
+CATEGORIES:Bundesliga Schedule
+URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-bundesliga-2026-401884803@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260906T213000
+DTEND;TZID=Asia/Shanghai:20260906T223000
+SUMMARY:Bundesliga Schedule · 德甲 · 美因茨 @ 汉堡
+DESCRIPTION:美因茨 作客 汉堡（德甲 2026-27 赛季，北京时间
+ ）\n\n主场: 汉堡\n客场: 美因茨\n场馆: Volksparkstadion\n城市
+ : Hamburg Norderstedt
+CATEGORIES:Bundesliga Schedule
+URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-bundesliga-2026-401884805@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260906T233000
+DTEND;TZID=Asia/Shanghai:20260907T003000
+SUMMARY:Bundesliga Schedule · 德甲 · 奥格斯堡 @ 法兰克福
+DESCRIPTION:奥格斯堡 作客 法兰克福（德甲 2026-27 赛季，北
+ 京时间）\n\n主场: 法兰克福\n客场: 奥格斯堡\n场馆: Deutsc
+ he Bank Park\n城市: Frankfurt
+CATEGORIES:Bundesliga Schedule
+URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884793@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260913T020000
-DTEND;TZID=Asia/Shanghai:20260913T030000
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260912T023000
+DTEND;TZID=Asia/Shanghai:20260912T033000
 SUMMARY:Bundesliga Schedule · 德甲 · Schalke 04 @ 柏林联合
 DESCRIPTION:Schalke 04 作客 柏林联合（德甲 2026-27 赛季，北
  京时间）\n\n主场: 柏林联合\n客场: Schalke 04\n场馆: Stadion 
@@ -278,9 +278,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884799@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260913T020000
-DTEND;TZID=Asia/Shanghai:20260913T030000
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260912T213000
+DTEND;TZID=Asia/Shanghai:20260912T223000
 SUMMARY:Bundesliga Schedule · 德甲 · SC Paderborn 07 @ 多特蒙德
 DESCRIPTION:SC Paderborn 07 作客 多特蒙德（德甲 2026-27 赛季，
  北京时间）\n\n主场: 多特蒙德\n客场: SC Paderborn 07\n场馆: 
@@ -292,9 +292,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884795@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260913T020000
-DTEND;TZID=Asia/Shanghai:20260913T030000
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260912T213000
+DTEND;TZID=Asia/Shanghai:20260912T223000
 SUMMARY:Bundesliga Schedule · 德甲 · 勒沃库森 @ 奥格斯堡
 DESCRIPTION:勒沃库森 作客 奥格斯堡（德甲 2026-27 赛季，北
  京时间）\n\n主场: 奥格斯堡\n客场: 勒沃库森\n场馆: WWK Ar
@@ -304,25 +304,11 @@ URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bundesliga-bundesliga-2026-401884792@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260913T020000
-DTEND;TZID=Asia/Shanghai:20260913T030000
-SUMMARY:Bundesliga Schedule · 德甲 · 不来梅 @ 科隆
-DESCRIPTION:不来梅 作客 科隆（德甲 2026-27 赛季，北京时间
- ）\n\n主场: 科隆\n客场: 不来梅\n场馆: RheinEnergieStadion\n城
- 市: Cologne
-CATEGORIES:Bundesliga Schedule
-URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884794@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260913T020000
-DTEND;TZID=Asia/Shanghai:20260913T030000
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260912T213000
+DTEND;TZID=Asia/Shanghai:20260912T223000
 SUMMARY:Bundesliga Schedule · 德甲 · 法兰克福 @ 美因茨
 DESCRIPTION:法兰克福 作客 美因茨（德甲 2026-27 赛季，北京
  时间）\n\n主场: 美因茨\n客场: 法兰克福\n场馆: MEWA ARENA\n
@@ -332,25 +318,11 @@ URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bundesliga-bundesliga-2026-401884798@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260913T020000
-DTEND;TZID=Asia/Shanghai:20260913T030000
-SUMMARY:Bundesliga Schedule · 德甲 · 汉堡 @ 莱比锡
-DESCRIPTION:汉堡 作客 莱比锡（德甲 2026-27 赛季，北京时间
- ）\n\n主场: 莱比锡\n客场: 汉堡\n场馆: Red Bull Arena\n城市: 
- Leipzig
-CATEGORIES:Bundesliga Schedule
-URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884796@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260913T020000
-DTEND;TZID=Asia/Shanghai:20260913T030000
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260912T213000
+DTEND;TZID=Asia/Shanghai:20260912T223000
 SUMMARY:Bundesliga Schedule · 德甲 · 门兴格拉德巴赫 @ 弗莱堡
 DESCRIPTION:门兴格拉德巴赫 作客 弗莱堡（德甲 2026-27 赛季
  ，北京时间）\n\n主场: 弗莱堡\n客场: 门兴格拉德巴赫\n
@@ -360,25 +332,11 @@ URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bundesliga-bundesliga-2026-401884791@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260913T020000
-DTEND;TZID=Asia/Shanghai:20260913T030000
-SUMMARY:Bundesliga Schedule · 德甲 · 拜仁慕尼黑 @ SV Elversberg
-DESCRIPTION:拜仁慕尼黑 作客 SV Elversberg（德甲 2026-27 赛季
- ，北京时间）\n\n主场: SV Elversberg\n客场: 拜仁慕尼黑\n场
- 馆: URSAPHARM-Arena an der Kaiserlinde\n城市: Spiesen-Elversberg
-CATEGORIES:Bundesliga Schedule
-URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884797@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260913T020000
-DTEND;TZID=Asia/Shanghai:20260913T030000
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260912T213000
+DTEND;TZID=Asia/Shanghai:20260912T223000
 SUMMARY:Bundesliga Schedule · 德甲 · 斯图加特 @ 霍芬海姆
 DESCRIPTION:斯图加特 作客 霍芬海姆（德甲 2026-27 赛季，北
  京时间）\n\n主场: 霍芬海姆\n客场: 斯图加特\n场馆: PreZer
@@ -388,15 +346,43 @@ URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bundesliga-bundesliga-2026-401884788@koyomi.cast
+UID:bundesliga-bundesliga-2026-401884792@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260920T020000
-DTEND;TZID=Asia/Shanghai:20260920T030000
-SUMMARY:Bundesliga Schedule · 德甲 · 莱比锡 @ 勒沃库森
-DESCRIPTION:莱比锡 作客 勒沃库森（德甲 2026-27 赛季，北京
- 时间）\n\n主场: 勒沃库森\n客场: 莱比锡\n场馆: BayArena\n
- 城市: Leverkusen
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260913T003000
+DTEND;TZID=Asia/Shanghai:20260913T013000
+SUMMARY:Bundesliga Schedule · 德甲 · 不来梅 @ 科隆
+DESCRIPTION:不来梅 作客 科隆（德甲 2026-27 赛季，北京时间
+ ）\n\n主场: 科隆\n客场: 不来梅\n场馆: RheinEnergieStadion\n城
+ 市: Cologne
+CATEGORIES:Bundesliga Schedule
+URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-bundesliga-2026-401884798@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260913T213000
+DTEND;TZID=Asia/Shanghai:20260913T223000
+SUMMARY:Bundesliga Schedule · 德甲 · 汉堡 @ 莱比锡
+DESCRIPTION:汉堡 作客 莱比锡（德甲 2026-27 赛季，北京时间
+ ）\n\n主场: 莱比锡\n客场: 汉堡\n场馆: Red Bull Arena\n城市: 
+ Leipzig
+CATEGORIES:Bundesliga Schedule
+URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-bundesliga-2026-401884791@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260913T233000
+DTEND;TZID=Asia/Shanghai:20260914T003000
+SUMMARY:Bundesliga Schedule · 德甲 · 拜仁慕尼黑 @ SV Elversberg
+DESCRIPTION:拜仁慕尼黑 作客 SV Elversberg（德甲 2026-27 赛季
+ ，北京时间）\n\n主场: SV Elversberg\n客场: 拜仁慕尼黑\n场
+ 馆: URSAPHARM-Arena an der Kaiserlinde\n城市: Spiesen-Elversberg
 CATEGORIES:Bundesliga Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -404,9 +390,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884790@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260920T020000
-DTEND;TZID=Asia/Shanghai:20260920T030000
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260919T023000
+DTEND;TZID=Asia/Shanghai:20260919T033000
 SUMMARY:Bundesliga Schedule · 德甲 · 柏林联合 @ 拜仁慕尼黑
 DESCRIPTION:柏林联合 作客 拜仁慕尼黑（德甲 2026-27 赛季，
  北京时间）\n\n主场: 拜仁慕尼黑\n客场: 柏林联合\n场馆: 
@@ -418,9 +404,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884786@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260920T020000
-DTEND;TZID=Asia/Shanghai:20260920T030000
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260919T213000
+DTEND;TZID=Asia/Shanghai:20260919T223000
 SUMMARY:Bundesliga Schedule · 德甲 · 美因茨 @ 门兴格拉德巴赫
 DESCRIPTION:美因茨 作客 门兴格拉德巴赫（德甲 2026-27 赛季
  ，北京时间）\n\n主场: 门兴格拉德巴赫\n客场: 美因茨\n
@@ -432,9 +418,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884787@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260920T020000
-DTEND;TZID=Asia/Shanghai:20260920T030000
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260919T213000
+DTEND;TZID=Asia/Shanghai:20260919T223000
 SUMMARY:Bundesliga Schedule · 德甲 · 弗莱堡 @ 法兰克福
 DESCRIPTION:弗莱堡 作客 法兰克福（德甲 2026-27 赛季，北京
  时间）\n\n主场: 法兰克福\n客场: 弗莱堡\n场馆: Deutsche Ban
@@ -446,9 +432,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884785@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260920T020000
-DTEND;TZID=Asia/Shanghai:20260920T030000
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260919T213000
+DTEND;TZID=Asia/Shanghai:20260919T223000
 SUMMARY:Bundesliga Schedule · 德甲 · 科隆 @ 汉堡
 DESCRIPTION:科隆 作客 汉堡（德甲 2026-27 赛季，北京时间）
  \n\n主场: 汉堡\n客场: 科隆\n场馆: Volksparkstadion\n城市: Hamb
@@ -458,53 +444,11 @@ URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bundesliga-bundesliga-2026-401884782@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260920T020000
-DTEND;TZID=Asia/Shanghai:20260920T030000
-SUMMARY:Bundesliga Schedule · 德甲 · 霍芬海姆 @ SC Paderborn 07
-DESCRIPTION:霍芬海姆 作客 SC Paderborn 07（德甲 2026-27 赛季，
- 北京时间）\n\n主场: SC Paderborn 07\n客场: 霍芬海姆\n场馆: 
- Home Deluxe Arena\n城市: Paderborn
-CATEGORIES:Bundesliga Schedule
-URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bundesliga-bundesliga-2026-401884783@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260920T020000
-DTEND;TZID=Asia/Shanghai:20260920T030000
-SUMMARY:Bundesliga Schedule · 德甲 · SV Elversberg @ Schalke 04
-DESCRIPTION:SV Elversberg 作客 Schalke 04（德甲 2026-27 赛季，北
- 京时间）\n\n主场: Schalke 04\n客场: SV Elversberg\n场馆: Veltins
-  Arena\n城市: Gelsenkirchen
-CATEGORIES:Bundesliga Schedule
-URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bundesliga-bundesliga-2026-401884789@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260920T020000
-DTEND;TZID=Asia/Shanghai:20260920T030000
-SUMMARY:Bundesliga Schedule · 德甲 · 多特蒙德 @ 斯图加特
-DESCRIPTION:多特蒙德 作客 斯图加特（德甲 2026-27 赛季，北
- 京时间）\n\n主场: 斯图加特\n客场: 多特蒙德\n场馆: MHPAre
- na\n城市: Stuttgart
-CATEGORIES:Bundesliga Schedule
-URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884784@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
-DTSTART;TZID=Asia/Shanghai:20260920T020000
-DTEND;TZID=Asia/Shanghai:20260920T030000
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260919T213000
+DTEND;TZID=Asia/Shanghai:20260919T223000
 SUMMARY:Bundesliga Schedule · 德甲 · 奥格斯堡 @ 不来梅
 DESCRIPTION:奥格斯堡 作客 不来梅（德甲 2026-27 赛季，北京
  时间）\n\n主场: 不来梅\n客场: 奥格斯堡\n场馆: Weserstadion
@@ -514,9 +458,65 @@ URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:bundesliga-bundesliga-2026-401884789@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260920T003000
+DTEND;TZID=Asia/Shanghai:20260920T013000
+SUMMARY:Bundesliga Schedule · 德甲 · 多特蒙德 @ 斯图加特
+DESCRIPTION:多特蒙德 作客 斯图加特（德甲 2026-27 赛季，北
+ 京时间）\n\n主场: 斯图加特\n客场: 多特蒙德\n场馆: MHPAre
+ na\n城市: Stuttgart
+CATEGORIES:Bundesliga Schedule
+URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-bundesliga-2026-401884788@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260920T213000
+DTEND;TZID=Asia/Shanghai:20260920T223000
+SUMMARY:Bundesliga Schedule · 德甲 · 莱比锡 @ 勒沃库森
+DESCRIPTION:莱比锡 作客 勒沃库森（德甲 2026-27 赛季，北京
+ 时间）\n\n主场: 勒沃库森\n客场: 莱比锡\n场馆: BayArena\n
+ 城市: Leverkusen
+CATEGORIES:Bundesliga Schedule
+URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-bundesliga-2026-401884783@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260920T233000
+DTEND;TZID=Asia/Shanghai:20260921T003000
+SUMMARY:Bundesliga Schedule · 德甲 · SV Elversberg @ Schalke 04
+DESCRIPTION:SV Elversberg 作客 Schalke 04（德甲 2026-27 赛季，北
+ 京时间）\n\n主场: Schalke 04\n客场: SV Elversberg\n场馆: Veltins
+  Arena\n城市: Gelsenkirchen
+CATEGORIES:Bundesliga Schedule
+URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-bundesliga-2026-401884782@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260715T000000
+DTSTART;TZID=Asia/Shanghai:20260921T013000
+DTEND;TZID=Asia/Shanghai:20260921T023000
+SUMMARY:Bundesliga Schedule · 德甲 · 霍芬海姆 @ SC Paderborn 07
+DESCRIPTION:霍芬海姆 作客 SC Paderborn 07（德甲 2026-27 赛季，
+ 北京时间）\n\n主场: SC Paderborn 07\n客场: 霍芬海姆\n场馆: 
+ Home Deluxe Arena\n城市: Paderborn
+CATEGORIES:Bundesliga Schedule
+URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884775@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261011T020000
 DTEND;TZID=Asia/Shanghai:20261011T030000
 SUMMARY:Bundesliga Schedule · 德甲 · SV Elversberg @ 柏林联合
@@ -530,7 +530,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884781@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261011T020000
 DTEND;TZID=Asia/Shanghai:20261011T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 不来梅 @ 多特蒙德
@@ -544,7 +544,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884777@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261011T020000
 DTEND;TZID=Asia/Shanghai:20261011T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 拜仁慕尼黑 @ 奥格斯堡
@@ -558,7 +558,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884774@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261011T020000
 DTEND;TZID=Asia/Shanghai:20261011T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 门兴格拉德巴赫 @ 科隆
@@ -572,7 +572,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884776@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261011T020000
 DTEND;TZID=Asia/Shanghai:20261011T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 勒沃库森 @ 美因茨
@@ -586,7 +586,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884780@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261011T020000
 DTEND;TZID=Asia/Shanghai:20261011T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 法兰克福 @ 莱比锡
@@ -600,7 +600,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884778@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261011T020000
 DTEND;TZID=Asia/Shanghai:20261011T030000
 SUMMARY:Bundesliga Schedule · 德甲 · Schalke 04 @ 弗莱堡
@@ -614,7 +614,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884773@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261011T020000
 DTEND;TZID=Asia/Shanghai:20261011T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 斯图加特 @ SC Paderborn 07
@@ -628,7 +628,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884779@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261011T020000
 DTEND;TZID=Asia/Shanghai:20261011T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 汉堡 @ 霍芬海姆
@@ -642,7 +642,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884769@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261018T020000
 DTEND;TZID=Asia/Shanghai:20261018T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 多特蒙德 @ 柏林联合
@@ -656,7 +656,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884771@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261018T020000
 DTEND;TZID=Asia/Shanghai:20261018T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 弗莱堡 @ 勒沃库森
@@ -670,7 +670,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884772@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261018T020000
 DTEND;TZID=Asia/Shanghai:20261018T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 莱比锡 @ 拜仁慕尼黑
@@ -684,7 +684,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884768@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261018T020000
 DTEND;TZID=Asia/Shanghai:20261018T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 霍芬海姆 @ 门兴格拉德巴
@@ -699,7 +699,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884770@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261018T020000
 DTEND;TZID=Asia/Shanghai:20261018T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 科隆 @ 法兰克福
@@ -713,7 +713,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884767@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261018T020000
 DTEND;TZID=Asia/Shanghai:20261018T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 斯图加特 @ 汉堡
@@ -727,7 +727,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884765@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261018T020000
 DTEND;TZID=Asia/Shanghai:20261018T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 美因茨 @ Schalke 04
@@ -741,7 +741,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884764@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261018T020000
 DTEND;TZID=Asia/Shanghai:20261018T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 奥格斯堡 @ SV Elversberg
@@ -755,7 +755,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884766@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261018T020000
 DTEND;TZID=Asia/Shanghai:20261018T030000
 SUMMARY:Bundesliga Schedule · 德甲 · SC Paderborn 07 @ 不来梅
@@ -769,7 +769,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884763@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261025T020000
 DTEND;TZID=Asia/Shanghai:20261025T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 法兰克福 @ 多特蒙德
@@ -783,7 +783,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884758@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261025T020000
 DTEND;TZID=Asia/Shanghai:20261025T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 柏林联合 @ 奥格斯堡
@@ -797,7 +797,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884756@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261025T020000
 DTEND;TZID=Asia/Shanghai:20261025T030000
 SUMMARY:Bundesliga Schedule · 德甲 · Schalke 04 @ 科隆
@@ -811,7 +811,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884757@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261025T020000
 DTEND;TZID=Asia/Shanghai:20261025T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 不来梅 @ 美因茨
@@ -825,7 +825,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884762@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261025T020000
 DTEND;TZID=Asia/Shanghai:20261025T030000
 SUMMARY:Bundesliga Schedule · 德甲 · SV Elversberg @ 莱比锡
@@ -839,7 +839,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884759@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261025T020000
 DTEND;TZID=Asia/Shanghai:20261025T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 拜仁慕尼黑 @ 弗莱堡
@@ -853,7 +853,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884755@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261025T020000
 DTEND;TZID=Asia/Shanghai:20261025T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 汉堡 @ SC Paderborn 07
@@ -867,7 +867,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884760@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261025T020000
 DTEND;TZID=Asia/Shanghai:20261025T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 勒沃库森 @ 霍芬海姆
@@ -881,7 +881,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884761@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261025T020000
 DTEND;TZID=Asia/Shanghai:20261025T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 门兴格拉德巴赫 @ 斯图加
@@ -896,7 +896,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884750@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261101T020000
 DTEND;TZID=Asia/Shanghai:20261101T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 科隆 @ 柏林联合
@@ -910,7 +910,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884753@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261101T020000
 DTEND;TZID=Asia/Shanghai:20261101T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 斯图加特 @ 勒沃库森
@@ -924,7 +924,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884754@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261101T020000
 DTEND;TZID=Asia/Shanghai:20261101T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 多特蒙德 @ 拜仁慕尼黑
@@ -938,7 +938,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884749@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261101T020000
 DTEND;TZID=Asia/Shanghai:20261101T030000
 SUMMARY:Bundesliga Schedule · 德甲 · SC Paderborn 07 @ 门兴格拉德
@@ -953,7 +953,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884752@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261101T020000
 DTEND;TZID=Asia/Shanghai:20261101T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 汉堡 @ 法兰克福
@@ -967,7 +967,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884751@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261101T020000
 DTEND;TZID=Asia/Shanghai:20261101T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 弗莱堡 @ 奥格斯堡
@@ -981,7 +981,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884747@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261101T020000
 DTEND;TZID=Asia/Shanghai:20261101T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 莱比锡 @ Schalke 04
@@ -995,7 +995,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884746@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261101T020000
 DTEND;TZID=Asia/Shanghai:20261101T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 美因茨 @ SV Elversberg
@@ -1009,7 +1009,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884748@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261101T020000
 DTEND;TZID=Asia/Shanghai:20261101T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 霍芬海姆 @ 不来梅
@@ -1023,7 +1023,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884745@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261108T040000
 DTEND;TZID=Asia/Shanghai:20261108T050000
 SUMMARY:Bundesliga Schedule · 德甲 · SV Elversberg @ 多特蒙德
@@ -1037,7 +1037,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884738@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261108T040000
 DTEND;TZID=Asia/Shanghai:20261108T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 勒沃库森 @ 科隆
@@ -1051,7 +1051,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884739@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261108T040000
 DTEND;TZID=Asia/Shanghai:20261108T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 门兴格拉德巴赫 @ 汉堡
@@ -1065,7 +1065,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884740@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261108T040000
 DTEND;TZID=Asia/Shanghai:20261108T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 拜仁慕尼黑 @ 美因茨
@@ -1079,7 +1079,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884744@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261108T040000
 DTEND;TZID=Asia/Shanghai:20261108T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 奥格斯堡 @ 莱比锡
@@ -1093,7 +1093,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884741@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261108T040000
 DTEND;TZID=Asia/Shanghai:20261108T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 柏林联合 @ 弗莱堡
@@ -1107,7 +1107,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884737@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261108T040000
 DTEND;TZID=Asia/Shanghai:20261108T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 法兰克福 @ SC Paderborn 07
@@ -1121,7 +1121,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884742@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261108T040000
 DTEND;TZID=Asia/Shanghai:20261108T050000
 SUMMARY:Bundesliga Schedule · 德甲 · Schalke 04 @ 霍芬海姆
@@ -1135,7 +1135,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884743@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261108T040000
 DTEND;TZID=Asia/Shanghai:20261108T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 不来梅 @ 斯图加特
@@ -1149,7 +1149,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884732@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261122T040000
 DTEND;TZID=Asia/Shanghai:20261122T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 莱比锡 @ 柏林联合
@@ -1163,7 +1163,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884735@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261122T040000
 DTEND;TZID=Asia/Shanghai:20261122T050000
 SUMMARY:Bundesliga Schedule · 德甲 · SC Paderborn 07 @ 勒沃库森
@@ -1177,7 +1177,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884736@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261122T040000
 DTEND;TZID=Asia/Shanghai:20261122T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 科隆 @ 拜仁慕尼黑
@@ -1191,7 +1191,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884731@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261122T040000
 DTEND;TZID=Asia/Shanghai:20261122T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 多特蒙德 @ 门兴格拉德巴
@@ -1206,7 +1206,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884734@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261122T040000
 DTEND;TZID=Asia/Shanghai:20261122T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 霍芬海姆 @ 法兰克福
@@ -1220,7 +1220,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884733@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261122T040000
 DTEND;TZID=Asia/Shanghai:20261122T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 美因茨 @ 奥格斯堡
@@ -1234,7 +1234,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884729@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261122T040000
 DTEND;TZID=Asia/Shanghai:20261122T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 斯图加特 @ Schalke 04
@@ -1248,7 +1248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884728@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261122T040000
 DTEND;TZID=Asia/Shanghai:20261122T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 弗莱堡 @ SV Elversberg
@@ -1262,7 +1262,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884730@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261122T040000
 DTEND;TZID=Asia/Shanghai:20261122T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 汉堡 @ 不来梅
@@ -1276,7 +1276,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884727@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261129T040000
 DTEND;TZID=Asia/Shanghai:20261129T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 勒沃库森 @ 多特蒙德
@@ -1290,7 +1290,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884721@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261129T040000
 DTEND;TZID=Asia/Shanghai:20261129T050000
 SUMMARY:Bundesliga Schedule · 德甲 · SV Elversberg @ 科隆
@@ -1304,7 +1304,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884722@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261129T040000
 DTEND;TZID=Asia/Shanghai:20261129T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 拜仁慕尼黑 @ 汉堡
@@ -1318,7 +1318,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884723@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261129T040000
 DTEND;TZID=Asia/Shanghai:20261129T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 柏林联合 @ 美因茨
@@ -1332,7 +1332,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884724@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261129T040000
 DTEND;TZID=Asia/Shanghai:20261129T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 莱比锡 @ 弗莱堡
@@ -1346,7 +1346,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884719@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261129T040000
 DTEND;TZID=Asia/Shanghai:20261129T050000
 SUMMARY:Bundesliga Schedule · 德甲 · Schalke 04 @ SC Paderborn 07
@@ -1360,7 +1360,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884725@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261129T040000
 DTEND;TZID=Asia/Shanghai:20261129T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 奥格斯堡 @ 霍芬海姆
@@ -1374,7 +1374,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884726@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261129T040000
 DTEND;TZID=Asia/Shanghai:20261129T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 法兰克福 @ 斯图加特
@@ -1388,7 +1388,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884720@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261129T040000
 DTEND;TZID=Asia/Shanghai:20261129T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 门兴格拉德巴赫 @ 不来梅
@@ -1402,7 +1402,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884712@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261206T040000
 DTEND;TZID=Asia/Shanghai:20261206T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 汉堡 @ 柏林联合
@@ -1416,7 +1416,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884716@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261206T040000
 DTEND;TZID=Asia/Shanghai:20261206T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 门兴格拉德巴赫 @ 勒沃库
@@ -1431,7 +1431,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884718@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261206T040000
 DTEND;TZID=Asia/Shanghai:20261206T050000
 SUMMARY:Bundesliga Schedule · 德甲 · SC Paderborn 07 @ 拜仁慕尼黑
@@ -1445,7 +1445,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884714@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261206T040000
 DTEND;TZID=Asia/Shanghai:20261206T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 不来梅 @ 法兰克福
@@ -1459,7 +1459,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884713@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261206T040000
 DTEND;TZID=Asia/Shanghai:20261206T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 科隆 @ 奥格斯堡
@@ -1473,7 +1473,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884717@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261206T040000
 DTEND;TZID=Asia/Shanghai:20261206T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 美因茨 @ 莱比锡
@@ -1487,7 +1487,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884715@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261206T040000
 DTEND;TZID=Asia/Shanghai:20261206T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 霍芬海姆 @ 弗莱堡
@@ -1501,7 +1501,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884711@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261206T040000
 DTEND;TZID=Asia/Shanghai:20261206T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 多特蒙德 @ Schalke 04
@@ -1515,7 +1515,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884710@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261206T040000
 DTEND;TZID=Asia/Shanghai:20261206T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 斯图加特 @ SV Elversberg
@@ -1529,7 +1529,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884709@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261213T040000
 DTEND;TZID=Asia/Shanghai:20261213T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 奥格斯堡 @ 多特蒙德
@@ -1543,7 +1543,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884705@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261213T040000
 DTEND;TZID=Asia/Shanghai:20261213T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 法兰克福 @ 门兴格拉德巴
@@ -1558,7 +1558,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884703@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261213T040000
 DTEND;TZID=Asia/Shanghai:20261213T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 莱比锡 @ 科隆
@@ -1572,7 +1572,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884704@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261213T040000
 DTEND;TZID=Asia/Shanghai:20261213T050000
 SUMMARY:Bundesliga Schedule · 德甲 · Schalke 04 @ 汉堡
@@ -1586,7 +1586,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884706@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261213T040000
 DTEND;TZID=Asia/Shanghai:20261213T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 弗莱堡 @ 美因茨
@@ -1600,7 +1600,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884701@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261213T040000
 DTEND;TZID=Asia/Shanghai:20261213T050000
 SUMMARY:Bundesliga Schedule · 德甲 · SV Elversberg @ SC Paderborn 07
@@ -1614,7 +1614,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884707@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261213T040000
 DTEND;TZID=Asia/Shanghai:20261213T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 拜仁慕尼黑 @ 霍芬海姆
@@ -1628,7 +1628,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884708@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261213T040000
 DTEND;TZID=Asia/Shanghai:20261213T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 柏林联合 @ 斯图加特
@@ -1642,7 +1642,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884702@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261213T040000
 DTEND;TZID=Asia/Shanghai:20261213T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 勒沃库森 @ 不来梅
@@ -1656,7 +1656,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884694@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261220T040000
 DTEND;TZID=Asia/Shanghai:20261220T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 霍芬海姆 @ 柏林联合
@@ -1670,7 +1670,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884698@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261220T040000
 DTEND;TZID=Asia/Shanghai:20261220T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 法兰克福 @ 勒沃库森
@@ -1684,7 +1684,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884700@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261220T040000
 DTEND;TZID=Asia/Shanghai:20261220T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 不来梅 @ 拜仁慕尼黑
@@ -1698,7 +1698,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884696@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261220T040000
 DTEND;TZID=Asia/Shanghai:20261220T050000
 SUMMARY:Bundesliga Schedule · 德甲 · SC Paderborn 07 @ 奥格斯堡
@@ -1712,7 +1712,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884695@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261220T040000
 DTEND;TZID=Asia/Shanghai:20261220T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 科隆 @ 美因茨
@@ -1726,7 +1726,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884699@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261220T040000
 DTEND;TZID=Asia/Shanghai:20261220T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 多特蒙德 @ 莱比锡
@@ -1740,7 +1740,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884697@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261220T040000
 DTEND;TZID=Asia/Shanghai:20261220T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 斯图加特 @ 弗莱堡
@@ -1754,7 +1754,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884693@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261220T040000
 DTEND;TZID=Asia/Shanghai:20261220T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 门兴格拉德巴赫 @ Schalke 0
@@ -1769,7 +1769,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884692@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20261220T040000
 DTEND;TZID=Asia/Shanghai:20261220T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 汉堡 @ SV Elversberg
@@ -1783,7 +1783,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884691@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270110T040000
 DTEND;TZID=Asia/Shanghai:20270110T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 美因茨 @ 多特蒙德
@@ -1797,7 +1797,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884687@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270110T040000
 DTEND;TZID=Asia/Shanghai:20270110T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 拜仁慕尼黑 @ 门兴格拉德
@@ -1812,7 +1812,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884688@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270110T040000
 DTEND;TZID=Asia/Shanghai:20270110T050000
 SUMMARY:Bundesliga Schedule · 德甲 · Schalke 04 @ 法兰克福
@@ -1826,7 +1826,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884685@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270110T040000
 DTEND;TZID=Asia/Shanghai:20270110T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 弗莱堡 @ 科隆
@@ -1840,7 +1840,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884686@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270110T040000
 DTEND;TZID=Asia/Shanghai:20270110T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 勒沃库森 @ 汉堡
@@ -1854,7 +1854,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884683@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270110T040000
 DTEND;TZID=Asia/Shanghai:20270110T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 莱比锡 @ SC Paderborn 07
@@ -1868,7 +1868,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884689@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270110T040000
 DTEND;TZID=Asia/Shanghai:20270110T050000
 SUMMARY:Bundesliga Schedule · 德甲 · SV Elversberg @ 霍芬海姆
@@ -1882,7 +1882,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884690@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270110T040000
 DTEND;TZID=Asia/Shanghai:20270110T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 奥格斯堡 @ 斯图加特
@@ -1896,7 +1896,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884684@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270110T040000
 DTEND;TZID=Asia/Shanghai:20270110T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 柏林联合 @ 不来梅
@@ -1910,7 +1910,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884677@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270114T040000
 DTEND;TZID=Asia/Shanghai:20270114T050000
 SUMMARY:Bundesliga Schedule · 德甲 · SC Paderborn 07 @ 柏林联合
@@ -1924,7 +1924,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884682@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270114T040000
 DTEND;TZID=Asia/Shanghai:20270114T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 勒沃库森 @ 拜仁慕尼黑
@@ -1938,7 +1938,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884679@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270114T040000
 DTEND;TZID=Asia/Shanghai:20270114T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 门兴格拉德巴赫 @ 奥格斯
@@ -1953,7 +1953,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884676@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270114T040000
 DTEND;TZID=Asia/Shanghai:20270114T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 多特蒙德 @ 科隆
@@ -1967,7 +1967,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884678@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270114T040000
 DTEND;TZID=Asia/Shanghai:20270114T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 霍芬海姆 @ 美因茨
@@ -1981,7 +1981,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884681@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270114T040000
 DTEND;TZID=Asia/Shanghai:20270114T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 斯图加特 @ 莱比锡
@@ -1995,7 +1995,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884680@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270114T040000
 DTEND;TZID=Asia/Shanghai:20270114T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 汉堡 @ 弗莱堡
@@ -2009,7 +2009,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884675@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270114T040000
 DTEND;TZID=Asia/Shanghai:20270114T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 不来梅 @ Schalke 04
@@ -2023,7 +2023,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884674@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270114T040000
 DTEND;TZID=Asia/Shanghai:20270114T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 法兰克福 @ SV Elversberg
@@ -2037,7 +2037,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884670@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270117T040000
 DTEND;TZID=Asia/Shanghai:20270117T050000
 SUMMARY:Bundesliga Schedule · 德甲 · Schalke 04 @ 勒沃库森
@@ -2051,7 +2051,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884673@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270117T040000
 DTEND;TZID=Asia/Shanghai:20270117T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 弗莱堡 @ 多特蒙德
@@ -2065,7 +2065,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884668@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270117T040000
 DTEND;TZID=Asia/Shanghai:20270117T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 柏林联合 @ 门兴格拉德巴
@@ -2080,7 +2080,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884669@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270117T040000
 DTEND;TZID=Asia/Shanghai:20270117T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 拜仁慕尼黑 @ 法兰克福
@@ -2094,7 +2094,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884667@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270117T040000
 DTEND;TZID=Asia/Shanghai:20270117T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 奥格斯堡 @ 汉堡
@@ -2108,7 +2108,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884665@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270117T040000
 DTEND;TZID=Asia/Shanghai:20270117T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 科隆 @ SC Paderborn 07
@@ -2122,7 +2122,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884671@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270117T040000
 DTEND;TZID=Asia/Shanghai:20270117T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 莱比锡 @ 霍芬海姆
@@ -2136,7 +2136,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884672@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270117T040000
 DTEND;TZID=Asia/Shanghai:20270117T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 美因茨 @ 斯图加特
@@ -2150,7 +2150,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884666@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270117T040000
 DTEND;TZID=Asia/Shanghai:20270117T050000
 SUMMARY:Bundesliga Schedule · 德甲 · SV Elversberg @ 不来梅
@@ -2164,7 +2164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884662@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270124T040000
 DTEND;TZID=Asia/Shanghai:20270124T050000
 SUMMARY:Bundesliga Schedule · 德甲 · SV Elversberg @ 勒沃库森
@@ -2178,7 +2178,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884660@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270124T040000
 DTEND;TZID=Asia/Shanghai:20270124T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 莱比锡 @ 门兴格拉德巴赫
@@ -2192,7 +2192,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884661@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270124T040000
 DTEND;TZID=Asia/Shanghai:20270124T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 柏林联合 @ 法兰克福
@@ -2206,7 +2206,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884659@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270124T040000
 DTEND;TZID=Asia/Shanghai:20270124T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 多特蒙德 @ 汉堡
@@ -2220,7 +2220,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884656@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270124T040000
 DTEND;TZID=Asia/Shanghai:20270124T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 美因茨 @ SC Paderborn 07
@@ -2234,7 +2234,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884657@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270124T040000
 DTEND;TZID=Asia/Shanghai:20270124T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 奥格斯堡 @ Schalke 04
@@ -2248,7 +2248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884663@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270124T040000
 DTEND;TZID=Asia/Shanghai:20270124T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 科隆 @ 霍芬海姆
@@ -2262,7 +2262,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884664@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270124T040000
 DTEND;TZID=Asia/Shanghai:20270124T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 拜仁慕尼黑 @ 斯图加特
@@ -2276,7 +2276,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884658@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270124T040000
 DTEND;TZID=Asia/Shanghai:20270124T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 弗莱堡 @ 不来梅
@@ -2290,7 +2290,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884649@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270131T040000
 DTEND;TZID=Asia/Shanghai:20270131T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 勒沃库森 @ 柏林联合
@@ -2304,7 +2304,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884655@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270131T040000
 DTEND;TZID=Asia/Shanghai:20270131T050000
 SUMMARY:Bundesliga Schedule · 德甲 · Schalke 04 @ 拜仁慕尼黑
@@ -2318,7 +2318,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884654@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270131T040000
 DTEND;TZID=Asia/Shanghai:20270131T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 霍芬海姆 @ 多特蒙德
@@ -2332,7 +2332,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884651@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270131T040000
 DTEND;TZID=Asia/Shanghai:20270131T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 法兰克福 @ 奥格斯堡
@@ -2346,7 +2346,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884648@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270131T040000
 DTEND;TZID=Asia/Shanghai:20270131T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 斯图加特 @ 科隆
@@ -2360,7 +2360,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884650@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270131T040000
 DTEND;TZID=Asia/Shanghai:20270131T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 汉堡 @ 美因茨
@@ -2374,7 +2374,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884653@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270131T040000
 DTEND;TZID=Asia/Shanghai:20270131T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 不来梅 @ 莱比锡
@@ -2388,7 +2388,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884652@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270131T040000
 DTEND;TZID=Asia/Shanghai:20270131T050000
 SUMMARY:Bundesliga Schedule · 德甲 · SC Paderborn 07 @ 弗莱堡
@@ -2402,7 +2402,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884647@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270131T040000
 DTEND;TZID=Asia/Shanghai:20270131T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 门兴格拉德巴赫 @ SV Elvers
@@ -2418,7 +2418,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884644@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270207T040000
 DTEND;TZID=Asia/Shanghai:20270207T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 奥格斯堡 @ 勒沃库森
@@ -2432,7 +2432,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884646@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270207T040000
 DTEND;TZID=Asia/Shanghai:20270207T050000
 SUMMARY:Bundesliga Schedule · 德甲 · SV Elversberg @ 拜仁慕尼黑
@@ -2446,7 +2446,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884642@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270207T040000
 DTEND;TZID=Asia/Shanghai:20270207T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 弗莱堡 @ 门兴格拉德巴赫
@@ -2460,7 +2460,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884643@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270207T040000
 DTEND;TZID=Asia/Shanghai:20270207T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 美因茨 @ 法兰克福
@@ -2474,7 +2474,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884641@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270207T040000
 DTEND;TZID=Asia/Shanghai:20270207T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 莱比锡 @ 汉堡
@@ -2488,7 +2488,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884638@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270207T040000
 DTEND;TZID=Asia/Shanghai:20270207T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 多特蒙德 @ SC Paderborn 07
@@ -2502,7 +2502,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884639@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270207T040000
 DTEND;TZID=Asia/Shanghai:20270207T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 柏林联合 @ Schalke 04
@@ -2516,7 +2516,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884645@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270207T040000
 DTEND;TZID=Asia/Shanghai:20270207T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 霍芬海姆 @ 斯图加特
@@ -2530,7 +2530,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884640@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270207T040000
 DTEND;TZID=Asia/Shanghai:20270207T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 科隆 @ 不来梅
@@ -2544,7 +2544,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884631@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270214T040000
 DTEND;TZID=Asia/Shanghai:20270214T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 拜仁慕尼黑 @ 柏林联合
@@ -2558,7 +2558,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884637@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270214T040000
 DTEND;TZID=Asia/Shanghai:20270214T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 斯图加特 @ 多特蒙德
@@ -2572,7 +2572,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884633@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270214T040000
 DTEND;TZID=Asia/Shanghai:20270214T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 不来梅 @ 奥格斯堡
@@ -2586,7 +2586,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884630@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270214T040000
 DTEND;TZID=Asia/Shanghai:20270214T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 汉堡 @ 科隆
@@ -2600,7 +2600,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884632@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270214T040000
 DTEND;TZID=Asia/Shanghai:20270214T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 门兴格拉德巴赫 @ 美因茨
@@ -2614,7 +2614,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884636@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270214T040000
 DTEND;TZID=Asia/Shanghai:20270214T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 勒沃库森 @ 莱比锡
@@ -2628,7 +2628,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884634@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270214T040000
 DTEND;TZID=Asia/Shanghai:20270214T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 法兰克福 @ 弗莱堡
@@ -2642,7 +2642,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884629@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270214T040000
 DTEND;TZID=Asia/Shanghai:20270214T050000
 SUMMARY:Bundesliga Schedule · 德甲 · Schalke 04 @ SV Elversberg
@@ -2656,7 +2656,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884635@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270214T040000
 DTEND;TZID=Asia/Shanghai:20270214T050000
 SUMMARY:Bundesliga Schedule · 德甲 · SC Paderborn 07 @ 霍芬海姆
@@ -2670,7 +2670,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884626@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270221T040000
 DTEND;TZID=Asia/Shanghai:20270221T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 美因茨 @ 勒沃库森
@@ -2684,7 +2684,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884628@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270221T040000
 DTEND;TZID=Asia/Shanghai:20270221T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 奥格斯堡 @ 拜仁慕尼黑
@@ -2698,7 +2698,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884624@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270221T040000
 DTEND;TZID=Asia/Shanghai:20270221T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 科隆 @ 门兴格拉德巴赫
@@ -2712,7 +2712,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884625@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270221T040000
 DTEND;TZID=Asia/Shanghai:20270221T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 莱比锡 @ 法兰克福
@@ -2726,7 +2726,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884623@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270221T040000
 DTEND;TZID=Asia/Shanghai:20270221T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 霍芬海姆 @ 汉堡
@@ -2740,7 +2740,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884621@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270221T040000
 DTEND;TZID=Asia/Shanghai:20270221T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 弗莱堡 @ Schalke 04
@@ -2754,7 +2754,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884620@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270221T040000
 DTEND;TZID=Asia/Shanghai:20270221T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 柏林联合 @ SV Elversberg
@@ -2768,7 +2768,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884627@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270221T040000
 DTEND;TZID=Asia/Shanghai:20270221T050000
 SUMMARY:Bundesliga Schedule · 德甲 · SC Paderborn 07 @ 斯图加特
@@ -2782,7 +2782,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884622@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270221T040000
 DTEND;TZID=Asia/Shanghai:20270221T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 多特蒙德 @ 不来梅
@@ -2796,7 +2796,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884619@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270228T040000
 DTEND;TZID=Asia/Shanghai:20270228T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 柏林联合 @ 多特蒙德
@@ -2810,7 +2810,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884614@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270228T040000
 DTEND;TZID=Asia/Shanghai:20270228T050000
 SUMMARY:Bundesliga Schedule · 德甲 · SV Elversberg @ 奥格斯堡
@@ -2824,7 +2824,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884612@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270228T040000
 DTEND;TZID=Asia/Shanghai:20270228T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 法兰克福 @ 科隆
@@ -2838,7 +2838,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884613@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270228T040000
 DTEND;TZID=Asia/Shanghai:20270228T050000
 SUMMARY:Bundesliga Schedule · 德甲 · Schalke 04 @ 美因茨
@@ -2852,7 +2852,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884618@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270228T040000
 DTEND;TZID=Asia/Shanghai:20270228T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 拜仁慕尼黑 @ 莱比锡
@@ -2866,7 +2866,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884615@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270228T040000
 DTEND;TZID=Asia/Shanghai:20270228T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 勒沃库森 @ 弗莱堡
@@ -2880,7 +2880,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884611@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270228T040000
 DTEND;TZID=Asia/Shanghai:20270228T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 不来梅 @ SC Paderborn 07
@@ -2894,7 +2894,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884616@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270228T040000
 DTEND;TZID=Asia/Shanghai:20270228T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 门兴格拉德巴赫 @ 霍芬海
@@ -2909,7 +2909,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884617@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270228T040000
 DTEND;TZID=Asia/Shanghai:20270228T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 汉堡 @ 斯图加特
@@ -2923,7 +2923,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884607@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270304T040000
 DTEND;TZID=Asia/Shanghai:20270304T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 奥格斯堡 @ 柏林联合
@@ -2937,7 +2937,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884609@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270304T040000
 DTEND;TZID=Asia/Shanghai:20270304T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 霍芬海姆 @ 勒沃库森
@@ -2951,7 +2951,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884610@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270304T040000
 DTEND;TZID=Asia/Shanghai:20270304T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 弗莱堡 @ 拜仁慕尼黑
@@ -2965,7 +2965,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884606@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270304T040000
 DTEND;TZID=Asia/Shanghai:20270304T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 斯图加特 @ 门兴格拉德巴
@@ -2980,7 +2980,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884608@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270304T040000
 DTEND;TZID=Asia/Shanghai:20270304T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 多特蒙德 @ 法兰克福
@@ -2994,7 +2994,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884605@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270304T040000
 DTEND;TZID=Asia/Shanghai:20270304T050000
 SUMMARY:Bundesliga Schedule · 德甲 · SC Paderborn 07 @ 汉堡
@@ -3008,7 +3008,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884603@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270304T040000
 DTEND;TZID=Asia/Shanghai:20270304T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 科隆 @ Schalke 04
@@ -3022,7 +3022,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884602@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270304T040000
 DTEND;TZID=Asia/Shanghai:20270304T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 莱比锡 @ SV Elversberg
@@ -3036,7 +3036,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884604@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270304T040000
 DTEND;TZID=Asia/Shanghai:20270304T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 美因茨 @ 不来梅
@@ -3050,7 +3050,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884601@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270307T040000
 DTEND;TZID=Asia/Shanghai:20270307T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 拜仁慕尼黑 @ 多特蒙德
@@ -3064,7 +3064,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884594@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270307T040000
 DTEND;TZID=Asia/Shanghai:20270307T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 柏林联合 @ 科隆
@@ -3078,7 +3078,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884595@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270307T040000
 DTEND;TZID=Asia/Shanghai:20270307T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 法兰克福 @ 汉堡
@@ -3092,7 +3092,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884596@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270307T040000
 DTEND;TZID=Asia/Shanghai:20270307T050000
 SUMMARY:Bundesliga Schedule · 德甲 · SV Elversberg @ 美因茨
@@ -3106,7 +3106,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884600@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270307T040000
 DTEND;TZID=Asia/Shanghai:20270307T050000
 SUMMARY:Bundesliga Schedule · 德甲 · Schalke 04 @ 莱比锡
@@ -3120,7 +3120,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884597@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270307T040000
 DTEND;TZID=Asia/Shanghai:20270307T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 奥格斯堡 @ 弗莱堡
@@ -3134,7 +3134,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884593@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270307T040000
 DTEND;TZID=Asia/Shanghai:20270307T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 门兴格拉德巴赫 @ SC Paderb
@@ -3149,7 +3149,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884598@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270307T040000
 DTEND;TZID=Asia/Shanghai:20270307T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 不来梅 @ 霍芬海姆
@@ -3163,7 +3163,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884599@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270307T040000
 DTEND;TZID=Asia/Shanghai:20270307T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 勒沃库森 @ 斯图加特
@@ -3177,7 +3177,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884588@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270314T040000
 DTEND;TZID=Asia/Shanghai:20270314T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 弗莱堡 @ 柏林联合
@@ -3191,7 +3191,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884591@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270314T040000
 DTEND;TZID=Asia/Shanghai:20270314T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 科隆 @ 勒沃库森
@@ -3205,7 +3205,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884592@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270314T040000
 DTEND;TZID=Asia/Shanghai:20270314T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 美因茨 @ 拜仁慕尼黑
@@ -3219,7 +3219,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884587@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270314T040000
 DTEND;TZID=Asia/Shanghai:20270314T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 汉堡 @ 门兴格拉德巴赫
@@ -3233,7 +3233,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884590@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270314T040000
 DTEND;TZID=Asia/Shanghai:20270314T050000
 SUMMARY:Bundesliga Schedule · 德甲 · SC Paderborn 07 @ 法兰克福
@@ -3247,7 +3247,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884589@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270314T040000
 DTEND;TZID=Asia/Shanghai:20270314T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 莱比锡 @ 奥格斯堡
@@ -3261,7 +3261,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884585@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270314T040000
 DTEND;TZID=Asia/Shanghai:20270314T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 霍芬海姆 @ Schalke 04
@@ -3275,7 +3275,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884584@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270314T040000
 DTEND;TZID=Asia/Shanghai:20270314T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 多特蒙德 @ SV Elversberg
@@ -3289,7 +3289,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884586@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270314T040000
 DTEND;TZID=Asia/Shanghai:20270314T050000
 SUMMARY:Bundesliga Schedule · 德甲 · 斯图加特 @ 不来梅
@@ -3303,7 +3303,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884583@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270321T020000
 DTEND;TZID=Asia/Shanghai:20270321T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 门兴格拉德巴赫 @ 多特蒙
@@ -3318,7 +3318,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884576@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270321T020000
 DTEND;TZID=Asia/Shanghai:20270321T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 拜仁慕尼黑 @ 科隆
@@ -3332,7 +3332,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884577@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270321T020000
 DTEND;TZID=Asia/Shanghai:20270321T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 不来梅 @ 汉堡
@@ -3346,7 +3346,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884578@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270321T020000
 DTEND;TZID=Asia/Shanghai:20270321T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 奥格斯堡 @ 美因茨
@@ -3360,7 +3360,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884582@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270321T020000
 DTEND;TZID=Asia/Shanghai:20270321T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 柏林联合 @ 莱比锡
@@ -3374,7 +3374,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884579@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270321T020000
 DTEND;TZID=Asia/Shanghai:20270321T030000
 SUMMARY:Bundesliga Schedule · 德甲 · SV Elversberg @ 弗莱堡
@@ -3388,7 +3388,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884575@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270321T020000
 DTEND;TZID=Asia/Shanghai:20270321T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 勒沃库森 @ SC Paderborn 07
@@ -3402,7 +3402,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884580@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270321T020000
 DTEND;TZID=Asia/Shanghai:20270321T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 法兰克福 @ 霍芬海姆
@@ -3416,7 +3416,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884581@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270321T020000
 DTEND;TZID=Asia/Shanghai:20270321T030000
 SUMMARY:Bundesliga Schedule · 德甲 · Schalke 04 @ 斯图加特
@@ -3430,7 +3430,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884569@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270404T020000
 DTEND;TZID=Asia/Shanghai:20270404T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 美因茨 @ 柏林联合
@@ -3444,7 +3444,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884572@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270404T020000
 DTEND;TZID=Asia/Shanghai:20270404T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 多特蒙德 @ 勒沃库森
@@ -3458,7 +3458,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884574@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270404T020000
 DTEND;TZID=Asia/Shanghai:20270404T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 汉堡 @ 拜仁慕尼黑
@@ -3472,7 +3472,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884568@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270404T020000
 DTEND;TZID=Asia/Shanghai:20270404T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 不来梅 @ 门兴格拉德巴赫
@@ -3486,7 +3486,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884571@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270404T020000
 DTEND;TZID=Asia/Shanghai:20270404T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 斯图加特 @ 法兰克福
@@ -3500,7 +3500,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884570@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270404T020000
 DTEND;TZID=Asia/Shanghai:20270404T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 霍芬海姆 @ 奥格斯堡
@@ -3514,7 +3514,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884573@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270404T020000
 DTEND;TZID=Asia/Shanghai:20270404T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 弗莱堡 @ 莱比锡
@@ -3528,7 +3528,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884567@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270404T020000
 DTEND;TZID=Asia/Shanghai:20270404T030000
 SUMMARY:Bundesliga Schedule · 德甲 · SC Paderborn 07 @ Schalke 04
@@ -3542,7 +3542,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884566@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270404T020000
 DTEND;TZID=Asia/Shanghai:20270404T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 科隆 @ SV Elversberg
@@ -3556,7 +3556,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884565@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270411T020000
 DTEND;TZID=Asia/Shanghai:20270411T030000
 SUMMARY:Bundesliga Schedule · 德甲 · Schalke 04 @ 多特蒙德
@@ -3570,7 +3570,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884561@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270411T020000
 DTEND;TZID=Asia/Shanghai:20270411T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 勒沃库森 @ 门兴格拉德巴
@@ -3585,7 +3585,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884559@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270411T020000
 DTEND;TZID=Asia/Shanghai:20270411T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 奥格斯堡 @ 科隆
@@ -3599,7 +3599,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884560@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270411T020000
 DTEND;TZID=Asia/Shanghai:20270411T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 柏林联合 @ 汉堡
@@ -3613,7 +3613,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884562@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270411T020000
 DTEND;TZID=Asia/Shanghai:20270411T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 莱比锡 @ 美因茨
@@ -3627,7 +3627,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884557@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270411T020000
 DTEND;TZID=Asia/Shanghai:20270411T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 拜仁慕尼黑 @ SC Paderborn 07
@@ -3641,7 +3641,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884563@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270411T020000
 DTEND;TZID=Asia/Shanghai:20270411T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 弗莱堡 @ 霍芬海姆
@@ -3655,7 +3655,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884564@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270411T020000
 DTEND;TZID=Asia/Shanghai:20270411T030000
 SUMMARY:Bundesliga Schedule · 德甲 · SV Elversberg @ 斯图加特
@@ -3669,7 +3669,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884558@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270411T020000
 DTEND;TZID=Asia/Shanghai:20270411T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 法兰克福 @ 不来梅
@@ -3683,7 +3683,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884550@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270418T020000
 DTEND;TZID=Asia/Shanghai:20270418T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 斯图加特 @ 柏林联合
@@ -3697,7 +3697,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884554@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270418T020000
 DTEND;TZID=Asia/Shanghai:20270418T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 不来梅 @ 勒沃库森
@@ -3711,7 +3711,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884556@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270418T020000
 DTEND;TZID=Asia/Shanghai:20270418T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 霍芬海姆 @ 拜仁慕尼黑
@@ -3725,7 +3725,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884552@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270418T020000
 DTEND;TZID=Asia/Shanghai:20270418T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 门兴格拉德巴赫 @ 法兰克
@@ -3740,7 +3740,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884551@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270418T020000
 DTEND;TZID=Asia/Shanghai:20270418T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 多特蒙德 @ 奥格斯堡
@@ -3754,7 +3754,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884555@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270418T020000
 DTEND;TZID=Asia/Shanghai:20270418T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 科隆 @ 莱比锡
@@ -3768,7 +3768,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884553@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270418T020000
 DTEND;TZID=Asia/Shanghai:20270418T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 美因茨 @ 弗莱堡
@@ -3782,7 +3782,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884549@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270418T020000
 DTEND;TZID=Asia/Shanghai:20270418T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 汉堡 @ Schalke 04
@@ -3796,7 +3796,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884548@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270418T020000
 DTEND;TZID=Asia/Shanghai:20270418T030000
 SUMMARY:Bundesliga Schedule · 德甲 · SC Paderborn 07 @ SV Elversberg
@@ -3810,7 +3810,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884547@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270425T020000
 DTEND;TZID=Asia/Shanghai:20270425T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 莱比锡 @ 多特蒙德
@@ -3824,7 +3824,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884543@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270425T020000
 DTEND;TZID=Asia/Shanghai:20270425T030000
 SUMMARY:Bundesliga Schedule · 德甲 · Schalke 04 @ 门兴格拉德巴
@@ -3839,7 +3839,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884544@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270425T020000
 DTEND;TZID=Asia/Shanghai:20270425T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 勒沃库森 @ 法兰克福
@@ -3853,7 +3853,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884541@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270425T020000
 DTEND;TZID=Asia/Shanghai:20270425T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 美因茨 @ 科隆
@@ -3867,7 +3867,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884542@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270425T020000
 DTEND;TZID=Asia/Shanghai:20270425T030000
 SUMMARY:Bundesliga Schedule · 德甲 · SV Elversberg @ 汉堡
@@ -3881,7 +3881,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884539@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270425T020000
 DTEND;TZID=Asia/Shanghai:20270425T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 奥格斯堡 @ SC Paderborn 07
@@ -3895,7 +3895,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884545@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270425T020000
 DTEND;TZID=Asia/Shanghai:20270425T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 柏林联合 @ 霍芬海姆
@@ -3909,7 +3909,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884546@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270425T020000
 DTEND;TZID=Asia/Shanghai:20270425T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 弗莱堡 @ 斯图加特
@@ -3923,7 +3923,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884540@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270425T020000
 DTEND;TZID=Asia/Shanghai:20270425T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 拜仁慕尼黑 @ 不来梅
@@ -3937,7 +3937,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884532@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270509T020000
 DTEND;TZID=Asia/Shanghai:20270509T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 不来梅 @ 柏林联合
@@ -3951,7 +3951,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884536@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270509T020000
 DTEND;TZID=Asia/Shanghai:20270509T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 汉堡 @ 勒沃库森
@@ -3965,7 +3965,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884538@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270509T020000
 DTEND;TZID=Asia/Shanghai:20270509T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 门兴格拉德巴赫 @ 拜仁慕
@@ -3980,7 +3980,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884534@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270509T020000
 DTEND;TZID=Asia/Shanghai:20270509T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 斯图加特 @ 奥格斯堡
@@ -3994,7 +3994,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884533@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270509T020000
 DTEND;TZID=Asia/Shanghai:20270509T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 多特蒙德 @ 美因茨
@@ -4008,7 +4008,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884537@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270509T020000
 DTEND;TZID=Asia/Shanghai:20270509T030000
 SUMMARY:Bundesliga Schedule · 德甲 · SC Paderborn 07 @ 莱比锡
@@ -4022,7 +4022,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884535@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270509T020000
 DTEND;TZID=Asia/Shanghai:20270509T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 科隆 @ 弗莱堡
@@ -4036,7 +4036,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884531@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270509T020000
 DTEND;TZID=Asia/Shanghai:20270509T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 法兰克福 @ Schalke 04
@@ -4050,7 +4050,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884530@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270509T020000
 DTEND;TZID=Asia/Shanghai:20270509T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 霍芬海姆 @ SV Elversberg
@@ -4064,7 +4064,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884526@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270516T020000
 DTEND;TZID=Asia/Shanghai:20270516T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 拜仁慕尼黑 @ 勒沃库森
@@ -4078,7 +4078,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884529@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270516T020000
 DTEND;TZID=Asia/Shanghai:20270516T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 科隆 @ 多特蒙德
@@ -4092,7 +4092,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884524@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270516T020000
 DTEND;TZID=Asia/Shanghai:20270516T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 奥格斯堡 @ 门兴格拉德巴
@@ -4107,7 +4107,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884525@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270516T020000
 DTEND;TZID=Asia/Shanghai:20270516T030000
 SUMMARY:Bundesliga Schedule · 德甲 · SV Elversberg @ 法兰克福
@@ -4121,7 +4121,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884503@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270516T020000
 DTEND;TZID=Asia/Shanghai:20270516T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 弗莱堡 @ 汉堡
@@ -4135,7 +4135,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884501@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270516T020000
 DTEND;TZID=Asia/Shanghai:20270516T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 柏林联合 @ SC Paderborn 07
@@ -4149,7 +4149,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884527@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270516T020000
 DTEND;TZID=Asia/Shanghai:20270516T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 美因茨 @ 霍芬海姆
@@ -4163,7 +4163,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884528@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270516T020000
 DTEND;TZID=Asia/Shanghai:20270516T030000
 SUMMARY:Bundesliga Schedule · 德甲 · 莱比锡 @ 斯图加特
@@ -4177,7 +4177,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884502@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270516T020000
 DTEND;TZID=Asia/Shanghai:20270516T030000
 SUMMARY:Bundesliga Schedule · 德甲 · Schalke 04 @ 不来梅
@@ -4191,7 +4191,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884495@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270522T213000
 DTEND;TZID=Asia/Shanghai:20270522T223000
 SUMMARY:Bundesliga Schedule · 德甲 · 门兴格拉德巴赫 @ 柏林联
@@ -4206,7 +4206,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884500@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270522T213000
 DTEND;TZID=Asia/Shanghai:20270522T223000
 SUMMARY:Bundesliga Schedule · 德甲 · 法兰克福 @ 拜仁慕尼黑
@@ -4220,7 +4220,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884497@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270522T213000
 DTEND;TZID=Asia/Shanghai:20270522T223000
 SUMMARY:Bundesliga Schedule · 德甲 · 汉堡 @ 奥格斯堡
@@ -4234,7 +4234,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884494@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270522T213000
 DTEND;TZID=Asia/Shanghai:20270522T223000
 SUMMARY:Bundesliga Schedule · 德甲 · SC Paderborn 07 @ 科隆
@@ -4248,7 +4248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884496@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270522T213000
 DTEND;TZID=Asia/Shanghai:20270522T223000
 SUMMARY:Bundesliga Schedule · 德甲 · 斯图加特 @ 美因茨
@@ -4262,7 +4262,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884499@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270522T213000
 DTEND;TZID=Asia/Shanghai:20270522T223000
 SUMMARY:Bundesliga Schedule · 德甲 · 霍芬海姆 @ 莱比锡
@@ -4276,7 +4276,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884498@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270522T213000
 DTEND;TZID=Asia/Shanghai:20270522T223000
 SUMMARY:Bundesliga Schedule · 德甲 · 多特蒙德 @ 弗莱堡
@@ -4290,7 +4290,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884493@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270522T213000
 DTEND;TZID=Asia/Shanghai:20270522T223000
 SUMMARY:Bundesliga Schedule · 德甲 · 勒沃库森 @ Schalke 04
@@ -4304,7 +4304,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bundesliga-2026-401884492@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260702T000000
+DTSTAMP:20260715T000000
 DTSTART;TZID=Asia/Shanghai:20270522T213000
 DTEND;TZID=Asia/Shanghai:20270522T223000
 SUMMARY:Bundesliga Schedule · 德甲 · 不来梅 @ SV Elversberg
