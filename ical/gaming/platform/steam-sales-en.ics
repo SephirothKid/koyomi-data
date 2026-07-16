@@ -10,34 +10,9 @@ X-WR-CALDESC:Steam 全年活动日历：四大年度大促（春夏秋冬
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-UID:steam-sales-steam-2026-next-fest-jun@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260713T000000
-DTSTART;TZID=Asia/Shanghai:20260615T010000
-DTEND;TZID=Asia/Shanghai:20260622T010000
-SUMMARY:Steam Events & Sales · 新品节（6月版）
-DESCRIPTION:Steam Next Fest 2026 年 6月版：限时免费 Demo 试玩，
- 含数百款即将发售新游及开发者直播
-CATEGORIES:Steam Events & Sales
-URL;VALUE=URI:https://store.steampowered.com/sale/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:steam-sales-steam-2026-summer-sale@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260713T000000
-DTSTART;TZID=Asia/Shanghai:20260625T010000
-DTEND;TZID=Asia/Shanghai:20260709T010000
-SUMMARY:Steam Events & Sales · 夏季大促
-DESCRIPTION:Steam 2026 年夏季大促
-CATEGORIES:Steam Events & Sales
-URL;VALUE=URI:https://store.steampowered.com/sale/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:steam-sales-steam-2026-social-deduction-fest@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260713T000000
+DTSTAMP:20260716T000000
 DTSTART;TZID=Asia/Shanghai:20260713T010000
 DTEND;TZID=Asia/Shanghai:20260716T010000
 SUMMARY:Steam Events & Sales · 社交推理节
@@ -48,22 +23,9 @@ URL;VALUE=URI:https://store.steampowered.com/sale/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:steam-sales-steam-2026-train-fest@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260713T000000
-DTSTART;TZID=Asia/Shanghai:20260720T010000
-DTEND;TZID=Asia/Shanghai:20260727T010000
-SUMMARY:Steam Events & Sales · 火车铁路节
-DESCRIPTION:Steam 火车铁路节：Train Fest 类型游戏专题特卖与
-  Demo 试玩
-CATEGORIES:Steam Events & Sales
-URL;VALUE=URI:https://store.steampowered.com/sale/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:steam-sales-steam-2026-cyberpunk-fest@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260713T000000
+DTSTAMP:20260716T000000
 DTSTART;TZID=Asia/Shanghai:20260803T010000
 DTEND;TZID=Asia/Shanghai:20260810T010000
 SUMMARY:Steam Events & Sales · 赛博朋克节
@@ -76,7 +38,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:steam-sales-steam-2026-pins-pegs-fest@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260713T000000
+DTSTAMP:20260716T000000
 DTSTART;TZID=Asia/Shanghai:20260817T010000
 DTEND;TZID=Asia/Shanghai:20260820T010000
 SUMMARY:Steam Events & Sales · 弹球节
@@ -89,7 +51,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:steam-sales-steam-2026-pve-survival-crafting-fest@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260713T000000
+DTSTAMP:20260716T000000
 DTSTART;TZID=Asia/Shanghai:20260831T010000
 DTEND;TZID=Asia/Shanghai:20260907T010000
 SUMMARY:Steam Events & Sales · 生存建造节
@@ -102,7 +64,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:steam-sales-steam-2026-programming-fest@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260713T000000
+DTSTAMP:20260716T000000
 DTSTART;TZID=Asia/Shanghai:20260910T010000
 DTEND;TZID=Asia/Shanghai:20260914T010000
 SUMMARY:Steam Events & Sales · 编程节
@@ -115,7 +77,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:steam-sales-steam-2026-party-based-rpg-fest@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260713T000000
+DTSTAMP:20260716T000000
 DTSTART;TZID=Asia/Shanghai:20260914T010000
 DTEND;TZID=Asia/Shanghai:20260921T010000
 SUMMARY:Steam Events & Sales · 小队 RPG 节
@@ -128,7 +90,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:steam-sales-steam-2026-autumn-sale@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260713T000000
+DTSTAMP:20260716T000000
 DTSTART;TZID=Asia/Shanghai:20261001T010000
 DTEND;TZID=Asia/Shanghai:20261008T010000
 SUMMARY:Steam Events & Sales · 秋季大促
@@ -140,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:steam-sales-steam-2026-cooking-fest@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260713T000000
+DTSTAMP:20260716T000000
 DTSTART;TZID=Asia/Shanghai:20261012T010000
 DTEND;TZID=Asia/Shanghai:20261019T010000
 SUMMARY:Steam Events & Sales · 厨艺节
@@ -153,7 +115,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:steam-sales-steam-2026-next-fest-oct@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260713T000000
+DTSTAMP:20260716T000000
 DTSTART;TZID=Asia/Shanghai:20261019T010000
 DTEND;TZID=Asia/Shanghai:20261026T010000
 SUMMARY:Steam Events & Sales · 新品节（10月版）
@@ -166,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:steam-sales-steam-2026-steam-scream-v@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260713T000000
+DTSTAMP:20260716T000000
 DTSTART;TZID=Asia/Shanghai:20261026T010000
 DTEND;TZID=Asia/Shanghai:20261102T010000
 SUMMARY:Steam Events & Sales · 万圣节特卖
@@ -179,7 +141,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:steam-sales-steam-2026-auto-battler-rpg-fest@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260713T000000
+DTSTAMP:20260716T000000
 DTSTART;TZID=Asia/Shanghai:20261116T010000
 DTEND;TZID=Asia/Shanghai:20261123T010000
 SUMMARY:Steam Events & Sales · 自动战斗 RPG 节
@@ -192,11 +154,61 @@ END:VEVENT
 BEGIN:VEVENT
 UID:steam-sales-steam-2026-winter-sale@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260713T000000
+DTSTAMP:20260716T000000
 DTSTART;TZID=Asia/Shanghai:20261217T010000
 DTEND;TZID=Asia/Shanghai:20270104T010000
 SUMMARY:Steam Events & Sales · 冬季大促
 DESCRIPTION:Steam 2026 年冬季大促
+CATEGORIES:Steam Events & Sales
+URL;VALUE=URI:https://store.steampowered.com/sale/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:steam-sales-steam-2027-next-fest-feb@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260716T000000
+DTSTART;TZID=Asia/Shanghai:20270222T010000
+DTEND;TZID=Asia/Shanghai:20270301T010000
+SUMMARY:Steam Events & Sales · 新品节（2月版）
+DESCRIPTION:Steam Next Fest 2027 年 2月版：限时免费 Demo 试玩，
+ 含数百款即将发售新游及开发者直播
+CATEGORIES:Steam Events & Sales
+URL;VALUE=URI:https://store.steampowered.com/sale/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:steam-sales-steam-2027-spring-sale@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260716T000000
+DTSTART;TZID=Asia/Shanghai:20270318T010000
+DTEND;TZID=Asia/Shanghai:20270325T010000
+SUMMARY:Steam Events & Sales · 春季特卖
+DESCRIPTION:Steam 2027 年春季特卖
+CATEGORIES:Steam Events & Sales
+URL;VALUE=URI:https://store.steampowered.com/sale/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:steam-sales-steam-2027-next-fest-jun@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260716T000000
+DTSTART;TZID=Asia/Shanghai:20270614T010000
+DTEND;TZID=Asia/Shanghai:20270621T010000
+SUMMARY:Steam Events & Sales · 新品节（6月版）
+DESCRIPTION:Steam Next Fest 2027 年 6月版：限时免费 Demo 试玩，
+ 含数百款即将发售新游及开发者直播
+CATEGORIES:Steam Events & Sales
+URL;VALUE=URI:https://store.steampowered.com/sale/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:steam-sales-steam-2027-summer-sale@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260716T000000
+DTSTART;TZID=Asia/Shanghai:20270624T010000
+DTEND;TZID=Asia/Shanghai:20270708T010000
+SUMMARY:Steam Events & Sales · 夏季大促
+DESCRIPTION:Steam 2027 年夏季大促
 CATEGORIES:Steam Events & Sales
 URL;VALUE=URI:https://store.steampowered.com/sale/
 STATUS:CONFIRMED
