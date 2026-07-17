@@ -5695,11 +5695,69 @@
       ]
     },
     {
+      "id": "fgo-2026-回忆活动回顾推荐召唤-banner",
+      "name": "FGO 回忆活动回顾推荐召唤 召唤",
+      "name_en": "FGO 回忆活动回顾推荐召唤 Summoning",
+      "date": "2026-07-24",
+      "end_date": "2026-08-04",
+      "time": "19:00",
+      "end_time": "18:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "FGO召唤「回忆活动回顾推荐召唤」。",
+      "description_en": "FGO Summoning「回忆活动回顾推荐召唤」.",
+      "url": "https://game.bilibili.com/fgo/news.html",
+      "status": "confirmed",
+      "last_verified": "2026-07-17",
+      "verified_by": "community",
+      "game": {
+        "game_id": "fgo",
+        "provider": "bilibili",
+        "source_kind": "banner",
+        "version": "回忆活动回顾推荐召唤"
+      },
+      "banners": [
+        {
+          "name": "回忆活动回顾推荐召唤",
+          "type": "character",
+          "featured_5": [
+            {
+              "name": "Template:卡池一览/data",
+              "rarity": 5
+            },
+            {
+              "name": "页面编写卡池信息。",
+              "rarity": 5
+            },
+            {
+              "name": "泪之情人节道场",
+              "rarity": 5
+            },
+            {
+              "name": "圣者的行进",
+              "rarity": 5
+            },
+            {
+              "name": "献给我的御主的礼物",
+              "rarity": 5
+            },
+            {
+              "name": "厨房☆糕点师",
+              "rarity": 5
+            }
+          ],
+          "featured_4": []
+        }
+      ]
+    },
+    {
       "id": "fgo-2026-forecast-next-event",
       "name": "FGO 下一期活动预测窗口",
       "name_en": "FGO Next Event Forecast Window",
-      "date": "2026-07-29",
-      "end_date": "2026-08-19",
+      "date": "2026-08-05",
+      "end_date": "2026-08-26",
       "timezone": "Asia/Shanghai",
       "type": "range",
       "year": 2026,

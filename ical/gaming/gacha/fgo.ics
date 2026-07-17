@@ -776,11 +776,27 @@ URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:fgo-fgo-2026-回忆活动回顾推荐召唤-banner@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260717T000000
+DTSTART;TZID=Asia/Shanghai:20260724T190000
+DTEND;TZID=Asia/Shanghai:20260804T185900
+SUMMARY:FGO 活动日历 · FGO 回忆活动回顾推荐召唤 召唤
+DESCRIPTION:FGO召唤「回忆活动回顾推荐召唤」。\n\n版本: 
+ 回忆活动回顾推荐召唤\n类型: banner\n\n卡池信息：\n1. 回
+ 忆活动回顾推荐召唤（角色）\n5星 UP: Template:卡池一览/da
+ ta / 页面编写卡池信息。 / 泪之情人节道场 / 圣者的行进
+  / 献给我的御主的礼物 / 厨房☆糕点师
+CATEGORIES:FGO 活动日历
+URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:fgo-fgo-2026-forecast-next-event@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260717T000000
-DTSTART;VALUE=DATE:20260729
-DTEND;VALUE=DATE:20260820
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260827
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:FGO 活动日历 · FGO 下一期活动预测窗口
