@@ -9,56 +9,6 @@ X-WR-CALDESC:绝区零版本前瞻、版本更新、调频阶段提醒。
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-UID:zenless-zone-zero-zenless-zone-zero-2026-163857-version@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260613T000000
-DTSTART;TZID=Asia/Shanghai:20260506T110000
-DTEND;TZID=Asia/Shanghai:20260617T060000
-SUMMARY:Zenless Zone Zero Version Calendar · 绝区零 2.8 版本周期
-DESCRIPTION:绝区零 2.8 版本内容开放周期。\n\nVersion: 2.8\nTyp
- e: version\nOfficial source: 2.8版本「新·艾利都日落时」更新
- 公告\n\n官方公告: 2.8版本「新·艾利都日落时」更新公告
-CATEGORIES:Zenless Zone Zero Version Calendar
-URL;VALUE=URI:https://zzz.mihoyo.com/news/detail/163857
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:zenless-zone-zero-zenless-zone-zero-2026-164823-maintenance@koyomi.cas
- t
-SEQUENCE:0
-DTSTAMP:20260709T000000
-DTSTART;TZID=Asia/Shanghai:20260617T060000
-DTEND;TZID=Asia/Shanghai:20260617T070000
-SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero v3.0 Maint
- enance Update
-DESCRIPTION:Zenless Zone Zero Official Maintenance Update.\n\nVersion: 3.0
- \nType: maintenance\nOfficial source: 3.0版本「某个梦游者的自白
- 」更新公告\n\nofficial_time: 2026/06/17 06:00（UTC+8） 前绳网等
- 级≥4级的绳匠。 ※领取时间截至3.0
-CATEGORIES:Zenless Zone Zero Version Calendar
-URL;VALUE=URI:https://zzz.mihoyo.com/news/detail/164823
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:zenless-zone-zero-zenless-zone-zero-2026-forecast-vnext-1-update@koyom
- i.cast
-SEQUENCE:0
-DTSTAMP:20260709T000000
-DTSTART;VALUE=DATE:20260617
-DTEND;VALUE=DATE:20260618
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero Next Versi
- on Maintenance Update Window
-DESCRIPTION:Zenless Zone Zero Next Version Maintenance Update prediction w
- indow. Subject to official announcement.\n\nVersion: 下一版本\nType: f
- orecast\n\ndata_nature: Forecast Window\nbasis: Approximately 42 days per 
- version
-CATEGORIES:Zenless Zone Zero Version Calendar
-URL;VALUE=URI:https://zzz.mihoyo.com/news
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:zenless-zone-zero-zenless-zone-zero-2026-165152-banners@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260709T000000
