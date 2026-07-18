@@ -8499,7 +8499,7 @@
       "description": "天津津门虎 作客 上海申花（中超 2026 赛季，北京时间）",
       "description_en": "Tianjin Jinmen Tiger at Shanghai Shenhua (Chinese Super League 2026, Beijing time)",
       "url": "https://www.cfl-china.cn/zh/fixtures/details.html?match_id=7inqf2hl250x7uheyo02cz1g4&competition_code=CSL&local_date=2026-07-18&home_contestant_id=cvx4yvx5oby9dz7vm70mw04um&away_contestant_id=di8wvsww8w86i7gr80pbbhsyi",
-      "status": "planned",
+      "status": "completed",
       "last_verified": "2026-07-18",
       "verified_by": "auto",
       "teams": {
@@ -8523,6 +8523,7 @@
         "轮次": "第 19 轮",
         "主场": "上海申花",
         "客场": "天津津门虎",
+        "比分": "上海申花 0 - 2 天津津门虎",
         "场馆": "上海体育场"
       },
       "details_en": {
@@ -8530,7 +8531,15 @@
         "Round": "Round 19",
         "Home": "Shanghai Shenhua",
         "Away": "Tianjin Jinmen Tiger",
+        "Score": "Shanghai Shenhua 0 - 2 Tianjin Jinmen Tiger",
         "Venue": "Shanghai Stadium"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT",
+        "score": "0 - 2"
       }
     },
     {
