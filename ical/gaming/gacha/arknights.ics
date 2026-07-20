@@ -11,7 +11,7 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:arknights-arknights-2026-砺火成锋复刻-banner@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260711T000000
+DTSTAMP:20260720T000000
 DTSTART;TZID=Asia/Shanghai:20260615T160000
 DTEND;TZID=Asia/Shanghai:20260629T035900
 SUMMARY:明日方舟版本日历 · 明日方舟 砺火成锋·复刻 寻
@@ -27,7 +27,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arknights-arknights-2026-联合行动22-banner@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260711T000000
+DTSTAMP:20260720T000000
 DTSTART;TZID=Asia/Shanghai:20260626T160000
 DTEND;TZID=Asia/Shanghai:20260710T035900
 SUMMARY:明日方舟版本日历 · 明日方舟 联合行动22 寻访
@@ -42,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arknights-arknights-2026-确定性混沌-banner@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260711T000000
+DTSTAMP:20260720T000000
 DTSTART;TZID=Asia/Shanghai:20260710T120000
 DTEND;TZID=Asia/Shanghai:20260724T035900
 SUMMARY:明日方舟版本日历 · 明日方舟 确定性混沌 寻访
@@ -55,26 +55,25 @@ URL;VALUE=URI:https://prts.wiki/w/%E7%A1%AE%E5%AE%9A%E6%80%A7%E6%B7%B7%E6%
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:arknights-arknights-2026-forecast-next-banner@koyomi.cast
+UID:arknights-arknights-2026-永不落幕复刻-banner@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260711T000000
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260809
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:明日方舟版本日历 · 明日方舟 下一期寻访预测窗
- 口
-DESCRIPTION:明日方舟下一期寻访预测窗口，需以官方公告
- 为准。\n\n版本: 下一期\n类型: forecast\n\ndata_nature: 预测窗
- 口\nbasis: 标准寻访约14-21天周期
+DTSTAMP:20260720T000000
+DTSTART;TZID=Asia/Shanghai:20260720T160000
+DTEND;TZID=Asia/Shanghai:20260803T035900
+SUMMARY:明日方舟版本日历 · 明日方舟 永不落幕·复刻 寻
+ 访
+DESCRIPTION:明日方舟寻访「永不落幕·复刻」。\n\n版本: 永
+ 不落幕·复刻\n类型: banner\n\n卡池信息：\n1. 永不落幕·复
+ 刻（角色）\n5星 UP: 酒神 / 阿兰娜 / 蒂比
 CATEGORIES:明日方舟版本日历
-URL;VALUE=URI:https://ak.hypergryph.com/news
+URL;VALUE=URI:https://prts.wiki/w/%E6%B0%B8%E4%B8%8D%E8%90%BD%E5%B9%95%C2%
+ B7%E5%A4%8D%E5%88%BB
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:arknights-arknights-2026-forecast-夏活限定@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260711T000000
+DTSTAMP:20260720T000000
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260816
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -83,6 +82,23 @@ SUMMARY:明日方舟版本日历 · 明日方舟 夏活限定 预测窗口
 DESCRIPTION:明日方舟夏活限定预测窗口，需以官方公告为
  准。\n\n版本: 夏活限定\n类型: forecast\n\ndata_nature: 预测窗
  口\nbasis: 限定寻访历史周期
+CATEGORIES:明日方舟版本日历
+URL;VALUE=URI:https://ak.hypergryph.com/news
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arknights-arknights-2026-forecast-next-banner@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260720T000000
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260819
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:明日方舟版本日历 · 明日方舟 下一期寻访预测窗
+ 口
+DESCRIPTION:明日方舟下一期寻访预测窗口，需以官方公告
+ 为准。\n\n版本: 下一期\n类型: forecast\n\ndata_nature: 预测窗
+ 口\nbasis: 标准寻访约14-21天周期
 CATEGORIES:明日方舟版本日历
 URL;VALUE=URI:https://ak.hypergryph.com/news
 STATUS:CONFIRMED
