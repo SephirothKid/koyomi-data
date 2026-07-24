@@ -2192,11 +2192,11 @@
         "label_zh": "胜者组四强 2",
         "previous_matches": [
           {
-            "panda_match_id": "1352793",
+            "panda_match_id": "1352794",
             "type": "winner"
           },
           {
-            "panda_match_id": "1352794",
+            "panda_match_id": "1352793",
             "type": "winner"
           }
         ]
@@ -2340,11 +2340,11 @@
         "label_zh": "败者组第1轮 2",
         "previous_matches": [
           {
-            "panda_match_id": "1352794",
+            "panda_match_id": "1352793",
             "type": "loser"
           },
           {
-            "panda_match_id": "1352793",
+            "panda_match_id": "1352794",
             "type": "loser"
           }
         ]
@@ -2407,12 +2407,12 @@
         "label_zh": "败者组八强 1",
         "previous_matches": [
           {
-            "panda_match_id": "1352798",
-            "type": "loser"
-          },
-          {
             "panda_match_id": "1352795",
             "type": "winner"
+          },
+          {
+            "panda_match_id": "1352798",
+            "type": "loser"
           }
         ]
       }
@@ -2608,11 +2608,11 @@
         "label_zh": "败者组四强",
         "previous_matches": [
           {
-            "panda_match_id": "1352801",
+            "panda_match_id": "1352800",
             "type": "winner"
           },
           {
-            "panda_match_id": "1352800",
+            "panda_match_id": "1352801",
             "type": "winner"
           }
         ]
@@ -6720,11 +6720,11 @@
         "label_zh": "败者组第1轮 2",
         "previous_matches": [
           {
-            "panda_match_id": "1422512",
+            "panda_match_id": "1422513",
             "type": "loser"
           },
           {
-            "panda_match_id": "1422513",
+            "panda_match_id": "1422512",
             "type": "loser"
           }
         ]
@@ -6921,11 +6921,11 @@
         "label_zh": "胜者组决赛",
         "previous_matches": [
           {
-            "panda_match_id": "1422516",
+            "panda_match_id": "1422517",
             "type": "winner"
           },
           {
-            "panda_match_id": "1422517",
+            "panda_match_id": "1422516",
             "type": "winner"
           }
         ]
@@ -7336,7 +7336,7 @@
       "name_en": "Group Ascend · AL vs LGD",
       "name_zh": "Group Ascend · AL vs LGD",
       "date": "2026-07-24",
-      "time": "15:00",
+      "time": "15:08",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -7344,7 +7344,7 @@
       "description_en": "Anyone's Legend vs LGD Gaming — Group Ascend (CST)",
       "description_zh": "Anyone's Legend vs LGD Gaming — Group Ascend（北京时间）",
       "url": "https://www.twitch.tv/lplenglish",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-07-24",
       "verified_by": "official",
       "teams": {
@@ -7363,6 +7363,12 @@
           "image_url": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
         }
       },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
       "details": {
         "赛事": "LPL",
         "赛季": "Split 3 2026",
@@ -7376,15 +7382,15 @@
       "name_en": "Group Ascend · WE vs JDG",
       "name_zh": "Group Ascend · WE vs JDG",
       "date": "2026-07-24",
-      "time": "17:00",
+      "time": "17:14",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "Team WE vs JD Gaming — Group Ascend（北京时间）",
       "description_en": "Team WE vs JD Gaming — Group Ascend (CST)",
       "description_zh": "Team WE vs JD Gaming — Group Ascend（北京时间）",
-      "url": "https://www.twitch.tv/lplenglish",
-      "status": "confirmed",
+      "url": "https://www.youtube.com/watch?v=69sB3mCs9cI",
+      "status": "completed",
       "last_verified": "2026-07-24",
       "verified_by": "official",
       "teams": {
@@ -7403,6 +7409,12 @@
           "image_url": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
         }
       },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
       "details": {
         "赛事": "LPL",
         "赛季": "Split 3 2026",
@@ -7416,15 +7428,15 @@
       "name_en": "Group Ascend · EDG vs BLG",
       "name_zh": "Group Ascend · EDG vs BLG",
       "date": "2026-07-24",
-      "time": "19:00",
+      "time": "20:16",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "EDward Gaming vs Bilibili Gaming — Group Ascend（北京时间）",
       "description_en": "EDward Gaming vs Bilibili Gaming — Group Ascend (CST)",
       "description_zh": "EDward Gaming vs Bilibili Gaming — Group Ascend（北京时间）",
-      "url": "https://www.twitch.tv/lplenglish",
-      "status": "confirmed",
+      "url": "https://www.youtube.com/watch?v=69sB3mCs9cI",
+      "status": "completed",
       "last_verified": "2026-07-24",
       "verified_by": "official",
       "teams": {
@@ -7442,6 +7454,12 @@
           "name_en": "Bilibili Gaming",
           "image_url": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
         }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
       },
       "details": {
         "赛事": "LPL",
