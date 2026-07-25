@@ -21,7 +21,7 @@
   "subscriber_count": 30160,
   "rating": 4.4,
   "rating_count": 460,
-  "last_updated": "2026-07-24",
+  "last_updated": "2026-07-25",
   "events": [
     {
       "id": "epic-free-2026-w21",
@@ -317,7 +317,7 @@
       "description": "本周免费游戏：《Foretales》",
       "url": "https://store.epicgames.com/zh-CN/free-games",
       "status": "completed",
-      "last_verified": "2026-07-24",
+      "last_verified": "2026-07-25",
       "verified_by": "auto",
       "details": {
         "领取方式": "Epic Games Store 客户端/网页",
@@ -366,22 +366,51 @@
     },
     {
       "id": "epic-free-2026-w31",
-      "name": "OTXO、Sol Cesto",
+      "name": "Sol Cesto",
       "date": "2026-07-30",
       "time": "23:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "本周免费游戏：OTXO、Sol Cesto",
+      "description": "本周免费游戏：Sol Cesto",
       "url": "https://store.epicgames.com/zh-CN/free-games",
       "status": "confirmed",
-      "last_verified": "2026-07-24",
+      "last_verified": "2026-07-25",
       "verified_by": "auto",
       "details": {
         "领取方式": "Epic Games Store 客户端/网页",
         "领取条件": "免费注册账号即可",
         "注意事项": "每周四 23:00 更新，领取后永久拥有",
-        "本周游戏": "OTXO、Sol Cesto"
+        "本周游戏": "Sol Cesto"
+      },
+      "games": [
+        {
+          "title": "Sol Cesto",
+          "description": "Sol Cesto is a tactical and frantic roguelite where mastering your luck is key. Choose a hero, upgrade them using cursed teeth and magical items, and descend to the bottom of an ever-changing dungeon. In this dark world, every action has consequences…",
+          "cover_url": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-g83am.png",
+          "original_price": "¥56.00",
+          "store_url": "https://store.epicgames.com/zh-CN/p/sol-cesto"
+        }
+      ]
+    },
+    {
+      "id": "epic-free-2026-w35",
+      "name": "OTXO",
+      "date": "2026-08-30",
+      "time": "23:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "本周免费游戏：OTXO",
+      "url": "https://store.epicgames.com/zh-CN/free-games",
+      "status": "confirmed",
+      "last_verified": "2026-07-25",
+      "verified_by": "auto",
+      "details": {
+        "领取方式": "Epic Games Store 客户端/网页",
+        "领取条件": "免费注册账号即可",
+        "注意事项": "每周四 23:00 更新，领取后永久拥有",
+        "本周游戏": "OTXO"
       },
       "games": [
         {
@@ -390,13 +419,6 @@
           "cover_url": "https://cdn1.epicgames.com/spt-assets/f6da0031691c4d94a6e21255b18c1710/otxo-1qsng.jpg",
           "original_price": "¥47.00",
           "store_url": "https://store.epicgames.com/zh-CN/p/63e3482da69d4332bd73ce23706e78eb"
-        },
-        {
-          "title": "Sol Cesto",
-          "description": "Sol Cesto is a tactical and frantic roguelite where mastering your luck is key. Choose a hero, upgrade them using cursed teeth and magical items, and descend to the bottom of an ever-changing dungeon. In this dark world, every action has consequences…",
-          "cover_url": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-g83am.png",
-          "original_price": "¥56.00",
-          "store_url": "https://store.epicgames.com/zh-CN/p/sol-cesto"
         }
       ]
     },
