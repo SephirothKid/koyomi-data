@@ -21,7 +21,7 @@
   "subscriber_count": 30160,
   "rating": 4.4,
   "rating_count": 460,
-  "last_updated": "2026-07-29",
+  "last_updated": "2026-07-30",
   "events": [
     {
       "id": "epic-free-2026-w21",
@@ -366,30 +366,73 @@
     },
     {
       "id": "epic-free-2026-w31",
-      "name": "Sol Cesto",
+      "name": "OTXO、Sol Cesto",
       "date": "2026-07-30",
       "time": "23:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "本周免费游戏：Sol Cesto",
+      "description": "本周免费游戏：OTXO、Sol Cesto",
       "url": "https://store.epicgames.com/zh-CN/free-games",
-      "status": "confirmed",
-      "last_verified": "2026-07-29",
+      "status": "active",
+      "last_verified": "2026-07-30",
       "verified_by": "auto",
       "details": {
         "领取方式": "Epic Games Store 客户端/网页",
         "领取条件": "免费注册账号即可",
         "注意事项": "每周四 23:00 更新，领取后永久拥有",
-        "本周游戏": "Sol Cesto"
+        "本周游戏": "OTXO、Sol Cesto"
       },
       "games": [
+        {
+          "title": "OTXO",
+          "description": "这是一款残暴又黑暗的快节奏肉鸽风格游戏，充满既精准又粗犷的枪战以及令时间弯曲的慢动作。在这款游戏中，玩家将进入一个迷雾重重的抽象豪宅，去拯救所爱的人。",
+          "cover_url": "https://cdn1.epicgames.com/spt-assets/f6da0031691c4d94a6e21255b18c1710/otxo-1qsng.jpg",
+          "original_price": "¥47.00",
+          "store_url": "https://store.epicgames.com/zh-CN/p/63e3482da69d4332bd73ce23706e78eb"
+        },
         {
           "title": "Sol Cesto",
           "description": "在这款考验战术规划的轻度 Rogue 游戏里，命运得牢牢掌握在自己手中。选择一名英雄，直抵随机地牢最深层。世事无情，每个选择都会产生一定的后果……",
           "cover_url": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-g83am.png",
           "original_price": "¥56.00",
           "store_url": "https://store.epicgames.com/zh-CN/p/sol-cesto"
+        }
+      ]
+    },
+    {
+      "id": "epic-free-2026-w32",
+      "name": "Beacon Pines、We Were Here Together",
+      "date": "2026-08-06",
+      "time": "23:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "本周免费游戏：Beacon Pines、We Were Here Together",
+      "url": "https://store.epicgames.com/zh-CN/free-games",
+      "status": "confirmed",
+      "last_verified": "2026-07-30",
+      "verified_by": "auto",
+      "details": {
+        "领取方式": "Epic Games Store 客户端/网页",
+        "领取条件": "免费注册账号即可",
+        "注意事项": "每周四 23:00 更新，领取后永久拥有",
+        "本周游戏": "Beacon Pines、We Were Here Together"
+      },
+      "games": [
+        {
+          "title": "Beacon Pines",
+          "description": "Beacon Pines is a cute and creepy adventure game. Sneak out late, make new friends, uncover hidden truths, and collect words that will change the course of fate!",
+          "cover_url": "https://cdn1.epicgames.com/spt-assets/c89a3b955d704c3c97ddd2aba5265a38/download-beacon-pines-offer-1ko2w.jpg",
+          "original_price": "¥62.00",
+          "store_url": "https://store.epicgames.com/zh-CN/p/9e9a438c651a49799c3ddd94a0c3f4c0"
+        },
+        {
+          "title": "We Were Here Together",
+          "description": "自踏足这片荒芜的冻原起，我们接二连三遇到怪事。咆哮的暴风雪，黑夜中的信号弹，还有无线电上断断续续的求救信号...但除了我们，没人能援救这群受困的人。但我们能活着回来呢？能一起回来么？\r",
+          "cover_url": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-12ukl.png",
+          "original_price": "¥40.00",
+          "store_url": "https://store.epicgames.com/zh-CN/p/a4bed38482a44c3d89029b0dbba42087"
         }
       ]
     },
