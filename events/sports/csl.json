@@ -9639,7 +9639,7 @@
       "description": "上海申花 作客 青岛海牛（中超 2026 赛季，北京时间）",
       "description_en": "Shanghai Shenhua at Qingdao Hainiu (Chinese Super League 2026, Beijing time)",
       "url": "https://www.cfl-china.cn/zh/fixtures/details.html?match_id=7vubgda3f8bw40h8a8md5mdck&competition_code=CSL&local_date=2026-08-08&home_contestant_id=a3rgv4o76uowd2gxzx9pgf02d&away_contestant_id=cvx4yvx5oby9dz7vm70mw04um",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-08",
       "verified_by": "auto",
       "teams": {
@@ -9663,6 +9663,7 @@
         "轮次": "第 22 轮",
         "主场": "青岛海牛",
         "客场": "上海申花",
+        "比分": "青岛海牛 0 - 1 上海申花",
         "场馆": "青岛青春足球场"
       },
       "details_en": {
@@ -9670,7 +9671,15 @@
         "Round": "Round 22",
         "Home": "Qingdao Hainiu",
         "Away": "Shanghai Shenhua",
+        "Score": "Qingdao Hainiu 0 - 1 Shanghai Shenhua",
         "Venue": "Qingdao Youth Football Stadium"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT",
+        "score": "0 - 1"
       }
     },
     {
@@ -9687,7 +9696,7 @@
       "description": "辽宁铁人楠波湾 作客 大连英博海发（中超 2026 赛季，北京时间）",
       "description_en": "Liaoning Tieren at Dalian Yingbo (Chinese Super League 2026, Beijing time)",
       "url": "https://www.cfl-china.cn/zh/fixtures/details.html?match_id=7wcwq15d1la3u90o3mluc8pas&competition_code=CSL&local_date=2026-08-08&home_contestant_id=dicpumaiand6vk7vqbn4tqdxw&away_contestant_id=7u46yssnarhr1uyxsmv4q5x3q",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-08",
       "verified_by": "auto",
       "teams": {
@@ -9711,6 +9720,7 @@
         "轮次": "第 22 轮",
         "主场": "大连英博海发",
         "客场": "辽宁铁人楠波湾",
+        "比分": "大连英博海发 1 - 0 辽宁铁人楠波湾",
         "场馆": "大连梭鱼湾足球场"
       },
       "details_en": {
@@ -9718,7 +9728,15 @@
         "Round": "Round 22",
         "Home": "Dalian Yingbo",
         "Away": "Liaoning Tieren",
+        "Score": "Dalian Yingbo 1 - 0 Liaoning Tieren",
         "Venue": "Dalian Suoyuwan Football Stadium"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT",
+        "score": "1 - 0"
       }
     },
     {
@@ -9735,7 +9753,7 @@
       "description": "武汉三镇 作客 浙江俱乐部绿城（中超 2026 赛季，北京时间）",
       "description_en": "Wuhan Three Towns at Zhejiang (Chinese Super League 2026, Beijing time)",
       "url": "https://www.cfl-china.cn/zh/fixtures/details.html?match_id=7wvy3glfx3b1cq4n4jsjqcahg&competition_code=CSL&local_date=2026-08-08&home_contestant_id=a3l87ozfq8bjwpy0nxvs5w28o&away_contestant_id=6nbq8ek8wl4scwttlmgdyveqy",
-      "status": "confirmed",
+      "status": "planned",
       "last_verified": "2026-08-08",
       "verified_by": "auto",
       "teams": {
@@ -9783,7 +9801,7 @@
       "description": "成都蓉城 作客 云南玉昆（中超 2026 赛季，北京时间）",
       "description_en": "Chengdu Rongcheng at Yunnan Yukun (Chinese Super League 2026, Beijing time)",
       "url": "https://www.cfl-china.cn/zh/fixtures/details.html?match_id=7xei28xbvcy80zucztgbzep78&competition_code=CSL&local_date=2026-08-08&home_contestant_id=3n4jrcw6w965v1qvp0azx5kwk&away_contestant_id=19g03gt1yj4oo8ak4vyf6sp9l",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-08",
       "verified_by": "auto",
       "teams": {
@@ -9807,6 +9825,7 @@
         "轮次": "第 22 轮",
         "主场": "云南玉昆",
         "客场": "成都蓉城",
+        "比分": "云南玉昆 1 - 0 成都蓉城",
         "场馆": "玉溪高原体育运动中心体育场"
       },
       "details_en": {
@@ -9814,7 +9833,15 @@
         "Round": "Round 22",
         "Home": "Yunnan Yukun",
         "Away": "Chengdu Rongcheng",
+        "Score": "Yunnan Yukun 1 - 0 Chengdu Rongcheng",
         "Venue": "Yuxi Plateau Sports Center Stadium"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT",
+        "score": "1 - 0"
       }
     },
     {
