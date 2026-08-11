@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//nba-okc//EN
+URL:https://koyomi.cast/sources/nba
+NAME:俄克拉荷马雷霆赛程
+X-WR-CALNAME:俄克拉荷马雷霆赛程
+X-WR-CALDESC:俄克拉荷马雷霆在NBA 赛季赛程中的比赛日程，
+ 自动同步更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:nba-okc-nba-2027-regular-0022600003@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261021T093000
+DTEND;TZID=Asia/Shanghai:20261021T103000
+SUMMARY:俄克拉荷马雷霆赛程 · 俄克拉荷马雷霆 @ 圣安东
+ 尼奥马刺
+DESCRIPTION:俄克拉荷马雷霆 @ 圣安东尼奥马刺（北京时间
+ ）\n\n主场: 圣安东尼奥马刺\n客场: 俄克拉荷马雷霆\n场
+ 馆: Frost Bank Center\, San Antonio
+CATEGORIES:俄克拉荷马雷霆赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-okc-nba-2027-regular-0022600007@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261023T093000
+DTEND;TZID=Asia/Shanghai:20261023T103000
+SUMMARY:俄克拉荷马雷霆赛程 · 俄克拉荷马雷霆 vs 丹佛掘
+ 金
+DESCRIPTION:丹佛掘金 @ 俄克拉荷马雷霆（北京时间）\n\n主
+ 场: 俄克拉荷马雷霆\n客场: 丹佛掘金\n场馆: Paycom Center\, 
+ Oklahoma City
+CATEGORIES:俄克拉荷马雷霆赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-okc-nba-2027-regular-0022600013@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261226T090000
+DTEND;TZID=Asia/Shanghai:20261226T100000
+SUMMARY:俄克拉荷马雷霆赛程 · 俄克拉荷马雷霆 @ 明尼苏
+ 达森林狼
+DESCRIPTION:俄克拉荷马雷霆 @ 明尼苏达森林狼（北京时间
+ ）\n\n主场: 明尼苏达森林狼\n客场: 俄克拉荷马雷霆\n场
+ 馆: Target Center\, Minneapolis
+CATEGORIES:俄克拉荷马雷霆赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

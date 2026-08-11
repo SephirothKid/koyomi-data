@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//nba-det//EN
+URL:https://koyomi.cast/sources/nba
+NAME:Detroit Pistons Schedule
+X-WR-CALNAME:Detroit Pistons Schedule
+X-WR-CALDESC:Detroit Pistons schedule in NBA Season, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:nba-det-nba-2027-regular-0022600001@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261021T030000
+DTEND;TZID=Asia/Shanghai:20261021T040000
+SUMMARY:Detroit Pistons Schedule · Detroit Pistons vs Boston Celtics
+DESCRIPTION:Boston Celtics at Detroit Pistons (Beijing time)\n\n主场: 
+ 底特律活塞\n客场: 波士顿凯尔特人\n场馆: Little Caesars Are
+ na\, Detroit
+CATEGORIES:Detroit Pistons Schedule
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//nba-mia//EN
+URL:https://koyomi.cast/sources/nba
+NAME:迈阿密热火赛程
+X-WR-CALNAME:迈阿密热火赛程
+X-WR-CALDESC:迈阿密热火在NBA 赛季赛程中的比赛日程，自动
+ 同步更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:nba-mia-nba-2027-regular-0022600004@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261022T073000
+DTEND;TZID=Asia/Shanghai:20261022T083000
+SUMMARY:迈阿密热火赛程 · 迈阿密热火 vs 明尼苏达森林狼
+DESCRIPTION:明尼苏达森林狼 @ 迈阿密热火（北京时间）\n\n
+ 主场: 迈阿密热火\n客场: 明尼苏达森林狼\n场馆: Kaseya Cen
+ ter\, Miami
+CATEGORIES:迈阿密热火赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-mia-nba-2027-regular-0022600011@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261226T033000
+DTEND;TZID=Asia/Shanghai:20261226T043000
+SUMMARY:迈阿密热火赛程 · 迈阿密热火 @ 波士顿凯尔特人
+DESCRIPTION:迈阿密热火 @ 波士顿凯尔特人（北京时间）\n\n
+ 主场: 波士顿凯尔特人\n客场: 迈阿密热火\n场馆: TD Garden\
+ , Boston
+CATEGORIES:迈阿密热火赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

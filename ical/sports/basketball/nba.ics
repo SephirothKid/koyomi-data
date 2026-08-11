@@ -12,13 +12,207 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:nba-nba-2027-preseason@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260729T000000
+DTSTAMP:20260811T000000
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261018
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:NBA 赛季赛程 · 2026-27 季前赛
 DESCRIPTION:NBA 2027 2026-27 季前赛，共 19 场
+CATEGORIES:NBA 赛季赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-nba-2027-regular-0022600001@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261021T030000
+DTEND;TZID=Asia/Shanghai:20261021T040000
+SUMMARY:NBA 赛季赛程 · 2026-27 常规赛 · BOS vs DET
+DESCRIPTION:波士顿凯尔特人 @ 底特律活塞（北京时间）\n\n
+ 主场: 底特律活塞\n客场: 波士顿凯尔特人\n场馆: Little Cae
+ sars Arena\, Detroit
+CATEGORIES:NBA 赛季赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-nba-2027-regular-0022600002@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261021T070000
+DTEND;TZID=Asia/Shanghai:20261021T080000
+SUMMARY:NBA 赛季赛程 · 2026-27 常规赛 · PHI vs NYK
+DESCRIPTION:费城76人 @ 纽约尼克斯（北京时间）\n\n主场: 纽
+ 约尼克斯\n客场: 费城76人\n场馆: Madison Square Garden\, New Yor
+ k
+CATEGORIES:NBA 赛季赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-nba-2027-regular-0022600003@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261021T093000
+DTEND;TZID=Asia/Shanghai:20261021T103000
+SUMMARY:NBA 赛季赛程 · 2026-27 常规赛 · OKC vs SAS
+DESCRIPTION:俄克拉荷马雷霆 @ 圣安东尼奥马刺（北京时间
+ ）\n\n主场: 圣安东尼奥马刺\n客场: 俄克拉荷马雷霆\n场
+ 馆: Frost Bank Center\, San Antonio
+CATEGORIES:NBA 赛季赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-nba-2027-regular-0022600004@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261022T073000
+DTEND;TZID=Asia/Shanghai:20261022T083000
+SUMMARY:NBA 赛季赛程 · 2026-27 常规赛 · MIN vs MIA
+DESCRIPTION:明尼苏达森林狼 @ 迈阿密热火（北京时间）\n\n
+ 主场: 迈阿密热火\n客场: 明尼苏达森林狼\n场馆: Kaseya Cen
+ ter\, Miami
+CATEGORIES:NBA 赛季赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-nba-2027-regular-0022600005@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261022T100000
+DTEND;TZID=Asia/Shanghai:20261022T110000
+SUMMARY:NBA 赛季赛程 · 2026-27 常规赛 · GSW vs LAL
+DESCRIPTION:金州勇士 @ 洛杉矶湖人（北京时间）\n\n主场: 
+ 洛杉矶湖人\n客场: 金州勇士\n场馆: Crypto.com Arena\, Los Ange
+ les
+CATEGORIES:NBA 赛季赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-nba-2027-regular-0022600006@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261023T070000
+DTEND;TZID=Asia/Shanghai:20261023T080000
+SUMMARY:NBA 赛季赛程 · 2026-27 常规赛 · CLE vs PHI
+DESCRIPTION:克利夫兰骑士 @ 费城76人（北京时间）\n\n主场: 
+ 费城76人\n客场: 克利夫兰骑士\n场馆: Xfinity Mobile Arena\, Ph
+ iladelphia
+CATEGORIES:NBA 赛季赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-nba-2027-regular-0022600007@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261023T093000
+DTEND;TZID=Asia/Shanghai:20261023T103000
+SUMMARY:NBA 赛季赛程 · 2026-27 常规赛 · DEN vs OKC
+DESCRIPTION:丹佛掘金 @ 俄克拉荷马雷霆（北京时间）\n\n主
+ 场: 俄克拉荷马雷霆\n客场: 丹佛掘金\n场馆: Paycom Center\, 
+ Oklahoma City
+CATEGORIES:NBA 赛季赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-nba-2027-regular-0022600008@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261024T070000
+DTEND;TZID=Asia/Shanghai:20261024T080000
+SUMMARY:NBA 赛季赛程 · 2026-27 常规赛 · NYK vs BOS
+DESCRIPTION:纽约尼克斯 @ 波士顿凯尔特人（北京时间）\n\n
+ 主场: 波士顿凯尔特人\n客场: 纽约尼克斯\n场馆: TD Garden\
+ , Boston
+CATEGORIES:NBA 赛季赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-nba-2027-regular-0022600009@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261024T093000
+DTEND;TZID=Asia/Shanghai:20261024T103000
+SUMMARY:NBA 赛季赛程 · 2026-27 常规赛 · HOU vs SAS
+DESCRIPTION:休斯顿火箭 @ 圣安东尼奥马刺（北京时间）\n\n
+ 主场: 圣安东尼奥马刺\n客场: 休斯顿火箭\n场馆: Moody Cent
+ er\, Austin
+CATEGORIES:NBA 赛季赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-nba-2027-regular-0022600010@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261226T010000
+DTEND;TZID=Asia/Shanghai:20261226T020000
+SUMMARY:NBA 赛季赛程 · 2026-27 常规赛 · SAS vs NYK
+DESCRIPTION:圣安东尼奥马刺 @ 纽约尼克斯（北京时间）\n\n
+ 主场: 纽约尼克斯\n客场: 圣安东尼奥马刺\n场馆: Madison Sq
+ uare Garden\, New York
+CATEGORIES:NBA 赛季赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-nba-2027-regular-0022600011@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261226T033000
+DTEND;TZID=Asia/Shanghai:20261226T043000
+SUMMARY:NBA 赛季赛程 · 2026-27 常规赛 · MIA vs BOS
+DESCRIPTION:迈阿密热火 @ 波士顿凯尔特人（北京时间）\n\n
+ 主场: 波士顿凯尔特人\n客场: 迈阿密热火\n场馆: TD Garden\
+ , Boston
+CATEGORIES:NBA 赛季赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-nba-2027-regular-0022600012@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261226T060000
+DTEND;TZID=Asia/Shanghai:20261226T070000
+SUMMARY:NBA 赛季赛程 · 2026-27 常规赛 · PHI vs LAL
+DESCRIPTION:费城76人 @ 洛杉矶湖人（北京时间）\n\n主场: 洛
+ 杉矶湖人\n客场: 费城76人\n场馆: Crypto.com Arena\, Los Angeles
+CATEGORIES:NBA 赛季赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-nba-2027-regular-0022600013@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261226T090000
+DTEND;TZID=Asia/Shanghai:20261226T100000
+SUMMARY:NBA 赛季赛程 · 2026-27 常规赛 · OKC vs MIN
+DESCRIPTION:俄克拉荷马雷霆 @ 明尼苏达森林狼（北京时间
+ ）\n\n主场: 明尼苏达森林狼\n客场: 俄克拉荷马雷霆\n场
+ 馆: Target Center\, Minneapolis
+CATEGORIES:NBA 赛季赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-nba-2027-regular-0022600014@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261226T113000
+DTEND;TZID=Asia/Shanghai:20261226T123000
+SUMMARY:NBA 赛季赛程 · 2026-27 常规赛 · DEN vs GSW
+DESCRIPTION:丹佛掘金 @ 金州勇士（北京时间）\n\n主场: 金
+ 州勇士\n客场: 丹佛掘金\n场馆: Chase Center\, San Francisco
 CATEGORIES:NBA 赛季赛程
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//nba-gsw//EN
+URL:https://koyomi.cast/sources/nba
+NAME:金州勇士赛程
+X-WR-CALNAME:金州勇士赛程
+X-WR-CALDESC:金州勇士在NBA 赛季赛程中的比赛日程，自动同
+ 步更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:nba-gsw-nba-2027-regular-0022600005@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261022T100000
+DTEND;TZID=Asia/Shanghai:20261022T110000
+SUMMARY:金州勇士赛程 · 金州勇士 @ 洛杉矶湖人
+DESCRIPTION:金州勇士 @ 洛杉矶湖人（北京时间）\n\n主场: 
+ 洛杉矶湖人\n客场: 金州勇士\n场馆: Crypto.com Arena\, Los Ange
+ les
+CATEGORIES:金州勇士赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-gsw-nba-2027-regular-0022600014@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261226T113000
+DTEND;TZID=Asia/Shanghai:20261226T123000
+SUMMARY:金州勇士赛程 · 金州勇士 vs 丹佛掘金
+DESCRIPTION:丹佛掘金 @ 金州勇士（北京时间）\n\n主场: 金
+ 州勇士\n客场: 丹佛掘金\n场馆: Chase Center\, San Francisco
+CATEGORIES:金州勇士赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

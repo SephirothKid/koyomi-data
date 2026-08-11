@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//nba-cle//EN
+URL:https://koyomi.cast/sources/nba
+NAME:Cleveland Cavaliers Schedule
+X-WR-CALNAME:Cleveland Cavaliers Schedule
+X-WR-CALDESC:Cleveland Cavaliers schedule in NBA Season, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:nba-cle-nba-2027-regular-0022600006@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261023T070000
+DTEND;TZID=Asia/Shanghai:20261023T080000
+SUMMARY:Cleveland Cavaliers Schedule · Cleveland Cavaliers @ Philadelphia
+  76ers
+DESCRIPTION:Cleveland Cavaliers at Philadelphia 76ers (Beijing time)\n\n
+ 主场: 费城76人\n客场: 克利夫兰骑士\n场馆: Xfinity Mobile Ar
+ ena\, Philadelphia
+CATEGORIES:Cleveland Cavaliers Schedule
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

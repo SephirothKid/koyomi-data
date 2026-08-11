@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//nba-nyk//EN
+URL:https://koyomi.cast/sources/nba
+NAME:New York Knicks Schedule
+X-WR-CALNAME:New York Knicks Schedule
+X-WR-CALDESC:New York Knicks schedule in NBA Season, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:nba-nyk-nba-2027-regular-0022600002@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261021T070000
+DTEND;TZID=Asia/Shanghai:20261021T080000
+SUMMARY:New York Knicks Schedule · New York Knicks vs Philadelphia 76ers
+DESCRIPTION:Philadelphia 76ers at New York Knicks (Beijing time)\n\n主场
+ : 纽约尼克斯\n客场: 费城76人\n场馆: Madison Square Garden\, Ne
+ w York
+CATEGORIES:New York Knicks Schedule
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-nyk-nba-2027-regular-0022600008@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261024T070000
+DTEND;TZID=Asia/Shanghai:20261024T080000
+SUMMARY:New York Knicks Schedule · New York Knicks @ Boston Celtics
+DESCRIPTION:New York Knicks at Boston Celtics (Beijing time)\n\n主场: 
+ 波士顿凯尔特人\n客场: 纽约尼克斯\n场馆: TD Garden\, Boston
+CATEGORIES:New York Knicks Schedule
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-nyk-nba-2027-regular-0022600010@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261226T010000
+DTEND;TZID=Asia/Shanghai:20261226T020000
+SUMMARY:New York Knicks Schedule · New York Knicks vs San Antonio Spurs
+DESCRIPTION:San Antonio Spurs at New York Knicks (Beijing time)\n\n主场:
+  纽约尼克斯\n客场: 圣安东尼奥马刺\n场馆: Madison Square Ga
+ rden\, New York
+CATEGORIES:New York Knicks Schedule
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

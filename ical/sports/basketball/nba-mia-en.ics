@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//nba-mia//EN
+URL:https://koyomi.cast/sources/nba
+NAME:Miami Heat Schedule
+X-WR-CALNAME:Miami Heat Schedule
+X-WR-CALDESC:Miami Heat schedule in NBA Season, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:nba-mia-nba-2027-regular-0022600004@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261022T073000
+DTEND;TZID=Asia/Shanghai:20261022T083000
+SUMMARY:Miami Heat Schedule · Miami Heat vs Minnesota Timberwolves
+DESCRIPTION:Minnesota Timberwolves at Miami Heat (Beijing time)\n\n主场:
+  迈阿密热火\n客场: 明尼苏达森林狼\n场馆: Kaseya Center\, M
+ iami
+CATEGORIES:Miami Heat Schedule
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-mia-nba-2027-regular-0022600011@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261226T033000
+DTEND;TZID=Asia/Shanghai:20261226T043000
+SUMMARY:Miami Heat Schedule · Miami Heat @ Boston Celtics
+DESCRIPTION:Miami Heat at Boston Celtics (Beijing time)\n\n主场: 波士
+ 顿凯尔特人\n客场: 迈阿密热火\n场馆: TD Garden\, Boston
+CATEGORIES:Miami Heat Schedule
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//nba-min//EN
+URL:https://koyomi.cast/sources/nba
+NAME:明尼苏达森林狼赛程
+X-WR-CALNAME:明尼苏达森林狼赛程
+X-WR-CALDESC:明尼苏达森林狼在NBA 赛季赛程中的比赛日程，
+ 自动同步更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:nba-min-nba-2027-regular-0022600004@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261022T073000
+DTEND;TZID=Asia/Shanghai:20261022T083000
+SUMMARY:明尼苏达森林狼赛程 · 明尼苏达森林狼 @ 迈阿密
+ 热火
+DESCRIPTION:明尼苏达森林狼 @ 迈阿密热火（北京时间）\n\n
+ 主场: 迈阿密热火\n客场: 明尼苏达森林狼\n场馆: Kaseya Cen
+ ter\, Miami
+CATEGORIES:明尼苏达森林狼赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-min-nba-2027-regular-0022600013@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261226T090000
+DTEND;TZID=Asia/Shanghai:20261226T100000
+SUMMARY:明尼苏达森林狼赛程 · 明尼苏达森林狼 vs 俄克拉
+ 荷马雷霆
+DESCRIPTION:俄克拉荷马雷霆 @ 明尼苏达森林狼（北京时间
+ ）\n\n主场: 明尼苏达森林狼\n客场: 俄克拉荷马雷霆\n场
+ 馆: Target Center\, Minneapolis
+CATEGORIES:明尼苏达森林狼赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

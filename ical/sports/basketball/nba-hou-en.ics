@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//nba-hou//EN
+URL:https://koyomi.cast/sources/nba
+NAME:Houston Rockets Schedule
+X-WR-CALNAME:Houston Rockets Schedule
+X-WR-CALDESC:Houston Rockets schedule in NBA Season, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:nba-hou-nba-2027-regular-0022600009@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261024T093000
+DTEND;TZID=Asia/Shanghai:20261024T103000
+SUMMARY:Houston Rockets Schedule · Houston Rockets @ San Antonio Spurs
+DESCRIPTION:Houston Rockets at San Antonio Spurs (Beijing time)\n\n主场:
+  圣安东尼奥马刺\n客场: 休斯顿火箭\n场馆: Moody Center\, Au
+ stin
+CATEGORIES:Houston Rockets Schedule
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

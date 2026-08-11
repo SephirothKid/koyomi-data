@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//nba-sas//EN
+URL:https://koyomi.cast/sources/nba
+NAME:San Antonio Spurs Schedule
+X-WR-CALNAME:San Antonio Spurs Schedule
+X-WR-CALDESC:San Antonio Spurs schedule in NBA Season, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:nba-sas-nba-2027-regular-0022600003@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261021T093000
+DTEND;TZID=Asia/Shanghai:20261021T103000
+SUMMARY:San Antonio Spurs Schedule · San Antonio Spurs vs Oklahoma City T
+ hunder
+DESCRIPTION:Oklahoma City Thunder at San Antonio Spurs (Beijing time)\n\n
+ 主场: 圣安东尼奥马刺\n客场: 俄克拉荷马雷霆\n场馆: Fros
+ t Bank Center\, San Antonio
+CATEGORIES:San Antonio Spurs Schedule
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-sas-nba-2027-regular-0022600009@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261024T093000
+DTEND;TZID=Asia/Shanghai:20261024T103000
+SUMMARY:San Antonio Spurs Schedule · San Antonio Spurs vs Houston Rockets
+DESCRIPTION:Houston Rockets at San Antonio Spurs (Beijing time)\n\n主场:
+  圣安东尼奥马刺\n客场: 休斯顿火箭\n场馆: Moody Center\, Au
+ stin
+CATEGORIES:San Antonio Spurs Schedule
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-sas-nba-2027-regular-0022600010@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261226T010000
+DTEND;TZID=Asia/Shanghai:20261226T020000
+SUMMARY:San Antonio Spurs Schedule · San Antonio Spurs @ New York Knicks
+DESCRIPTION:San Antonio Spurs at New York Knicks (Beijing time)\n\n主场:
+  纽约尼克斯\n客场: 圣安东尼奥马刺\n场馆: Madison Square Ga
+ rden\, New York
+CATEGORIES:San Antonio Spurs Schedule
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

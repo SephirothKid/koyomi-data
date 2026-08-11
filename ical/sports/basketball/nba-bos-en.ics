@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//nba-bos//EN
+URL:https://koyomi.cast/sources/nba
+NAME:Boston Celtics Schedule
+X-WR-CALNAME:Boston Celtics Schedule
+X-WR-CALDESC:Boston Celtics schedule in NBA Season, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:nba-bos-nba-2027-regular-0022600001@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261021T030000
+DTEND;TZID=Asia/Shanghai:20261021T040000
+SUMMARY:Boston Celtics Schedule · Boston Celtics @ Detroit Pistons
+DESCRIPTION:Boston Celtics at Detroit Pistons (Beijing time)\n\n主场: 
+ 底特律活塞\n客场: 波士顿凯尔特人\n场馆: Little Caesars Are
+ na\, Detroit
+CATEGORIES:Boston Celtics Schedule
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-bos-nba-2027-regular-0022600008@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261024T070000
+DTEND;TZID=Asia/Shanghai:20261024T080000
+SUMMARY:Boston Celtics Schedule · Boston Celtics vs New York Knicks
+DESCRIPTION:New York Knicks at Boston Celtics (Beijing time)\n\n主场: 
+ 波士顿凯尔特人\n客场: 纽约尼克斯\n场馆: TD Garden\, Boston
+CATEGORIES:Boston Celtics Schedule
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-bos-nba-2027-regular-0022600011@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261226T033000
+DTEND;TZID=Asia/Shanghai:20261226T043000
+SUMMARY:Boston Celtics Schedule · Boston Celtics vs Miami Heat
+DESCRIPTION:Miami Heat at Boston Celtics (Beijing time)\n\n主场: 波士
+ 顿凯尔特人\n客场: 迈阿密热火\n场馆: TD Garden\, Boston
+CATEGORIES:Boston Celtics Schedule
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//nba-phi//EN
+URL:https://koyomi.cast/sources/nba
+NAME:Philadelphia 76ers Schedule
+X-WR-CALNAME:Philadelphia 76ers Schedule
+X-WR-CALDESC:Philadelphia 76ers schedule in NBA Season, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:nba-phi-nba-2027-regular-0022600002@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261021T070000
+DTEND;TZID=Asia/Shanghai:20261021T080000
+SUMMARY:Philadelphia 76ers Schedule · Philadelphia 76ers @ New York Knick
+ s
+DESCRIPTION:Philadelphia 76ers at New York Knicks (Beijing time)\n\n主场
+ : 纽约尼克斯\n客场: 费城76人\n场馆: Madison Square Garden\, Ne
+ w York
+CATEGORIES:Philadelphia 76ers Schedule
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-phi-nba-2027-regular-0022600006@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261023T070000
+DTEND;TZID=Asia/Shanghai:20261023T080000
+SUMMARY:Philadelphia 76ers Schedule · Philadelphia 76ers vs Cleveland Cav
+ aliers
+DESCRIPTION:Cleveland Cavaliers at Philadelphia 76ers (Beijing time)\n\n
+ 主场: 费城76人\n客场: 克利夫兰骑士\n场馆: Xfinity Mobile Ar
+ ena\, Philadelphia
+CATEGORIES:Philadelphia 76ers Schedule
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-phi-nba-2027-regular-0022600012@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261226T060000
+DTEND;TZID=Asia/Shanghai:20261226T070000
+SUMMARY:Philadelphia 76ers Schedule · Philadelphia 76ers @ Los Angeles La
+ kers
+DESCRIPTION:Philadelphia 76ers at Los Angeles Lakers (Beijing time)\n\n主
+ 场: 洛杉矶湖人\n客场: 费城76人\n场馆: Crypto.com Arena\, Los 
+ Angeles
+CATEGORIES:Philadelphia 76ers Schedule
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

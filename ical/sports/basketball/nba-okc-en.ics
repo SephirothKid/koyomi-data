@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//nba-okc//EN
+URL:https://koyomi.cast/sources/nba
+NAME:Oklahoma City Thunder Schedule
+X-WR-CALNAME:Oklahoma City Thunder Schedule
+X-WR-CALDESC:Oklahoma City Thunder schedule in NBA Season, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:nba-okc-nba-2027-regular-0022600003@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261021T093000
+DTEND;TZID=Asia/Shanghai:20261021T103000
+SUMMARY:Oklahoma City Thunder Schedule · Oklahoma City Thunder @ San Anto
+ nio Spurs
+DESCRIPTION:Oklahoma City Thunder at San Antonio Spurs (Beijing time)\n\n
+ 主场: 圣安东尼奥马刺\n客场: 俄克拉荷马雷霆\n场馆: Fros
+ t Bank Center\, San Antonio
+CATEGORIES:Oklahoma City Thunder Schedule
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-okc-nba-2027-regular-0022600007@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261023T093000
+DTEND;TZID=Asia/Shanghai:20261023T103000
+SUMMARY:Oklahoma City Thunder Schedule · Oklahoma City Thunder vs Denver 
+ Nuggets
+DESCRIPTION:Denver Nuggets at Oklahoma City Thunder (Beijing time)\n\n主
+ 场: 俄克拉荷马雷霆\n客场: 丹佛掘金\n场馆: Paycom Center\, 
+ Oklahoma City
+CATEGORIES:Oklahoma City Thunder Schedule
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-okc-nba-2027-regular-0022600013@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261226T090000
+DTEND;TZID=Asia/Shanghai:20261226T100000
+SUMMARY:Oklahoma City Thunder Schedule · Oklahoma City Thunder @ Minnesot
+ a Timberwolves
+DESCRIPTION:Oklahoma City Thunder at Minnesota Timberwolves (Beijing time)
+ \n\n主场: 明尼苏达森林狼\n客场: 俄克拉荷马雷霆\n场馆: 
+ Target Center\, Minneapolis
+CATEGORIES:Oklahoma City Thunder Schedule
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

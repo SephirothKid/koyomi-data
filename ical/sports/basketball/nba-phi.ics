@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//nba-phi//EN
+URL:https://koyomi.cast/sources/nba
+NAME:费城76人赛程
+X-WR-CALNAME:费城76人赛程
+X-WR-CALDESC:费城76人在NBA 赛季赛程中的比赛日程，自动同
+ 步更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:nba-phi-nba-2027-regular-0022600002@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261021T070000
+DTEND;TZID=Asia/Shanghai:20261021T080000
+SUMMARY:费城76人赛程 · 费城76人 @ 纽约尼克斯
+DESCRIPTION:费城76人 @ 纽约尼克斯（北京时间）\n\n主场: 纽
+ 约尼克斯\n客场: 费城76人\n场馆: Madison Square Garden\, New Yor
+ k
+CATEGORIES:费城76人赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-phi-nba-2027-regular-0022600006@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261023T070000
+DTEND;TZID=Asia/Shanghai:20261023T080000
+SUMMARY:费城76人赛程 · 费城76人 vs 克利夫兰骑士
+DESCRIPTION:克利夫兰骑士 @ 费城76人（北京时间）\n\n主场: 
+ 费城76人\n客场: 克利夫兰骑士\n场馆: Xfinity Mobile Arena\, Ph
+ iladelphia
+CATEGORIES:费城76人赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-phi-nba-2027-regular-0022600012@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261226T060000
+DTEND;TZID=Asia/Shanghai:20261226T070000
+SUMMARY:费城76人赛程 · 费城76人 @ 洛杉矶湖人
+DESCRIPTION:费城76人 @ 洛杉矶湖人（北京时间）\n\n主场: 洛
+ 杉矶湖人\n客场: 费城76人\n场馆: Crypto.com Arena\, Los Angeles
+CATEGORIES:费城76人赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

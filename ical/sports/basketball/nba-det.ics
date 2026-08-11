@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//nba-det//EN
+URL:https://koyomi.cast/sources/nba
+NAME:底特律活塞赛程
+X-WR-CALNAME:底特律活塞赛程
+X-WR-CALDESC:底特律活塞在NBA 赛季赛程中的比赛日程，自动
+ 同步更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:nba-det-nba-2027-regular-0022600001@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261021T030000
+DTEND;TZID=Asia/Shanghai:20261021T040000
+SUMMARY:底特律活塞赛程 · 底特律活塞 vs 波士顿凯尔特人
+DESCRIPTION:波士顿凯尔特人 @ 底特律活塞（北京时间）\n\n
+ 主场: 底特律活塞\n客场: 波士顿凯尔特人\n场馆: Little Cae
+ sars Arena\, Detroit
+CATEGORIES:底特律活塞赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

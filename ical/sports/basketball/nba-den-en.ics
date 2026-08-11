@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//nba-den//EN
+URL:https://koyomi.cast/sources/nba
+NAME:Denver Nuggets Schedule
+X-WR-CALNAME:Denver Nuggets Schedule
+X-WR-CALDESC:Denver Nuggets schedule in NBA Season, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:nba-den-nba-2027-regular-0022600007@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261023T093000
+DTEND;TZID=Asia/Shanghai:20261023T103000
+SUMMARY:Denver Nuggets Schedule · Denver Nuggets @ Oklahoma City Thunder
+DESCRIPTION:Denver Nuggets at Oklahoma City Thunder (Beijing time)\n\n主
+ 场: 俄克拉荷马雷霆\n客场: 丹佛掘金\n场馆: Paycom Center\, 
+ Oklahoma City
+CATEGORIES:Denver Nuggets Schedule
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-den-nba-2027-regular-0022600014@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261226T113000
+DTEND;TZID=Asia/Shanghai:20261226T123000
+SUMMARY:Denver Nuggets Schedule · Denver Nuggets @ Golden State Warriors
+DESCRIPTION:Denver Nuggets at Golden State Warriors (Beijing time)\n\n主
+ 场: 金州勇士\n客场: 丹佛掘金\n场馆: Chase Center\, San Franci
+ sco
+CATEGORIES:Denver Nuggets Schedule
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

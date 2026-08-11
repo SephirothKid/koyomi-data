@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//nba-cle//EN
+URL:https://koyomi.cast/sources/nba
+NAME:克利夫兰骑士赛程
+X-WR-CALNAME:克利夫兰骑士赛程
+X-WR-CALDESC:克利夫兰骑士在NBA 赛季赛程中的比赛日程，自
+ 动同步更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:nba-cle-nba-2027-regular-0022600006@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261023T070000
+DTEND;TZID=Asia/Shanghai:20261023T080000
+SUMMARY:克利夫兰骑士赛程 · 克利夫兰骑士 @ 费城76人
+DESCRIPTION:克利夫兰骑士 @ 费城76人（北京时间）\n\n主场: 
+ 费城76人\n客场: 克利夫兰骑士\n场馆: Xfinity Mobile Arena\, Ph
+ iladelphia
+CATEGORIES:克利夫兰骑士赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

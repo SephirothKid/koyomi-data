@@ -43,11 +43,529 @@
       "description_zh": "NBA 2027 2026-27 季前赛，共 19 场",
       "url": "https://www.nba.com/schedule",
       "status": "planned",
-      "last_verified": "2026-07-29",
+      "last_verified": "2026-08-11",
       "verified_by": "auto"
+    },
+    {
+      "id": "nba-2027-regular-0022600001",
+      "name": "2026-27 常规赛 · BOS vs DET",
+      "name_en": "2026-27 Regular Season · BOS vs DET",
+      "name_zh": "2026-27 常规赛 · BOS vs DET",
+      "date": "2026-10-21",
+      "time": "03:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2027,
+      "description": "波士顿凯尔特人 @ 底特律活塞（北京时间）",
+      "description_en": "Boston Celtics at Detroit Pistons (Beijing time)",
+      "description_zh": "波士顿凯尔特人 @ 底特律活塞（北京时间）",
+      "url": "https://www.nba.com/schedule",
+      "status": "confirmed",
+      "last_verified": "2026-08-11",
+      "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "det",
+          "code": "DET",
+          "name": "底特律活塞",
+          "name_en": "Detroit Pistons"
+        },
+        "away": {
+          "id": "bos",
+          "code": "BOS",
+          "name": "波士顿凯尔特人",
+          "name_en": "Boston Celtics"
+        }
+      },
+      "details": {
+        "主场": "底特律活塞",
+        "客场": "波士顿凯尔特人",
+        "场馆": "Little Caesars Arena, Detroit"
+      }
+    },
+    {
+      "id": "nba-2027-regular-0022600002",
+      "name": "2026-27 常规赛 · PHI vs NYK",
+      "name_en": "2026-27 Regular Season · PHI vs NYK",
+      "name_zh": "2026-27 常规赛 · PHI vs NYK",
+      "date": "2026-10-21",
+      "time": "07:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2027,
+      "description": "费城76人 @ 纽约尼克斯（北京时间）",
+      "description_en": "Philadelphia 76ers at New York Knicks (Beijing time)",
+      "description_zh": "费城76人 @ 纽约尼克斯（北京时间）",
+      "url": "https://www.nba.com/schedule",
+      "status": "confirmed",
+      "last_verified": "2026-08-11",
+      "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nyk",
+          "code": "NYK",
+          "name": "纽约尼克斯",
+          "name_en": "New York Knicks"
+        },
+        "away": {
+          "id": "phi",
+          "code": "PHI",
+          "name": "费城76人",
+          "name_en": "Philadelphia 76ers"
+        }
+      },
+      "details": {
+        "主场": "纽约尼克斯",
+        "客场": "费城76人",
+        "场馆": "Madison Square Garden, New York"
+      }
+    },
+    {
+      "id": "nba-2027-regular-0022600003",
+      "name": "2026-27 常规赛 · OKC vs SAS",
+      "name_en": "2026-27 Regular Season · OKC vs SAS",
+      "name_zh": "2026-27 常规赛 · OKC vs SAS",
+      "date": "2026-10-21",
+      "time": "09:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2027,
+      "description": "俄克拉荷马雷霆 @ 圣安东尼奥马刺（北京时间）",
+      "description_en": "Oklahoma City Thunder at San Antonio Spurs (Beijing time)",
+      "description_zh": "俄克拉荷马雷霆 @ 圣安东尼奥马刺（北京时间）",
+      "url": "https://www.nba.com/schedule",
+      "status": "confirmed",
+      "last_verified": "2026-08-11",
+      "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "sas",
+          "code": "SAS",
+          "name": "圣安东尼奥马刺",
+          "name_en": "San Antonio Spurs"
+        },
+        "away": {
+          "id": "okc",
+          "code": "OKC",
+          "name": "俄克拉荷马雷霆",
+          "name_en": "Oklahoma City Thunder"
+        }
+      },
+      "details": {
+        "主场": "圣安东尼奥马刺",
+        "客场": "俄克拉荷马雷霆",
+        "场馆": "Frost Bank Center, San Antonio"
+      }
+    },
+    {
+      "id": "nba-2027-regular-0022600004",
+      "name": "2026-27 常规赛 · MIN vs MIA",
+      "name_en": "2026-27 Regular Season · MIN vs MIA",
+      "name_zh": "2026-27 常规赛 · MIN vs MIA",
+      "date": "2026-10-22",
+      "time": "07:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2027,
+      "description": "明尼苏达森林狼 @ 迈阿密热火（北京时间）",
+      "description_en": "Minnesota Timberwolves at Miami Heat (Beijing time)",
+      "description_zh": "明尼苏达森林狼 @ 迈阿密热火（北京时间）",
+      "url": "https://www.nba.com/schedule",
+      "status": "confirmed",
+      "last_verified": "2026-08-11",
+      "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "mia",
+          "code": "MIA",
+          "name": "迈阿密热火",
+          "name_en": "Miami Heat"
+        },
+        "away": {
+          "id": "min",
+          "code": "MIN",
+          "name": "明尼苏达森林狼",
+          "name_en": "Minnesota Timberwolves"
+        }
+      },
+      "details": {
+        "主场": "迈阿密热火",
+        "客场": "明尼苏达森林狼",
+        "场馆": "Kaseya Center, Miami"
+      }
+    },
+    {
+      "id": "nba-2027-regular-0022600005",
+      "name": "2026-27 常规赛 · GSW vs LAL",
+      "name_en": "2026-27 Regular Season · GSW vs LAL",
+      "name_zh": "2026-27 常规赛 · GSW vs LAL",
+      "date": "2026-10-22",
+      "time": "10:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2027,
+      "description": "金州勇士 @ 洛杉矶湖人（北京时间）",
+      "description_en": "Golden State Warriors at Los Angeles Lakers (Beijing time)",
+      "description_zh": "金州勇士 @ 洛杉矶湖人（北京时间）",
+      "url": "https://www.nba.com/schedule",
+      "status": "confirmed",
+      "last_verified": "2026-08-11",
+      "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lal",
+          "code": "LAL",
+          "name": "洛杉矶湖人",
+          "name_en": "Los Angeles Lakers"
+        },
+        "away": {
+          "id": "gsw",
+          "code": "GSW",
+          "name": "金州勇士",
+          "name_en": "Golden State Warriors"
+        }
+      },
+      "details": {
+        "主场": "洛杉矶湖人",
+        "客场": "金州勇士",
+        "场馆": "Crypto.com Arena, Los Angeles"
+      }
+    },
+    {
+      "id": "nba-2027-regular-0022600006",
+      "name": "2026-27 常规赛 · CLE vs PHI",
+      "name_en": "2026-27 Regular Season · CLE vs PHI",
+      "name_zh": "2026-27 常规赛 · CLE vs PHI",
+      "date": "2026-10-23",
+      "time": "07:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2027,
+      "description": "克利夫兰骑士 @ 费城76人（北京时间）",
+      "description_en": "Cleveland Cavaliers at Philadelphia 76ers (Beijing time)",
+      "description_zh": "克利夫兰骑士 @ 费城76人（北京时间）",
+      "url": "https://www.nba.com/schedule",
+      "status": "confirmed",
+      "last_verified": "2026-08-11",
+      "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "phi",
+          "code": "PHI",
+          "name": "费城76人",
+          "name_en": "Philadelphia 76ers"
+        },
+        "away": {
+          "id": "cle",
+          "code": "CLE",
+          "name": "克利夫兰骑士",
+          "name_en": "Cleveland Cavaliers"
+        }
+      },
+      "details": {
+        "主场": "费城76人",
+        "客场": "克利夫兰骑士",
+        "场馆": "Xfinity Mobile Arena, Philadelphia"
+      }
+    },
+    {
+      "id": "nba-2027-regular-0022600007",
+      "name": "2026-27 常规赛 · DEN vs OKC",
+      "name_en": "2026-27 Regular Season · DEN vs OKC",
+      "name_zh": "2026-27 常规赛 · DEN vs OKC",
+      "date": "2026-10-23",
+      "time": "09:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2027,
+      "description": "丹佛掘金 @ 俄克拉荷马雷霆（北京时间）",
+      "description_en": "Denver Nuggets at Oklahoma City Thunder (Beijing time)",
+      "description_zh": "丹佛掘金 @ 俄克拉荷马雷霆（北京时间）",
+      "url": "https://www.nba.com/schedule",
+      "status": "confirmed",
+      "last_verified": "2026-08-11",
+      "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "okc",
+          "code": "OKC",
+          "name": "俄克拉荷马雷霆",
+          "name_en": "Oklahoma City Thunder"
+        },
+        "away": {
+          "id": "den",
+          "code": "DEN",
+          "name": "丹佛掘金",
+          "name_en": "Denver Nuggets"
+        }
+      },
+      "details": {
+        "主场": "俄克拉荷马雷霆",
+        "客场": "丹佛掘金",
+        "场馆": "Paycom Center, Oklahoma City"
+      }
+    },
+    {
+      "id": "nba-2027-regular-0022600008",
+      "name": "2026-27 常规赛 · NYK vs BOS",
+      "name_en": "2026-27 Regular Season · NYK vs BOS",
+      "name_zh": "2026-27 常规赛 · NYK vs BOS",
+      "date": "2026-10-24",
+      "time": "07:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2027,
+      "description": "纽约尼克斯 @ 波士顿凯尔特人（北京时间）",
+      "description_en": "New York Knicks at Boston Celtics (Beijing time)",
+      "description_zh": "纽约尼克斯 @ 波士顿凯尔特人（北京时间）",
+      "url": "https://www.nba.com/schedule",
+      "status": "confirmed",
+      "last_verified": "2026-08-11",
+      "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "bos",
+          "code": "BOS",
+          "name": "波士顿凯尔特人",
+          "name_en": "Boston Celtics"
+        },
+        "away": {
+          "id": "nyk",
+          "code": "NYK",
+          "name": "纽约尼克斯",
+          "name_en": "New York Knicks"
+        }
+      },
+      "details": {
+        "主场": "波士顿凯尔特人",
+        "客场": "纽约尼克斯",
+        "场馆": "TD Garden, Boston"
+      }
+    },
+    {
+      "id": "nba-2027-regular-0022600009",
+      "name": "2026-27 常规赛 · HOU vs SAS",
+      "name_en": "2026-27 Regular Season · HOU vs SAS",
+      "name_zh": "2026-27 常规赛 · HOU vs SAS",
+      "date": "2026-10-24",
+      "time": "09:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2027,
+      "description": "休斯顿火箭 @ 圣安东尼奥马刺（北京时间）",
+      "description_en": "Houston Rockets at San Antonio Spurs (Beijing time)",
+      "description_zh": "休斯顿火箭 @ 圣安东尼奥马刺（北京时间）",
+      "url": "https://www.nba.com/schedule",
+      "status": "confirmed",
+      "last_verified": "2026-08-11",
+      "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "sas",
+          "code": "SAS",
+          "name": "圣安东尼奥马刺",
+          "name_en": "San Antonio Spurs"
+        },
+        "away": {
+          "id": "hou",
+          "code": "HOU",
+          "name": "休斯顿火箭",
+          "name_en": "Houston Rockets"
+        }
+      },
+      "details": {
+        "主场": "圣安东尼奥马刺",
+        "客场": "休斯顿火箭",
+        "场馆": "Moody Center, Austin"
+      }
+    },
+    {
+      "id": "nba-2027-regular-0022600010",
+      "name": "2026-27 常规赛 · SAS vs NYK",
+      "name_en": "2026-27 Regular Season · SAS vs NYK",
+      "name_zh": "2026-27 常规赛 · SAS vs NYK",
+      "date": "2026-12-26",
+      "time": "01:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2027,
+      "description": "圣安东尼奥马刺 @ 纽约尼克斯（北京时间）",
+      "description_en": "San Antonio Spurs at New York Knicks (Beijing time)",
+      "description_zh": "圣安东尼奥马刺 @ 纽约尼克斯（北京时间）",
+      "url": "https://www.nba.com/schedule",
+      "status": "confirmed",
+      "last_verified": "2026-08-11",
+      "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nyk",
+          "code": "NYK",
+          "name": "纽约尼克斯",
+          "name_en": "New York Knicks"
+        },
+        "away": {
+          "id": "sas",
+          "code": "SAS",
+          "name": "圣安东尼奥马刺",
+          "name_en": "San Antonio Spurs"
+        }
+      },
+      "details": {
+        "主场": "纽约尼克斯",
+        "客场": "圣安东尼奥马刺",
+        "场馆": "Madison Square Garden, New York"
+      }
+    },
+    {
+      "id": "nba-2027-regular-0022600011",
+      "name": "2026-27 常规赛 · MIA vs BOS",
+      "name_en": "2026-27 Regular Season · MIA vs BOS",
+      "name_zh": "2026-27 常规赛 · MIA vs BOS",
+      "date": "2026-12-26",
+      "time": "03:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2027,
+      "description": "迈阿密热火 @ 波士顿凯尔特人（北京时间）",
+      "description_en": "Miami Heat at Boston Celtics (Beijing time)",
+      "description_zh": "迈阿密热火 @ 波士顿凯尔特人（北京时间）",
+      "url": "https://www.nba.com/schedule",
+      "status": "confirmed",
+      "last_verified": "2026-08-11",
+      "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "bos",
+          "code": "BOS",
+          "name": "波士顿凯尔特人",
+          "name_en": "Boston Celtics"
+        },
+        "away": {
+          "id": "mia",
+          "code": "MIA",
+          "name": "迈阿密热火",
+          "name_en": "Miami Heat"
+        }
+      },
+      "details": {
+        "主场": "波士顿凯尔特人",
+        "客场": "迈阿密热火",
+        "场馆": "TD Garden, Boston"
+      }
+    },
+    {
+      "id": "nba-2027-regular-0022600012",
+      "name": "2026-27 常规赛 · PHI vs LAL",
+      "name_en": "2026-27 Regular Season · PHI vs LAL",
+      "name_zh": "2026-27 常规赛 · PHI vs LAL",
+      "date": "2026-12-26",
+      "time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2027,
+      "description": "费城76人 @ 洛杉矶湖人（北京时间）",
+      "description_en": "Philadelphia 76ers at Los Angeles Lakers (Beijing time)",
+      "description_zh": "费城76人 @ 洛杉矶湖人（北京时间）",
+      "url": "https://www.nba.com/schedule",
+      "status": "confirmed",
+      "last_verified": "2026-08-11",
+      "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "lal",
+          "code": "LAL",
+          "name": "洛杉矶湖人",
+          "name_en": "Los Angeles Lakers"
+        },
+        "away": {
+          "id": "phi",
+          "code": "PHI",
+          "name": "费城76人",
+          "name_en": "Philadelphia 76ers"
+        }
+      },
+      "details": {
+        "主场": "洛杉矶湖人",
+        "客场": "费城76人",
+        "场馆": "Crypto.com Arena, Los Angeles"
+      }
+    },
+    {
+      "id": "nba-2027-regular-0022600013",
+      "name": "2026-27 常规赛 · OKC vs MIN",
+      "name_en": "2026-27 Regular Season · OKC vs MIN",
+      "name_zh": "2026-27 常规赛 · OKC vs MIN",
+      "date": "2026-12-26",
+      "time": "09:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2027,
+      "description": "俄克拉荷马雷霆 @ 明尼苏达森林狼（北京时间）",
+      "description_en": "Oklahoma City Thunder at Minnesota Timberwolves (Beijing time)",
+      "description_zh": "俄克拉荷马雷霆 @ 明尼苏达森林狼（北京时间）",
+      "url": "https://www.nba.com/schedule",
+      "status": "confirmed",
+      "last_verified": "2026-08-11",
+      "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "min",
+          "code": "MIN",
+          "name": "明尼苏达森林狼",
+          "name_en": "Minnesota Timberwolves"
+        },
+        "away": {
+          "id": "okc",
+          "code": "OKC",
+          "name": "俄克拉荷马雷霆",
+          "name_en": "Oklahoma City Thunder"
+        }
+      },
+      "details": {
+        "主场": "明尼苏达森林狼",
+        "客场": "俄克拉荷马雷霆",
+        "场馆": "Target Center, Minneapolis"
+      }
+    },
+    {
+      "id": "nba-2027-regular-0022600014",
+      "name": "2026-27 常规赛 · DEN vs GSW",
+      "name_en": "2026-27 Regular Season · DEN vs GSW",
+      "name_zh": "2026-27 常规赛 · DEN vs GSW",
+      "date": "2026-12-26",
+      "time": "11:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2027,
+      "description": "丹佛掘金 @ 金州勇士（北京时间）",
+      "description_en": "Denver Nuggets at Golden State Warriors (Beijing time)",
+      "description_zh": "丹佛掘金 @ 金州勇士（北京时间）",
+      "url": "https://www.nba.com/schedule",
+      "status": "confirmed",
+      "last_verified": "2026-08-11",
+      "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "gsw",
+          "code": "GSW",
+          "name": "金州勇士",
+          "name_en": "Golden State Warriors"
+        },
+        "away": {
+          "id": "den",
+          "code": "DEN",
+          "name": "丹佛掘金",
+          "name_en": "Denver Nuggets"
+        }
+      },
+      "details": {
+        "主场": "金州勇士",
+        "客场": "丹佛掘金",
+        "场馆": "Chase Center, San Francisco"
+      }
     }
   ],
-  "last_updated": "2026-07-29",
+  "last_updated": "2026-08-11",
   "cycle_kind": "season",
   "season_basis": "end-year"
 }

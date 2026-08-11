@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//nba-sas//EN
+URL:https://koyomi.cast/sources/nba
+NAME:圣安东尼奥马刺赛程
+X-WR-CALNAME:圣安东尼奥马刺赛程
+X-WR-CALDESC:圣安东尼奥马刺在NBA 赛季赛程中的比赛日程，
+ 自动同步更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:nba-sas-nba-2027-regular-0022600003@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261021T093000
+DTEND;TZID=Asia/Shanghai:20261021T103000
+SUMMARY:圣安东尼奥马刺赛程 · 圣安东尼奥马刺 vs 俄克拉
+ 荷马雷霆
+DESCRIPTION:俄克拉荷马雷霆 @ 圣安东尼奥马刺（北京时间
+ ）\n\n主场: 圣安东尼奥马刺\n客场: 俄克拉荷马雷霆\n场
+ 馆: Frost Bank Center\, San Antonio
+CATEGORIES:圣安东尼奥马刺赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-sas-nba-2027-regular-0022600009@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261024T093000
+DTEND;TZID=Asia/Shanghai:20261024T103000
+SUMMARY:圣安东尼奥马刺赛程 · 圣安东尼奥马刺 vs 休斯顿
+ 火箭
+DESCRIPTION:休斯顿火箭 @ 圣安东尼奥马刺（北京时间）\n\n
+ 主场: 圣安东尼奥马刺\n客场: 休斯顿火箭\n场馆: Moody Cent
+ er\, Austin
+CATEGORIES:圣安东尼奥马刺赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-sas-nba-2027-regular-0022600010@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260811T000000
+DTSTART;TZID=Asia/Shanghai:20261226T010000
+DTEND;TZID=Asia/Shanghai:20261226T020000
+SUMMARY:圣安东尼奥马刺赛程 · 圣安东尼奥马刺 @ 纽约尼
+ 克斯
+DESCRIPTION:圣安东尼奥马刺 @ 纽约尼克斯（北京时间）\n\n
+ 主场: 纽约尼克斯\n客场: 圣安东尼奥马刺\n场馆: Madison Sq
+ uare Garden\, New York
+CATEGORIES:圣安东尼奥马刺赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
