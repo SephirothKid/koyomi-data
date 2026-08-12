@@ -10,7 +10,7 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:nba-mia-nba-2027-regular-0022600004@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260811T000000
+DTSTAMP:20260812T000000
 DTSTART;TZID=Asia/Shanghai:20261022T073000
 DTEND;TZID=Asia/Shanghai:20261022T083000
 SUMMARY:Miami Heat Schedule · Miami Heat vs Minnesota Timberwolves
@@ -22,9 +22,24 @@ URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:nba-mia-nba-2027-regular-0022600064@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260812T000000
+DTSTART;TZID=Asia/Shanghai:20261128T080000
+DTEND;TZID=Asia/Shanghai:20261128T090000
+SUMMARY:Miami Heat Schedule · Emirates NBA Cup · Miami Heat @ New York K
+ nicks
+DESCRIPTION:Miami Heat at New York Knicks (Beijing time)\n\n主场: 纽约
+ 尼克斯\n客场: 迈阿密热火\n赛段: Emirates NBA Cup\n场馆: Madi
+ son Square Garden\, New York
+CATEGORIES:Miami Heat Schedule
+URL;VALUE=URI:https://www.nba.com/nba-cup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:nba-mia-nba-2027-regular-0022600011@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260811T000000
+DTSTAMP:20260812T000000
 DTSTART;TZID=Asia/Shanghai:20261226T033000
 DTEND;TZID=Asia/Shanghai:20261226T043000
 SUMMARY:Miami Heat Schedule · Miami Heat @ Boston Celtics

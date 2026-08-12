@@ -10,7 +10,7 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:nba-phi-nba-2027-regular-0022600002@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260811T000000
+DTSTAMP:20260812T000000
 DTSTART;TZID=Asia/Shanghai:20261021T070000
 DTEND;TZID=Asia/Shanghai:20261021T080000
 SUMMARY:Philadelphia 76ers Schedule · Philadelphia 76ers @ New York Knick
@@ -25,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-phi-nba-2027-regular-0022600006@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260811T000000
+DTSTAMP:20260812T000000
 DTSTART;TZID=Asia/Shanghai:20261023T070000
 DTEND;TZID=Asia/Shanghai:20261023T080000
 SUMMARY:Philadelphia 76ers Schedule · Philadelphia 76ers vs Cleveland Cav
@@ -38,9 +38,24 @@ URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:nba-phi-nba-2027-regular-0022600018@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260812T000000
+DTSTART;TZID=Asia/Shanghai:20261031T073000
+DTEND;TZID=Asia/Shanghai:20261031T083000
+SUMMARY:Philadelphia 76ers Schedule · Emirates NBA Cup · Philadelphia 76
+ ers vs New York Knicks
+DESCRIPTION:New York Knicks at Philadelphia 76ers (Beijing time)\n\n主场
+ : 费城76人\n客场: 纽约尼克斯\n赛段: Emirates NBA Cup\n场馆: 
+ Xfinity Mobile Arena\, Philadelphia
+CATEGORIES:Philadelphia 76ers Schedule
+URL;VALUE=URI:https://www.nba.com/nba-cup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:nba-phi-nba-2027-regular-0022600012@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260811T000000
+DTSTAMP:20260812T000000
 DTSTART;TZID=Asia/Shanghai:20261226T060000
 DTEND;TZID=Asia/Shanghai:20261226T070000
 SUMMARY:Philadelphia 76ers Schedule · Philadelphia 76ers @ Los Angeles La

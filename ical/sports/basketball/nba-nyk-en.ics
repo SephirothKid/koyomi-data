@@ -10,7 +10,7 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:nba-nyk-nba-2027-regular-0022600002@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260811T000000
+DTSTAMP:20260812T000000
 DTSTART;TZID=Asia/Shanghai:20261021T070000
 DTEND;TZID=Asia/Shanghai:20261021T080000
 SUMMARY:New York Knicks Schedule · New York Knicks vs Philadelphia 76ers
@@ -24,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-nyk-nba-2027-regular-0022600008@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260811T000000
+DTSTAMP:20260812T000000
 DTSTART;TZID=Asia/Shanghai:20261024T070000
 DTEND;TZID=Asia/Shanghai:20261024T080000
 SUMMARY:New York Knicks Schedule · New York Knicks @ Boston Celtics
@@ -35,9 +35,39 @@ URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:nba-nyk-nba-2027-regular-0022600018@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260812T000000
+DTSTART;TZID=Asia/Shanghai:20261031T073000
+DTEND;TZID=Asia/Shanghai:20261031T083000
+SUMMARY:New York Knicks Schedule · Emirates NBA Cup · New York Knicks @ 
+ Philadelphia 76ers
+DESCRIPTION:New York Knicks at Philadelphia 76ers (Beijing time)\n\n主场
+ : 费城76人\n客场: 纽约尼克斯\n赛段: Emirates NBA Cup\n场馆: 
+ Xfinity Mobile Arena\, Philadelphia
+CATEGORIES:New York Knicks Schedule
+URL;VALUE=URI:https://www.nba.com/nba-cup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-nyk-nba-2027-regular-0022600064@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260812T000000
+DTSTART;TZID=Asia/Shanghai:20261128T080000
+DTEND;TZID=Asia/Shanghai:20261128T090000
+SUMMARY:New York Knicks Schedule · Emirates NBA Cup · New York Knicks vs
+  Miami Heat
+DESCRIPTION:Miami Heat at New York Knicks (Beijing time)\n\n主场: 纽约
+ 尼克斯\n客场: 迈阿密热火\n赛段: Emirates NBA Cup\n场馆: Madi
+ son Square Garden\, New York
+CATEGORIES:New York Knicks Schedule
+URL;VALUE=URI:https://www.nba.com/nba-cup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:nba-nyk-nba-2027-regular-0022600010@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260811T000000
+DTSTAMP:20260812T000000
 DTSTART;TZID=Asia/Shanghai:20261226T010000
 DTEND;TZID=Asia/Shanghai:20261226T020000
 SUMMARY:New York Knicks Schedule · New York Knicks vs San Antonio Spurs

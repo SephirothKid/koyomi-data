@@ -43,7 +43,7 @@
       "description_zh": "NBA 2027 2026-27 季前赛，共 19 场",
       "url": "https://www.nba.com/schedule",
       "status": "planned",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-12",
       "verified_by": "auto"
     },
     {
@@ -61,7 +61,7 @@
       "description_zh": "波士顿凯尔特人 @ 底特律活塞（北京时间）",
       "url": "https://www.nba.com/schedule",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-12",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -98,7 +98,7 @@
       "description_zh": "费城76人 @ 纽约尼克斯（北京时间）",
       "url": "https://www.nba.com/schedule",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-12",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -135,7 +135,7 @@
       "description_zh": "俄克拉荷马雷霆 @ 圣安东尼奥马刺（北京时间）",
       "url": "https://www.nba.com/schedule",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-12",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -172,7 +172,7 @@
       "description_zh": "明尼苏达森林狼 @ 迈阿密热火（北京时间）",
       "url": "https://www.nba.com/schedule",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-12",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -209,7 +209,7 @@
       "description_zh": "金州勇士 @ 洛杉矶湖人（北京时间）",
       "url": "https://www.nba.com/schedule",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-12",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -246,7 +246,7 @@
       "description_zh": "克利夫兰骑士 @ 费城76人（北京时间）",
       "url": "https://www.nba.com/schedule",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-12",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -283,7 +283,7 @@
       "description_zh": "丹佛掘金 @ 俄克拉荷马雷霆（北京时间）",
       "url": "https://www.nba.com/schedule",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-12",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -320,7 +320,7 @@
       "description_zh": "纽约尼克斯 @ 波士顿凯尔特人（北京时间）",
       "url": "https://www.nba.com/schedule",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-12",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -357,7 +357,7 @@
       "description_zh": "休斯顿火箭 @ 圣安东尼奥马刺（北京时间）",
       "url": "https://www.nba.com/schedule",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-12",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -380,6 +380,158 @@
       }
     },
     {
+      "id": "nba-2027-regular-0022600018",
+      "name": "NBA Cup（联赛杯） · NYK vs PHI",
+      "name_en": "NBA Cup · NYK vs PHI",
+      "name_zh": "NBA Cup（联赛杯） · NYK vs PHI",
+      "date": "2026-10-31",
+      "time": "07:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2027,
+      "description": "纽约尼克斯 @ 费城76人（北京时间）",
+      "description_en": "New York Knicks at Philadelphia 76ers (Beijing time)",
+      "description_zh": "纽约尼克斯 @ 费城76人（北京时间）",
+      "url": "https://www.nba.com/nba-cup",
+      "status": "confirmed",
+      "last_verified": "2026-08-12",
+      "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "phi",
+          "code": "PHI",
+          "name": "费城76人",
+          "name_en": "Philadelphia 76ers"
+        },
+        "away": {
+          "id": "nyk",
+          "code": "NYK",
+          "name": "纽约尼克斯",
+          "name_en": "New York Knicks"
+        }
+      },
+      "details": {
+        "主场": "费城76人",
+        "客场": "纽约尼克斯",
+        "赛段": "Emirates NBA Cup",
+        "场馆": "Xfinity Mobile Arena, Philadelphia"
+      }
+    },
+    {
+      "id": "nba-2027-regular-0022600023",
+      "name": "NBA Cup（联赛杯） · LAL vs GSW",
+      "name_en": "NBA Cup · LAL vs GSW",
+      "name_zh": "NBA Cup（联赛杯） · LAL vs GSW",
+      "date": "2026-10-31",
+      "time": "10:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2027,
+      "description": "洛杉矶湖人 @ 金州勇士（北京时间）",
+      "description_en": "Los Angeles Lakers at Golden State Warriors (Beijing time)",
+      "description_zh": "洛杉矶湖人 @ 金州勇士（北京时间）",
+      "url": "https://www.nba.com/nba-cup",
+      "status": "confirmed",
+      "last_verified": "2026-08-12",
+      "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "gsw",
+          "code": "GSW",
+          "name": "金州勇士",
+          "name_en": "Golden State Warriors"
+        },
+        "away": {
+          "id": "lal",
+          "code": "LAL",
+          "name": "洛杉矶湖人",
+          "name_en": "Los Angeles Lakers"
+        }
+      },
+      "details": {
+        "主场": "金州勇士",
+        "客场": "洛杉矶湖人",
+        "赛段": "Emirates NBA Cup",
+        "场馆": "Chase Center, San Francisco"
+      }
+    },
+    {
+      "id": "nba-2027-regular-0022600064",
+      "name": "NBA Cup（联赛杯） · MIA vs NYK",
+      "name_en": "NBA Cup · MIA vs NYK",
+      "name_zh": "NBA Cup（联赛杯） · MIA vs NYK",
+      "date": "2026-11-28",
+      "time": "08:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2027,
+      "description": "迈阿密热火 @ 纽约尼克斯（北京时间）",
+      "description_en": "Miami Heat at New York Knicks (Beijing time)",
+      "description_zh": "迈阿密热火 @ 纽约尼克斯（北京时间）",
+      "url": "https://www.nba.com/nba-cup",
+      "status": "confirmed",
+      "last_verified": "2026-08-12",
+      "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nyk",
+          "code": "NYK",
+          "name": "纽约尼克斯",
+          "name_en": "New York Knicks"
+        },
+        "away": {
+          "id": "mia",
+          "code": "MIA",
+          "name": "迈阿密热火",
+          "name_en": "Miami Heat"
+        }
+      },
+      "details": {
+        "主场": "纽约尼克斯",
+        "客场": "迈阿密热火",
+        "赛段": "Emirates NBA Cup",
+        "场馆": "Madison Square Garden, New York"
+      }
+    },
+    {
+      "id": "nba-2027-regular-0022600071",
+      "name": "NBA Cup（联赛杯） · LAL vs SAS",
+      "name_en": "NBA Cup · LAL vs SAS",
+      "name_zh": "NBA Cup（联赛杯） · LAL vs SAS",
+      "date": "2026-11-28",
+      "time": "10:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2027,
+      "description": "洛杉矶湖人 @ 圣安东尼奥马刺（北京时间）",
+      "description_en": "Los Angeles Lakers at San Antonio Spurs (Beijing time)",
+      "description_zh": "洛杉矶湖人 @ 圣安东尼奥马刺（北京时间）",
+      "url": "https://www.nba.com/nba-cup",
+      "status": "confirmed",
+      "last_verified": "2026-08-12",
+      "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "sas",
+          "code": "SAS",
+          "name": "圣安东尼奥马刺",
+          "name_en": "San Antonio Spurs"
+        },
+        "away": {
+          "id": "lal",
+          "code": "LAL",
+          "name": "洛杉矶湖人",
+          "name_en": "Los Angeles Lakers"
+        }
+      },
+      "details": {
+        "主场": "圣安东尼奥马刺",
+        "客场": "洛杉矶湖人",
+        "赛段": "Emirates NBA Cup",
+        "场馆": "Frost Bank Center, San Antonio"
+      }
+    },
+    {
       "id": "nba-2027-regular-0022600010",
       "name": "2026-27 常规赛 · SAS vs NYK",
       "name_en": "2026-27 Regular Season · SAS vs NYK",
@@ -394,7 +546,7 @@
       "description_zh": "圣安东尼奥马刺 @ 纽约尼克斯（北京时间）",
       "url": "https://www.nba.com/schedule",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-12",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -431,7 +583,7 @@
       "description_zh": "迈阿密热火 @ 波士顿凯尔特人（北京时间）",
       "url": "https://www.nba.com/schedule",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-12",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -468,7 +620,7 @@
       "description_zh": "费城76人 @ 洛杉矶湖人（北京时间）",
       "url": "https://www.nba.com/schedule",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-12",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -505,7 +657,7 @@
       "description_zh": "俄克拉荷马雷霆 @ 明尼苏达森林狼（北京时间）",
       "url": "https://www.nba.com/schedule",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-12",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -542,7 +694,7 @@
       "description_zh": "丹佛掘金 @ 金州勇士（北京时间）",
       "url": "https://www.nba.com/schedule",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-12",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -563,9 +715,87 @@
         "客场": "丹佛掘金",
         "场馆": "Chase Center, San Francisco"
       }
+    },
+    {
+      "id": "nba-2027-regular-0022600075",
+      "name": "2026-27 常规赛 · NOP vs SAS",
+      "name_en": "2026-27 Regular Season · NOP vs SAS",
+      "name_zh": "2026-27 常规赛 · NOP vs SAS",
+      "date": "2027-01-15",
+      "time": "03:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2027,
+      "description": "新奥尔良鹈鹕 @ 圣安东尼奥马刺 · Neutral Site（北京时间）",
+      "description_en": "New Orleans Pelicans at San Antonio Spurs · Neutral Site (Beijing time)",
+      "description_zh": "新奥尔良鹈鹕 @ 圣安东尼奥马刺 · Neutral Site（北京时间）",
+      "url": "https://www.nba.com/schedule",
+      "status": "confirmed",
+      "last_verified": "2026-08-12",
+      "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "sas",
+          "code": "SAS",
+          "name": "圣安东尼奥马刺",
+          "name_en": "San Antonio Spurs"
+        },
+        "away": {
+          "id": "nop",
+          "code": "NOP",
+          "name": "新奥尔良鹈鹕",
+          "name_en": "New Orleans Pelicans"
+        }
+      },
+      "details": {
+        "主场": "圣安东尼奥马刺",
+        "客场": "新奥尔良鹈鹕",
+        "赛段": "NBA Paris Game",
+        "系列赛": "Neutral Site",
+        "场馆": "Accor Arena, Paris"
+      }
+    },
+    {
+      "id": "nba-2027-regular-0022600076",
+      "name": "2026-27 常规赛 · SAS vs NOP",
+      "name_en": "2026-27 Regular Season · SAS vs NOP",
+      "name_zh": "2026-27 常规赛 · SAS vs NOP",
+      "date": "2027-01-17",
+      "time": "23:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2027,
+      "description": "圣安东尼奥马刺 @ 新奥尔良鹈鹕 · Neutral Site（北京时间）",
+      "description_en": "San Antonio Spurs at New Orleans Pelicans · Neutral Site (Beijing time)",
+      "description_zh": "圣安东尼奥马刺 @ 新奥尔良鹈鹕 · Neutral Site（北京时间）",
+      "url": "https://www.nba.com/schedule",
+      "status": "confirmed",
+      "last_verified": "2026-08-12",
+      "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "nop",
+          "code": "NOP",
+          "name": "新奥尔良鹈鹕",
+          "name_en": "New Orleans Pelicans"
+        },
+        "away": {
+          "id": "sas",
+          "code": "SAS",
+          "name": "圣安东尼奥马刺",
+          "name_en": "San Antonio Spurs"
+        }
+      },
+      "details": {
+        "主场": "新奥尔良鹈鹕",
+        "客场": "圣安东尼奥马刺",
+        "赛段": "NBA Manchester Game",
+        "系列赛": "Neutral Site",
+        "场馆": "Co-op Live, Manchester"
+      }
     }
   ],
-  "last_updated": "2026-08-11",
+  "last_updated": "2026-08-12",
   "cycle_kind": "season",
   "season_basis": "end-year"
 }

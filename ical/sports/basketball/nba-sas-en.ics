@@ -10,7 +10,7 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:nba-sas-nba-2027-regular-0022600003@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260811T000000
+DTSTAMP:20260812T000000
 DTSTART;TZID=Asia/Shanghai:20261021T093000
 DTEND;TZID=Asia/Shanghai:20261021T103000
 SUMMARY:San Antonio Spurs Schedule · San Antonio Spurs vs Oklahoma City T
@@ -25,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-sas-nba-2027-regular-0022600009@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260811T000000
+DTSTAMP:20260812T000000
 DTSTART;TZID=Asia/Shanghai:20261024T093000
 DTEND;TZID=Asia/Shanghai:20261024T103000
 SUMMARY:San Antonio Spurs Schedule · San Antonio Spurs vs Houston Rockets
@@ -37,15 +37,62 @@ URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:nba-sas-nba-2027-regular-0022600071@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260812T000000
+DTSTART;TZID=Asia/Shanghai:20261128T103000
+DTEND;TZID=Asia/Shanghai:20261128T113000
+SUMMARY:San Antonio Spurs Schedule · Emirates NBA Cup · San Antonio Spur
+ s vs Los Angeles Lakers
+DESCRIPTION:Los Angeles Lakers at San Antonio Spurs (Beijing time)\n\n主
+ 场: 圣安东尼奥马刺\n客场: 洛杉矶湖人\n赛段: Emirates NBA 
+ Cup\n场馆: Frost Bank Center\, San Antonio
+CATEGORIES:San Antonio Spurs Schedule
+URL;VALUE=URI:https://www.nba.com/nba-cup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:nba-sas-nba-2027-regular-0022600010@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260811T000000
+DTSTAMP:20260812T000000
 DTSTART;TZID=Asia/Shanghai:20261226T010000
 DTEND;TZID=Asia/Shanghai:20261226T020000
 SUMMARY:San Antonio Spurs Schedule · San Antonio Spurs @ New York Knicks
 DESCRIPTION:San Antonio Spurs at New York Knicks (Beijing time)\n\n主场:
   纽约尼克斯\n客场: 圣安东尼奥马刺\n场馆: Madison Square Ga
  rden\, New York
+CATEGORIES:San Antonio Spurs Schedule
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-sas-nba-2027-regular-0022600075@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260812T000000
+DTSTART;TZID=Asia/Shanghai:20270115T030000
+DTEND;TZID=Asia/Shanghai:20270115T040000
+SUMMARY:San Antonio Spurs Schedule · NBA Paris Game · San Antonio Spurs 
+ vs New Orleans Pelicans
+DESCRIPTION:New Orleans Pelicans at San Antonio Spurs · Neutral Site (Bei
+ jing time)\n\n主场: 圣安东尼奥马刺\n客场: 新奥尔良鹈鹕\n
+ 赛段: NBA Paris Game\n系列赛: Neutral Site\n场馆: Accor Arena\, Par
+ is
+CATEGORIES:San Antonio Spurs Schedule
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-sas-nba-2027-regular-0022600076@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260812T000000
+DTSTART;TZID=Asia/Shanghai:20270117T233000
+DTEND;TZID=Asia/Shanghai:20270118T003000
+SUMMARY:San Antonio Spurs Schedule · NBA Manchester Game · San Antonio S
+ purs @ New Orleans Pelicans
+DESCRIPTION:San Antonio Spurs at New Orleans Pelicans · Neutral Site (Bei
+ jing time)\n\n主场: 新奥尔良鹈鹕\n客场: 圣安东尼奥马刺\n
+ 赛段: NBA Manchester Game\n系列赛: Neutral Site\n场馆: Co-op Live\,
+  Manchester
 CATEGORIES:San Antonio Spurs Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED

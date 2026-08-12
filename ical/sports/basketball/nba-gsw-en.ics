@@ -10,7 +10,7 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:nba-gsw-nba-2027-regular-0022600005@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260811T000000
+DTSTAMP:20260812T000000
 DTSTART;TZID=Asia/Shanghai:20261022T100000
 DTEND;TZID=Asia/Shanghai:20261022T110000
 SUMMARY:Golden State Warriors Schedule · Golden State Warriors @ Los Ange
@@ -23,9 +23,24 @@ URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:nba-gsw-nba-2027-regular-0022600023@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260812T000000
+DTSTART;TZID=Asia/Shanghai:20261031T100000
+DTEND;TZID=Asia/Shanghai:20261031T110000
+SUMMARY:Golden State Warriors Schedule · Emirates NBA Cup · Golden State
+  Warriors vs Los Angeles Lakers
+DESCRIPTION:Los Angeles Lakers at Golden State Warriors (Beijing time)\n\n
+ 主场: 金州勇士\n客场: 洛杉矶湖人\n赛段: Emirates NBA Cup\n
+ 场馆: Chase Center\, San Francisco
+CATEGORIES:Golden State Warriors Schedule
+URL;VALUE=URI:https://www.nba.com/nba-cup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:nba-gsw-nba-2027-regular-0022600014@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260811T000000
+DTSTAMP:20260812T000000
 DTSTART;TZID=Asia/Shanghai:20261226T113000
 DTEND;TZID=Asia/Shanghai:20261226T123000
 SUMMARY:Golden State Warriors Schedule · Golden State Warriors vs Denver 

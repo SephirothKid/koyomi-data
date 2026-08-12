@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//nba-nop//EN
+URL:https://koyomi.cast/sources/nba
+NAME:New Orleans Pelicans Schedule
+X-WR-CALNAME:New Orleans Pelicans Schedule
+X-WR-CALDESC:New Orleans Pelicans schedule in NBA Season, auto-synced.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:nba-nop-nba-2027-regular-0022600075@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260812T000000
+DTSTART;TZID=Asia/Shanghai:20270115T030000
+DTEND;TZID=Asia/Shanghai:20270115T040000
+SUMMARY:New Orleans Pelicans Schedule · NBA Paris Game · New Orleans Pel
+ icans @ San Antonio Spurs
+DESCRIPTION:New Orleans Pelicans at San Antonio Spurs · Neutral Site (Bei
+ jing time)\n\n主场: 圣安东尼奥马刺\n客场: 新奥尔良鹈鹕\n
+ 赛段: NBA Paris Game\n系列赛: Neutral Site\n场馆: Accor Arena\, Par
+ is
+CATEGORIES:New Orleans Pelicans Schedule
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-nop-nba-2027-regular-0022600076@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260812T000000
+DTSTART;TZID=Asia/Shanghai:20270117T233000
+DTEND;TZID=Asia/Shanghai:20270118T003000
+SUMMARY:New Orleans Pelicans Schedule · NBA Manchester Game · New Orlean
+ s Pelicans vs San Antonio Spurs
+DESCRIPTION:San Antonio Spurs at New Orleans Pelicans · Neutral Site (Bei
+ jing time)\n\n主场: 新奥尔良鹈鹕\n客场: 圣安东尼奥马刺\n
+ 赛段: NBA Manchester Game\n系列赛: Neutral Site\n场馆: Co-op Live\,
+  Manchester
+CATEGORIES:New Orleans Pelicans Schedule
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

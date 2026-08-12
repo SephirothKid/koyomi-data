@@ -11,7 +11,7 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:nba-sas-nba-2027-regular-0022600003@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260811T000000
+DTSTAMP:20260812T000000
 DTSTART;TZID=Asia/Shanghai:20261021T093000
 DTEND;TZID=Asia/Shanghai:20261021T103000
 SUMMARY:圣安东尼奥马刺赛程 · 圣安东尼奥马刺 vs 俄克拉
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-sas-nba-2027-regular-0022600009@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260811T000000
+DTSTAMP:20260812T000000
 DTSTART;TZID=Asia/Shanghai:20261024T093000
 DTEND;TZID=Asia/Shanghai:20261024T103000
 SUMMARY:圣安东尼奥马刺赛程 · 圣安东尼奥马刺 vs 休斯顿
@@ -39,9 +39,24 @@ URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:nba-sas-nba-2027-regular-0022600071@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260812T000000
+DTSTART;TZID=Asia/Shanghai:20261128T103000
+DTEND;TZID=Asia/Shanghai:20261128T113000
+SUMMARY:圣安东尼奥马刺赛程 · Emirates NBA Cup · 圣安东尼奥
+ 马刺 vs 洛杉矶湖人
+DESCRIPTION:洛杉矶湖人 @ 圣安东尼奥马刺（北京时间）\n\n
+ 主场: 圣安东尼奥马刺\n客场: 洛杉矶湖人\n赛段: Emirates N
+ BA Cup\n场馆: Frost Bank Center\, San Antonio
+CATEGORIES:圣安东尼奥马刺赛程
+URL;VALUE=URI:https://www.nba.com/nba-cup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:nba-sas-nba-2027-regular-0022600010@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260811T000000
+DTSTAMP:20260812T000000
 DTSTART;TZID=Asia/Shanghai:20261226T010000
 DTEND;TZID=Asia/Shanghai:20261226T020000
 SUMMARY:圣安东尼奥马刺赛程 · 圣安东尼奥马刺 @ 纽约尼
@@ -49,6 +64,38 @@ SUMMARY:圣安东尼奥马刺赛程 · 圣安东尼奥马刺 @ 纽约尼
 DESCRIPTION:圣安东尼奥马刺 @ 纽约尼克斯（北京时间）\n\n
  主场: 纽约尼克斯\n客场: 圣安东尼奥马刺\n场馆: Madison Sq
  uare Garden\, New York
+CATEGORIES:圣安东尼奥马刺赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-sas-nba-2027-regular-0022600075@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260812T000000
+DTSTART;TZID=Asia/Shanghai:20270115T030000
+DTEND;TZID=Asia/Shanghai:20270115T040000
+SUMMARY:圣安东尼奥马刺赛程 · NBA Paris Game · 圣安东尼奥
+ 马刺 vs 新奥尔良鹈鹕
+DESCRIPTION:新奥尔良鹈鹕 @ 圣安东尼奥马刺 · Neutral Site（
+ 北京时间）\n\n主场: 圣安东尼奥马刺\n客场: 新奥尔良鹈
+ 鹕\n赛段: NBA Paris Game\n系列赛: Neutral Site\n场馆: Accor Arena\
+ , Paris
+CATEGORIES:圣安东尼奥马刺赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-sas-nba-2027-regular-0022600076@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260812T000000
+DTSTART;TZID=Asia/Shanghai:20270117T233000
+DTEND;TZID=Asia/Shanghai:20270118T003000
+SUMMARY:圣安东尼奥马刺赛程 · NBA Manchester Game · 圣安东尼
+ 奥马刺 @ 新奥尔良鹈鹕
+DESCRIPTION:圣安东尼奥马刺 @ 新奥尔良鹈鹕 · Neutral Site（
+ 北京时间）\n\n主场: 新奥尔良鹈鹕\n客场: 圣安东尼奥马
+ 刺\n赛段: NBA Manchester Game\n系列赛: Neutral Site\n场馆: Co-op L
+ ive\, Manchester
 CATEGORIES:圣安东尼奥马刺赛程
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED

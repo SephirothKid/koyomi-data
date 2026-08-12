@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//nba-nop//EN
+URL:https://koyomi.cast/sources/nba
+NAME:新奥尔良鹈鹕赛程
+X-WR-CALNAME:新奥尔良鹈鹕赛程
+X-WR-CALDESC:新奥尔良鹈鹕在NBA 赛季赛程中的比赛日程，自
+ 动同步更新。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:nba-nop-nba-2027-regular-0022600075@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260812T000000
+DTSTART;TZID=Asia/Shanghai:20270115T030000
+DTEND;TZID=Asia/Shanghai:20270115T040000
+SUMMARY:新奥尔良鹈鹕赛程 · NBA Paris Game · 新奥尔良鹈鹕 @
+  圣安东尼奥马刺
+DESCRIPTION:新奥尔良鹈鹕 @ 圣安东尼奥马刺 · Neutral Site（
+ 北京时间）\n\n主场: 圣安东尼奥马刺\n客场: 新奥尔良鹈
+ 鹕\n赛段: NBA Paris Game\n系列赛: Neutral Site\n场馆: Accor Arena\
+ , Paris
+CATEGORIES:新奥尔良鹈鹕赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-nop-nba-2027-regular-0022600076@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260812T000000
+DTSTART;TZID=Asia/Shanghai:20270117T233000
+DTEND;TZID=Asia/Shanghai:20270118T003000
+SUMMARY:新奥尔良鹈鹕赛程 · NBA Manchester Game · 新奥尔良鹈
+ 鹕 vs 圣安东尼奥马刺
+DESCRIPTION:圣安东尼奥马刺 @ 新奥尔良鹈鹕 · Neutral Site（
+ 北京时间）\n\n主场: 新奥尔良鹈鹕\n客场: 圣安东尼奥马
+ 刺\n赛段: NBA Manchester Game\n系列赛: Neutral Site\n场馆: Co-op L
+ ive\, Manchester
+CATEGORIES:新奥尔良鹈鹕赛程
+URL;VALUE=URI:https://www.nba.com/schedule
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

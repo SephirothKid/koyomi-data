@@ -10,7 +10,7 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:nba-lal-nba-2027-regular-0022600005@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260811T000000
+DTSTAMP:20260812T000000
 DTSTART;TZID=Asia/Shanghai:20261022T100000
 DTEND;TZID=Asia/Shanghai:20261022T110000
 SUMMARY:Los Angeles Lakers Schedule · Los Angeles Lakers vs Golden State 
@@ -23,9 +23,39 @@ URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:nba-lal-nba-2027-regular-0022600023@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260812T000000
+DTSTART;TZID=Asia/Shanghai:20261031T100000
+DTEND;TZID=Asia/Shanghai:20261031T110000
+SUMMARY:Los Angeles Lakers Schedule · Emirates NBA Cup · Los Angeles Lak
+ ers @ Golden State Warriors
+DESCRIPTION:Los Angeles Lakers at Golden State Warriors (Beijing time)\n\n
+ 主场: 金州勇士\n客场: 洛杉矶湖人\n赛段: Emirates NBA Cup\n
+ 场馆: Chase Center\, San Francisco
+CATEGORIES:Los Angeles Lakers Schedule
+URL;VALUE=URI:https://www.nba.com/nba-cup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-lal-nba-2027-regular-0022600071@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260812T000000
+DTSTART;TZID=Asia/Shanghai:20261128T103000
+DTEND;TZID=Asia/Shanghai:20261128T113000
+SUMMARY:Los Angeles Lakers Schedule · Emirates NBA Cup · Los Angeles Lak
+ ers @ San Antonio Spurs
+DESCRIPTION:Los Angeles Lakers at San Antonio Spurs (Beijing time)\n\n主
+ 场: 圣安东尼奥马刺\n客场: 洛杉矶湖人\n赛段: Emirates NBA 
+ Cup\n场馆: Frost Bank Center\, San Antonio
+CATEGORIES:Los Angeles Lakers Schedule
+URL;VALUE=URI:https://www.nba.com/nba-cup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:nba-lal-nba-2027-regular-0022600012@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260811T000000
+DTSTAMP:20260812T000000
 DTSTART;TZID=Asia/Shanghai:20261226T060000
 DTEND;TZID=Asia/Shanghai:20261226T070000
 SUMMARY:Los Angeles Lakers Schedule · Los Angeles Lakers vs Philadelphia 

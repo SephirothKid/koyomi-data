@@ -11,7 +11,7 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:nba-lal-nba-2027-regular-0022600005@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260811T000000
+DTSTAMP:20260812T000000
 DTSTART;TZID=Asia/Shanghai:20261022T100000
 DTEND;TZID=Asia/Shanghai:20261022T110000
 SUMMARY:洛杉矶湖人赛程 · 洛杉矶湖人 vs 金州勇士
@@ -23,9 +23,39 @@ URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:nba-lal-nba-2027-regular-0022600023@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260812T000000
+DTSTART;TZID=Asia/Shanghai:20261031T100000
+DTEND;TZID=Asia/Shanghai:20261031T110000
+SUMMARY:洛杉矶湖人赛程 · Emirates NBA Cup · 洛杉矶湖人 @ 金
+ 州勇士
+DESCRIPTION:洛杉矶湖人 @ 金州勇士（北京时间）\n\n主场: 
+ 金州勇士\n客场: 洛杉矶湖人\n赛段: Emirates NBA Cup\n场馆: C
+ hase Center\, San Francisco
+CATEGORIES:洛杉矶湖人赛程
+URL;VALUE=URI:https://www.nba.com/nba-cup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-lal-nba-2027-regular-0022600071@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260812T000000
+DTSTART;TZID=Asia/Shanghai:20261128T103000
+DTEND;TZID=Asia/Shanghai:20261128T113000
+SUMMARY:洛杉矶湖人赛程 · Emirates NBA Cup · 洛杉矶湖人 @ 圣
+ 安东尼奥马刺
+DESCRIPTION:洛杉矶湖人 @ 圣安东尼奥马刺（北京时间）\n\n
+ 主场: 圣安东尼奥马刺\n客场: 洛杉矶湖人\n赛段: Emirates N
+ BA Cup\n场馆: Frost Bank Center\, San Antonio
+CATEGORIES:洛杉矶湖人赛程
+URL;VALUE=URI:https://www.nba.com/nba-cup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:nba-lal-nba-2027-regular-0022600012@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260811T000000
+DTSTAMP:20260812T000000
 DTSTART;TZID=Asia/Shanghai:20261226T060000
 DTEND;TZID=Asia/Shanghai:20261226T070000
 SUMMARY:洛杉矶湖人赛程 · 洛杉矶湖人 vs 费城76人

@@ -11,7 +11,7 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:nba-mia-nba-2027-regular-0022600004@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260811T000000
+DTSTAMP:20260812T000000
 DTSTART;TZID=Asia/Shanghai:20261022T073000
 DTEND;TZID=Asia/Shanghai:20261022T083000
 SUMMARY:迈阿密热火赛程 · 迈阿密热火 vs 明尼苏达森林狼
@@ -23,9 +23,24 @@ URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:nba-mia-nba-2027-regular-0022600064@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260812T000000
+DTSTART;TZID=Asia/Shanghai:20261128T080000
+DTEND;TZID=Asia/Shanghai:20261128T090000
+SUMMARY:迈阿密热火赛程 · Emirates NBA Cup · 迈阿密热火 @ 纽
+ 约尼克斯
+DESCRIPTION:迈阿密热火 @ 纽约尼克斯（北京时间）\n\n主场:
+  纽约尼克斯\n客场: 迈阿密热火\n赛段: Emirates NBA Cup\n场
+ 馆: Madison Square Garden\, New York
+CATEGORIES:迈阿密热火赛程
+URL;VALUE=URI:https://www.nba.com/nba-cup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:nba-mia-nba-2027-regular-0022600011@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260811T000000
+DTSTAMP:20260812T000000
 DTSTART;TZID=Asia/Shanghai:20261226T033000
 DTEND;TZID=Asia/Shanghai:20261226T043000
 SUMMARY:迈阿密热火赛程 · 迈阿密热火 @ 波士顿凯尔特人
