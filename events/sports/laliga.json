@@ -22,7 +22,7 @@
   "subscriber_count": 0,
   "rating": 0,
   "rating_count": 0,
-  "last_updated": "2026-08-11",
+  "last_updated": "2026-08-16",
   "events": [
     {
       "id": "laliga-2025-748152",
@@ -14854,8 +14854,8 @@
       "year": 2026,
       "description": "赫塔费 作客 阿拉维斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
-      "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "status": "completed",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -14872,8 +14872,15 @@
       "details": {
         "主场": "阿拉维斯",
         "客场": "赫塔费",
+        "比分": "阿拉维斯 3 - 0 赫塔费",
         "场馆": "Mendizorrotza",
         "城市": "Vitoria-Gasteiz"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -14886,8 +14893,8 @@
       "year": 2026,
       "description": "瓦列卡诺 作客 塞维利亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
-      "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "status": "completed",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -14904,28 +14911,35 @@
       "details": {
         "主场": "塞维利亚",
         "客场": "瓦列卡诺",
+        "比分": "塞维利亚 2 - 1 瓦列卡诺",
         "场馆": "Ramón Sánchez Pizjuán Stadium",
         "城市": "Sevilla"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
       "id": "laliga-2026-401882920",
-      "name": "西甲 · 比利亚雷亚尔 @ Racing Santander",
+      "name": "西甲 · 比利亚雷亚尔 @ 桑坦德竞技",
       "date": "2026-08-16",
       "time": "23:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "比利亚雷亚尔 作客 Racing Santander（西甲 2026-27 赛季，北京时间）",
+      "description": "比利亚雷亚尔 作客 桑坦德竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         },
         "away": {
           "id": "vil",
@@ -14934,7 +14948,7 @@
         }
       },
       "details": {
-        "主场": "Racing Santander",
+        "主场": "桑坦德竞技",
         "客场": "比利亚雷亚尔",
         "场馆": "El Sardineros",
         "城市": "Santander"
@@ -14951,7 +14965,7 @@
       "description": "莱万特 作客 西班牙人（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -14973,55 +14987,23 @@
       }
     },
     {
-      "id": "laliga-2026-401882924",
-      "name": "西甲 · 奥萨苏纳 @ 塞尔塔",
-      "date": "2026-08-17",
-      "time": "03:30",
-      "timezone": "Asia/Shanghai",
-      "type": "event",
-      "year": 2026,
-      "description": "奥萨苏纳 作客 塞尔塔（西甲 2026-27 赛季，北京时间）",
-      "url": "https://www.laliga.com/laliga-ea-sports",
-      "status": "confirmed",
-      "last_verified": "2026-08-11",
-      "verified_by": "auto",
-      "teams": {
-        "home": {
-          "id": "cel",
-          "code": "CEL",
-          "name": "塞尔塔"
-        },
-        "away": {
-          "id": "osa",
-          "code": "OSA",
-          "name": "奥萨苏纳"
-        }
-      },
-      "details": {
-        "主场": "塞尔塔",
-        "客场": "奥萨苏纳",
-        "场馆": "Balaidos",
-        "城市": "Vigo"
-      }
-    },
-    {
       "id": "laliga-2026-401882923",
-      "name": "西甲 · 埃尔切 @ Deportivo",
+      "name": "西甲 · 埃尔切 @ 拉科鲁尼亚",
       "date": "2026-08-18",
       "time": "03:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "埃尔切 作客 Deportivo（西甲 2026-27 赛季，北京时间）",
+      "description": "埃尔切 作客 拉科鲁尼亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         },
         "away": {
           "id": "elc",
@@ -15030,7 +15012,7 @@
         }
       },
       "details": {
-        "主场": "Deportivo",
+        "主场": "拉科鲁尼亚",
         "客场": "埃尔切",
         "场馆": "Riazor",
         "城市": "La Coruña"
@@ -15038,16 +15020,16 @@
     },
     {
       "id": "laliga-2026-401882925",
-      "name": "西甲 · Málaga @ 马竞",
+      "name": "西甲 · 马拉加 @ 马竞",
       "date": "2026-08-20",
       "time": "03:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Málaga 作客 马竞（西甲 2026-27 赛季，北京时间）",
+      "description": "马拉加 作客 马竞（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -15058,12 +15040,12 @@
         "away": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         }
       },
       "details": {
         "主场": "马竞",
-        "客场": "Málaga",
+        "客场": "马拉加",
         "场馆": "Riyadh Air Metropolitano",
         "城市": "Madrid"
       }
@@ -15079,7 +15061,7 @@
       "description": "阿拉维斯 作客 瓦列卡诺（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -15111,7 +15093,7 @@
       "description": "皇家社会 作客 皇家贝蒂斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -15143,7 +15125,7 @@
       "description": "塞维利亚 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -15175,7 +15157,7 @@
       "description": "塞尔塔 作客 瓦伦西亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -15207,7 +15189,7 @@
       "description": "皇家马德里 作客 西班牙人（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -15239,7 +15221,7 @@
       "description": "比利亚雷亚尔 作客 马竞（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -15262,16 +15244,16 @@
     },
     {
       "id": "laliga-2026-401882911",
-      "name": "西甲 · Racing Santander @ 赫塔费",
+      "name": "西甲 · 桑坦德竞技 @ 赫塔费",
       "date": "2026-08-24",
       "time": "01:30",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Racing Santander 作客 赫塔费（西甲 2026-27 赛季，北京时间）",
+      "description": "桑坦德竞技 作客 赫塔费（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -15282,12 +15264,12 @@
         "away": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         }
       },
       "details": {
         "主场": "赫塔费",
-        "客场": "Racing Santander",
+        "客场": "桑坦德竞技",
         "场馆": "Estadio Coliseum",
         "城市": "Getafe"
       }
@@ -15303,7 +15285,7 @@
       "description": "巴塞罗那 作客 埃尔切（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -15335,7 +15317,7 @@
       "description": "莱万特 作客 奥萨苏纳（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -15358,32 +15340,32 @@
     },
     {
       "id": "laliga-2026-401882910",
-      "name": "西甲 · Deportivo @ Málaga",
+      "name": "西甲 · 拉科鲁尼亚 @ 马拉加",
       "date": "2026-08-25",
       "time": "03:30",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Deportivo 作客 Málaga（西甲 2026-27 赛季，北京时间）",
+      "description": "拉科鲁尼亚 作客 马拉加（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         },
         "away": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         }
       },
       "details": {
-        "主场": "Málaga",
-        "客场": "Deportivo",
+        "主场": "马拉加",
+        "客场": "拉科鲁尼亚",
         "场馆": "La Rosaleda",
         "城市": "Malaga"
       }
@@ -15399,7 +15381,7 @@
       "description": "皇家贝蒂斯 作客 瓦伦西亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -15431,7 +15413,7 @@
       "description": "皇家社会 作客 皇家马德里（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -15453,6 +15435,38 @@
       }
     },
     {
+      "id": "laliga-2026-401882924",
+      "name": "西甲 · 奥萨苏纳 @ 塞尔塔",
+      "date": "2026-08-28",
+      "time": "02:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "奥萨苏纳 作客 塞尔塔（西甲 2026-27 赛季，北京时间）",
+      "url": "https://www.laliga.com/laliga-ea-sports",
+      "status": "confirmed",
+      "last_verified": "2026-08-16",
+      "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "cel",
+          "code": "CEL",
+          "name": "塞尔塔"
+        },
+        "away": {
+          "id": "osa",
+          "code": "OSA",
+          "name": "奥萨苏纳"
+        }
+      },
+      "details": {
+        "主场": "塞尔塔",
+        "客场": "奥萨苏纳",
+        "场馆": "Balaidos",
+        "城市": "Vigo"
+      }
+    },
+    {
       "id": "laliga-2026-401882921",
       "name": "西甲 · 毕尔巴鄂竞技 @ 巴塞罗那",
       "date": "2026-08-28",
@@ -15463,7 +15477,7 @@
       "description": "毕尔巴鄂竞技 作客 巴塞罗那（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -15486,22 +15500,22 @@
     },
     {
       "id": "laliga-2026-401882900",
-      "name": "西甲 · 埃尔切 @ Racing Santander",
+      "name": "西甲 · 埃尔切 @ 桑坦德竞技",
       "date": "2026-08-29",
       "time": "01:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "埃尔切 作客 Racing Santander（西甲 2026-27 赛季，北京时间）",
+      "description": "埃尔切 作客 桑坦德竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         },
         "away": {
           "id": "elc",
@@ -15510,7 +15524,7 @@
         }
       },
       "details": {
-        "主场": "Racing Santander",
+        "主场": "桑坦德竞技",
         "客场": "埃尔切",
         "场馆": "El Sardineros",
         "城市": "Santander"
@@ -15527,7 +15541,7 @@
       "description": "比利亚雷亚尔 作客 阿拉维斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -15559,7 +15573,7 @@
       "description": "皇家贝蒂斯 作客 莱万特（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -15591,7 +15605,7 @@
       "description": "西班牙人 作客 皇家社会（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -15623,7 +15637,7 @@
       "description": "马竞 作客 塞维利亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -15646,16 +15660,16 @@
     },
     {
       "id": "laliga-2026-401882899",
-      "name": "西甲 · Málaga @ 皇家马德里",
+      "name": "西甲 · 马拉加 @ 皇家马德里",
       "date": "2026-08-30",
       "time": "23:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Málaga 作客 皇家马德里（西甲 2026-27 赛季，北京时间）",
+      "description": "马拉加 作客 皇家马德里（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -15666,34 +15680,34 @@
         "away": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         }
       },
       "details": {
         "主场": "皇家马德里",
-        "客场": "Málaga",
+        "客场": "马拉加",
         "场馆": "Santiago Bernabéu",
         "城市": "Madrid"
       }
     },
     {
       "id": "laliga-2026-401882904",
-      "name": "西甲 · 瓦伦西亚 @ Deportivo",
+      "name": "西甲 · 瓦伦西亚 @ 拉科鲁尼亚",
       "date": "2026-08-31",
       "time": "01:30",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "瓦伦西亚 作客 Deportivo（西甲 2026-27 赛季，北京时间）",
+      "description": "瓦伦西亚 作客 拉科鲁尼亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         },
         "away": {
           "id": "val",
@@ -15702,7 +15716,7 @@
         }
       },
       "details": {
-        "主场": "Deportivo",
+        "主场": "拉科鲁尼亚",
         "客场": "瓦伦西亚",
         "场馆": "Riazor",
         "城市": "La Coruña"
@@ -15719,7 +15733,7 @@
       "description": "毕尔巴鄂竞技 作客 塞尔塔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -15751,7 +15765,7 @@
       "description": "赫塔费 作客 奥萨苏纳（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -15783,7 +15797,7 @@
       "description": "瓦列卡诺 作客 巴塞罗那（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -15815,7 +15829,7 @@
       "description": "塞尔塔 作客 皇家社会（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -15847,7 +15861,7 @@
       "description": "皇家马德里 作客 皇家贝蒂斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -15879,7 +15893,7 @@
       "description": "马竞 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -15902,16 +15916,16 @@
     },
     {
       "id": "laliga-2026-401882889",
-      "name": "西甲 · Racing Santander @ 瓦列卡诺",
+      "name": "西甲 · 桑坦德竞技 @ 瓦列卡诺",
       "date": "2026-09-06",
       "time": "00:30",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Racing Santander 作客 瓦列卡诺（西甲 2026-27 赛季，北京时间）",
+      "description": "桑坦德竞技 作客 瓦列卡诺（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -15922,28 +15936,28 @@
         "away": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         }
       },
       "details": {
         "主场": "瓦列卡诺",
-        "客场": "Racing Santander",
+        "客场": "桑坦德竞技",
         "场馆": "Estadio de Vallecas",
         "城市": "Madrid"
       }
     },
     {
       "id": "laliga-2026-401882887",
-      "name": "西甲 · Deportivo @ 比利亚雷亚尔",
+      "name": "西甲 · 拉科鲁尼亚 @ 比利亚雷亚尔",
       "date": "2026-09-06",
       "time": "03:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Deportivo 作客 比利亚雷亚尔（西甲 2026-27 赛季，北京时间）",
+      "description": "拉科鲁尼亚 作客 比利亚雷亚尔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -15954,12 +15968,12 @@
         "away": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         }
       },
       "details": {
         "主场": "比利亚雷亚尔",
-        "客场": "Deportivo",
+        "客场": "拉科鲁尼亚",
         "场馆": "Estadio de la Cerámica",
         "城市": "Villarreal"
       }
@@ -15975,7 +15989,7 @@
       "description": "巴塞罗那 作客 瓦伦西亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16007,7 +16021,7 @@
       "description": "奥萨苏纳 作客 阿拉维斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16030,22 +16044,22 @@
     },
     {
       "id": "laliga-2026-401882890",
-      "name": "西甲 · 莱万特 @ Málaga",
+      "name": "西甲 · 莱万特 @ 马拉加",
       "date": "2026-09-07",
       "time": "00:30",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "莱万特 作客 Málaga（西甲 2026-27 赛季，北京时间）",
+      "description": "莱万特 作客 马拉加（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         },
         "away": {
           "id": "lev",
@@ -16054,7 +16068,7 @@
         }
       },
       "details": {
-        "主场": "Málaga",
+        "主场": "马拉加",
         "客场": "莱万特",
         "场馆": "La Rosaleda",
         "城市": "Malaga"
@@ -16071,7 +16085,7 @@
       "description": "塞维利亚 作客 西班牙人（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16103,7 +16117,7 @@
       "description": "塞尔塔 作客 赫塔费（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16135,7 +16149,7 @@
       "description": "皇家社会 作客 埃尔切（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16167,7 +16181,7 @@
       "description": "埃尔切 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16190,16 +16204,16 @@
     },
     {
       "id": "laliga-2026-401882885",
-      "name": "西甲 · Málaga @ 塞尔塔",
+      "name": "西甲 · 马拉加 @ 塞尔塔",
       "date": "2026-09-14",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Málaga 作客 塞尔塔（西甲 2026-27 赛季，北京时间）",
+      "description": "马拉加 作客 塞尔塔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16210,28 +16224,28 @@
         "away": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         }
       },
       "details": {
         "主场": "塞尔塔",
-        "客场": "Málaga",
+        "客场": "马拉加",
         "场馆": "Balaidos",
         "城市": "Vigo"
       }
     },
     {
       "id": "laliga-2026-401882884",
-      "name": "西甲 · Deportivo @ 赫塔费",
+      "name": "西甲 · 拉科鲁尼亚 @ 赫塔费",
       "date": "2026-09-14",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Deportivo 作客 赫塔费（西甲 2026-27 赛季，北京时间）",
+      "description": "拉科鲁尼亚 作客 赫塔费（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16242,12 +16256,12 @@
         "away": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         }
       },
       "details": {
         "主场": "赫塔费",
-        "客场": "Deportivo",
+        "客场": "拉科鲁尼亚",
         "场馆": "Estadio Coliseum",
         "城市": "Getafe"
       }
@@ -16263,7 +16277,7 @@
       "description": "巴塞罗那 作客 莱万特（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16295,7 +16309,7 @@
       "description": "西班牙人 作客 奥萨苏纳（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16318,22 +16332,22 @@
     },
     {
       "id": "laliga-2026-401882881",
-      "name": "西甲 · 阿拉维斯 @ Racing Santander",
+      "name": "西甲 · 阿拉维斯 @ 桑坦德竞技",
       "date": "2026-09-14",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "阿拉维斯 作客 Racing Santander（西甲 2026-27 赛季，北京时间）",
+      "description": "阿拉维斯 作客 桑坦德竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         },
         "away": {
           "id": "ala",
@@ -16342,7 +16356,7 @@
         }
       },
       "details": {
-        "主场": "Racing Santander",
+        "主场": "桑坦德竞技",
         "客场": "阿拉维斯",
         "场馆": "El Sardineros",
         "城市": "Santander"
@@ -16359,7 +16373,7 @@
       "description": "瓦列卡诺 作客 皇家马德里（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16391,7 +16405,7 @@
       "description": "马竞 作客 皇家社会（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16423,7 +16437,7 @@
       "description": "瓦伦西亚 作客 塞维利亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16455,7 +16469,7 @@
       "description": "皇家贝蒂斯 作客 比利亚雷亚尔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16487,7 +16501,7 @@
       "description": "瓦伦西亚 作客 阿拉维斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16519,7 +16533,7 @@
       "description": "奥萨苏纳 作客 马竞（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16542,16 +16556,16 @@
     },
     {
       "id": "laliga-2026-401882871",
-      "name": "西甲 · Racing Santander @ 巴塞罗那",
+      "name": "西甲 · 桑坦德竞技 @ 巴塞罗那",
       "date": "2026-09-17",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Racing Santander 作客 巴塞罗那（西甲 2026-27 赛季，北京时间）",
+      "description": "桑坦德竞技 作客 巴塞罗那（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16562,34 +16576,34 @@
         "away": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         }
       },
       "details": {
         "主场": "巴塞罗那",
-        "客场": "Racing Santander",
+        "客场": "桑坦德竞技",
         "场馆": "Spotify Camp Nou",
         "城市": "Barcelona"
       }
     },
     {
       "id": "laliga-2026-401882873",
-      "name": "西甲 · 塞维利亚 @ Deportivo",
+      "name": "西甲 · 塞维利亚 @ 拉科鲁尼亚",
       "date": "2026-09-17",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "塞维利亚 作客 Deportivo（西甲 2026-27 赛季，北京时间）",
+      "description": "塞维利亚 作客 拉科鲁尼亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         },
         "away": {
           "id": "sev",
@@ -16598,7 +16612,7 @@
         }
       },
       "details": {
-        "主场": "Deportivo",
+        "主场": "拉科鲁尼亚",
         "客场": "塞维利亚",
         "场馆": "Riazor",
         "城市": "La Coruña"
@@ -16615,7 +16629,7 @@
       "description": "皇家马德里 作客 埃尔切（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16647,7 +16661,7 @@
       "description": "毕尔巴鄂竞技 作客 莱万特（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16670,22 +16684,22 @@
     },
     {
       "id": "laliga-2026-401882869",
-      "name": "西甲 · 比利亚雷亚尔 @ Málaga",
+      "name": "西甲 · 比利亚雷亚尔 @ 马拉加",
       "date": "2026-09-17",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "比利亚雷亚尔 作客 Málaga（西甲 2026-27 赛季，北京时间）",
+      "description": "比利亚雷亚尔 作客 马拉加（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         },
         "away": {
           "id": "vil",
@@ -16694,7 +16708,7 @@
         }
       },
       "details": {
-        "主场": "Málaga",
+        "主场": "马拉加",
         "客场": "比利亚雷亚尔",
         "场馆": "La Rosaleda",
         "城市": "Malaga"
@@ -16711,7 +16725,7 @@
       "description": "西班牙人 作客 瓦列卡诺（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16743,7 +16757,7 @@
       "description": "赫塔费 作客 皇家贝蒂斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16775,7 +16789,7 @@
       "description": "阿拉维斯 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16807,7 +16821,7 @@
       "description": "皇家马德里 作客 马竞（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16830,16 +16844,16 @@
     },
     {
       "id": "laliga-2026-401882864",
-      "name": "西甲 · Racing Santander @ 塞尔塔",
+      "name": "西甲 · 桑坦德竞技 @ 塞尔塔",
       "date": "2026-09-21",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Racing Santander 作客 塞尔塔（西甲 2026-27 赛季，北京时间）",
+      "description": "桑坦德竞技 作客 塞尔塔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16850,34 +16864,34 @@
         "away": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         }
       },
       "details": {
         "主场": "塞尔塔",
-        "客场": "Racing Santander",
+        "客场": "桑坦德竞技",
         "场馆": "Balaidos",
         "城市": "Vigo"
       }
     },
     {
       "id": "laliga-2026-401882863",
-      "name": "西甲 · 皇家贝蒂斯 @ Deportivo",
+      "name": "西甲 · 皇家贝蒂斯 @ 拉科鲁尼亚",
       "date": "2026-09-21",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "皇家贝蒂斯 作客 Deportivo（西甲 2026-27 赛季，北京时间）",
+      "description": "皇家贝蒂斯 作客 拉科鲁尼亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         },
         "away": {
           "id": "bet",
@@ -16886,7 +16900,7 @@
         }
       },
       "details": {
-        "主场": "Deportivo",
+        "主场": "拉科鲁尼亚",
         "客场": "皇家贝蒂斯",
         "场馆": "Riazor",
         "城市": "La Coruña"
@@ -16903,7 +16917,7 @@
       "description": "埃尔切 作客 西班牙人（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16926,16 +16940,16 @@
     },
     {
       "id": "laliga-2026-401882861",
-      "name": "西甲 · Málaga @ 赫塔费",
+      "name": "西甲 · 马拉加 @ 赫塔费",
       "date": "2026-09-21",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Málaga 作客 赫塔费（西甲 2026-27 赛季，北京时间）",
+      "description": "马拉加 作客 赫塔费（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16946,12 +16960,12 @@
         "away": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         }
       },
       "details": {
         "主场": "赫塔费",
-        "客场": "Málaga",
+        "客场": "马拉加",
         "场馆": "Estadio Coliseum",
         "城市": "Getafe"
       }
@@ -16967,7 +16981,7 @@
       "description": "瓦列卡诺 作客 奥萨苏纳（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -16999,7 +17013,7 @@
       "description": "巴塞罗那 作客 塞维利亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -17031,7 +17045,7 @@
       "description": "皇家社会 作客 瓦伦西亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -17063,7 +17077,7 @@
       "description": "莱万特 作客 比利亚雷亚尔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -17095,7 +17109,7 @@
       "description": "马竞 作客 阿拉维斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -17127,7 +17141,7 @@
       "description": "赫塔费 作客 巴塞罗那（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -17159,7 +17173,7 @@
       "description": "塞尔塔 作客 埃尔切（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -17191,7 +17205,7 @@
       "description": "塞维利亚 作客 莱万特（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -17214,22 +17228,22 @@
     },
     {
       "id": "laliga-2026-401882851",
-      "name": "西甲 · 西班牙人 @ Málaga",
+      "name": "西甲 · 西班牙人 @ 马拉加",
       "date": "2026-10-12",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "西班牙人 作客 Málaga（西甲 2026-27 赛季，北京时间）",
+      "description": "西班牙人 作客 马拉加（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         },
         "away": {
           "id": "esp",
@@ -17238,7 +17252,7 @@
         }
       },
       "details": {
-        "主场": "Málaga",
+        "主场": "马拉加",
         "客场": "西班牙人",
         "场馆": "La Rosaleda",
         "城市": "Malaga"
@@ -17246,22 +17260,22 @@
     },
     {
       "id": "laliga-2026-401882850",
-      "name": "西甲 · 瓦伦西亚 @ Racing Santander",
+      "name": "西甲 · 瓦伦西亚 @ 桑坦德竞技",
       "date": "2026-10-12",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "瓦伦西亚 作客 Racing Santander（西甲 2026-27 赛季，北京时间）",
+      "description": "瓦伦西亚 作客 桑坦德竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         },
         "away": {
           "id": "val",
@@ -17270,7 +17284,7 @@
         }
       },
       "details": {
-        "主场": "Racing Santander",
+        "主场": "桑坦德竞技",
         "客场": "瓦伦西亚",
         "场馆": "El Sardineros",
         "城市": "Santander"
@@ -17287,7 +17301,7 @@
       "description": "毕尔巴鄂竞技 作客 瓦列卡诺（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -17319,7 +17333,7 @@
       "description": "奥萨苏纳 作客 皇家贝蒂斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -17351,7 +17365,7 @@
       "description": "比利亚雷亚尔 作客 皇家马德里（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -17374,16 +17388,16 @@
     },
     {
       "id": "laliga-2026-401882847",
-      "name": "西甲 · Deportivo @ 皇家社会",
+      "name": "西甲 · 拉科鲁尼亚 @ 皇家社会",
       "date": "2026-10-12",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Deportivo 作客 皇家社会（西甲 2026-27 赛季，北京时间）",
+      "description": "拉科鲁尼亚 作客 皇家社会（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -17394,12 +17408,12 @@
         "away": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         }
       },
       "details": {
         "主场": "皇家社会",
-        "客场": "Deportivo",
+        "客场": "拉科鲁尼亚",
         "场馆": "Reale Arena",
         "城市": "San Sebastian"
       }
@@ -17415,7 +17429,7 @@
       "description": "阿拉维斯 作客 塞尔塔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -17438,22 +17452,22 @@
     },
     {
       "id": "laliga-2026-401882844",
-      "name": "西甲 · 莱万特 @ Deportivo",
+      "name": "西甲 · 莱万特 @ 拉科鲁尼亚",
       "date": "2026-10-19",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "莱万特 作客 Deportivo（西甲 2026-27 赛季，北京时间）",
+      "description": "莱万特 作客 拉科鲁尼亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         },
         "away": {
           "id": "lev",
@@ -17462,7 +17476,7 @@
         }
       },
       "details": {
-        "主场": "Deportivo",
+        "主场": "拉科鲁尼亚",
         "客场": "莱万特",
         "场馆": "Riazor",
         "城市": "La Coruña"
@@ -17479,7 +17493,7 @@
       "description": "马竞 作客 西班牙人（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -17511,7 +17525,7 @@
       "description": "瓦列卡诺 作客 赫塔费（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -17534,22 +17548,22 @@
     },
     {
       "id": "laliga-2026-401882841",
-      "name": "西甲 · 皇家社会 @ Málaga",
+      "name": "西甲 · 皇家社会 @ 马拉加",
       "date": "2026-10-19",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "皇家社会 作客 Málaga（西甲 2026-27 赛季，北京时间）",
+      "description": "皇家社会 作客 马拉加（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         },
         "away": {
           "id": "rso",
@@ -17558,7 +17572,7 @@
         }
       },
       "details": {
-        "主场": "Málaga",
+        "主场": "马拉加",
         "客场": "皇家社会",
         "场馆": "La Rosaleda",
         "城市": "Malaga"
@@ -17566,16 +17580,16 @@
     },
     {
       "id": "laliga-2026-401882840",
-      "name": "西甲 · Racing Santander @ 奥萨苏纳",
+      "name": "西甲 · 桑坦德竞技 @ 奥萨苏纳",
       "date": "2026-10-19",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Racing Santander 作客 奥萨苏纳（西甲 2026-27 赛季，北京时间）",
+      "description": "桑坦德竞技 作客 奥萨苏纳（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -17586,12 +17600,12 @@
         "away": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         }
       },
       "details": {
         "主场": "奥萨苏纳",
-        "客场": "Racing Santander",
+        "客场": "桑坦德竞技",
         "场馆": "El Sadar",
         "城市": "Pamplona"
       }
@@ -17607,7 +17621,7 @@
       "description": "巴塞罗那 作客 皇家贝蒂斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -17639,7 +17653,7 @@
       "description": "塞维利亚 作客 皇家马德里（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -17671,7 +17685,7 @@
       "description": "毕尔巴鄂竞技 作客 瓦伦西亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -17703,7 +17717,7 @@
       "description": "埃尔切 作客 比利亚雷亚尔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -17726,16 +17740,16 @@
     },
     {
       "id": "laliga-2026-401882836",
-      "name": "西甲 · Málaga @ 阿拉维斯",
+      "name": "西甲 · 马拉加 @ 阿拉维斯",
       "date": "2026-10-26",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Málaga 作客 阿拉维斯（西甲 2026-27 赛季，北京时间）",
+      "description": "马拉加 作客 阿拉维斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -17746,12 +17760,12 @@
         "away": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         }
       },
       "details": {
         "主场": "阿拉维斯",
-        "客场": "Málaga",
+        "客场": "马拉加",
         "场馆": "Mendizorrotza",
         "城市": "Vitoria-Gasteiz"
       }
@@ -17767,7 +17781,7 @@
       "description": "赫塔费 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -17790,16 +17804,16 @@
     },
     {
       "id": "laliga-2026-401882834",
-      "name": "西甲 · Deportivo @ 马竞",
+      "name": "西甲 · 拉科鲁尼亚 @ 马竞",
       "date": "2026-10-26",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Deportivo 作客 马竞（西甲 2026-27 赛季，北京时间）",
+      "description": "拉科鲁尼亚 作客 马竞（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -17810,12 +17824,12 @@
         "away": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         }
       },
       "details": {
         "主场": "马竞",
-        "客场": "Deportivo",
+        "客场": "拉科鲁尼亚",
         "场馆": "Riyadh Air Metropolitano",
         "城市": "Madrid"
       }
@@ -17831,7 +17845,7 @@
       "description": "皇家马德里 作客 巴塞罗那（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -17863,7 +17877,7 @@
       "description": "皇家贝蒂斯 作客 塞尔塔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -17886,22 +17900,22 @@
     },
     {
       "id": "laliga-2026-401882831",
-      "name": "西甲 · 西班牙人 @ Racing Santander",
+      "name": "西甲 · 西班牙人 @ 桑坦德竞技",
       "date": "2026-10-26",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "西班牙人 作客 Racing Santander（西甲 2026-27 赛季，北京时间）",
+      "description": "西班牙人 作客 桑坦德竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         },
         "away": {
           "id": "esp",
@@ -17910,7 +17924,7 @@
         }
       },
       "details": {
-        "主场": "Racing Santander",
+        "主场": "桑坦德竞技",
         "客场": "西班牙人",
         "场馆": "El Sardineros",
         "城市": "Santander"
@@ -17927,7 +17941,7 @@
       "description": "埃尔切 作客 瓦列卡诺（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -17959,7 +17973,7 @@
       "description": "莱万特 作客 皇家社会（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -17991,7 +18005,7 @@
       "description": "奥萨苏纳 作客 塞维利亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18023,7 +18037,7 @@
       "description": "比利亚雷亚尔 作客 瓦伦西亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18055,7 +18069,7 @@
       "description": "皇家社会 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18087,7 +18101,7 @@
       "description": "阿拉维斯 作客 巴塞罗那（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18110,22 +18124,22 @@
     },
     {
       "id": "laliga-2026-401882824",
-      "name": "西甲 · 奥萨苏纳 @ Deportivo",
+      "name": "西甲 · 奥萨苏纳 @ 拉科鲁尼亚",
       "date": "2026-11-02",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "奥萨苏纳 作客 Deportivo（西甲 2026-27 赛季，北京时间）",
+      "description": "奥萨苏纳 作客 拉科鲁尼亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         },
         "away": {
           "id": "osa",
@@ -18134,7 +18148,7 @@
         }
       },
       "details": {
-        "主场": "Deportivo",
+        "主场": "拉科鲁尼亚",
         "客场": "奥萨苏纳",
         "场馆": "Riazor",
         "城市": "La Coruña"
@@ -18151,7 +18165,7 @@
       "description": "瓦伦西亚 作客 埃尔切（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18183,7 +18197,7 @@
       "description": "塞维利亚 作客 赫塔费（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18215,7 +18229,7 @@
       "description": "马竞 作客 莱万特（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18238,22 +18252,22 @@
     },
     {
       "id": "laliga-2026-401882819",
-      "name": "西甲 · 皇家马德里 @ Racing Santander",
+      "name": "西甲 · 皇家马德里 @ 桑坦德竞技",
       "date": "2026-11-02",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "皇家马德里 作客 Racing Santander（西甲 2026-27 赛季，北京时间）",
+      "description": "皇家马德里 作客 桑坦德竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         },
         "away": {
           "id": "rma",
@@ -18262,7 +18276,7 @@
         }
       },
       "details": {
-        "主场": "Racing Santander",
+        "主场": "桑坦德竞技",
         "客场": "皇家马德里",
         "场馆": "El Sardineros",
         "城市": "Santander"
@@ -18279,7 +18293,7 @@
       "description": "塞尔塔 作客 瓦列卡诺（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18302,16 +18316,16 @@
     },
     {
       "id": "laliga-2026-401882825",
-      "name": "西甲 · Málaga @ 皇家贝蒂斯",
+      "name": "西甲 · 马拉加 @ 皇家贝蒂斯",
       "date": "2026-11-02",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Málaga 作客 皇家贝蒂斯（西甲 2026-27 赛季，北京时间）",
+      "description": "马拉加 作客 皇家贝蒂斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18322,12 +18336,12 @@
         "away": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         }
       },
       "details": {
         "主场": "皇家贝蒂斯",
-        "客场": "Málaga",
+        "客场": "马拉加",
         "场馆": "Estadio La Cartuja",
         "城市": "Sevilla"
       }
@@ -18343,7 +18357,7 @@
       "description": "西班牙人 作客 比利亚雷亚尔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18375,7 +18389,7 @@
       "description": "巴塞罗那 作客 马竞（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18407,7 +18421,7 @@
       "description": "莱万特 作客 塞尔塔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18439,7 +18453,7 @@
       "description": "皇家贝蒂斯 作客 埃尔切（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18462,16 +18476,16 @@
     },
     {
       "id": "laliga-2026-401882813",
-      "name": "西甲 · Deportivo @ 西班牙人",
+      "name": "西甲 · 拉科鲁尼亚 @ 西班牙人",
       "date": "2026-11-09",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Deportivo 作客 西班牙人（西甲 2026-27 赛季，北京时间）",
+      "description": "拉科鲁尼亚 作客 西班牙人（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18482,44 +18496,44 @@
         "away": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         }
       },
       "details": {
         "主场": "西班牙人",
-        "客场": "Deportivo",
+        "客场": "拉科鲁尼亚",
         "场馆": "RCDE Stadium",
         "城市": "Barcelona"
       }
     },
     {
       "id": "laliga-2026-401882812",
-      "name": "西甲 · Racing Santander @ Málaga",
+      "name": "西甲 · 桑坦德竞技 @ 马拉加",
       "date": "2026-11-09",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Racing Santander 作客 Málaga（西甲 2026-27 赛季，北京时间）",
+      "description": "桑坦德竞技 作客 马拉加（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         },
         "away": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         }
       },
       "details": {
-        "主场": "Málaga",
-        "客场": "Racing Santander",
+        "主场": "马拉加",
+        "客场": "桑坦德竞技",
         "场馆": "La Rosaleda",
         "城市": "Malaga"
       }
@@ -18535,7 +18549,7 @@
       "description": "毕尔巴鄂竞技 作客 奥萨苏纳（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18567,7 +18581,7 @@
       "description": "瓦列卡诺 作客 皇家社会（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18599,7 +18613,7 @@
       "description": "阿拉维斯 作客 塞维利亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18631,7 +18645,7 @@
       "description": "皇家马德里 作客 瓦伦西亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18663,7 +18677,7 @@
       "description": "赫塔费 作客 比利亚雷亚尔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18686,16 +18700,16 @@
     },
     {
       "id": "laliga-2026-401882806",
-      "name": "西甲 · Deportivo @ 阿拉维斯",
+      "name": "西甲 · 拉科鲁尼亚 @ 阿拉维斯",
       "date": "2026-11-23",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Deportivo 作客 阿拉维斯（西甲 2026-27 赛季，北京时间）",
+      "description": "拉科鲁尼亚 作客 阿拉维斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18706,12 +18720,12 @@
         "away": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         }
       },
       "details": {
         "主场": "阿拉维斯",
-        "客场": "Deportivo",
+        "客场": "拉科鲁尼亚",
         "场馆": "Mendizorrotza",
         "城市": "Vitoria-Gasteiz"
       }
@@ -18727,7 +18741,7 @@
       "description": "西班牙人 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18759,7 +18773,7 @@
       "description": "比利亚雷亚尔 作客 巴塞罗那（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18791,7 +18805,7 @@
       "description": "马竞 作客 赫塔费（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18823,7 +18837,7 @@
       "description": "埃尔切 作客 莱万特（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18846,16 +18860,16 @@
     },
     {
       "id": "laliga-2026-401882801",
-      "name": "西甲 · Málaga @ 奥萨苏纳",
+      "name": "西甲 · 马拉加 @ 奥萨苏纳",
       "date": "2026-11-23",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Málaga 作客 奥萨苏纳（西甲 2026-27 赛季，北京时间）",
+      "description": "马拉加 作客 奥萨苏纳（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18866,34 +18880,34 @@
         "away": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         }
       },
       "details": {
         "主场": "奥萨苏纳",
-        "客场": "Málaga",
+        "客场": "马拉加",
         "场馆": "El Sadar",
         "城市": "Pamplona"
       }
     },
     {
       "id": "laliga-2026-401882800",
-      "name": "西甲 · 皇家社会 @ Racing Santander",
+      "name": "西甲 · 皇家社会 @ 桑坦德竞技",
       "date": "2026-11-23",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "皇家社会 作客 Racing Santander（西甲 2026-27 赛季，北京时间）",
+      "description": "皇家社会 作客 桑坦德竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         },
         "away": {
           "id": "rso",
@@ -18902,7 +18916,7 @@
         }
       },
       "details": {
-        "主场": "Racing Santander",
+        "主场": "桑坦德竞技",
         "客场": "皇家社会",
         "场馆": "El Sardineros",
         "城市": "Santander"
@@ -18919,7 +18933,7 @@
       "description": "瓦伦西亚 作客 瓦列卡诺（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18951,7 +18965,7 @@
       "description": "塞尔塔 作客 皇家马德里（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -18983,7 +18997,7 @@
       "description": "皇家贝蒂斯 作客 塞维利亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -19015,7 +19029,7 @@
       "description": "比利亚雷亚尔 作客 塞尔塔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -19038,22 +19052,22 @@
     },
     {
       "id": "laliga-2026-401882794",
-      "name": "西甲 · 巴塞罗那 @ Deportivo",
+      "name": "西甲 · 巴塞罗那 @ 拉科鲁尼亚",
       "date": "2026-11-30",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "巴塞罗那 作客 Deportivo（西甲 2026-27 赛季，北京时间）",
+      "description": "巴塞罗那 作客 拉科鲁尼亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         },
         "away": {
           "id": "bar",
@@ -19062,7 +19076,7 @@
         }
       },
       "details": {
-        "主场": "Deportivo",
+        "主场": "拉科鲁尼亚",
         "客场": "巴塞罗那",
         "场馆": "Riazor",
         "城市": "La Coruña"
@@ -19079,7 +19093,7 @@
       "description": "马竞 作客 埃尔切（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -19111,7 +19125,7 @@
       "description": "赫塔费 作客 西班牙人（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -19134,16 +19148,16 @@
     },
     {
       "id": "laliga-2026-401882791",
-      "name": "西甲 · Racing Santander @ 莱万特",
+      "name": "西甲 · 桑坦德竞技 @ 莱万特",
       "date": "2026-11-30",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Racing Santander 作客 莱万特（西甲 2026-27 赛季，北京时间）",
+      "description": "桑坦德竞技 作客 莱万特（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -19154,34 +19168,34 @@
         "away": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         }
       },
       "details": {
         "主场": "莱万特",
-        "客场": "Racing Santander",
+        "客场": "桑坦德竞技",
         "场馆": "Estadi Ciutat de València",
         "城市": "Manises"
       }
     },
     {
       "id": "laliga-2026-401882790",
-      "name": "西甲 · 毕尔巴鄂竞技 @ Málaga",
+      "name": "西甲 · 毕尔巴鄂竞技 @ 马拉加",
       "date": "2026-11-30",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "毕尔巴鄂竞技 作客 Málaga（西甲 2026-27 赛季，北京时间）",
+      "description": "毕尔巴鄂竞技 作客 马拉加（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         },
         "away": {
           "id": "ath",
@@ -19190,7 +19204,7 @@
         }
       },
       "details": {
-        "主场": "Málaga",
+        "主场": "马拉加",
         "客场": "毕尔巴鄂竞技",
         "场馆": "La Rosaleda",
         "城市": "Malaga"
@@ -19207,7 +19221,7 @@
       "description": "瓦列卡诺 作客 皇家贝蒂斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -19239,7 +19253,7 @@
       "description": "阿拉维斯 作客 皇家马德里（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -19271,7 +19285,7 @@
       "description": "塞维利亚 作客 皇家社会（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -19303,7 +19317,7 @@
       "description": "奥萨苏纳 作客 瓦伦西亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -19335,7 +19349,7 @@
       "description": "西班牙人 作客 阿拉维斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -19367,7 +19381,7 @@
       "description": "皇家马德里 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -19399,7 +19413,7 @@
       "description": "皇家贝蒂斯 作客 马竞（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -19431,7 +19445,7 @@
       "description": "塞尔塔 作客 巴塞罗那（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -19463,7 +19477,7 @@
       "description": "瓦伦西亚 作客 赫塔费（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -19495,7 +19509,7 @@
       "description": "埃尔切 作客 奥萨苏纳（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -19518,32 +19532,32 @@
     },
     {
       "id": "laliga-2026-401882780",
-      "name": "西甲 · Deportivo @ Racing Santander",
+      "name": "西甲 · 拉科鲁尼亚 @ 桑坦德竞技",
       "date": "2026-12-07",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Deportivo 作客 Racing Santander（西甲 2026-27 赛季，北京时间）",
+      "description": "拉科鲁尼亚 作客 桑坦德竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         },
         "away": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         }
       },
       "details": {
-        "主场": "Racing Santander",
-        "客场": "Deportivo",
+        "主场": "桑坦德竞技",
+        "客场": "拉科鲁尼亚",
         "场馆": "El Sardineros",
         "城市": "Santander"
       }
@@ -19559,7 +19573,7 @@
       "description": "莱万特 作客 瓦列卡诺（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -19582,16 +19596,16 @@
     },
     {
       "id": "laliga-2026-401882778",
-      "name": "西甲 · Málaga @ 塞维利亚",
+      "name": "西甲 · 马拉加 @ 塞维利亚",
       "date": "2026-12-07",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Málaga 作客 塞维利亚（西甲 2026-27 赛季，北京时间）",
+      "description": "马拉加 作客 塞维利亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -19602,12 +19616,12 @@
         "away": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         }
       },
       "details": {
         "主场": "塞维利亚",
-        "客场": "Málaga",
+        "客场": "马拉加",
         "场馆": "Ramón Sánchez Pizjuán Stadium",
         "城市": "Sevilla"
       }
@@ -19623,7 +19637,7 @@
       "description": "皇家社会 作客 比利亚雷亚尔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -19655,7 +19669,7 @@
       "description": "瓦伦西亚 作客 马竞（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -19678,22 +19692,22 @@
     },
     {
       "id": "laliga-2026-401882774",
-      "name": "西甲 · 毕尔巴鄂竞技 @ Deportivo",
+      "name": "西甲 · 毕尔巴鄂竞技 @ 拉科鲁尼亚",
       "date": "2026-12-14",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "毕尔巴鄂竞技 作客 Deportivo（西甲 2026-27 赛季，北京时间）",
+      "description": "毕尔巴鄂竞技 作客 拉科鲁尼亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         },
         "away": {
           "id": "ath",
@@ -19702,7 +19716,7 @@
         }
       },
       "details": {
-        "主场": "Deportivo",
+        "主场": "拉科鲁尼亚",
         "客场": "毕尔巴鄂竞技",
         "场馆": "Riazor",
         "城市": "La Coruña"
@@ -19719,7 +19733,7 @@
       "description": "塞维利亚 作客 埃尔切（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -19751,7 +19765,7 @@
       "description": "塞尔塔 作客 西班牙人（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -19783,7 +19797,7 @@
       "description": "阿拉维斯 作客 莱万特（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -19806,22 +19820,22 @@
     },
     {
       "id": "laliga-2026-401882770",
-      "name": "西甲 · 巴塞罗那 @ Málaga",
+      "name": "西甲 · 巴塞罗那 @ 马拉加",
       "date": "2026-12-14",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "巴塞罗那 作客 Málaga（西甲 2026-27 赛季，北京时间）",
+      "description": "巴塞罗那 作客 马拉加（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         },
         "away": {
           "id": "bar",
@@ -19830,7 +19844,7 @@
         }
       },
       "details": {
-        "主场": "Málaga",
+        "主场": "马拉加",
         "客场": "巴塞罗那",
         "场馆": "La Rosaleda",
         "城市": "Malaga"
@@ -19838,16 +19852,16 @@
     },
     {
       "id": "laliga-2026-401882775",
-      "name": "西甲 · Racing Santander @ 皇家贝蒂斯",
+      "name": "西甲 · 桑坦德竞技 @ 皇家贝蒂斯",
       "date": "2026-12-14",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Racing Santander 作客 皇家贝蒂斯（西甲 2026-27 赛季，北京时间）",
+      "description": "桑坦德竞技 作客 皇家贝蒂斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -19858,12 +19872,12 @@
         "away": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         }
       },
       "details": {
         "主场": "皇家贝蒂斯",
-        "客场": "Racing Santander",
+        "客场": "桑坦德竞技",
         "场馆": "Estadio La Cartuja",
         "城市": "Sevilla"
       }
@@ -19879,7 +19893,7 @@
       "description": "奥萨苏纳 作客 皇家马德里（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -19911,7 +19925,7 @@
       "description": "赫塔费 作客 皇家社会（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -19943,7 +19957,7 @@
       "description": "瓦列卡诺 作客 比利亚雷亚尔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -19975,7 +19989,7 @@
       "description": "埃尔切 作客 阿拉维斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20007,7 +20021,7 @@
       "description": "皇家贝蒂斯 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20039,7 +20053,7 @@
       "description": "皇家社会 作客 巴塞罗那（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20071,7 +20085,7 @@
       "description": "马竞 作客 塞尔塔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20094,22 +20108,22 @@
     },
     {
       "id": "laliga-2026-401882763",
-      "name": "西甲 · 皇家马德里 @ Deportivo",
+      "name": "西甲 · 皇家马德里 @ 拉科鲁尼亚",
       "date": "2026-12-21",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "皇家马德里 作客 Deportivo（西甲 2026-27 赛季，北京时间）",
+      "description": "皇家马德里 作客 拉科鲁尼亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         },
         "away": {
           "id": "rma",
@@ -20118,7 +20132,7 @@
         }
       },
       "details": {
-        "主场": "Deportivo",
+        "主场": "拉科鲁尼亚",
         "客场": "皇家马德里",
         "场馆": "Riazor",
         "城市": "La Coruña"
@@ -20135,7 +20149,7 @@
       "description": "莱万特 作客 赫塔费（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20167,7 +20181,7 @@
       "description": "比利亚雷亚尔 作客 奥萨苏纳（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20190,16 +20204,16 @@
     },
     {
       "id": "laliga-2026-401882759",
-      "name": "西甲 · Málaga @ 瓦列卡诺",
+      "name": "西甲 · 马拉加 @ 瓦列卡诺",
       "date": "2026-12-21",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Málaga 作客 瓦列卡诺（西甲 2026-27 赛季，北京时间）",
+      "description": "马拉加 作客 瓦列卡诺（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20210,28 +20224,28 @@
         "away": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         }
       },
       "details": {
         "主场": "瓦列卡诺",
-        "客场": "Málaga",
+        "客场": "马拉加",
         "场馆": "Estadio de Vallecas",
         "城市": "Madrid"
       }
     },
     {
       "id": "laliga-2026-401882758",
-      "name": "西甲 · Racing Santander @ 塞维利亚",
+      "name": "西甲 · 桑坦德竞技 @ 塞维利亚",
       "date": "2026-12-21",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Racing Santander 作客 塞维利亚（西甲 2026-27 赛季，北京时间）",
+      "description": "桑坦德竞技 作客 塞维利亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20242,12 +20256,12 @@
         "away": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         }
       },
       "details": {
         "主场": "塞维利亚",
-        "客场": "Racing Santander",
+        "客场": "桑坦德竞技",
         "场馆": "Ramón Sánchez Pizjuán Stadium",
         "城市": "Sevilla"
       }
@@ -20263,7 +20277,7 @@
       "description": "西班牙人 作客 瓦伦西亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20286,16 +20300,16 @@
     },
     {
       "id": "laliga-2026-401882755",
-      "name": "西甲 · Deportivo @ 塞尔塔",
+      "name": "西甲 · 拉科鲁尼亚 @ 塞尔塔",
       "date": "2027-01-04",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Deportivo 作客 塞尔塔（西甲 2026-27 赛季，北京时间）",
+      "description": "拉科鲁尼亚 作客 塞尔塔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20306,12 +20320,12 @@
         "away": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         }
       },
       "details": {
         "主场": "塞尔塔",
-        "客场": "Deportivo",
+        "客场": "拉科鲁尼亚",
         "场馆": "Balaidos",
         "城市": "Vigo"
       }
@@ -20327,7 +20341,7 @@
       "description": "巴塞罗那 作客 西班牙人（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20359,7 +20373,7 @@
       "description": "瓦伦西亚 作客 莱万特（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20382,22 +20396,22 @@
     },
     {
       "id": "laliga-2026-401882752",
-      "name": "西甲 · 埃尔切 @ Málaga",
+      "name": "西甲 · 埃尔切 @ 马拉加",
       "date": "2027-01-04",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "埃尔切 作客 Málaga（西甲 2026-27 赛季，北京时间）",
+      "description": "埃尔切 作客 马拉加（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         },
         "away": {
           "id": "elc",
@@ -20406,7 +20420,7 @@
         }
       },
       "details": {
-        "主场": "Málaga",
+        "主场": "马拉加",
         "客场": "埃尔切",
         "场馆": "La Rosaleda",
         "城市": "Malaga"
@@ -20414,22 +20428,22 @@
     },
     {
       "id": "laliga-2026-401882751",
-      "name": "西甲 · 毕尔巴鄂竞技 @ Racing Santander",
+      "name": "西甲 · 毕尔巴鄂竞技 @ 桑坦德竞技",
       "date": "2027-01-04",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "毕尔巴鄂竞技 作客 Racing Santander（西甲 2026-27 赛季，北京时间）",
+      "description": "毕尔巴鄂竞技 作客 桑坦德竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         },
         "away": {
           "id": "ath",
@@ -20438,7 +20452,7 @@
         }
       },
       "details": {
-        "主场": "Racing Santander",
+        "主场": "桑坦德竞技",
         "客场": "毕尔巴鄂竞技",
         "场馆": "El Sardineros",
         "城市": "Santander"
@@ -20455,7 +20469,7 @@
       "description": "马竞 作客 瓦列卡诺（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20487,7 +20501,7 @@
       "description": "阿拉维斯 作客 皇家贝蒂斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20519,7 +20533,7 @@
       "description": "赫塔费 作客 皇家马德里（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20551,7 +20565,7 @@
       "description": "奥萨苏纳 作客 皇家社会（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20583,7 +20597,7 @@
       "description": "塞维利亚 作客 比利亚雷亚尔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20615,7 +20629,7 @@
       "description": "皇家社会 作客 阿拉维斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20647,7 +20661,7 @@
       "description": "比利亚雷亚尔 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20670,16 +20684,16 @@
     },
     {
       "id": "laliga-2026-401882744",
-      "name": "西甲 · Racing Santander @ 马竞",
+      "name": "西甲 · 桑坦德竞技 @ 马竞",
       "date": "2027-01-11",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Racing Santander 作客 马竞（西甲 2026-27 赛季，北京时间）",
+      "description": "桑坦德竞技 作客 马竞（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20690,34 +20704,34 @@
         "away": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         }
       },
       "details": {
         "主场": "马竞",
-        "客场": "Racing Santander",
+        "客场": "桑坦德竞技",
         "场馆": "Riyadh Air Metropolitano",
         "城市": "Madrid"
       }
     },
     {
       "id": "laliga-2026-401882743",
-      "name": "西甲 · 瓦列卡诺 @ Deportivo",
+      "name": "西甲 · 瓦列卡诺 @ 拉科鲁尼亚",
       "date": "2027-01-11",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "瓦列卡诺 作客 Deportivo（西甲 2026-27 赛季，北京时间）",
+      "description": "瓦列卡诺 作客 拉科鲁尼亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         },
         "away": {
           "id": "ray",
@@ -20726,7 +20740,7 @@
         }
       },
       "details": {
-        "主场": "Deportivo",
+        "主场": "拉科鲁尼亚",
         "客场": "瓦列卡诺",
         "场馆": "Riazor",
         "城市": "La Coruña"
@@ -20743,7 +20757,7 @@
       "description": "赫塔费 作客 埃尔切（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20775,7 +20789,7 @@
       "description": "皇家贝蒂斯 作客 西班牙人（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20807,7 +20821,7 @@
       "description": "巴塞罗那 作客 奥萨苏纳（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20839,7 +20853,7 @@
       "description": "莱万特 作客 皇家马德里（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20871,7 +20885,7 @@
       "description": "塞尔塔 作客 塞维利亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20894,16 +20908,16 @@
     },
     {
       "id": "laliga-2026-401882737",
-      "name": "西甲 · Málaga @ 瓦伦西亚",
+      "name": "西甲 · 马拉加 @ 瓦伦西亚",
       "date": "2027-01-11",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Málaga 作客 瓦伦西亚（西甲 2026-27 赛季，北京时间）",
+      "description": "马拉加 作客 瓦伦西亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20914,12 +20928,12 @@
         "away": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         }
       },
       "details": {
         "主场": "瓦伦西亚",
-        "客场": "Málaga",
+        "客场": "马拉加",
         "场馆": "Mestalla Stadium",
         "城市": "Manises"
       }
@@ -20935,7 +20949,7 @@
       "description": "皇家社会 作客 马竞（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20967,7 +20981,7 @@
       "description": "埃尔切 作客 巴塞罗那（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -20999,7 +21013,7 @@
       "description": "瓦伦西亚 作客 塞尔塔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -21031,7 +21045,7 @@
       "description": "毕尔巴鄂竞技 作客 赫塔费（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -21063,7 +21077,7 @@
       "description": "西班牙人 作客 莱万特（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -21086,22 +21100,22 @@
     },
     {
       "id": "laliga-2026-401882730",
-      "name": "西甲 · 皇家马德里 @ Málaga",
+      "name": "西甲 · 皇家马德里 @ 马拉加",
       "date": "2027-01-18",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "皇家马德里 作客 Málaga（西甲 2026-27 赛季，北京时间）",
+      "description": "皇家马德里 作客 马拉加（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         },
         "away": {
           "id": "rma",
@@ -21110,7 +21124,7 @@
         }
       },
       "details": {
-        "主场": "Málaga",
+        "主场": "马拉加",
         "客场": "皇家马德里",
         "场馆": "La Rosaleda",
         "城市": "Malaga"
@@ -21118,22 +21132,22 @@
     },
     {
       "id": "laliga-2026-401882729",
-      "name": "西甲 · 奥萨苏纳 @ Racing Santander",
+      "name": "西甲 · 奥萨苏纳 @ 桑坦德竞技",
       "date": "2027-01-18",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "奥萨苏纳 作客 Racing Santander（西甲 2026-27 赛季，北京时间）",
+      "description": "奥萨苏纳 作客 桑坦德竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         },
         "away": {
           "id": "osa",
@@ -21142,7 +21156,7 @@
         }
       },
       "details": {
-        "主场": "Racing Santander",
+        "主场": "桑坦德竞技",
         "客场": "奥萨苏纳",
         "场馆": "El Sardineros",
         "城市": "Santander"
@@ -21159,7 +21173,7 @@
       "description": "塞维利亚 作客 瓦列卡诺（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -21182,16 +21196,16 @@
     },
     {
       "id": "laliga-2026-401882735",
-      "name": "西甲 · Deportivo @ 皇家贝蒂斯",
+      "name": "西甲 · 拉科鲁尼亚 @ 皇家贝蒂斯",
       "date": "2027-01-18",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Deportivo 作客 皇家贝蒂斯（西甲 2026-27 赛季，北京时间）",
+      "description": "拉科鲁尼亚 作客 皇家贝蒂斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -21202,12 +21216,12 @@
         "away": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         }
       },
       "details": {
         "主场": "皇家贝蒂斯",
-        "客场": "Deportivo",
+        "客场": "拉科鲁尼亚",
         "场馆": "Estadio La Cartuja",
         "城市": "Sevilla"
       }
@@ -21223,7 +21237,7 @@
       "description": "阿拉维斯 作客 比利亚雷亚尔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -21255,7 +21269,7 @@
       "description": "巴塞罗那 作客 阿拉维斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -21287,7 +21301,7 @@
       "description": "莱万特 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -21310,22 +21324,22 @@
     },
     {
       "id": "laliga-2026-401882724",
-      "name": "西甲 · 马竞 @ Deportivo",
+      "name": "西甲 · 马竞 @ 拉科鲁尼亚",
       "date": "2027-01-25",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "马竞 作客 Deportivo（西甲 2026-27 赛季，北京时间）",
+      "description": "马竞 作客 拉科鲁尼亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         },
         "away": {
           "id": "atm",
@@ -21334,7 +21348,7 @@
         }
       },
       "details": {
-        "主场": "Deportivo",
+        "主场": "拉科鲁尼亚",
         "客场": "马竞",
         "场馆": "Riazor",
         "城市": "La Coruña"
@@ -21351,7 +21365,7 @@
       "description": "瓦列卡诺 作客 埃尔切（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -21383,7 +21397,7 @@
       "description": "比利亚雷亚尔 作客 西班牙人（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -21415,7 +21429,7 @@
       "description": "奥萨苏纳 作客 赫塔费（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -21438,22 +21452,22 @@
     },
     {
       "id": "laliga-2026-401882720",
-      "name": "西甲 · 塞尔塔 @ Racing Santander",
+      "name": "西甲 · 塞尔塔 @ 桑坦德竞技",
       "date": "2027-01-25",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "塞尔塔 作客 Racing Santander（西甲 2026-27 赛季，北京时间）",
+      "description": "塞尔塔 作客 桑坦德竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         },
         "away": {
           "id": "cel",
@@ -21462,7 +21476,7 @@
         }
       },
       "details": {
-        "主场": "Racing Santander",
+        "主场": "桑坦德竞技",
         "客场": "塞尔塔",
         "场馆": "El Sardineros",
         "城市": "Santander"
@@ -21479,7 +21493,7 @@
       "description": "皇家贝蒂斯 作客 皇家马德里（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -21502,16 +21516,16 @@
     },
     {
       "id": "laliga-2026-401882718",
-      "name": "西甲 · Málaga @ 皇家社会",
+      "name": "西甲 · 马拉加 @ 皇家社会",
       "date": "2027-01-25",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Málaga 作客 皇家社会（西甲 2026-27 赛季，北京时间）",
+      "description": "马拉加 作客 皇家社会（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -21522,12 +21536,12 @@
         "away": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         }
       },
       "details": {
         "主场": "皇家社会",
-        "客场": "Málaga",
+        "客场": "马拉加",
         "场馆": "Reale Arena",
         "城市": "San Sebastian"
       }
@@ -21543,7 +21557,7 @@
       "description": "塞维利亚 作客 瓦伦西亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -21575,7 +21589,7 @@
       "description": "西班牙人 作客 马竞（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -21607,7 +21621,7 @@
       "description": "瓦伦西亚 作客 巴塞罗那（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -21639,7 +21653,7 @@
       "description": "赫塔费 作客 塞尔塔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -21671,7 +21685,7 @@
       "description": "皇家社会 作客 莱万特（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -21694,22 +21708,22 @@
     },
     {
       "id": "laliga-2026-401882711",
-      "name": "西甲 · 阿拉维斯 @ Málaga",
+      "name": "西甲 · 阿拉维斯 @ 马拉加",
       "date": "2027-02-01",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "阿拉维斯 作客 Málaga（西甲 2026-27 赛季，北京时间）",
+      "description": "阿拉维斯 作客 马拉加（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         },
         "away": {
           "id": "ala",
@@ -21718,7 +21732,7 @@
         }
       },
       "details": {
-        "主场": "Málaga",
+        "主场": "马拉加",
         "客场": "阿拉维斯",
         "场馆": "La Rosaleda",
         "城市": "Malaga"
@@ -21726,16 +21740,16 @@
     },
     {
       "id": "laliga-2026-401882710",
-      "name": "西甲 · Deportivo @ 奥萨苏纳",
+      "name": "西甲 · 拉科鲁尼亚 @ 奥萨苏纳",
       "date": "2027-02-01",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Deportivo 作客 奥萨苏纳（西甲 2026-27 赛季，北京时间）",
+      "description": "拉科鲁尼亚 作客 奥萨苏纳（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -21746,12 +21760,12 @@
         "away": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         }
       },
       "details": {
         "主场": "奥萨苏纳",
-        "客场": "Deportivo",
+        "客场": "拉科鲁尼亚",
         "场馆": "El Sadar",
         "城市": "Pamplona"
       }
@@ -21767,7 +21781,7 @@
       "description": "皇家马德里 作客 瓦列卡诺（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -21799,7 +21813,7 @@
       "description": "埃尔切 作客 皇家贝蒂斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -21831,7 +21845,7 @@
       "description": "毕尔巴鄂竞技 作客 塞维利亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -21854,16 +21868,16 @@
     },
     {
       "id": "laliga-2026-401882707",
-      "name": "西甲 · Racing Santander @ 比利亚雷亚尔",
+      "name": "西甲 · 桑坦德竞技 @ 比利亚雷亚尔",
       "date": "2027-02-01",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Racing Santander 作客 比利亚雷亚尔（西甲 2026-27 赛季，北京时间）",
+      "description": "桑坦德竞技 作客 比利亚雷亚尔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -21874,12 +21888,12 @@
         "away": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         }
       },
       "details": {
         "主场": "比利亚雷亚尔",
-        "客场": "Racing Santander",
+        "客场": "桑坦德竞技",
         "场馆": "Estadio de la Cerámica",
         "城市": "Villarreal"
       }
@@ -21895,7 +21909,7 @@
       "description": "塞尔塔 作客 阿拉维斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -21927,7 +21941,7 @@
       "description": "奥萨苏纳 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -21959,7 +21973,7 @@
       "description": "马竞 作客 巴塞罗那（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -21982,32 +21996,32 @@
     },
     {
       "id": "laliga-2026-401882703",
-      "name": "西甲 · Málaga @ Deportivo",
+      "name": "西甲 · 马拉加 @ 拉科鲁尼亚",
       "date": "2027-02-08",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Málaga 作客 Deportivo（西甲 2026-27 赛季，北京时间）",
+      "description": "马拉加 作客 拉科鲁尼亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         },
         "away": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         }
       },
       "details": {
-        "主场": "Deportivo",
-        "客场": "Málaga",
+        "主场": "拉科鲁尼亚",
+        "客场": "马拉加",
         "场馆": "Riazor",
         "城市": "La Coruña"
       }
@@ -22023,7 +22037,7 @@
       "description": "莱万特 作客 埃尔切（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22055,7 +22069,7 @@
       "description": "瓦列卡诺 作客 西班牙人（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22087,7 +22101,7 @@
       "description": "比利亚雷亚尔 作客 赫塔费（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22119,7 +22133,7 @@
       "description": "塞维利亚 作客 皇家贝蒂斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22151,7 +22165,7 @@
       "description": "皇家马德里 作客 皇家社会（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22174,16 +22188,16 @@
     },
     {
       "id": "laliga-2026-401882697",
-      "name": "西甲 · Racing Santander @ 瓦伦西亚",
+      "name": "西甲 · 桑坦德竞技 @ 瓦伦西亚",
       "date": "2027-02-08",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Racing Santander 作客 瓦伦西亚（西甲 2026-27 赛季，北京时间）",
+      "description": "桑坦德竞技 作客 瓦伦西亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22194,12 +22208,12 @@
         "away": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         }
       },
       "details": {
         "主场": "瓦伦西亚",
-        "客场": "Racing Santander",
+        "客场": "桑坦德竞技",
         "场馆": "Mestalla Stadium",
         "城市": "Manises"
       }
@@ -22215,7 +22229,7 @@
       "description": "瓦列卡诺 作客 塞尔塔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22238,16 +22252,16 @@
     },
     {
       "id": "laliga-2026-401882695",
-      "name": "西甲 · Deportivo @ 埃尔切",
+      "name": "西甲 · 拉科鲁尼亚 @ 埃尔切",
       "date": "2027-02-15",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Deportivo 作客 埃尔切（西甲 2026-27 赛季，北京时间）",
+      "description": "拉科鲁尼亚 作客 埃尔切（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22258,28 +22272,28 @@
         "away": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         }
       },
       "details": {
         "主场": "埃尔切",
-        "客场": "Deportivo",
+        "客场": "拉科鲁尼亚",
         "场馆": "Estadio Martínez Valero",
         "城市": "Elche"
       }
     },
     {
       "id": "laliga-2026-401882694",
-      "name": "西甲 · Málaga @ 莱万特",
+      "name": "西甲 · 马拉加 @ 莱万特",
       "date": "2027-02-15",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Málaga 作客 莱万特（西甲 2026-27 赛季，北京时间）",
+      "description": "马拉加 作客 莱万特（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22290,12 +22304,12 @@
         "away": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         }
       },
       "details": {
         "主场": "莱万特",
-        "客场": "Málaga",
+        "客场": "马拉加",
         "场馆": "Estadi Ciutat de València",
         "城市": "Manises"
       }
@@ -22311,7 +22325,7 @@
       "description": "马竞 作客 奥萨苏纳（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22334,22 +22348,22 @@
     },
     {
       "id": "laliga-2026-401882692",
-      "name": "西甲 · 赫塔费 @ Racing Santander",
+      "name": "西甲 · 赫塔费 @ 桑坦德竞技",
       "date": "2027-02-15",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "赫塔费 作客 Racing Santander（西甲 2026-27 赛季，北京时间）",
+      "description": "赫塔费 作客 桑坦德竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         },
         "away": {
           "id": "get",
@@ -22358,7 +22372,7 @@
         }
       },
       "details": {
-        "主场": "Racing Santander",
+        "主场": "桑坦德竞技",
         "客场": "赫塔费",
         "场馆": "El Sardineros",
         "城市": "Santander"
@@ -22375,7 +22389,7 @@
       "description": "毕尔巴鄂竞技 作客 皇家马德里（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22407,7 +22421,7 @@
       "description": "皇家贝蒂斯 作客 皇家社会（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22439,7 +22453,7 @@
       "description": "西班牙人 作客 塞维利亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22471,7 +22485,7 @@
       "description": "阿拉维斯 作客 瓦伦西亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22503,7 +22517,7 @@
       "description": "巴塞罗那 作客 比利亚雷亚尔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22526,16 +22540,16 @@
     },
     {
       "id": "laliga-2026-401882686",
-      "name": "西甲 · Racing Santander @ 阿拉维斯",
+      "name": "西甲 · 桑坦德竞技 @ 阿拉维斯",
       "date": "2027-02-22",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Racing Santander 作客 阿拉维斯（西甲 2026-27 赛季，北京时间）",
+      "description": "桑坦德竞技 作客 阿拉维斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22546,12 +22560,12 @@
         "away": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         }
       },
       "details": {
         "主场": "阿拉维斯",
-        "客场": "Racing Santander",
+        "客场": "桑坦德竞技",
         "场馆": "Mendizorrotza",
         "城市": "Vitoria-Gasteiz"
       }
@@ -22567,7 +22581,7 @@
       "description": "塞尔塔 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22599,7 +22613,7 @@
       "description": "埃尔切 作客 马竞（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22631,7 +22645,7 @@
       "description": "莱万特 作客 巴塞罗那（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22654,22 +22668,22 @@
     },
     {
       "id": "laliga-2026-401882683",
-      "name": "西甲 · 皇家社会 @ Deportivo",
+      "name": "西甲 · 皇家社会 @ 拉科鲁尼亚",
       "date": "2027-02-22",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "皇家社会 作客 Deportivo（西甲 2026-27 赛季，北京时间）",
+      "description": "皇家社会 作客 拉科鲁尼亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         },
         "away": {
           "id": "rso",
@@ -22678,7 +22692,7 @@
         }
       },
       "details": {
-        "主场": "Deportivo",
+        "主场": "拉科鲁尼亚",
         "客场": "皇家社会",
         "场馆": "Riazor",
         "城市": "La Coruña"
@@ -22695,7 +22709,7 @@
       "description": "奥萨苏纳 作客 西班牙人（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22718,22 +22732,22 @@
     },
     {
       "id": "laliga-2026-401882680",
-      "name": "西甲 · 皇家贝蒂斯 @ Málaga",
+      "name": "西甲 · 皇家贝蒂斯 @ 马拉加",
       "date": "2027-02-22",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "皇家贝蒂斯 作客 Málaga（西甲 2026-27 赛季，北京时间）",
+      "description": "皇家贝蒂斯 作客 马拉加（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         },
         "away": {
           "id": "bet",
@@ -22742,7 +22756,7 @@
         }
       },
       "details": {
-        "主场": "Málaga",
+        "主场": "马拉加",
         "客场": "皇家贝蒂斯",
         "场馆": "La Rosaleda",
         "城市": "Malaga"
@@ -22759,7 +22773,7 @@
       "description": "赫塔费 作客 瓦列卡诺（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22791,7 +22805,7 @@
       "description": "皇家马德里 作客 塞维利亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22823,7 +22837,7 @@
       "description": "瓦伦西亚 作客 比利亚雷亚尔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22855,7 +22869,7 @@
       "description": "巴塞罗那 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22887,7 +22901,7 @@
       "description": "西班牙人 作客 塞尔塔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22919,7 +22933,7 @@
       "description": "阿拉维斯 作客 赫塔费（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22942,16 +22956,16 @@
     },
     {
       "id": "laliga-2026-401882672",
-      "name": "西甲 · Deportivo @ 莱万特",
+      "name": "西甲 · 拉科鲁尼亚 @ 莱万特",
       "date": "2027-03-01",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Deportivo 作客 莱万特（西甲 2026-27 赛季，北京时间）",
+      "description": "拉科鲁尼亚 作客 莱万特（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -22962,34 +22976,34 @@
         "away": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         }
       },
       "details": {
         "主场": "莱万特",
-        "客场": "Deportivo",
+        "客场": "拉科鲁尼亚",
         "场馆": "Estadi Ciutat de València",
         "城市": "Manises"
       }
     },
     {
       "id": "laliga-2026-401882671",
-      "name": "西甲 · 马竞 @ Málaga",
+      "name": "西甲 · 马竞 @ 马拉加",
       "date": "2027-03-01",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "马竞 作客 Málaga（西甲 2026-27 赛季，北京时间）",
+      "description": "马竞 作客 马拉加（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         },
         "away": {
           "id": "atm",
@@ -22998,7 +23012,7 @@
         }
       },
       "details": {
-        "主场": "Málaga",
+        "主场": "马拉加",
         "客场": "马竞",
         "场馆": "La Rosaleda",
         "城市": "Malaga"
@@ -23015,7 +23029,7 @@
       "description": "塞维利亚 作客 奥萨苏纳（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -23038,22 +23052,22 @@
     },
     {
       "id": "laliga-2026-401882669",
-      "name": "西甲 · 瓦列卡诺 @ Racing Santander",
+      "name": "西甲 · 瓦列卡诺 @ 桑坦德竞技",
       "date": "2027-03-01",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "瓦列卡诺 作客 Racing Santander（西甲 2026-27 赛季，北京时间）",
+      "description": "瓦列卡诺 作客 桑坦德竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         },
         "away": {
           "id": "ray",
@@ -23062,7 +23076,7 @@
         }
       },
       "details": {
-        "主场": "Racing Santander",
+        "主场": "桑坦德竞技",
         "客场": "瓦列卡诺",
         "场馆": "El Sardineros",
         "城市": "Santander"
@@ -23079,7 +23093,7 @@
       "description": "比利亚雷亚尔 作客 皇家贝蒂斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -23111,7 +23125,7 @@
       "description": "瓦伦西亚 作客 皇家马德里（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -23143,7 +23157,7 @@
       "description": "埃尔切 作客 皇家社会（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -23175,7 +23189,7 @@
       "description": "毕尔巴鄂竞技 作客 阿拉维斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -23207,7 +23221,7 @@
       "description": "塞尔塔 作客 马竞（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -23239,7 +23253,7 @@
       "description": "皇家贝蒂斯 作客 巴塞罗那（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -23262,22 +23276,22 @@
     },
     {
       "id": "laliga-2026-401882664",
-      "name": "西甲 · 赫塔费 @ Deportivo",
+      "name": "西甲 · 赫塔费 @ 拉科鲁尼亚",
       "date": "2027-03-08",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "赫塔费 作客 Deportivo（西甲 2026-27 赛季，北京时间）",
+      "description": "赫塔费 作客 拉科鲁尼亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         },
         "away": {
           "id": "get",
@@ -23286,7 +23300,7 @@
         }
       },
       "details": {
-        "主场": "Deportivo",
+        "主场": "拉科鲁尼亚",
         "客场": "赫塔费",
         "场馆": "Riazor",
         "城市": "La Coruña"
@@ -23294,16 +23308,16 @@
     },
     {
       "id": "laliga-2026-401882663",
-      "name": "西甲 · Málaga @ 埃尔切",
+      "name": "西甲 · 马拉加 @ 埃尔切",
       "date": "2027-03-08",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Málaga 作客 埃尔切（西甲 2026-27 赛季，北京时间）",
+      "description": "马拉加 作客 埃尔切（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -23314,28 +23328,28 @@
         "away": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         }
       },
       "details": {
         "主场": "埃尔切",
-        "客场": "Málaga",
+        "客场": "马拉加",
         "场馆": "Estadio Martínez Valero",
         "城市": "Elche"
       }
     },
     {
       "id": "laliga-2026-401882662",
-      "name": "西甲 · Racing Santander @ 西班牙人",
+      "name": "西甲 · 桑坦德竞技 @ 西班牙人",
       "date": "2027-03-08",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Racing Santander 作客 西班牙人（西甲 2026-27 赛季，北京时间）",
+      "description": "桑坦德竞技 作客 西班牙人（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -23346,12 +23360,12 @@
         "away": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         }
       },
       "details": {
         "主场": "西班牙人",
-        "客场": "Racing Santander",
+        "客场": "桑坦德竞技",
         "场馆": "RCDE Stadium",
         "城市": "Barcelona"
       }
@@ -23367,7 +23381,7 @@
       "description": "奥萨苏纳 作客 瓦列卡诺（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -23399,7 +23413,7 @@
       "description": "皇家社会 作客 塞维利亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -23431,7 +23445,7 @@
       "description": "莱万特 作客 瓦伦西亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -23463,7 +23477,7 @@
       "description": "皇家马德里 作客 比利亚雷亚尔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -23495,7 +23509,7 @@
       "description": "塞维利亚 作客 阿拉维斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -23527,7 +23541,7 @@
       "description": "瓦伦西亚 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -23550,16 +23564,16 @@
     },
     {
       "id": "laliga-2026-401882652",
-      "name": "西甲 · Deportivo @ 巴塞罗那",
+      "name": "西甲 · 拉科鲁尼亚 @ 巴塞罗那",
       "date": "2027-03-15",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Deportivo 作客 巴塞罗那（西甲 2026-27 赛季，北京时间）",
+      "description": "拉科鲁尼亚 作客 巴塞罗那（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -23570,12 +23584,12 @@
         "away": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         }
       },
       "details": {
         "主场": "巴塞罗那",
-        "客场": "Deportivo",
+        "客场": "拉科鲁尼亚",
         "场馆": "Spotify Camp Nou",
         "城市": "Barcelona"
       }
@@ -23591,7 +23605,7 @@
       "description": "比利亚雷亚尔 作客 埃尔切（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -23623,7 +23637,7 @@
       "description": "皇家社会 作客 赫塔费（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -23646,22 +23660,22 @@
     },
     {
       "id": "laliga-2026-401882650",
-      "name": "西甲 · 瓦列卡诺 @ Málaga",
+      "name": "西甲 · 瓦列卡诺 @ 马拉加",
       "date": "2027-03-15",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "瓦列卡诺 作客 Málaga（西甲 2026-27 赛季，北京时间）",
+      "description": "瓦列卡诺 作客 马拉加（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         },
         "away": {
           "id": "ray",
@@ -23670,7 +23684,7 @@
         }
       },
       "details": {
-        "主场": "Málaga",
+        "主场": "马拉加",
         "客场": "瓦列卡诺",
         "场馆": "La Rosaleda",
         "城市": "Malaga"
@@ -23687,7 +23701,7 @@
       "description": "塞尔塔 作客 奥萨苏纳（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -23710,22 +23724,22 @@
     },
     {
       "id": "laliga-2026-401882648",
-      "name": "西甲 · 马竞 @ Racing Santander",
+      "name": "西甲 · 马竞 @ 桑坦德竞技",
       "date": "2027-03-15",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "马竞 作客 Racing Santander（西甲 2026-27 赛季，北京时间）",
+      "description": "马竞 作客 桑坦德竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         },
         "away": {
           "id": "atm",
@@ -23734,7 +23748,7 @@
         }
       },
       "details": {
-        "主场": "Racing Santander",
+        "主场": "桑坦德竞技",
         "客场": "马竞",
         "场馆": "El Sardineros",
         "城市": "Santander"
@@ -23751,7 +23765,7 @@
       "description": "莱万特 作客 皇家贝蒂斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -23783,7 +23797,7 @@
       "description": "西班牙人 作客 皇家马德里（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -23815,7 +23829,7 @@
       "description": "赫塔费 作客 马竞（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -23847,7 +23861,7 @@
       "description": "皇家马德里 作客 塞尔塔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -23879,7 +23893,7 @@
       "description": "毕尔巴鄂竞技 作客 西班牙人（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -23911,7 +23925,7 @@
       "description": "奥萨苏纳 作客 莱万特（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -23934,22 +23948,22 @@
     },
     {
       "id": "laliga-2026-401882642",
-      "name": "西甲 · 皇家贝蒂斯 @ Racing Santander",
+      "name": "西甲 · 皇家贝蒂斯 @ 桑坦德竞技",
       "date": "2027-03-22",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "皇家贝蒂斯 作客 Racing Santander（西甲 2026-27 赛季，北京时间）",
+      "description": "皇家贝蒂斯 作客 桑坦德竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         },
         "away": {
           "id": "bet",
@@ -23958,7 +23972,7 @@
         }
       },
       "details": {
-        "主场": "Racing Santander",
+        "主场": "桑坦德竞技",
         "客场": "皇家贝蒂斯",
         "场馆": "El Sardineros",
         "城市": "Santander"
@@ -23975,7 +23989,7 @@
       "description": "巴塞罗那 作客 瓦列卡诺（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24007,7 +24021,7 @@
       "description": "阿拉维斯 作客 皇家社会（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24039,7 +24053,7 @@
       "description": "埃尔切 作客 塞维利亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24062,16 +24076,16 @@
     },
     {
       "id": "laliga-2026-401882638",
-      "name": "西甲 · Deportivo @ 瓦伦西亚",
+      "name": "西甲 · 拉科鲁尼亚 @ 瓦伦西亚",
       "date": "2027-03-22",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Deportivo 作客 瓦伦西亚（西甲 2026-27 赛季，北京时间）",
+      "description": "拉科鲁尼亚 作客 瓦伦西亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24082,28 +24096,28 @@
         "away": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         }
       },
       "details": {
         "主场": "瓦伦西亚",
-        "客场": "Deportivo",
+        "客场": "拉科鲁尼亚",
         "场馆": "Mestalla Stadium",
         "城市": "Manises"
       }
     },
     {
       "id": "laliga-2026-401882637",
-      "name": "西甲 · Málaga @ 比利亚雷亚尔",
+      "name": "西甲 · 马拉加 @ 比利亚雷亚尔",
       "date": "2027-03-22",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Málaga 作客 比利亚雷亚尔（西甲 2026-27 赛季，北京时间）",
+      "description": "马拉加 作客 比利亚雷亚尔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24114,28 +24128,28 @@
         "away": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         }
       },
       "details": {
         "主场": "比利亚雷亚尔",
-        "客场": "Málaga",
+        "客场": "马拉加",
         "场馆": "Estadio de la Cerámica",
         "城市": "Villarreal"
       }
     },
     {
       "id": "laliga-2026-401882636",
-      "name": "西甲 · Racing Santander @ 毕尔巴鄂竞技",
+      "name": "西甲 · 桑坦德竞技 @ 毕尔巴鄂竞技",
       "date": "2027-04-05",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Racing Santander 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，北京时间）",
+      "description": "桑坦德竞技 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24146,12 +24160,12 @@
         "away": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         }
       },
       "details": {
         "主场": "毕尔巴鄂竞技",
-        "客场": "Racing Santander",
+        "客场": "桑坦德竞技",
         "场馆": "San Mamés",
         "城市": "Bilbao"
       }
@@ -24167,7 +24181,7 @@
       "description": "塞维利亚 作客 巴塞罗那（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24190,22 +24204,22 @@
     },
     {
       "id": "laliga-2026-401882634",
-      "name": "西甲 · 比利亚雷亚尔 @ Deportivo",
+      "name": "西甲 · 比利亚雷亚尔 @ 拉科鲁尼亚",
       "date": "2027-04-05",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "比利亚雷亚尔 作客 Deportivo（西甲 2026-27 赛季，北京时间）",
+      "description": "比利亚雷亚尔 作客 拉科鲁尼亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         },
         "away": {
           "id": "vil",
@@ -24214,7 +24228,7 @@
         }
       },
       "details": {
-        "主场": "Deportivo",
+        "主场": "拉科鲁尼亚",
         "客场": "比利亚雷亚尔",
         "场馆": "Riazor",
         "城市": "La Coruña"
@@ -24231,7 +24245,7 @@
       "description": "阿拉维斯 作客 埃尔切（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24263,7 +24277,7 @@
       "description": "西班牙人 作客 赫塔费（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24295,7 +24309,7 @@
       "description": "瓦列卡诺 作客 莱万特（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24318,22 +24332,22 @@
     },
     {
       "id": "laliga-2026-401882629",
-      "name": "西甲 · 奥萨苏纳 @ Málaga",
+      "name": "西甲 · 奥萨苏纳 @ 马拉加",
       "date": "2027-04-05",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "奥萨苏纳 作客 Málaga（西甲 2026-27 赛季，北京时间）",
+      "description": "奥萨苏纳 作客 马拉加（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         },
         "away": {
           "id": "osa",
@@ -24342,7 +24356,7 @@
         }
       },
       "details": {
-        "主场": "Málaga",
+        "主场": "马拉加",
         "客场": "奥萨苏纳",
         "场馆": "La Rosaleda",
         "城市": "Malaga"
@@ -24359,7 +24373,7 @@
       "description": "塞尔塔 作客 皇家贝蒂斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24391,7 +24405,7 @@
       "description": "马竞 作客 皇家马德里（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24423,7 +24437,7 @@
       "description": "瓦伦西亚 作客 皇家社会（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24455,7 +24469,7 @@
       "description": "皇家贝蒂斯 作客 阿拉维斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24487,7 +24501,7 @@
       "description": "莱万特 作客 马竞（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24519,7 +24533,7 @@
       "description": "埃尔切 作客 塞尔塔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24542,16 +24556,16 @@
     },
     {
       "id": "laliga-2026-401882623",
-      "name": "西甲 · Málaga @ 西班牙人",
+      "name": "西甲 · 马拉加 @ 西班牙人",
       "date": "2027-04-12",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Málaga 作客 西班牙人（西甲 2026-27 赛季，北京时间）",
+      "description": "马拉加 作客 西班牙人（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24562,12 +24576,12 @@
         "away": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         }
       },
       "details": {
         "主场": "西班牙人",
-        "客场": "Málaga",
+        "客场": "马拉加",
         "场馆": "RCDE Stadium",
         "城市": "Barcelona"
       }
@@ -24583,7 +24597,7 @@
       "description": "皇家马德里 作客 奥萨苏纳（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24606,22 +24620,22 @@
     },
     {
       "id": "laliga-2026-401882621",
-      "name": "西甲 · 巴塞罗那 @ Racing Santander",
+      "name": "西甲 · 巴塞罗那 @ 桑坦德竞技",
       "date": "2027-04-12",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "巴塞罗那 作客 Racing Santander（西甲 2026-27 赛季，北京时间）",
+      "description": "巴塞罗那 作客 桑坦德竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         },
         "away": {
           "id": "bar",
@@ -24630,7 +24644,7 @@
         }
       },
       "details": {
-        "主场": "Racing Santander",
+        "主场": "桑坦德竞技",
         "客场": "巴塞罗那",
         "场馆": "El Sardineros",
         "城市": "Santander"
@@ -24647,7 +24661,7 @@
       "description": "皇家社会 作客 瓦列卡诺（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24670,16 +24684,16 @@
     },
     {
       "id": "laliga-2026-401882619",
-      "name": "西甲 · Deportivo @ 塞维利亚",
+      "name": "西甲 · 拉科鲁尼亚 @ 塞维利亚",
       "date": "2027-04-12",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Deportivo 作客 塞维利亚（西甲 2026-27 赛季，北京时间）",
+      "description": "拉科鲁尼亚 作客 塞维利亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24690,12 +24704,12 @@
         "away": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         }
       },
       "details": {
         "主场": "塞维利亚",
-        "客场": "Deportivo",
+        "客场": "拉科鲁尼亚",
         "场馆": "Ramón Sánchez Pizjuán Stadium",
         "城市": "Sevilla"
       }
@@ -24711,7 +24725,7 @@
       "description": "赫塔费 作客 瓦伦西亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24743,7 +24757,7 @@
       "description": "毕尔巴鄂竞技 作客 比利亚雷亚尔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24775,7 +24789,7 @@
       "description": "瓦列卡诺 作客 阿拉维斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24807,7 +24821,7 @@
       "description": "塞维利亚 作客 马竞（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24839,7 +24853,7 @@
       "description": "西班牙人 作客 巴塞罗那（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24862,22 +24876,22 @@
     },
     {
       "id": "laliga-2026-401882613",
-      "name": "西甲 · 塞尔塔 @ Deportivo",
+      "name": "西甲 · 塞尔塔 @ 拉科鲁尼亚",
       "date": "2027-04-19",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "塞尔塔 作客 Deportivo（西甲 2026-27 赛季，北京时间）",
+      "description": "塞尔塔 作客 拉科鲁尼亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         },
         "away": {
           "id": "cel",
@@ -24886,7 +24900,7 @@
         }
       },
       "details": {
-        "主场": "Deportivo",
+        "主场": "拉科鲁尼亚",
         "客场": "塞尔塔",
         "场馆": "Riazor",
         "城市": "La Coruña"
@@ -24903,7 +24917,7 @@
       "description": "奥萨苏纳 作客 埃尔切（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24935,7 +24949,7 @@
       "description": "皇家马德里 作客 赫塔费（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24967,7 +24981,7 @@
       "description": "比利亚雷亚尔 作客 莱万特（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -24990,22 +25004,22 @@
     },
     {
       "id": "laliga-2026-401882608",
-      "name": "西甲 · 瓦伦西亚 @ Málaga",
+      "name": "西甲 · 瓦伦西亚 @ 马拉加",
       "date": "2027-04-19",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "瓦伦西亚 作客 Málaga（西甲 2026-27 赛季，北京时间）",
+      "description": "瓦伦西亚 作客 马拉加（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         },
         "away": {
           "id": "val",
@@ -25014,7 +25028,7 @@
         }
       },
       "details": {
-        "主场": "Málaga",
+        "主场": "马拉加",
         "客场": "瓦伦西亚",
         "场馆": "La Rosaleda",
         "城市": "Malaga"
@@ -25031,7 +25045,7 @@
       "description": "毕尔巴鄂竞技 作客 皇家贝蒂斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -25054,16 +25068,16 @@
     },
     {
       "id": "laliga-2026-401882607",
-      "name": "西甲 · Racing Santander @ 皇家社会",
+      "name": "西甲 · 桑坦德竞技 @ 皇家社会",
       "date": "2027-04-19",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Racing Santander 作客 皇家社会（西甲 2026-27 赛季，北京时间）",
+      "description": "桑坦德竞技 作客 皇家社会（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -25074,28 +25088,28 @@
         "away": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         }
       },
       "details": {
         "主场": "皇家社会",
-        "客场": "Racing Santander",
+        "客场": "桑坦德竞技",
         "场馆": "Reale Arena",
         "城市": "San Sebastian"
       }
     },
     {
       "id": "laliga-2026-401882606",
-      "name": "西甲 · Deportivo @ 毕尔巴鄂竞技",
+      "name": "西甲 · 拉科鲁尼亚 @ 毕尔巴鄂竞技",
       "date": "2027-04-22",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Deportivo 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，北京时间）",
+      "description": "拉科鲁尼亚 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -25106,12 +25120,12 @@
         "away": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         }
       },
       "details": {
         "主场": "毕尔巴鄂竞技",
-        "客场": "Deportivo",
+        "客场": "拉科鲁尼亚",
         "场馆": "San Mamés",
         "城市": "Bilbao"
       }
@@ -25127,7 +25141,7 @@
       "description": "巴塞罗那 作客 塞尔塔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -25159,7 +25173,7 @@
       "description": "皇家社会 作客 西班牙人（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -25191,7 +25205,7 @@
       "description": "皇家贝蒂斯 作客 赫塔费（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -25223,7 +25237,7 @@
       "description": "阿拉维斯 作客 奥萨苏纳（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -25246,32 +25260,32 @@
     },
     {
       "id": "laliga-2026-401882601",
-      "name": "西甲 · Málaga @ Racing Santander",
+      "name": "西甲 · 马拉加 @ 桑坦德竞技",
       "date": "2027-04-22",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Málaga 作客 Racing Santander（西甲 2026-27 赛季，北京时间）",
+      "description": "马拉加 作客 桑坦德竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         },
         "away": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         }
       },
       "details": {
-        "主场": "Racing Santander",
-        "客场": "Málaga",
+        "主场": "桑坦德竞技",
+        "客场": "马拉加",
         "场馆": "El Sardineros",
         "城市": "Santander"
       }
@@ -25287,7 +25301,7 @@
       "description": "埃尔切 作客 皇家马德里（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -25319,7 +25333,7 @@
       "description": "莱万特 作客 塞维利亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -25351,7 +25365,7 @@
       "description": "瓦列卡诺 作客 瓦伦西亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -25383,7 +25397,7 @@
       "description": "马竞 作客 比利亚雷亚尔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -25415,7 +25429,7 @@
       "description": "阿拉维斯 作客 马竞（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -25447,7 +25461,7 @@
       "description": "奥萨苏纳 作客 巴塞罗那（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -25479,7 +25493,7 @@
       "description": "塞维利亚 作客 塞尔塔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -25502,32 +25516,32 @@
     },
     {
       "id": "laliga-2026-401882593",
-      "name": "西甲 · Racing Santander @ Deportivo",
+      "name": "西甲 · 桑坦德竞技 @ 拉科鲁尼亚",
       "date": "2027-05-03",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Racing Santander 作客 Deportivo（西甲 2026-27 赛季，北京时间）",
+      "description": "桑坦德竞技 作客 拉科鲁尼亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         },
         "away": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         }
       },
       "details": {
-        "主场": "Deportivo",
-        "客场": "Racing Santander",
+        "主场": "拉科鲁尼亚",
+        "客场": "桑坦德竞技",
         "场馆": "Riazor",
         "城市": "La Coruña"
       }
@@ -25543,7 +25557,7 @@
       "description": "西班牙人 作客 埃尔切（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -25575,7 +25589,7 @@
       "description": "皇家马德里 作客 莱万特（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -25598,22 +25612,22 @@
     },
     {
       "id": "laliga-2026-401882589",
-      "name": "西甲 · 赫塔费 @ Málaga",
+      "name": "西甲 · 赫塔费 @ 马拉加",
       "date": "2027-05-03",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "赫塔费 作客 Málaga（西甲 2026-27 赛季，北京时间）",
+      "description": "赫塔费 作客 马拉加（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         },
         "away": {
           "id": "get",
@@ -25622,7 +25636,7 @@
         }
       },
       "details": {
-        "主场": "Málaga",
+        "主场": "马拉加",
         "客场": "赫塔费",
         "场馆": "La Rosaleda",
         "城市": "Malaga"
@@ -25639,7 +25653,7 @@
       "description": "比利亚雷亚尔 作客 瓦列卡诺（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -25671,7 +25685,7 @@
       "description": "瓦伦西亚 作客 皇家贝蒂斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -25703,7 +25717,7 @@
       "description": "毕尔巴鄂竞技 作客 皇家社会（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -25735,7 +25749,7 @@
       "description": "莱万特 作客 阿拉维斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -25758,16 +25772,16 @@
     },
     {
       "id": "laliga-2026-401882585",
-      "name": "西甲 · Málaga @ 毕尔巴鄂竞技",
+      "name": "西甲 · 马拉加 @ 毕尔巴鄂竞技",
       "date": "2027-05-10",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Málaga 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，北京时间）",
+      "description": "马拉加 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -25778,12 +25792,12 @@
         "away": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         }
       },
       "details": {
         "主场": "毕尔巴鄂竞技",
-        "客场": "Málaga",
+        "客场": "马拉加",
         "场馆": "San Mamés",
         "城市": "Bilbao"
       }
@@ -25799,7 +25813,7 @@
       "description": "埃尔切 作客 赫塔费（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -25831,7 +25845,7 @@
       "description": "皇家社会 作客 奥萨苏纳（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -25854,22 +25868,22 @@
     },
     {
       "id": "laliga-2026-401882581",
-      "name": "西甲 · 塞维利亚 @ Racing Santander",
+      "name": "西甲 · 塞维利亚 @ 桑坦德竞技",
       "date": "2027-05-10",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "塞维利亚 作客 Racing Santander（西甲 2026-27 赛季，北京时间）",
+      "description": "塞维利亚 作客 桑坦德竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         },
         "away": {
           "id": "sev",
@@ -25878,7 +25892,7 @@
         }
       },
       "details": {
-        "主场": "Racing Santander",
+        "主场": "桑坦德竞技",
         "客场": "塞维利亚",
         "场馆": "El Sardineros",
         "城市": "Santander"
@@ -25886,16 +25900,16 @@
     },
     {
       "id": "laliga-2026-401882580",
-      "name": "西甲 · Deportivo @ 瓦列卡诺",
+      "name": "西甲 · 拉科鲁尼亚 @ 瓦列卡诺",
       "date": "2027-05-10",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Deportivo 作客 瓦列卡诺（西甲 2026-27 赛季，北京时间）",
+      "description": "拉科鲁尼亚 作客 瓦列卡诺（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -25906,12 +25920,12 @@
         "away": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         }
       },
       "details": {
         "主场": "瓦列卡诺",
-        "客场": "Deportivo",
+        "客场": "拉科鲁尼亚",
         "场馆": "Estadio de Vallecas",
         "城市": "Madrid"
       }
@@ -25927,7 +25941,7 @@
       "description": "西班牙人 作客 皇家贝蒂斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -25959,7 +25973,7 @@
       "description": "巴塞罗那 作客 皇家马德里（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -25991,7 +26005,7 @@
       "description": "马竞 作客 瓦伦西亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -26023,7 +26037,7 @@
       "description": "塞尔塔 作客 比利亚雷亚尔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -26055,7 +26069,7 @@
       "description": "瓦列卡诺 作客 马竞（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -26078,22 +26092,22 @@
     },
     {
       "id": "laliga-2026-401882575",
-      "name": "西甲 · 阿拉维斯 @ Deportivo",
+      "name": "西甲 · 阿拉维斯 @ 拉科鲁尼亚",
       "date": "2027-05-17",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "阿拉维斯 作客 Deportivo（西甲 2026-27 赛季，北京时间）",
+      "description": "阿拉维斯 作客 拉科鲁尼亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         },
         "away": {
           "id": "ala",
@@ -26102,7 +26116,7 @@
         }
       },
       "details": {
-        "主场": "Deportivo",
+        "主场": "拉科鲁尼亚",
         "客场": "阿拉维斯",
         "场馆": "Riazor",
         "城市": "La Coruña"
@@ -26119,7 +26133,7 @@
       "description": "毕尔巴鄂竞技 作客 埃尔切（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -26151,7 +26165,7 @@
       "description": "瓦伦西亚 作客 西班牙人（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -26183,7 +26197,7 @@
       "description": "赫塔费 作客 莱万特（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -26206,22 +26220,22 @@
     },
     {
       "id": "laliga-2026-401882571",
-      "name": "西甲 · 塞尔塔 @ Málaga",
+      "name": "西甲 · 塞尔塔 @ 马拉加",
       "date": "2027-05-17",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "塞尔塔 作客 Málaga（西甲 2026-27 赛季，北京时间）",
+      "description": "塞尔塔 作客 马拉加（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         },
         "away": {
           "id": "cel",
@@ -26230,7 +26244,7 @@
         }
       },
       "details": {
-        "主场": "Málaga",
+        "主场": "马拉加",
         "客场": "塞尔塔",
         "场馆": "La Rosaleda",
         "城市": "Malaga"
@@ -26247,7 +26261,7 @@
       "description": "皇家贝蒂斯 作客 奥萨苏纳（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -26270,16 +26284,16 @@
     },
     {
       "id": "laliga-2026-401882569",
-      "name": "西甲 · Racing Santander @ 皇家马德里",
+      "name": "西甲 · 桑坦德竞技 @ 皇家马德里",
       "date": "2027-05-17",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Racing Santander 作客 皇家马德里（西甲 2026-27 赛季，北京时间）",
+      "description": "桑坦德竞技 作客 皇家马德里（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -26290,12 +26304,12 @@
         "away": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         }
       },
       "details": {
         "主场": "皇家马德里",
-        "客场": "Racing Santander",
+        "客场": "桑坦德竞技",
         "场馆": "Santiago Bernabéu",
         "城市": "Madrid"
       }
@@ -26311,7 +26325,7 @@
       "description": "巴塞罗那 作客 皇家社会（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -26343,7 +26357,7 @@
       "description": "比利亚雷亚尔 作客 塞维利亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -26375,7 +26389,7 @@
       "description": "皇家马德里 作客 阿拉维斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -26407,7 +26421,7 @@
       "description": "毕尔巴鄂竞技 作客 马竞（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -26430,16 +26444,16 @@
     },
     {
       "id": "laliga-2026-401882562",
-      "name": "西甲 · Málaga @ 巴塞罗那",
+      "name": "西甲 · 马拉加 @ 巴塞罗那",
       "date": "2027-05-24",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Málaga 作客 巴塞罗那（西甲 2026-27 赛季，北京时间）",
+      "description": "马拉加 作客 巴塞罗那（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -26450,12 +26464,12 @@
         "away": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         }
       },
       "details": {
         "主场": "巴塞罗那",
-        "客场": "Málaga",
+        "客场": "马拉加",
         "场馆": "Spotify Camp Nou",
         "城市": "Barcelona"
       }
@@ -26471,7 +26485,7 @@
       "description": "皇家社会 作客 塞尔塔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -26494,22 +26508,22 @@
     },
     {
       "id": "laliga-2026-401882563",
-      "name": "西甲 · 西班牙人 @ Deportivo",
+      "name": "西甲 · 西班牙人 @ 拉科鲁尼亚",
       "date": "2027-05-24",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "西班牙人 作客 Deportivo（西甲 2026-27 赛季，北京时间）",
+      "description": "西班牙人 作客 拉科鲁尼亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         },
         "away": {
           "id": "esp",
@@ -26518,7 +26532,7 @@
         }
       },
       "details": {
-        "主场": "Deportivo",
+        "主场": "拉科鲁尼亚",
         "客场": "西班牙人",
         "场馆": "Riazor",
         "城市": "La Coruña"
@@ -26526,22 +26540,22 @@
     },
     {
       "id": "laliga-2026-401882561",
-      "name": "西甲 · 莱万特 @ Racing Santander",
+      "name": "西甲 · 莱万特 @ 桑坦德竞技",
       "date": "2027-05-24",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "莱万特 作客 Racing Santander（西甲 2026-27 赛季，北京时间）",
+      "description": "莱万特 作客 桑坦德竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         },
         "away": {
           "id": "lev",
@@ -26550,7 +26564,7 @@
         }
       },
       "details": {
-        "主场": "Racing Santander",
+        "主场": "桑坦德竞技",
         "客场": "莱万特",
         "场馆": "El Sardineros",
         "城市": "Santander"
@@ -26567,7 +26581,7 @@
       "description": "皇家贝蒂斯 作客 瓦列卡诺（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -26599,7 +26613,7 @@
       "description": "赫塔费 作客 塞维利亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -26631,7 +26645,7 @@
       "description": "埃尔切 作客 瓦伦西亚（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -26663,7 +26677,7 @@
       "description": "奥萨苏纳 作客 比利亚雷亚尔（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -26695,7 +26709,7 @@
       "description": "瓦列卡诺 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -26718,16 +26732,16 @@
     },
     {
       "id": "laliga-2026-401882554",
-      "name": "西甲 · Racing Santander @ 埃尔切",
+      "name": "西甲 · 桑坦德竞技 @ 埃尔切",
       "date": "2027-05-31",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Racing Santander 作客 埃尔切（西甲 2026-27 赛季，北京时间）",
+      "description": "桑坦德竞技 作客 埃尔切（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -26738,12 +26752,12 @@
         "away": {
           "id": "rac",
           "code": "RAC",
-          "name": "Racing Santander"
+          "name": "桑坦德竞技"
         }
       },
       "details": {
         "主场": "埃尔切",
-        "客场": "Racing Santander",
+        "客场": "桑坦德竞技",
         "场馆": "Estadio Martínez Valero",
         "城市": "Elche"
       }
@@ -26759,7 +26773,7 @@
       "description": "阿拉维斯 作客 西班牙人（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -26791,7 +26805,7 @@
       "description": "巴塞罗那 作客 赫塔费（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -26823,7 +26837,7 @@
       "description": "塞尔塔 作客 莱万特（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -26846,22 +26860,22 @@
     },
     {
       "id": "laliga-2026-401882550",
-      "name": "西甲 · 塞维利亚 @ Málaga",
+      "name": "西甲 · 塞维利亚 @ 马拉加",
       "date": "2027-05-31",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "塞维利亚 作客 Málaga（西甲 2026-27 赛季，北京时间）",
+      "description": "塞维利亚 作客 马拉加（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
           "id": "mcf",
           "code": "MCF",
-          "name": "Málaga"
+          "name": "马拉加"
         },
         "away": {
           "id": "sev",
@@ -26870,7 +26884,7 @@
         }
       },
       "details": {
-        "主场": "Málaga",
+        "主场": "马拉加",
         "客场": "塞维利亚",
         "场馆": "La Rosaleda",
         "城市": "Malaga"
@@ -26887,7 +26901,7 @@
       "description": "瓦伦西亚 作客 奥萨苏纳（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -26919,7 +26933,7 @@
       "description": "马竞 作客 皇家贝蒂斯（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -26942,16 +26956,16 @@
     },
     {
       "id": "laliga-2026-401882548",
-      "name": "西甲 · Deportivo @ 皇家马德里",
+      "name": "西甲 · 拉科鲁尼亚 @ 皇家马德里",
       "date": "2027-05-31",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Deportivo 作客 皇家马德里（西甲 2026-27 赛季，北京时间）",
+      "description": "拉科鲁尼亚 作客 皇家马德里（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -26962,12 +26976,12 @@
         "away": {
           "id": "dep",
           "code": "DEP",
-          "name": "Deportivo"
+          "name": "拉科鲁尼亚"
         }
       },
       "details": {
         "主场": "皇家马德里",
-        "客场": "Deportivo",
+        "客场": "拉科鲁尼亚",
         "场馆": "Santiago Bernabéu",
         "城市": "Madrid"
       }
@@ -26983,7 +26997,7 @@
       "description": "比利亚雷亚尔 作客 皇家社会（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
       "status": "confirmed",
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
         "home": {
