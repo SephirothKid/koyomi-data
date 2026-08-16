@@ -1,6 +1,6 @@
 #!/usr/bin/env node
-import { readFileSync, readdirSync, statSync, writeFileSync, mkdirSync, unlinkSync } from 'fs'
-import { join, resolve, dirname } from 'path'
+import { readFileSync, readdirSync, statSync, writeFileSync, mkdirSync, unlinkSync, existsSync } from 'fs'
+import { basename, join, resolve, dirname } from 'path'
 import { fileURLToPath } from 'url'
 import ical from 'ical-generator'
 
@@ -65,14 +65,34 @@ const ONLY_SOURCE_ID = process.env.SOURCE_ID?.trim()
 
 mkdirSync(ICAL_DIR, { recursive: true })
 
-function cleanGeneratedIcalFiles(dir) {
+const writtenIcalFiles = new Set()
+const keptIcalFiles = new Set()
+
+function listIcalFiles(dir) {
+  if (!existsSync(dir)) return []
+  const files = []
   for (const entry of readdirSync(dir)) {
     const fullPath = join(dir, entry)
-    if (statSync(fullPath).isDirectory()) {
-      cleanGeneratedIcalFiles(fullPath)
-    } else if (entry.endsWith('.ics')) {
-      unlinkSync(fullPath)
-    }
+    if (statSync(fullPath).isDirectory()) files.push(...listIcalFiles(fullPath))
+    else if (entry.endsWith('.ics')) files.push(fullPath)
+  }
+  return files
+}
+
+function icsOwnedBySource(filename, sourceId) {
+  const stem = filename.endsWith('.ics') ? filename.slice(0, -4) : filename
+  return stem === sourceId || stem === `${sourceId}-en` || stem.startsWith(`${sourceId}-`)
+}
+
+function keepExistingIcalForSource(sourceId) {
+  for (const file of listIcalFiles(ICAL_DIR)) {
+    if (icsOwnedBySource(basename(file), sourceId)) keptIcalFiles.add(file)
+  }
+}
+
+function pruneStaleIcalFiles() {
+  for (const file of listIcalFiles(ICAL_DIR)) {
+    if (!writtenIcalFiles.has(file) && !keptIcalFiles.has(file)) unlinkSync(file)
   }
 }
 
@@ -87,9 +107,9 @@ function sourceIcalDir(source) {
 }
 
 function writeCalendar(source, filename, calendar) {
-  const content = calendar.toString()
-  // 写入分类子目录
-  writeFileSync(join(sourceIcalDir(source), filename), content, 'utf8')
+  const dest = join(sourceIcalDir(source), filename)
+  writeFileSync(dest, calendar.toString(), 'utf8')
+  writtenIcalFiles.add(dest)
 }
 
 function writeSourceCalendars(source, events) {
@@ -541,60 +561,69 @@ const files = collectJsonFiles(EVENTS_DIR)
 let processedSources = 0
 let totalEvents = 0
 let totalTeamCalendars = 0
-
-if (!ONLY_SOURCE_ID) {
-  cleanGeneratedIcalFiles(ICAL_DIR)
-}
+let skippedSources = 0
 
 for (const file of files) {
-  const source = JSON.parse(readFileSync(file, 'utf8'))
-  if (ONLY_SOURCE_ID && source.id !== ONLY_SOURCE_ID) continue
+  const fallbackId = basename(file, '.json')
+  let source
+  try {
+    source = JSON.parse(readFileSync(file, 'utf8'))
+    if (ONLY_SOURCE_ID && source.id !== ONLY_SOURCE_ID) continue
 
-  processedSources++
-  const calendarEvents = eventsForCalendar(source)
+    const calendarEvents = eventsForCalendar(source)
+    totalEvents += calendarEvents.length
+    writeSourceCalendars(source, calendarEvents)
 
-  totalEvents += calendarEvents.length
-  writeSourceCalendars(source, calendarEvents)
+    const teams = TEAM_CALENDAR_SOURCE_IDS.has(source.id) ? collectTeams(source.events ?? []) : []
+    for (const team of teams) {
+      const teamEvents = calendarEvents.filter(event => eventIncludesTeam(event, team.id))
 
-  const teams = TEAM_CALENDAR_SOURCE_IDS.has(source.id) ? collectTeams(source.events ?? []) : []
-  for (const team of teams) {
-    const teamEvents = calendarEvents.filter(event => eventIncludesTeam(event, team.id))
+      const teamSourceId = `${source.id}-${team.id}`
+      const teamNameZh = `${team.name}赛程`
+      const teamNameEn = `${team.nameEn} Schedule`
 
-    const teamSourceId = `${source.id}-${team.id}`
-    const teamNameZh = `${team.name}赛程`
-    const teamNameEn = `${team.nameEn} Schedule`
-
-    // 中文球队日历
-    const teamCalZh = createCalendar(source, teamEvents, {
-      name: teamNameZh,
-      calendarName: teamNameZh,
-      description: `${team.name}在${source.name}中的比赛日程，自动同步更新。`,
-      productId: teamSourceId,
-      url: `https://koyomi.cast/sources/${source.id}`,
-      summaryForEvent: event => teamEventSummary(event, team, false),
-    })
-    writeCalendar(source, `${teamSourceId}.ics`, teamCalZh)
-
-    // 英文球队日历
-    if (source.name_en) {
-      const teamCalEn = createCalendar(source, teamEvents, {
-        name: teamNameEn,
-        calendarName: teamNameEn,
-        description: `${team.nameEn} schedule in ${source.name_en}, auto-synced.`,
+      // 中文球队日历
+      const teamCalZh = createCalendar(source, teamEvents, {
+        name: teamNameZh,
+        calendarName: teamNameZh,
+        description: `${team.name}在${source.name}中的比赛日程，自动同步更新。`,
         productId: teamSourceId,
         url: `https://koyomi.cast/sources/${source.id}`,
-        summaryForEvent: event => teamEventSummary(event, team, true),
-        lang: 'en',
+        summaryForEvent: event => teamEventSummary(event, team, false),
       })
-      writeCalendar(source, `${teamSourceId}-en.ics`, teamCalEn)
+      writeCalendar(source, `${teamSourceId}.ics`, teamCalZh)
+
+      // 英文球队日历
+      if (source.name_en) {
+        const teamCalEn = createCalendar(source, teamEvents, {
+          name: teamNameEn,
+          calendarName: teamNameEn,
+          description: `${team.nameEn} schedule in ${source.name_en}, auto-synced.`,
+          productId: teamSourceId,
+          url: `https://koyomi.cast/sources/${source.id}`,
+          summaryForEvent: event => teamEventSummary(event, team, true),
+          lang: 'en',
+        })
+        writeCalendar(source, `${teamSourceId}-en.ics`, teamCalEn)
+      }
+
+      totalTeamCalendars++
     }
 
-    totalTeamCalendars++
+    const teamLabel = teams.length > 0 ? `, ${teams.length} team calendars` : ''
+    const enLabel = source.name_en ? ' (+en)' : ''
+    console.log(`✓ ${source.id}.ics${enLabel} (${calendarEvents.length}/${source.events?.length ?? 0} events${teamLabel})`)
+    processedSources++
+  } catch (err) {
+    skippedSources++
+    keepExistingIcalForSource(source?.id ?? fallbackId)
+    console.error(`✗ skip ${source?.id ?? fallbackId}: ${err.message}`)
   }
-
-  const teamLabel = teams.length > 0 ? `, ${teams.length} team calendars` : ''
-  const enLabel = source.name_en ? ' (+en)' : ''
-  console.log(`✓ ${source.id}.ics${enLabel} (${calendarEvents.length}/${source.events?.length ?? 0} events${teamLabel})`)
 }
 
+if (!ONLY_SOURCE_ID) pruneStaleIcalFiles()
+
 console.log(`\n✓ Generated ${processedSources} source calendars, ${totalTeamCalendars} team calendars, ${totalEvents} events total`)
+if (skippedSources > 0) {
+  console.error(`⚠ skipped ${skippedSources} source(s); previous .ics files were kept`)
+}
