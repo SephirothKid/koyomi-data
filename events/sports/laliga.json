@@ -14932,7 +14932,7 @@
       "year": 2026,
       "description": "比利亚雷亚尔 作客 桑坦德竞技（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
@@ -14950,8 +14950,15 @@
       "details": {
         "主场": "桑坦德竞技",
         "客场": "比利亚雷亚尔",
+        "比分": "桑坦德竞技 2 - 2 比利亚雷亚尔",
         "场馆": "El Sardineros",
         "城市": "Santander"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 2,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -14964,7 +14971,7 @@
       "year": 2026,
       "description": "莱万特 作客 西班牙人（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-16",
       "verified_by": "auto",
       "teams": {
@@ -14982,8 +14989,15 @@
       "details": {
         "主场": "西班牙人",
         "客场": "莱万特",
+        "比分": "西班牙人 3 - 0 莱万特",
         "场馆": "RCDE Stadium",
         "城市": "Barcelona"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
