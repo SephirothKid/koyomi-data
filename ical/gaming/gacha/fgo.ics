@@ -11,7 +11,7 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:fgo-fgo-2026-于春日的尾声等待你-activity@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260801T000000
+DTSTAMP:20260816T000000
 DTSTART;TZID=Asia/Shanghai:20260701T200000
 DTEND;TZID=Asia/Shanghai:20260722T125900
 SUMMARY:FGO 活动日历 · FGO 于春日的尾声等待你
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 UID:fgo-fgo-2026-冠位戴冠战Lancer开幕前夕纪念活动-activity@ko
  yomi.cast
 SEQUENCE:0
-DTSTAMP:20260801T000000
+DTSTAMP:20260816T000000
 DTSTART;TZID=Asia/Shanghai:20260702T190000
 DTEND;TZID=Asia/Shanghai:20260723T225900
 SUMMARY:FGO 活动日历 · FGO 「冠位戴冠战：Lancer」开幕前夕
@@ -262,7 +262,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fgo-fgo-2026-FateGrandOrder展占星回廊举-activity@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260801T000000
+DTSTAMP:20260816T000000
 DTSTART;TZID=Asia/Shanghai:20260711T000000
 DTEND;TZID=Asia/Shanghai:20260724T235900
 SUMMARY:FGO 活动日历 · FGO 「Fate/Grand Order展 -占星回廊-」
@@ -292,7 +292,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fgo-fgo-2026-FateGrandOrderFes202-activity@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260801T000000
+DTSTAMP:20260816T000000
 DTSTART;TZID=Asia/Shanghai:20260718T190000
 DTEND;TZID=Asia/Shanghai:20260808T095900
 SUMMARY:FGO 活动日历 · FGO 「Fate/Grand Order Fes. 2026 ～10th Anni
@@ -327,7 +327,7 @@ BEGIN:VEVENT
 UID:fgo-fgo-2026-总统特异点通关应援纪念活动第2弹-activity@k
  oyomi.cast
 SEQUENCE:0
-DTSTAMP:20260801T000000
+DTSTAMP:20260816T000000
 DTSTART;TZID=Asia/Shanghai:20260724T150000
 DTEND;TZID=Asia/Shanghai:20260902T135900
 SUMMARY:FGO 活动日历 · FGO 「总统特异点」通关应援纪念活
@@ -433,7 +433,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fgo-fgo-2026-FateGrandOrder10thAn-activity@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260801T000000
+DTSTAMP:20260816T000000
 DTSTART;TZID=Asia/Shanghai:20260729T120000
 DTEND;TZID=Asia/Shanghai:20260808T095900
 SUMMARY:FGO 活动日历 · FGO Fate/Grand Order ～10th Anniversary～
@@ -447,7 +447,7 @@ BEGIN:VEVENT
 UID:fgo-fgo-2026-冠位戴冠战Extra开幕前夕纪念活动-activity@koy
  omi.cast
 SEQUENCE:0
-DTSTAMP:20260801T000000
+DTSTAMP:20260816T000000
 DTSTART;TZID=Asia/Shanghai:20260729T120000
 DTEND;TZID=Asia/Shanghai:20260903T135900
 SUMMARY:FGO 活动日历 · FGO 「冠位戴冠战：Extra」开幕前夕
@@ -496,7 +496,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fgo-fgo-2026-FateGrandOrder11thAn-activity@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260801T000000
+DTSTAMP:20260816T000000
 DTSTART;TZID=Asia/Shanghai:20260801T090000
 DTEND;TZID=Asia/Shanghai:20260812T125900
 SUMMARY:FGO 活动日历 · FGO 「Fate/Grand Order ～11th Anniversary～
@@ -528,6 +528,19 @@ URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:fgo-fgo-2026-上线3600日纪念活动-activity@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260816T000000
+DTSTART;TZID=Asia/Shanghai:20260808T040000
+DTEND;TZID=Asia/Shanghai:20260809T035900
+SUMMARY:FGO 活动日历 · FGO 上线3600日纪念活动
+DESCRIPTION:FGO活动「上线3600日纪念活动」。\n\n版本: 上线3
+ 600日纪念活动\n类型: announcement
+CATEGORIES:FGO 活动日历
+URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:fgo-fgo-2026-迦勒底U夏日岛PassionlipSab-banner@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260816T000000
@@ -541,6 +554,22 @@ DESCRIPTION:FGO召唤「迦勒底·U－夏日岛 Passionlip(Saber)推荐
  sionlip(Saber)推荐召唤（角色）\n5星 UP: PassionlipSaber / 克里
  姆希尔德Rider / 风暴之夜 / 女帝的探索 / 如父 / 炼狱之夏
   / 素杂菜炒面 / 太阳小舟
+CATEGORIES:FGO 活动日历
+URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fgo-fgo-2026-迦勒底U夏日岛总统会梦见夏日吗-activity@koyo
+ mi.cast
+SEQUENCE:0
+DTSTAMP:20260816T000000
+DTSTART;TZID=Asia/Shanghai:20260808T150000
+DTEND;TZID=Asia/Shanghai:20260829T135900
+SUMMARY:FGO 活动日历 · FGO 迦勒底·U－夏日岛 ～总统会梦
+ 见夏日吗？～
+DESCRIPTION:FGO活动「迦勒底·U－夏日岛 ～总统会梦见夏日
+ 吗？～」。\n\n版本: 迦勒底·U－夏日岛 ～总统会梦见夏
+ 日吗？～\n类型: activity
 CATEGORIES:FGO 活动日历
 URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
 STATUS:CONFIRMED
@@ -582,6 +611,21 @@ URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:fgo-fgo-2026-FinalOrderProjectLos-activity@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260816T000000
+DTSTART;TZID=Asia/Shanghai:20260811T190000
+DTEND;TZID=Asia/Shanghai:20261031T135900
+SUMMARY:FGO 活动日历 · FGO Final Order Project [Lostbelt No.1]通关
+ 应援纪念活动
+DESCRIPTION:FGO活动「Final Order Project [Lostbelt No.1]通关应援纪
+ 念活动」。\n\n版本: Final Order Project [Lostbelt No.1]通关应援
+ 纪念活动\n类型: announcement
+CATEGORIES:FGO 活动日历
+URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:fgo-fgo-2026-迦勒底U夏日岛幼体提亚马特Archer推-banner@koy
  omi.cast
 SEQUENCE:0
@@ -617,6 +661,22 @@ DESCRIPTION:FGO召唤「迦勒底南海大决战！ 但丁·阿利吉耶
  P: 贝德维尔 / 耀星哈桑 / 但丁·阿利吉耶里 / マブイ・ロ
  ード / シープ・イズ・ザ・ゴート / わくわくざぶーん
  ～沖縄支店～
+CATEGORIES:FGO 活动日历
+URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fgo-fgo-2026-迦勒底南海大决战妖怪岛惊现谜之巨人身影
+ -activity@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260816T000000
+DTSTART;TZID=Asia/Shanghai:20260812T200000
+DTEND;TZID=Asia/Shanghai:20260902T125900
+SUMMARY:FGO 活动日历 · FGO 迦勒底南海大决战！ ～妖怪岛
+ 惊现谜之巨人身影～
+DESCRIPTION:FGO活动「迦勒底南海大决战！ ～妖怪岛惊现谜
+ 之巨人身影～」。\n\n版本: 迦勒底南海大决战！ ～妖怪
+ 岛惊现谜之巨人身影～\n类型: activity
 CATEGORIES:FGO 活动日历
 URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
 STATUS:CONFIRMED
