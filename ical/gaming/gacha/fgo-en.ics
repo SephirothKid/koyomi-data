@@ -783,11 +783,30 @@ URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:fgo-fgo-2026-迦勒底南海大决战推荐召唤5-banner@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260819T000000
+DTSTART;TZID=Asia/Shanghai:20260819T180000
+DTEND;TZID=Asia/Shanghai:20260902T125900
+SUMMARY:Fate/Grand Order Event Calendar · FGO 迦勒底南海大决战！
+ 推荐召唤5 Summoning
+DESCRIPTION:FGO Summoning「迦勒底南海大决战！推荐召唤5」.\n
+ \nVersion: 迦勒底南海大决战！推荐召唤5\nType: banner\n\nBanne
+ rs:\n1. 迦勒底南海大决战！推荐召唤5（Character）\n5-star ra
+ te-up: 弗兰肯斯坦Saber / 刑部姬 / 铃鹿御前〔暑假〕 / 安
+ 德洛墨达 / 豊穣の海 / サマー・アーマー / 幽世の使者 /
+  マブイ・ロード / シープ・イズ・ザ・ゴート / わくわ
+ くざぶーん～沖縄支店～
+CATEGORIES:Fate/Grand Order Event Calendar
+URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:fgo-fgo-2026-forecast-next-event@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260819T000000
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260924
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260925
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Fate/Grand Order Event Calendar · FGO Next Event Forecast Window

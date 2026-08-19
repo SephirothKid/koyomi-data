@@ -774,11 +774,30 @@ URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:fgo-fgo-2026-迦勒底南海大决战推荐召唤5-banner@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260819T000000
+DTSTART;TZID=Asia/Shanghai:20260819T180000
+DTEND;TZID=Asia/Shanghai:20260902T125900
+SUMMARY:FGO 活动日历 · FGO 迦勒底南海大决战！推荐召唤5 
+ 召唤
+DESCRIPTION:FGO召唤「迦勒底南海大决战！推荐召唤5」。\n\n
+ 版本: 迦勒底南海大决战！推荐召唤5\n类型: banner\n\n卡池
+ 信息：\n1. 迦勒底南海大决战！推荐召唤5（角色）\n5星 U
+ P: 弗兰肯斯坦Saber / 刑部姬 / 铃鹿御前〔暑假〕 / 安德洛
+ 墨达 / 豊穣の海 / サマー・アーマー / 幽世の使者 / マ
+ ブイ・ロード / シープ・イズ・ザ・ゴート / わくわく
+ ざぶーん～沖縄支店～
+CATEGORIES:FGO 活动日历
+URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:fgo-fgo-2026-forecast-next-event@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260819T000000
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260924
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260925
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:FGO 活动日历 · FGO 下一期活动预测窗口
