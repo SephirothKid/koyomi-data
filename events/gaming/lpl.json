@@ -7824,11 +7824,11 @@
         "label_zh": "败者组第1轮 2",
         "previous_matches": [
           {
-            "panda_match_id": "1422512",
+            "panda_match_id": "1422513",
             "type": "loser"
           },
           {
-            "panda_match_id": "1422513",
+            "panda_match_id": "1422512",
             "type": "loser"
           }
         ]
@@ -8025,11 +8025,11 @@
         "label_zh": "胜者组决赛",
         "previous_matches": [
           {
-            "panda_match_id": "1422516",
+            "panda_match_id": "1422517",
             "type": "winner"
           },
           {
-            "panda_match_id": "1422517",
+            "panda_match_id": "1422516",
             "type": "winner"
           }
         ]
@@ -10892,7 +10892,7 @@
       "name_en": "Group Ascend · JDG vs TT",
       "name_zh": "登峰组 · JDG vs TT",
       "date": "2026-08-20",
-      "time": "17:00",
+      "time": "17:07",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -10900,7 +10900,7 @@
       "description_en": "JD Gaming vs ThunderTalk Gaming — Group Ascend (CST)",
       "description_zh": "JD Gaming vs ThunderTalk Gaming — Group Ascend（北京时间）",
       "url": "https://www.twitch.tv/lplenglish",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-20",
       "verified_by": "official",
       "teams": {
@@ -10919,6 +10919,12 @@
           "image_url": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
         }
       },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
       "details": {
         "赛事": "LPL",
         "赛季": "Split 3 2026",
@@ -10932,7 +10938,7 @@
       "name_en": "Group Ascend · LGD vs BLG",
       "name_zh": "登峰组 · LGD vs BLG",
       "date": "2026-08-20",
-      "time": "19:00",
+      "time": "20:12",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -10940,7 +10946,7 @@
       "description_en": "LGD Gaming vs Bilibili Gaming — Group Ascend (CST)",
       "description_zh": "LGD Gaming vs Bilibili Gaming — Group Ascend（北京时间）",
       "url": "https://www.twitch.tv/lplenglish",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-20",
       "verified_by": "official",
       "teams": {
@@ -10958,6 +10964,12 @@
           "name_en": "Bilibili Gaming",
           "image_url": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
         }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
       },
       "details": {
         "赛事": "LPL",
