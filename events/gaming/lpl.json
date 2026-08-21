@@ -7824,11 +7824,11 @@
         "label_zh": "败者组第1轮 2",
         "previous_matches": [
           {
-            "panda_match_id": "1422512",
+            "panda_match_id": "1422513",
             "type": "loser"
           },
           {
-            "panda_match_id": "1422513",
+            "panda_match_id": "1422512",
             "type": "loser"
           }
         ]
@@ -8025,11 +8025,11 @@
         "label_zh": "胜者组决赛",
         "previous_matches": [
           {
-            "panda_match_id": "1422516",
+            "panda_match_id": "1422517",
             "type": "winner"
           },
           {
-            "panda_match_id": "1422517",
+            "panda_match_id": "1422516",
             "type": "winner"
           }
         ]
@@ -10984,15 +10984,15 @@
       "name_en": "Group Ascend · EDG vs TT",
       "name_zh": "登峰组 · EDG vs TT",
       "date": "2026-08-21",
-      "time": "15:00",
+      "time": "15:07",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "EDward Gaming vs ThunderTalk Gaming — Group Ascend（北京时间）",
       "description_en": "EDward Gaming vs ThunderTalk Gaming — Group Ascend (CST)",
       "description_zh": "EDward Gaming vs ThunderTalk Gaming — Group Ascend（北京时间）",
-      "url": "https://www.twitch.tv/lplenglish",
-      "status": "confirmed",
+      "url": "https://www.twitch.tv/toadamarillo",
+      "status": "completed",
       "last_verified": "2026-08-21",
       "verified_by": "official",
       "teams": {
@@ -11011,6 +11011,12 @@
           "image_url": "https://cdn-api.pandascore.co/images/team/image/128221/tt__2528_chinese_team_2529logo_square.png"
         }
       },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
       "details": {
         "赛事": "LPL",
         "赛季": "Split 3 2026",
@@ -11024,15 +11030,15 @@
       "name_en": "Group Ascend · AL vs WE",
       "name_zh": "登峰组 · AL vs WE",
       "date": "2026-08-21",
-      "time": "17:00",
+      "time": "17:21",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "Anyone's Legend vs Team WE — Group Ascend（北京时间）",
       "description_en": "Anyone's Legend vs Team WE — Group Ascend (CST)",
       "description_zh": "Anyone's Legend vs Team WE — Group Ascend（北京时间）",
-      "url": "https://www.twitch.tv/lplenglish",
-      "status": "confirmed",
+      "url": "https://www.twitch.tv/toadamarillo",
+      "status": "completed",
       "last_verified": "2026-08-21",
       "verified_by": "official",
       "teams": {
@@ -11051,6 +11057,12 @@
           "image_url": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
         }
       },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
       "details": {
         "赛事": "LPL",
         "赛季": "Split 3 2026",
@@ -11064,15 +11076,15 @@
       "name_en": "Group Ascend · TES vs BLG",
       "name_zh": "登峰组 · TES vs BLG",
       "date": "2026-08-21",
-      "time": "19:00",
+      "time": "20:28",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "Top Esports vs Bilibili Gaming — Group Ascend（北京时间）",
       "description_en": "Top Esports vs Bilibili Gaming — Group Ascend (CST)",
       "description_zh": "Top Esports vs Bilibili Gaming — Group Ascend（北京时间）",
-      "url": "https://www.twitch.tv/lplenglish",
-      "status": "confirmed",
+      "url": "https://www.twitch.tv/toadamarillo",
+      "status": "completed",
       "last_verified": "2026-08-21",
       "verified_by": "official",
       "teams": {
@@ -11090,6 +11102,12 @@
           "name_en": "Bilibili Gaming",
           "image_url": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
         }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
       },
       "details": {
         "赛事": "LPL",
