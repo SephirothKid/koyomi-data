@@ -10797,7 +10797,7 @@
       "description": "青岛海牛 作客 上海海港（中超 2026 赛季，北京时间）",
       "description_en": "Qingdao Hainiu at Shanghai Port (Chinese Super League 2026, Beijing time)",
       "url": "https://www.cfl-china.cn/zh/fixtures/details.html?match_id=87qvc4kn1otsz1jv4hwwr7310&competition_code=CSL&local_date=2026-08-23&home_contestant_id=5x5hvs5xtbbh8b0zg5ehyyudv&away_contestant_id=a3rgv4o76uowd2gxzx9pgf02d",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-08-23",
       "verified_by": "auto",
       "teams": {
@@ -10821,6 +10821,7 @@
         "轮次": "第 24 轮",
         "主场": "上海海港",
         "客场": "青岛海牛",
+        "比分": "上海海港 2 - 1 青岛海牛",
         "场馆": "上汽浦东足球场"
       },
       "details_en": {
@@ -10828,7 +10829,15 @@
         "Round": "Round 24",
         "Home": "Shanghai Port",
         "Away": "Qingdao Hainiu",
+        "Score": "Shanghai Port 2 - 1 Qingdao Hainiu",
         "Venue": "SAIC Motor Pudong Arena"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT",
+        "score": "2 - 1"
       }
     },
     {
@@ -10845,7 +10854,7 @@
       "description": "大连英博海发 作客 重庆铜梁龙（中超 2026 赛季，北京时间）",
       "description_en": "Dalian Yingbo at Chongqing Tonglianglong (Chinese Super League 2026, Beijing time)",
       "url": "https://www.cfl-china.cn/zh/fixtures/details.html?match_id=88km3rw2kjz9y134ph7id0j6c&competition_code=CSL&local_date=2026-08-23&home_contestant_id=cjnb1ayk5mruxqpud9qmy4t1w&away_contestant_id=dicpumaiand6vk7vqbn4tqdxw",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-08-23",
       "verified_by": "auto",
       "teams": {
@@ -10869,6 +10878,7 @@
         "轮次": "第 24 轮",
         "主场": "重庆铜梁龙",
         "客场": "大连英博海发",
+        "比分": "重庆铜梁龙 0 - 1 大连英博海发",
         "场馆": "重庆龙兴足球场"
       },
       "details_en": {
@@ -10876,7 +10886,15 @@
         "Round": "Round 24",
         "Home": "Chongqing Tonglianglong",
         "Away": "Dalian Yingbo",
+        "Score": "Chongqing Tonglianglong 0 - 1 Dalian Yingbo",
         "Venue": "Chongqing Longxing Football Stadium"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT",
+        "score": "0 - 1"
       }
     },
     {

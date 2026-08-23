@@ -12195,7 +12195,7 @@
       "year": 2026,
       "description": "里尔 作客 昂热（法甲 2026-27 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-23",
       "verified_by": "auto",
       "teams": {
@@ -12213,8 +12213,15 @@
       "details": {
         "主场": "昂热",
         "客场": "里尔",
+        "比分": "昂热 0 - 2 里尔",
         "场馆": "Stade Raymond Kopa",
         "城市": "Angers"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -12227,7 +12234,7 @@
       "year": 2026,
       "description": "摩纳哥 作客 勒阿弗尔（法甲 2026-27 赛季，北京时间）",
       "url": "https://www.ligue1.com/fixtures-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-23",
       "verified_by": "auto",
       "teams": {
@@ -12245,8 +12252,15 @@
       "details": {
         "主场": "勒阿弗尔",
         "客场": "摩纳哥",
+        "比分": "勒阿弗尔 0 - 1 摩纳哥",
         "场馆": "Stade Océane",
         "城市": "Le Havre"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
