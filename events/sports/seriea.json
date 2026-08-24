@@ -15166,7 +15166,7 @@
       "year": 2026,
       "description": "拉齐奥 作客 博洛尼亚（意甲 2026-27 赛季，北京时间）",
       "url": "https://www.legaseriea.it/en/serie-a/fixture-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-24",
       "verified_by": "auto",
       "teams": {
@@ -15184,8 +15184,15 @@
       "details": {
         "主场": "博洛尼亚",
         "客场": "拉齐奥",
+        "比分": "博洛尼亚 0 - 1 拉齐奥",
         "场馆": "Renato Dall'Ara",
         "城市": "Bologna"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -15928,7 +15935,7 @@
       "id": "seriea-2026-401874750",
       "name": "意甲 · 尤文图斯 @ 萨索洛",
       "date": "2026-09-13",
-      "time": "00:00",
+      "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -15986,70 +15993,6 @@
         "客场": "卡利亚里",
         "场馆": "New Balance Arena",
         "城市": "Bergamo"
-      }
-    },
-    {
-      "id": "seriea-2026-401874950",
-      "name": "意甲 · 罗马 @ 都灵",
-      "date": "2026-09-13",
-      "time": "18:30",
-      "timezone": "Asia/Shanghai",
-      "type": "event",
-      "year": 2026,
-      "description": "罗马 作客 都灵（意甲 2026-27 赛季，北京时间）",
-      "url": "https://www.legaseriea.it/en/serie-a/fixture-results",
-      "status": "confirmed",
-      "last_verified": "2026-08-24",
-      "verified_by": "auto",
-      "teams": {
-        "home": {
-          "id": "tor",
-          "code": "TOR",
-          "name": "都灵"
-        },
-        "away": {
-          "id": "roma",
-          "code": "ROMA",
-          "name": "罗马"
-        }
-      },
-      "details": {
-        "主场": "都灵",
-        "客场": "罗马",
-        "场馆": "Stadio Olimpico Grande Torino",
-        "城市": "Torino"
-      }
-    },
-    {
-      "id": "seriea-2026-401874933",
-      "name": "意甲 · 帕尔马 @ 科莫",
-      "date": "2026-09-13",
-      "time": "21:00",
-      "timezone": "Asia/Shanghai",
-      "type": "event",
-      "year": 2026,
-      "description": "帕尔马 作客 科莫（意甲 2026-27 赛季，北京时间）",
-      "url": "https://www.legaseriea.it/en/serie-a/fixture-results",
-      "status": "confirmed",
-      "last_verified": "2026-08-24",
-      "verified_by": "auto",
-      "teams": {
-        "home": {
-          "id": "como",
-          "code": "COMO",
-          "name": "科莫"
-        },
-        "away": {
-          "id": "par",
-          "code": "PAR",
-          "name": "帕尔马"
-        }
-      },
-      "details": {
-        "主场": "科莫",
-        "客场": "帕尔马",
-        "场馆": "Giuseppe Sinigaglia",
-        "城市": "Como"
       }
     },
     {
@@ -16117,10 +16060,42 @@
       }
     },
     {
+      "id": "seriea-2026-401874933",
+      "name": "意甲 · 帕尔马 @ 科莫",
+      "date": "2026-09-14",
+      "time": "02:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "帕尔马 作客 科莫（意甲 2026-27 赛季，北京时间）",
+      "url": "https://www.legaseriea.it/en/serie-a/fixture-results",
+      "status": "confirmed",
+      "last_verified": "2026-08-24",
+      "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "como",
+          "code": "COMO",
+          "name": "科莫"
+        },
+        "away": {
+          "id": "par",
+          "code": "PAR",
+          "name": "帕尔马"
+        }
+      },
+      "details": {
+        "主场": "科莫",
+        "客场": "帕尔马",
+        "场馆": "Giuseppe Sinigaglia",
+        "城市": "Como"
+      }
+    },
+    {
       "id": "seriea-2026-401874941",
       "name": "意甲 · AC米兰 @ 拉齐奥",
       "date": "2026-09-14",
-      "time": "02:45",
+      "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -16146,6 +16121,38 @@
         "客场": "AC米兰",
         "场馆": "Olimpico",
         "城市": "Roma"
+      }
+    },
+    {
+      "id": "seriea-2026-401874950",
+      "name": "意甲 · 罗马 @ 都灵",
+      "date": "2026-09-14",
+      "time": "02:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "罗马 作客 都灵（意甲 2026-27 赛季，北京时间）",
+      "url": "https://www.legaseriea.it/en/serie-a/fixture-results",
+      "status": "confirmed",
+      "last_verified": "2026-08-24",
+      "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "tor",
+          "code": "TOR",
+          "name": "都灵"
+        },
+        "away": {
+          "id": "roma",
+          "code": "ROMA",
+          "name": "罗马"
+        }
+      },
+      "details": {
+        "主场": "都灵",
+        "客场": "罗马",
+        "场馆": "Stadio Olimpico Grande Torino",
+        "城市": "Torino"
       }
     },
     {

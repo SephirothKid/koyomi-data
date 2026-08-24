@@ -136,8 +136,9 @@ DTSTART;TZID=Asia/Shanghai:20260825T003000
 DTEND;TZID=Asia/Shanghai:20260825T013000
 SUMMARY:Serie A Schedule · 意甲 · 拉齐奥 @ 博洛尼亚
 DESCRIPTION:拉齐奥 作客 博洛尼亚（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 博洛尼亚\n客场: 拉齐奥\n场馆: Renato Dall'
- Ara\n城市: Bologna
+ 时间）\n\nScore: 博洛尼亚 0 - 1 拉齐奥\n\n主场: 博洛尼亚\n
+ 客场: 拉齐奥\n比分: 博洛尼亚 0 - 1 拉齐奥\n场馆: Renato Da
+ ll'Ara\n城市: Bologna
 CATEGORIES:Serie A Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -467,8 +468,8 @@ BEGIN:VEVENT
 UID:seriea-seriea-2026-401874750@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260824T000000
-DTSTART;TZID=Asia/Shanghai:20260913T000000
-DTEND;TZID=Asia/Shanghai:20260913T010000
+DTSTART;TZID=Asia/Shanghai:20260913T020000
+DTEND;TZID=Asia/Shanghai:20260913T030000
 SUMMARY:Serie A Schedule · 意甲 · 尤文图斯 @ 萨索洛
 DESCRIPTION:尤文图斯 作客 萨索洛（意甲 2026-27 赛季，北京
  时间）\n\n主场: 萨索洛\n客场: 尤文图斯\n场馆: Mapei Stadiu
@@ -487,34 +488,6 @@ SUMMARY:Serie A Schedule · 意甲 · 卡利亚里 @ 亚特兰大
 DESCRIPTION:卡利亚里 作客 亚特兰大（意甲 2026-27 赛季，北
  京时间）\n\n主场: 亚特兰大\n客场: 卡利亚里\n场馆: New Ba
  lance Arena\n城市: Bergamo
-CATEGORIES:Serie A Schedule
-URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:seriea-seriea-2026-401874950@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260824T000000
-DTSTART;TZID=Asia/Shanghai:20260913T183000
-DTEND;TZID=Asia/Shanghai:20260913T193000
-SUMMARY:Serie A Schedule · 意甲 · 罗马 @ 都灵
-DESCRIPTION:罗马 作客 都灵（意甲 2026-27 赛季，北京时间）
- \n\n主场: 都灵\n客场: 罗马\n场馆: Stadio Olimpico Grande Torino\
- n城市: Torino
-CATEGORIES:Serie A Schedule
-URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:seriea-seriea-2026-401874933@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260824T000000
-DTSTART;TZID=Asia/Shanghai:20260913T210000
-DTEND;TZID=Asia/Shanghai:20260913T220000
-SUMMARY:Serie A Schedule · 意甲 · 帕尔马 @ 科莫
-DESCRIPTION:帕尔马 作客 科莫（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 科莫\n客场: 帕尔马\n场馆: Giuseppe Sinigaglia\n城
- 市: Como
 CATEGORIES:Serie A Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -547,15 +520,43 @@ URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:seriea-seriea-2026-401874933@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260824T000000
+DTSTART;TZID=Asia/Shanghai:20260914T020000
+DTEND;TZID=Asia/Shanghai:20260914T030000
+SUMMARY:Serie A Schedule · 意甲 · 帕尔马 @ 科莫
+DESCRIPTION:帕尔马 作客 科莫（意甲 2026-27 赛季，北京时间
+ ）\n\n主场: 科莫\n客场: 帕尔马\n场馆: Giuseppe Sinigaglia\n城
+ 市: Como
+CATEGORIES:Serie A Schedule
+URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:seriea-seriea-2026-401874941@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260824T000000
-DTSTART;TZID=Asia/Shanghai:20260914T024500
-DTEND;TZID=Asia/Shanghai:20260914T034500
+DTSTART;TZID=Asia/Shanghai:20260914T020000
+DTEND;TZID=Asia/Shanghai:20260914T030000
 SUMMARY:Serie A Schedule · 意甲 · AC米兰 @ 拉齐奥
 DESCRIPTION:AC米兰 作客 拉齐奥（意甲 2026-27 赛季，北京时
  间）\n\n主场: 拉齐奥\n客场: AC米兰\n场馆: Olimpico\n城市: R
  oma
+CATEGORIES:Serie A Schedule
+URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:seriea-seriea-2026-401874950@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260824T000000
+DTSTART;TZID=Asia/Shanghai:20260914T020000
+DTEND;TZID=Asia/Shanghai:20260914T030000
+SUMMARY:Serie A Schedule · 意甲 · 罗马 @ 都灵
+DESCRIPTION:罗马 作客 都灵（意甲 2026-27 赛季，北京时间）
+ \n\n主场: 都灵\n客场: 罗马\n场馆: Stadio Olimpico Grande Torino\
+ n城市: Torino
 CATEGORIES:Serie A Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
