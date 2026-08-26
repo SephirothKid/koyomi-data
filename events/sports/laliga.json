@@ -15517,7 +15517,7 @@
       "year": 2026,
       "description": "皇家社会 作客 皇家马德里（西甲 2026-27 赛季，北京时间）",
       "url": "https://www.laliga.com/laliga-ea-sports",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-26",
       "verified_by": "auto",
       "teams": {
@@ -15535,8 +15535,15 @@
       "details": {
         "主场": "皇家马德里",
         "客场": "皇家社会",
+        "比分": "皇家马德里 4 - 1 皇家社会",
         "场馆": "Santiago Bernabéu",
         "城市": "Madrid"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
