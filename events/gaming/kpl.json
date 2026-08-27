@@ -12518,7 +12518,7 @@
       "description_en": "EDward Gaming vs LGD NBW — Playoffs (CST)",
       "description_zh": "EDward Gaming vs LGD NBW — Playoffs（北京时间）",
       "url": "https://www.youtube.com/watch?v=SVLb42UGYX4",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-08-27",
       "verified_by": "official",
       "teams": {
@@ -12538,10 +12538,10 @@
         }
       },
       "result": {
-        "away_score": 3,
+        "away_score": 4,
         "home_score": 1,
         "winner": "away",
-        "status": "active"
+        "status": "completed"
       },
       "details": {
         "赛事": "King Pro League",
@@ -12716,6 +12716,63 @@
         "label_en": "Upper Semifinal 2",
         "label_zh": "胜者组四强 2",
         "previous_matches": []
+      }
+    },
+    {
+      "id": "kpl-2026-m1643660",
+      "name": "季后赛 · WB vs EDG",
+      "name_en": "Playoffs · WB vs EDG",
+      "name_zh": "季后赛 · WB vs EDG",
+      "date": "2026-08-31",
+      "time": "18:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Weibo Gaming vs EDward Gaming — Playoffs（北京时间）",
+      "description_en": "Weibo Gaming vs EDward Gaming — Playoffs (CST)",
+      "description_zh": "Weibo Gaming vs EDward Gaming — Playoffs（北京时间）",
+      "url": "https://www.twitch.tv/hok_esports_kpl",
+      "status": "confirmed",
+      "last_verified": "2026-08-27",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "weibo-gaming",
+          "code": "WB",
+          "name": "Weibo Gaming",
+          "name_en": "Weibo Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/129046/190px_weibo_gaming_logo.png"
+        },
+        "home": {
+          "id": "edward-gaming-kog",
+          "code": "EDG",
+          "name": "EDward Gaming",
+          "name_en": "EDward Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/129032/181px_e_dward_gaming_mobile_logo.png"
+        }
+      },
+      "details": {
+        "赛事": "King Pro League",
+        "赛季": "Summer 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO7"
+      },
+      "bracket": {
+        "tournament_id": "21729",
+        "panda_match_id": "1643660",
+        "lane": "lower",
+        "round_key": "lower_r2",
+        "round_order": 1,
+        "slot_index": 0,
+        "label": "败者组第2轮 1",
+        "label_en": "Lower Round 2 · Match 1",
+        "label_zh": "败者组第2轮 1",
+        "previous_matches": [
+          {
+            "panda_match_id": "1643658",
+            "type": "winner"
+          }
+        ]
       }
     },
     {
