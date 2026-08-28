@@ -10911,7 +10911,7 @@
       "description": "北京国安 作客 大连英博海发（中超 2026 赛季，北京时间）",
       "description_en": "Beijing Guoan at Dalian Yingbo (Chinese Super League 2026, Beijing time)",
       "url": "https://www.cfl-china.cn/zh/fixtures/details.html?match_id=8952g91y1l2aa5mfvok8d1puc&competition_code=CSL&local_date=2026-08-28&home_contestant_id=dicpumaiand6vk7vqbn4tqdxw&away_contestant_id=exq7je02eprk5fcre1uo9zwbi",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-08-28",
       "verified_by": "auto",
       "teams": {
@@ -10935,6 +10935,7 @@
         "轮次": "第 25 轮",
         "主场": "大连英博海发",
         "客场": "北京国安",
+        "比分": "大连英博海发 1 - 1 北京国安",
         "场馆": "大连梭鱼湾足球场"
       },
       "details_en": {
@@ -10942,7 +10943,15 @@
         "Round": "Round 25",
         "Home": "Dalian Yingbo",
         "Away": "Beijing Guoan",
+        "Score": "Dalian Yingbo 1 - 1 Beijing Guoan",
         "Venue": "Dalian Suoyuwan Football Stadium"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT",
+        "score": "1 - 1"
       }
     },
     {
@@ -10959,7 +10968,7 @@
       "description": "山东泰山 作客 上海申花（中超 2026 赛季，北京时间）",
       "description_en": "Shandong Taishan at Shanghai Shenhua (Chinese Super League 2026, Beijing time)",
       "url": "https://www.cfl-china.cn/zh/fixtures/details.html?match_id=8bvscv1w5kthdhmkb6m9w2tjo&competition_code=CSL&local_date=2026-08-28&home_contestant_id=cvx4yvx5oby9dz7vm70mw04um&away_contestant_id=7fqhid43axyzp47bihoqhqdbf",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-08-28",
       "verified_by": "auto",
       "teams": {
@@ -10983,6 +10992,7 @@
         "轮次": "第 25 轮",
         "主场": "上海申花",
         "客场": "山东泰山",
+        "比分": "上海申花 2 - 3 山东泰山",
         "场馆": "上海体育场"
       },
       "details_en": {
@@ -10990,7 +11000,15 @@
         "Round": "Round 25",
         "Home": "Shanghai Shenhua",
         "Away": "Shandong Taishan",
+        "Score": "Shanghai Shenhua 2 - 3 Shandong Taishan",
         "Venue": "Shanghai Stadium"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT",
+        "score": "2 - 3"
       }
     },
     {
@@ -11007,7 +11025,7 @@
       "description": "上海海港 作客 深圳新鹏城（中超 2026 赛季，北京时间）",
       "description_en": "Shanghai Port at Shenzhen Peng City (Chinese Super League 2026, Beijing time)",
       "url": "https://www.cfl-china.cn/zh/fixtures/details.html?match_id=89omc5gj9js7icllae9zqutck&competition_code=CSL&local_date=2026-08-28&home_contestant_id=a1a0zo3jliehxemg6qpa3lrva&away_contestant_id=5x5hvs5xtbbh8b0zg5ehyyudv",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-08-28",
       "verified_by": "auto",
       "teams": {
@@ -11031,6 +11049,7 @@
         "轮次": "第 25 轮",
         "主场": "深圳新鹏城",
         "客场": "上海海港",
+        "比分": "深圳新鹏城 0 - 1 上海海港",
         "场馆": "深圳市体育场"
       },
       "details_en": {
@@ -11038,7 +11057,15 @@
         "Round": "Round 25",
         "Home": "Shenzhen Peng City",
         "Away": "Shanghai Port",
+        "Score": "Shenzhen Peng City 0 - 1 Shanghai Port",
         "Venue": "Shenzhen Stadium"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT",
+        "score": "0 - 1"
       }
     },
     {
