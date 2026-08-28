@@ -12783,35 +12783,35 @@
     },
     {
       "id": "kpl-2026-m1643661",
-      "name": "季后赛 · RW vs AG.SP",
-      "name_en": "Playoffs · RW vs AG.SP",
-      "name_zh": "季后赛 · RW vs AG.SP",
+      "name": "季后赛 · AG.SP vs RW",
+      "name_en": "Playoffs · AG.SP vs RW",
+      "name_zh": "季后赛 · AG.SP vs RW",
       "date": "2026-09-01",
       "time": "18:30",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Rogue Warriors vs AG Super Play — Playoffs（北京时间）",
-      "description_en": "Rogue Warriors vs AG Super Play — Playoffs (CST)",
-      "description_zh": "Rogue Warriors vs AG Super Play — Playoffs（北京时间）",
+      "description": "AG Super Play vs Rogue Warriors — Playoffs（北京时间）",
+      "description_en": "AG Super Play vs Rogue Warriors — Playoffs (CST)",
+      "description_zh": "AG Super Play vs Rogue Warriors — Playoffs（北京时间）",
       "url": "https://www.twitch.tv/hok_esports_kpl",
       "status": "confirmed",
       "last_verified": "2026-08-28",
       "verified_by": "official",
       "teams": {
         "away": {
-          "id": "rogue-warriors-kog",
-          "code": "RW",
-          "name": "Rogue Warriors",
-          "name_en": "Rogue Warriors",
-          "image_url": "https://cdn-api.pandascore.co/images/team/image/129039/190px_rogue_warriors_2020_allmode.png"
-        },
-        "home": {
           "id": "ag-super-play",
           "code": "AG.SP",
           "name": "AG Super Play",
           "name_en": "AG Super Play",
           "image_url": "https://cdn-api.pandascore.co/images/team/image/129030/190px_all_gamers_logo.png"
+        },
+        "home": {
+          "id": "rogue-warriors-kog",
+          "code": "RW",
+          "name": "Rogue Warriors",
+          "name_en": "Rogue Warriors",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/129039/190px_rogue_warriors_2020_allmode.png"
         }
       },
       "details": {

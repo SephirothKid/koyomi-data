@@ -518,6 +518,20 @@ URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:fgo-fgo-2026-3200万下载突破纪念活动-activity@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260828T000000
+DTSTART;TZID=Asia/Shanghai:20260829T190000
+DTEND;TZID=Asia/Shanghai:20260912T135900
+SUMMARY:Fate/Grand Order Event Calendar · FGO 3200万下载突破纪念
+ 活动
+DESCRIPTION:FGO Event「3200万下载突破纪念活动」.\n\nVersion: 32
+ 00万下载突破纪念活动\nType: announcement
+CATEGORIES:Fate/Grand Order Event Calendar
+URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:fgo-fgo-2026-3200万下载纪念摩根推荐召唤-banner@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260828T000000
@@ -537,8 +551,8 @@ BEGIN:VEVENT
 UID:fgo-fgo-2026-forecast-next-event@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260828T000000
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20261005
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261123
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Fate/Grand Order Event Calendar · FGO Next Event Forecast Window
