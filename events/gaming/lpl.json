@@ -11510,7 +11510,7 @@
       "description_en": "Top Esports vs LGD Gaming — Playoffs (CST)",
       "description_zh": "Top Esports vs LGD Gaming — Playoffs（北京时间）",
       "url": "https://www.twitch.tv/lplenglish",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-08-29",
       "verified_by": "official",
       "teams": {
@@ -11528,6 +11528,12 @@
           "name_en": "LGD Gaming",
           "image_url": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
         }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 3,
+        "winner": "home",
+        "status": "completed"
       },
       "details": {
         "赛事": "LPL",
@@ -11598,6 +11604,120 @@
         "label_en": "Upper Quarterfinal 2",
         "label_zh": "胜者组八强 2",
         "previous_matches": []
+      }
+    },
+    {
+      "id": "lpl-2026-m1643090",
+      "name": "季后赛 · AL vs LGD",
+      "name_en": "Playoffs · AL vs LGD",
+      "name_zh": "季后赛 · AL vs LGD",
+      "date": "2026-09-04",
+      "time": "17:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Anyone's Legend vs LGD Gaming — Playoffs（北京时间）",
+      "description_en": "Anyone's Legend vs LGD Gaming — Playoffs (CST)",
+      "description_zh": "Anyone's Legend vs LGD Gaming — Playoffs（北京时间）",
+      "url": "https://www.twitch.tv/lplenglish",
+      "status": "confirmed",
+      "last_verified": "2026-08-29",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "anyone-s-legend",
+          "code": "AL",
+          "name": "Anyone's Legend",
+          "name_en": "Anyone's Legend",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
+        },
+        "home": {
+          "id": "lgd-gaming",
+          "code": "LGD",
+          "name": "LGD Gaming",
+          "name_en": "LGD Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png"
+        }
+      },
+      "details": {
+        "赛事": "LPL",
+        "赛季": "Split 3 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5"
+      },
+      "bracket": {
+        "tournament_id": "21726",
+        "panda_match_id": "1643090",
+        "lane": "upper",
+        "round_key": "semifinal",
+        "round_order": 1,
+        "slot_index": 0,
+        "label": "胜者组四强 1",
+        "label_en": "Upper Semifinal 1",
+        "label_zh": "胜者组四强 1",
+        "previous_matches": [
+          {
+            "panda_match_id": "1643088",
+            "type": "winner"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lpl-2026-m1643094",
+      "name": "季后赛 · IG vs TES",
+      "name_en": "Playoffs · IG vs TES",
+      "name_zh": "季后赛 · IG vs TES",
+      "date": "2026-09-05",
+      "time": "14:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Invictus Gaming vs Top Esports — Playoffs（北京时间）",
+      "description_en": "Invictus Gaming vs Top Esports — Playoffs (CST)",
+      "description_zh": "Invictus Gaming vs Top Esports — Playoffs（北京时间）",
+      "url": "https://www.twitch.tv/lplenglish",
+      "status": "confirmed",
+      "last_verified": "2026-08-29",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "invictus-gaming",
+          "code": "IG",
+          "name": "Invictus Gaming",
+          "name_en": "Invictus Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
+        },
+        "home": {
+          "id": "top-esports",
+          "code": "TES",
+          "name": "Top Esports",
+          "name_en": "Top Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
+        }
+      },
+      "details": {
+        "赛事": "LPL",
+        "赛季": "Split 3 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5"
+      },
+      "bracket": {
+        "tournament_id": "21726",
+        "panda_match_id": "1643094",
+        "lane": "lower",
+        "round_key": "r1",
+        "round_order": 0,
+        "slot_index": 0,
+        "label": "败者组第1轮 1",
+        "label_en": "Lower Round 1 · Match 1",
+        "label_zh": "败者组第1轮 1",
+        "previous_matches": [
+          {
+            "panda_match_id": "1643088",
+            "type": "loser"
+          }
+        ]
       }
     },
     {
