@@ -16849,7 +16849,7 @@
       "description": "诺丁汉森林 作客 利物浦（英超 2026-27 赛季，北京时间）",
       "description_en": "Nottingham Forest at Liverpool (Premier League 2026-27, Beijing time)",
       "url": "https://www.premierleague.com/fixtures",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-29",
       "verified_by": "auto",
       "teams": {
@@ -16869,8 +16869,15 @@
       "details": {
         "主场": "利物浦",
         "客场": "诺丁汉森林",
+        "比分": "利物浦 2 - 2 诺丁汉森林",
         "场馆": "Anfield",
         "城市": "Liverpool"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 2,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -16885,7 +16892,7 @@
       "description": "埃弗顿 作客 伯恩茅斯（英超 2026-27 赛季，北京时间）",
       "description_en": "Everton at AFC Bournemouth (Premier League 2026-27, Beijing time)",
       "url": "https://www.premierleague.com/fixtures",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-29",
       "verified_by": "auto",
       "teams": {
@@ -16905,8 +16912,15 @@
       "details": {
         "主场": "伯恩茅斯",
         "客场": "埃弗顿",
+        "比分": "伯恩茅斯 1 - 1 埃弗顿",
         "场馆": "Vitality Stadium",
         "城市": "Bournemouth"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -16921,7 +16935,7 @@
       "description": "赫尔城 作客 考文垂（英超 2026-27 赛季，北京时间）",
       "description_en": "Hull City at Coventry City (Premier League 2026-27, Beijing time)",
       "url": "https://www.premierleague.com/fixtures",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-29",
       "verified_by": "auto",
       "teams": {
@@ -16941,8 +16955,15 @@
       "details": {
         "主场": "考文垂",
         "客场": "赫尔城",
+        "比分": "考文垂 0 - 1 赫尔城",
         "场馆": "Coventry Building Society Arena",
         "城市": "Coventry"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -16957,7 +16978,7 @@
       "description": "纽卡斯尔联 作客 热刺（英超 2026-27 赛季，北京时间）",
       "description_en": "Newcastle United at Tottenham Hotspur (Premier League 2026-27, Beijing time)",
       "url": "https://www.premierleague.com/fixtures",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-29",
       "verified_by": "auto",
       "teams": {
@@ -16977,8 +16998,15 @@
       "details": {
         "主场": "热刺",
         "客场": "纽卡斯尔联",
+        "比分": "热刺 0 - 2 纽卡斯尔联",
         "场馆": "Tottenham Hotspur Stadium",
         "城市": "London"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -18134,42 +18162,6 @@
       }
     },
     {
-      "id": "epl-2026-401879272",
-      "name": "英超 · 桑德兰 @ 曼城",
-      "name_en": "Premier League · Sunderland @ Manchester City",
-      "date": "2026-09-20",
-      "time": "21:00",
-      "timezone": "Asia/Shanghai",
-      "type": "event",
-      "year": 2026,
-      "description": "桑德兰 作客 曼城（英超 2026-27 赛季，北京时间）",
-      "description_en": "Sunderland at Manchester City (Premier League 2026-27, Beijing time)",
-      "url": "https://www.premierleague.com/fixtures",
-      "status": "confirmed",
-      "last_verified": "2026-08-29",
-      "verified_by": "auto",
-      "teams": {
-        "home": {
-          "id": "mnc",
-          "code": "MNC",
-          "name": "曼城",
-          "name_en": "Manchester City"
-        },
-        "away": {
-          "id": "sun",
-          "code": "SUN",
-          "name": "桑德兰",
-          "name_en": "Sunderland"
-        }
-      },
-      "details": {
-        "主场": "曼城",
-        "客场": "桑德兰",
-        "场馆": "Etihad Stadium",
-        "城市": "Manchester"
-      }
-    },
-    {
       "id": "epl-2026-401879276",
       "name": "英超 · 利物浦 @ 伯恩茅斯",
       "name_en": "Premier League · Liverpool @ AFC Bournemouth",
@@ -18203,6 +18195,42 @@
         "客场": "利物浦",
         "场馆": "Vitality Stadium",
         "城市": "Bournemouth"
+      }
+    },
+    {
+      "id": "epl-2026-401879272",
+      "name": "英超 · 桑德兰 @ 曼城",
+      "name_en": "Premier League · Sunderland @ Manchester City",
+      "date": "2026-09-20",
+      "time": "21:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "桑德兰 作客 曼城（英超 2026-27 赛季，北京时间）",
+      "description_en": "Sunderland at Manchester City (Premier League 2026-27, Beijing time)",
+      "url": "https://www.premierleague.com/fixtures",
+      "status": "confirmed",
+      "last_verified": "2026-08-29",
+      "verified_by": "auto",
+      "teams": {
+        "home": {
+          "id": "mnc",
+          "code": "MNC",
+          "name": "曼城",
+          "name_en": "Manchester City"
+        },
+        "away": {
+          "id": "sun",
+          "code": "SUN",
+          "name": "桑德兰",
+          "name_en": "Sunderland"
+        }
+      },
+      "details": {
+        "主场": "曼城",
+        "客场": "桑德兰",
+        "场馆": "Etihad Stadium",
+        "城市": "Manchester"
       }
     },
     {

@@ -191,8 +191,9 @@ DTEND;TZID=Asia/Shanghai:20260829T203000
 SUMMARY:Premier League Schedule · Premier League · Nottingham Forest @ L
  iverpool
 DESCRIPTION:Nottingham Forest at Liverpool (Premier League 2026-27\, Beiji
- ng time)\n\n主场: 利物浦\n客场: 诺丁汉森林\n场馆: Anfield\n
- 城市: Liverpool
+ ng time)\n\nScore: 利物浦 2 - 2 诺丁汉森林\n\n主场: 利物浦\n
+ 客场: 诺丁汉森林\n比分: 利物浦 2 - 2 诺丁汉森林\n场馆: 
+ Anfield\n城市: Liverpool
 CATEGORIES:Premier League Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
@@ -206,8 +207,9 @@ DTEND;TZID=Asia/Shanghai:20260829T230000
 SUMMARY:Premier League Schedule · Premier League · Everton @ AFC Bournem
  outh
 DESCRIPTION:Everton at AFC Bournemouth (Premier League 2026-27\, Beijing t
- ime)\n\n主场: 伯恩茅斯\n客场: 埃弗顿\n场馆: Vitality Stadium\
- n城市: Bournemouth
+ ime)\n\nScore: 伯恩茅斯 1 - 1 埃弗顿\n\n主场: 伯恩茅斯\n客
+ 场: 埃弗顿\n比分: 伯恩茅斯 1 - 1 埃弗顿\n场馆: Vitality Sta
+ dium\n城市: Bournemouth
 CATEGORIES:Premier League Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
@@ -221,8 +223,9 @@ DTEND;TZID=Asia/Shanghai:20260829T230000
 SUMMARY:Premier League Schedule · Premier League · Hull City @ Coventry 
  City
 DESCRIPTION:Hull City at Coventry City (Premier League 2026-27\, Beijing t
- ime)\n\n主场: 考文垂\n客场: 赫尔城\n场馆: Coventry Building So
- ciety Arena\n城市: Coventry
+ ime)\n\nScore: 考文垂 0 - 1 赫尔城\n\n主场: 考文垂\n客场: 赫
+ 尔城\n比分: 考文垂 0 - 1 赫尔城\n场馆: Coventry Building Socie
+ ty Arena\n城市: Coventry
 CATEGORIES:Premier League Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
@@ -236,8 +239,9 @@ DTEND;TZID=Asia/Shanghai:20260830T013000
 SUMMARY:Premier League Schedule · Premier League · Newcastle United @ To
  ttenham Hotspur
 DESCRIPTION:Newcastle United at Tottenham Hotspur (Premier League 2026-27\
- , Beijing time)\n\n主场: 热刺\n客场: 纽卡斯尔联\n场馆: Totten
- ham Hotspur Stadium\n城市: London
+ , Beijing time)\n\nScore: 热刺 0 - 2 纽卡斯尔联\n\n主场: 热刺\n
+ 客场: 纽卡斯尔联\n比分: 热刺 0 - 2 纽卡斯尔联\n场馆: Tot
+ tenham Hotspur Stadium\n城市: London
 CATEGORIES:Premier League Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
@@ -715,21 +719,6 @@ URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:epl-epl-2026-401879272@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260829T000000
-DTSTART;TZID=Asia/Shanghai:20260920T210000
-DTEND;TZID=Asia/Shanghai:20260920T220000
-SUMMARY:Premier League Schedule · Premier League · Sunderland @ Manchest
- er City
-DESCRIPTION:Sunderland at Manchester City (Premier League 2026-27\, Beijin
- g time)\n\n主场: 曼城\n客场: 桑德兰\n场馆: Etihad Stadium\n城
- 市: Manchester
-CATEGORIES:Premier League Schedule
-URL;VALUE=URI:https://www.premierleague.com/fixtures
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:epl-epl-2026-401879276@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260829T000000
@@ -740,6 +729,21 @@ SUMMARY:Premier League Schedule · Premier League · Liverpool @ AFC Bourn
 DESCRIPTION:Liverpool at AFC Bournemouth (Premier League 2026-27\, Beijing
   time)\n\n主场: 伯恩茅斯\n客场: 利物浦\n场馆: Vitality Stadiu
  m\n城市: Bournemouth
+CATEGORIES:Premier League Schedule
+URL;VALUE=URI:https://www.premierleague.com/fixtures
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-epl-2026-401879272@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260829T000000
+DTSTART;TZID=Asia/Shanghai:20260920T210000
+DTEND;TZID=Asia/Shanghai:20260920T220000
+SUMMARY:Premier League Schedule · Premier League · Sunderland @ Manchest
+ er City
+DESCRIPTION:Sunderland at Manchester City (Premier League 2026-27\, Beijin
+ g time)\n\n主场: 曼城\n客场: 桑德兰\n场馆: Etihad Stadium\n城
+ 市: Manchester
 CATEGORIES:Premier League Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED

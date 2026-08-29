@@ -13237,7 +13237,7 @@
       "description": "法兰克福 作客 柏林联合（德甲 2026-27 赛季，北京时间）",
       "description_en": "Eintracht Frankfurt at 1. FC Union Berlin (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-29",
       "verified_by": "auto",
       "teams": {
@@ -13257,8 +13257,15 @@
       "details": {
         "主场": "柏林联合",
         "客场": "法兰克福",
+        "比分": "柏林联合 3 - 3 法兰克福",
         "场馆": "Stadion An der Alten Försterei",
         "城市": "Berlin"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 3,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -13273,7 +13280,7 @@
       "description": "霍芬海姆 作客 科隆（德甲 2026-27 赛季，北京时间）",
       "description_en": "TSG Hoffenheim at FC Cologne (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-29",
       "verified_by": "auto",
       "teams": {
@@ -13293,8 +13300,15 @@
       "details": {
         "主场": "科隆",
         "客场": "霍芬海姆",
+        "比分": "科隆 3 - 2 霍芬海姆",
         "场馆": "RheinEnergieStadion",
         "城市": "Cologne"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 2,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -13309,7 +13323,7 @@
       "description": "帕德博恩 作客 美因茨（德甲 2026-27 赛季，北京时间）",
       "description_en": "SC Paderborn 07 at Mainz (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-29",
       "verified_by": "auto",
       "teams": {
@@ -13329,8 +13343,15 @@
       "details": {
         "主场": "美因茨",
         "客场": "帕德博恩",
+        "比分": "美因茨 0 - 0 帕德博恩",
         "场馆": "MEWA ARENA",
         "城市": "Mainz"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 0,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -13345,7 +13366,7 @@
       "description": "门兴格拉德巴赫 作客 莱比锡（德甲 2026-27 赛季，北京时间）",
       "description_en": "Borussia Mönchengladbach at RB Leipzig (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-29",
       "verified_by": "auto",
       "teams": {
@@ -13365,31 +13386,38 @@
       "details": {
         "主场": "莱比锡",
         "客场": "门兴格拉德巴赫",
+        "比分": "莱比锡 3 - 0 门兴格拉德巴赫",
         "场馆": "Red Bull Arena",
         "城市": "Leipzig"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
       "id": "bundesliga-2026-401884809",
-      "name": "德甲 · 勒沃库森 @ SV ELVERSBERG",
-      "name_en": "Bundesliga · Bayer Leverkusen @ SV ELVERSBERG",
+      "name": "德甲 · 勒沃库森 @ 埃尔弗斯贝格",
+      "name_en": "Bundesliga · Bayer Leverkusen @ SV Elversberg",
       "date": "2026-08-29",
       "time": "21:30",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "勒沃库森 作客 SV ELVERSBERG（德甲 2026-27 赛季，北京时间）",
-      "description_en": "Bayer Leverkusen at SV ELVERSBERG (Bundesliga 2026-27, Beijing time)",
+      "description": "勒沃库森 作客 埃尔弗斯贝格（德甲 2026-27 赛季，北京时间）",
+      "description_en": "Bayer Leverkusen at SV Elversberg (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-29",
       "verified_by": "auto",
       "teams": {
         "home": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         },
         "away": {
           "id": "b04",
@@ -13399,10 +13427,17 @@
         }
       },
       "details": {
-        "主场": "SV ELVERSBERG",
+        "主场": "埃尔弗斯贝格",
         "客场": "勒沃库森",
+        "比分": "埃尔弗斯贝格 3 - 2 勒沃库森",
         "场馆": "URSAPHARM-Arena an der Kaiserlinde",
         "城市": "Spiesen-Elversberg"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 2,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -13417,7 +13452,7 @@
       "description": "汉堡 作客 多特蒙德（德甲 2026-27 赛季，北京时间）",
       "description_en": "Hamburg SV at Borussia Dortmund (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-29",
       "verified_by": "auto",
       "teams": {
@@ -13437,8 +13472,15 @@
       "details": {
         "主场": "多特蒙德",
         "客场": "汉堡",
+        "比分": "多特蒙德 2 - 0 汉堡",
         "场馆": "Signal Iduna Park",
         "城市": "Aue"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -13587,15 +13629,15 @@
     },
     {
       "id": "bundesliga-2026-401884804",
-      "name": "德甲 · SV ELVERSBERG @ 门兴格拉德巴赫",
-      "name_en": "Bundesliga · SV ELVERSBERG @ Borussia Mönchengladbach",
+      "name": "德甲 · 埃尔弗斯贝格 @ 门兴格拉德巴赫",
+      "name_en": "Bundesliga · SV Elversberg @ Borussia Mönchengladbach",
       "date": "2026-09-05",
       "time": "21:30",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "SV ELVERSBERG 作客 门兴格拉德巴赫（德甲 2026-27 赛季，北京时间）",
-      "description_en": "SV ELVERSBERG at Borussia Mönchengladbach (Bundesliga 2026-27, Beijing time)",
+      "description": "埃尔弗斯贝格 作客 门兴格拉德巴赫（德甲 2026-27 赛季，北京时间）",
+      "description_en": "SV Elversberg at Borussia Mönchengladbach (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
@@ -13608,15 +13650,15 @@
           "name_en": "Borussia Mönchengladbach"
         },
         "away": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         }
       },
       "details": {
         "主场": "门兴格拉德巴赫",
-        "客场": "SV ELVERSBERG",
+        "客场": "埃尔弗斯贝格",
         "场馆": "BORUSSIA-PARK",
         "城市": "Mönchengladbach"
       }
@@ -14127,25 +14169,25 @@
     },
     {
       "id": "bundesliga-2026-401884791",
-      "name": "德甲 · 拜仁慕尼黑 @ SV ELVERSBERG",
-      "name_en": "Bundesliga · Bayern Munich @ SV ELVERSBERG",
+      "name": "德甲 · 拜仁慕尼黑 @ 埃尔弗斯贝格",
+      "name_en": "Bundesliga · Bayern Munich @ SV Elversberg",
       "date": "2026-09-13",
       "time": "23:30",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "拜仁慕尼黑 作客 SV ELVERSBERG（德甲 2026-27 赛季，北京时间）",
-      "description_en": "Bayern Munich at SV ELVERSBERG (Bundesliga 2026-27, Beijing time)",
+      "description": "拜仁慕尼黑 作客 埃尔弗斯贝格（德甲 2026-27 赛季，北京时间）",
+      "description_en": "Bayern Munich at SV Elversberg (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
       "verified_by": "auto",
       "teams": {
         "home": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         },
         "away": {
           "id": "mun",
@@ -14155,7 +14197,7 @@
         }
       },
       "details": {
-        "主场": "SV ELVERSBERG",
+        "主场": "埃尔弗斯贝格",
         "客场": "拜仁慕尼黑",
         "场馆": "URSAPHARM-Arena an der Kaiserlinde",
         "城市": "Spiesen-Elversberg"
@@ -14415,15 +14457,15 @@
     },
     {
       "id": "bundesliga-2026-401884783",
-      "name": "德甲 · SV ELVERSBERG @ 沙尔克04",
-      "name_en": "Bundesliga · SV ELVERSBERG @ Schalke 04",
+      "name": "德甲 · 埃尔弗斯贝格 @ 沙尔克04",
+      "name_en": "Bundesliga · SV Elversberg @ Schalke 04",
       "date": "2026-09-20",
       "time": "23:30",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "SV ELVERSBERG 作客 沙尔克04（德甲 2026-27 赛季，北京时间）",
-      "description_en": "SV ELVERSBERG at Schalke 04 (Bundesliga 2026-27, Beijing time)",
+      "description": "埃尔弗斯贝格 作客 沙尔克04（德甲 2026-27 赛季，北京时间）",
+      "description_en": "SV Elversberg at Schalke 04 (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
@@ -14436,15 +14478,15 @@
           "name_en": "Schalke 04"
         },
         "away": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         }
       },
       "details": {
         "主场": "沙尔克04",
-        "客场": "SV ELVERSBERG",
+        "客场": "埃尔弗斯贝格",
         "场馆": "Veltins Arena",
         "城市": "Gelsenkirchen"
       }
@@ -14487,15 +14529,15 @@
     },
     {
       "id": "bundesliga-2026-401884775",
-      "name": "德甲 · SV ELVERSBERG @ 柏林联合",
-      "name_en": "Bundesliga · SV ELVERSBERG @ 1. FC Union Berlin",
+      "name": "德甲 · 埃尔弗斯贝格 @ 柏林联合",
+      "name_en": "Bundesliga · SV Elversberg @ 1. FC Union Berlin",
       "date": "2026-10-11",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "SV ELVERSBERG 作客 柏林联合（德甲 2026-27 赛季，北京时间）",
-      "description_en": "SV ELVERSBERG at 1. FC Union Berlin (Bundesliga 2026-27, Beijing time)",
+      "description": "埃尔弗斯贝格 作客 柏林联合（德甲 2026-27 赛季，北京时间）",
+      "description_en": "SV Elversberg at 1. FC Union Berlin (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
@@ -14508,15 +14550,15 @@
           "name_en": "1. FC Union Berlin"
         },
         "away": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         }
       },
       "details": {
         "主场": "柏林联合",
-        "客场": "SV ELVERSBERG",
+        "客场": "埃尔弗斯贝格",
         "场馆": "Stadion An der Alten Försterei",
         "城市": "Berlin"
       }
@@ -15063,25 +15105,25 @@
     },
     {
       "id": "bundesliga-2026-401884764",
-      "name": "德甲 · 奥格斯堡 @ SV ELVERSBERG",
-      "name_en": "Bundesliga · FC Augsburg @ SV ELVERSBERG",
+      "name": "德甲 · 奥格斯堡 @ 埃尔弗斯贝格",
+      "name_en": "Bundesliga · FC Augsburg @ SV Elversberg",
       "date": "2026-10-18",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "奥格斯堡 作客 SV ELVERSBERG（德甲 2026-27 赛季，北京时间）",
-      "description_en": "FC Augsburg at SV ELVERSBERG (Bundesliga 2026-27, Beijing time)",
+      "description": "奥格斯堡 作客 埃尔弗斯贝格（德甲 2026-27 赛季，北京时间）",
+      "description_en": "FC Augsburg at SV Elversberg (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
       "verified_by": "auto",
       "teams": {
         "home": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         },
         "away": {
           "id": "fca",
@@ -15091,7 +15133,7 @@
         }
       },
       "details": {
-        "主场": "SV ELVERSBERG",
+        "主场": "埃尔弗斯贝格",
         "客场": "奥格斯堡",
         "场馆": "URSAPHARM-Arena an der Kaiserlinde",
         "城市": "Spiesen-Elversberg"
@@ -15279,15 +15321,15 @@
     },
     {
       "id": "bundesliga-2026-401884762",
-      "name": "德甲 · SV ELVERSBERG @ 莱比锡",
-      "name_en": "Bundesliga · SV ELVERSBERG @ RB Leipzig",
+      "name": "德甲 · 埃尔弗斯贝格 @ 莱比锡",
+      "name_en": "Bundesliga · SV Elversberg @ RB Leipzig",
       "date": "2026-10-25",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "SV ELVERSBERG 作客 莱比锡（德甲 2026-27 赛季，北京时间）",
-      "description_en": "SV ELVERSBERG at RB Leipzig (Bundesliga 2026-27, Beijing time)",
+      "description": "埃尔弗斯贝格 作客 莱比锡（德甲 2026-27 赛季，北京时间）",
+      "description_en": "SV Elversberg at RB Leipzig (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
@@ -15300,15 +15342,15 @@
           "name_en": "RB Leipzig"
         },
         "away": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         }
       },
       "details": {
         "主场": "莱比锡",
-        "客场": "SV ELVERSBERG",
+        "客场": "埃尔弗斯贝格",
         "场馆": "Red Bull Arena",
         "城市": "Leipzig"
       }
@@ -15711,25 +15753,25 @@
     },
     {
       "id": "bundesliga-2026-401884746",
-      "name": "德甲 · 美因茨 @ SV ELVERSBERG",
-      "name_en": "Bundesliga · Mainz @ SV ELVERSBERG",
+      "name": "德甲 · 美因茨 @ 埃尔弗斯贝格",
+      "name_en": "Bundesliga · Mainz @ SV Elversberg",
       "date": "2026-11-01",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "美因茨 作客 SV ELVERSBERG（德甲 2026-27 赛季，北京时间）",
-      "description_en": "Mainz at SV ELVERSBERG (Bundesliga 2026-27, Beijing time)",
+      "description": "美因茨 作客 埃尔弗斯贝格（德甲 2026-27 赛季，北京时间）",
+      "description_en": "Mainz at SV Elversberg (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
       "verified_by": "auto",
       "teams": {
         "home": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         },
         "away": {
           "id": "m05",
@@ -15739,7 +15781,7 @@
         }
       },
       "details": {
-        "主场": "SV ELVERSBERG",
+        "主场": "埃尔弗斯贝格",
         "客场": "美因茨",
         "场馆": "URSAPHARM-Arena an der Kaiserlinde",
         "城市": "Spiesen-Elversberg"
@@ -15783,15 +15825,15 @@
     },
     {
       "id": "bundesliga-2026-401884745",
-      "name": "德甲 · SV ELVERSBERG @ 多特蒙德",
-      "name_en": "Bundesliga · SV ELVERSBERG @ Borussia Dortmund",
+      "name": "德甲 · 埃尔弗斯贝格 @ 多特蒙德",
+      "name_en": "Bundesliga · SV Elversberg @ Borussia Dortmund",
       "date": "2026-11-08",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "SV ELVERSBERG 作客 多特蒙德（德甲 2026-27 赛季，北京时间）",
-      "description_en": "SV ELVERSBERG at Borussia Dortmund (Bundesliga 2026-27, Beijing time)",
+      "description": "埃尔弗斯贝格 作客 多特蒙德（德甲 2026-27 赛季，北京时间）",
+      "description_en": "SV Elversberg at Borussia Dortmund (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
@@ -15804,15 +15846,15 @@
           "name_en": "Borussia Dortmund"
         },
         "away": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         }
       },
       "details": {
         "主场": "多特蒙德",
-        "客场": "SV ELVERSBERG",
+        "客场": "埃尔弗斯贝格",
         "场馆": "Signal Iduna Park",
         "城市": "Aue"
       }
@@ -16359,25 +16401,25 @@
     },
     {
       "id": "bundesliga-2026-401884728",
-      "name": "德甲 · 弗莱堡 @ SV ELVERSBERG",
-      "name_en": "Bundesliga · SC Freiburg @ SV ELVERSBERG",
+      "name": "德甲 · 弗莱堡 @ 埃尔弗斯贝格",
+      "name_en": "Bundesliga · SC Freiburg @ SV Elversberg",
       "date": "2026-11-22",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "弗莱堡 作客 SV ELVERSBERG（德甲 2026-27 赛季，北京时间）",
-      "description_en": "SC Freiburg at SV ELVERSBERG (Bundesliga 2026-27, Beijing time)",
+      "description": "弗莱堡 作客 埃尔弗斯贝格（德甲 2026-27 赛季，北京时间）",
+      "description_en": "SC Freiburg at SV Elversberg (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
       "verified_by": "auto",
       "teams": {
         "home": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         },
         "away": {
           "id": "scf",
@@ -16387,7 +16429,7 @@
         }
       },
       "details": {
-        "主场": "SV ELVERSBERG",
+        "主场": "埃尔弗斯贝格",
         "客场": "弗莱堡",
         "场馆": "URSAPHARM-Arena an der Kaiserlinde",
         "城市": "Spiesen-Elversberg"
@@ -16467,15 +16509,15 @@
     },
     {
       "id": "bundesliga-2026-401884721",
-      "name": "德甲 · SV ELVERSBERG @ 科隆",
-      "name_en": "Bundesliga · SV ELVERSBERG @ FC Cologne",
+      "name": "德甲 · 埃尔弗斯贝格 @ 科隆",
+      "name_en": "Bundesliga · SV Elversberg @ FC Cologne",
       "date": "2026-11-29",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "SV ELVERSBERG 作客 科隆（德甲 2026-27 赛季，北京时间）",
-      "description_en": "SV ELVERSBERG at FC Cologne (Bundesliga 2026-27, Beijing time)",
+      "description": "埃尔弗斯贝格 作客 科隆（德甲 2026-27 赛季，北京时间）",
+      "description_en": "SV Elversberg at FC Cologne (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
@@ -16488,15 +16530,15 @@
           "name_en": "FC Cologne"
         },
         "away": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         }
       },
       "details": {
         "主场": "科隆",
-        "客场": "SV ELVERSBERG",
+        "客场": "埃尔弗斯贝格",
         "场馆": "RheinEnergieStadion",
         "城市": "Cologne"
       }
@@ -17043,25 +17085,25 @@
     },
     {
       "id": "bundesliga-2026-401884710",
-      "name": "德甲 · 斯图加特 @ SV ELVERSBERG",
-      "name_en": "Bundesliga · VfB Stuttgart @ SV ELVERSBERG",
+      "name": "德甲 · 斯图加特 @ 埃尔弗斯贝格",
+      "name_en": "Bundesliga · VfB Stuttgart @ SV Elversberg",
       "date": "2026-12-06",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "斯图加特 作客 SV ELVERSBERG（德甲 2026-27 赛季，北京时间）",
-      "description_en": "VfB Stuttgart at SV ELVERSBERG (Bundesliga 2026-27, Beijing time)",
+      "description": "斯图加特 作客 埃尔弗斯贝格（德甲 2026-27 赛季，北京时间）",
+      "description_en": "VfB Stuttgart at SV Elversberg (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
       "verified_by": "auto",
       "teams": {
         "home": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         },
         "away": {
           "id": "vfb",
@@ -17071,7 +17113,7 @@
         }
       },
       "details": {
-        "主场": "SV ELVERSBERG",
+        "主场": "埃尔弗斯贝格",
         "客场": "斯图加特",
         "场馆": "URSAPHARM-Arena an der Kaiserlinde",
         "城市": "Spiesen-Elversberg"
@@ -17259,15 +17301,15 @@
     },
     {
       "id": "bundesliga-2026-401884701",
-      "name": "德甲 · SV ELVERSBERG @ 帕德博恩",
-      "name_en": "Bundesliga · SV ELVERSBERG @ SC Paderborn 07",
+      "name": "德甲 · 埃尔弗斯贝格 @ 帕德博恩",
+      "name_en": "Bundesliga · SV Elversberg @ SC Paderborn 07",
       "date": "2026-12-13",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "SV ELVERSBERG 作客 帕德博恩（德甲 2026-27 赛季，北京时间）",
-      "description_en": "SV ELVERSBERG at SC Paderborn 07 (Bundesliga 2026-27, Beijing time)",
+      "description": "埃尔弗斯贝格 作客 帕德博恩（德甲 2026-27 赛季，北京时间）",
+      "description_en": "SV Elversberg at SC Paderborn 07 (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
@@ -17280,15 +17322,15 @@
           "name_en": "SC Paderborn 07"
         },
         "away": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         }
       },
       "details": {
         "主场": "帕德博恩",
-        "客场": "SV ELVERSBERG",
+        "客场": "埃尔弗斯贝格",
         "场馆": "Home Deluxe Arena",
         "城市": "Paderborn"
       }
@@ -17691,25 +17733,25 @@
     },
     {
       "id": "bundesliga-2026-401884692",
-      "name": "德甲 · 汉堡 @ SV ELVERSBERG",
-      "name_en": "Bundesliga · Hamburg SV @ SV ELVERSBERG",
+      "name": "德甲 · 汉堡 @ 埃尔弗斯贝格",
+      "name_en": "Bundesliga · Hamburg SV @ SV Elversberg",
       "date": "2026-12-20",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "汉堡 作客 SV ELVERSBERG（德甲 2026-27 赛季，北京时间）",
-      "description_en": "Hamburg SV at SV ELVERSBERG (Bundesliga 2026-27, Beijing time)",
+      "description": "汉堡 作客 埃尔弗斯贝格（德甲 2026-27 赛季，北京时间）",
+      "description_en": "Hamburg SV at SV Elversberg (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
       "verified_by": "auto",
       "teams": {
         "home": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         },
         "away": {
           "id": "hsv",
@@ -17719,7 +17761,7 @@
         }
       },
       "details": {
-        "主场": "SV ELVERSBERG",
+        "主场": "埃尔弗斯贝格",
         "客场": "汉堡",
         "场馆": "URSAPHARM-Arena an der Kaiserlinde",
         "城市": "Spiesen-Elversberg"
@@ -17943,15 +17985,15 @@
     },
     {
       "id": "bundesliga-2026-401884689",
-      "name": "德甲 · SV ELVERSBERG @ 霍芬海姆",
-      "name_en": "Bundesliga · SV ELVERSBERG @ TSG Hoffenheim",
+      "name": "德甲 · 埃尔弗斯贝格 @ 霍芬海姆",
+      "name_en": "Bundesliga · SV Elversberg @ TSG Hoffenheim",
       "date": "2027-01-10",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "SV ELVERSBERG 作客 霍芬海姆（德甲 2026-27 赛季，北京时间）",
-      "description_en": "SV ELVERSBERG at TSG Hoffenheim (Bundesliga 2026-27, Beijing time)",
+      "description": "埃尔弗斯贝格 作客 霍芬海姆（德甲 2026-27 赛季，北京时间）",
+      "description_en": "SV Elversberg at TSG Hoffenheim (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
@@ -17964,15 +18006,15 @@
           "name_en": "TSG Hoffenheim"
         },
         "away": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         }
       },
       "details": {
         "主场": "霍芬海姆",
-        "客场": "SV ELVERSBERG",
+        "客场": "埃尔弗斯贝格",
         "场馆": "PreZero Arena",
         "城市": "Sinsheim"
       }
@@ -18339,25 +18381,25 @@
     },
     {
       "id": "bundesliga-2026-401884674",
-      "name": "德甲 · 法兰克福 @ SV ELVERSBERG",
-      "name_en": "Bundesliga · Eintracht Frankfurt @ SV ELVERSBERG",
+      "name": "德甲 · 法兰克福 @ 埃尔弗斯贝格",
+      "name_en": "Bundesliga · Eintracht Frankfurt @ SV Elversberg",
       "date": "2027-01-14",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "法兰克福 作客 SV ELVERSBERG（德甲 2026-27 赛季，北京时间）",
-      "description_en": "Eintracht Frankfurt at SV ELVERSBERG (Bundesliga 2026-27, Beijing time)",
+      "description": "法兰克福 作客 埃尔弗斯贝格（德甲 2026-27 赛季，北京时间）",
+      "description_en": "Eintracht Frankfurt at SV Elversberg (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
       "verified_by": "auto",
       "teams": {
         "home": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         },
         "away": {
           "id": "sge",
@@ -18367,7 +18409,7 @@
         }
       },
       "details": {
-        "主场": "SV ELVERSBERG",
+        "主场": "埃尔弗斯贝格",
         "客场": "法兰克福",
         "场馆": "URSAPHARM-Arena an der Kaiserlinde",
         "城市": "Spiesen-Elversberg"
@@ -18663,15 +18705,15 @@
     },
     {
       "id": "bundesliga-2026-401884666",
-      "name": "德甲 · SV ELVERSBERG @ 不来梅",
-      "name_en": "Bundesliga · SV ELVERSBERG @ Werder Bremen",
+      "name": "德甲 · 埃尔弗斯贝格 @ 不来梅",
+      "name_en": "Bundesliga · SV Elversberg @ Werder Bremen",
       "date": "2027-01-17",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "SV ELVERSBERG 作客 不来梅（德甲 2026-27 赛季，北京时间）",
-      "description_en": "SV ELVERSBERG at Werder Bremen (Bundesliga 2026-27, Beijing time)",
+      "description": "埃尔弗斯贝格 作客 不来梅（德甲 2026-27 赛季，北京时间）",
+      "description_en": "SV Elversberg at Werder Bremen (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
@@ -18684,30 +18726,30 @@
           "name_en": "Werder Bremen"
         },
         "away": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         }
       },
       "details": {
         "主场": "不来梅",
-        "客场": "SV ELVERSBERG",
+        "客场": "埃尔弗斯贝格",
         "场馆": "Weserstadion",
         "城市": "Bremen"
       }
     },
     {
       "id": "bundesliga-2026-401884662",
-      "name": "德甲 · SV ELVERSBERG @ 勒沃库森",
-      "name_en": "Bundesliga · SV ELVERSBERG @ Bayer Leverkusen",
+      "name": "德甲 · 埃尔弗斯贝格 @ 勒沃库森",
+      "name_en": "Bundesliga · SV Elversberg @ Bayer Leverkusen",
       "date": "2027-01-24",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "SV ELVERSBERG 作客 勒沃库森（德甲 2026-27 赛季，北京时间）",
-      "description_en": "SV ELVERSBERG at Bayer Leverkusen (Bundesliga 2026-27, Beijing time)",
+      "description": "埃尔弗斯贝格 作客 勒沃库森（德甲 2026-27 赛季，北京时间）",
+      "description_en": "SV Elversberg at Bayer Leverkusen (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
@@ -18720,15 +18762,15 @@
           "name_en": "Bayer Leverkusen"
         },
         "away": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         }
       },
       "details": {
         "主场": "勒沃库森",
-        "客场": "SV ELVERSBERG",
+        "客场": "埃尔弗斯贝格",
         "场馆": "BayArena",
         "城市": "Leverkusen"
       }
@@ -19311,25 +19353,25 @@
     },
     {
       "id": "bundesliga-2026-401884647",
-      "name": "德甲 · 门兴格拉德巴赫 @ SV ELVERSBERG",
-      "name_en": "Bundesliga · Borussia Mönchengladbach @ SV ELVERSBERG",
+      "name": "德甲 · 门兴格拉德巴赫 @ 埃尔弗斯贝格",
+      "name_en": "Bundesliga · Borussia Mönchengladbach @ SV Elversberg",
       "date": "2027-01-31",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "门兴格拉德巴赫 作客 SV ELVERSBERG（德甲 2026-27 赛季，北京时间）",
-      "description_en": "Borussia Mönchengladbach at SV ELVERSBERG (Bundesliga 2026-27, Beijing time)",
+      "description": "门兴格拉德巴赫 作客 埃尔弗斯贝格（德甲 2026-27 赛季，北京时间）",
+      "description_en": "Borussia Mönchengladbach at SV Elversberg (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
       "verified_by": "auto",
       "teams": {
         "home": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         },
         "away": {
           "id": "bmg",
@@ -19339,7 +19381,7 @@
         }
       },
       "details": {
-        "主场": "SV ELVERSBERG",
+        "主场": "埃尔弗斯贝格",
         "客场": "门兴格拉德巴赫",
         "场馆": "URSAPHARM-Arena an der Kaiserlinde",
         "城市": "Spiesen-Elversberg"
@@ -19383,15 +19425,15 @@
     },
     {
       "id": "bundesliga-2026-401884646",
-      "name": "德甲 · SV ELVERSBERG @ 拜仁慕尼黑",
-      "name_en": "Bundesliga · SV ELVERSBERG @ Bayern Munich",
+      "name": "德甲 · 埃尔弗斯贝格 @ 拜仁慕尼黑",
+      "name_en": "Bundesliga · SV Elversberg @ Bayern Munich",
       "date": "2027-02-07",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "SV ELVERSBERG 作客 拜仁慕尼黑（德甲 2026-27 赛季，北京时间）",
-      "description_en": "SV ELVERSBERG at Bayern Munich (Bundesliga 2026-27, Beijing time)",
+      "description": "埃尔弗斯贝格 作客 拜仁慕尼黑（德甲 2026-27 赛季，北京时间）",
+      "description_en": "SV Elversberg at Bayern Munich (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
@@ -19404,15 +19446,15 @@
           "name_en": "Bayern Munich"
         },
         "away": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         }
       },
       "details": {
         "主场": "拜仁慕尼黑",
-        "客场": "SV ELVERSBERG",
+        "客场": "埃尔弗斯贝格",
         "场馆": "Allianz Arena",
         "城市": "München"
       }
@@ -19923,25 +19965,25 @@
     },
     {
       "id": "bundesliga-2026-401884629",
-      "name": "德甲 · 沙尔克04 @ SV ELVERSBERG",
-      "name_en": "Bundesliga · Schalke 04 @ SV ELVERSBERG",
+      "name": "德甲 · 沙尔克04 @ 埃尔弗斯贝格",
+      "name_en": "Bundesliga · Schalke 04 @ SV Elversberg",
       "date": "2027-02-14",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "沙尔克04 作客 SV ELVERSBERG（德甲 2026-27 赛季，北京时间）",
-      "description_en": "Schalke 04 at SV ELVERSBERG (Bundesliga 2026-27, Beijing time)",
+      "description": "沙尔克04 作客 埃尔弗斯贝格（德甲 2026-27 赛季，北京时间）",
+      "description_en": "Schalke 04 at SV Elversberg (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
       "verified_by": "auto",
       "teams": {
         "home": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         },
         "away": {
           "id": "s04",
@@ -19951,7 +19993,7 @@
         }
       },
       "details": {
-        "主场": "SV ELVERSBERG",
+        "主场": "埃尔弗斯贝格",
         "客场": "沙尔克04",
         "场馆": "URSAPHARM-Arena an der Kaiserlinde",
         "城市": "Spiesen-Elversberg"
@@ -20211,25 +20253,25 @@
     },
     {
       "id": "bundesliga-2026-401884620",
-      "name": "德甲 · 柏林联合 @ SV ELVERSBERG",
-      "name_en": "Bundesliga · 1. FC Union Berlin @ SV ELVERSBERG",
+      "name": "德甲 · 柏林联合 @ 埃尔弗斯贝格",
+      "name_en": "Bundesliga · 1. FC Union Berlin @ SV Elversberg",
       "date": "2027-02-21",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "柏林联合 作客 SV ELVERSBERG（德甲 2026-27 赛季，北京时间）",
-      "description_en": "1. FC Union Berlin at SV ELVERSBERG (Bundesliga 2026-27, Beijing time)",
+      "description": "柏林联合 作客 埃尔弗斯贝格（德甲 2026-27 赛季，北京时间）",
+      "description_en": "1. FC Union Berlin at SV Elversberg (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
       "verified_by": "auto",
       "teams": {
         "home": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         },
         "away": {
           "id": "fcu",
@@ -20239,7 +20281,7 @@
         }
       },
       "details": {
-        "主场": "SV ELVERSBERG",
+        "主场": "埃尔弗斯贝格",
         "客场": "柏林联合",
         "场馆": "URSAPHARM-Arena an der Kaiserlinde",
         "城市": "Spiesen-Elversberg"
@@ -20355,15 +20397,15 @@
     },
     {
       "id": "bundesliga-2026-401884614",
-      "name": "德甲 · SV ELVERSBERG @ 奥格斯堡",
-      "name_en": "Bundesliga · SV ELVERSBERG @ FC Augsburg",
+      "name": "德甲 · 埃尔弗斯贝格 @ 奥格斯堡",
+      "name_en": "Bundesliga · SV Elversberg @ FC Augsburg",
       "date": "2027-02-28",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "SV ELVERSBERG 作客 奥格斯堡（德甲 2026-27 赛季，北京时间）",
-      "description_en": "SV ELVERSBERG at FC Augsburg (Bundesliga 2026-27, Beijing time)",
+      "description": "埃尔弗斯贝格 作客 奥格斯堡（德甲 2026-27 赛季，北京时间）",
+      "description_en": "SV Elversberg at FC Augsburg (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
@@ -20376,15 +20418,15 @@
           "name_en": "FC Augsburg"
         },
         "away": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         }
       },
       "details": {
         "主场": "奥格斯堡",
-        "客场": "SV ELVERSBERG",
+        "客场": "埃尔弗斯贝格",
         "场馆": "WWK Arena",
         "城市": "Augsburg"
       }
@@ -20895,25 +20937,25 @@
     },
     {
       "id": "bundesliga-2026-401884602",
-      "name": "德甲 · 莱比锡 @ SV ELVERSBERG",
-      "name_en": "Bundesliga · RB Leipzig @ SV ELVERSBERG",
+      "name": "德甲 · 莱比锡 @ 埃尔弗斯贝格",
+      "name_en": "Bundesliga · RB Leipzig @ SV Elversberg",
       "date": "2027-03-04",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "莱比锡 作客 SV ELVERSBERG（德甲 2026-27 赛季，北京时间）",
-      "description_en": "RB Leipzig at SV ELVERSBERG (Bundesliga 2026-27, Beijing time)",
+      "description": "莱比锡 作客 埃尔弗斯贝格（德甲 2026-27 赛季，北京时间）",
+      "description_en": "RB Leipzig at SV Elversberg (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
       "verified_by": "auto",
       "teams": {
         "home": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         },
         "away": {
           "id": "rbl",
@@ -20923,7 +20965,7 @@
         }
       },
       "details": {
-        "主场": "SV ELVERSBERG",
+        "主场": "埃尔弗斯贝格",
         "客场": "莱比锡",
         "场馆": "URSAPHARM-Arena an der Kaiserlinde",
         "城市": "Spiesen-Elversberg"
@@ -21075,15 +21117,15 @@
     },
     {
       "id": "bundesliga-2026-401884596",
-      "name": "德甲 · SV ELVERSBERG @ 美因茨",
-      "name_en": "Bundesliga · SV ELVERSBERG @ Mainz",
+      "name": "德甲 · 埃尔弗斯贝格 @ 美因茨",
+      "name_en": "Bundesliga · SV Elversberg @ Mainz",
       "date": "2027-03-07",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "SV ELVERSBERG 作客 美因茨（德甲 2026-27 赛季，北京时间）",
-      "description_en": "SV ELVERSBERG at Mainz (Bundesliga 2026-27, Beijing time)",
+      "description": "埃尔弗斯贝格 作客 美因茨（德甲 2026-27 赛季，北京时间）",
+      "description_en": "SV Elversberg at Mainz (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
@@ -21096,15 +21138,15 @@
           "name_en": "Mainz"
         },
         "away": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         }
       },
       "details": {
         "主场": "美因茨",
-        "客场": "SV ELVERSBERG",
+        "客场": "埃尔弗斯贝格",
         "场馆": "MEWA ARENA",
         "城市": "Mainz"
       }
@@ -21543,25 +21585,25 @@
     },
     {
       "id": "bundesliga-2026-401884584",
-      "name": "德甲 · 多特蒙德 @ SV ELVERSBERG",
-      "name_en": "Bundesliga · Borussia Dortmund @ SV ELVERSBERG",
+      "name": "德甲 · 多特蒙德 @ 埃尔弗斯贝格",
+      "name_en": "Bundesliga · Borussia Dortmund @ SV Elversberg",
       "date": "2027-03-14",
       "time": "04:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "多特蒙德 作客 SV ELVERSBERG（德甲 2026-27 赛季，北京时间）",
-      "description_en": "Borussia Dortmund at SV ELVERSBERG (Bundesliga 2026-27, Beijing time)",
+      "description": "多特蒙德 作客 埃尔弗斯贝格（德甲 2026-27 赛季，北京时间）",
+      "description_en": "Borussia Dortmund at SV Elversberg (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
       "verified_by": "auto",
       "teams": {
         "home": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         },
         "away": {
           "id": "dor",
@@ -21571,7 +21613,7 @@
         }
       },
       "details": {
-        "主场": "SV ELVERSBERG",
+        "主场": "埃尔弗斯贝格",
         "客场": "多特蒙德",
         "场馆": "URSAPHARM-Arena an der Kaiserlinde",
         "城市": "Spiesen-Elversberg"
@@ -21795,15 +21837,15 @@
     },
     {
       "id": "bundesliga-2026-401884579",
-      "name": "德甲 · SV ELVERSBERG @ 弗莱堡",
-      "name_en": "Bundesliga · SV ELVERSBERG @ SC Freiburg",
+      "name": "德甲 · 埃尔弗斯贝格 @ 弗莱堡",
+      "name_en": "Bundesliga · SV Elversberg @ SC Freiburg",
       "date": "2027-03-21",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "SV ELVERSBERG 作客 弗莱堡（德甲 2026-27 赛季，北京时间）",
-      "description_en": "SV ELVERSBERG at SC Freiburg (Bundesliga 2026-27, Beijing time)",
+      "description": "埃尔弗斯贝格 作客 弗莱堡（德甲 2026-27 赛季，北京时间）",
+      "description_en": "SV Elversberg at SC Freiburg (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
@@ -21816,15 +21858,15 @@
           "name_en": "SC Freiburg"
         },
         "away": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         }
       },
       "details": {
         "主场": "弗莱堡",
-        "客场": "SV ELVERSBERG",
+        "客场": "埃尔弗斯贝格",
         "场馆": "Europa-Park Stadion",
         "城市": "Freiburg im Breisgau"
       }
@@ -22227,25 +22269,25 @@
     },
     {
       "id": "bundesliga-2026-401884566",
-      "name": "德甲 · 科隆 @ SV ELVERSBERG",
-      "name_en": "Bundesliga · FC Cologne @ SV ELVERSBERG",
+      "name": "德甲 · 科隆 @ 埃尔弗斯贝格",
+      "name_en": "Bundesliga · FC Cologne @ SV Elversberg",
       "date": "2027-04-04",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "科隆 作客 SV ELVERSBERG（德甲 2026-27 赛季，北京时间）",
-      "description_en": "FC Cologne at SV ELVERSBERG (Bundesliga 2026-27, Beijing time)",
+      "description": "科隆 作客 埃尔弗斯贝格（德甲 2026-27 赛季，北京时间）",
+      "description_en": "FC Cologne at SV Elversberg (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
       "verified_by": "auto",
       "teams": {
         "home": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         },
         "away": {
           "id": "koe",
@@ -22255,7 +22297,7 @@
         }
       },
       "details": {
-        "主场": "SV ELVERSBERG",
+        "主场": "埃尔弗斯贝格",
         "客场": "科隆",
         "场馆": "URSAPHARM-Arena an der Kaiserlinde",
         "城市": "Spiesen-Elversberg"
@@ -22515,15 +22557,15 @@
     },
     {
       "id": "bundesliga-2026-401884564",
-      "name": "德甲 · SV ELVERSBERG @ 斯图加特",
-      "name_en": "Bundesliga · SV ELVERSBERG @ VfB Stuttgart",
+      "name": "德甲 · 埃尔弗斯贝格 @ 斯图加特",
+      "name_en": "Bundesliga · SV Elversberg @ VfB Stuttgart",
       "date": "2027-04-11",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "SV ELVERSBERG 作客 斯图加特（德甲 2026-27 赛季，北京时间）",
-      "description_en": "SV ELVERSBERG at VfB Stuttgart (Bundesliga 2026-27, Beijing time)",
+      "description": "埃尔弗斯贝格 作客 斯图加特（德甲 2026-27 赛季，北京时间）",
+      "description_en": "SV Elversberg at VfB Stuttgart (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
@@ -22536,15 +22578,15 @@
           "name_en": "VfB Stuttgart"
         },
         "away": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         }
       },
       "details": {
         "主场": "斯图加特",
-        "客场": "SV ELVERSBERG",
+        "客场": "埃尔弗斯贝格",
         "场馆": "MHPArena",
         "城市": "Stuttgart"
       }
@@ -22875,25 +22917,25 @@
     },
     {
       "id": "bundesliga-2026-401884548",
-      "name": "德甲 · 帕德博恩 @ SV ELVERSBERG",
-      "name_en": "Bundesliga · SC Paderborn 07 @ SV ELVERSBERG",
+      "name": "德甲 · 帕德博恩 @ 埃尔弗斯贝格",
+      "name_en": "Bundesliga · SC Paderborn 07 @ SV Elversberg",
       "date": "2027-04-18",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "帕德博恩 作客 SV ELVERSBERG（德甲 2026-27 赛季，北京时间）",
-      "description_en": "SC Paderborn 07 at SV ELVERSBERG (Bundesliga 2026-27, Beijing time)",
+      "description": "帕德博恩 作客 埃尔弗斯贝格（德甲 2026-27 赛季，北京时间）",
+      "description_en": "SC Paderborn 07 at SV Elversberg (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
       "verified_by": "auto",
       "teams": {
         "home": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         },
         "away": {
           "id": "scp",
@@ -22903,7 +22945,7 @@
         }
       },
       "details": {
-        "主场": "SV ELVERSBERG",
+        "主场": "埃尔弗斯贝格",
         "客场": "帕德博恩",
         "场馆": "URSAPHARM-Arena an der Kaiserlinde",
         "城市": "Spiesen-Elversberg"
@@ -23055,15 +23097,15 @@
     },
     {
       "id": "bundesliga-2026-401884542",
-      "name": "德甲 · SV ELVERSBERG @ 汉堡",
-      "name_en": "Bundesliga · SV ELVERSBERG @ Hamburg SV",
+      "name": "德甲 · 埃尔弗斯贝格 @ 汉堡",
+      "name_en": "Bundesliga · SV Elversberg @ Hamburg SV",
       "date": "2027-04-25",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "SV ELVERSBERG 作客 汉堡（德甲 2026-27 赛季，北京时间）",
-      "description_en": "SV ELVERSBERG at Hamburg SV (Bundesliga 2026-27, Beijing time)",
+      "description": "埃尔弗斯贝格 作客 汉堡（德甲 2026-27 赛季，北京时间）",
+      "description_en": "SV Elversberg at Hamburg SV (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
@@ -23076,15 +23118,15 @@
           "name_en": "Hamburg SV"
         },
         "away": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         }
       },
       "details": {
         "主场": "汉堡",
-        "客场": "SV ELVERSBERG",
+        "客场": "埃尔弗斯贝格",
         "场馆": "Volksparkstadion",
         "城市": "Hamburg Norderstedt"
       }
@@ -23523,25 +23565,25 @@
     },
     {
       "id": "bundesliga-2026-401884530",
-      "name": "德甲 · 霍芬海姆 @ SV ELVERSBERG",
-      "name_en": "Bundesliga · TSG Hoffenheim @ SV ELVERSBERG",
+      "name": "德甲 · 霍芬海姆 @ 埃尔弗斯贝格",
+      "name_en": "Bundesliga · TSG Hoffenheim @ SV Elversberg",
       "date": "2027-05-09",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "霍芬海姆 作客 SV ELVERSBERG（德甲 2026-27 赛季，北京时间）",
-      "description_en": "TSG Hoffenheim at SV ELVERSBERG (Bundesliga 2026-27, Beijing time)",
+      "description": "霍芬海姆 作客 埃尔弗斯贝格（德甲 2026-27 赛季，北京时间）",
+      "description_en": "TSG Hoffenheim at SV Elversberg (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
       "verified_by": "auto",
       "teams": {
         "home": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         },
         "away": {
           "id": "tsg",
@@ -23551,7 +23593,7 @@
         }
       },
       "details": {
-        "主场": "SV ELVERSBERG",
+        "主场": "埃尔弗斯贝格",
         "客场": "霍芬海姆",
         "场馆": "URSAPHARM-Arena an der Kaiserlinde",
         "城市": "Spiesen-Elversberg"
@@ -23667,15 +23709,15 @@
     },
     {
       "id": "bundesliga-2026-401884525",
-      "name": "德甲 · SV ELVERSBERG @ 法兰克福",
-      "name_en": "Bundesliga · SV ELVERSBERG @ Eintracht Frankfurt",
+      "name": "德甲 · 埃尔弗斯贝格 @ 法兰克福",
+      "name_en": "Bundesliga · SV Elversberg @ Eintracht Frankfurt",
       "date": "2027-05-16",
       "time": "02:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "SV ELVERSBERG 作客 法兰克福（德甲 2026-27 赛季，北京时间）",
-      "description_en": "SV ELVERSBERG at Eintracht Frankfurt (Bundesliga 2026-27, Beijing time)",
+      "description": "埃尔弗斯贝格 作客 法兰克福（德甲 2026-27 赛季，北京时间）",
+      "description_en": "SV Elversberg at Eintracht Frankfurt (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
@@ -23688,15 +23730,15 @@
           "name_en": "Eintracht Frankfurt"
         },
         "away": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         }
       },
       "details": {
         "主场": "法兰克福",
-        "客场": "SV ELVERSBERG",
+        "客场": "埃尔弗斯贝格",
         "场馆": "Deutsche Bank Park",
         "城市": "Frankfurt"
       }
@@ -24171,25 +24213,25 @@
     },
     {
       "id": "bundesliga-2026-401884492",
-      "name": "德甲 · 不来梅 @ SV ELVERSBERG",
-      "name_en": "Bundesliga · Werder Bremen @ SV ELVERSBERG",
+      "name": "德甲 · 不来梅 @ 埃尔弗斯贝格",
+      "name_en": "Bundesliga · Werder Bremen @ SV Elversberg",
       "date": "2027-05-22",
       "time": "21:30",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "不来梅 作客 SV ELVERSBERG（德甲 2026-27 赛季，北京时间）",
-      "description_en": "Werder Bremen at SV ELVERSBERG (Bundesliga 2026-27, Beijing time)",
+      "description": "不来梅 作客 埃尔弗斯贝格（德甲 2026-27 赛季，北京时间）",
+      "description_en": "Werder Bremen at SV Elversberg (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
       "status": "confirmed",
       "last_verified": "2026-08-29",
       "verified_by": "auto",
       "teams": {
         "home": {
-          "id": "sv-elversberg",
-          "code": "Sv Elversberg",
-          "name": "SV ELVERSBERG",
-          "name_en": "SV ELVERSBERG"
+          "id": "elv",
+          "code": "ELV",
+          "name": "埃尔弗斯贝格",
+          "name_en": "SV Elversberg"
         },
         "away": {
           "id": "svw",
@@ -24199,7 +24241,7 @@
         }
       },
       "details": {
-        "主场": "SV ELVERSBERG",
+        "主场": "埃尔弗斯贝格",
         "客场": "不来梅",
         "场馆": "URSAPHARM-Arena an der Kaiserlinde",
         "城市": "Spiesen-Elversberg"

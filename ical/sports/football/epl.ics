@@ -180,8 +180,9 @@ DTSTART;TZID=Asia/Shanghai:20260829T193000
 DTEND;TZID=Asia/Shanghai:20260829T203000
 SUMMARY:英超赛程 · 英超 · 诺丁汉森林 @ 利物浦
 DESCRIPTION:诺丁汉森林 作客 利物浦（英超 2026-27 赛季，北
- 京时间）\n\n主场: 利物浦\n客场: 诺丁汉森林\n场馆: Anfiel
- d\n城市: Liverpool
+ 京时间）\n\n比分: 利物浦 2 - 2 诺丁汉森林\n\n主场: 利物
+ 浦\n客场: 诺丁汉森林\n比分: 利物浦 2 - 2 诺丁汉森林\n场
+ 馆: Anfield\n城市: Liverpool
 CATEGORIES:英超赛程
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
@@ -194,8 +195,9 @@ DTSTART;TZID=Asia/Shanghai:20260829T220000
 DTEND;TZID=Asia/Shanghai:20260829T230000
 SUMMARY:英超赛程 · 英超 · 埃弗顿 @ 伯恩茅斯
 DESCRIPTION:埃弗顿 作客 伯恩茅斯（英超 2026-27 赛季，北京
- 时间）\n\n主场: 伯恩茅斯\n客场: 埃弗顿\n场馆: Vitality Sta
- dium\n城市: Bournemouth
+ 时间）\n\n比分: 伯恩茅斯 1 - 1 埃弗顿\n\n主场: 伯恩茅斯\
+ n客场: 埃弗顿\n比分: 伯恩茅斯 1 - 1 埃弗顿\n场馆: Vitality
+  Stadium\n城市: Bournemouth
 CATEGORIES:英超赛程
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
@@ -208,8 +210,9 @@ DTSTART;TZID=Asia/Shanghai:20260829T220000
 DTEND;TZID=Asia/Shanghai:20260829T230000
 SUMMARY:英超赛程 · 英超 · 赫尔城 @ 考文垂
 DESCRIPTION:赫尔城 作客 考文垂（英超 2026-27 赛季，北京时
- 间）\n\n主场: 考文垂\n客场: 赫尔城\n场馆: Coventry Building 
- Society Arena\n城市: Coventry
+ 间）\n\n比分: 考文垂 0 - 1 赫尔城\n\n主场: 考文垂\n客场: 
+ 赫尔城\n比分: 考文垂 0 - 1 赫尔城\n场馆: Coventry Building So
+ ciety Arena\n城市: Coventry
 CATEGORIES:英超赛程
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
@@ -222,8 +225,9 @@ DTSTART;TZID=Asia/Shanghai:20260830T003000
 DTEND;TZID=Asia/Shanghai:20260830T013000
 SUMMARY:英超赛程 · 英超 · 纽卡斯尔联 @ 热刺
 DESCRIPTION:纽卡斯尔联 作客 热刺（英超 2026-27 赛季，北京
- 时间）\n\n主场: 热刺\n客场: 纽卡斯尔联\n场馆: Tottenham Ho
- tspur Stadium\n城市: London
+ 时间）\n\n比分: 热刺 0 - 2 纽卡斯尔联\n\n主场: 热刺\n客
+ 场: 纽卡斯尔联\n比分: 热刺 0 - 2 纽卡斯尔联\n场馆: Totten
+ ham Hotspur Stadium\n城市: London
 CATEGORIES:英超赛程
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
@@ -677,20 +681,6 @@ URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:epl-epl-2026-401879272@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260829T000000
-DTSTART;TZID=Asia/Shanghai:20260920T210000
-DTEND;TZID=Asia/Shanghai:20260920T220000
-SUMMARY:英超赛程 · 英超 · 桑德兰 @ 曼城
-DESCRIPTION:桑德兰 作客 曼城（英超 2026-27 赛季，北京时间
- ）\n\n主场: 曼城\n客场: 桑德兰\n场馆: Etihad Stadium\n城市: 
- Manchester
-CATEGORIES:英超赛程
-URL;VALUE=URI:https://www.premierleague.com/fixtures
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:epl-epl-2026-401879276@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260829T000000
@@ -700,6 +690,20 @@ SUMMARY:英超赛程 · 英超 · 利物浦 @ 伯恩茅斯
 DESCRIPTION:利物浦 作客 伯恩茅斯（英超 2026-27 赛季，北京
  时间）\n\n主场: 伯恩茅斯\n客场: 利物浦\n场馆: Vitality Sta
  dium\n城市: Bournemouth
+CATEGORIES:英超赛程
+URL;VALUE=URI:https://www.premierleague.com/fixtures
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-epl-2026-401879272@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260829T000000
+DTSTART;TZID=Asia/Shanghai:20260920T210000
+DTEND;TZID=Asia/Shanghai:20260920T220000
+SUMMARY:英超赛程 · 英超 · 桑德兰 @ 曼城
+DESCRIPTION:桑德兰 作客 曼城（英超 2026-27 赛季，北京时间
+ ）\n\n主场: 曼城\n客场: 桑德兰\n场馆: Etihad Stadium\n城市: 
+ Manchester
 CATEGORIES:英超赛程
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
