@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Koyomi Cast//bundesliga-koe//EN
 URL:https://koyomi.cast/sources/bundesliga
-NAME:科隆 Schedule
-X-WR-CALNAME:科隆 Schedule
-X-WR-CALDESC:科隆 schedule in Bundesliga Schedule, auto-synced.
+NAME:FC Cologne Schedule
+X-WR-CALNAME:FC Cologne Schedule
+X-WR-CALDESC:FC Cologne schedule in Bundesliga Schedule, auto-synced.
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
@@ -13,11 +13,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260829T213000
 DTEND;TZID=Asia/Shanghai:20260829T223000
-SUMMARY:科隆 Schedule · 科隆 vs 霍芬海姆
-DESCRIPTION:霍芬海姆 作客 科隆（德甲 2026-27 赛季，北京时
- 间）\n\n主场: 科隆\n客场: 霍芬海姆\n场馆: RheinEnergieStadio
- n\n城市: Cologne
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne vs TSG Hoffenheim
+DESCRIPTION:TSG Hoffenheim at FC Cologne (Bundesliga 2026-27\, Beijing tim
+ e)\n\n主场: 科隆\n客场: 霍芬海姆\n场馆: RheinEnergieStadion\n
+ 城市: Cologne
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -27,11 +27,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260905T023000
 DTEND;TZID=Asia/Shanghai:20260905T033000
-SUMMARY:科隆 Schedule · 科隆 @ 斯图加特
-DESCRIPTION:科隆 作客 斯图加特（德甲 2026-27 赛季，北京时
- 间）\n\n主场: 斯图加特\n客场: 科隆\n场馆: MHPArena\n城市: 
- Stuttgart
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne @ VfB Stuttgart
+DESCRIPTION:FC Cologne at VfB Stuttgart (Bundesliga 2026-27\, Beijing time
+ )\n\n主场: 斯图加特\n客场: 科隆\n场馆: MHPArena\n城市: Stutt
+ gart
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -41,11 +41,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260913T003000
 DTEND;TZID=Asia/Shanghai:20260913T013000
-SUMMARY:科隆 Schedule · 科隆 vs 不来梅
-DESCRIPTION:不来梅 作客 科隆（德甲 2026-27 赛季，北京时间
- ）\n\n主场: 科隆\n客场: 不来梅\n场馆: RheinEnergieStadion\n城
+SUMMARY:FC Cologne Schedule · FC Cologne vs Werder Bremen
+DESCRIPTION:Werder Bremen at FC Cologne (Bundesliga 2026-27\, Beijing time
+ )\n\n主场: 科隆\n客场: 不来梅\n场馆: RheinEnergieStadion\n城
  市: Cologne
-CATEGORIES:科隆 Schedule
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -55,11 +55,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260919T213000
 DTEND;TZID=Asia/Shanghai:20260919T223000
-SUMMARY:科隆 Schedule · 科隆 @ 汉堡
-DESCRIPTION:科隆 作客 汉堡（德甲 2026-27 赛季，北京时间）
- \n\n主场: 汉堡\n客场: 科隆\n场馆: Volksparkstadion\n城市: Hamb
- urg Norderstedt
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne @ Hamburg SV
+DESCRIPTION:FC Cologne at Hamburg SV (Bundesliga 2026-27\, Beijing time)\n
+ \n主场: 汉堡\n客场: 科隆\n场馆: Volksparkstadion\n城市: Hambur
+ g Norderstedt
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -69,11 +69,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261011T020000
 DTEND;TZID=Asia/Shanghai:20261011T030000
-SUMMARY:科隆 Schedule · 科隆 vs 门兴格拉德巴赫
-DESCRIPTION:门兴格拉德巴赫 作客 科隆（德甲 2026-27 赛季，
- 北京时间）\n\n主场: 科隆\n客场: 门兴格拉德巴赫\n场馆: 
- RheinEnergieStadion\n城市: Cologne
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne vs Borussia Mönchengladbach
+DESCRIPTION:Borussia Mönchengladbach at FC Cologne (Bundesliga 2026-27\, 
+ Beijing time)\n\n主场: 科隆\n客场: 门兴格拉德巴赫\n场馆: Rh
+ einEnergieStadion\n城市: Cologne
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -83,11 +83,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261018T020000
 DTEND;TZID=Asia/Shanghai:20261018T030000
-SUMMARY:科隆 Schedule · 科隆 @ 法兰克福
-DESCRIPTION:科隆 作客 法兰克福（德甲 2026-27 赛季，北京时
- 间）\n\n主场: 法兰克福\n客场: 科隆\n场馆: Deutsche Bank Park
- \n城市: Frankfurt
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne @ Eintracht Frankfurt
+DESCRIPTION:FC Cologne at Eintracht Frankfurt (Bundesliga 2026-27\, Beijin
+ g time)\n\n主场: 法兰克福\n客场: 科隆\n场馆: Deutsche Bank Par
+ k\n城市: Frankfurt
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -97,11 +97,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261025T020000
 DTEND;TZID=Asia/Shanghai:20261025T030000
-SUMMARY:科隆 Schedule · 科隆 vs 沙尔克04
-DESCRIPTION:沙尔克04 作客 科隆（德甲 2026-27 赛季，北京时
- 间）\n\n主场: 科隆\n客场: 沙尔克04\n场馆: RheinEnergieStadion
- \n城市: Cologne
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne vs Schalke 04
+DESCRIPTION:Schalke 04 at FC Cologne (Bundesliga 2026-27\, Beijing time)\n
+ \n主场: 科隆\n客场: 沙尔克04\n场馆: RheinEnergieStadion\n城市
+ : Cologne
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -111,11 +111,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261101T020000
 DTEND;TZID=Asia/Shanghai:20261101T030000
-SUMMARY:科隆 Schedule · 科隆 @ 柏林联合
-DESCRIPTION:科隆 作客 柏林联合（德甲 2026-27 赛季，北京时
- 间）\n\n主场: 柏林联合\n客场: 科隆\n场馆: Stadion An der Alt
+SUMMARY:FC Cologne Schedule · FC Cologne @ 1. FC Union Berlin
+DESCRIPTION:FC Cologne at 1. FC Union Berlin (Bundesliga 2026-27\, Beijing
+  time)\n\n主场: 柏林联合\n客场: 科隆\n场馆: Stadion An der Alt
  en Försterei\n城市: Berlin
-CATEGORIES:科隆 Schedule
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -125,11 +125,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261108T040000
 DTEND;TZID=Asia/Shanghai:20261108T050000
-SUMMARY:科隆 Schedule · 科隆 vs 勒沃库森
-DESCRIPTION:勒沃库森 作客 科隆（德甲 2026-27 赛季，北京时
- 间）\n\n主场: 科隆\n客场: 勒沃库森\n场馆: RheinEnergieStadio
- n\n城市: Cologne
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne vs Bayer Leverkusen
+DESCRIPTION:Bayer Leverkusen at FC Cologne (Bundesliga 2026-27\, Beijing t
+ ime)\n\n主场: 科隆\n客场: 勒沃库森\n场馆: RheinEnergieStadion\
+ n城市: Cologne
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -139,11 +139,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261122T040000
 DTEND;TZID=Asia/Shanghai:20261122T050000
-SUMMARY:科隆 Schedule · 科隆 @ 拜仁慕尼黑
-DESCRIPTION:科隆 作客 拜仁慕尼黑（德甲 2026-27 赛季，北京
- 时间）\n\n主场: 拜仁慕尼黑\n客场: 科隆\n场馆: Allianz Aren
- a\n城市: München
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne @ Bayern Munich
+DESCRIPTION:FC Cologne at Bayern Munich (Bundesliga 2026-27\, Beijing time
+ )\n\n主场: 拜仁慕尼黑\n客场: 科隆\n场馆: Allianz Arena\n城
+ 市: München
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -153,11 +153,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261129T040000
 DTEND;TZID=Asia/Shanghai:20261129T050000
-SUMMARY:科隆 Schedule · 科隆 vs SV ELVERSBERG
-DESCRIPTION:SV ELVERSBERG 作客 科隆（德甲 2026-27 赛季，北京
- 时间）\n\n主场: 科隆\n客场: SV ELVERSBERG\n场馆: RheinEnergieSt
- adion\n城市: Cologne
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne vs SV ELVERSBERG
+DESCRIPTION:SV ELVERSBERG at FC Cologne (Bundesliga 2026-27\, Beijing time
+ )\n\n主场: 科隆\n客场: SV ELVERSBERG\n场馆: RheinEnergieStadion\n
+ 城市: Cologne
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -167,11 +167,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261206T040000
 DTEND;TZID=Asia/Shanghai:20261206T050000
-SUMMARY:科隆 Schedule · 科隆 @ 奥格斯堡
-DESCRIPTION:科隆 作客 奥格斯堡（德甲 2026-27 赛季，北京时
- 间）\n\n主场: 奥格斯堡\n客场: 科隆\n场馆: WWK Arena\n城市:
-  Augsburg
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne @ FC Augsburg
+DESCRIPTION:FC Cologne at FC Augsburg (Bundesliga 2026-27\, Beijing time)\
+ n\n主场: 奥格斯堡\n客场: 科隆\n场馆: WWK Arena\n城市: Augsbu
+ rg
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -181,11 +181,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261213T040000
 DTEND;TZID=Asia/Shanghai:20261213T050000
-SUMMARY:科隆 Schedule · 科隆 vs 莱比锡
-DESCRIPTION:莱比锡 作客 科隆（德甲 2026-27 赛季，北京时间
- ）\n\n主场: 科隆\n客场: 莱比锡\n场馆: RheinEnergieStadion\n城
- 市: Cologne
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne vs RB Leipzig
+DESCRIPTION:RB Leipzig at FC Cologne (Bundesliga 2026-27\, Beijing time)\n
+ \n主场: 科隆\n客场: 莱比锡\n场馆: RheinEnergieStadion\n城市: 
+ Cologne
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -195,11 +195,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261220T040000
 DTEND;TZID=Asia/Shanghai:20261220T050000
-SUMMARY:科隆 Schedule · 科隆 @ 美因茨
-DESCRIPTION:科隆 作客 美因茨（德甲 2026-27 赛季，北京时间
- ）\n\n主场: 美因茨\n客场: 科隆\n场馆: MEWA ARENA\n城市: Main
- z
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne @ Mainz
+DESCRIPTION:FC Cologne at Mainz (Bundesliga 2026-27\, Beijing time)\n\n主
+ 场: 美因茨\n客场: 科隆\n场馆: MEWA ARENA\n城市: Mainz
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -209,11 +208,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270110T040000
 DTEND;TZID=Asia/Shanghai:20270110T050000
-SUMMARY:科隆 Schedule · 科隆 vs 弗莱堡
-DESCRIPTION:弗莱堡 作客 科隆（德甲 2026-27 赛季，北京时间
- ）\n\n主场: 科隆\n客场: 弗莱堡\n场馆: RheinEnergieStadion\n城
- 市: Cologne
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne vs SC Freiburg
+DESCRIPTION:SC Freiburg at FC Cologne (Bundesliga 2026-27\, Beijing time)\
+ n\n主场: 科隆\n客场: 弗莱堡\n场馆: RheinEnergieStadion\n城市:
+  Cologne
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -223,11 +222,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270114T040000
 DTEND;TZID=Asia/Shanghai:20270114T050000
-SUMMARY:科隆 Schedule · 科隆 vs 多特蒙德
-DESCRIPTION:多特蒙德 作客 科隆（德甲 2026-27 赛季，北京时
- 间）\n\n主场: 科隆\n客场: 多特蒙德\n场馆: RheinEnergieStadio
- n\n城市: Cologne
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne vs Borussia Dortmund
+DESCRIPTION:Borussia Dortmund at FC Cologne (Bundesliga 2026-27\, Beijing 
+ time)\n\n主场: 科隆\n客场: 多特蒙德\n场馆: RheinEnergieStadion
+ \n城市: Cologne
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -237,11 +236,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270117T040000
 DTEND;TZID=Asia/Shanghai:20270117T050000
-SUMMARY:科隆 Schedule · 科隆 @ 帕德博恩
-DESCRIPTION:科隆 作客 帕德博恩（德甲 2026-27 赛季，北京时
- 间）\n\n主场: 帕德博恩\n客场: 科隆\n场馆: Home Deluxe Arena\
- n城市: Paderborn
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne @ SC Paderborn 07
+DESCRIPTION:FC Cologne at SC Paderborn 07 (Bundesliga 2026-27\, Beijing ti
+ me)\n\n主场: 帕德博恩\n客场: 科隆\n场馆: Home Deluxe Arena\n
+ 城市: Paderborn
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -251,11 +250,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270124T040000
 DTEND;TZID=Asia/Shanghai:20270124T050000
-SUMMARY:科隆 Schedule · 科隆 @ 霍芬海姆
-DESCRIPTION:科隆 作客 霍芬海姆（德甲 2026-27 赛季，北京时
- 间）\n\n主场: 霍芬海姆\n客场: 科隆\n场馆: PreZero Arena\n城
- 市: Sinsheim
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne @ TSG Hoffenheim
+DESCRIPTION:FC Cologne at TSG Hoffenheim (Bundesliga 2026-27\, Beijing tim
+ e)\n\n主场: 霍芬海姆\n客场: 科隆\n场馆: PreZero Arena\n城市:
+  Sinsheim
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -265,11 +264,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270131T040000
 DTEND;TZID=Asia/Shanghai:20270131T050000
-SUMMARY:科隆 Schedule · 科隆 vs 斯图加特
-DESCRIPTION:斯图加特 作客 科隆（德甲 2026-27 赛季，北京时
- 间）\n\n主场: 科隆\n客场: 斯图加特\n场馆: RheinEnergieStadio
- n\n城市: Cologne
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne vs VfB Stuttgart
+DESCRIPTION:VfB Stuttgart at FC Cologne (Bundesliga 2026-27\, Beijing time
+ )\n\n主场: 科隆\n客场: 斯图加特\n场馆: RheinEnergieStadion\n
+ 城市: Cologne
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -279,11 +278,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270207T040000
 DTEND;TZID=Asia/Shanghai:20270207T050000
-SUMMARY:科隆 Schedule · 科隆 @ 不来梅
-DESCRIPTION:科隆 作客 不来梅（德甲 2026-27 赛季，北京时间
- ）\n\n主场: 不来梅\n客场: 科隆\n场馆: Weserstadion\n城市: Br
- emen
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne @ Werder Bremen
+DESCRIPTION:FC Cologne at Werder Bremen (Bundesliga 2026-27\, Beijing time
+ )\n\n主场: 不来梅\n客场: 科隆\n场馆: Weserstadion\n城市: Brem
+ en
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -293,11 +292,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270214T040000
 DTEND;TZID=Asia/Shanghai:20270214T050000
-SUMMARY:科隆 Schedule · 科隆 vs 汉堡
-DESCRIPTION:汉堡 作客 科隆（德甲 2026-27 赛季，北京时间）
- \n\n主场: 科隆\n客场: 汉堡\n场馆: RheinEnergieStadion\n城市: C
- ologne
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne vs Hamburg SV
+DESCRIPTION:Hamburg SV at FC Cologne (Bundesliga 2026-27\, Beijing time)\n
+ \n主场: 科隆\n客场: 汉堡\n场馆: RheinEnergieStadion\n城市: Col
+ ogne
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -307,11 +306,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270221T040000
 DTEND;TZID=Asia/Shanghai:20270221T050000
-SUMMARY:科隆 Schedule · 科隆 @ 门兴格拉德巴赫
-DESCRIPTION:科隆 作客 门兴格拉德巴赫（德甲 2026-27 赛季，
- 北京时间）\n\n主场: 门兴格拉德巴赫\n客场: 科隆\n场馆: 
- BORUSSIA-PARK\n城市: Mönchengladbach
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne @ Borussia Mönchengladbach
+DESCRIPTION:FC Cologne at Borussia Mönchengladbach (Bundesliga 2026-27\, 
+ Beijing time)\n\n主场: 门兴格拉德巴赫\n客场: 科隆\n场馆: BO
+ RUSSIA-PARK\n城市: Mönchengladbach
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -321,11 +320,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270228T040000
 DTEND;TZID=Asia/Shanghai:20270228T050000
-SUMMARY:科隆 Schedule · 科隆 vs 法兰克福
-DESCRIPTION:法兰克福 作客 科隆（德甲 2026-27 赛季，北京时
- 间）\n\n主场: 科隆\n客场: 法兰克福\n场馆: RheinEnergieStadio
- n\n城市: Cologne
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne vs Eintracht Frankfurt
+DESCRIPTION:Eintracht Frankfurt at FC Cologne (Bundesliga 2026-27\, Beijin
+ g time)\n\n主场: 科隆\n客场: 法兰克福\n场馆: RheinEnergieStadi
+ on\n城市: Cologne
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -335,11 +334,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270304T040000
 DTEND;TZID=Asia/Shanghai:20270304T050000
-SUMMARY:科隆 Schedule · 科隆 @ 沙尔克04
-DESCRIPTION:科隆 作客 沙尔克04（德甲 2026-27 赛季，北京时
- 间）\n\n主场: 沙尔克04\n客场: 科隆\n场馆: Veltins Arena\n城
- 市: Gelsenkirchen
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne @ Schalke 04
+DESCRIPTION:FC Cologne at Schalke 04 (Bundesliga 2026-27\, Beijing time)\n
+ \n主场: 沙尔克04\n客场: 科隆\n场馆: Veltins Arena\n城市: Gels
+ enkirchen
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -349,11 +348,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270307T040000
 DTEND;TZID=Asia/Shanghai:20270307T050000
-SUMMARY:科隆 Schedule · 科隆 vs 柏林联合
-DESCRIPTION:柏林联合 作客 科隆（德甲 2026-27 赛季，北京时
- 间）\n\n主场: 科隆\n客场: 柏林联合\n场馆: RheinEnergieStadio
+SUMMARY:FC Cologne Schedule · FC Cologne vs 1. FC Union Berlin
+DESCRIPTION:1. FC Union Berlin at FC Cologne (Bundesliga 2026-27\, Beijing
+  time)\n\n主场: 科隆\n客场: 柏林联合\n场馆: RheinEnergieStadio
  n\n城市: Cologne
-CATEGORIES:科隆 Schedule
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -363,11 +362,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270314T040000
 DTEND;TZID=Asia/Shanghai:20270314T050000
-SUMMARY:科隆 Schedule · 科隆 @ 勒沃库森
-DESCRIPTION:科隆 作客 勒沃库森（德甲 2026-27 赛季，北京时
- 间）\n\n主场: 勒沃库森\n客场: 科隆\n场馆: BayArena\n城市: 
- Leverkusen
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne @ Bayer Leverkusen
+DESCRIPTION:FC Cologne at Bayer Leverkusen (Bundesliga 2026-27\, Beijing t
+ ime)\n\n主场: 勒沃库森\n客场: 科隆\n场馆: BayArena\n城市: Le
+ verkusen
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -377,11 +376,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270321T020000
 DTEND;TZID=Asia/Shanghai:20270321T030000
-SUMMARY:科隆 Schedule · 科隆 vs 拜仁慕尼黑
-DESCRIPTION:拜仁慕尼黑 作客 科隆（德甲 2026-27 赛季，北京
- 时间）\n\n主场: 科隆\n客场: 拜仁慕尼黑\n场馆: RheinEnergie
- Stadion\n城市: Cologne
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne vs Bayern Munich
+DESCRIPTION:Bayern Munich at FC Cologne (Bundesliga 2026-27\, Beijing time
+ )\n\n主场: 科隆\n客场: 拜仁慕尼黑\n场馆: RheinEnergieStadion\
+ n城市: Cologne
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -391,11 +390,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270404T020000
 DTEND;TZID=Asia/Shanghai:20270404T030000
-SUMMARY:科隆 Schedule · 科隆 @ SV ELVERSBERG
-DESCRIPTION:科隆 作客 SV ELVERSBERG（德甲 2026-27 赛季，北京
- 时间）\n\n主场: SV ELVERSBERG\n客场: 科隆\n场馆: URSAPHARM-Aren
- a an der Kaiserlinde\n城市: Spiesen-Elversberg
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne @ SV ELVERSBERG
+DESCRIPTION:FC Cologne at SV ELVERSBERG (Bundesliga 2026-27\, Beijing time
+ )\n\n主场: SV ELVERSBERG\n客场: 科隆\n场馆: URSAPHARM-Arena an der
+  Kaiserlinde\n城市: Spiesen-Elversberg
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -405,11 +404,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270411T020000
 DTEND;TZID=Asia/Shanghai:20270411T030000
-SUMMARY:科隆 Schedule · 科隆 vs 奥格斯堡
-DESCRIPTION:奥格斯堡 作客 科隆（德甲 2026-27 赛季，北京时
- 间）\n\n主场: 科隆\n客场: 奥格斯堡\n场馆: RheinEnergieStadio
- n\n城市: Cologne
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne vs FC Augsburg
+DESCRIPTION:FC Augsburg at FC Cologne (Bundesliga 2026-27\, Beijing time)\
+ n\n主场: 科隆\n客场: 奥格斯堡\n场馆: RheinEnergieStadion\n城
+ 市: Cologne
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -419,11 +418,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270418T020000
 DTEND;TZID=Asia/Shanghai:20270418T030000
-SUMMARY:科隆 Schedule · 科隆 @ 莱比锡
-DESCRIPTION:科隆 作客 莱比锡（德甲 2026-27 赛季，北京时间
- ）\n\n主场: 莱比锡\n客场: 科隆\n场馆: Red Bull Arena\n城市: 
- Leipzig
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne @ RB Leipzig
+DESCRIPTION:FC Cologne at RB Leipzig (Bundesliga 2026-27\, Beijing time)\n
+ \n主场: 莱比锡\n客场: 科隆\n场馆: Red Bull Arena\n城市: Leipz
+ ig
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -433,11 +432,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270425T020000
 DTEND;TZID=Asia/Shanghai:20270425T030000
-SUMMARY:科隆 Schedule · 科隆 vs 美因茨
-DESCRIPTION:美因茨 作客 科隆（德甲 2026-27 赛季，北京时间
- ）\n\n主场: 科隆\n客场: 美因茨\n场馆: RheinEnergieStadion\n城
- 市: Cologne
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne vs Mainz
+DESCRIPTION:Mainz at FC Cologne (Bundesliga 2026-27\, Beijing time)\n\n主
+ 场: 科隆\n客场: 美因茨\n场馆: RheinEnergieStadion\n城市: Colog
+ ne
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -447,11 +446,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270509T020000
 DTEND;TZID=Asia/Shanghai:20270509T030000
-SUMMARY:科隆 Schedule · 科隆 @ 弗莱堡
-DESCRIPTION:科隆 作客 弗莱堡（德甲 2026-27 赛季，北京时间
- ）\n\n主场: 弗莱堡\n客场: 科隆\n场馆: Europa-Park Stadion\n城
- 市: Freiburg im Breisgau
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne @ SC Freiburg
+DESCRIPTION:FC Cologne at SC Freiburg (Bundesliga 2026-27\, Beijing time)\
+ n\n主场: 弗莱堡\n客场: 科隆\n场馆: Europa-Park Stadion\n城市:
+  Freiburg im Breisgau
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -461,11 +460,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270516T020000
 DTEND;TZID=Asia/Shanghai:20270516T030000
-SUMMARY:科隆 Schedule · 科隆 @ 多特蒙德
-DESCRIPTION:科隆 作客 多特蒙德（德甲 2026-27 赛季，北京时
- 间）\n\n主场: 多特蒙德\n客场: 科隆\n场馆: Signal Iduna Park\
- n城市: Aue
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne @ Borussia Dortmund
+DESCRIPTION:FC Cologne at Borussia Dortmund (Bundesliga 2026-27\, Beijing 
+ time)\n\n主场: 多特蒙德\n客场: 科隆\n场馆: Signal Iduna Park\n
+ 城市: Aue
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT
@@ -475,11 +474,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270522T213000
 DTEND;TZID=Asia/Shanghai:20270522T223000
-SUMMARY:科隆 Schedule · 科隆 vs 帕德博恩
-DESCRIPTION:帕德博恩 作客 科隆（德甲 2026-27 赛季，北京时
- 间）\n\n主场: 科隆\n客场: 帕德博恩\n场馆: RheinEnergieStadio
- n\n城市: Cologne
-CATEGORIES:科隆 Schedule
+SUMMARY:FC Cologne Schedule · FC Cologne vs SC Paderborn 07
+DESCRIPTION:SC Paderborn 07 at FC Cologne (Bundesliga 2026-27\, Beijing ti
+ me)\n\n主场: 科隆\n客场: 帕德博恩\n场馆: RheinEnergieStadion\n
+ 城市: Cologne
+CATEGORIES:FC Cologne Schedule
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
 END:VEVENT

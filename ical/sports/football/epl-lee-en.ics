@@ -2,9 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Koyomi Cast//epl-lee//EN
 URL:https://koyomi.cast/sources/epl
-NAME:利兹联 Schedule
-X-WR-CALNAME:利兹联 Schedule
-X-WR-CALDESC:利兹联 schedule in Premier League Schedule, auto-synced.
+NAME:Leeds United Schedule
+X-WR-CALNAME:Leeds United Schedule
+X-WR-CALDESC:Leeds United schedule in Premier League Schedule, auto-synced
+ .
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
@@ -13,12 +14,12 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260822T220000
 DTEND;TZID=Asia/Shanghai:20260822T230000
-SUMMARY:利兹联 Schedule · 利兹联 @ 诺丁汉森林
-DESCRIPTION:利兹联 作客 诺丁汉森林（英超 2026-27 赛季，北
- 京时间）\n\nScore: 诺丁汉森林 0 - 1 利兹联\n\n主场: 诺丁
- 汉森林\n客场: 利兹联\n比分: 诺丁汉森林 0 - 1 利兹联\n场
- 馆: The City Ground\n城市: Nottingham
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United @ Nottingham Forest
+DESCRIPTION:Leeds United at Nottingham Forest (Premier League 2026-27\, Be
+ ijing time)\n\nScore: 诺丁汉森林 0 - 1 利兹联\n\n主场: 诺丁汉
+ 森林\n客场: 利兹联\n比分: 诺丁汉森林 0 - 1 利兹联\n场馆
+ : The City Ground\n城市: Nottingham
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -28,11 +29,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260830T210000
 DTEND;TZID=Asia/Shanghai:20260830T220000
-SUMMARY:利兹联 Schedule · 利兹联 vs 布伦特福德
-DESCRIPTION:布伦特福德 作客 利兹联（英超 2026-27 赛季，北
- 京时间）\n\n主场: 利兹联\n客场: 布伦特福德\n场馆: Elland
-  Road\n城市: Leeds
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United vs Brentford
+DESCRIPTION:Brentford at Leeds United (Premier League 2026-27\, Beijing ti
+ me)\n\n主场: 利兹联\n客场: 布伦特福德\n场馆: Elland Road\n
+ 城市: Leeds
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -42,11 +43,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260905T220000
 DTEND;TZID=Asia/Shanghai:20260905T230000
-SUMMARY:利兹联 Schedule · 利兹联 @ 布莱顿
-DESCRIPTION:利兹联 作客 布莱顿（英超 2026-27 赛季，北京时
- 间）\n\n主场: 布莱顿\n客场: 利兹联\n场馆: American Express S
- tadium\n城市: Falmer
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United @ Brighton & Hove Albion
+DESCRIPTION:Leeds United at Brighton & Hove Albion (Premier League 2026-27
+ \, Beijing time)\n\n主场: 布莱顿\n客场: 利兹联\n场馆: American
+  Express Stadium\n城市: Falmer
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -56,11 +57,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260915T030000
 DTEND;TZID=Asia/Shanghai:20260915T040000
-SUMMARY:利兹联 Schedule · 利兹联 vs 纽卡斯尔联
-DESCRIPTION:纽卡斯尔联 作客 利兹联（英超 2026-27 赛季，北
- 京时间）\n\n主场: 利兹联\n客场: 纽卡斯尔联\n场馆: Elland
-  Road\n城市: Leeds
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United vs Newcastle United
+DESCRIPTION:Newcastle United at Leeds United (Premier League 2026-27\, Bei
+ jing time)\n\n主场: 利兹联\n客场: 纽卡斯尔联\n场馆: Elland R
+ oad\n城市: Leeds
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -70,11 +71,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260919T220000
 DTEND;TZID=Asia/Shanghai:20260919T230000
-SUMMARY:利兹联 Schedule · 利兹联 vs 克里斯托尔宫
-DESCRIPTION:克里斯托尔宫 作客 利兹联（英超 2026-27 赛季，
- 北京时间）\n\n主场: 利兹联\n客场: 克里斯托尔宫\n场馆: 
- Elland Road\n城市: Leeds
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United vs Crystal Palace
+DESCRIPTION:Crystal Palace at Leeds United (Premier League 2026-27\, Beiji
+ ng time)\n\n主场: 利兹联\n客场: 克里斯托尔宫\n场馆: Elland 
+ Road\n城市: Leeds
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -84,11 +85,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261010T193000
 DTEND;TZID=Asia/Shanghai:20261010T203000
-SUMMARY:利兹联 Schedule · 利兹联 @ 阿森纳
-DESCRIPTION:利兹联 作客 阿森纳（英超 2026-27 赛季，北京时
- 间）\n\n主场: 阿森纳\n客场: 利兹联\n场馆: Emirates Stadium\n
- 城市: London
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United @ Arsenal
+DESCRIPTION:Leeds United at Arsenal (Premier League 2026-27\, Beijing time
+ )\n\n主场: 阿森纳\n客场: 利兹联\n场馆: Emirates Stadium\n城
+ 市: London
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -98,11 +99,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261018T210000
 DTEND;TZID=Asia/Shanghai:20261018T220000
-SUMMARY:利兹联 Schedule · 利兹联 vs 曼联
-DESCRIPTION:曼联 作客 利兹联（英超 2026-27 赛季，北京时间
- ）\n\n主场: 利兹联\n客场: 曼联\n场馆: Elland Road\n城市: Lee
- ds
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United vs Manchester United
+DESCRIPTION:Manchester United at Leeds United (Premier League 2026-27\, Be
+ ijing time)\n\n主场: 利兹联\n客场: 曼联\n场馆: Elland Road\n城
+ 市: Leeds
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -112,11 +113,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261026T003000
 DTEND;TZID=Asia/Shanghai:20261026T013000
-SUMMARY:利兹联 Schedule · 利兹联 @ 桑德兰
-DESCRIPTION:利兹联 作客 桑德兰（英超 2026-27 赛季，北京时
- 间）\n\n主场: 桑德兰\n客场: 利兹联\n场馆: Stadium of Light\n
+SUMMARY:Leeds United Schedule · Leeds United @ Sunderland
+DESCRIPTION:Leeds United at Sunderland (Premier League 2026-27\, Beijing t
+ ime)\n\n主场: 桑德兰\n客场: 利兹联\n场馆: Stadium of Light\n
  城市: Sunderland
-CATEGORIES:利兹联 Schedule
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -126,11 +127,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261031T230000
 DTEND;TZID=Asia/Shanghai:20261101T000000
-SUMMARY:利兹联 Schedule · 利兹联 @ 伯恩茅斯
-DESCRIPTION:利兹联 作客 伯恩茅斯（英超 2026-27 赛季，北京
- 时间）\n\n主场: 伯恩茅斯\n客场: 利兹联\n场馆: Vitality Sta
+SUMMARY:Leeds United Schedule · Leeds United @ AFC Bournemouth
+DESCRIPTION:Leeds United at AFC Bournemouth (Premier League 2026-27\, Beij
+ ing time)\n\n主场: 伯恩茅斯\n客场: 利兹联\n场馆: Vitality Sta
  dium\n城市: Bournemouth
-CATEGORIES:利兹联 Schedule
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -140,11 +141,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261107T230000
 DTEND;TZID=Asia/Shanghai:20261108T000000
-SUMMARY:利兹联 Schedule · 利兹联 vs 热刺
-DESCRIPTION:热刺 作客 利兹联（英超 2026-27 赛季，北京时间
- ）\n\n主场: 利兹联\n客场: 热刺\n场馆: Elland Road\n城市: Lee
- ds
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United vs Tottenham Hotspur
+DESCRIPTION:Tottenham Hotspur at Leeds United (Premier League 2026-27\, Be
+ ijing time)\n\n主场: 利兹联\n客场: 热刺\n场馆: Elland Road\n城
+ 市: Leeds
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -154,11 +155,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261121T230000
 DTEND;TZID=Asia/Shanghai:20261122T000000
-SUMMARY:利兹联 Schedule · 利兹联 @ 切尔西
-DESCRIPTION:利兹联 作客 切尔西（英超 2026-27 赛季，北京时
- 间）\n\n主场: 切尔西\n客场: 利兹联\n场馆: Stamford Bridge\n
- 城市: London
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United @ Chelsea
+DESCRIPTION:Leeds United at Chelsea (Premier League 2026-27\, Beijing time
+ )\n\n主场: 切尔西\n客场: 利兹联\n场馆: Stamford Bridge\n城市
+ : London
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -168,11 +169,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261128T230000
 DTEND;TZID=Asia/Shanghai:20261129T000000
-SUMMARY:利兹联 Schedule · 利兹联 vs 考文垂
-DESCRIPTION:考文垂 作客 利兹联（英超 2026-27 赛季，北京时
- 间）\n\n主场: 利兹联\n客场: 考文垂\n场馆: Elland Road\n城
+SUMMARY:Leeds United Schedule · Leeds United vs Coventry City
+DESCRIPTION:Coventry City at Leeds United (Premier League 2026-27\, Beijin
+ g time)\n\n主场: 利兹联\n客场: 考文垂\n场馆: Elland Road\n城
  市: Leeds
-CATEGORIES:利兹联 Schedule
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -182,11 +183,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261203T040000
 DTEND;TZID=Asia/Shanghai:20261203T050000
-SUMMARY:利兹联 Schedule · 利兹联 @ 曼城
-DESCRIPTION:利兹联 作客 曼城（英超 2026-27 赛季，北京时间
- ）\n\n主场: 曼城\n客场: 利兹联\n场馆: Etihad Stadium\n城市: 
- Manchester
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United @ Manchester City
+DESCRIPTION:Leeds United at Manchester City (Premier League 2026-27\, Beij
+ ing time)\n\n主场: 曼城\n客场: 利兹联\n场馆: Etihad Stadium\n
+ 城市: Manchester
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -196,11 +197,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261205T230000
 DTEND;TZID=Asia/Shanghai:20261206T000000
-SUMMARY:利兹联 Schedule · 利兹联 vs 伊普斯维奇
-DESCRIPTION:伊普斯维奇 作客 利兹联（英超 2026-27 赛季，北
- 京时间）\n\n主场: 利兹联\n客场: 伊普斯维奇\n场馆: Elland
-  Road\n城市: Leeds
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United vs Ipswich Town
+DESCRIPTION:Ipswich Town at Leeds United (Premier League 2026-27\, Beijing
+  time)\n\n主场: 利兹联\n客场: 伊普斯维奇\n场馆: Elland Road\
+ n城市: Leeds
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -210,11 +211,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261212T230000
 DTEND;TZID=Asia/Shanghai:20261213T000000
-SUMMARY:利兹联 Schedule · 利兹联 @ 利物浦
-DESCRIPTION:利兹联 作客 利物浦（英超 2026-27 赛季，北京时
- 间）\n\n主场: 利物浦\n客场: 利兹联\n场馆: Anfield\n城市: L
- iverpool
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United @ Liverpool
+DESCRIPTION:Leeds United at Liverpool (Premier League 2026-27\, Beijing ti
+ me)\n\n主场: 利物浦\n客场: 利兹联\n场馆: Anfield\n城市: Live
+ rpool
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -224,11 +225,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261219T230000
 DTEND;TZID=Asia/Shanghai:20261220T000000
-SUMMARY:利兹联 Schedule · 利兹联 vs 富勒姆
-DESCRIPTION:富勒姆 作客 利兹联（英超 2026-27 赛季，北京时
- 间）\n\n主场: 利兹联\n客场: 富勒姆\n场馆: Elland Road\n城
- 市: Leeds
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United vs Fulham
+DESCRIPTION:Fulham at Leeds United (Premier League 2026-27\, Beijing time)
+ \n\n主场: 利兹联\n客场: 富勒姆\n场馆: Elland Road\n城市: Lee
+ ds
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -238,11 +239,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261226T230000
 DTEND;TZID=Asia/Shanghai:20261227T000000
-SUMMARY:利兹联 Schedule · 利兹联 @ 阿斯顿维拉
-DESCRIPTION:利兹联 作客 阿斯顿维拉（英超 2026-27 赛季，北
- 京时间）\n\n主场: 阿斯顿维拉\n客场: 利兹联\n场馆: Villa 
- Park\n城市: Birmingham
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United @ Aston Villa
+DESCRIPTION:Leeds United at Aston Villa (Premier League 2026-27\, Beijing 
+ time)\n\n主场: 阿斯顿维拉\n客场: 利兹联\n场馆: Villa Park\n
+ 城市: Birmingham
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -252,11 +253,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261231T040000
 DTEND;TZID=Asia/Shanghai:20261231T050000
-SUMMARY:利兹联 Schedule · 利兹联 @ 赫尔城
-DESCRIPTION:利兹联 作客 赫尔城（英超 2026-27 赛季，北京时
- 间）\n\n主场: 赫尔城\n客场: 利兹联\n场馆: The MKM Stadium\n
- 城市: Hull
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United @ Hull City
+DESCRIPTION:Leeds United at Hull City (Premier League 2026-27\, Beijing ti
+ me)\n\n主场: 赫尔城\n客场: 利兹联\n场馆: The MKM Stadium\n城
+ 市: Hull
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -266,11 +267,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270102T230000
 DTEND;TZID=Asia/Shanghai:20270103T000000
-SUMMARY:利兹联 Schedule · 利兹联 vs 埃弗顿
-DESCRIPTION:埃弗顿 作客 利兹联（英超 2026-27 赛季，北京时
- 间）\n\n主场: 利兹联\n客场: 埃弗顿\n场馆: Elland Road\n城
- 市: Leeds
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United vs Everton
+DESCRIPTION:Everton at Leeds United (Premier League 2026-27\, Beijing time
+ )\n\n主场: 利兹联\n客场: 埃弗顿\n场馆: Elland Road\n城市: Le
+ eds
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -280,11 +281,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270107T040000
 DTEND;TZID=Asia/Shanghai:20270107T050000
-SUMMARY:利兹联 Schedule · 利兹联 vs 曼城
-DESCRIPTION:曼城 作客 利兹联（英超 2026-27 赛季，北京时间
- ）\n\n主场: 利兹联\n客场: 曼城\n场馆: Elland Road\n城市: Lee
- ds
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United vs Manchester City
+DESCRIPTION:Manchester City at Leeds United (Premier League 2026-27\, Beij
+ ing time)\n\n主场: 利兹联\n客场: 曼城\n场馆: Elland Road\n城
+ 市: Leeds
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -294,11 +295,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270116T230000
 DTEND;TZID=Asia/Shanghai:20270117T000000
-SUMMARY:利兹联 Schedule · 利兹联 @ 热刺
-DESCRIPTION:利兹联 作客 热刺（英超 2026-27 赛季，北京时间
- ）\n\n主场: 热刺\n客场: 利兹联\n场馆: Tottenham Hotspur Stadiu
- m\n城市: London
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United @ Tottenham Hotspur
+DESCRIPTION:Leeds United at Tottenham Hotspur (Premier League 2026-27\, Be
+ ijing time)\n\n主场: 热刺\n客场: 利兹联\n场馆: Tottenham Hotspu
+ r Stadium\n城市: London
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -308,11 +309,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270123T230000
 DTEND;TZID=Asia/Shanghai:20270124T000000
-SUMMARY:利兹联 Schedule · 利兹联 vs 切尔西
-DESCRIPTION:切尔西 作客 利兹联（英超 2026-27 赛季，北京时
- 间）\n\n主场: 利兹联\n客场: 切尔西\n场馆: Elland Road\n城
- 市: Leeds
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United vs Chelsea
+DESCRIPTION:Chelsea at Leeds United (Premier League 2026-27\, Beijing time
+ )\n\n主场: 利兹联\n客场: 切尔西\n场馆: Elland Road\n城市: Le
+ eds
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -322,11 +323,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270130T230000
 DTEND;TZID=Asia/Shanghai:20270131T000000
-SUMMARY:利兹联 Schedule · 利兹联 @ 考文垂
-DESCRIPTION:利兹联 作客 考文垂（英超 2026-27 赛季，北京时
- 间）\n\n主场: 考文垂\n客场: 利兹联\n场馆: Coventry Building 
- Society Arena\n城市: Coventry
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United @ Coventry City
+DESCRIPTION:Leeds United at Coventry City (Premier League 2026-27\, Beijin
+ g time)\n\n主场: 考文垂\n客场: 利兹联\n场馆: Coventry Building
+  Society Arena\n城市: Coventry
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -336,11 +337,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270206T230000
 DTEND;TZID=Asia/Shanghai:20270207T000000
-SUMMARY:利兹联 Schedule · 利兹联 vs 伯恩茅斯
-DESCRIPTION:伯恩茅斯 作客 利兹联（英超 2026-27 赛季，北京
- 时间）\n\n主场: 利兹联\n客场: 伯恩茅斯\n场馆: Elland Road\
+SUMMARY:Leeds United Schedule · Leeds United vs AFC Bournemouth
+DESCRIPTION:AFC Bournemouth at Leeds United (Premier League 2026-27\, Beij
+ ing time)\n\n主场: 利兹联\n客场: 伯恩茅斯\n场馆: Elland Road\
  n城市: Leeds
-CATEGORIES:利兹联 Schedule
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -350,11 +351,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270211T040000
 DTEND;TZID=Asia/Shanghai:20270211T050000
-SUMMARY:利兹联 Schedule · 利兹联 @ 埃弗顿
-DESCRIPTION:利兹联 作客 埃弗顿（英超 2026-27 赛季，北京时
- 间）\n\n主场: 埃弗顿\n客场: 利兹联\n场馆: Hill Dickinson Sta
- dium\n城市: Liverpool
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United @ Everton
+DESCRIPTION:Leeds United at Everton (Premier League 2026-27\, Beijing time
+ )\n\n主场: 埃弗顿\n客场: 利兹联\n场馆: Hill Dickinson Stadium\
+ n城市: Liverpool
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -364,11 +365,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270220T230000
 DTEND;TZID=Asia/Shanghai:20270221T000000
-SUMMARY:利兹联 Schedule · 利兹联 vs 阿斯顿维拉
-DESCRIPTION:阿斯顿维拉 作客 利兹联（英超 2026-27 赛季，北
- 京时间）\n\n主场: 利兹联\n客场: 阿斯顿维拉\n场馆: Elland
-  Road\n城市: Leeds
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United vs Aston Villa
+DESCRIPTION:Aston Villa at Leeds United (Premier League 2026-27\, Beijing 
+ time)\n\n主场: 利兹联\n客场: 阿斯顿维拉\n场馆: Elland Road\n
+ 城市: Leeds
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -378,11 +379,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270227T230000
 DTEND;TZID=Asia/Shanghai:20270228T000000
-SUMMARY:利兹联 Schedule · 利兹联 @ 富勒姆
-DESCRIPTION:利兹联 作客 富勒姆（英超 2026-27 赛季，北京时
- 间）\n\n主场: 富勒姆\n客场: 利兹联\n场馆: Craven Cottage\n
- 城市: London
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United @ Fulham
+DESCRIPTION:Leeds United at Fulham (Premier League 2026-27\, Beijing time)
+ \n\n主场: 富勒姆\n客场: 利兹联\n场馆: Craven Cottage\n城市: 
+ London
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -392,11 +393,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270304T040000
 DTEND;TZID=Asia/Shanghai:20270304T050000
-SUMMARY:利兹联 Schedule · 利兹联 vs 赫尔城
-DESCRIPTION:赫尔城 作客 利兹联（英超 2026-27 赛季，北京时
- 间）\n\n主场: 利兹联\n客场: 赫尔城\n场馆: Elland Road\n城
- 市: Leeds
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United vs Hull City
+DESCRIPTION:Hull City at Leeds United (Premier League 2026-27\, Beijing ti
+ me)\n\n主场: 利兹联\n客场: 赫尔城\n场馆: Elland Road\n城市: 
+ Leeds
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -406,11 +407,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270313T230000
 DTEND;TZID=Asia/Shanghai:20270314T000000
-SUMMARY:利兹联 Schedule · 利兹联 vs 布莱顿
-DESCRIPTION:布莱顿 作客 利兹联（英超 2026-27 赛季，北京时
- 间）\n\n主场: 利兹联\n客场: 布莱顿\n场馆: Elland Road\n城
- 市: Leeds
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United vs Brighton & Hove Albion
+DESCRIPTION:Brighton & Hove Albion at Leeds United (Premier League 2026-27
+ \, Beijing time)\n\n主场: 利兹联\n客场: 布莱顿\n场馆: Elland R
+ oad\n城市: Leeds
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -420,11 +421,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270320T230000
 DTEND;TZID=Asia/Shanghai:20270321T000000
-SUMMARY:利兹联 Schedule · 利兹联 @ 纽卡斯尔联
-DESCRIPTION:利兹联 作客 纽卡斯尔联（英超 2026-27 赛季，北
- 京时间）\n\n主场: 纽卡斯尔联\n客场: 利兹联\n场馆: St. Ja
- mes' Park\n城市: Newcastle-upon-Tyne
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United @ Newcastle United
+DESCRIPTION:Leeds United at Newcastle United (Premier League 2026-27\, Bei
+ jing time)\n\n主场: 纽卡斯尔联\n客场: 利兹联\n场馆: St. Jame
+ s' Park\n城市: Newcastle-upon-Tyne
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -434,11 +435,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270410T220000
 DTEND;TZID=Asia/Shanghai:20270410T230000
-SUMMARY:利兹联 Schedule · 利兹联 vs 诺丁汉森林
-DESCRIPTION:诺丁汉森林 作客 利兹联（英超 2026-27 赛季，北
- 京时间）\n\n主场: 利兹联\n客场: 诺丁汉森林\n场馆: Elland
-  Road\n城市: Leeds
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United vs Nottingham Forest
+DESCRIPTION:Nottingham Forest at Leeds United (Premier League 2026-27\, Be
+ ijing time)\n\n主场: 利兹联\n客场: 诺丁汉森林\n场馆: Elland 
+ Road\n城市: Leeds
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -448,11 +449,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270417T220000
 DTEND;TZID=Asia/Shanghai:20270417T230000
-SUMMARY:利兹联 Schedule · 利兹联 @ 布伦特福德
-DESCRIPTION:利兹联 作客 布伦特福德（英超 2026-27 赛季，北
- 京时间）\n\n主场: 布伦特福德\n客场: 利兹联\n场馆: Gtech 
- Community Stadium\n城市: Brentford
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United @ Brentford
+DESCRIPTION:Leeds United at Brentford (Premier League 2026-27\, Beijing ti
+ me)\n\n主场: 布伦特福德\n客场: 利兹联\n场馆: Gtech Community
+  Stadium\n城市: Brentford
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -462,11 +463,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270424T220000
 DTEND;TZID=Asia/Shanghai:20270424T230000
-SUMMARY:利兹联 Schedule · 利兹联 vs 利物浦
-DESCRIPTION:利物浦 作客 利兹联（英超 2026-27 赛季，北京时
- 间）\n\n主场: 利兹联\n客场: 利物浦\n场馆: Elland Road\n城
- 市: Leeds
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United vs Liverpool
+DESCRIPTION:Liverpool at Leeds United (Premier League 2026-27\, Beijing ti
+ me)\n\n主场: 利兹联\n客场: 利物浦\n场馆: Elland Road\n城市: 
+ Leeds
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -476,11 +477,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270501T220000
 DTEND;TZID=Asia/Shanghai:20270501T230000
-SUMMARY:利兹联 Schedule · 利兹联 @ 伊普斯维奇
-DESCRIPTION:利兹联 作客 伊普斯维奇（英超 2026-27 赛季，北
- 京时间）\n\n主场: 伊普斯维奇\n客场: 利兹联\n场馆: Portma
- n Road\n城市: Ipswich
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United @ Ipswich Town
+DESCRIPTION:Leeds United at Ipswich Town (Premier League 2026-27\, Beijing
+  time)\n\n主场: 伊普斯维奇\n客场: 利兹联\n场馆: Portman Road
+ \n城市: Ipswich
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -490,11 +491,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270508T220000
 DTEND;TZID=Asia/Shanghai:20270508T230000
-SUMMARY:利兹联 Schedule · 利兹联 vs 阿森纳
-DESCRIPTION:阿森纳 作客 利兹联（英超 2026-27 赛季，北京时
- 间）\n\n主场: 利兹联\n客场: 阿森纳\n场馆: Elland Road\n城
- 市: Leeds
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United vs Arsenal
+DESCRIPTION:Arsenal at Leeds United (Premier League 2026-27\, Beijing time
+ )\n\n主场: 利兹联\n客场: 阿森纳\n场馆: Elland Road\n城市: Le
+ eds
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -504,11 +505,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270515T220000
 DTEND;TZID=Asia/Shanghai:20270515T230000
-SUMMARY:利兹联 Schedule · 利兹联 @ 曼联
-DESCRIPTION:利兹联 作客 曼联（英超 2026-27 赛季，北京时间
- ）\n\n主场: 曼联\n客场: 利兹联\n场馆: Old Trafford\n城市: Ma
- nchester
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United @ Manchester United
+DESCRIPTION:Leeds United at Manchester United (Premier League 2026-27\, Be
+ ijing time)\n\n主场: 曼联\n客场: 利兹联\n场馆: Old Trafford\n
+ 城市: Manchester
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -518,11 +519,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270523T220000
 DTEND;TZID=Asia/Shanghai:20270523T230000
-SUMMARY:利兹联 Schedule · 利兹联 vs 桑德兰
-DESCRIPTION:桑德兰 作客 利兹联（英超 2026-27 赛季，北京时
- 间）\n\n主场: 利兹联\n客场: 桑德兰\n场馆: Elland Road\n城
- 市: Leeds
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United vs Sunderland
+DESCRIPTION:Sunderland at Leeds United (Premier League 2026-27\, Beijing t
+ ime)\n\n主场: 利兹联\n客场: 桑德兰\n场馆: Elland Road\n城市:
+  Leeds
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
@@ -532,11 +533,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270530T230000
 DTEND;TZID=Asia/Shanghai:20270531T000000
-SUMMARY:利兹联 Schedule · 利兹联 @ 克里斯托尔宫
-DESCRIPTION:利兹联 作客 克里斯托尔宫（英超 2026-27 赛季，
- 北京时间）\n\n主场: 克里斯托尔宫\n客场: 利兹联\n场馆: 
- Selhurst Park\n城市: London
-CATEGORIES:利兹联 Schedule
+SUMMARY:Leeds United Schedule · Leeds United @ Crystal Palace
+DESCRIPTION:Leeds United at Crystal Palace (Premier League 2026-27\, Beiji
+ ng time)\n\n主场: 克里斯托尔宫\n客场: 利兹联\n场馆: Selhurs
+ t Park\n城市: London
+CATEGORIES:Leeds United Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT

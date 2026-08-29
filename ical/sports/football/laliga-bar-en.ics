@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Koyomi Cast//laliga-bar//EN
 URL:https://koyomi.cast/sources/laliga
-NAME:巴塞罗那 Schedule
-X-WR-CALNAME:巴塞罗那 Schedule
-X-WR-CALDESC:巴塞罗那 schedule in LaLiga Schedule, auto-synced.
+NAME:Barcelona Schedule
+X-WR-CALNAME:Barcelona Schedule
+X-WR-CALDESC:Barcelona schedule in LaLiga Schedule, auto-synced.
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
@@ -13,12 +13,12 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260824T033000
 DTEND;TZID=Asia/Shanghai:20260824T043000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 @ 埃尔切
-DESCRIPTION:巴塞罗那 作客 埃尔切（西甲 2026-27 赛季，北京
- 时间）\n\nScore: 埃尔切 0 - 5 巴塞罗那\n\n主场: 埃尔切\n客
- 场: 巴塞罗那\n比分: 埃尔切 0 - 5 巴塞罗那\n场馆: Estadio M
- artínez Valero\n城市: Elche
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona @ Elche
+DESCRIPTION:Barcelona at Elche (La Liga 2026-27\, Beijing time)\n\nScore: 
+ 埃尔切 0 - 5 巴塞罗那\n\n主场: 埃尔切\n客场: 巴塞罗那\n
+ 比分: 埃尔切 0 - 5 巴塞罗那\n场馆: Estadio Martínez Valero\n
+ 城市: Elche
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -28,12 +28,12 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260828T030000
 DTEND;TZID=Asia/Shanghai:20260828T040000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 vs 毕尔巴鄂竞技
-DESCRIPTION:毕尔巴鄂竞技 作客 巴塞罗那（西甲 2026-27 赛季
- ，北京时间）\n\nScore: 巴塞罗那 2 - 0 毕尔巴鄂竞技\n\n主
- 场: 巴塞罗那\n客场: 毕尔巴鄂竞技\n比分: 巴塞罗那 2 - 0 
- 毕尔巴鄂竞技\n场馆: Spotify Camp Nou\n城市: Barcelona
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona vs Athletic Club
+DESCRIPTION:Athletic Club at Barcelona (La Liga 2026-27\, Beijing time)\n\
+ nScore: 巴塞罗那 2 - 0 毕尔巴鄂竞技\n\n主场: 巴塞罗那\n客
+ 场: 毕尔巴鄂竞技\n比分: 巴塞罗那 2 - 0 毕尔巴鄂竞技\n
+ 场馆: Spotify Camp Nou\n城市: Barcelona
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -43,11 +43,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260901T033000
 DTEND;TZID=Asia/Shanghai:20260901T043000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 vs 瓦列卡诺
-DESCRIPTION:瓦列卡诺 作客 巴塞罗那（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 巴塞罗那\n客场: 瓦列卡诺\n场馆: Spotif
- y Camp Nou\n城市: Barcelona
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona vs Rayo Vallecano
+DESCRIPTION:Rayo Vallecano at Barcelona (La Liga 2026-27\, Beijing time)\n
+ \n主场: 巴塞罗那\n客场: 瓦列卡诺\n场馆: Spotify Camp Nou\n
+ 城市: Barcelona
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -57,11 +57,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260906T221500
 DTEND;TZID=Asia/Shanghai:20260906T231500
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 @ 瓦伦西亚
-DESCRIPTION:巴塞罗那 作客 瓦伦西亚（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 瓦伦西亚\n客场: 巴塞罗那\n场馆: Mestal
- la Stadium\n城市: Manises
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona @ Valencia
+DESCRIPTION:Barcelona at Valencia (La Liga 2026-27\, Beijing time)\n\n主
+ 场: 瓦伦西亚\n客场: 巴塞罗那\n场馆: Mestalla Stadium\n城市:
+  Manises
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -71,11 +71,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260914T020000
 DTEND;TZID=Asia/Shanghai:20260914T030000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 @ 莱万特
-DESCRIPTION:巴塞罗那 作客 莱万特（西甲 2026-27 赛季，北京
- 时间）\n\n主场: 莱万特\n客场: 巴塞罗那\n场馆: Estadi Ciuta
- t de València\n城市: Manises
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona @ Levante
+DESCRIPTION:Barcelona at Levante (La Liga 2026-27\, Beijing time)\n\n主
+ 场: 莱万特\n客场: 巴塞罗那\n场馆: Estadi Ciutat de València\n
+ 城市: Manises
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -85,11 +85,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260917T020000
 DTEND;TZID=Asia/Shanghai:20260917T030000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 vs 桑坦德竞技
-DESCRIPTION:桑坦德竞技 作客 巴塞罗那（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 巴塞罗那\n客场: 桑坦德竞技\n场馆: 
- Spotify Camp Nou\n城市: Barcelona
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona vs Racing Santander
+DESCRIPTION:Racing Santander at Barcelona (La Liga 2026-27\, Beijing time)
+ \n\n主场: 巴塞罗那\n客场: 桑坦德竞技\n场馆: Spotify Camp No
+ u\n城市: Barcelona
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -99,11 +99,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260921T020000
 DTEND;TZID=Asia/Shanghai:20260921T030000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 @ 塞维利亚
-DESCRIPTION:巴塞罗那 作客 塞维利亚（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 塞维利亚\n客场: 巴塞罗那\n场馆: Ramón
-  Sánchez Pizjuán Stadium\n城市: Sevilla
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona @ Sevilla
+DESCRIPTION:Barcelona at Sevilla (La Liga 2026-27\, Beijing time)\n\n主
+ 场: 塞维利亚\n客场: 巴塞罗那\n场馆: Ramón Sánchez Pizjuán 
+ Stadium\n城市: Sevilla
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -113,11 +113,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261012T020000
 DTEND;TZID=Asia/Shanghai:20261012T030000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 vs 赫塔费
-DESCRIPTION:赫塔费 作客 巴塞罗那（西甲 2026-27 赛季，北京
- 时间）\n\n主场: 巴塞罗那\n客场: 赫塔费\n场馆: Spotify Camp
-  Nou\n城市: Barcelona
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona vs Getafe
+DESCRIPTION:Getafe at Barcelona (La Liga 2026-27\, Beijing time)\n\n主场
+ : 巴塞罗那\n客场: 赫塔费\n场馆: Spotify Camp Nou\n城市: Barce
+ lona
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -127,11 +127,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261019T020000
 DTEND;TZID=Asia/Shanghai:20261019T030000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 @ 皇家贝蒂斯
-DESCRIPTION:巴塞罗那 作客 皇家贝蒂斯（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 皇家贝蒂斯\n客场: 巴塞罗那\n场馆: 
- Estadio La Cartuja\n城市: Sevilla
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona @ Real Betis
+DESCRIPTION:Barcelona at Real Betis (La Liga 2026-27\, Beijing time)\n\n
+ 主场: 皇家贝蒂斯\n客场: 巴塞罗那\n场馆: Estadio La Cartuja\
+ n城市: Sevilla
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -141,11 +141,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261026T020000
 DTEND;TZID=Asia/Shanghai:20261026T030000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 vs 皇家马德里
-DESCRIPTION:皇家马德里 作客 巴塞罗那（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 巴塞罗那\n客场: 皇家马德里\n场馆: 
- Spotify Camp Nou\n城市: Barcelona
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona vs Real Madrid
+DESCRIPTION:Real Madrid at Barcelona (La Liga 2026-27\, Beijing time)\n\n
+ 主场: 巴塞罗那\n客场: 皇家马德里\n场馆: Spotify Camp Nou\n
+ 城市: Barcelona
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -155,11 +155,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261102T040000
 DTEND;TZID=Asia/Shanghai:20261102T050000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 vs 阿拉维斯
-DESCRIPTION:阿拉维斯 作客 巴塞罗那（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 巴塞罗那\n客场: 阿拉维斯\n场馆: Spotif
- y Camp Nou\n城市: Barcelona
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona vs Alavés
+DESCRIPTION:Alavés at Barcelona (La Liga 2026-27\, Beijing time)\n\n主
+ 场: 巴塞罗那\n客场: 阿拉维斯\n场馆: Spotify Camp Nou\n城市:
+  Barcelona
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -169,11 +169,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261109T040000
 DTEND;TZID=Asia/Shanghai:20261109T050000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 @ 马竞
-DESCRIPTION:巴塞罗那 作客 马竞（西甲 2026-27 赛季，北京时
- 间）\n\n主场: 马竞\n客场: 巴塞罗那\n场馆: Riyadh Air Metropo
- litano\n城市: Madrid
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona @ Atlético Madrid
+DESCRIPTION:Barcelona at Atlético Madrid (La Liga 2026-27\, Beijing time)
+ \n\n主场: 马竞\n客场: 巴塞罗那\n场馆: Riyadh Air Metropolitano
+ \n城市: Madrid
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -183,11 +183,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261123T040000
 DTEND;TZID=Asia/Shanghai:20261123T050000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 vs 比利亚雷亚尔
-DESCRIPTION:比利亚雷亚尔 作客 巴塞罗那（西甲 2026-27 赛季
- ，北京时间）\n\n主场: 巴塞罗那\n客场: 比利亚雷亚尔\n
- 场馆: Spotify Camp Nou\n城市: Barcelona
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona vs Villarreal
+DESCRIPTION:Villarreal at Barcelona (La Liga 2026-27\, Beijing time)\n\n
+ 主场: 巴塞罗那\n客场: 比利亚雷亚尔\n场馆: Spotify Camp Nou
+ \n城市: Barcelona
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -197,11 +197,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261130T040000
 DTEND;TZID=Asia/Shanghai:20261130T050000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 @ 拉科鲁尼亚
-DESCRIPTION:巴塞罗那 作客 拉科鲁尼亚（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 拉科鲁尼亚\n客场: 巴塞罗那\n场馆: 
- Riazor\n城市: La Coruña
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona @ Deportivo
+DESCRIPTION:Barcelona at Deportivo (La Liga 2026-27\, Beijing time)\n\n主
+ 场: 拉科鲁尼亚\n客场: 巴塞罗那\n场馆: Riazor\n城市: La Cor
+ uña
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -211,11 +211,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261207T040000
 DTEND;TZID=Asia/Shanghai:20261207T050000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 vs 塞尔塔
-DESCRIPTION:塞尔塔 作客 巴塞罗那（西甲 2026-27 赛季，北京
- 时间）\n\n主场: 巴塞罗那\n客场: 塞尔塔\n场馆: Spotify Camp
-  Nou\n城市: Barcelona
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona vs Celta Vigo
+DESCRIPTION:Celta Vigo at Barcelona (La Liga 2026-27\, Beijing time)\n\n
+ 主场: 巴塞罗那\n客场: 塞尔塔\n场馆: Spotify Camp Nou\n城市:
+  Barcelona
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -225,11 +225,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261214T040000
 DTEND;TZID=Asia/Shanghai:20261214T050000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 @ 马拉加
-DESCRIPTION:巴塞罗那 作客 马拉加（西甲 2026-27 赛季，北京
- 时间）\n\n主场: 马拉加\n客场: 巴塞罗那\n场馆: La Rosaleda\
- n城市: Malaga
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona @ Málaga
+DESCRIPTION:Barcelona at Málaga (La Liga 2026-27\, Beijing time)\n\n主
+ 场: 马拉加\n客场: 巴塞罗那\n场馆: La Rosaleda\n城市: Malaga
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -239,11 +238,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261221T040000
 DTEND;TZID=Asia/Shanghai:20261221T050000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 vs 皇家社会
-DESCRIPTION:皇家社会 作客 巴塞罗那（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 巴塞罗那\n客场: 皇家社会\n场馆: Spotif
- y Camp Nou\n城市: Barcelona
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona vs Real Sociedad
+DESCRIPTION:Real Sociedad at Barcelona (La Liga 2026-27\, Beijing time)\n\
+ n主场: 巴塞罗那\n客场: 皇家社会\n场馆: Spotify Camp Nou\n城
+ 市: Barcelona
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -253,11 +252,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270104T040000
 DTEND;TZID=Asia/Shanghai:20270104T050000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 @ 西班牙人
-DESCRIPTION:巴塞罗那 作客 西班牙人（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 西班牙人\n客场: 巴塞罗那\n场馆: RCDE S
- tadium\n城市: Barcelona
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona @ Espanyol
+DESCRIPTION:Barcelona at Espanyol (La Liga 2026-27\, Beijing time)\n\n主
+ 场: 西班牙人\n客场: 巴塞罗那\n场馆: RCDE Stadium\n城市: Bar
+ celona
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -267,11 +266,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270111T040000
 DTEND;TZID=Asia/Shanghai:20270111T050000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 @ 奥萨苏纳
-DESCRIPTION:巴塞罗那 作客 奥萨苏纳（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 奥萨苏纳\n客场: 巴塞罗那\n场馆: El Sad
- ar\n城市: Pamplona
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona @ Osasuna
+DESCRIPTION:Barcelona at Osasuna (La Liga 2026-27\, Beijing time)\n\n主
+ 场: 奥萨苏纳\n客场: 巴塞罗那\n场馆: El Sadar\n城市: Pamplon
+ a
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -281,11 +280,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270118T040000
 DTEND;TZID=Asia/Shanghai:20270118T050000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 vs 埃尔切
-DESCRIPTION:埃尔切 作客 巴塞罗那（西甲 2026-27 赛季，北京
- 时间）\n\n主场: 巴塞罗那\n客场: 埃尔切\n场馆: Spotify Camp
-  Nou\n城市: Barcelona
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona vs Elche
+DESCRIPTION:Elche at Barcelona (La Liga 2026-27\, Beijing time)\n\n主场:
+  巴塞罗那\n客场: 埃尔切\n场馆: Spotify Camp Nou\n城市: Barcel
+ ona
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -295,11 +294,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270125T040000
 DTEND;TZID=Asia/Shanghai:20270125T050000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 @ 阿拉维斯
-DESCRIPTION:巴塞罗那 作客 阿拉维斯（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 阿拉维斯\n客场: 巴塞罗那\n场馆: Mendiz
- orrotza\n城市: Vitoria-Gasteiz
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona @ Alavés
+DESCRIPTION:Barcelona at Alavés (La Liga 2026-27\, Beijing time)\n\n主
+ 场: 阿拉维斯\n客场: 巴塞罗那\n场馆: Mendizorrotza\n城市: Vi
+ toria-Gasteiz
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -309,11 +308,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270201T040000
 DTEND;TZID=Asia/Shanghai:20270201T050000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 vs 瓦伦西亚
-DESCRIPTION:瓦伦西亚 作客 巴塞罗那（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 巴塞罗那\n客场: 瓦伦西亚\n场馆: Spotif
- y Camp Nou\n城市: Barcelona
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona vs Valencia
+DESCRIPTION:Valencia at Barcelona (La Liga 2026-27\, Beijing time)\n\n主
+ 场: 巴塞罗那\n客场: 瓦伦西亚\n场馆: Spotify Camp Nou\n城市:
+  Barcelona
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -323,11 +322,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270208T040000
 DTEND;TZID=Asia/Shanghai:20270208T050000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 vs 马竞
-DESCRIPTION:马竞 作客 巴塞罗那（西甲 2026-27 赛季，北京时
- 间）\n\n主场: 巴塞罗那\n客场: 马竞\n场馆: Spotify Camp Nou\n
- 城市: Barcelona
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona vs Atlético Madrid
+DESCRIPTION:Atlético Madrid at Barcelona (La Liga 2026-27\, Beijing time)
+ \n\n主场: 巴塞罗那\n客场: 马竞\n场馆: Spotify Camp Nou\n城市
+ : Barcelona
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -337,11 +336,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270215T040000
 DTEND;TZID=Asia/Shanghai:20270215T050000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 @ 比利亚雷亚尔
-DESCRIPTION:巴塞罗那 作客 比利亚雷亚尔（西甲 2026-27 赛季
- ，北京时间）\n\n主场: 比利亚雷亚尔\n客场: 巴塞罗那\n
- 场馆: Estadio de la Cerámica\n城市: Villarreal
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona @ Villarreal
+DESCRIPTION:Barcelona at Villarreal (La Liga 2026-27\, Beijing time)\n\n
+ 主场: 比利亚雷亚尔\n客场: 巴塞罗那\n场馆: Estadio de la Ce
+ rámica\n城市: Villarreal
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -351,11 +350,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270222T040000
 DTEND;TZID=Asia/Shanghai:20270222T050000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 vs 莱万特
-DESCRIPTION:莱万特 作客 巴塞罗那（西甲 2026-27 赛季，北京
- 时间）\n\n主场: 巴塞罗那\n客场: 莱万特\n场馆: Spotify Camp
-  Nou\n城市: Barcelona
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona vs Levante
+DESCRIPTION:Levante at Barcelona (La Liga 2026-27\, Beijing time)\n\n主
+ 场: 巴塞罗那\n客场: 莱万特\n场馆: Spotify Camp Nou\n城市: Ba
+ rcelona
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -365,11 +364,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270301T040000
 DTEND;TZID=Asia/Shanghai:20270301T050000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 @ 毕尔巴鄂竞技
-DESCRIPTION:巴塞罗那 作客 毕尔巴鄂竞技（西甲 2026-27 赛季
- ，北京时间）\n\n主场: 毕尔巴鄂竞技\n客场: 巴塞罗那\n
- 场馆: San Mamés\n城市: Bilbao
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona @ Athletic Club
+DESCRIPTION:Barcelona at Athletic Club (La Liga 2026-27\, Beijing time)\n\
+ n主场: 毕尔巴鄂竞技\n客场: 巴塞罗那\n场馆: San Mamés\n城
+ 市: Bilbao
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -379,11 +378,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270308T040000
 DTEND;TZID=Asia/Shanghai:20270308T050000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 vs 皇家贝蒂斯
-DESCRIPTION:皇家贝蒂斯 作客 巴塞罗那（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 巴塞罗那\n客场: 皇家贝蒂斯\n场馆: 
- Spotify Camp Nou\n城市: Barcelona
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona vs Real Betis
+DESCRIPTION:Real Betis at Barcelona (La Liga 2026-27\, Beijing time)\n\n
+ 主场: 巴塞罗那\n客场: 皇家贝蒂斯\n场馆: Spotify Camp Nou\n
+ 城市: Barcelona
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -393,11 +392,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270315T020000
 DTEND;TZID=Asia/Shanghai:20270315T030000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 vs 拉科鲁尼亚
-DESCRIPTION:拉科鲁尼亚 作客 巴塞罗那（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 巴塞罗那\n客场: 拉科鲁尼亚\n场馆: 
- Spotify Camp Nou\n城市: Barcelona
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona vs Deportivo
+DESCRIPTION:Deportivo at Barcelona (La Liga 2026-27\, Beijing time)\n\n主
+ 场: 巴塞罗那\n客场: 拉科鲁尼亚\n场馆: Spotify Camp Nou\n城
+ 市: Barcelona
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -407,11 +406,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270322T020000
 DTEND;TZID=Asia/Shanghai:20270322T030000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 @ 瓦列卡诺
-DESCRIPTION:巴塞罗那 作客 瓦列卡诺（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 瓦列卡诺\n客场: 巴塞罗那\n场馆: Estadi
- o de Vallecas\n城市: Madrid
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona @ Rayo Vallecano
+DESCRIPTION:Barcelona at Rayo Vallecano (La Liga 2026-27\, Beijing time)\n
+ \n主场: 瓦列卡诺\n客场: 巴塞罗那\n场馆: Estadio de Vallecas\
+ n城市: Madrid
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -421,11 +420,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270405T020000
 DTEND;TZID=Asia/Shanghai:20270405T030000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 vs 塞维利亚
-DESCRIPTION:塞维利亚 作客 巴塞罗那（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 巴塞罗那\n客场: 塞维利亚\n场馆: Spotif
- y Camp Nou\n城市: Barcelona
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona vs Sevilla
+DESCRIPTION:Sevilla at Barcelona (La Liga 2026-27\, Beijing time)\n\n主
+ 场: 巴塞罗那\n客场: 塞维利亚\n场馆: Spotify Camp Nou\n城市:
+  Barcelona
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -435,11 +434,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270412T020000
 DTEND;TZID=Asia/Shanghai:20270412T030000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 @ 桑坦德竞技
-DESCRIPTION:巴塞罗那 作客 桑坦德竞技（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 桑坦德竞技\n客场: 巴塞罗那\n场馆: 
- El Sardineros\n城市: Santander
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona @ Racing Santander
+DESCRIPTION:Barcelona at Racing Santander (La Liga 2026-27\, Beijing time)
+ \n\n主场: 桑坦德竞技\n客场: 巴塞罗那\n场馆: El Sardineros\n
+ 城市: Santander
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -449,11 +448,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270419T020000
 DTEND;TZID=Asia/Shanghai:20270419T030000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 vs 西班牙人
-DESCRIPTION:西班牙人 作客 巴塞罗那（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 巴塞罗那\n客场: 西班牙人\n场馆: Spotif
- y Camp Nou\n城市: Barcelona
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona vs Espanyol
+DESCRIPTION:Espanyol at Barcelona (La Liga 2026-27\, Beijing time)\n\n主
+ 场: 巴塞罗那\n客场: 西班牙人\n场馆: Spotify Camp Nou\n城市:
+  Barcelona
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -463,11 +462,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270422T020000
 DTEND;TZID=Asia/Shanghai:20270422T030000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 @ 塞尔塔
-DESCRIPTION:巴塞罗那 作客 塞尔塔（西甲 2026-27 赛季，北京
- 时间）\n\n主场: 塞尔塔\n客场: 巴塞罗那\n场馆: Balaidos\n
- 城市: Vigo
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona @ Celta Vigo
+DESCRIPTION:Barcelona at Celta Vigo (La Liga 2026-27\, Beijing time)\n\n
+ 主场: 塞尔塔\n客场: 巴塞罗那\n场馆: Balaidos\n城市: Vigo
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -477,11 +475,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270503T020000
 DTEND;TZID=Asia/Shanghai:20270503T030000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 vs 奥萨苏纳
-DESCRIPTION:奥萨苏纳 作客 巴塞罗那（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 巴塞罗那\n客场: 奥萨苏纳\n场馆: Spotif
- y Camp Nou\n城市: Barcelona
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona vs Osasuna
+DESCRIPTION:Osasuna at Barcelona (La Liga 2026-27\, Beijing time)\n\n主
+ 场: 巴塞罗那\n客场: 奥萨苏纳\n场馆: Spotify Camp Nou\n城市:
+  Barcelona
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -491,11 +489,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270510T020000
 DTEND;TZID=Asia/Shanghai:20270510T030000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 @ 皇家马德里
-DESCRIPTION:巴塞罗那 作客 皇家马德里（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 皇家马德里\n客场: 巴塞罗那\n场馆: 
- Santiago Bernabéu\n城市: Madrid
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona @ Real Madrid
+DESCRIPTION:Barcelona at Real Madrid (La Liga 2026-27\, Beijing time)\n\n
+ 主场: 皇家马德里\n客场: 巴塞罗那\n场馆: Santiago Bernabéu\
+ n城市: Madrid
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -505,11 +503,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270517T020000
 DTEND;TZID=Asia/Shanghai:20270517T030000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 @ 皇家社会
-DESCRIPTION:巴塞罗那 作客 皇家社会（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 皇家社会\n客场: 巴塞罗那\n场馆: Reale 
- Arena\n城市: San Sebastian
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona @ Real Sociedad
+DESCRIPTION:Barcelona at Real Sociedad (La Liga 2026-27\, Beijing time)\n\
+ n主场: 皇家社会\n客场: 巴塞罗那\n场馆: Reale Arena\n城市: 
+ San Sebastian
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -519,11 +517,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270524T020000
 DTEND;TZID=Asia/Shanghai:20270524T030000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 vs 马拉加
-DESCRIPTION:马拉加 作客 巴塞罗那（西甲 2026-27 赛季，北京
- 时间）\n\n主场: 巴塞罗那\n客场: 马拉加\n场馆: Spotify Camp
-  Nou\n城市: Barcelona
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona vs Málaga
+DESCRIPTION:Málaga at Barcelona (La Liga 2026-27\, Beijing time)\n\n主
+ 场: 巴塞罗那\n客场: 马拉加\n场馆: Spotify Camp Nou\n城市: Ba
+ rcelona
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
@@ -533,11 +531,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270531T020000
 DTEND;TZID=Asia/Shanghai:20270531T030000
-SUMMARY:巴塞罗那 Schedule · 巴塞罗那 @ 赫塔费
-DESCRIPTION:巴塞罗那 作客 赫塔费（西甲 2026-27 赛季，北京
- 时间）\n\n主场: 赫塔费\n客场: 巴塞罗那\n场馆: Estadio Coli
- seum\n城市: Getafe
-CATEGORIES:巴塞罗那 Schedule
+SUMMARY:Barcelona Schedule · Barcelona @ Getafe
+DESCRIPTION:Barcelona at Getafe (La Liga 2026-27\, Beijing time)\n\n主场
+ : 赫塔费\n客场: 巴塞罗那\n场馆: Estadio Coliseum\n城市: Getaf
+ e
+CATEGORIES:Barcelona Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT

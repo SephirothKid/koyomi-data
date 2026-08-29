@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Koyomi Cast//seriea-gen//EN
 URL:https://koyomi.cast/sources/seriea
-NAME:热那亚 Schedule
-X-WR-CALNAME:热那亚 Schedule
-X-WR-CALDESC:热那亚 schedule in Serie A Schedule, auto-synced.
+NAME:Genoa Schedule
+X-WR-CALNAME:Genoa Schedule
+X-WR-CALDESC:Genoa schedule in Serie A Schedule, auto-synced.
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
@@ -13,12 +13,12 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260823T024500
 DTEND;TZID=Asia/Shanghai:20260823T034500
-SUMMARY:热那亚 Schedule · 热那亚 vs 那不勒斯
-DESCRIPTION:那不勒斯 作客 热那亚（意甲 2026-27 赛季，北京
- 时间）\n\nScore: 热那亚 0 - 2 那不勒斯\n\n主场: 热那亚\n客
- 场: 那不勒斯\n比分: 热那亚 0 - 2 那不勒斯\n场馆: Stadio Lu
- igi Ferraris\n城市: Genova
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa vs Napoli
+DESCRIPTION:Napoli at Genoa (Serie A 2026-27\, Beijing time)\n\nScore: 热
+ 那亚 0 - 2 那不勒斯\n\n主场: 热那亚\n客场: 那不勒斯\n比
+ 分: 热那亚 0 - 2 那不勒斯\n场馆: Stadio Luigi Ferraris\n城市: 
+ Genova
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -28,11 +28,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260831T024500
 DTEND;TZID=Asia/Shanghai:20260831T034500
-SUMMARY:热那亚 Schedule · 热那亚 @ 拉齐奥
-DESCRIPTION:热那亚 作客 拉齐奥（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 拉齐奥\n客场: 热那亚\n场馆: Olimpico\n城市: 
- Roma
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa @ Lazio
+DESCRIPTION:Genoa at Lazio (Serie A 2026-27\, Beijing time)\n\n主场: 拉
+ 齐奥\n客场: 热那亚\n场馆: Olimpico\n城市: Roma
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -42,11 +41,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260905T024500
 DTEND;TZID=Asia/Shanghai:20260905T034500
-SUMMARY:热那亚 Schedule · 热那亚 vs 科莫
-DESCRIPTION:科莫 作客 热那亚（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 热那亚\n客场: 科莫\n场馆: Stadio Luigi Ferraris\n
- 城市: Genova
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa vs Como
+DESCRIPTION:Como at Genoa (Serie A 2026-27\, Beijing time)\n\n主场: 热
+ 那亚\n客场: 科莫\n场馆: Stadio Luigi Ferraris\n城市: Genova
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -56,11 +54,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260912T210000
 DTEND;TZID=Asia/Shanghai:20260912T220000
-SUMMARY:热那亚 Schedule · 热那亚 vs 弗罗西诺内
-DESCRIPTION:弗罗西诺内 作客 热那亚（意甲 2026-27 赛季，北
- 京时间）\n\n主场: 热那亚\n客场: 弗罗西诺内\n场馆: Stadio
-  Luigi Ferraris\n城市: Genova
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa vs Frosinone
+DESCRIPTION:Frosinone at Genoa (Serie A 2026-27\, Beijing time)\n\n主场:
+  热那亚\n客场: 弗罗西诺内\n场馆: Stadio Luigi Ferraris\n城市
+ : Genova
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -70,11 +68,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260920T210000
 DTEND;TZID=Asia/Shanghai:20260920T220000
-SUMMARY:热那亚 Schedule · 热那亚 @ 帕尔马
-DESCRIPTION:热那亚 作客 帕尔马（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 帕尔马\n客场: 热那亚\n场馆: Ennio Tardini\n城
- 市: Parma
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa @ Parma
+DESCRIPTION:Genoa at Parma (Serie A 2026-27\, Beijing time)\n\n主场: 帕
+ 尔马\n客场: 热那亚\n场馆: Ennio Tardini\n城市: Parma
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -84,11 +81,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261012T020000
 DTEND;TZID=Asia/Shanghai:20261012T030000
-SUMMARY:热那亚 Schedule · 热那亚 vs 佛罗伦萨
-DESCRIPTION:佛罗伦萨 作客 热那亚（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 热那亚\n客场: 佛罗伦萨\n场馆: Stadio Luigi
-  Ferraris\n城市: Genova
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa vs Fiorentina
+DESCRIPTION:Fiorentina at Genoa (Serie A 2026-27\, Beijing time)\n\n主场
+ : 热那亚\n客场: 佛罗伦萨\n场馆: Stadio Luigi Ferraris\n城市: 
+ Genova
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -98,10 +95,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261018T020000
 DTEND;TZID=Asia/Shanghai:20261018T030000
-SUMMARY:热那亚 Schedule · 热那亚 @ 罗马
-DESCRIPTION:热那亚 作客 罗马（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 罗马\n客场: 热那亚\n场馆: Olimpico\n城市: Roma
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa @ AS Roma
+DESCRIPTION:Genoa at AS Roma (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 罗马\n客场: 热那亚\n场馆: Olimpico\n城市: Roma
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -111,11 +108,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261026T020000
 DTEND;TZID=Asia/Shanghai:20261026T030000
-SUMMARY:热那亚 Schedule · 热那亚 vs 威尼斯
-DESCRIPTION:威尼斯 作客 热那亚（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 热那亚\n客场: 威尼斯\n场馆: Stadio Luigi Ferra
- ris\n城市: Genova
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa vs Venezia
+DESCRIPTION:Venezia at Genoa (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 热那亚\n客场: 威尼斯\n场馆: Stadio Luigi Ferraris\n城市: Genov
+ a
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -125,11 +122,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261029T020000
 DTEND;TZID=Asia/Shanghai:20261029T030000
-SUMMARY:热那亚 Schedule · 热那亚 vs 尤文图斯
-DESCRIPTION:尤文图斯 作客 热那亚（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 热那亚\n客场: 尤文图斯\n场馆: Stadio Luigi
-  Ferraris\n城市: Genova
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa vs Juventus
+DESCRIPTION:Juventus at Genoa (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 热那亚\n客场: 尤文图斯\n场馆: Stadio Luigi Ferraris\n城市: Ge
+ nova
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -139,11 +136,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261102T040000
 DTEND;TZID=Asia/Shanghai:20261102T050000
-SUMMARY:热那亚 Schedule · 热那亚 @ 莱切
-DESCRIPTION:热那亚 作客 莱切（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 莱切\n客场: 热那亚\n场馆: Via Del Mare\n城市: Le
- cce
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa @ Lecce
+DESCRIPTION:Genoa at Lecce (Serie A 2026-27\, Beijing time)\n\n主场: 莱
+ 切\n客场: 热那亚\n场馆: Via Del Mare\n城市: Lecce
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -153,11 +149,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261109T040000
 DTEND;TZID=Asia/Shanghai:20261109T050000
-SUMMARY:热那亚 Schedule · 热那亚 vs AC米兰
-DESCRIPTION:AC米兰 作客 热那亚（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 热那亚\n客场: AC米兰\n场馆: Stadio Luigi Ferrar
- is\n城市: Genova
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa vs AC Milan
+DESCRIPTION:AC Milan at Genoa (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 热那亚\n客场: AC米兰\n场馆: Stadio Luigi Ferraris\n城市: Genova
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -167,11 +162,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261123T040000
 DTEND;TZID=Asia/Shanghai:20261123T050000
-SUMMARY:热那亚 Schedule · 热那亚 @ 萨索洛
-DESCRIPTION:热那亚 作客 萨索洛（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 萨索洛\n客场: 热那亚\n场馆: Mapei Stadium\n城
- 市: Reggio Emilia
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa @ Sassuolo
+DESCRIPTION:Genoa at Sassuolo (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 萨索洛\n客场: 热那亚\n场馆: Mapei Stadium\n城市: Reggio Emilia
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -181,11 +175,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261130T040000
 DTEND;TZID=Asia/Shanghai:20261130T050000
-SUMMARY:热那亚 Schedule · 热那亚 @ 国际米兰
-DESCRIPTION:热那亚 作客 国际米兰（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 国际米兰\n客场: 热那亚\n场馆: San Siro\n
- 城市: Milano
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa @ Internazionale
+DESCRIPTION:Genoa at Internazionale (Serie A 2026-27\, Beijing time)\n\n
+ 主场: 国际米兰\n客场: 热那亚\n场馆: San Siro\n城市: Milano
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -195,11 +188,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261207T040000
 DTEND;TZID=Asia/Shanghai:20261207T050000
-SUMMARY:热那亚 Schedule · 热那亚 vs 都灵
-DESCRIPTION:都灵 作客 热那亚（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 热那亚\n客场: 都灵\n场馆: Stadio Luigi Ferraris\n
- 城市: Genova
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa vs Torino
+DESCRIPTION:Torino at Genoa (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 热那亚\n客场: 都灵\n场馆: Stadio Luigi Ferraris\n城市: Genova
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -209,11 +201,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261214T040000
 DTEND;TZID=Asia/Shanghai:20261214T050000
-SUMMARY:热那亚 Schedule · 热那亚 @ 亚特兰大
-DESCRIPTION:热那亚 作客 亚特兰大（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 亚特兰大\n客场: 热那亚\n场馆: New Balance 
- Arena\n城市: Bergamo
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa @ Atalanta
+DESCRIPTION:Genoa at Atalanta (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 亚特兰大\n客场: 热那亚\n场馆: New Balance Arena\n城市: Bergam
+ o
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -223,11 +215,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261221T040000
 DTEND;TZID=Asia/Shanghai:20261221T050000
-SUMMARY:热那亚 Schedule · 热那亚 vs 乌迪内斯
-DESCRIPTION:乌迪内斯 作客 热那亚（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 热那亚\n客场: 乌迪内斯\n场馆: Stadio Luigi
-  Ferraris\n城市: Genova
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa vs Udinese
+DESCRIPTION:Udinese at Genoa (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 热那亚\n客场: 乌迪内斯\n场馆: Stadio Luigi Ferraris\n城市: Ge
+ nova
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -237,11 +229,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270104T040000
 DTEND;TZID=Asia/Shanghai:20270104T050000
-SUMMARY:热那亚 Schedule · 热那亚 @ 卡利亚里
-DESCRIPTION:热那亚 作客 卡利亚里（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 卡利亚里\n客场: 热那亚\n场馆: Unipol Domus
- \n城市: Cagliari
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa @ Cagliari
+DESCRIPTION:Genoa at Cagliari (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 卡利亚里\n客场: 热那亚\n场馆: Unipol Domus\n城市: Cagliari
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -251,11 +242,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270107T040000
 DTEND;TZID=Asia/Shanghai:20270107T050000
-SUMMARY:热那亚 Schedule · 热那亚 vs 蒙扎
-DESCRIPTION:蒙扎 作客 热那亚（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 热那亚\n客场: 蒙扎\n场馆: Stadio Luigi Ferraris\n
- 城市: Genova
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa vs Monza
+DESCRIPTION:Monza at Genoa (Serie A 2026-27\, Beijing time)\n\n主场: 热
+ 那亚\n客场: 蒙扎\n场馆: Stadio Luigi Ferraris\n城市: Genova
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -265,11 +255,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270111T040000
 DTEND;TZID=Asia/Shanghai:20270111T050000
-SUMMARY:热那亚 Schedule · 热那亚 @ 博洛尼亚
-DESCRIPTION:热那亚 作客 博洛尼亚（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 博洛尼亚\n客场: 热那亚\n场馆: Renato Dall'
- Ara\n城市: Bologna
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa @ Bologna
+DESCRIPTION:Genoa at Bologna (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 博洛尼亚\n客场: 热那亚\n场馆: Renato Dall'Ara\n城市: Bologna
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -279,11 +268,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270118T040000
 DTEND;TZID=Asia/Shanghai:20270118T050000
-SUMMARY:热那亚 Schedule · 热那亚 @ 尤文图斯
-DESCRIPTION:热那亚 作客 尤文图斯（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 尤文图斯\n客场: 热那亚\n场馆: Allianz Stad
- ium\n城市: Torino
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa @ Juventus
+DESCRIPTION:Genoa at Juventus (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 尤文图斯\n客场: 热那亚\n场馆: Allianz Stadium\n城市: Torino
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -293,11 +281,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270125T040000
 DTEND;TZID=Asia/Shanghai:20270125T050000
-SUMMARY:热那亚 Schedule · 热那亚 vs 帕尔马
-DESCRIPTION:帕尔马 作客 热那亚（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 热那亚\n客场: 帕尔马\n场馆: Stadio Luigi Ferra
- ris\n城市: Genova
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa vs Parma
+DESCRIPTION:Parma at Genoa (Serie A 2026-27\, Beijing time)\n\n主场: 热
+ 那亚\n客场: 帕尔马\n场馆: Stadio Luigi Ferraris\n城市: Genova
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -307,11 +294,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270201T040000
 DTEND;TZID=Asia/Shanghai:20270201T050000
-SUMMARY:热那亚 Schedule · 热那亚 vs 莱切
-DESCRIPTION:莱切 作客 热那亚（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 热那亚\n客场: 莱切\n场馆: Stadio Luigi Ferraris\n
- 城市: Genova
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa vs Lecce
+DESCRIPTION:Lecce at Genoa (Serie A 2026-27\, Beijing time)\n\n主场: 热
+ 那亚\n客场: 莱切\n场馆: Stadio Luigi Ferraris\n城市: Genova
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -321,11 +307,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270208T040000
 DTEND;TZID=Asia/Shanghai:20270208T050000
-SUMMARY:热那亚 Schedule · 热那亚 @ 威尼斯
-DESCRIPTION:热那亚 作客 威尼斯（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 威尼斯\n客场: 热那亚\n场馆: Stadio Pier Luigi 
- Penzo\n城市: Venezia
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa @ Venezia
+DESCRIPTION:Genoa at Venezia (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 威尼斯\n客场: 热那亚\n场馆: Stadio Pier Luigi Penzo\n城市: Ven
+ ezia
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -335,11 +321,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270215T040000
 DTEND;TZID=Asia/Shanghai:20270215T050000
-SUMMARY:热那亚 Schedule · 热那亚 vs 亚特兰大
-DESCRIPTION:亚特兰大 作客 热那亚（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 热那亚\n客场: 亚特兰大\n场馆: Stadio Luigi
-  Ferraris\n城市: Genova
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa vs Atalanta
+DESCRIPTION:Atalanta at Genoa (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 热那亚\n客场: 亚特兰大\n场馆: Stadio Luigi Ferraris\n城市: Ge
+ nova
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -349,11 +335,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270222T040000
 DTEND;TZID=Asia/Shanghai:20270222T050000
-SUMMARY:热那亚 Schedule · 热那亚 @ AC米兰
-DESCRIPTION:热那亚 作客 AC米兰（意甲 2026-27 赛季，北京时
- 间）\n\n主场: AC米兰\n客场: 热那亚\n场馆: San Siro\n城市: M
- ilano
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa @ AC Milan
+DESCRIPTION:Genoa at AC Milan (Serie A 2026-27\, Beijing time)\n\n主场: 
+ AC米兰\n客场: 热那亚\n场馆: San Siro\n城市: Milano
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -363,11 +348,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270301T040000
 DTEND;TZID=Asia/Shanghai:20270301T050000
-SUMMARY:热那亚 Schedule · 热那亚 vs 拉齐奥
-DESCRIPTION:拉齐奥 作客 热那亚（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 热那亚\n客场: 拉齐奥\n场馆: Stadio Luigi Ferra
- ris\n城市: Genova
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa vs Lazio
+DESCRIPTION:Lazio at Genoa (Serie A 2026-27\, Beijing time)\n\n主场: 热
+ 那亚\n客场: 拉齐奥\n场馆: Stadio Luigi Ferraris\n城市: Genova
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -377,11 +361,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270308T040000
 DTEND;TZID=Asia/Shanghai:20270308T050000
-SUMMARY:热那亚 Schedule · 热那亚 @ 蒙扎
-DESCRIPTION:热那亚 作客 蒙扎（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 蒙扎\n客场: 热那亚\n场馆: U-Power Stadium\n城市:
-  Monza
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa @ Monza
+DESCRIPTION:Genoa at Monza (Serie A 2026-27\, Beijing time)\n\n主场: 蒙
+ 扎\n客场: 热那亚\n场馆: U-Power Stadium\n城市: Monza
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -391,11 +374,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270315T020000
 DTEND;TZID=Asia/Shanghai:20270315T030000
-SUMMARY:热那亚 Schedule · 热那亚 vs 罗马
-DESCRIPTION:罗马 作客 热那亚（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 热那亚\n客场: 罗马\n场馆: Stadio Luigi Ferraris\n
- 城市: Genova
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa vs AS Roma
+DESCRIPTION:AS Roma at Genoa (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 热那亚\n客场: 罗马\n场馆: Stadio Luigi Ferraris\n城市: Genova
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -405,11 +387,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270322T020000
 DTEND;TZID=Asia/Shanghai:20270322T030000
-SUMMARY:热那亚 Schedule · 热那亚 @ 佛罗伦萨
-DESCRIPTION:热那亚 作客 佛罗伦萨（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 佛罗伦萨\n客场: 热那亚\n场馆: Stadio Artem
- io Franchi\n城市: Firenze
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa @ Fiorentina
+DESCRIPTION:Genoa at Fiorentina (Serie A 2026-27\, Beijing time)\n\n主场
+ : 佛罗伦萨\n客场: 热那亚\n场馆: Stadio Artemio Franchi\n城市:
+  Firenze
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -419,11 +401,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270405T020000
 DTEND;TZID=Asia/Shanghai:20270405T030000
-SUMMARY:热那亚 Schedule · 热那亚 vs 国际米兰
-DESCRIPTION:国际米兰 作客 热那亚（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 热那亚\n客场: 国际米兰\n场馆: Stadio Luigi
-  Ferraris\n城市: Genova
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa vs Internazionale
+DESCRIPTION:Internazionale at Genoa (Serie A 2026-27\, Beijing time)\n\n
+ 主场: 热那亚\n客场: 国际米兰\n场馆: Stadio Luigi Ferraris\n
+ 城市: Genova
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -433,11 +415,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270412T020000
 DTEND;TZID=Asia/Shanghai:20270412T030000
-SUMMARY:热那亚 Schedule · 热那亚 @ 弗罗西诺内
-DESCRIPTION:热那亚 作客 弗罗西诺内（意甲 2026-27 赛季，北
- 京时间）\n\n主场: 弗罗西诺内\n客场: 热那亚\n场馆: Stadio
-  Benito Stirpe\n城市: Frosinone
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa @ Frosinone
+DESCRIPTION:Genoa at Frosinone (Serie A 2026-27\, Beijing time)\n\n主场:
+  弗罗西诺内\n客场: 热那亚\n场馆: Stadio Benito Stirpe\n城市:
+  Frosinone
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -447,11 +429,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270419T020000
 DTEND;TZID=Asia/Shanghai:20270419T030000
-SUMMARY:热那亚 Schedule · 热那亚 @ 都灵
-DESCRIPTION:热那亚 作客 都灵（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 都灵\n客场: 热那亚\n场馆: Stadio Olimpico Grande T
- orino\n城市: Torino
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa @ Torino
+DESCRIPTION:Genoa at Torino (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 都灵\n客场: 热那亚\n场馆: Stadio Olimpico Grande Torino\n城市: 
+ Torino
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -461,11 +443,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270426T020000
 DTEND;TZID=Asia/Shanghai:20270426T030000
-SUMMARY:热那亚 Schedule · 热那亚 vs 萨索洛
-DESCRIPTION:萨索洛 作客 热那亚（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 热那亚\n客场: 萨索洛\n场馆: Stadio Luigi Ferra
- ris\n城市: Genova
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa vs Sassuolo
+DESCRIPTION:Sassuolo at Genoa (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 热那亚\n客场: 萨索洛\n场馆: Stadio Luigi Ferraris\n城市: Genov
+ a
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -475,11 +457,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270503T020000
 DTEND;TZID=Asia/Shanghai:20270503T030000
-SUMMARY:热那亚 Schedule · 热那亚 @ 乌迪内斯
-DESCRIPTION:热那亚 作客 乌迪内斯（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 乌迪内斯\n客场: 热那亚\n场馆: Stadio Friul
- i\n城市: Udine
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa @ Udinese
+DESCRIPTION:Genoa at Udinese (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 乌迪内斯\n客场: 热那亚\n场馆: Stadio Friuli\n城市: Udine
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -489,11 +470,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270510T020000
 DTEND;TZID=Asia/Shanghai:20270510T030000
-SUMMARY:热那亚 Schedule · 热那亚 vs 卡利亚里
-DESCRIPTION:卡利亚里 作客 热那亚（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 热那亚\n客场: 卡利亚里\n场馆: Stadio Luigi
-  Ferraris\n城市: Genova
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa vs Cagliari
+DESCRIPTION:Cagliari at Genoa (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 热那亚\n客场: 卡利亚里\n场馆: Stadio Luigi Ferraris\n城市: Ge
+ nova
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -503,11 +484,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270517T020000
 DTEND;TZID=Asia/Shanghai:20270517T030000
-SUMMARY:热那亚 Schedule · 热那亚 @ 那不勒斯
-DESCRIPTION:热那亚 作客 那不勒斯（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 那不勒斯\n客场: 热那亚\n场馆: Stadio Diego
-  Armando Maradona\n城市: Napoli
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa @ Napoli
+DESCRIPTION:Genoa at Napoli (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 那不勒斯\n客场: 热那亚\n场馆: Stadio Diego Armando Maradona\n
+ 城市: Napoli
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -517,11 +498,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270524T020000
 DTEND;TZID=Asia/Shanghai:20270524T030000
-SUMMARY:热那亚 Schedule · 热那亚 vs 博洛尼亚
-DESCRIPTION:博洛尼亚 作客 热那亚（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 热那亚\n客场: 博洛尼亚\n场馆: Stadio Luigi
-  Ferraris\n城市: Genova
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa vs Bologna
+DESCRIPTION:Bologna at Genoa (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 热那亚\n客场: 博洛尼亚\n场馆: Stadio Luigi Ferraris\n城市: Ge
+ nova
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -531,11 +512,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270531T020000
 DTEND;TZID=Asia/Shanghai:20270531T030000
-SUMMARY:热那亚 Schedule · 热那亚 @ 科莫
-DESCRIPTION:热那亚 作客 科莫（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 科莫\n客场: 热那亚\n场馆: Giuseppe Sinigaglia\n城
- 市: Como
-CATEGORIES:热那亚 Schedule
+SUMMARY:Genoa Schedule · Genoa @ Como
+DESCRIPTION:Genoa at Como (Serie A 2026-27\, Beijing time)\n\n主场: 科
+ 莫\n客场: 热那亚\n场馆: Giuseppe Sinigaglia\n城市: Como
+CATEGORIES:Genoa Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT

@@ -250,6 +250,24 @@ if (restoreInvalid && invalid.length > 0) {
   }
 }
 
+// l10n 检查（warning，不阻断）：英文界面依赖事件级 name_en，缺失时回退中文名
+let missingNameEn = 0
+const missingNameEnByFile = []
+for (const file of files) {
+  try {
+    const data = JSON.parse(readFileSync(file, 'utf8'))
+    const missing = (data.events ?? []).filter(e => !e.name_en).length
+    if (missing > 0) {
+      missingNameEn += missing
+      missingNameEnByFile.push(`${relative(ROOT, file).replaceAll('\\', '/')} (${missing})`)
+    }
+  } catch { /* 解析失败已在上面报告 */ }
+}
+if (missingNameEn > 0) {
+  console.warn(`\n⚠ ${missingNameEn} 个事件缺少 name_en（英文界面 / en.ics 将回退中文名）：`)
+  for (const entry of missingNameEnByFile) console.warn(`  • ${entry}`)
+}
+
 writeGithubOutput('invalid_count', String(invalid.length))
 writeGithubOutput('invalid_sources', invalid.map(item => basename(item.absPath, '.json')).join(','))
 

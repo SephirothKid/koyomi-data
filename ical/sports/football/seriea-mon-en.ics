@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Koyomi Cast//seriea-mon//EN
 URL:https://koyomi.cast/sources/seriea
-NAME:蒙扎 Schedule
-X-WR-CALNAME:蒙扎 Schedule
-X-WR-CALDESC:蒙扎 schedule in Serie A Schedule, auto-synced.
+NAME:Monza Schedule
+X-WR-CALNAME:Monza Schedule
+X-WR-CALDESC:Monza schedule in Serie A Schedule, auto-synced.
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
@@ -13,12 +13,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260823T003000
 DTEND;TZID=Asia/Shanghai:20260823T013000
-SUMMARY:蒙扎 Schedule · 蒙扎 @ 国际米兰
-DESCRIPTION:蒙扎 作客 国际米兰（意甲 2026-27 赛季，北京时
- 间）\n\nScore: 国际米兰 4 - 1 蒙扎\n\n主场: 国际米兰\n客场
- : 蒙扎\n比分: 国际米兰 4 - 1 蒙扎\n场馆: San Siro\n城市: Mil
- ano
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza @ Internazionale
+DESCRIPTION:Monza at Internazionale (Serie A 2026-27\, Beijing time)\n\nSc
+ ore: 国际米兰 4 - 1 蒙扎\n\n主场: 国际米兰\n客场: 蒙扎\n
+ 比分: 国际米兰 4 - 1 蒙扎\n场馆: San Siro\n城市: Milano
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -28,11 +27,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260830T003000
 DTEND;TZID=Asia/Shanghai:20260830T013000
-SUMMARY:蒙扎 Schedule · 蒙扎 vs 乌迪内斯
-DESCRIPTION:乌迪内斯 作客 蒙扎（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 蒙扎\n客场: 乌迪内斯\n场馆: U-Power Stadium\n
- 城市: Monza
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza vs Udinese
+DESCRIPTION:Udinese at Monza (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 蒙扎\n客场: 乌迪内斯\n场馆: U-Power Stadium\n城市: Monza
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -42,11 +40,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260906T210000
 DTEND;TZID=Asia/Shanghai:20260906T220000
-SUMMARY:蒙扎 Schedule · 蒙扎 @ 帕尔马
-DESCRIPTION:蒙扎 作客 帕尔马（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 帕尔马\n客场: 蒙扎\n场馆: Ennio Tardini\n城市: P
- arma
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza @ Parma
+DESCRIPTION:Monza at Parma (Serie A 2026-27\, Beijing time)\n\n主场: 帕
+ 尔马\n客场: 蒙扎\n场馆: Ennio Tardini\n城市: Parma
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -56,10 +53,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260913T210000
 DTEND;TZID=Asia/Shanghai:20260913T220000
-SUMMARY:蒙扎 Schedule · 蒙扎 @ 莱切
-DESCRIPTION:蒙扎 作客 莱切（意甲 2026-27 赛季，北京时间）
- \n\n主场: 莱切\n客场: 蒙扎\n场馆: Via Del Mare\n城市: Lecce
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza @ Lecce
+DESCRIPTION:Monza at Lecce (Serie A 2026-27\, Beijing time)\n\n主场: 莱
+ 切\n客场: 蒙扎\n场馆: Via Del Mare\n城市: Lecce
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -69,11 +66,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260919T024500
 DTEND;TZID=Asia/Shanghai:20260919T034500
-SUMMARY:蒙扎 Schedule · 蒙扎 vs 萨索洛
-DESCRIPTION:萨索洛 作客 蒙扎（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 蒙扎\n客场: 萨索洛\n场馆: U-Power Stadium\n城市:
-  Monza
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza vs Sassuolo
+DESCRIPTION:Sassuolo at Monza (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 蒙扎\n客场: 萨索洛\n场馆: U-Power Stadium\n城市: Monza
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -83,10 +79,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261012T020000
 DTEND;TZID=Asia/Shanghai:20261012T030000
-SUMMARY:蒙扎 Schedule · 蒙扎 @ 拉齐奥
-DESCRIPTION:蒙扎 作客 拉齐奥（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 拉齐奥\n客场: 蒙扎\n场馆: Olimpico\n城市: Roma
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza @ Lazio
+DESCRIPTION:Monza at Lazio (Serie A 2026-27\, Beijing time)\n\n主场: 拉
+ 齐奥\n客场: 蒙扎\n场馆: Olimpico\n城市: Roma
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -96,11 +92,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261018T020000
 DTEND;TZID=Asia/Shanghai:20261018T030000
-SUMMARY:蒙扎 Schedule · 蒙扎 vs 卡利亚里
-DESCRIPTION:卡利亚里 作客 蒙扎（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 蒙扎\n客场: 卡利亚里\n场馆: U-Power Stadium\n
- 城市: Monza
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza vs Cagliari
+DESCRIPTION:Cagliari at Monza (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 蒙扎\n客场: 卡利亚里\n场馆: U-Power Stadium\n城市: Monza
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -110,11 +105,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261026T020000
 DTEND;TZID=Asia/Shanghai:20261026T030000
-SUMMARY:蒙扎 Schedule · 蒙扎 @ 都灵
-DESCRIPTION:蒙扎 作客 都灵（意甲 2026-27 赛季，北京时间）
- \n\n主场: 都灵\n客场: 蒙扎\n场馆: Stadio Olimpico Grande Torino\
- n城市: Torino
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza @ Torino
+DESCRIPTION:Monza at Torino (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 都灵\n客场: 蒙扎\n场馆: Stadio Olimpico Grande Torino\n城市: Tor
+ ino
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -124,11 +119,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261029T020000
 DTEND;TZID=Asia/Shanghai:20261029T030000
-SUMMARY:蒙扎 Schedule · 蒙扎 vs 那不勒斯
-DESCRIPTION:那不勒斯 作客 蒙扎（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 蒙扎\n客场: 那不勒斯\n场馆: U-Power Stadium\n
- 城市: Monza
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza vs Napoli
+DESCRIPTION:Napoli at Monza (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 蒙扎\n客场: 那不勒斯\n场馆: U-Power Stadium\n城市: Monza
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -138,11 +132,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261102T040000
 DTEND;TZID=Asia/Shanghai:20261102T050000
-SUMMARY:蒙扎 Schedule · 蒙扎 @ 博洛尼亚
-DESCRIPTION:蒙扎 作客 博洛尼亚（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 博洛尼亚\n客场: 蒙扎\n场馆: Renato Dall'Ara\n
- 城市: Bologna
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza @ Bologna
+DESCRIPTION:Monza at Bologna (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 博洛尼亚\n客场: 蒙扎\n场馆: Renato Dall'Ara\n城市: Bologna
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -152,11 +145,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261109T040000
 DTEND;TZID=Asia/Shanghai:20261109T050000
-SUMMARY:蒙扎 Schedule · 蒙扎 vs 亚特兰大
-DESCRIPTION:亚特兰大 作客 蒙扎（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 蒙扎\n客场: 亚特兰大\n场馆: U-Power Stadium\n
- 城市: Monza
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza vs Atalanta
+DESCRIPTION:Atalanta at Monza (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 蒙扎\n客场: 亚特兰大\n场馆: U-Power Stadium\n城市: Monza
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -166,11 +158,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261123T040000
 DTEND;TZID=Asia/Shanghai:20261123T050000
-SUMMARY:蒙扎 Schedule · 蒙扎 vs 佛罗伦萨
-DESCRIPTION:佛罗伦萨 作客 蒙扎（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 蒙扎\n客场: 佛罗伦萨\n场馆: U-Power Stadium\n
- 城市: Monza
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza vs Fiorentina
+DESCRIPTION:Fiorentina at Monza (Serie A 2026-27\, Beijing time)\n\n主场
+ : 蒙扎\n客场: 佛罗伦萨\n场馆: U-Power Stadium\n城市: Monza
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -180,10 +171,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261130T040000
 DTEND;TZID=Asia/Shanghai:20261130T050000
-SUMMARY:蒙扎 Schedule · 蒙扎 @ 罗马
-DESCRIPTION:蒙扎 作客 罗马（意甲 2026-27 赛季，北京时间）
- \n\n主场: 罗马\n客场: 蒙扎\n场馆: Olimpico\n城市: Roma
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza @ AS Roma
+DESCRIPTION:Monza at AS Roma (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 罗马\n客场: 蒙扎\n场馆: Olimpico\n城市: Roma
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -193,10 +184,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261207T040000
 DTEND;TZID=Asia/Shanghai:20261207T050000
-SUMMARY:蒙扎 Schedule · 蒙扎 vs 科莫
-DESCRIPTION:科莫 作客 蒙扎（意甲 2026-27 赛季，北京时间）
- \n\n主场: 蒙扎\n客场: 科莫\n场馆: U-Power Stadium\n城市: Monza
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza vs Como
+DESCRIPTION:Como at Monza (Serie A 2026-27\, Beijing time)\n\n主场: 蒙
+ 扎\n客场: 科莫\n场馆: U-Power Stadium\n城市: Monza
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -206,11 +197,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261214T040000
 DTEND;TZID=Asia/Shanghai:20261214T050000
-SUMMARY:蒙扎 Schedule · 蒙扎 @ 尤文图斯
-DESCRIPTION:蒙扎 作客 尤文图斯（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 尤文图斯\n客场: 蒙扎\n场馆: Allianz Stadium\n
- 城市: Torino
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza @ Juventus
+DESCRIPTION:Monza at Juventus (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 尤文图斯\n客场: 蒙扎\n场馆: Allianz Stadium\n城市: Torino
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -220,11 +210,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261221T040000
 DTEND;TZID=Asia/Shanghai:20261221T050000
-SUMMARY:蒙扎 Schedule · 蒙扎 @ 威尼斯
-DESCRIPTION:蒙扎 作客 威尼斯（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 威尼斯\n客场: 蒙扎\n场馆: Stadio Pier Luigi Penzo\
- n城市: Venezia
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza @ Venezia
+DESCRIPTION:Monza at Venezia (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 威尼斯\n客场: 蒙扎\n场馆: Stadio Pier Luigi Penzo\n城市: Venezi
+ a
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -234,11 +224,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270104T040000
 DTEND;TZID=Asia/Shanghai:20270104T050000
-SUMMARY:蒙扎 Schedule · 蒙扎 vs AC米兰
-DESCRIPTION:AC米兰 作客 蒙扎（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 蒙扎\n客场: AC米兰\n场馆: U-Power Stadium\n城市: 
- Monza
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza vs AC Milan
+DESCRIPTION:AC Milan at Monza (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 蒙扎\n客场: AC米兰\n场馆: U-Power Stadium\n城市: Monza
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -248,11 +237,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270107T040000
 DTEND;TZID=Asia/Shanghai:20270107T050000
-SUMMARY:蒙扎 Schedule · 蒙扎 @ 热那亚
-DESCRIPTION:蒙扎 作客 热那亚（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 热那亚\n客场: 蒙扎\n场馆: Stadio Luigi Ferraris\n
- 城市: Genova
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza @ Genoa
+DESCRIPTION:Monza at Genoa (Serie A 2026-27\, Beijing time)\n\n主场: 热
+ 那亚\n客场: 蒙扎\n场馆: Stadio Luigi Ferraris\n城市: Genova
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -262,11 +250,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270111T040000
 DTEND;TZID=Asia/Shanghai:20270111T050000
-SUMMARY:蒙扎 Schedule · 蒙扎 vs 弗罗西诺内
-DESCRIPTION:弗罗西诺内 作客 蒙扎（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 蒙扎\n客场: 弗罗西诺内\n场馆: U-Power Stad
- ium\n城市: Monza
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza vs Frosinone
+DESCRIPTION:Frosinone at Monza (Serie A 2026-27\, Beijing time)\n\n主场:
+  蒙扎\n客场: 弗罗西诺内\n场馆: U-Power Stadium\n城市: Monza
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -276,11 +263,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270118T040000
 DTEND;TZID=Asia/Shanghai:20270118T050000
-SUMMARY:蒙扎 Schedule · 蒙扎 @ 萨索洛
-DESCRIPTION:蒙扎 作客 萨索洛（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 萨索洛\n客场: 蒙扎\n场馆: Mapei Stadium\n城市: R
- eggio Emilia
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza @ Sassuolo
+DESCRIPTION:Monza at Sassuolo (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 萨索洛\n客场: 蒙扎\n场馆: Mapei Stadium\n城市: Reggio Emilia
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -290,11 +276,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270125T040000
 DTEND;TZID=Asia/Shanghai:20270125T050000
-SUMMARY:蒙扎 Schedule · 蒙扎 vs 拉齐奥
-DESCRIPTION:拉齐奥 作客 蒙扎（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 蒙扎\n客场: 拉齐奥\n场馆: U-Power Stadium\n城市:
-  Monza
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza vs Lazio
+DESCRIPTION:Lazio at Monza (Serie A 2026-27\, Beijing time)\n\n主场: 蒙
+ 扎\n客场: 拉齐奥\n场馆: U-Power Stadium\n城市: Monza
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -304,10 +289,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270201T040000
 DTEND;TZID=Asia/Shanghai:20270201T050000
-SUMMARY:蒙扎 Schedule · 蒙扎 vs 罗马
-DESCRIPTION:罗马 作客 蒙扎（意甲 2026-27 赛季，北京时间）
- \n\n主场: 蒙扎\n客场: 罗马\n场馆: U-Power Stadium\n城市: Monza
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza vs AS Roma
+DESCRIPTION:AS Roma at Monza (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 蒙扎\n客场: 罗马\n场馆: U-Power Stadium\n城市: Monza
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -317,11 +302,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270208T040000
 DTEND;TZID=Asia/Shanghai:20270208T050000
-SUMMARY:蒙扎 Schedule · 蒙扎 @ 科莫
-DESCRIPTION:蒙扎 作客 科莫（意甲 2026-27 赛季，北京时间）
- \n\n主场: 科莫\n客场: 蒙扎\n场馆: Giuseppe Sinigaglia\n城市: C
- omo
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza @ Como
+DESCRIPTION:Monza at Como (Serie A 2026-27\, Beijing time)\n\n主场: 科
+ 莫\n客场: 蒙扎\n场馆: Giuseppe Sinigaglia\n城市: Como
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -331,10 +315,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270215T040000
 DTEND;TZID=Asia/Shanghai:20270215T050000
-SUMMARY:蒙扎 Schedule · 蒙扎 vs 莱切
-DESCRIPTION:莱切 作客 蒙扎（意甲 2026-27 赛季，北京时间）
- \n\n主场: 蒙扎\n客场: 莱切\n场馆: U-Power Stadium\n城市: Monza
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza vs Lecce
+DESCRIPTION:Lecce at Monza (Serie A 2026-27\, Beijing time)\n\n主场: 蒙
+ 扎\n客场: 莱切\n场馆: U-Power Stadium\n城市: Monza
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -344,11 +328,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270222T040000
 DTEND;TZID=Asia/Shanghai:20270222T050000
-SUMMARY:蒙扎 Schedule · 蒙扎 @ 亚特兰大
-DESCRIPTION:蒙扎 作客 亚特兰大（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 亚特兰大\n客场: 蒙扎\n场馆: New Balance Arena\
- n城市: Bergamo
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza @ Atalanta
+DESCRIPTION:Monza at Atalanta (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 亚特兰大\n客场: 蒙扎\n场馆: New Balance Arena\n城市: Bergamo
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -358,11 +341,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270301T040000
 DTEND;TZID=Asia/Shanghai:20270301T050000
-SUMMARY:蒙扎 Schedule · 蒙扎 vs 尤文图斯
-DESCRIPTION:尤文图斯 作客 蒙扎（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 蒙扎\n客场: 尤文图斯\n场馆: U-Power Stadium\n
- 城市: Monza
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza vs Juventus
+DESCRIPTION:Juventus at Monza (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 蒙扎\n客场: 尤文图斯\n场馆: U-Power Stadium\n城市: Monza
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -372,11 +354,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270308T040000
 DTEND;TZID=Asia/Shanghai:20270308T050000
-SUMMARY:蒙扎 Schedule · 蒙扎 vs 热那亚
-DESCRIPTION:热那亚 作客 蒙扎（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 蒙扎\n客场: 热那亚\n场馆: U-Power Stadium\n城市:
-  Monza
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza vs Genoa
+DESCRIPTION:Genoa at Monza (Serie A 2026-27\, Beijing time)\n\n主场: 蒙
+ 扎\n客场: 热那亚\n场馆: U-Power Stadium\n城市: Monza
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -386,11 +367,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270315T020000
 DTEND;TZID=Asia/Shanghai:20270315T030000
-SUMMARY:蒙扎 Schedule · 蒙扎 @ 弗罗西诺内
-DESCRIPTION:蒙扎 作客 弗罗西诺内（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 弗罗西诺内\n客场: 蒙扎\n场馆: Stadio Benit
- o Stirpe\n城市: Frosinone
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza @ Frosinone
+DESCRIPTION:Monza at Frosinone (Serie A 2026-27\, Beijing time)\n\n主场:
+  弗罗西诺内\n客场: 蒙扎\n场馆: Stadio Benito Stirpe\n城市: Fr
+ osinone
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -400,11 +381,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270322T020000
 DTEND;TZID=Asia/Shanghai:20270322T030000
-SUMMARY:蒙扎 Schedule · 蒙扎 vs 博洛尼亚
-DESCRIPTION:博洛尼亚 作客 蒙扎（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 蒙扎\n客场: 博洛尼亚\n场馆: U-Power Stadium\n
- 城市: Monza
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza vs Bologna
+DESCRIPTION:Bologna at Monza (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 蒙扎\n客场: 博洛尼亚\n场馆: U-Power Stadium\n城市: Monza
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -414,10 +394,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270405T020000
 DTEND;TZID=Asia/Shanghai:20270405T030000
-SUMMARY:蒙扎 Schedule · 蒙扎 @ AC米兰
-DESCRIPTION:蒙扎 作客 AC米兰（意甲 2026-27 赛季，北京时间
- ）\n\n主场: AC米兰\n客场: 蒙扎\n场馆: San Siro\n城市: Milano
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza @ AC Milan
+DESCRIPTION:Monza at AC Milan (Serie A 2026-27\, Beijing time)\n\n主场: 
+ AC米兰\n客场: 蒙扎\n场馆: San Siro\n城市: Milano
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -427,11 +407,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270412T020000
 DTEND;TZID=Asia/Shanghai:20270412T030000
-SUMMARY:蒙扎 Schedule · 蒙扎 @ 乌迪内斯
-DESCRIPTION:蒙扎 作客 乌迪内斯（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 乌迪内斯\n客场: 蒙扎\n场馆: Stadio Friuli\n城
- 市: Udine
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza @ Udinese
+DESCRIPTION:Monza at Udinese (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 乌迪内斯\n客场: 蒙扎\n场馆: Stadio Friuli\n城市: Udine
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -441,11 +420,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270419T020000
 DTEND;TZID=Asia/Shanghai:20270419T030000
-SUMMARY:蒙扎 Schedule · 蒙扎 vs 国际米兰
-DESCRIPTION:国际米兰 作客 蒙扎（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 蒙扎\n客场: 国际米兰\n场馆: U-Power Stadium\n
- 城市: Monza
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza vs Internazionale
+DESCRIPTION:Internazionale at Monza (Serie A 2026-27\, Beijing time)\n\n
+ 主场: 蒙扎\n客场: 国际米兰\n场馆: U-Power Stadium\n城市: Mon
+ za
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -455,11 +434,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270426T020000
 DTEND;TZID=Asia/Shanghai:20270426T030000
-SUMMARY:蒙扎 Schedule · 蒙扎 @ 卡利亚里
-DESCRIPTION:蒙扎 作客 卡利亚里（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 卡利亚里\n客场: 蒙扎\n场馆: Unipol Domus\n城
- 市: Cagliari
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza @ Cagliari
+DESCRIPTION:Monza at Cagliari (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 卡利亚里\n客场: 蒙扎\n场馆: Unipol Domus\n城市: Cagliari
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -469,11 +447,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270503T020000
 DTEND;TZID=Asia/Shanghai:20270503T030000
-SUMMARY:蒙扎 Schedule · 蒙扎 vs 威尼斯
-DESCRIPTION:威尼斯 作客 蒙扎（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 蒙扎\n客场: 威尼斯\n场馆: U-Power Stadium\n城市:
-  Monza
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza vs Venezia
+DESCRIPTION:Venezia at Monza (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 蒙扎\n客场: 威尼斯\n场馆: U-Power Stadium\n城市: Monza
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -483,11 +460,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270510T020000
 DTEND;TZID=Asia/Shanghai:20270510T030000
-SUMMARY:蒙扎 Schedule · 蒙扎 @ 那不勒斯
-DESCRIPTION:蒙扎 作客 那不勒斯（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 那不勒斯\n客场: 蒙扎\n场馆: Stadio Diego Arman
- do Maradona\n城市: Napoli
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza @ Napoli
+DESCRIPTION:Monza at Napoli (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 那不勒斯\n客场: 蒙扎\n场馆: Stadio Diego Armando Maradona\n城
+ 市: Napoli
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -497,11 +474,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270517T020000
 DTEND;TZID=Asia/Shanghai:20270517T030000
-SUMMARY:蒙扎 Schedule · 蒙扎 vs 帕尔马
-DESCRIPTION:帕尔马 作客 蒙扎（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 蒙扎\n客场: 帕尔马\n场馆: U-Power Stadium\n城市:
-  Monza
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza vs Parma
+DESCRIPTION:Parma at Monza (Serie A 2026-27\, Beijing time)\n\n主场: 蒙
+ 扎\n客场: 帕尔马\n场馆: U-Power Stadium\n城市: Monza
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -511,11 +487,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270524T020000
 DTEND;TZID=Asia/Shanghai:20270524T030000
-SUMMARY:蒙扎 Schedule · 蒙扎 @ 佛罗伦萨
-DESCRIPTION:蒙扎 作客 佛罗伦萨（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 佛罗伦萨\n客场: 蒙扎\n场馆: Stadio Artemio Fra
- nchi\n城市: Firenze
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza @ Fiorentina
+DESCRIPTION:Monza at Fiorentina (Serie A 2026-27\, Beijing time)\n\n主场
+ : 佛罗伦萨\n客场: 蒙扎\n场馆: Stadio Artemio Franchi\n城市: Fi
+ renze
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -525,10 +501,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270531T020000
 DTEND;TZID=Asia/Shanghai:20270531T030000
-SUMMARY:蒙扎 Schedule · 蒙扎 vs 都灵
-DESCRIPTION:都灵 作客 蒙扎（意甲 2026-27 赛季，北京时间）
- \n\n主场: 蒙扎\n客场: 都灵\n场馆: U-Power Stadium\n城市: Monza
-CATEGORIES:蒙扎 Schedule
+SUMMARY:Monza Schedule · Monza vs Torino
+DESCRIPTION:Torino at Monza (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 蒙扎\n客场: 都灵\n场馆: U-Power Stadium\n城市: Monza
+CATEGORIES:Monza Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT

@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Koyomi Cast//seriea-roma//EN
 URL:https://koyomi.cast/sources/seriea
-NAME:罗马 Schedule
-X-WR-CALNAME:罗马 Schedule
-X-WR-CALDESC:罗马 schedule in Serie A Schedule, auto-synced.
+NAME:AS Roma Schedule
+X-WR-CALNAME:AS Roma Schedule
+X-WR-CALDESC:AS Roma schedule in Serie A Schedule, auto-synced.
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
@@ -13,12 +13,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260825T024500
 DTEND;TZID=Asia/Shanghai:20260825T034500
-SUMMARY:罗马 Schedule · 罗马 vs 佛罗伦萨
-DESCRIPTION:佛罗伦萨 作客 罗马（意甲 2026-27 赛季，北京时
- 间）\n\nScore: 罗马 4 - 0 佛罗伦萨\n\n主场: 罗马\n客场: 佛
- 罗伦萨\n比分: 罗马 4 - 0 佛罗伦萨\n场馆: Olimpico\n城市: Ro
- ma
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma vs Fiorentina
+DESCRIPTION:Fiorentina at AS Roma (Serie A 2026-27\, Beijing time)\n\nScor
+ e: 罗马 4 - 0 佛罗伦萨\n\n主场: 罗马\n客场: 佛罗伦萨\n比
+ 分: 罗马 4 - 0 佛罗伦萨\n场馆: Olimpico\n城市: Roma
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -28,10 +27,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260901T003000
 DTEND;TZID=Asia/Shanghai:20260901T013000
-SUMMARY:罗马 Schedule · 罗马 @ 莱切
-DESCRIPTION:罗马 作客 莱切（意甲 2026-27 赛季，北京时间）
- \n\n主场: 莱切\n客场: 罗马\n场馆: Via Del Mare\n城市: Lecce
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma @ Lecce
+DESCRIPTION:AS Roma at Lecce (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 莱切\n客场: 罗马\n场馆: Via Del Mare\n城市: Lecce
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -41,11 +40,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260906T024500
 DTEND;TZID=Asia/Shanghai:20260906T034500
-SUMMARY:罗马 Schedule · 罗马 vs 亚特兰大
-DESCRIPTION:亚特兰大 作客 罗马（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 罗马\n客场: 亚特兰大\n场馆: Olimpico\n城市: 
- Roma
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma vs Atalanta
+DESCRIPTION:Atalanta at AS Roma (Serie A 2026-27\, Beijing time)\n\n主场
+ : 罗马\n客场: 亚特兰大\n场馆: Olimpico\n城市: Roma
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -55,11 +53,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260914T020000
 DTEND;TZID=Asia/Shanghai:20260914T030000
-SUMMARY:罗马 Schedule · 罗马 @ 都灵
-DESCRIPTION:罗马 作客 都灵（意甲 2026-27 赛季，北京时间）
- \n\n主场: 都灵\n客场: 罗马\n场馆: Stadio Olimpico Grande Torino\
- n城市: Torino
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma @ Torino
+DESCRIPTION:AS Roma at Torino (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 都灵\n客场: 罗马\n场馆: Stadio Olimpico Grande Torino\n城市: Tor
+ ino
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -69,11 +67,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260920T000000
 DTEND;TZID=Asia/Shanghai:20260920T010000
-SUMMARY:罗马 Schedule · 罗马 vs 国际米兰
-DESCRIPTION:国际米兰 作客 罗马（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 罗马\n客场: 国际米兰\n场馆: Olimpico\n城市: 
- Roma
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma vs Internazionale
+DESCRIPTION:Internazionale at AS Roma (Serie A 2026-27\, Beijing time)\n\n
+ 主场: 罗马\n客场: 国际米兰\n场馆: Olimpico\n城市: Roma
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -83,11 +80,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261012T020000
 DTEND;TZID=Asia/Shanghai:20261012T030000
-SUMMARY:罗马 Schedule · 罗马 @ 科莫
-DESCRIPTION:罗马 作客 科莫（意甲 2026-27 赛季，北京时间）
- \n\n主场: 科莫\n客场: 罗马\n场馆: Giuseppe Sinigaglia\n城市: C
- omo
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma @ Como
+DESCRIPTION:AS Roma at Como (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 科莫\n客场: 罗马\n场馆: Giuseppe Sinigaglia\n城市: Como
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -97,10 +93,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261018T020000
 DTEND;TZID=Asia/Shanghai:20261018T030000
-SUMMARY:罗马 Schedule · 罗马 vs 热那亚
-DESCRIPTION:热那亚 作客 罗马（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 罗马\n客场: 热那亚\n场馆: Olimpico\n城市: Roma
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma vs Genoa
+DESCRIPTION:Genoa at AS Roma (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 罗马\n客场: 热那亚\n场馆: Olimpico\n城市: Roma
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -110,11 +106,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261026T020000
 DTEND;TZID=Asia/Shanghai:20261026T030000
-SUMMARY:罗马 Schedule · 罗马 @ 那不勒斯
-DESCRIPTION:罗马 作客 那不勒斯（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 那不勒斯\n客场: 罗马\n场馆: Stadio Diego Arman
- do Maradona\n城市: Napoli
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma @ Napoli
+DESCRIPTION:AS Roma at Napoli (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 那不勒斯\n客场: 罗马\n场馆: Stadio Diego Armando Maradona\n城
+ 市: Napoli
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -124,11 +120,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261029T020000
 DTEND;TZID=Asia/Shanghai:20261029T030000
-SUMMARY:罗马 Schedule · 罗马 vs 卡利亚里
-DESCRIPTION:卡利亚里 作客 罗马（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 罗马\n客场: 卡利亚里\n场馆: Olimpico\n城市: 
- Roma
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma vs Cagliari
+DESCRIPTION:Cagliari at AS Roma (Serie A 2026-27\, Beijing time)\n\n主场
+ : 罗马\n客场: 卡利亚里\n场馆: Olimpico\n城市: Roma
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -138,11 +133,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261102T040000
 DTEND;TZID=Asia/Shanghai:20261102T050000
-SUMMARY:罗马 Schedule · 罗马 @ 乌迪内斯
-DESCRIPTION:罗马 作客 乌迪内斯（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 乌迪内斯\n客场: 罗马\n场馆: Stadio Friuli\n城
- 市: Udine
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma @ Udinese
+DESCRIPTION:AS Roma at Udinese (Serie A 2026-27\, Beijing time)\n\n主场:
+  乌迪内斯\n客场: 罗马\n场馆: Stadio Friuli\n城市: Udine
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -152,10 +146,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261109T040000
 DTEND;TZID=Asia/Shanghai:20261109T050000
-SUMMARY:罗马 Schedule · 罗马 vs 萨索洛
-DESCRIPTION:萨索洛 作客 罗马（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 罗马\n客场: 萨索洛\n场馆: Olimpico\n城市: Roma
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma vs Sassuolo
+DESCRIPTION:Sassuolo at AS Roma (Serie A 2026-27\, Beijing time)\n\n主场
+ : 罗马\n客场: 萨索洛\n场馆: Olimpico\n城市: Roma
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -165,11 +159,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261123T040000
 DTEND;TZID=Asia/Shanghai:20261123T050000
-SUMMARY:罗马 Schedule · 罗马 @ 帕尔马
-DESCRIPTION:罗马 作客 帕尔马（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 帕尔马\n客场: 罗马\n场馆: Ennio Tardini\n城市: P
- arma
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma @ Parma
+DESCRIPTION:AS Roma at Parma (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 帕尔马\n客场: 罗马\n场馆: Ennio Tardini\n城市: Parma
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -179,10 +172,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261130T040000
 DTEND;TZID=Asia/Shanghai:20261130T050000
-SUMMARY:罗马 Schedule · 罗马 vs 蒙扎
-DESCRIPTION:蒙扎 作客 罗马（意甲 2026-27 赛季，北京时间）
- \n\n主场: 罗马\n客场: 蒙扎\n场馆: Olimpico\n城市: Roma
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma vs Monza
+DESCRIPTION:Monza at AS Roma (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 罗马\n客场: 蒙扎\n场馆: Olimpico\n城市: Roma
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -192,11 +185,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261207T040000
 DTEND;TZID=Asia/Shanghai:20261207T050000
-SUMMARY:罗马 Schedule · 罗马 @ 博洛尼亚
-DESCRIPTION:罗马 作客 博洛尼亚（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 博洛尼亚\n客场: 罗马\n场馆: Renato Dall'Ara\n
- 城市: Bologna
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma @ Bologna
+DESCRIPTION:AS Roma at Bologna (Serie A 2026-27\, Beijing time)\n\n主场:
+  博洛尼亚\n客场: 罗马\n场馆: Renato Dall'Ara\n城市: Bologna
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -206,10 +198,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261214T040000
 DTEND;TZID=Asia/Shanghai:20261214T050000
-SUMMARY:罗马 Schedule · 罗马 @ 拉齐奥
-DESCRIPTION:罗马 作客 拉齐奥（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 拉齐奥\n客场: 罗马\n场馆: Olimpico\n城市: Roma
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma @ Lazio
+DESCRIPTION:AS Roma at Lazio (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 拉齐奥\n客场: 罗马\n场馆: Olimpico\n城市: Roma
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -219,11 +211,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261221T040000
 DTEND;TZID=Asia/Shanghai:20261221T050000
-SUMMARY:罗马 Schedule · 罗马 vs 尤文图斯
-DESCRIPTION:尤文图斯 作客 罗马（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 罗马\n客场: 尤文图斯\n场馆: Olimpico\n城市: 
- Roma
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma vs Juventus
+DESCRIPTION:Juventus at AS Roma (Serie A 2026-27\, Beijing time)\n\n主场
+ : 罗马\n客场: 尤文图斯\n场馆: Olimpico\n城市: Roma
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -233,11 +224,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270104T040000
 DTEND;TZID=Asia/Shanghai:20270104T050000
-SUMMARY:罗马 Schedule · 罗马 vs 弗罗西诺内
-DESCRIPTION:弗罗西诺内 作客 罗马（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 罗马\n客场: 弗罗西诺内\n场馆: Olimpico\n
- 城市: Roma
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma vs Frosinone
+DESCRIPTION:Frosinone at AS Roma (Serie A 2026-27\, Beijing time)\n\n主
+ 场: 罗马\n客场: 弗罗西诺内\n场馆: Olimpico\n城市: Roma
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -247,11 +237,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270107T040000
 DTEND;TZID=Asia/Shanghai:20270107T050000
-SUMMARY:罗马 Schedule · 罗马 @ 威尼斯
-DESCRIPTION:罗马 作客 威尼斯（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 威尼斯\n客场: 罗马\n场馆: Stadio Pier Luigi Penzo\
- n城市: Venezia
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma @ Venezia
+DESCRIPTION:AS Roma at Venezia (Serie A 2026-27\, Beijing time)\n\n主场:
+  威尼斯\n客场: 罗马\n场馆: Stadio Pier Luigi Penzo\n城市: Venez
+ ia
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -261,10 +251,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270111T040000
 DTEND;TZID=Asia/Shanghai:20270111T050000
-SUMMARY:罗马 Schedule · 罗马 vs AC米兰
-DESCRIPTION:AC米兰 作客 罗马（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 罗马\n客场: AC米兰\n场馆: Olimpico\n城市: Roma
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma vs AC Milan
+DESCRIPTION:AC Milan at AS Roma (Serie A 2026-27\, Beijing time)\n\n主场
+ : 罗马\n客场: AC米兰\n场馆: Olimpico\n城市: Roma
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -274,11 +264,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270118T040000
 DTEND;TZID=Asia/Shanghai:20270118T050000
-SUMMARY:罗马 Schedule · 罗马 @ 亚特兰大
-DESCRIPTION:罗马 作客 亚特兰大（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 亚特兰大\n客场: 罗马\n场馆: New Balance Arena\
- n城市: Bergamo
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma @ Atalanta
+DESCRIPTION:AS Roma at Atalanta (Serie A 2026-27\, Beijing time)\n\n主场
+ : 亚特兰大\n客场: 罗马\n场馆: New Balance Arena\n城市: Bergamo
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -288,11 +277,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270125T040000
 DTEND;TZID=Asia/Shanghai:20270125T050000
-SUMMARY:罗马 Schedule · 罗马 vs 乌迪内斯
-DESCRIPTION:乌迪内斯 作客 罗马（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 罗马\n客场: 乌迪内斯\n场馆: Olimpico\n城市: 
- Roma
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma vs Udinese
+DESCRIPTION:Udinese at AS Roma (Serie A 2026-27\, Beijing time)\n\n主场:
+  罗马\n客场: 乌迪内斯\n场馆: Olimpico\n城市: Roma
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -302,10 +290,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270201T040000
 DTEND;TZID=Asia/Shanghai:20270201T050000
-SUMMARY:罗马 Schedule · 罗马 @ 蒙扎
-DESCRIPTION:罗马 作客 蒙扎（意甲 2026-27 赛季，北京时间）
- \n\n主场: 蒙扎\n客场: 罗马\n场馆: U-Power Stadium\n城市: Monza
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma @ Monza
+DESCRIPTION:AS Roma at Monza (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 蒙扎\n客场: 罗马\n场馆: U-Power Stadium\n城市: Monza
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -315,10 +303,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270208T040000
 DTEND;TZID=Asia/Shanghai:20270208T050000
-SUMMARY:罗马 Schedule · 罗马 vs 都灵
-DESCRIPTION:都灵 作客 罗马（意甲 2026-27 赛季，北京时间）
- \n\n主场: 罗马\n客场: 都灵\n场馆: Olimpico\n城市: Roma
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma vs Torino
+DESCRIPTION:Torino at AS Roma (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 罗马\n客场: 都灵\n场馆: Olimpico\n城市: Roma
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -328,10 +316,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270215T040000
 DTEND;TZID=Asia/Shanghai:20270215T050000
-SUMMARY:罗马 Schedule · 罗马 vs 帕尔马
-DESCRIPTION:帕尔马 作客 罗马（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 罗马\n客场: 帕尔马\n场馆: Olimpico\n城市: Roma
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma vs Parma
+DESCRIPTION:Parma at AS Roma (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 罗马\n客场: 帕尔马\n场馆: Olimpico\n城市: Roma
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -341,11 +329,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270222T040000
 DTEND;TZID=Asia/Shanghai:20270222T050000
-SUMMARY:罗马 Schedule · 罗马 @ 萨索洛
-DESCRIPTION:罗马 作客 萨索洛（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 萨索洛\n客场: 罗马\n场馆: Mapei Stadium\n城市: R
- eggio Emilia
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma @ Sassuolo
+DESCRIPTION:AS Roma at Sassuolo (Serie A 2026-27\, Beijing time)\n\n主场
+ : 萨索洛\n客场: 罗马\n场馆: Mapei Stadium\n城市: Reggio Emilia
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -355,10 +342,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270301T040000
 DTEND;TZID=Asia/Shanghai:20270301T050000
-SUMMARY:罗马 Schedule · 罗马 vs 威尼斯
-DESCRIPTION:威尼斯 作客 罗马（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 罗马\n客场: 威尼斯\n场馆: Olimpico\n城市: Roma
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma vs Venezia
+DESCRIPTION:Venezia at AS Roma (Serie A 2026-27\, Beijing time)\n\n主场:
+  罗马\n客场: 威尼斯\n场馆: Olimpico\n城市: Roma
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -368,11 +355,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270308T040000
 DTEND;TZID=Asia/Shanghai:20270308T050000
-SUMMARY:罗马 Schedule · 罗马 @ 尤文图斯
-DESCRIPTION:罗马 作客 尤文图斯（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 尤文图斯\n客场: 罗马\n场馆: Allianz Stadium\n
- 城市: Torino
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma @ Juventus
+DESCRIPTION:AS Roma at Juventus (Serie A 2026-27\, Beijing time)\n\n主场
+ : 尤文图斯\n客场: 罗马\n场馆: Allianz Stadium\n城市: Torino
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -382,11 +368,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270315T020000
 DTEND;TZID=Asia/Shanghai:20270315T030000
-SUMMARY:罗马 Schedule · 罗马 @ 热那亚
-DESCRIPTION:罗马 作客 热那亚（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 热那亚\n客场: 罗马\n场馆: Stadio Luigi Ferraris\n
- 城市: Genova
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma @ Genoa
+DESCRIPTION:AS Roma at Genoa (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 热那亚\n客场: 罗马\n场馆: Stadio Luigi Ferraris\n城市: Genova
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -396,10 +381,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270322T020000
 DTEND;TZID=Asia/Shanghai:20270322T030000
-SUMMARY:罗马 Schedule · 罗马 vs 莱切
-DESCRIPTION:莱切 作客 罗马（意甲 2026-27 赛季，北京时间）
- \n\n主场: 罗马\n客场: 莱切\n场馆: Olimpico\n城市: Roma
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma vs Lecce
+DESCRIPTION:Lecce at AS Roma (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 罗马\n客场: 莱切\n场馆: Olimpico\n城市: Roma
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -409,11 +394,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270405T020000
 DTEND;TZID=Asia/Shanghai:20270405T030000
-SUMMARY:罗马 Schedule · 罗马 vs 博洛尼亚
-DESCRIPTION:博洛尼亚 作客 罗马（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 罗马\n客场: 博洛尼亚\n场馆: Olimpico\n城市: 
- Roma
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma vs Bologna
+DESCRIPTION:Bologna at AS Roma (Serie A 2026-27\, Beijing time)\n\n主场:
+  罗马\n客场: 博洛尼亚\n场馆: Olimpico\n城市: Roma
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -423,11 +407,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270412T020000
 DTEND;TZID=Asia/Shanghai:20270412T030000
-SUMMARY:罗马 Schedule · 罗马 @ 国际米兰
-DESCRIPTION:罗马 作客 国际米兰（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 国际米兰\n客场: 罗马\n场馆: San Siro\n城市: 
- Milano
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma @ Internazionale
+DESCRIPTION:AS Roma at Internazionale (Serie A 2026-27\, Beijing time)\n\n
+ 主场: 国际米兰\n客场: 罗马\n场馆: San Siro\n城市: Milano
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -437,10 +420,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270419T020000
 DTEND;TZID=Asia/Shanghai:20270419T030000
-SUMMARY:罗马 Schedule · 罗马 vs 拉齐奥
-DESCRIPTION:拉齐奥 作客 罗马（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 罗马\n客场: 拉齐奥\n场馆: Olimpico\n城市: Roma
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma vs Lazio
+DESCRIPTION:Lazio at AS Roma (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 罗马\n客场: 拉齐奥\n场馆: Olimpico\n城市: Roma
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -450,11 +433,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270426T020000
 DTEND;TZID=Asia/Shanghai:20270426T030000
-SUMMARY:罗马 Schedule · 罗马 @ 弗罗西诺内
-DESCRIPTION:罗马 作客 弗罗西诺内（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 弗罗西诺内\n客场: 罗马\n场馆: Stadio Benit
- o Stirpe\n城市: Frosinone
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma @ Frosinone
+DESCRIPTION:AS Roma at Frosinone (Serie A 2026-27\, Beijing time)\n\n主
+ 场: 弗罗西诺内\n客场: 罗马\n场馆: Stadio Benito Stirpe\n城市
+ : Frosinone
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -464,11 +447,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270503T020000
 DTEND;TZID=Asia/Shanghai:20270503T030000
-SUMMARY:罗马 Schedule · 罗马 vs 那不勒斯
-DESCRIPTION:那不勒斯 作客 罗马（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 罗马\n客场: 那不勒斯\n场馆: Olimpico\n城市: 
- Roma
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma vs Napoli
+DESCRIPTION:Napoli at AS Roma (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 罗马\n客场: 那不勒斯\n场馆: Olimpico\n城市: Roma
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -478,11 +460,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270510T020000
 DTEND;TZID=Asia/Shanghai:20270510T030000
-SUMMARY:罗马 Schedule · 罗马 @ 佛罗伦萨
-DESCRIPTION:罗马 作客 佛罗伦萨（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 佛罗伦萨\n客场: 罗马\n场馆: Stadio Artemio Fra
- nchi\n城市: Firenze
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma @ Fiorentina
+DESCRIPTION:AS Roma at Fiorentina (Serie A 2026-27\, Beijing time)\n\n主
+ 场: 佛罗伦萨\n客场: 罗马\n场馆: Stadio Artemio Franchi\n城市:
+  Firenze
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -492,10 +474,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270517T020000
 DTEND;TZID=Asia/Shanghai:20270517T030000
-SUMMARY:罗马 Schedule · 罗马 @ AC米兰
-DESCRIPTION:罗马 作客 AC米兰（意甲 2026-27 赛季，北京时间
- ）\n\n主场: AC米兰\n客场: 罗马\n场馆: San Siro\n城市: Milano
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma @ AC Milan
+DESCRIPTION:AS Roma at AC Milan (Serie A 2026-27\, Beijing time)\n\n主场
+ : AC米兰\n客场: 罗马\n场馆: San Siro\n城市: Milano
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -505,10 +487,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270524T020000
 DTEND;TZID=Asia/Shanghai:20270524T030000
-SUMMARY:罗马 Schedule · 罗马 vs 科莫
-DESCRIPTION:科莫 作客 罗马（意甲 2026-27 赛季，北京时间）
- \n\n主场: 罗马\n客场: 科莫\n场馆: Olimpico\n城市: Roma
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma vs Como
+DESCRIPTION:Como at AS Roma (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 罗马\n客场: 科莫\n场馆: Olimpico\n城市: Roma
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -518,11 +500,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270531T020000
 DTEND;TZID=Asia/Shanghai:20270531T030000
-SUMMARY:罗马 Schedule · 罗马 @ 卡利亚里
-DESCRIPTION:罗马 作客 卡利亚里（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 卡利亚里\n客场: 罗马\n场馆: Unipol Domus\n城
- 市: Cagliari
-CATEGORIES:罗马 Schedule
+SUMMARY:AS Roma Schedule · AS Roma @ Cagliari
+DESCRIPTION:AS Roma at Cagliari (Serie A 2026-27\, Beijing time)\n\n主场
+ : 卡利亚里\n客场: 罗马\n场馆: Unipol Domus\n城市: Cagliari
+CATEGORIES:AS Roma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT

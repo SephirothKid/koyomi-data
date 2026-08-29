@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Koyomi Cast//ligue1-mns//EN
 URL:https://koyomi.cast/sources/ligue1
-NAME:勒芒 Schedule
-X-WR-CALNAME:勒芒 Schedule
-X-WR-CALDESC:勒芒 schedule in Ligue 1 Schedule, auto-synced.
+NAME:Le Mans Schedule
+X-WR-CALNAME:Le Mans Schedule
+X-WR-CALDESC:Le Mans schedule in Ligue 1 Schedule, auto-synced.
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
@@ -13,12 +13,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260823T024500
 DTEND;TZID=Asia/Shanghai:20260823T034500
-SUMMARY:勒芒 Schedule · 勒芒 vs 布雷斯特
-DESCRIPTION:布雷斯特 作客 勒芒（法甲 2026-27 赛季，北京时
- 间）\n\nScore: 勒芒 2 - 2 布雷斯特\n\n主场: 勒芒\n客场: 布
- 雷斯特\n比分: 勒芒 2 - 2 布雷斯特\n场馆: Stade Marie-Marvingt
- \n城市: Le Mans
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans vs Brest
+DESCRIPTION:Brest at Le Mans (Ligue 1 2026-27\, Beijing time)\n\nScore: 
+ 勒芒 2 - 2 布雷斯特\n\n主场: 勒芒\n客场: 布雷斯特\n比分:
+  勒芒 2 - 2 布雷斯特\n场馆: Stade Marie-Marvingt\n城市: Le Mans
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -28,10 +27,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260830T231500
 DTEND;TZID=Asia/Shanghai:20260831T001500
-SUMMARY:勒芒 Schedule · 勒芒 @ 雷恩
-DESCRIPTION:勒芒 作客 雷恩（法甲 2026-27 赛季，北京时间）
- \n\n主场: 雷恩\n客场: 勒芒\n场馆: Roazhon Park\n城市: Rennes
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans @ Stade Rennais
+DESCRIPTION:Le Mans at Stade Rennais (Ligue 1 2026-27\, Beijing time)\n\n
+ 主场: 雷恩\n客场: 勒芒\n场馆: Roazhon Park\n城市: Rennes
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -41,10 +40,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260906T024500
 DTEND;TZID=Asia/Shanghai:20260906T034500
-SUMMARY:勒芒 Schedule · 勒芒 @ 尼斯
-DESCRIPTION:勒芒 作客 尼斯（法甲 2026-27 赛季，北京时间）
- \n\n主场: 尼斯\n客场: 勒芒\n场馆: Allianz Riviera\n城市: Nice
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans @ Nice
+DESCRIPTION:Le Mans at Nice (Ligue 1 2026-27\, Beijing time)\n\n主场: 
+ 尼斯\n客场: 勒芒\n场馆: Allianz Riviera\n城市: Nice
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -54,11 +53,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260913T231500
 DTEND;TZID=Asia/Shanghai:20260914T001500
-SUMMARY:勒芒 Schedule · 勒芒 vs 朗斯
-DESCRIPTION:朗斯 作客 勒芒（法甲 2026-27 赛季，北京时间）
- \n\n主场: 勒芒\n客场: 朗斯\n场馆: Stade Marie-Marvingt\n城市: 
- Le Mans
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans vs Lens
+DESCRIPTION:Lens at Le Mans (Ligue 1 2026-27\, Beijing time)\n\n主场: 
+ 勒芒\n客场: 朗斯\n场馆: Stade Marie-Marvingt\n城市: Le Mans
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -68,11 +66,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260920T020000
 DTEND;TZID=Asia/Shanghai:20260920T030000
-SUMMARY:勒芒 Schedule · 勒芒 vs 洛里昂
-DESCRIPTION:洛里昂 作客 勒芒（法甲 2026-27 赛季，北京时间
- ）\n\n主场: 勒芒\n客场: 洛里昂\n场馆: Stade Marie-Marvingt\n
- 城市: Le Mans
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans vs Lorient
+DESCRIPTION:Lorient at Le Mans (Ligue 1 2026-27\, Beijing time)\n\n主场:
+  勒芒\n客场: 洛里昂\n场馆: Stade Marie-Marvingt\n城市: Le Mans
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -82,11 +79,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261011T020000
 DTEND;TZID=Asia/Shanghai:20261011T030000
-SUMMARY:勒芒 Schedule · 勒芒 @ 巴黎圣日耳曼
-DESCRIPTION:勒芒 作客 巴黎圣日耳曼（法甲 2026-27 赛季，北
- 京时间）\n\n主场: 巴黎圣日耳曼\n客场: 勒芒\n场馆: Parc d
- es Princes\n城市: Paris
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans @ Paris Saint-Germain
+DESCRIPTION:Le Mans at Paris Saint-Germain (Ligue 1 2026-27\, Beijing time
+ )\n\n主场: 巴黎圣日耳曼\n客场: 勒芒\n场馆: Parc des Princes\
+ n城市: Paris
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -96,11 +93,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261018T020000
 DTEND;TZID=Asia/Shanghai:20261018T030000
-SUMMARY:勒芒 Schedule · 勒芒 vs 图卢兹
-DESCRIPTION:图卢兹 作客 勒芒（法甲 2026-27 赛季，北京时间
- ）\n\n主场: 勒芒\n客场: 图卢兹\n场馆: Stade Marie-Marvingt\n
- 城市: Le Mans
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans vs Toulouse
+DESCRIPTION:Toulouse at Le Mans (Ligue 1 2026-27\, Beijing time)\n\n主场
+ : 勒芒\n客场: 图卢兹\n场馆: Stade Marie-Marvingt\n城市: Le Mans
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -110,11 +106,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261025T020000
 DTEND;TZID=Asia/Shanghai:20261025T030000
-SUMMARY:勒芒 Schedule · 勒芒 @ 欧塞尔
-DESCRIPTION:勒芒 作客 欧塞尔（法甲 2026-27 赛季，北京时间
- ）\n\n主场: 欧塞尔\n客场: 勒芒\n场馆: Stade de l'Abbé-Descham
- ps\n城市: Auxerre
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans @ AJ Auxerre
+DESCRIPTION:Le Mans at AJ Auxerre (Ligue 1 2026-27\, Beijing time)\n\n主
+ 场: 欧塞尔\n客场: 勒芒\n场馆: Stade de l'Abbé-Deschamps\n城市
+ : Auxerre
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -124,11 +120,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261101T020000
 DTEND;TZID=Asia/Shanghai:20261101T030000
-SUMMARY:勒芒 Schedule · 勒芒 @ 特鲁瓦
-DESCRIPTION:勒芒 作客 特鲁瓦（法甲 2026-27 赛季，北京时间
- ）\n\n主场: 特鲁瓦\n客场: 勒芒\n场馆: Stade de l'Aube\n城市:
-  Paris
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans @ Troyes
+DESCRIPTION:Le Mans at Troyes (Ligue 1 2026-27\, Beijing time)\n\n主场: 
+ 特鲁瓦\n客场: 勒芒\n场馆: Stade de l'Aube\n城市: Paris
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -138,11 +133,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261108T040000
 DTEND;TZID=Asia/Shanghai:20261108T050000
-SUMMARY:勒芒 Schedule · 勒芒 vs 摩纳哥
-DESCRIPTION:摩纳哥 作客 勒芒（法甲 2026-27 赛季，北京时间
- ）\n\n主场: 勒芒\n客场: 摩纳哥\n场馆: Stade Marie-Marvingt\n
- 城市: Le Mans
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans vs AS Monaco
+DESCRIPTION:AS Monaco at Le Mans (Ligue 1 2026-27\, Beijing time)\n\n主
+ 场: 勒芒\n客场: 摩纳哥\n场馆: Stade Marie-Marvingt\n城市: Le M
+ ans
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -152,11 +147,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261122T040000
 DTEND;TZID=Asia/Shanghai:20261122T050000
-SUMMARY:勒芒 Schedule · 勒芒 @ 马赛
-DESCRIPTION:勒芒 作客 马赛（法甲 2026-27 赛季，北京时间）
- \n\n主场: 马赛\n客场: 勒芒\n场馆: Stade Vélodrome\n城市: Mars
- eille
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans @ Marseille
+DESCRIPTION:Le Mans at Marseille (Ligue 1 2026-27\, Beijing time)\n\n主
+ 场: 马赛\n客场: 勒芒\n场馆: Stade Vélodrome\n城市: Marseille
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -166,11 +160,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261129T040000
 DTEND;TZID=Asia/Shanghai:20261129T050000
-SUMMARY:勒芒 Schedule · 勒芒 vs 里尔
-DESCRIPTION:里尔 作客 勒芒（法甲 2026-27 赛季，北京时间）
- \n\n主场: 勒芒\n客场: 里尔\n场馆: Stade Marie-Marvingt\n城市: 
- Le Mans
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans vs Lille
+DESCRIPTION:Lille at Le Mans (Ligue 1 2026-27\, Beijing time)\n\n主场: 
+ 勒芒\n客场: 里尔\n场馆: Stade Marie-Marvingt\n城市: Le Mans
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -180,11 +173,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261206T040000
 DTEND;TZID=Asia/Shanghai:20261206T050000
-SUMMARY:勒芒 Schedule · 勒芒 @ 巴黎FC
-DESCRIPTION:勒芒 作客 巴黎FC（法甲 2026-27 赛季，北京时间
- ）\n\n主场: 巴黎FC\n客场: 勒芒\n场馆: Stade Jean Bouin\n城市:
-  Paris
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans @ Paris FC
+DESCRIPTION:Le Mans at Paris FC (Ligue 1 2026-27\, Beijing time)\n\n主场
+ : 巴黎FC\n客场: 勒芒\n场馆: Stade Jean Bouin\n城市: Paris
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -194,11 +186,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261213T040000
 DTEND;TZID=Asia/Shanghai:20261213T050000
-SUMMARY:勒芒 Schedule · 勒芒 @ 勒阿弗尔
-DESCRIPTION:勒芒 作客 勒阿弗尔（法甲 2026-27 赛季，北京时
- 间）\n\n主场: 勒阿弗尔\n客场: 勒芒\n场馆: Stade Océane\n城
- 市: Le Havre
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans @ Le Havre AC
+DESCRIPTION:Le Mans at Le Havre AC (Ligue 1 2026-27\, Beijing time)\n\n主
+ 场: 勒阿弗尔\n客场: 勒芒\n场馆: Stade Océane\n城市: Le Havre
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -208,11 +199,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270103T040000
 DTEND;TZID=Asia/Shanghai:20270103T050000
-SUMMARY:勒芒 Schedule · 勒芒 vs 里昂
-DESCRIPTION:里昂 作客 勒芒（法甲 2026-27 赛季，北京时间）
- \n\n主场: 勒芒\n客场: 里昂\n场馆: Stade Marie-Marvingt\n城市: 
- Le Mans
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans vs Lyon
+DESCRIPTION:Lyon at Le Mans (Ligue 1 2026-27\, Beijing time)\n\n主场: 
+ 勒芒\n客场: 里昂\n场馆: Stade Marie-Marvingt\n城市: Le Mans
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -222,11 +212,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270117T040000
 DTEND;TZID=Asia/Shanghai:20270117T050000
-SUMMARY:勒芒 Schedule · 勒芒 @ 斯特拉斯堡
-DESCRIPTION:勒芒 作客 斯特拉斯堡（法甲 2026-27 赛季，北京
- 时间）\n\n主场: 斯特拉斯堡\n客场: 勒芒\n场馆: Stade de la 
- Meinau\n城市: Strasbourg
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans @ Strasbourg
+DESCRIPTION:Le Mans at Strasbourg (Ligue 1 2026-27\, Beijing time)\n\n主
+ 场: 斯特拉斯堡\n客场: 勒芒\n场馆: Stade de la Meinau\n城市: 
+ Strasbourg
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -236,11 +226,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270124T040000
 DTEND;TZID=Asia/Shanghai:20270124T050000
-SUMMARY:勒芒 Schedule · 勒芒 vs 昂热
-DESCRIPTION:昂热 作客 勒芒（法甲 2026-27 赛季，北京时间）
- \n\n主场: 勒芒\n客场: 昂热\n场馆: Stade Marie-Marvingt\n城市: 
- Le Mans
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans vs Angers
+DESCRIPTION:Angers at Le Mans (Ligue 1 2026-27\, Beijing time)\n\n主场: 
+ 勒芒\n客场: 昂热\n场馆: Stade Marie-Marvingt\n城市: Le Mans
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -250,11 +239,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270131T040000
 DTEND;TZID=Asia/Shanghai:20270131T050000
-SUMMARY:勒芒 Schedule · 勒芒 vs 尼斯
-DESCRIPTION:尼斯 作客 勒芒（法甲 2026-27 赛季，北京时间）
- \n\n主场: 勒芒\n客场: 尼斯\n场馆: Stade Marie-Marvingt\n城市: 
- Le Mans
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans vs Nice
+DESCRIPTION:Nice at Le Mans (Ligue 1 2026-27\, Beijing time)\n\n主场: 
+ 勒芒\n客场: 尼斯\n场馆: Stade Marie-Marvingt\n城市: Le Mans
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -264,11 +252,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270207T040000
 DTEND;TZID=Asia/Shanghai:20270207T050000
-SUMMARY:勒芒 Schedule · 勒芒 @ 洛里昂
-DESCRIPTION:勒芒 作客 洛里昂（法甲 2026-27 赛季，北京时间
- ）\n\n主场: 洛里昂\n客场: 勒芒\n场馆: Stade du Moustoir - Yves
-  Allainmat\n城市: Lorient
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans @ Lorient
+DESCRIPTION:Le Mans at Lorient (Ligue 1 2026-27\, Beijing time)\n\n主场:
+  洛里昂\n客场: 勒芒\n场馆: Stade du Moustoir - Yves Allainmat\n
+ 城市: Lorient
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -278,11 +266,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270214T040000
 DTEND;TZID=Asia/Shanghai:20270214T050000
-SUMMARY:勒芒 Schedule · 勒芒 vs 巴黎圣日耳曼
-DESCRIPTION:巴黎圣日耳曼 作客 勒芒（法甲 2026-27 赛季，北
- 京时间）\n\n主场: 勒芒\n客场: 巴黎圣日耳曼\n场馆: Stade 
- Marie-Marvingt\n城市: Le Mans
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans vs Paris Saint-Germain
+DESCRIPTION:Paris Saint-Germain at Le Mans (Ligue 1 2026-27\, Beijing time
+ )\n\n主场: 勒芒\n客场: 巴黎圣日耳曼\n场馆: Stade Marie-Marvi
+ ngt\n城市: Le Mans
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -292,11 +280,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270221T040000
 DTEND;TZID=Asia/Shanghai:20270221T050000
-SUMMARY:勒芒 Schedule · 勒芒 @ 摩纳哥
-DESCRIPTION:勒芒 作客 摩纳哥（法甲 2026-27 赛季，北京时间
- ）\n\n主场: 摩纳哥\n客场: 勒芒\n场馆: Stade Louis II\n城市: 
- Monaco
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans @ AS Monaco
+DESCRIPTION:Le Mans at AS Monaco (Ligue 1 2026-27\, Beijing time)\n\n主
+ 场: 摩纳哥\n客场: 勒芒\n场馆: Stade Louis II\n城市: Monaco
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -306,11 +293,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270228T040000
 DTEND;TZID=Asia/Shanghai:20270228T050000
-SUMMARY:勒芒 Schedule · 勒芒 vs 巴黎FC
-DESCRIPTION:巴黎FC 作客 勒芒（法甲 2026-27 赛季，北京时间
- ）\n\n主场: 勒芒\n客场: 巴黎FC\n场馆: Stade Marie-Marvingt\n城
- 市: Le Mans
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans vs Paris FC
+DESCRIPTION:Paris FC at Le Mans (Ligue 1 2026-27\, Beijing time)\n\n主场
+ : 勒芒\n客场: 巴黎FC\n场馆: Stade Marie-Marvingt\n城市: Le Mans
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -320,11 +306,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270307T040000
 DTEND;TZID=Asia/Shanghai:20270307T050000
-SUMMARY:勒芒 Schedule · 勒芒 @ 图卢兹
-DESCRIPTION:勒芒 作客 图卢兹（法甲 2026-27 赛季，北京时间
- ）\n\n主场: 图卢兹\n客场: 勒芒\n场馆: Stadium Municipal de Tou
- louse\n城市: Toulouse
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans @ Toulouse
+DESCRIPTION:Le Mans at Toulouse (Ligue 1 2026-27\, Beijing time)\n\n主场
+ : 图卢兹\n客场: 勒芒\n场馆: Stadium Municipal de Toulouse\n城市
+ : Toulouse
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -334,11 +320,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270314T040000
 DTEND;TZID=Asia/Shanghai:20270314T050000
-SUMMARY:勒芒 Schedule · 勒芒 vs 雷恩
-DESCRIPTION:雷恩 作客 勒芒（法甲 2026-27 赛季，北京时间）
- \n\n主场: 勒芒\n客场: 雷恩\n场馆: Stade Marie-Marvingt\n城市: 
- Le Mans
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans vs Stade Rennais
+DESCRIPTION:Stade Rennais at Le Mans (Ligue 1 2026-27\, Beijing time)\n\n
+ 主场: 勒芒\n客场: 雷恩\n场馆: Stade Marie-Marvingt\n城市: Le M
+ ans
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -348,11 +334,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270321T020000
 DTEND;TZID=Asia/Shanghai:20270321T030000
-SUMMARY:勒芒 Schedule · 勒芒 @ 昂热
-DESCRIPTION:勒芒 作客 昂热（法甲 2026-27 赛季，北京时间）
- \n\n主场: 昂热\n客场: 勒芒\n场馆: Stade Raymond Kopa\n城市: An
- gers
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans @ Angers
+DESCRIPTION:Le Mans at Angers (Ligue 1 2026-27\, Beijing time)\n\n主场: 
+ 昂热\n客场: 勒芒\n场馆: Stade Raymond Kopa\n城市: Angers
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -362,11 +347,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270404T020000
 DTEND;TZID=Asia/Shanghai:20270404T030000
-SUMMARY:勒芒 Schedule · 勒芒 vs 马赛
-DESCRIPTION:马赛 作客 勒芒（法甲 2026-27 赛季，北京时间）
- \n\n主场: 勒芒\n客场: 马赛\n场馆: Stade Marie-Marvingt\n城市: 
- Le Mans
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans vs Marseille
+DESCRIPTION:Marseille at Le Mans (Ligue 1 2026-27\, Beijing time)\n\n主
+ 场: 勒芒\n客场: 马赛\n场馆: Stade Marie-Marvingt\n城市: Le Mans
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -376,11 +360,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270411T020000
 DTEND;TZID=Asia/Shanghai:20270411T030000
-SUMMARY:勒芒 Schedule · 勒芒 vs 欧塞尔
-DESCRIPTION:欧塞尔 作客 勒芒（法甲 2026-27 赛季，北京时间
- ）\n\n主场: 勒芒\n客场: 欧塞尔\n场馆: Stade Marie-Marvingt\n
- 城市: Le Mans
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans vs AJ Auxerre
+DESCRIPTION:AJ Auxerre at Le Mans (Ligue 1 2026-27\, Beijing time)\n\n主
+ 场: 勒芒\n客场: 欧塞尔\n场馆: Stade Marie-Marvingt\n城市: Le M
+ ans
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -390,11 +374,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270418T020000
 DTEND;TZID=Asia/Shanghai:20270418T030000
-SUMMARY:勒芒 Schedule · 勒芒 @ 布雷斯特
-DESCRIPTION:勒芒 作客 布雷斯特（法甲 2026-27 赛季，北京时
- 间）\n\n主场: 布雷斯特\n客场: 勒芒\n场馆: Stade Francis-Le B
- lé\n城市: Brest
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans @ Brest
+DESCRIPTION:Le Mans at Brest (Ligue 1 2026-27\, Beijing time)\n\n主场: 
+ 布雷斯特\n客场: 勒芒\n场馆: Stade Francis-Le Blé\n城市: Brest
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -404,11 +387,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270425T020000
 DTEND;TZID=Asia/Shanghai:20270425T030000
-SUMMARY:勒芒 Schedule · 勒芒 vs 勒阿弗尔
-DESCRIPTION:勒阿弗尔 作客 勒芒（法甲 2026-27 赛季，北京时
- 间）\n\n主场: 勒芒\n客场: 勒阿弗尔\n场馆: Stade Marie-Marvin
- gt\n城市: Le Mans
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans vs Le Havre AC
+DESCRIPTION:Le Havre AC at Le Mans (Ligue 1 2026-27\, Beijing time)\n\n主
+ 场: 勒芒\n客场: 勒阿弗尔\n场馆: Stade Marie-Marvingt\n城市: L
+ e Mans
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -418,11 +401,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270502T020000
 DTEND;TZID=Asia/Shanghai:20270502T030000
-SUMMARY:勒芒 Schedule · 勒芒 @ 朗斯
-DESCRIPTION:勒芒 作客 朗斯（法甲 2026-27 赛季，北京时间）
- \n\n主场: 朗斯\n客场: 勒芒\n场馆: Stade Bollaert-Delelis\n城市
- : Lens
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans @ Lens
+DESCRIPTION:Le Mans at Lens (Ligue 1 2026-27\, Beijing time)\n\n主场: 
+ 朗斯\n客场: 勒芒\n场馆: Stade Bollaert-Delelis\n城市: Lens
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -432,11 +414,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270509T020000
 DTEND;TZID=Asia/Shanghai:20270509T030000
-SUMMARY:勒芒 Schedule · 勒芒 vs 特鲁瓦
-DESCRIPTION:特鲁瓦 作客 勒芒（法甲 2026-27 赛季，北京时间
- ）\n\n主场: 勒芒\n客场: 特鲁瓦\n场馆: Stade Marie-Marvingt\n
- 城市: Le Mans
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans vs Troyes
+DESCRIPTION:Troyes at Le Mans (Ligue 1 2026-27\, Beijing time)\n\n主场: 
+ 勒芒\n客场: 特鲁瓦\n场馆: Stade Marie-Marvingt\n城市: Le Mans
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -446,10 +427,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270517T020000
 DTEND;TZID=Asia/Shanghai:20270517T030000
-SUMMARY:勒芒 Schedule · 勒芒 @ 里昂
-DESCRIPTION:勒芒 作客 里昂（法甲 2026-27 赛季，北京时间）
- \n\n主场: 里昂\n客场: 勒芒\n场馆: Groupama Stadium\n城市: Lyon
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans @ Lyon
+DESCRIPTION:Le Mans at Lyon (Ligue 1 2026-27\, Beijing time)\n\n主场: 
+ 里昂\n客场: 勒芒\n场馆: Groupama Stadium\n城市: Lyon
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -459,11 +440,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270523T020000
 DTEND;TZID=Asia/Shanghai:20270523T030000
-SUMMARY:勒芒 Schedule · 勒芒 vs 斯特拉斯堡
-DESCRIPTION:斯特拉斯堡 作客 勒芒（法甲 2026-27 赛季，北京
- 时间）\n\n主场: 勒芒\n客场: 斯特拉斯堡\n场馆: Stade Marie-
- Marvingt\n城市: Le Mans
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans vs Strasbourg
+DESCRIPTION:Strasbourg at Le Mans (Ligue 1 2026-27\, Beijing time)\n\n主
+ 场: 勒芒\n客场: 斯特拉斯堡\n场馆: Stade Marie-Marvingt\n城市
+ : Le Mans
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -473,11 +454,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270530T020000
 DTEND;TZID=Asia/Shanghai:20270530T030000
-SUMMARY:勒芒 Schedule · 勒芒 @ 里尔
-DESCRIPTION:勒芒 作客 里尔（法甲 2026-27 赛季，北京时间）
- \n\n主场: 里尔\n客场: 勒芒\n场馆: Decathlon Arena - Stade Pierre
- -Mauroy\n城市: Lille
-CATEGORIES:勒芒 Schedule
+SUMMARY:Le Mans Schedule · Le Mans @ Lille
+DESCRIPTION:Le Mans at Lille (Ligue 1 2026-27\, Beijing time)\n\n主场: 
+ 里尔\n客场: 勒芒\n场馆: Decathlon Arena - Stade Pierre-Mauroy\n城
+ 市: Lille
+CATEGORIES:Le Mans Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
 END:VEVENT

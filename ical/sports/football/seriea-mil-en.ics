@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Koyomi Cast//seriea-mil//EN
 URL:https://koyomi.cast/sources/seriea
-NAME:AC米兰 Schedule
-X-WR-CALNAME:AC米兰 Schedule
-X-WR-CALDESC:AC米兰 schedule in Serie A Schedule, auto-synced.
+NAME:AC Milan Schedule
+X-WR-CALNAME:AC Milan Schedule
+X-WR-CALDESC:AC Milan schedule in Serie A Schedule, auto-synced.
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
@@ -13,12 +13,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260824T024500
 DTEND;TZID=Asia/Shanghai:20260824T034500
-SUMMARY:AC米兰 Schedule · AC米兰 @ 都灵
-DESCRIPTION:AC米兰 作客 都灵（意甲 2026-27 赛季，北京时间
- ）\n\nScore: 都灵 1 - 2 AC米兰\n\n主场: 都灵\n客场: AC米兰\n
- 比分: 都灵 1 - 2 AC米兰\n场馆: Stadio Olimpico Grande Torino\n城
- 市: Torino
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan @ Torino
+DESCRIPTION:AC Milan at Torino (Serie A 2026-27\, Beijing time)\n\nScore: 
+ 都灵 1 - 2 AC米兰\n\n主场: 都灵\n客场: AC米兰\n比分: 都灵 
+ 1 - 2 AC米兰\n场馆: Stadio Olimpico Grande Torino\n城市: Torino
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -28,11 +27,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260829T024500
 DTEND;TZID=Asia/Shanghai:20260829T034500
-SUMMARY:AC米兰 Schedule · AC米兰 vs 威尼斯
-DESCRIPTION:威尼斯 作客 AC米兰（意甲 2026-27 赛季，北京时
- 间）\n\nScore: AC米兰 2 - 0 威尼斯\n\n主场: AC米兰\n客场: 威
- 尼斯\n比分: AC米兰 2 - 0 威尼斯\n场馆: San Siro\n城市: Milano
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan vs Venezia
+DESCRIPTION:Venezia at AC Milan (Serie A 2026-27\, Beijing time)\n\nScore:
+  AC米兰 2 - 0 威尼斯\n\n主场: AC米兰\n客场: 威尼斯\n比分: 
+ AC米兰 2 - 0 威尼斯\n场馆: San Siro\n城市: Milano
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -42,11 +41,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260907T024500
 DTEND;TZID=Asia/Shanghai:20260907T034500
-SUMMARY:AC米兰 Schedule · AC米兰 @ 尤文图斯
-DESCRIPTION:AC米兰 作客 尤文图斯（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 尤文图斯\n客场: AC米兰\n场馆: Allianz Stadi
- um\n城市: Torino
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan @ Juventus
+DESCRIPTION:AC Milan at Juventus (Serie A 2026-27\, Beijing time)\n\n主
+ 场: 尤文图斯\n客场: AC米兰\n场馆: Allianz Stadium\n城市: Tori
+ no
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -56,11 +55,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260914T020000
 DTEND;TZID=Asia/Shanghai:20260914T030000
-SUMMARY:AC米兰 Schedule · AC米兰 @ 拉齐奥
-DESCRIPTION:AC米兰 作客 拉齐奥（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 拉齐奥\n客场: AC米兰\n场馆: Olimpico\n城市: R
- oma
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan @ Lazio
+DESCRIPTION:AC Milan at Lazio (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 拉齐奥\n客场: AC米兰\n场馆: Olimpico\n城市: Roma
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -70,10 +68,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260921T024500
 DTEND;TZID=Asia/Shanghai:20260921T034500
-SUMMARY:AC米兰 Schedule · AC米兰 vs 莱切
-DESCRIPTION:莱切 作客 AC米兰（意甲 2026-27 赛季，北京时间
- ）\n\n主场: AC米兰\n客场: 莱切\n场馆: San Siro\n城市: Milano
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan vs Lecce
+DESCRIPTION:Lecce at AC Milan (Serie A 2026-27\, Beijing time)\n\n主场: 
+ AC米兰\n客场: 莱切\n场馆: San Siro\n城市: Milano
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -83,11 +81,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261012T020000
 DTEND;TZID=Asia/Shanghai:20261012T030000
-SUMMARY:AC米兰 Schedule · AC米兰 @ 萨索洛
-DESCRIPTION:AC米兰 作客 萨索洛（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 萨索洛\n客场: AC米兰\n场馆: Mapei Stadium\n城
- 市: Reggio Emilia
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan @ Sassuolo
+DESCRIPTION:AC Milan at Sassuolo (Serie A 2026-27\, Beijing time)\n\n主
+ 场: 萨索洛\n客场: AC米兰\n场馆: Mapei Stadium\n城市: Reggio Em
+ ilia
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -97,11 +95,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261018T020000
 DTEND;TZID=Asia/Shanghai:20261018T030000
-SUMMARY:AC米兰 Schedule · AC米兰 vs 亚特兰大
-DESCRIPTION:亚特兰大 作客 AC米兰（意甲 2026-27 赛季，北京
- 时间）\n\n主场: AC米兰\n客场: 亚特兰大\n场馆: San Siro\n城
- 市: Milano
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan vs Atalanta
+DESCRIPTION:Atalanta at AC Milan (Serie A 2026-27\, Beijing time)\n\n主
+ 场: AC米兰\n客场: 亚特兰大\n场馆: San Siro\n城市: Milano
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -111,11 +108,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261026T020000
 DTEND;TZID=Asia/Shanghai:20261026T030000
-SUMMARY:AC米兰 Schedule · AC米兰 @ 乌迪内斯
-DESCRIPTION:AC米兰 作客 乌迪内斯（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 乌迪内斯\n客场: AC米兰\n场馆: Stadio Friuli
- \n城市: Udine
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan @ Udinese
+DESCRIPTION:AC Milan at Udinese (Serie A 2026-27\, Beijing time)\n\n主场
+ : 乌迪内斯\n客场: AC米兰\n场馆: Stadio Friuli\n城市: Udine
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -125,11 +121,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261029T020000
 DTEND;TZID=Asia/Shanghai:20261029T030000
-SUMMARY:AC米兰 Schedule · AC米兰 vs 博洛尼亚
-DESCRIPTION:博洛尼亚 作客 AC米兰（意甲 2026-27 赛季，北京
- 时间）\n\n主场: AC米兰\n客场: 博洛尼亚\n场馆: San Siro\n城
- 市: Milano
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan vs Bologna
+DESCRIPTION:Bologna at AC Milan (Serie A 2026-27\, Beijing time)\n\n主场
+ : AC米兰\n客场: 博洛尼亚\n场馆: San Siro\n城市: Milano
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -139,11 +134,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261102T040000
 DTEND;TZID=Asia/Shanghai:20261102T050000
-SUMMARY:AC米兰 Schedule · AC米兰 vs 国际米兰
-DESCRIPTION:国际米兰 作客 AC米兰（意甲 2026-27 赛季，北京
- 时间）\n\n主场: AC米兰\n客场: 国际米兰\n场馆: San Siro\n城
- 市: Milano
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan vs Internazionale
+DESCRIPTION:Internazionale at AC Milan (Serie A 2026-27\, Beijing time)\n\
+ n主场: AC米兰\n客场: 国际米兰\n场馆: San Siro\n城市: Milano
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -153,11 +147,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261109T040000
 DTEND;TZID=Asia/Shanghai:20261109T050000
-SUMMARY:AC米兰 Schedule · AC米兰 @ 热那亚
-DESCRIPTION:AC米兰 作客 热那亚（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 热那亚\n客场: AC米兰\n场馆: Stadio Luigi Ferrar
- is\n城市: Genova
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan @ Genoa
+DESCRIPTION:AC Milan at Genoa (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 热那亚\n客场: AC米兰\n场馆: Stadio Luigi Ferraris\n城市: Genova
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -167,11 +160,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261123T040000
 DTEND;TZID=Asia/Shanghai:20261123T050000
-SUMMARY:AC米兰 Schedule · AC米兰 vs 弗罗西诺内
-DESCRIPTION:弗罗西诺内 作客 AC米兰（意甲 2026-27 赛季，北
- 京时间）\n\n主场: AC米兰\n客场: 弗罗西诺内\n场馆: San Sir
- o\n城市: Milano
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan vs Frosinone
+DESCRIPTION:Frosinone at AC Milan (Serie A 2026-27\, Beijing time)\n\n主
+ 场: AC米兰\n客场: 弗罗西诺内\n场馆: San Siro\n城市: Milano
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -181,11 +173,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261130T040000
 DTEND;TZID=Asia/Shanghai:20261130T050000
-SUMMARY:AC米兰 Schedule · AC米兰 @ 卡利亚里
-DESCRIPTION:AC米兰 作客 卡利亚里（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 卡利亚里\n客场: AC米兰\n场馆: Unipol Domus\
- n城市: Cagliari
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan @ Cagliari
+DESCRIPTION:AC Milan at Cagliari (Serie A 2026-27\, Beijing time)\n\n主
+ 场: 卡利亚里\n客场: AC米兰\n场馆: Unipol Domus\n城市: Cagliar
+ i
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -195,11 +187,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261207T040000
 DTEND;TZID=Asia/Shanghai:20261207T050000
-SUMMARY:AC米兰 Schedule · AC米兰 vs 帕尔马
-DESCRIPTION:帕尔马 作客 AC米兰（意甲 2026-27 赛季，北京时
- 间）\n\n主场: AC米兰\n客场: 帕尔马\n场馆: San Siro\n城市: M
- ilano
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan vs Parma
+DESCRIPTION:Parma at AC Milan (Serie A 2026-27\, Beijing time)\n\n主场: 
+ AC米兰\n客场: 帕尔马\n场馆: San Siro\n城市: Milano
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -209,11 +200,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261214T040000
 DTEND;TZID=Asia/Shanghai:20261214T050000
-SUMMARY:AC米兰 Schedule · AC米兰 @ 那不勒斯
-DESCRIPTION:AC米兰 作客 那不勒斯（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 那不勒斯\n客场: AC米兰\n场馆: Stadio Diego 
- Armando Maradona\n城市: Napoli
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan @ Napoli
+DESCRIPTION:AC Milan at Napoli (Serie A 2026-27\, Beijing time)\n\n主场:
+  那不勒斯\n客场: AC米兰\n场馆: Stadio Diego Armando Maradona\n
+ 城市: Napoli
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -223,10 +214,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261221T040000
 DTEND;TZID=Asia/Shanghai:20261221T050000
-SUMMARY:AC米兰 Schedule · AC米兰 vs 科莫
-DESCRIPTION:科莫 作客 AC米兰（意甲 2026-27 赛季，北京时间
- ）\n\n主场: AC米兰\n客场: 科莫\n场馆: San Siro\n城市: Milano
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan vs Como
+DESCRIPTION:Como at AC Milan (Serie A 2026-27\, Beijing time)\n\n主场: A
+ C米兰\n客场: 科莫\n场馆: San Siro\n城市: Milano
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -236,11 +227,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270104T040000
 DTEND;TZID=Asia/Shanghai:20270104T050000
-SUMMARY:AC米兰 Schedule · AC米兰 @ 蒙扎
-DESCRIPTION:AC米兰 作客 蒙扎（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 蒙扎\n客场: AC米兰\n场馆: U-Power Stadium\n城市: 
- Monza
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan @ Monza
+DESCRIPTION:AC Milan at Monza (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 蒙扎\n客场: AC米兰\n场馆: U-Power Stadium\n城市: Monza
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -250,11 +240,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270107T040000
 DTEND;TZID=Asia/Shanghai:20270107T050000
-SUMMARY:AC米兰 Schedule · AC米兰 vs 佛罗伦萨
-DESCRIPTION:佛罗伦萨 作客 AC米兰（意甲 2026-27 赛季，北京
- 时间）\n\n主场: AC米兰\n客场: 佛罗伦萨\n场馆: San Siro\n城
- 市: Milano
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan vs Fiorentina
+DESCRIPTION:Fiorentina at AC Milan (Serie A 2026-27\, Beijing time)\n\n主
+ 场: AC米兰\n客场: 佛罗伦萨\n场馆: San Siro\n城市: Milano
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -264,10 +253,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270111T040000
 DTEND;TZID=Asia/Shanghai:20270111T050000
-SUMMARY:AC米兰 Schedule · AC米兰 @ 罗马
-DESCRIPTION:AC米兰 作客 罗马（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 罗马\n客场: AC米兰\n场馆: Olimpico\n城市: Roma
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan @ AS Roma
+DESCRIPTION:AC Milan at AS Roma (Serie A 2026-27\, Beijing time)\n\n主场
+ : 罗马\n客场: AC米兰\n场馆: Olimpico\n城市: Roma
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -277,10 +266,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270118T040000
 DTEND;TZID=Asia/Shanghai:20270118T050000
-SUMMARY:AC米兰 Schedule · AC米兰 vs 都灵
-DESCRIPTION:都灵 作客 AC米兰（意甲 2026-27 赛季，北京时间
- ）\n\n主场: AC米兰\n客场: 都灵\n场馆: San Siro\n城市: Milano
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan vs Torino
+DESCRIPTION:Torino at AC Milan (Serie A 2026-27\, Beijing time)\n\n主场:
+  AC米兰\n客场: 都灵\n场馆: San Siro\n城市: Milano
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -290,11 +279,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270125T040000
 DTEND;TZID=Asia/Shanghai:20270125T050000
-SUMMARY:AC米兰 Schedule · AC米兰 @ 弗罗西诺内
-DESCRIPTION:AC米兰 作客 弗罗西诺内（意甲 2026-27 赛季，北
- 京时间）\n\n主场: 弗罗西诺内\n客场: AC米兰\n场馆: Stadio 
- Benito Stirpe\n城市: Frosinone
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan @ Frosinone
+DESCRIPTION:AC Milan at Frosinone (Serie A 2026-27\, Beijing time)\n\n主
+ 场: 弗罗西诺内\n客场: AC米兰\n场馆: Stadio Benito Stirpe\n城
+ 市: Frosinone
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -304,11 +293,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270201T040000
 DTEND;TZID=Asia/Shanghai:20270201T050000
-SUMMARY:AC米兰 Schedule · AC米兰 vs 尤文图斯
-DESCRIPTION:尤文图斯 作客 AC米兰（意甲 2026-27 赛季，北京
- 时间）\n\n主场: AC米兰\n客场: 尤文图斯\n场馆: San Siro\n城
- 市: Milano
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan vs Juventus
+DESCRIPTION:Juventus at AC Milan (Serie A 2026-27\, Beijing time)\n\n主
+ 场: AC米兰\n客场: 尤文图斯\n场馆: San Siro\n城市: Milano
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -318,11 +306,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270208T040000
 DTEND;TZID=Asia/Shanghai:20270208T050000
-SUMMARY:AC米兰 Schedule · AC米兰 @ 博洛尼亚
-DESCRIPTION:AC米兰 作客 博洛尼亚（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 博洛尼亚\n客场: AC米兰\n场馆: Renato Dall'A
- ra\n城市: Bologna
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan @ Bologna
+DESCRIPTION:AC Milan at Bologna (Serie A 2026-27\, Beijing time)\n\n主场
+ : 博洛尼亚\n客场: AC米兰\n场馆: Renato Dall'Ara\n城市: Bologna
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -332,11 +319,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270215T040000
 DTEND;TZID=Asia/Shanghai:20270215T050000
-SUMMARY:AC米兰 Schedule · AC米兰 @ 国际米兰
-DESCRIPTION:AC米兰 作客 国际米兰（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 国际米兰\n客场: AC米兰\n场馆: San Siro\n城
- 市: Milano
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan @ Internazionale
+DESCRIPTION:AC Milan at Internazionale (Serie A 2026-27\, Beijing time)\n\
+ n主场: 国际米兰\n客场: AC米兰\n场馆: San Siro\n城市: Milano
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -346,11 +332,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270222T040000
 DTEND;TZID=Asia/Shanghai:20270222T050000
-SUMMARY:AC米兰 Schedule · AC米兰 vs 热那亚
-DESCRIPTION:热那亚 作客 AC米兰（意甲 2026-27 赛季，北京时
- 间）\n\n主场: AC米兰\n客场: 热那亚\n场馆: San Siro\n城市: M
- ilano
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan vs Genoa
+DESCRIPTION:Genoa at AC Milan (Serie A 2026-27\, Beijing time)\n\n主场: 
+ AC米兰\n客场: 热那亚\n场馆: San Siro\n城市: Milano
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -360,11 +345,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270301T040000
 DTEND;TZID=Asia/Shanghai:20270301T050000
-SUMMARY:AC米兰 Schedule · AC米兰 @ 科莫
-DESCRIPTION:AC米兰 作客 科莫（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 科莫\n客场: AC米兰\n场馆: Giuseppe Sinigaglia\n城
- 市: Como
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan @ Como
+DESCRIPTION:AC Milan at Como (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 科莫\n客场: AC米兰\n场馆: Giuseppe Sinigaglia\n城市: Como
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -374,11 +358,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270308T040000
 DTEND;TZID=Asia/Shanghai:20270308T050000
-SUMMARY:AC米兰 Schedule · AC米兰 vs 卡利亚里
-DESCRIPTION:卡利亚里 作客 AC米兰（意甲 2026-27 赛季，北京
- 时间）\n\n主场: AC米兰\n客场: 卡利亚里\n场馆: San Siro\n城
- 市: Milano
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan vs Cagliari
+DESCRIPTION:Cagliari at AC Milan (Serie A 2026-27\, Beijing time)\n\n主
+ 场: AC米兰\n客场: 卡利亚里\n场馆: San Siro\n城市: Milano
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -388,11 +371,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270315T020000
 DTEND;TZID=Asia/Shanghai:20270315T030000
-SUMMARY:AC米兰 Schedule · AC米兰 vs 萨索洛
-DESCRIPTION:萨索洛 作客 AC米兰（意甲 2026-27 赛季，北京时
- 间）\n\n主场: AC米兰\n客场: 萨索洛\n场馆: San Siro\n城市: M
- ilano
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan vs Sassuolo
+DESCRIPTION:Sassuolo at AC Milan (Serie A 2026-27\, Beijing time)\n\n主
+ 场: AC米兰\n客场: 萨索洛\n场馆: San Siro\n城市: Milano
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -402,11 +384,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270322T020000
 DTEND;TZID=Asia/Shanghai:20270322T030000
-SUMMARY:AC米兰 Schedule · AC米兰 @ 亚特兰大
-DESCRIPTION:AC米兰 作客 亚特兰大（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 亚特兰大\n客场: AC米兰\n场馆: New Balance A
- rena\n城市: Bergamo
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan @ Atalanta
+DESCRIPTION:AC Milan at Atalanta (Serie A 2026-27\, Beijing time)\n\n主
+ 场: 亚特兰大\n客场: AC米兰\n场馆: New Balance Arena\n城市: Be
+ rgamo
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -416,10 +398,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270405T020000
 DTEND;TZID=Asia/Shanghai:20270405T030000
-SUMMARY:AC米兰 Schedule · AC米兰 vs 蒙扎
-DESCRIPTION:蒙扎 作客 AC米兰（意甲 2026-27 赛季，北京时间
- ）\n\n主场: AC米兰\n客场: 蒙扎\n场馆: San Siro\n城市: Milano
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan vs Monza
+DESCRIPTION:Monza at AC Milan (Serie A 2026-27\, Beijing time)\n\n主场: 
+ AC米兰\n客场: 蒙扎\n场馆: San Siro\n城市: Milano
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -429,11 +411,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270412T020000
 DTEND;TZID=Asia/Shanghai:20270412T030000
-SUMMARY:AC米兰 Schedule · AC米兰 @ 佛罗伦萨
-DESCRIPTION:AC米兰 作客 佛罗伦萨（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 佛罗伦萨\n客场: AC米兰\n场馆: Stadio Artemi
- o Franchi\n城市: Firenze
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan @ Fiorentina
+DESCRIPTION:AC Milan at Fiorentina (Serie A 2026-27\, Beijing time)\n\n主
+ 场: 佛罗伦萨\n客场: AC米兰\n场馆: Stadio Artemio Franchi\n城
+ 市: Firenze
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -443,11 +425,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270419T020000
 DTEND;TZID=Asia/Shanghai:20270419T030000
-SUMMARY:AC米兰 Schedule · AC米兰 vs 那不勒斯
-DESCRIPTION:那不勒斯 作客 AC米兰（意甲 2026-27 赛季，北京
- 时间）\n\n主场: AC米兰\n客场: 那不勒斯\n场馆: San Siro\n城
- 市: Milano
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan vs Napoli
+DESCRIPTION:Napoli at AC Milan (Serie A 2026-27\, Beijing time)\n\n主场:
+  AC米兰\n客场: 那不勒斯\n场馆: San Siro\n城市: Milano
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -457,11 +438,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270426T020000
 DTEND;TZID=Asia/Shanghai:20270426T030000
-SUMMARY:AC米兰 Schedule · AC米兰 @ 莱切
-DESCRIPTION:AC米兰 作客 莱切（意甲 2026-27 赛季，北京时间
- ）\n\n主场: 莱切\n客场: AC米兰\n场馆: Via Del Mare\n城市: Lec
- ce
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan @ Lecce
+DESCRIPTION:AC Milan at Lecce (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 莱切\n客场: AC米兰\n场馆: Via Del Mare\n城市: Lecce
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -471,11 +451,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270503T020000
 DTEND;TZID=Asia/Shanghai:20270503T030000
-SUMMARY:AC米兰 Schedule · AC米兰 vs 拉齐奥
-DESCRIPTION:拉齐奥 作客 AC米兰（意甲 2026-27 赛季，北京时
- 间）\n\n主场: AC米兰\n客场: 拉齐奥\n场馆: San Siro\n城市: M
- ilano
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan vs Lazio
+DESCRIPTION:Lazio at AC Milan (Serie A 2026-27\, Beijing time)\n\n主场: 
+ AC米兰\n客场: 拉齐奥\n场馆: San Siro\n城市: Milano
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -485,11 +464,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270510T020000
 DTEND;TZID=Asia/Shanghai:20270510T030000
-SUMMARY:AC米兰 Schedule · AC米兰 @ 帕尔马
-DESCRIPTION:AC米兰 作客 帕尔马（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 帕尔马\n客场: AC米兰\n场馆: Ennio Tardini\n城
- 市: Parma
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan @ Parma
+DESCRIPTION:AC Milan at Parma (Serie A 2026-27\, Beijing time)\n\n主场: 
+ 帕尔马\n客场: AC米兰\n场馆: Ennio Tardini\n城市: Parma
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -499,10 +477,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270517T020000
 DTEND;TZID=Asia/Shanghai:20270517T030000
-SUMMARY:AC米兰 Schedule · AC米兰 vs 罗马
-DESCRIPTION:罗马 作客 AC米兰（意甲 2026-27 赛季，北京时间
- ）\n\n主场: AC米兰\n客场: 罗马\n场馆: San Siro\n城市: Milano
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan vs AS Roma
+DESCRIPTION:AS Roma at AC Milan (Serie A 2026-27\, Beijing time)\n\n主场
+ : AC米兰\n客场: 罗马\n场馆: San Siro\n城市: Milano
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -512,11 +490,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270524T020000
 DTEND;TZID=Asia/Shanghai:20270524T030000
-SUMMARY:AC米兰 Schedule · AC米兰 @ 威尼斯
-DESCRIPTION:AC米兰 作客 威尼斯（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 威尼斯\n客场: AC米兰\n场馆: Stadio Pier Luigi P
- enzo\n城市: Venezia
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan @ Venezia
+DESCRIPTION:AC Milan at Venezia (Serie A 2026-27\, Beijing time)\n\n主场
+ : 威尼斯\n客场: AC米兰\n场馆: Stadio Pier Luigi Penzo\n城市: Ve
+ nezia
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -526,11 +504,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270531T020000
 DTEND;TZID=Asia/Shanghai:20270531T030000
-SUMMARY:AC米兰 Schedule · AC米兰 vs 乌迪内斯
-DESCRIPTION:乌迪内斯 作客 AC米兰（意甲 2026-27 赛季，北京
- 时间）\n\n主场: AC米兰\n客场: 乌迪内斯\n场馆: San Siro\n城
- 市: Milano
-CATEGORIES:AC米兰 Schedule
+SUMMARY:AC Milan Schedule · AC Milan vs Udinese
+DESCRIPTION:Udinese at AC Milan (Serie A 2026-27\, Beijing time)\n\n主场
+ : AC米兰\n客场: 乌迪内斯\n场馆: San Siro\n城市: Milano
+CATEGORIES:AC Milan Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT

@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Koyomi Cast//seriea-int//EN
 URL:https://koyomi.cast/sources/seriea
-NAME:国际米兰 Schedule
-X-WR-CALNAME:国际米兰 Schedule
-X-WR-CALDESC:国际米兰 schedule in Serie A Schedule, auto-synced.
+NAME:Internazionale Schedule
+X-WR-CALNAME:Internazionale Schedule
+X-WR-CALDESC:Internazionale schedule in Serie A Schedule, auto-synced.
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
@@ -13,12 +13,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260823T003000
 DTEND;TZID=Asia/Shanghai:20260823T013000
-SUMMARY:国际米兰 Schedule · 国际米兰 vs 蒙扎
-DESCRIPTION:蒙扎 作客 国际米兰（意甲 2026-27 赛季，北京时
- 间）\n\nScore: 国际米兰 4 - 1 蒙扎\n\n主场: 国际米兰\n客场
- : 蒙扎\n比分: 国际米兰 4 - 1 蒙扎\n场馆: San Siro\n城市: Mil
- ano
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale vs Monza
+DESCRIPTION:Monza at Internazionale (Serie A 2026-27\, Beijing time)\n\nSc
+ ore: 国际米兰 4 - 1 蒙扎\n\n主场: 国际米兰\n客场: 蒙扎\n
+ 比分: 国际米兰 4 - 1 蒙扎\n场馆: San Siro\n城市: Milano
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -28,11 +27,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260831T024500
 DTEND;TZID=Asia/Shanghai:20260831T034500
-SUMMARY:国际米兰 Schedule · 国际米兰 @ 卡利亚里
-DESCRIPTION:国际米兰 作客 卡利亚里（意甲 2026-27 赛季，北
- 京时间）\n\n主场: 卡利亚里\n客场: 国际米兰\n场馆: Unipol
-  Domus\n城市: Cagliari
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale @ Cagliari
+DESCRIPTION:Internazionale at Cagliari (Serie A 2026-27\, Beijing time)\n\
+ n主场: 卡利亚里\n客场: 国际米兰\n场馆: Unipol Domus\n城市:
+  Cagliari
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -42,11 +41,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260906T000000
 DTEND;TZID=Asia/Shanghai:20260906T010000
-SUMMARY:国际米兰 Schedule · 国际米兰 vs 那不勒斯
-DESCRIPTION:那不勒斯 作客 国际米兰（意甲 2026-27 赛季，北
- 京时间）\n\n主场: 国际米兰\n客场: 那不勒斯\n场馆: San Si
- ro\n城市: Milano
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale vs Napoli
+DESCRIPTION:Napoli at Internazionale (Serie A 2026-27\, Beijing time)\n\n
+ 主场: 国际米兰\n客场: 那不勒斯\n场馆: San Siro\n城市: Mila
+ no
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -56,11 +55,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260915T024500
 DTEND;TZID=Asia/Shanghai:20260915T034500
-SUMMARY:国际米兰 Schedule · 国际米兰 vs 乌迪内斯
-DESCRIPTION:乌迪内斯 作客 国际米兰（意甲 2026-27 赛季，北
- 京时间）\n\n主场: 国际米兰\n客场: 乌迪内斯\n场馆: San Si
- ro\n城市: Milano
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale vs Udinese
+DESCRIPTION:Udinese at Internazionale (Serie A 2026-27\, Beijing time)\n\n
+ 主场: 国际米兰\n客场: 乌迪内斯\n场馆: San Siro\n城市: Mila
+ no
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -70,11 +69,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20260920T000000
 DTEND;TZID=Asia/Shanghai:20260920T010000
-SUMMARY:国际米兰 Schedule · 国际米兰 @ 罗马
-DESCRIPTION:国际米兰 作客 罗马（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 罗马\n客场: 国际米兰\n场馆: Olimpico\n城市: 
- Roma
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale @ AS Roma
+DESCRIPTION:Internazionale at AS Roma (Serie A 2026-27\, Beijing time)\n\n
+ 主场: 罗马\n客场: 国际米兰\n场馆: Olimpico\n城市: Roma
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -84,11 +82,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261012T020000
 DTEND;TZID=Asia/Shanghai:20261012T030000
-SUMMARY:国际米兰 Schedule · 国际米兰 vs 帕尔马
-DESCRIPTION:帕尔马 作客 国际米兰（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 国际米兰\n客场: 帕尔马\n场馆: San Siro\n
- 城市: Milano
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale vs Parma
+DESCRIPTION:Parma at Internazionale (Serie A 2026-27\, Beijing time)\n\n
+ 主场: 国际米兰\n客场: 帕尔马\n场馆: San Siro\n城市: Milano
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -98,11 +95,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261018T020000
 DTEND;TZID=Asia/Shanghai:20261018T030000
-SUMMARY:国际米兰 Schedule · 国际米兰 @ 博洛尼亚
-DESCRIPTION:国际米兰 作客 博洛尼亚（意甲 2026-27 赛季，北
- 京时间）\n\n主场: 博洛尼亚\n客场: 国际米兰\n场馆: Renato
-  Dall'Ara\n城市: Bologna
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale @ Bologna
+DESCRIPTION:Internazionale at Bologna (Serie A 2026-27\, Beijing time)\n\n
+ 主场: 博洛尼亚\n客场: 国际米兰\n场馆: Renato Dall'Ara\n城
+ 市: Bologna
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -112,11 +109,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261026T020000
 DTEND;TZID=Asia/Shanghai:20261026T030000
-SUMMARY:国际米兰 Schedule · 国际米兰 vs 佛罗伦萨
-DESCRIPTION:佛罗伦萨 作客 国际米兰（意甲 2026-27 赛季，北
- 京时间）\n\n主场: 国际米兰\n客场: 佛罗伦萨\n场馆: San Si
- ro\n城市: Milano
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale vs Fiorentina
+DESCRIPTION:Fiorentina at Internazionale (Serie A 2026-27\, Beijing time)\
+ n\n主场: 国际米兰\n客场: 佛罗伦萨\n场馆: San Siro\n城市: M
+ ilano
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -126,11 +123,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261029T020000
 DTEND;TZID=Asia/Shanghai:20261029T030000
-SUMMARY:国际米兰 Schedule · 国际米兰 @ 威尼斯
-DESCRIPTION:国际米兰 作客 威尼斯（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 威尼斯\n客场: 国际米兰\n场馆: Stadio Pier 
- Luigi Penzo\n城市: Venezia
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale @ Venezia
+DESCRIPTION:Internazionale at Venezia (Serie A 2026-27\, Beijing time)\n\n
+ 主场: 威尼斯\n客场: 国际米兰\n场馆: Stadio Pier Luigi Penzo\n
+ 城市: Venezia
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -140,11 +137,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261102T040000
 DTEND;TZID=Asia/Shanghai:20261102T050000
-SUMMARY:国际米兰 Schedule · 国际米兰 @ AC米兰
-DESCRIPTION:国际米兰 作客 AC米兰（意甲 2026-27 赛季，北京
- 时间）\n\n主场: AC米兰\n客场: 国际米兰\n场馆: San Siro\n城
- 市: Milano
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale @ AC Milan
+DESCRIPTION:Internazionale at AC Milan (Serie A 2026-27\, Beijing time)\n\
+ n主场: AC米兰\n客场: 国际米兰\n场馆: San Siro\n城市: Milano
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -154,11 +150,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261109T040000
 DTEND;TZID=Asia/Shanghai:20261109T050000
-SUMMARY:国际米兰 Schedule · 国际米兰 vs 科莫
-DESCRIPTION:科莫 作客 国际米兰（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 国际米兰\n客场: 科莫\n场馆: San Siro\n城市: 
- Milano
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale vs Como
+DESCRIPTION:Como at Internazionale (Serie A 2026-27\, Beijing time)\n\n主
+ 场: 国际米兰\n客场: 科莫\n场馆: San Siro\n城市: Milano
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -168,11 +163,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261123T040000
 DTEND;TZID=Asia/Shanghai:20261123T050000
-SUMMARY:国际米兰 Schedule · 国际米兰 @ 亚特兰大
-DESCRIPTION:国际米兰 作客 亚特兰大（意甲 2026-27 赛季，北
- 京时间）\n\n主场: 亚特兰大\n客场: 国际米兰\n场馆: New Ba
- lance Arena\n城市: Bergamo
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale @ Atalanta
+DESCRIPTION:Internazionale at Atalanta (Serie A 2026-27\, Beijing time)\n\
+ n主场: 亚特兰大\n客场: 国际米兰\n场馆: New Balance Arena\n
+ 城市: Bergamo
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -182,11 +177,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261130T040000
 DTEND;TZID=Asia/Shanghai:20261130T050000
-SUMMARY:国际米兰 Schedule · 国际米兰 vs 热那亚
-DESCRIPTION:热那亚 作客 国际米兰（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 国际米兰\n客场: 热那亚\n场馆: San Siro\n
- 城市: Milano
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale vs Genoa
+DESCRIPTION:Genoa at Internazionale (Serie A 2026-27\, Beijing time)\n\n
+ 主场: 国际米兰\n客场: 热那亚\n场馆: San Siro\n城市: Milano
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -196,11 +190,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261207T040000
 DTEND;TZID=Asia/Shanghai:20261207T050000
-SUMMARY:国际米兰 Schedule · 国际米兰 @ 弗罗西诺内
-DESCRIPTION:国际米兰 作客 弗罗西诺内（意甲 2026-27 赛季，
- 北京时间）\n\n主场: 弗罗西诺内\n客场: 国际米兰\n场馆: 
- Stadio Benito Stirpe\n城市: Frosinone
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale @ Frosinone
+DESCRIPTION:Internazionale at Frosinone (Serie A 2026-27\, Beijing time)\n
+ \n主场: 弗罗西诺内\n客场: 国际米兰\n场馆: Stadio Benito Sti
+ rpe\n城市: Frosinone
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -210,11 +204,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261214T040000
 DTEND;TZID=Asia/Shanghai:20261214T050000
-SUMMARY:国际米兰 Schedule · 国际米兰 vs 都灵
-DESCRIPTION:都灵 作客 国际米兰（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 国际米兰\n客场: 都灵\n场馆: San Siro\n城市: 
- Milano
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale vs Torino
+DESCRIPTION:Torino at Internazionale (Serie A 2026-27\, Beijing time)\n\n
+ 主场: 国际米兰\n客场: 都灵\n场馆: San Siro\n城市: Milano
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -224,11 +217,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20261221T040000
 DTEND;TZID=Asia/Shanghai:20261221T050000
-SUMMARY:国际米兰 Schedule · 国际米兰 @ 莱切
-DESCRIPTION:国际米兰 作客 莱切（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 莱切\n客场: 国际米兰\n场馆: Via Del Mare\n城
- 市: Lecce
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale @ Lecce
+DESCRIPTION:Internazionale at Lecce (Serie A 2026-27\, Beijing time)\n\n
+ 主场: 莱切\n客场: 国际米兰\n场馆: Via Del Mare\n城市: Lecce
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -238,11 +230,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270104T040000
 DTEND;TZID=Asia/Shanghai:20270104T050000
-SUMMARY:国际米兰 Schedule · 国际米兰 vs 萨索洛
-DESCRIPTION:萨索洛 作客 国际米兰（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 国际米兰\n客场: 萨索洛\n场馆: San Siro\n
- 城市: Milano
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale vs Sassuolo
+DESCRIPTION:Sassuolo at Internazionale (Serie A 2026-27\, Beijing time)\n\
+ n主场: 国际米兰\n客场: 萨索洛\n场馆: San Siro\n城市: Milano
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -252,11 +243,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270107T040000
 DTEND;TZID=Asia/Shanghai:20270107T050000
-SUMMARY:国际米兰 Schedule · 国际米兰 @ 拉齐奥
-DESCRIPTION:国际米兰 作客 拉齐奥（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 拉齐奥\n客场: 国际米兰\n场馆: Olimpico\n
- 城市: Roma
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale @ Lazio
+DESCRIPTION:Internazionale at Lazio (Serie A 2026-27\, Beijing time)\n\n
+ 主场: 拉齐奥\n客场: 国际米兰\n场馆: Olimpico\n城市: Roma
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -266,11 +256,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270111T040000
 DTEND;TZID=Asia/Shanghai:20270111T050000
-SUMMARY:国际米兰 Schedule · 国际米兰 vs 尤文图斯
-DESCRIPTION:尤文图斯 作客 国际米兰（意甲 2026-27 赛季，北
- 京时间）\n\n主场: 国际米兰\n客场: 尤文图斯\n场馆: San Si
- ro\n城市: Milano
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale vs Juventus
+DESCRIPTION:Juventus at Internazionale (Serie A 2026-27\, Beijing time)\n\
+ n主场: 国际米兰\n客场: 尤文图斯\n场馆: San Siro\n城市: Mil
+ ano
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -280,11 +270,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270118T040000
 DTEND;TZID=Asia/Shanghai:20270118T050000
-SUMMARY:国际米兰 Schedule · 国际米兰 @ 帕尔马
-DESCRIPTION:国际米兰 作客 帕尔马（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 帕尔马\n客场: 国际米兰\n场馆: Ennio Tardin
- i\n城市: Parma
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale @ Parma
+DESCRIPTION:Internazionale at Parma (Serie A 2026-27\, Beijing time)\n\n
+ 主场: 帕尔马\n客场: 国际米兰\n场馆: Ennio Tardini\n城市: Pa
+ rma
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -294,11 +284,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270125T040000
 DTEND;TZID=Asia/Shanghai:20270125T050000
-SUMMARY:国际米兰 Schedule · 国际米兰 vs 威尼斯
-DESCRIPTION:威尼斯 作客 国际米兰（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 国际米兰\n客场: 威尼斯\n场馆: San Siro\n
- 城市: Milano
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale vs Venezia
+DESCRIPTION:Venezia at Internazionale (Serie A 2026-27\, Beijing time)\n\n
+ 主场: 国际米兰\n客场: 威尼斯\n场馆: San Siro\n城市: Milano
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -308,11 +297,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270201T040000
 DTEND;TZID=Asia/Shanghai:20270201T050000
-SUMMARY:国际米兰 Schedule · 国际米兰 @ 那不勒斯
-DESCRIPTION:国际米兰 作客 那不勒斯（意甲 2026-27 赛季，北
- 京时间）\n\n主场: 那不勒斯\n客场: 国际米兰\n场馆: Stadio
-  Diego Armando Maradona\n城市: Napoli
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale @ Napoli
+DESCRIPTION:Internazionale at Napoli (Serie A 2026-27\, Beijing time)\n\n
+ 主场: 那不勒斯\n客场: 国际米兰\n场馆: Stadio Diego Armando M
+ aradona\n城市: Napoli
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -322,11 +311,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270208T040000
 DTEND;TZID=Asia/Shanghai:20270208T050000
-SUMMARY:国际米兰 Schedule · 国际米兰 vs 卡利亚里
-DESCRIPTION:卡利亚里 作客 国际米兰（意甲 2026-27 赛季，北
- 京时间）\n\n主场: 国际米兰\n客场: 卡利亚里\n场馆: San Si
- ro\n城市: Milano
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale vs Cagliari
+DESCRIPTION:Cagliari at Internazionale (Serie A 2026-27\, Beijing time)\n\
+ n主场: 国际米兰\n客场: 卡利亚里\n场馆: San Siro\n城市: Mil
+ ano
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -336,11 +325,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270215T040000
 DTEND;TZID=Asia/Shanghai:20270215T050000
-SUMMARY:国际米兰 Schedule · 国际米兰 vs AC米兰
-DESCRIPTION:AC米兰 作客 国际米兰（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 国际米兰\n客场: AC米兰\n场馆: San Siro\n城
- 市: Milano
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale vs AC Milan
+DESCRIPTION:AC Milan at Internazionale (Serie A 2026-27\, Beijing time)\n\
+ n主场: 国际米兰\n客场: AC米兰\n场馆: San Siro\n城市: Milano
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -350,11 +338,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270222T040000
 DTEND;TZID=Asia/Shanghai:20270222T050000
-SUMMARY:国际米兰 Schedule · 国际米兰 @ 佛罗伦萨
-DESCRIPTION:国际米兰 作客 佛罗伦萨（意甲 2026-27 赛季，北
- 京时间）\n\n主场: 佛罗伦萨\n客场: 国际米兰\n场馆: Stadio
-  Artemio Franchi\n城市: Firenze
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale @ Fiorentina
+DESCRIPTION:Internazionale at Fiorentina (Serie A 2026-27\, Beijing time)\
+ n\n主场: 佛罗伦萨\n客场: 国际米兰\n场馆: Stadio Artemio Fran
+ chi\n城市: Firenze
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -364,11 +352,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270301T040000
 DTEND;TZID=Asia/Shanghai:20270301T050000
-SUMMARY:国际米兰 Schedule · 国际米兰 vs 亚特兰大
-DESCRIPTION:亚特兰大 作客 国际米兰（意甲 2026-27 赛季，北
- 京时间）\n\n主场: 国际米兰\n客场: 亚特兰大\n场馆: San Si
- ro\n城市: Milano
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale vs Atalanta
+DESCRIPTION:Atalanta at Internazionale (Serie A 2026-27\, Beijing time)\n\
+ n主场: 国际米兰\n客场: 亚特兰大\n场馆: San Siro\n城市: Mil
+ ano
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -378,11 +366,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270308T040000
 DTEND;TZID=Asia/Shanghai:20270308T050000
-SUMMARY:国际米兰 Schedule · 国际米兰 @ 乌迪内斯
-DESCRIPTION:国际米兰 作客 乌迪内斯（意甲 2026-27 赛季，北
- 京时间）\n\n主场: 乌迪内斯\n客场: 国际米兰\n场馆: Stadio
-  Friuli\n城市: Udine
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale @ Udinese
+DESCRIPTION:Internazionale at Udinese (Serie A 2026-27\, Beijing time)\n\n
+ 主场: 乌迪内斯\n客场: 国际米兰\n场馆: Stadio Friuli\n城市:
+  Udine
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -392,11 +380,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270315T020000
 DTEND;TZID=Asia/Shanghai:20270315T030000
-SUMMARY:国际米兰 Schedule · 国际米兰 @ 都灵
-DESCRIPTION:国际米兰 作客 都灵（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 都灵\n客场: 国际米兰\n场馆: Stadio Olimpico Gr
- ande Torino\n城市: Torino
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale @ Torino
+DESCRIPTION:Internazionale at Torino (Serie A 2026-27\, Beijing time)\n\n
+ 主场: 都灵\n客场: 国际米兰\n场馆: Stadio Olimpico Grande Torin
+ o\n城市: Torino
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -406,11 +394,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270322T020000
 DTEND;TZID=Asia/Shanghai:20270322T030000
-SUMMARY:国际米兰 Schedule · 国际米兰 vs 弗罗西诺内
-DESCRIPTION:弗罗西诺内 作客 国际米兰（意甲 2026-27 赛季，
- 北京时间）\n\n主场: 国际米兰\n客场: 弗罗西诺内\n场馆: 
- San Siro\n城市: Milano
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale vs Frosinone
+DESCRIPTION:Frosinone at Internazionale (Serie A 2026-27\, Beijing time)\n
+ \n主场: 国际米兰\n客场: 弗罗西诺内\n场馆: San Siro\n城市:
+  Milano
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -420,11 +408,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270405T020000
 DTEND;TZID=Asia/Shanghai:20270405T030000
-SUMMARY:国际米兰 Schedule · 国际米兰 @ 热那亚
-DESCRIPTION:国际米兰 作客 热那亚（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 热那亚\n客场: 国际米兰\n场馆: Stadio Luigi
-  Ferraris\n城市: Genova
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale @ Genoa
+DESCRIPTION:Internazionale at Genoa (Serie A 2026-27\, Beijing time)\n\n
+ 主场: 热那亚\n客场: 国际米兰\n场馆: Stadio Luigi Ferraris\n
+ 城市: Genova
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -434,11 +422,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270412T020000
 DTEND;TZID=Asia/Shanghai:20270412T030000
-SUMMARY:国际米兰 Schedule · 国际米兰 vs 罗马
-DESCRIPTION:罗马 作客 国际米兰（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 国际米兰\n客场: 罗马\n场馆: San Siro\n城市: 
- Milano
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale vs AS Roma
+DESCRIPTION:AS Roma at Internazionale (Serie A 2026-27\, Beijing time)\n\n
+ 主场: 国际米兰\n客场: 罗马\n场馆: San Siro\n城市: Milano
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -448,11 +435,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270419T020000
 DTEND;TZID=Asia/Shanghai:20270419T030000
-SUMMARY:国际米兰 Schedule · 国际米兰 @ 蒙扎
-DESCRIPTION:国际米兰 作客 蒙扎（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 蒙扎\n客场: 国际米兰\n场馆: U-Power Stadium\n
- 城市: Monza
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale @ Monza
+DESCRIPTION:Internazionale at Monza (Serie A 2026-27\, Beijing time)\n\n
+ 主场: 蒙扎\n客场: 国际米兰\n场馆: U-Power Stadium\n城市: Mon
+ za
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -462,11 +449,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270426T020000
 DTEND;TZID=Asia/Shanghai:20270426T030000
-SUMMARY:国际米兰 Schedule · 国际米兰 vs 博洛尼亚
-DESCRIPTION:博洛尼亚 作客 国际米兰（意甲 2026-27 赛季，北
- 京时间）\n\n主场: 国际米兰\n客场: 博洛尼亚\n场馆: San Si
- ro\n城市: Milano
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale vs Bologna
+DESCRIPTION:Bologna at Internazionale (Serie A 2026-27\, Beijing time)\n\n
+ 主场: 国际米兰\n客场: 博洛尼亚\n场馆: San Siro\n城市: Mila
+ no
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -476,11 +463,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270503T020000
 DTEND;TZID=Asia/Shanghai:20270503T030000
-SUMMARY:国际米兰 Schedule · 国际米兰 @ 科莫
-DESCRIPTION:国际米兰 作客 科莫（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 科莫\n客场: 国际米兰\n场馆: Giuseppe Sinigagli
- a\n城市: Como
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale @ Como
+DESCRIPTION:Internazionale at Como (Serie A 2026-27\, Beijing time)\n\n主
+ 场: 科莫\n客场: 国际米兰\n场馆: Giuseppe Sinigaglia\n城市: Co
+ mo
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -490,11 +477,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270510T020000
 DTEND;TZID=Asia/Shanghai:20270510T030000
-SUMMARY:国际米兰 Schedule · 国际米兰 vs 莱切
-DESCRIPTION:莱切 作客 国际米兰（意甲 2026-27 赛季，北京时
- 间）\n\n主场: 国际米兰\n客场: 莱切\n场馆: San Siro\n城市: 
- Milano
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale vs Lecce
+DESCRIPTION:Lecce at Internazionale (Serie A 2026-27\, Beijing time)\n\n
+ 主场: 国际米兰\n客场: 莱切\n场馆: San Siro\n城市: Milano
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -504,11 +490,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270517T020000
 DTEND;TZID=Asia/Shanghai:20270517T030000
-SUMMARY:国际米兰 Schedule · 国际米兰 @ 尤文图斯
-DESCRIPTION:国际米兰 作客 尤文图斯（意甲 2026-27 赛季，北
- 京时间）\n\n主场: 尤文图斯\n客场: 国际米兰\n场馆: Allian
- z Stadium\n城市: Torino
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale @ Juventus
+DESCRIPTION:Internazionale at Juventus (Serie A 2026-27\, Beijing time)\n\
+ n主场: 尤文图斯\n客场: 国际米兰\n场馆: Allianz Stadium\n城
+ 市: Torino
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -518,11 +504,10 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270524T020000
 DTEND;TZID=Asia/Shanghai:20270524T030000
-SUMMARY:国际米兰 Schedule · 国际米兰 vs 拉齐奥
-DESCRIPTION:拉齐奥 作客 国际米兰（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 国际米兰\n客场: 拉齐奥\n场馆: San Siro\n
- 城市: Milano
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale vs Lazio
+DESCRIPTION:Lazio at Internazionale (Serie A 2026-27\, Beijing time)\n\n
+ 主场: 国际米兰\n客场: 拉齐奥\n场馆: San Siro\n城市: Milano
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
@@ -532,11 +517,11 @@ SEQUENCE:0
 DTSTAMP:20260829T000000
 DTSTART;TZID=Asia/Shanghai:20270531T020000
 DTEND;TZID=Asia/Shanghai:20270531T030000
-SUMMARY:国际米兰 Schedule · 国际米兰 @ 萨索洛
-DESCRIPTION:国际米兰 作客 萨索洛（意甲 2026-27 赛季，北京
- 时间）\n\n主场: 萨索洛\n客场: 国际米兰\n场馆: Mapei Stadiu
- m\n城市: Reggio Emilia
-CATEGORIES:国际米兰 Schedule
+SUMMARY:Internazionale Schedule · Internazionale @ Sassuolo
+DESCRIPTION:Internazionale at Sassuolo (Serie A 2026-27\, Beijing time)\n\
+ n主场: 萨索洛\n客场: 国际米兰\n场馆: Mapei Stadium\n城市: R
+ eggio Emilia
+CATEGORIES:Internazionale Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
 END:VEVENT
