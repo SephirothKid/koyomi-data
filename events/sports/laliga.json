@@ -17451,7 +17451,7 @@
       "description": "马拉加 作客 皇家马德里（西甲 2026-27 赛季，北京时间）",
       "description_en": "Málaga at Real Madrid (La Liga 2026-27, Beijing time)",
       "url": "https://www.laliga.com/laliga-ea-sports",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-30",
       "verified_by": "auto",
       "teams": {
@@ -17471,8 +17471,15 @@
       "details": {
         "主场": "皇家马德里",
         "客场": "马拉加",
+        "比分": "皇家马德里 4 - 0 马拉加",
         "场馆": "Santiago Bernabéu",
         "城市": "Madrid"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
