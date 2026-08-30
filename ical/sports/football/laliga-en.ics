@@ -403,9 +403,10 @@ DTSTAMP:20260830T000000
 DTSTART;TZID=Asia/Shanghai:20260831T013000
 DTEND;TZID=Asia/Shanghai:20260831T023000
 SUMMARY:LaLiga Schedule · La Liga · Valencia @ Deportivo
-DESCRIPTION:Valencia at Deportivo (La Liga 2026-27\, Beijing time)\n\n主
- 场: 拉科鲁尼亚\n客场: 瓦伦西亚\n场馆: Riazor\n城市: La Cor
- uña
+DESCRIPTION:Valencia at Deportivo (La Liga 2026-27\, Beijing time)\n\nScor
+ e: 拉科鲁尼亚 3 - 1 瓦伦西亚\n\n主场: 拉科鲁尼亚\n客场: 
+ 瓦伦西亚\n比分: 拉科鲁尼亚 3 - 1 瓦伦西亚\n场馆: Riazor\n
+ 城市: La Coruña
 CATEGORIES:LaLiga Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -418,8 +419,9 @@ DTSTART;TZID=Asia/Shanghai:20260831T033000
 DTEND;TZID=Asia/Shanghai:20260831T043000
 SUMMARY:LaLiga Schedule · La Liga · Athletic Club @ Celta Vigo
 DESCRIPTION:Athletic Club at Celta Vigo (La Liga 2026-27\, Beijing time)\n
- \n主场: 塞尔塔\n客场: 毕尔巴鄂竞技\n场馆: Balaidos\n城市:
-  Vigo
+ \nScore: 塞尔塔 0 - 2 毕尔巴鄂竞技\n\n主场: 塞尔塔\n客场: 
+ 毕尔巴鄂竞技\n比分: 塞尔塔 0 - 2 毕尔巴鄂竞技\n场馆: Ba
+ laidos\n城市: Vigo
 CATEGORIES:LaLiga Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -605,121 +607,11 @@ URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-laliga-2026-401882886@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260914T020000
-DTEND;TZID=Asia/Shanghai:20260914T030000
-SUMMARY:LaLiga Schedule · La Liga · Elche @ Athletic Club
-DESCRIPTION:Elche at Athletic Club (La Liga 2026-27\, Beijing time)\n\n主
- 场: 毕尔巴鄂竞技\n客场: 埃尔切\n场馆: San Mamés\n城市: Bi
- lbao
-CATEGORIES:LaLiga Schedule
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882885@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260914T020000
-DTEND;TZID=Asia/Shanghai:20260914T030000
-SUMMARY:LaLiga Schedule · La Liga · Málaga @ Celta Vigo
-DESCRIPTION:Málaga at Celta Vigo (La Liga 2026-27\, Beijing time)\n\n主
- 场: 塞尔塔\n客场: 马拉加\n场馆: Balaidos\n城市: Vigo
-CATEGORIES:LaLiga Schedule
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882884@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260914T020000
-DTEND;TZID=Asia/Shanghai:20260914T030000
-SUMMARY:LaLiga Schedule · La Liga · Deportivo @ Getafe
-DESCRIPTION:Deportivo at Getafe (La Liga 2026-27\, Beijing time)\n\n主场
- : 赫塔费\n客场: 拉科鲁尼亚\n场馆: Estadio Coliseum\n城市: Ge
- tafe
-CATEGORIES:LaLiga Schedule
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882883@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260914T020000
-DTEND;TZID=Asia/Shanghai:20260914T030000
-SUMMARY:LaLiga Schedule · La Liga · Barcelona @ Levante
-DESCRIPTION:Barcelona at Levante (La Liga 2026-27\, Beijing time)\n\n主
- 场: 莱万特\n客场: 巴塞罗那\n场馆: Estadi Ciutat de València\n
- 城市: Manises
-CATEGORIES:LaLiga Schedule
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882882@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260914T020000
-DTEND;TZID=Asia/Shanghai:20260914T030000
-SUMMARY:LaLiga Schedule · La Liga · Espanyol @ Osasuna
-DESCRIPTION:Espanyol at Osasuna (La Liga 2026-27\, Beijing time)\n\n主场
- : 奥萨苏纳\n客场: 西班牙人\n场馆: El Sadar\n城市: Pamplona
-CATEGORIES:LaLiga Schedule
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882881@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260914T020000
-DTEND;TZID=Asia/Shanghai:20260914T030000
-SUMMARY:LaLiga Schedule · La Liga · Alavés @ Racing Santander
-DESCRIPTION:Alavés at Racing Santander (La Liga 2026-27\, Beijing time)\n
- \n主场: 桑坦德竞技\n客场: 阿拉维斯\n场馆: El Sardineros\n
- 城市: Santander
-CATEGORIES:LaLiga Schedule
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882880@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260914T020000
-DTEND;TZID=Asia/Shanghai:20260914T030000
-SUMMARY:LaLiga Schedule · La Liga · Rayo Vallecano @ Real Madrid
-DESCRIPTION:Rayo Vallecano at Real Madrid (La Liga 2026-27\, Beijing time)
- \n\n主场: 皇家马德里\n客场: 瓦列卡诺\n场馆: Santiago Bernab
- éu\n城市: Madrid
-CATEGORIES:LaLiga Schedule
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882879@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260914T020000
-DTEND;TZID=Asia/Shanghai:20260914T030000
-SUMMARY:LaLiga Schedule · La Liga · Atlético Madrid @ Real Sociedad
-DESCRIPTION:Atlético Madrid at Real Sociedad (La Liga 2026-27\, Beijing t
- ime)\n\n主场: 皇家社会\n客场: 马竞\n场馆: Reale Arena\n城市:
-  San Sebastian
-CATEGORIES:LaLiga Schedule
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:laliga-laliga-2026-401882878@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260914T020000
-DTEND;TZID=Asia/Shanghai:20260914T030000
+DTSTART;TZID=Asia/Shanghai:20260912T030000
+DTEND;TZID=Asia/Shanghai:20260912T040000
 SUMMARY:LaLiga Schedule · La Liga · Valencia @ Sevilla
 DESCRIPTION:Valencia at Sevilla (La Liga 2026-27\, Beijing time)\n\n主场
  : 塞维利亚\n客场: 瓦伦西亚\n场馆: Ramón Sánchez Pizjuán Sta
@@ -729,11 +621,121 @@ URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:laliga-laliga-2026-401882881@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260912T200000
+DTEND;TZID=Asia/Shanghai:20260912T210000
+SUMMARY:LaLiga Schedule · La Liga · Alavés @ Racing Santander
+DESCRIPTION:Alavés at Racing Santander (La Liga 2026-27\, Beijing time)\n
+ \n主场: 桑坦德竞技\n客场: 阿拉维斯\n场馆: El Sardineros\n
+ 城市: Santander
+CATEGORIES:LaLiga Schedule
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882882@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260912T221500
+DTEND;TZID=Asia/Shanghai:20260912T231500
+SUMMARY:LaLiga Schedule · La Liga · Espanyol @ Osasuna
+DESCRIPTION:Espanyol at Osasuna (La Liga 2026-27\, Beijing time)\n\n主场
+ : 奥萨苏纳\n客场: 西班牙人\n场馆: El Sadar\n城市: Pamplona
+CATEGORIES:LaLiga Schedule
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882886@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260913T003000
+DTEND;TZID=Asia/Shanghai:20260913T013000
+SUMMARY:LaLiga Schedule · La Liga · Elche @ Athletic Club
+DESCRIPTION:Elche at Athletic Club (La Liga 2026-27\, Beijing time)\n\n主
+ 场: 毕尔巴鄂竞技\n客场: 埃尔切\n场馆: San Mamés\n城市: Bi
+ lbao
+CATEGORIES:LaLiga Schedule
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882880@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260913T030000
+DTEND;TZID=Asia/Shanghai:20260913T040000
+SUMMARY:LaLiga Schedule · La Liga · Rayo Vallecano @ Real Madrid
+DESCRIPTION:Rayo Vallecano at Real Madrid (La Liga 2026-27\, Beijing time)
+ \n\n主场: 皇家马德里\n客场: 瓦列卡诺\n场馆: Santiago Bernab
+ éu\n城市: Madrid
+CATEGORIES:LaLiga Schedule
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882885@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260913T200000
+DTEND;TZID=Asia/Shanghai:20260913T210000
+SUMMARY:LaLiga Schedule · La Liga · Málaga @ Celta Vigo
+DESCRIPTION:Málaga at Celta Vigo (La Liga 2026-27\, Beijing time)\n\n主
+ 场: 塞尔塔\n客场: 马拉加\n场馆: Balaidos\n城市: Vigo
+CATEGORIES:LaLiga Schedule
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882883@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260913T221500
+DTEND;TZID=Asia/Shanghai:20260913T231500
+SUMMARY:LaLiga Schedule · La Liga · Barcelona @ Levante
+DESCRIPTION:Barcelona at Levante (La Liga 2026-27\, Beijing time)\n\n主
+ 场: 莱万特\n客场: 巴塞罗那\n场馆: Estadi Ciutat de València\n
+ 城市: Manises
+CATEGORIES:LaLiga Schedule
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882884@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260914T003000
+DTEND;TZID=Asia/Shanghai:20260914T013000
+SUMMARY:LaLiga Schedule · La Liga · Deportivo @ Getafe
+DESCRIPTION:Deportivo at Getafe (La Liga 2026-27\, Beijing time)\n\n主场
+ : 赫塔费\n客场: 拉科鲁尼亚\n场馆: Estadio Coliseum\n城市: Ge
+ tafe
+CATEGORIES:LaLiga Schedule
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882879@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260914T030000
+DTEND;TZID=Asia/Shanghai:20260914T040000
+SUMMARY:LaLiga Schedule · La Liga · Atlético Madrid @ Real Sociedad
+DESCRIPTION:Atlético Madrid at Real Sociedad (La Liga 2026-27\, Beijing t
+ ime)\n\n主场: 皇家社会\n客场: 马竞\n场馆: Reale Arena\n城市:
+  San Sebastian
+CATEGORIES:LaLiga Schedule
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:laliga-laliga-2026-401882877@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260914T020000
-DTEND;TZID=Asia/Shanghai:20260914T030000
+DTSTART;TZID=Asia/Shanghai:20260915T030000
+DTEND;TZID=Asia/Shanghai:20260915T040000
 SUMMARY:LaLiga Schedule · La Liga · Real Betis @ Villarreal
 DESCRIPTION:Real Betis at Villarreal (La Liga 2026-27\, Beijing time)\n\n
  主场: 比利亚雷亚尔\n客场: 皇家贝蒂斯\n场馆: Estadio de la
@@ -743,109 +745,11 @@ URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-laliga-2026-401882876@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260917T020000
-DTEND;TZID=Asia/Shanghai:20260917T030000
-SUMMARY:LaLiga Schedule · La Liga · Valencia @ Alavés
-DESCRIPTION:Valencia at Alavés (La Liga 2026-27\, Beijing time)\n\n主场
- : 阿拉维斯\n客场: 瓦伦西亚\n场馆: Mendizorrotza\n城市: Vitor
- ia-Gasteiz
-CATEGORIES:LaLiga Schedule
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882875@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260917T020000
-DTEND;TZID=Asia/Shanghai:20260917T030000
-SUMMARY:LaLiga Schedule · La Liga · Osasuna @ Atlético Madrid
-DESCRIPTION:Osasuna at Atlético Madrid (La Liga 2026-27\, Beijing time)\n
- \n主场: 马竞\n客场: 奥萨苏纳\n场馆: Riyadh Air Metropolitano\n
- 城市: Madrid
-CATEGORIES:LaLiga Schedule
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882871@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260917T020000
-DTEND;TZID=Asia/Shanghai:20260917T030000
-SUMMARY:LaLiga Schedule · La Liga · Racing Santander @ Barcelona
-DESCRIPTION:Racing Santander at Barcelona (La Liga 2026-27\, Beijing time)
- \n\n主场: 巴塞罗那\n客场: 桑坦德竞技\n场馆: Spotify Camp No
- u\n城市: Barcelona
-CATEGORIES:LaLiga Schedule
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882873@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260917T020000
-DTEND;TZID=Asia/Shanghai:20260917T030000
-SUMMARY:LaLiga Schedule · La Liga · Sevilla @ Deportivo
-DESCRIPTION:Sevilla at Deportivo (La Liga 2026-27\, Beijing time)\n\n主
- 场: 拉科鲁尼亚\n客场: 塞维利亚\n场馆: Riazor\n城市: La Cor
- uña
-CATEGORIES:LaLiga Schedule
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882872@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260917T020000
-DTEND;TZID=Asia/Shanghai:20260917T030000
-SUMMARY:LaLiga Schedule · La Liga · Real Madrid @ Elche
-DESCRIPTION:Real Madrid at Elche (La Liga 2026-27\, Beijing time)\n\n主
- 场: 埃尔切\n客场: 皇家马德里\n场馆: Estadio Martínez Valero\
- n城市: Elche
-CATEGORIES:LaLiga Schedule
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882870@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260917T020000
-DTEND;TZID=Asia/Shanghai:20260917T030000
-SUMMARY:LaLiga Schedule · La Liga · Athletic Club @ Levante
-DESCRIPTION:Athletic Club at Levante (La Liga 2026-27\, Beijing time)\n\n
- 主场: 莱万特\n客场: 毕尔巴鄂竞技\n场馆: Estadi Ciutat de Va
- lència\n城市: Manises
-CATEGORIES:LaLiga Schedule
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882869@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260917T020000
-DTEND;TZID=Asia/Shanghai:20260917T030000
-SUMMARY:LaLiga Schedule · La Liga · Villarreal @ Málaga
-DESCRIPTION:Villarreal at Málaga (La Liga 2026-27\, Beijing time)\n\n主
- 场: 马拉加\n客场: 比利亚雷亚尔\n场馆: La Rosaleda\n城市: M
- alaga
-CATEGORIES:LaLiga Schedule
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:laliga-laliga-2026-401882868@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260917T020000
-DTEND;TZID=Asia/Shanghai:20260917T030000
+DTSTART;TZID=Asia/Shanghai:20260916T010000
+DTEND;TZID=Asia/Shanghai:20260916T020000
 SUMMARY:LaLiga Schedule · La Liga · Espanyol @ Rayo Vallecano
 DESCRIPTION:Espanyol at Rayo Vallecano (La Liga 2026-27\, Beijing time)\n\
  n主场: 瓦列卡诺\n客场: 西班牙人\n场馆: Estadio de Vallecas\n
@@ -855,11 +759,95 @@ URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:laliga-laliga-2026-401882876@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260916T020000
+DTEND;TZID=Asia/Shanghai:20260916T030000
+SUMMARY:LaLiga Schedule · La Liga · Valencia @ Alavés
+DESCRIPTION:Valencia at Alavés (La Liga 2026-27\, Beijing time)\n\n主场
+ : 阿拉维斯\n客场: 瓦伦西亚\n场馆: Mendizorrotza\n城市: Vitor
+ ia-Gasteiz
+CATEGORIES:LaLiga Schedule
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882872@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260916T033000
+DTEND;TZID=Asia/Shanghai:20260916T043000
+SUMMARY:LaLiga Schedule · La Liga · Real Madrid @ Elche
+DESCRIPTION:Real Madrid at Elche (La Liga 2026-27\, Beijing time)\n\n主
+ 场: 埃尔切\n客场: 皇家马德里\n场馆: Estadio Martínez Valero\
+ n城市: Elche
+CATEGORIES:LaLiga Schedule
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882875@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260917T010000
+DTEND;TZID=Asia/Shanghai:20260917T020000
+SUMMARY:LaLiga Schedule · La Liga · Osasuna @ Atlético Madrid
+DESCRIPTION:Osasuna at Atlético Madrid (La Liga 2026-27\, Beijing time)\n
+ \n主场: 马竞\n客场: 奥萨苏纳\n场馆: Riyadh Air Metropolitano\n
+ 城市: Madrid
+CATEGORIES:LaLiga Schedule
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882873@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260917T010000
+DTEND;TZID=Asia/Shanghai:20260917T020000
+SUMMARY:LaLiga Schedule · La Liga · Sevilla @ Deportivo
+DESCRIPTION:Sevilla at Deportivo (La Liga 2026-27\, Beijing time)\n\n主
+ 场: 拉科鲁尼亚\n客场: 塞维利亚\n场馆: Riazor\n城市: La Cor
+ uña
+CATEGORIES:LaLiga Schedule
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882871@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260917T033000
+DTEND;TZID=Asia/Shanghai:20260917T043000
+SUMMARY:LaLiga Schedule · La Liga · Racing Santander @ Barcelona
+DESCRIPTION:Racing Santander at Barcelona (La Liga 2026-27\, Beijing time)
+ \n\n主场: 巴塞罗那\n客场: 桑坦德竞技\n场馆: Spotify Camp No
+ u\n城市: Barcelona
+CATEGORIES:LaLiga Schedule
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882870@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260917T033000
+DTEND;TZID=Asia/Shanghai:20260917T043000
+SUMMARY:LaLiga Schedule · La Liga · Athletic Club @ Levante
+DESCRIPTION:Athletic Club at Levante (La Liga 2026-27\, Beijing time)\n\n
+ 主场: 莱万特\n客场: 毕尔巴鄂竞技\n场馆: Estadi Ciutat de Va
+ lència\n城市: Manises
+CATEGORIES:LaLiga Schedule
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:laliga-laliga-2026-401882874@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260917T020000
-DTEND;TZID=Asia/Shanghai:20260917T030000
+DTSTART;TZID=Asia/Shanghai:20260918T010000
+DTEND;TZID=Asia/Shanghai:20260918T020000
 SUMMARY:LaLiga Schedule · La Liga · Getafe @ Real Betis
 DESCRIPTION:Getafe at Real Betis (La Liga 2026-27\, Beijing time)\n\n主
  场: 皇家贝蒂斯\n客场: 赫塔费\n场馆: Estadio La Cartuja\n城
@@ -869,57 +857,15 @@ URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-laliga-2026-401882866@koyomi.cast
+UID:laliga-laliga-2026-401882869@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260921T020000
-DTEND;TZID=Asia/Shanghai:20260921T030000
-SUMMARY:LaLiga Schedule · La Liga · Alavés @ Athletic Club
-DESCRIPTION:Alavés at Athletic Club (La Liga 2026-27\, Beijing time)\n\n
- 主场: 毕尔巴鄂竞技\n客场: 阿拉维斯\n场馆: San Mamés\n城
- 市: Bilbao
-CATEGORIES:LaLiga Schedule
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882865@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260921T020000
-DTEND;TZID=Asia/Shanghai:20260921T030000
-SUMMARY:LaLiga Schedule · La Liga · Real Madrid @ Atlético Madrid
-DESCRIPTION:Real Madrid at Atlético Madrid (La Liga 2026-27\, Beijing tim
- e)\n\n主场: 马竞\n客场: 皇家马德里\n场馆: Riyadh Air Metropol
- itano\n城市: Madrid
-CATEGORIES:LaLiga Schedule
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882864@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260921T020000
-DTEND;TZID=Asia/Shanghai:20260921T030000
-SUMMARY:LaLiga Schedule · La Liga · Racing Santander @ Celta Vigo
-DESCRIPTION:Racing Santander at Celta Vigo (La Liga 2026-27\, Beijing time
- )\n\n主场: 塞尔塔\n客场: 桑坦德竞技\n场馆: Balaidos\n城市:
-  Vigo
-CATEGORIES:LaLiga Schedule
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882863@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260921T020000
-DTEND;TZID=Asia/Shanghai:20260921T030000
-SUMMARY:LaLiga Schedule · La Liga · Real Betis @ Deportivo
-DESCRIPTION:Real Betis at Deportivo (La Liga 2026-27\, Beijing time)\n\n
- 主场: 拉科鲁尼亚\n客场: 皇家贝蒂斯\n场馆: Riazor\n城市: 
- La Coruña
+DTSTART;TZID=Asia/Shanghai:20260918T033000
+DTEND;TZID=Asia/Shanghai:20260918T043000
+SUMMARY:LaLiga Schedule · La Liga · Villarreal @ Málaga
+DESCRIPTION:Villarreal at Málaga (La Liga 2026-27\, Beijing time)\n\n主
+ 场: 马拉加\n客场: 比利亚雷亚尔\n场馆: La Rosaleda\n城市: M
+ alaga
 CATEGORIES:LaLiga Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -928,8 +874,8 @@ BEGIN:VEVENT
 UID:laliga-laliga-2026-401882862@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260921T020000
-DTEND;TZID=Asia/Shanghai:20260921T030000
+DTSTART;TZID=Asia/Shanghai:20260919T030000
+DTEND;TZID=Asia/Shanghai:20260919T040000
 SUMMARY:LaLiga Schedule · La Liga · Elche @ Espanyol
 DESCRIPTION:Elche at Espanyol (La Liga 2026-27\, Beijing time)\n\n主场: 
  西班牙人\n客场: 埃尔切\n场馆: RCDE Stadium\n城市: Barcelona
@@ -938,24 +884,11 @@ URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-laliga-2026-401882861@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260921T020000
-DTEND;TZID=Asia/Shanghai:20260921T030000
-SUMMARY:LaLiga Schedule · La Liga · Málaga @ Getafe
-DESCRIPTION:Málaga at Getafe (La Liga 2026-27\, Beijing time)\n\n主场: 
- 赫塔费\n客场: 马拉加\n场馆: Estadio Coliseum\n城市: Getafe
-CATEGORIES:LaLiga Schedule
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:laliga-laliga-2026-401882860@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260921T020000
-DTEND;TZID=Asia/Shanghai:20260921T030000
+DTSTART;TZID=Asia/Shanghai:20260919T200000
+DTEND;TZID=Asia/Shanghai:20260919T210000
 SUMMARY:LaLiga Schedule · La Liga · Rayo Vallecano @ Osasuna
 DESCRIPTION:Rayo Vallecano at Osasuna (La Liga 2026-27\, Beijing time)\n\n
  主场: 奥萨苏纳\n客场: 瓦列卡诺\n场馆: El Sadar\n城市: Pamp
@@ -965,15 +898,84 @@ URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:laliga-laliga-2026-401882866@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260919T221500
+DTEND;TZID=Asia/Shanghai:20260919T231500
+SUMMARY:LaLiga Schedule · La Liga · Alavés @ Athletic Club
+DESCRIPTION:Alavés at Athletic Club (La Liga 2026-27\, Beijing time)\n\n
+ 主场: 毕尔巴鄂竞技\n客场: 阿拉维斯\n场馆: San Mamés\n城
+ 市: Bilbao
+CATEGORIES:LaLiga Schedule
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882864@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260920T003000
+DTEND;TZID=Asia/Shanghai:20260920T013000
+SUMMARY:LaLiga Schedule · La Liga · Racing Santander @ Celta Vigo
+DESCRIPTION:Racing Santander at Celta Vigo (La Liga 2026-27\, Beijing time
+ )\n\n主场: 塞尔塔\n客场: 桑坦德竞技\n场馆: Balaidos\n城市:
+  Vigo
+CATEGORIES:LaLiga Schedule
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:laliga-laliga-2026-401882859@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260921T020000
-DTEND;TZID=Asia/Shanghai:20260921T030000
+DTSTART;TZID=Asia/Shanghai:20260920T030000
+DTEND;TZID=Asia/Shanghai:20260920T040000
 SUMMARY:LaLiga Schedule · La Liga · Barcelona @ Sevilla
 DESCRIPTION:Barcelona at Sevilla (La Liga 2026-27\, Beijing time)\n\n主
  场: 塞维利亚\n客场: 巴塞罗那\n场馆: Ramón Sánchez Pizjuán 
  Stadium\n城市: Sevilla
+CATEGORIES:LaLiga Schedule
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882861@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260920T200000
+DTEND;TZID=Asia/Shanghai:20260920T210000
+SUMMARY:LaLiga Schedule · La Liga · Málaga @ Getafe
+DESCRIPTION:Málaga at Getafe (La Liga 2026-27\, Beijing time)\n\n主场: 
+ 赫塔费\n客场: 马拉加\n场馆: Estadio Coliseum\n城市: Getafe
+CATEGORIES:LaLiga Schedule
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882865@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260920T221500
+DTEND;TZID=Asia/Shanghai:20260920T231500
+SUMMARY:LaLiga Schedule · La Liga · Real Madrid @ Atlético Madrid
+DESCRIPTION:Real Madrid at Atlético Madrid (La Liga 2026-27\, Beijing tim
+ e)\n\n主场: 马竞\n客场: 皇家马德里\n场馆: Riyadh Air Metropol
+ itano\n城市: Madrid
+CATEGORIES:LaLiga Schedule
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882863@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260921T003000
+DTEND;TZID=Asia/Shanghai:20260921T013000
+SUMMARY:LaLiga Schedule · La Liga · Real Betis @ Deportivo
+DESCRIPTION:Real Betis at Deportivo (La Liga 2026-27\, Beijing time)\n\n
+ 主场: 拉科鲁尼亚\n客场: 皇家贝蒂斯\n场馆: Riazor\n城市: 
+ La Coruña
 CATEGORIES:LaLiga Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED

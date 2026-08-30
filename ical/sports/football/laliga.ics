@@ -406,8 +406,9 @@ DTSTART;TZID=Asia/Shanghai:20260831T013000
 DTEND;TZID=Asia/Shanghai:20260831T023000
 SUMMARY:西甲赛程 · 西甲 · 瓦伦西亚 @ 拉科鲁尼亚
 DESCRIPTION:瓦伦西亚 作客 拉科鲁尼亚（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 拉科鲁尼亚\n客场: 瓦伦西亚\n场馆: 
- Riazor\n城市: La Coruña
+ 北京时间）\n\n比分: 拉科鲁尼亚 3 - 1 瓦伦西亚\n\n主场: 
+ 拉科鲁尼亚\n客场: 瓦伦西亚\n比分: 拉科鲁尼亚 3 - 1 瓦
+ 伦西亚\n场馆: Riazor\n城市: La Coruña
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -420,8 +421,9 @@ DTSTART;TZID=Asia/Shanghai:20260831T033000
 DTEND;TZID=Asia/Shanghai:20260831T043000
 SUMMARY:西甲赛程 · 西甲 · 毕尔巴鄂竞技 @ 塞尔塔
 DESCRIPTION:毕尔巴鄂竞技 作客 塞尔塔（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 塞尔塔\n客场: 毕尔巴鄂竞技\n场馆: 
- Balaidos\n城市: Vigo
+ 北京时间）\n\n比分: 塞尔塔 0 - 2 毕尔巴鄂竞技\n\n主场: 
+ 塞尔塔\n客场: 毕尔巴鄂竞技\n比分: 塞尔塔 0 - 2 毕尔巴
+ 鄂竞技\n场馆: Balaidos\n城市: Vigo
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -609,123 +611,11 @@ URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-laliga-2026-401882886@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260914T020000
-DTEND;TZID=Asia/Shanghai:20260914T030000
-SUMMARY:西甲赛程 · 西甲 · 埃尔切 @ 毕尔巴鄂竞技
-DESCRIPTION:埃尔切 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 毕尔巴鄂竞技\n客场: 埃尔切\n场馆: 
- San Mamés\n城市: Bilbao
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882885@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260914T020000
-DTEND;TZID=Asia/Shanghai:20260914T030000
-SUMMARY:西甲赛程 · 西甲 · 马拉加 @ 塞尔塔
-DESCRIPTION:马拉加 作客 塞尔塔（西甲 2026-27 赛季，北京时
- 间）\n\n主场: 塞尔塔\n客场: 马拉加\n场馆: Balaidos\n城市: 
- Vigo
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882884@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260914T020000
-DTEND;TZID=Asia/Shanghai:20260914T030000
-SUMMARY:西甲赛程 · 西甲 · 拉科鲁尼亚 @ 赫塔费
-DESCRIPTION:拉科鲁尼亚 作客 赫塔费（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 赫塔费\n客场: 拉科鲁尼亚\n场馆: Estadi
- o Coliseum\n城市: Getafe
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882883@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260914T020000
-DTEND;TZID=Asia/Shanghai:20260914T030000
-SUMMARY:西甲赛程 · 西甲 · 巴塞罗那 @ 莱万特
-DESCRIPTION:巴塞罗那 作客 莱万特（西甲 2026-27 赛季，北京
- 时间）\n\n主场: 莱万特\n客场: 巴塞罗那\n场馆: Estadi Ciuta
- t de València\n城市: Manises
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882882@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260914T020000
-DTEND;TZID=Asia/Shanghai:20260914T030000
-SUMMARY:西甲赛程 · 西甲 · 西班牙人 @ 奥萨苏纳
-DESCRIPTION:西班牙人 作客 奥萨苏纳（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 奥萨苏纳\n客场: 西班牙人\n场馆: El Sad
- ar\n城市: Pamplona
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882881@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260914T020000
-DTEND;TZID=Asia/Shanghai:20260914T030000
-SUMMARY:西甲赛程 · 西甲 · 阿拉维斯 @ 桑坦德竞技
-DESCRIPTION:阿拉维斯 作客 桑坦德竞技（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 桑坦德竞技\n客场: 阿拉维斯\n场馆: 
- El Sardineros\n城市: Santander
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882880@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260914T020000
-DTEND;TZID=Asia/Shanghai:20260914T030000
-SUMMARY:西甲赛程 · 西甲 · 瓦列卡诺 @ 皇家马德里
-DESCRIPTION:瓦列卡诺 作客 皇家马德里（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 皇家马德里\n客场: 瓦列卡诺\n场馆: 
- Santiago Bernabéu\n城市: Madrid
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882879@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260914T020000
-DTEND;TZID=Asia/Shanghai:20260914T030000
-SUMMARY:西甲赛程 · 西甲 · 马竞 @ 皇家社会
-DESCRIPTION:马竞 作客 皇家社会（西甲 2026-27 赛季，北京时
- 间）\n\n主场: 皇家社会\n客场: 马竞\n场馆: Reale Arena\n城
- 市: San Sebastian
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:laliga-laliga-2026-401882878@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260914T020000
-DTEND;TZID=Asia/Shanghai:20260914T030000
+DTSTART;TZID=Asia/Shanghai:20260912T030000
+DTEND;TZID=Asia/Shanghai:20260912T040000
 SUMMARY:西甲赛程 · 西甲 · 瓦伦西亚 @ 塞维利亚
 DESCRIPTION:瓦伦西亚 作客 塞维利亚（西甲 2026-27 赛季，北
  京时间）\n\n主场: 塞维利亚\n客场: 瓦伦西亚\n场馆: Ramón
@@ -735,11 +625,123 @@ URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:laliga-laliga-2026-401882881@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260912T200000
+DTEND;TZID=Asia/Shanghai:20260912T210000
+SUMMARY:西甲赛程 · 西甲 · 阿拉维斯 @ 桑坦德竞技
+DESCRIPTION:阿拉维斯 作客 桑坦德竞技（西甲 2026-27 赛季，
+ 北京时间）\n\n主场: 桑坦德竞技\n客场: 阿拉维斯\n场馆: 
+ El Sardineros\n城市: Santander
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882882@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260912T221500
+DTEND;TZID=Asia/Shanghai:20260912T231500
+SUMMARY:西甲赛程 · 西甲 · 西班牙人 @ 奥萨苏纳
+DESCRIPTION:西班牙人 作客 奥萨苏纳（西甲 2026-27 赛季，北
+ 京时间）\n\n主场: 奥萨苏纳\n客场: 西班牙人\n场馆: El Sad
+ ar\n城市: Pamplona
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882886@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260913T003000
+DTEND;TZID=Asia/Shanghai:20260913T013000
+SUMMARY:西甲赛程 · 西甲 · 埃尔切 @ 毕尔巴鄂竞技
+DESCRIPTION:埃尔切 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，
+ 北京时间）\n\n主场: 毕尔巴鄂竞技\n客场: 埃尔切\n场馆: 
+ San Mamés\n城市: Bilbao
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882880@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260913T030000
+DTEND;TZID=Asia/Shanghai:20260913T040000
+SUMMARY:西甲赛程 · 西甲 · 瓦列卡诺 @ 皇家马德里
+DESCRIPTION:瓦列卡诺 作客 皇家马德里（西甲 2026-27 赛季，
+ 北京时间）\n\n主场: 皇家马德里\n客场: 瓦列卡诺\n场馆: 
+ Santiago Bernabéu\n城市: Madrid
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882885@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260913T200000
+DTEND;TZID=Asia/Shanghai:20260913T210000
+SUMMARY:西甲赛程 · 西甲 · 马拉加 @ 塞尔塔
+DESCRIPTION:马拉加 作客 塞尔塔（西甲 2026-27 赛季，北京时
+ 间）\n\n主场: 塞尔塔\n客场: 马拉加\n场馆: Balaidos\n城市: 
+ Vigo
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882883@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260913T221500
+DTEND;TZID=Asia/Shanghai:20260913T231500
+SUMMARY:西甲赛程 · 西甲 · 巴塞罗那 @ 莱万特
+DESCRIPTION:巴塞罗那 作客 莱万特（西甲 2026-27 赛季，北京
+ 时间）\n\n主场: 莱万特\n客场: 巴塞罗那\n场馆: Estadi Ciuta
+ t de València\n城市: Manises
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882884@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260914T003000
+DTEND;TZID=Asia/Shanghai:20260914T013000
+SUMMARY:西甲赛程 · 西甲 · 拉科鲁尼亚 @ 赫塔费
+DESCRIPTION:拉科鲁尼亚 作客 赫塔费（西甲 2026-27 赛季，北
+ 京时间）\n\n主场: 赫塔费\n客场: 拉科鲁尼亚\n场馆: Estadi
+ o Coliseum\n城市: Getafe
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882879@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260914T030000
+DTEND;TZID=Asia/Shanghai:20260914T040000
+SUMMARY:西甲赛程 · 西甲 · 马竞 @ 皇家社会
+DESCRIPTION:马竞 作客 皇家社会（西甲 2026-27 赛季，北京时
+ 间）\n\n主场: 皇家社会\n客场: 马竞\n场馆: Reale Arena\n城
+ 市: San Sebastian
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:laliga-laliga-2026-401882877@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260914T020000
-DTEND;TZID=Asia/Shanghai:20260914T030000
+DTSTART;TZID=Asia/Shanghai:20260915T030000
+DTEND;TZID=Asia/Shanghai:20260915T040000
 SUMMARY:西甲赛程 · 西甲 · 皇家贝蒂斯 @ 比利亚雷亚尔
 DESCRIPTION:皇家贝蒂斯 作客 比利亚雷亚尔（西甲 2026-27 赛
  季，北京时间）\n\n主场: 比利亚雷亚尔\n客场: 皇家贝蒂
@@ -749,109 +751,11 @@ URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-laliga-2026-401882876@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260917T020000
-DTEND;TZID=Asia/Shanghai:20260917T030000
-SUMMARY:西甲赛程 · 西甲 · 瓦伦西亚 @ 阿拉维斯
-DESCRIPTION:瓦伦西亚 作客 阿拉维斯（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 阿拉维斯\n客场: 瓦伦西亚\n场馆: Mendiz
- orrotza\n城市: Vitoria-Gasteiz
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882875@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260917T020000
-DTEND;TZID=Asia/Shanghai:20260917T030000
-SUMMARY:西甲赛程 · 西甲 · 奥萨苏纳 @ 马竞
-DESCRIPTION:奥萨苏纳 作客 马竞（西甲 2026-27 赛季，北京时
- 间）\n\n主场: 马竞\n客场: 奥萨苏纳\n场馆: Riyadh Air Metropo
- litano\n城市: Madrid
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882871@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260917T020000
-DTEND;TZID=Asia/Shanghai:20260917T030000
-SUMMARY:西甲赛程 · 西甲 · 桑坦德竞技 @ 巴塞罗那
-DESCRIPTION:桑坦德竞技 作客 巴塞罗那（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 巴塞罗那\n客场: 桑坦德竞技\n场馆: 
- Spotify Camp Nou\n城市: Barcelona
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882873@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260917T020000
-DTEND;TZID=Asia/Shanghai:20260917T030000
-SUMMARY:西甲赛程 · 西甲 · 塞维利亚 @ 拉科鲁尼亚
-DESCRIPTION:塞维利亚 作客 拉科鲁尼亚（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 拉科鲁尼亚\n客场: 塞维利亚\n场馆: 
- Riazor\n城市: La Coruña
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882872@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260917T020000
-DTEND;TZID=Asia/Shanghai:20260917T030000
-SUMMARY:西甲赛程 · 西甲 · 皇家马德里 @ 埃尔切
-DESCRIPTION:皇家马德里 作客 埃尔切（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 埃尔切\n客场: 皇家马德里\n场馆: Estadi
- o Martínez Valero\n城市: Elche
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882870@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260917T020000
-DTEND;TZID=Asia/Shanghai:20260917T030000
-SUMMARY:西甲赛程 · 西甲 · 毕尔巴鄂竞技 @ 莱万特
-DESCRIPTION:毕尔巴鄂竞技 作客 莱万特（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 莱万特\n客场: 毕尔巴鄂竞技\n场馆: 
- Estadi Ciutat de València\n城市: Manises
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882869@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260917T020000
-DTEND;TZID=Asia/Shanghai:20260917T030000
-SUMMARY:西甲赛程 · 西甲 · 比利亚雷亚尔 @ 马拉加
-DESCRIPTION:比利亚雷亚尔 作客 马拉加（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 马拉加\n客场: 比利亚雷亚尔\n场馆: 
- La Rosaleda\n城市: Malaga
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:laliga-laliga-2026-401882868@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260917T020000
-DTEND;TZID=Asia/Shanghai:20260917T030000
+DTSTART;TZID=Asia/Shanghai:20260916T010000
+DTEND;TZID=Asia/Shanghai:20260916T020000
 SUMMARY:西甲赛程 · 西甲 · 西班牙人 @ 瓦列卡诺
 DESCRIPTION:西班牙人 作客 瓦列卡诺（西甲 2026-27 赛季，北
  京时间）\n\n主场: 瓦列卡诺\n客场: 西班牙人\n场馆: Estadi
@@ -861,11 +765,95 @@ URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:laliga-laliga-2026-401882876@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260916T020000
+DTEND;TZID=Asia/Shanghai:20260916T030000
+SUMMARY:西甲赛程 · 西甲 · 瓦伦西亚 @ 阿拉维斯
+DESCRIPTION:瓦伦西亚 作客 阿拉维斯（西甲 2026-27 赛季，北
+ 京时间）\n\n主场: 阿拉维斯\n客场: 瓦伦西亚\n场馆: Mendiz
+ orrotza\n城市: Vitoria-Gasteiz
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882872@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260916T033000
+DTEND;TZID=Asia/Shanghai:20260916T043000
+SUMMARY:西甲赛程 · 西甲 · 皇家马德里 @ 埃尔切
+DESCRIPTION:皇家马德里 作客 埃尔切（西甲 2026-27 赛季，北
+ 京时间）\n\n主场: 埃尔切\n客场: 皇家马德里\n场馆: Estadi
+ o Martínez Valero\n城市: Elche
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882875@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260917T010000
+DTEND;TZID=Asia/Shanghai:20260917T020000
+SUMMARY:西甲赛程 · 西甲 · 奥萨苏纳 @ 马竞
+DESCRIPTION:奥萨苏纳 作客 马竞（西甲 2026-27 赛季，北京时
+ 间）\n\n主场: 马竞\n客场: 奥萨苏纳\n场馆: Riyadh Air Metropo
+ litano\n城市: Madrid
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882873@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260917T010000
+DTEND;TZID=Asia/Shanghai:20260917T020000
+SUMMARY:西甲赛程 · 西甲 · 塞维利亚 @ 拉科鲁尼亚
+DESCRIPTION:塞维利亚 作客 拉科鲁尼亚（西甲 2026-27 赛季，
+ 北京时间）\n\n主场: 拉科鲁尼亚\n客场: 塞维利亚\n场馆: 
+ Riazor\n城市: La Coruña
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882871@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260917T033000
+DTEND;TZID=Asia/Shanghai:20260917T043000
+SUMMARY:西甲赛程 · 西甲 · 桑坦德竞技 @ 巴塞罗那
+DESCRIPTION:桑坦德竞技 作客 巴塞罗那（西甲 2026-27 赛季，
+ 北京时间）\n\n主场: 巴塞罗那\n客场: 桑坦德竞技\n场馆: 
+ Spotify Camp Nou\n城市: Barcelona
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882870@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260917T033000
+DTEND;TZID=Asia/Shanghai:20260917T043000
+SUMMARY:西甲赛程 · 西甲 · 毕尔巴鄂竞技 @ 莱万特
+DESCRIPTION:毕尔巴鄂竞技 作客 莱万特（西甲 2026-27 赛季，
+ 北京时间）\n\n主场: 莱万特\n客场: 毕尔巴鄂竞技\n场馆: 
+ Estadi Ciutat de València\n城市: Manises
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:laliga-laliga-2026-401882874@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260917T020000
-DTEND;TZID=Asia/Shanghai:20260917T030000
+DTSTART;TZID=Asia/Shanghai:20260918T010000
+DTEND;TZID=Asia/Shanghai:20260918T020000
 SUMMARY:西甲赛程 · 西甲 · 赫塔费 @ 皇家贝蒂斯
 DESCRIPTION:赫塔费 作客 皇家贝蒂斯（西甲 2026-27 赛季，北
  京时间）\n\n主场: 皇家贝蒂斯\n客场: 赫塔费\n场馆: Estadi
@@ -875,57 +863,15 @@ URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-laliga-2026-401882866@koyomi.cast
+UID:laliga-laliga-2026-401882869@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260921T020000
-DTEND;TZID=Asia/Shanghai:20260921T030000
-SUMMARY:西甲赛程 · 西甲 · 阿拉维斯 @ 毕尔巴鄂竞技
-DESCRIPTION:阿拉维斯 作客 毕尔巴鄂竞技（西甲 2026-27 赛季
- ，北京时间）\n\n主场: 毕尔巴鄂竞技\n客场: 阿拉维斯\n
- 场馆: San Mamés\n城市: Bilbao
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882865@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260921T020000
-DTEND;TZID=Asia/Shanghai:20260921T030000
-SUMMARY:西甲赛程 · 西甲 · 皇家马德里 @ 马竞
-DESCRIPTION:皇家马德里 作客 马竞（西甲 2026-27 赛季，北京
- 时间）\n\n主场: 马竞\n客场: 皇家马德里\n场馆: Riyadh Air M
- etropolitano\n城市: Madrid
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882864@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260921T020000
-DTEND;TZID=Asia/Shanghai:20260921T030000
-SUMMARY:西甲赛程 · 西甲 · 桑坦德竞技 @ 塞尔塔
-DESCRIPTION:桑坦德竞技 作客 塞尔塔（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 塞尔塔\n客场: 桑坦德竞技\n场馆: Balaid
- os\n城市: Vigo
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882863@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260921T020000
-DTEND;TZID=Asia/Shanghai:20260921T030000
-SUMMARY:西甲赛程 · 西甲 · 皇家贝蒂斯 @ 拉科鲁尼亚
-DESCRIPTION:皇家贝蒂斯 作客 拉科鲁尼亚（西甲 2026-27 赛季
- ，北京时间）\n\n主场: 拉科鲁尼亚\n客场: 皇家贝蒂斯\n
- 场馆: Riazor\n城市: La Coruña
+DTSTART;TZID=Asia/Shanghai:20260918T033000
+DTEND;TZID=Asia/Shanghai:20260918T043000
+SUMMARY:西甲赛程 · 西甲 · 比利亚雷亚尔 @ 马拉加
+DESCRIPTION:比利亚雷亚尔 作客 马拉加（西甲 2026-27 赛季，
+ 北京时间）\n\n主场: 马拉加\n客场: 比利亚雷亚尔\n场馆: 
+ La Rosaleda\n城市: Malaga
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -934,8 +880,8 @@ BEGIN:VEVENT
 UID:laliga-laliga-2026-401882862@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260921T020000
-DTEND;TZID=Asia/Shanghai:20260921T030000
+DTSTART;TZID=Asia/Shanghai:20260919T030000
+DTEND;TZID=Asia/Shanghai:20260919T040000
 SUMMARY:西甲赛程 · 西甲 · 埃尔切 @ 西班牙人
 DESCRIPTION:埃尔切 作客 西班牙人（西甲 2026-27 赛季，北京
  时间）\n\n主场: 西班牙人\n客场: 埃尔切\n场馆: RCDE Stadium
@@ -945,25 +891,11 @@ URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-laliga-2026-401882861@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260921T020000
-DTEND;TZID=Asia/Shanghai:20260921T030000
-SUMMARY:西甲赛程 · 西甲 · 马拉加 @ 赫塔费
-DESCRIPTION:马拉加 作客 赫塔费（西甲 2026-27 赛季，北京时
- 间）\n\n主场: 赫塔费\n客场: 马拉加\n场馆: Estadio Coliseum\n
- 城市: Getafe
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:laliga-laliga-2026-401882860@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260921T020000
-DTEND;TZID=Asia/Shanghai:20260921T030000
+DTSTART;TZID=Asia/Shanghai:20260919T200000
+DTEND;TZID=Asia/Shanghai:20260919T210000
 SUMMARY:西甲赛程 · 西甲 · 瓦列卡诺 @ 奥萨苏纳
 DESCRIPTION:瓦列卡诺 作客 奥萨苏纳（西甲 2026-27 赛季，北
  京时间）\n\n主场: 奥萨苏纳\n客场: 瓦列卡诺\n场馆: El Sad
@@ -973,15 +905,85 @@ URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:laliga-laliga-2026-401882866@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260919T221500
+DTEND;TZID=Asia/Shanghai:20260919T231500
+SUMMARY:西甲赛程 · 西甲 · 阿拉维斯 @ 毕尔巴鄂竞技
+DESCRIPTION:阿拉维斯 作客 毕尔巴鄂竞技（西甲 2026-27 赛季
+ ，北京时间）\n\n主场: 毕尔巴鄂竞技\n客场: 阿拉维斯\n
+ 场馆: San Mamés\n城市: Bilbao
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882864@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260920T003000
+DTEND;TZID=Asia/Shanghai:20260920T013000
+SUMMARY:西甲赛程 · 西甲 · 桑坦德竞技 @ 塞尔塔
+DESCRIPTION:桑坦德竞技 作客 塞尔塔（西甲 2026-27 赛季，北
+ 京时间）\n\n主场: 塞尔塔\n客场: 桑坦德竞技\n场馆: Balaid
+ os\n城市: Vigo
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:laliga-laliga-2026-401882859@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260830T000000
-DTSTART;TZID=Asia/Shanghai:20260921T020000
-DTEND;TZID=Asia/Shanghai:20260921T030000
+DTSTART;TZID=Asia/Shanghai:20260920T030000
+DTEND;TZID=Asia/Shanghai:20260920T040000
 SUMMARY:西甲赛程 · 西甲 · 巴塞罗那 @ 塞维利亚
 DESCRIPTION:巴塞罗那 作客 塞维利亚（西甲 2026-27 赛季，北
  京时间）\n\n主场: 塞维利亚\n客场: 巴塞罗那\n场馆: Ramón
   Sánchez Pizjuán Stadium\n城市: Sevilla
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882861@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260920T200000
+DTEND;TZID=Asia/Shanghai:20260920T210000
+SUMMARY:西甲赛程 · 西甲 · 马拉加 @ 赫塔费
+DESCRIPTION:马拉加 作客 赫塔费（西甲 2026-27 赛季，北京时
+ 间）\n\n主场: 赫塔费\n客场: 马拉加\n场馆: Estadio Coliseum\n
+ 城市: Getafe
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882865@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260920T221500
+DTEND;TZID=Asia/Shanghai:20260920T231500
+SUMMARY:西甲赛程 · 西甲 · 皇家马德里 @ 马竞
+DESCRIPTION:皇家马德里 作客 马竞（西甲 2026-27 赛季，北京
+ 时间）\n\n主场: 马竞\n客场: 皇家马德里\n场馆: Riyadh Air M
+ etropolitano\n城市: Madrid
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882863@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260830T000000
+DTSTART;TZID=Asia/Shanghai:20260921T003000
+DTEND;TZID=Asia/Shanghai:20260921T013000
+SUMMARY:西甲赛程 · 西甲 · 皇家贝蒂斯 @ 拉科鲁尼亚
+DESCRIPTION:皇家贝蒂斯 作客 拉科鲁尼亚（西甲 2026-27 赛季
+ ，北京时间）\n\n主场: 拉科鲁尼亚\n客场: 皇家贝蒂斯\n
+ 场馆: Riazor\n城市: La Coruña
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED

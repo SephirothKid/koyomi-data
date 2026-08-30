@@ -13538,7 +13538,7 @@
       "description": "沙尔克04 作客 奥格斯堡（德甲 2026-27 赛季，北京时间）",
       "description_en": "Schalke 04 at FC Augsburg (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-30",
       "verified_by": "auto",
       "teams": {
@@ -13558,8 +13558,15 @@
       "details": {
         "主场": "奥格斯堡",
         "客场": "沙尔克04",
+        "比分": "奥格斯堡 3 - 0 沙尔克04",
         "场馆": "WWK Arena",
         "城市": "Augsburg"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {

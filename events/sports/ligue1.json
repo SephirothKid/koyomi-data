@@ -13875,7 +13875,7 @@
       "description": "勒芒 作客 雷恩（法甲 2026-27 赛季，北京时间）",
       "description_en": "Le Mans at Stade Rennais (Ligue 1 2026-27, Beijing time)",
       "url": "https://www.ligue1.com/fixtures-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-30",
       "verified_by": "auto",
       "teams": {
@@ -13895,8 +13895,15 @@
       "details": {
         "主场": "雷恩",
         "客场": "勒芒",
+        "比分": "雷恩 3 - 2 勒芒",
         "场馆": "Roazhon Park",
         "城市": "Rennes"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 2,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -13911,7 +13918,7 @@
       "description": "马赛 作客 摩纳哥（法甲 2026-27 赛季，北京时间）",
       "description_en": "Marseille at AS Monaco (Ligue 1 2026-27, Beijing time)",
       "url": "https://www.ligue1.com/fixtures-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-30",
       "verified_by": "auto",
       "teams": {
@@ -13931,8 +13938,15 @@
       "details": {
         "主场": "摩纳哥",
         "客场": "马赛",
+        "比分": "摩纳哥 2 - 0 马赛",
         "场馆": "Stade Louis II",
         "城市": "Monaco"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {

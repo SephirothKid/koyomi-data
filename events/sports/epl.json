@@ -17150,7 +17150,7 @@
       "description": "伊普斯维奇 作客 曼联（英超 2026-27 赛季，北京时间）",
       "description_en": "Ipswich Town at Manchester United (Premier League 2026-27, Beijing time)",
       "url": "https://www.premierleague.com/fixtures",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-30",
       "verified_by": "auto",
       "teams": {
@@ -17170,8 +17170,15 @@
       "details": {
         "主场": "曼联",
         "客场": "伊普斯维奇",
+        "比分": "曼联 5 - 2 伊普斯维奇",
         "场馆": "Old Trafford",
         "城市": "Manchester"
+      },
+      "result": {
+        "home_score": 5,
+        "away_score": 2,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
