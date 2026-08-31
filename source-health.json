@@ -209,8 +209,8 @@
     },
     "genshin-impact": {
       "category": "gaming",
-      "outcome": "disabled",
-      "disabled_reason": "已停用：官方内容接口当前返回 app not found，修复前不保留旧数据"
+      "outcome": "failed",
+      "last_error": "genshin-impact content list failed: app not found"
     },
     "honkai-star-rail": {
       "category": "gaming",
