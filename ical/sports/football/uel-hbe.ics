@@ -2,126 +2,133 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Koyomi Cast//uel-hbe//EN
 URL:https://koyomi.cast/sources/uel
-NAME:Hapoel Be'er赛程
-X-WR-CALNAME:Hapoel Be'er赛程
-X-WR-CALDESC:Hapoel Be'er在欧联杯赛程中的比赛日程，自动同
- 步更新。
+NAME:贝尔谢巴夏普尔赛程
+X-WR-CALNAME:贝尔谢巴夏普尔赛程
+X-WR-CALDESC:贝尔谢巴夏普尔在欧联杯赛程中的比赛日程，
+ 自动同步更新。
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:uel-hbe-uel-2026-401915589@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20260917T030000
 DTEND;TZID=Asia/Shanghai:20260917T040000
-SUMMARY:Hapoel Be'er赛程 · 联赛阶段 · Hapoel Be'er vs 萨格勒布
- 迪纳摩
-DESCRIPTION:萨格勒布迪纳摩 作客 Hapoel Be'er（欧联杯 2026-27 
- 赛季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Hap
- oel Be'er\n客场: 萨格勒布迪纳摩
-CATEGORIES:Hapoel Be'er赛程
+SUMMARY:贝尔谢巴夏普尔赛程 · 联赛阶段 · 贝尔谢巴夏普
+ 尔 vs 萨格勒布迪纳摩
+DESCRIPTION:萨格勒布迪纳摩 作客 贝尔谢巴夏普尔（欧联杯
+  2026-27 赛季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n
+ 主场: 贝尔谢巴夏普尔\n客场: 萨格勒布迪纳摩
+CATEGORIES:贝尔谢巴夏普尔赛程
 URL;VALUE=URI:https://www.uefa.com/uefaeuropaleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uel-hbe-uel-2026-401915573@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261016T004500
 DTEND;TZID=Asia/Shanghai:20261016T014500
-SUMMARY:Hapoel Be'er赛程 · 联赛阶段 · Hapoel Be'er @ AZ Alkmaar
-DESCRIPTION:Hapoel Be'er 作客 AZ Alkmaar（欧联杯 2026-27 赛季 联
- 赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: AZ Alkmaar\n
- 客场: Hapoel Be'er\n场馆: AFAS Stadion\n城市: Alkmaar
-CATEGORIES:Hapoel Be'er赛程
+SUMMARY:贝尔谢巴夏普尔赛程 · 联赛阶段 · 贝尔谢巴夏普
+ 尔 @ AZ阿尔克马尔
+DESCRIPTION:贝尔谢巴夏普尔 作客 AZ阿尔克马尔（欧联杯 202
+ 6-27 赛季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场
+ : AZ阿尔克马尔\n客场: 贝尔谢巴夏普尔\n场馆: AFAS Stadion\n
+ 城市: Alkmaar
+CATEGORIES:贝尔谢巴夏普尔赛程
 URL;VALUE=URI:https://www.uefa.com/uefaeuropaleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uel-hbe-uel-2026-401915545@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261023T004500
 DTEND;TZID=Asia/Shanghai:20261023T014500
-SUMMARY:Hapoel Be'er赛程 · 联赛阶段 · Hapoel Be'er @ Union St.-Gil
- loise
-DESCRIPTION:Hapoel Be'er 作客 Union St.-Gilloise（欧联杯 2026-27 赛
- 季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Union 
- St.-Gilloise\n客场: Hapoel Be'er\n场馆: Stade Joseph Marien\n城市: S
- aint-Gilles\, Brussels
-CATEGORIES:Hapoel Be'er赛程
+SUMMARY:贝尔谢巴夏普尔赛程 · 联赛阶段 · 贝尔谢巴夏普
+ 尔 @ 圣日洛瓦联
+DESCRIPTION:贝尔谢巴夏普尔 作客 圣日洛瓦联（欧联杯 2026-
+ 27 赛季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 
+ 圣日洛瓦联\n客场: 贝尔谢巴夏普尔\n场馆: Stade Joseph Marie
+ n\n城市: Saint-Gilles\, Brussels
+CATEGORIES:贝尔谢巴夏普尔赛程
 URL;VALUE=URI:https://www.uefa.com/uefaeuropaleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uel-hbe-uel-2026-401915532@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261106T040000
 DTEND;TZID=Asia/Shanghai:20261106T050000
-SUMMARY:Hapoel Be'er赛程 · 联赛阶段 · Hapoel Be'er vs OFI Crete
-DESCRIPTION:OFI Crete 作客 Hapoel Be'er（欧联杯 2026-27 赛季 联
- 赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Hapoel Be'er\
- n客场: OFI Crete
-CATEGORIES:Hapoel Be'er赛程
+SUMMARY:贝尔谢巴夏普尔赛程 · 联赛阶段 · 贝尔谢巴夏普
+ 尔 vs 克里特OFI
+DESCRIPTION:克里特OFI 作客 贝尔谢巴夏普尔（欧联杯 2026-27 
+ 赛季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 贝
+ 尔谢巴夏普尔\n客场: 克里特OFI
+CATEGORIES:贝尔谢巴夏普尔赛程
 URL;VALUE=URI:https://www.uefa.com/uefaeuropaleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uel-hbe-uel-2026-401915506@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261127T014500
 DTEND;TZID=Asia/Shanghai:20261127T024500
-SUMMARY:Hapoel Be'er赛程 · 联赛阶段 · Hapoel Be'er @ Besiktas
-DESCRIPTION:Hapoel Be'er 作客 Besiktas（欧联杯 2026-27 赛季 联赛
- 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Besiktas\n客场
- : Hapoel Be'er\n场馆: Vodafone Park\n城市: Istanbul
-CATEGORIES:Hapoel Be'er赛程
+SUMMARY:贝尔谢巴夏普尔赛程 · 联赛阶段 · 贝尔谢巴夏普
+ 尔 @ 贝西克塔斯
+DESCRIPTION:贝尔谢巴夏普尔 作客 贝西克塔斯（欧联杯 2026-
+ 27 赛季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 
+ 贝西克塔斯\n客场: 贝尔谢巴夏普尔\n场馆: Vodafone Park\n城
+ 市: Istanbul
+CATEGORIES:贝尔谢巴夏普尔赛程
 URL;VALUE=URI:https://www.uefa.com/uefaeuropaleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uel-hbe-uel-2026-401915499@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261211T014500
 DTEND;TZID=Asia/Shanghai:20261211T024500
-SUMMARY:Hapoel Be'er赛程 · 联赛阶段 · Hapoel Be'er vs Juventus
-DESCRIPTION:Juventus 作客 Hapoel Be'er（欧联杯 2026-27 赛季 联赛
- 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Hapoel Be'er\n
- 客场: Juventus
-CATEGORIES:Hapoel Be'er赛程
+SUMMARY:贝尔谢巴夏普尔赛程 · 联赛阶段 · 贝尔谢巴夏普
+ 尔 vs 尤文图斯
+DESCRIPTION:尤文图斯 作客 贝尔谢巴夏普尔（欧联杯 2026-27 
+ 赛季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 贝
+ 尔谢巴夏普尔\n客场: 尤文图斯
+CATEGORIES:贝尔谢巴夏普尔赛程
 URL;VALUE=URI:https://www.uefa.com/uefaeuropaleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uel-hbe-uel-2026-401915431@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20270122T040000
 DTEND;TZID=Asia/Shanghai:20270122T050000
-SUMMARY:Hapoel Be'er赛程 · 联赛阶段 · Hapoel Be'er vs 塞尔塔
-DESCRIPTION:塞尔塔 作客 Hapoel Be'er（欧联杯 2026-27 赛季 联
- 赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Hapoel Be'er\
- n客场: 塞尔塔
-CATEGORIES:Hapoel Be'er赛程
+SUMMARY:贝尔谢巴夏普尔赛程 · 联赛阶段 · 贝尔谢巴夏普
+ 尔 vs 塞尔塔
+DESCRIPTION:塞尔塔 作客 贝尔谢巴夏普尔（欧联杯 2026-27 赛
+ 季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 贝尔
+ 谢巴夏普尔\n客场: 塞尔塔
+CATEGORIES:贝尔谢巴夏普尔赛程
 URL;VALUE=URI:https://www.uefa.com/uefaeuropaleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uel-hbe-uel-2026-401915465@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20270129T040000
 DTEND;TZID=Asia/Shanghai:20270129T050000
-SUMMARY:Hapoel Be'er赛程 · 联赛阶段 · Hapoel Be'er @ AFC Bournemou
- th
-DESCRIPTION:Hapoel Be'er 作客 AFC Bournemouth（欧联杯 2026-27 赛季
-  联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: AFC Bourn
- emouth\n客场: Hapoel Be'er\n场馆: Vitality Stadium\n城市: Bournemout
- h
-CATEGORIES:Hapoel Be'er赛程
+SUMMARY:贝尔谢巴夏普尔赛程 · 联赛阶段 · 贝尔谢巴夏普
+ 尔 @ 伯恩茅斯
+DESCRIPTION:贝尔谢巴夏普尔 作客 伯恩茅斯（欧联杯 2026-27 
+ 赛季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 伯
+ 恩茅斯\n客场: 贝尔谢巴夏普尔\n场馆: Vitality Stadium\n城市
+ : Bournemouth
+CATEGORIES:贝尔谢巴夏普尔赛程
 URL;VALUE=URI:https://www.uefa.com/uefaeuropaleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT

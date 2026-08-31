@@ -2,96 +2,95 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Koyomi Cast//uecl-mon//EN
 URL:https://koyomi.cast/sources/uecl
-NAME:AS Monaco赛程
-X-WR-CALNAME:AS Monaco赛程
-X-WR-CALDESC:AS Monaco在欧协联赛程中的比赛日程，自动同步
+NAME:摩纳哥赛程
+X-WR-CALNAME:摩纳哥赛程
+X-WR-CALDESC:摩纳哥在欧协联赛程中的比赛日程，自动同步
  更新。
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:uecl-mon-uecl-2026-401915855@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261016T004500
 DTEND;TZID=Asia/Shanghai:20261016T014500
-SUMMARY:AS Monaco赛程 · 联赛阶段 · AS Monaco @ CSKA Sofia
-DESCRIPTION:AS Monaco 作客 CSKA Sofia（欧协联 2026-27 赛季 联赛
- 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: CSKA Sofia\n客
- 场: AS Monaco\n场馆: Vasil Levski National Stadium\n城市: Sofia
-CATEGORIES:AS Monaco赛程
+SUMMARY:摩纳哥赛程 · 联赛阶段 · 摩纳哥 @ 索菲亚中央陆
+ 军
+DESCRIPTION:摩纳哥 作客 索菲亚中央陆军（欧协联 2026-27 赛
+ 季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 索菲
+ 亚中央陆军\n客场: 摩纳哥\n场馆: Vasil Levski National Stadium\
+ n城市: Sofia
+CATEGORIES:摩纳哥赛程
 URL;VALUE=URI:https://www.uefa.com/uefaconferenceleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uecl-mon-uecl-2026-401915836@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261023T030000
 DTEND;TZID=Asia/Shanghai:20261023T040000
-SUMMARY:AS Monaco赛程 · 联赛阶段 · AS Monaco vs SC Freiburg
-DESCRIPTION:SC Freiburg 作客 AS Monaco（欧协联 2026-27 赛季 联赛
- 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: AS Monaco\n客
- 场: SC Freiburg\n场馆: Stade Louis II\n城市: Monaco
-CATEGORIES:AS Monaco赛程
+SUMMARY:摩纳哥赛程 · 联赛阶段 · 摩纳哥 vs 弗莱堡
+DESCRIPTION:弗莱堡 作客 摩纳哥（欧协联 2026-27 赛季 联赛
+ 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 摩纳哥\n客
+ 场: 弗莱堡\n场馆: Stade Louis II\n城市: Monaco
+CATEGORIES:摩纳哥赛程
 URL;VALUE=URI:https://www.uefa.com/uefaconferenceleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uecl-mon-uecl-2026-401915824@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261106T040000
 DTEND;TZID=Asia/Shanghai:20261106T050000
-SUMMARY:AS Monaco赛程 · 联赛阶段 · AS Monaco vs FC Nordsjælland
-DESCRIPTION:FC Nordsjælland 作客 AS Monaco（欧协联 2026-27 赛季 
- 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: AS Monaco\
- n客场: FC Nordsjælland\n场馆: Stade Louis II\n城市: Monaco
-CATEGORIES:AS Monaco赛程
+SUMMARY:摩纳哥赛程 · 联赛阶段 · 摩纳哥 vs 诺德日兰
+DESCRIPTION:诺德日兰 作客 摩纳哥（欧协联 2026-27 赛季 联
+ 赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 摩纳哥\n
+ 客场: 诺德日兰\n场馆: Stade Louis II\n城市: Monaco
+CATEGORIES:摩纳哥赛程
 URL;VALUE=URI:https://www.uefa.com/uefaconferenceleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uecl-mon-uecl-2026-401915811@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261127T014500
 DTEND;TZID=Asia/Shanghai:20261127T024500
-SUMMARY:AS Monaco赛程 · 联赛阶段 · AS Monaco @ Heart of Midlothian
-DESCRIPTION:AS Monaco 作客 Heart of Midlothian（欧协联 2026-27 赛
- 季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Heart 
- of Midlothian\n客场: AS Monaco\n场馆: Tynecastle Park\n城市: Edinbur
- gh
-CATEGORIES:AS Monaco赛程
+SUMMARY:摩纳哥赛程 · 联赛阶段 · 摩纳哥 @ 哈茨
+DESCRIPTION:摩纳哥 作客 哈茨（欧协联 2026-27 赛季 联赛阶
+ 段，北京时间）\n\n阶段: 联赛阶段\n主场: 哈茨\n客场: 摩
+ 纳哥\n场馆: Tynecastle Park\n城市: Edinburgh
+CATEGORIES:摩纳哥赛程
 URL;VALUE=URI:https://www.uefa.com/uefaconferenceleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uecl-mon-uecl-2026-401915732@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261211T040000
 DTEND;TZID=Asia/Shanghai:20261211T050000
-SUMMARY:AS Monaco赛程 · 联赛阶段 · AS Monaco @ Brighton & Hove Alb
- ion
-DESCRIPTION:AS Monaco 作客 Brighton & Hove Albion（欧协联 2026-27 
- 赛季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Bri
- ghton & Hove Albion\n客场: AS Monaco\n场馆: American Express Stadium\n
- 城市: Falmer
-CATEGORIES:AS Monaco赛程
+SUMMARY:摩纳哥赛程 · 联赛阶段 · 摩纳哥 @ 布莱顿
+DESCRIPTION:摩纳哥 作客 布莱顿（欧协联 2026-27 赛季 联赛
+ 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 布莱顿\n客
+ 场: 摩纳哥\n场馆: American Express Stadium\n城市: Falmer
+CATEGORIES:摩纳哥赛程
 URL;VALUE=URI:https://www.uefa.com/uefaconferenceleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uecl-mon-uecl-2026-401915627@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261218T040000
 DTEND;TZID=Asia/Shanghai:20261218T050000
-SUMMARY:AS Monaco赛程 · 联赛阶段 · AS Monaco vs 林肯红色矮人
-DESCRIPTION:林肯红色矮人 作客 AS Monaco（欧协联 2026-27 赛季
-  联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: AS Monaco
+SUMMARY:摩纳哥赛程 · 联赛阶段 · 摩纳哥 vs 林肯红色矮人
+DESCRIPTION:林肯红色矮人 作客 摩纳哥（欧协联 2026-27 赛季
+  联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 摩纳哥
  \n客场: 林肯红色矮人\n场馆: Stade Louis II\n城市: Monaco
-CATEGORIES:AS Monaco赛程
+CATEGORIES:摩纳哥赛程
 URL;VALUE=URI:https://www.uefa.com/uefaconferenceleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT

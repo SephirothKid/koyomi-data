@@ -2,120 +2,121 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Koyomi Cast//ucl-como//EN
 URL:https://koyomi.cast/sources/ucl
-NAME:Como赛程
-X-WR-CALNAME:Como赛程
-X-WR-CALDESC:Como在欧冠赛程中的比赛日程，自动同步更新。
+NAME:科莫赛程
+X-WR-CALNAME:科莫赛程
+X-WR-CALDESC:科莫在欧冠赛程中的比赛日程，自动同步更新
+ 。
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:ucl-como-ucl-2026-401915441@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260829T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20260911T030000
 DTEND;TZID=Asia/Shanghai:20260911T040000
-SUMMARY:Como赛程 · 联赛阶段 · Como vs RB Leipzig
-DESCRIPTION:RB Leipzig 作客 Como（欧冠 2026-27 赛季 联赛阶段，
- 北京时间）\n\n阶段: 联赛阶段\n主场: Como\n客场: RB Leipzig\
- n场馆: Giuseppe Sinigaglia\n城市: Como
-CATEGORIES:Como赛程
+SUMMARY:科莫赛程 · 联赛阶段 · 科莫 vs 莱比锡
+DESCRIPTION:莱比锡 作客 科莫（欧冠 2026-27 赛季 联赛阶段
+ ，北京时间）\n\n阶段: 联赛阶段\n主场: 科莫\n客场: 莱比
+ 锡\n场馆: Giuseppe Sinigaglia\n城市: Como
+CATEGORIES:科莫赛程
 URL;VALUE=URI:https://www.uefa.com/uefachampionsleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ucl-como-ucl-2026-401915416@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260829T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261015T004500
 DTEND;TZID=Asia/Shanghai:20261015T014500
-SUMMARY:Como赛程 · 联赛阶段 · Como @ Feyenoord Rotterdam
-DESCRIPTION:Como 作客 Feyenoord Rotterdam（欧冠 2026-27 赛季 联赛
- 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Feyenoord Rotter
- dam\n客场: Como\n场馆: De Kuip\n城市: Rotterdam
-CATEGORIES:Como赛程
+SUMMARY:科莫赛程 · 联赛阶段 · 科莫 @ 费耶诺德
+DESCRIPTION:科莫 作客 费耶诺德（欧冠 2026-27 赛季 联赛阶
+ 段，北京时间）\n\n阶段: 联赛阶段\n主场: 费耶诺德\n客
+ 场: 科莫\n场馆: De Kuip\n城市: Rotterdam
+CATEGORIES:科莫赛程
 URL;VALUE=URI:https://www.uefa.com/uefachampionsleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ucl-como-ucl-2026-401915395@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260829T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261022T004500
 DTEND;TZID=Asia/Shanghai:20261022T014500
-SUMMARY:Como赛程 · 联赛阶段 · Como vs Manchester United
-DESCRIPTION:Manchester United 作客 Como（欧冠 2026-27 赛季 联赛
- 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Como\n客场: Ma
- nchester United\n场馆: Giuseppe Sinigaglia\n城市: Como
-CATEGORIES:Como赛程
+SUMMARY:科莫赛程 · 联赛阶段 · 科莫 vs 曼联
+DESCRIPTION:曼联 作客 科莫（欧冠 2026-27 赛季 联赛阶段，
+ 北京时间）\n\n阶段: 联赛阶段\n主场: 科莫\n客场: 曼联\n
+ 场馆: Giuseppe Sinigaglia\n城市: Como
+CATEGORIES:科莫赛程
 URL;VALUE=URI:https://www.uefa.com/uefachampionsleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ucl-como-ucl-2026-401915305@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260829T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261105T040000
 DTEND;TZID=Asia/Shanghai:20261105T050000
-SUMMARY:Como赛程 · 联赛阶段 · Como @ Lens
-DESCRIPTION:Como 作客 Lens（欧冠 2026-27 赛季 联赛阶段，北京
- 时间）\n\n阶段: 联赛阶段\n主场: Lens\n客场: Como\n场馆: Sta
- de Bollaert-Delelis\n城市: Lens
-CATEGORIES:Como赛程
+SUMMARY:科莫赛程 · 联赛阶段 · 科莫 @ 朗斯
+DESCRIPTION:科莫 作客 朗斯（欧冠 2026-27 赛季 联赛阶段，
+ 北京时间）\n\n阶段: 联赛阶段\n主场: 朗斯\n客场: 科莫\n
+ 场馆: Stade Bollaert-Delelis\n城市: Lens
+CATEGORIES:科莫赛程
 URL;VALUE=URI:https://www.uefa.com/uefachampionsleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ucl-como-ucl-2026-401915296@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260829T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261125T040000
 DTEND;TZID=Asia/Shanghai:20261125T050000
-SUMMARY:Como赛程 · 联赛阶段 · Como vs AEK Athens
-DESCRIPTION:AEK Athens 作客 Como（欧冠 2026-27 赛季 联赛阶段，
- 北京时间）\n\n阶段: 联赛阶段\n主场: Como\n客场: AEK Athens\
- n场馆: Giuseppe Sinigaglia\n城市: Como
-CATEGORIES:Como赛程
+SUMMARY:科莫赛程 · 联赛阶段 · 科莫 vs 雅典AEK
+DESCRIPTION:雅典AEK 作客 科莫（欧冠 2026-27 赛季 联赛阶段
+ ，北京时间）\n\n阶段: 联赛阶段\n主场: 科莫\n客场: 雅典
+ AEK\n场馆: Giuseppe Sinigaglia\n城市: Como
+CATEGORIES:科莫赛程
 URL;VALUE=URI:https://www.uefa.com/uefachampionsleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ucl-como-ucl-2026-401915283@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260829T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261210T014500
 DTEND;TZID=Asia/Shanghai:20261210T024500
-SUMMARY:Como赛程 · 联赛阶段 · Como @ Real Betis
-DESCRIPTION:Como 作客 Real Betis（欧冠 2026-27 赛季 联赛阶段，
- 北京时间）\n\n阶段: 联赛阶段\n主场: Real Betis\n客场: Como\
- n场馆: Estadio La Cartuja\n城市: Sevilla
-CATEGORIES:Como赛程
+SUMMARY:科莫赛程 · 联赛阶段 · 科莫 @ 皇家贝蒂斯
+DESCRIPTION:科莫 作客 皇家贝蒂斯（欧冠 2026-27 赛季 联赛
+ 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 皇家贝蒂斯\
+ n客场: 科莫\n场馆: Estadio La Cartuja\n城市: Sevilla
+CATEGORIES:科莫赛程
 URL;VALUE=URI:https://www.uefa.com/uefachampionsleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ucl-como-ucl-2026-401915273@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260829T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20270121T040000
 DTEND;TZID=Asia/Shanghai:20270121T050000
-SUMMARY:Como赛程 · 联赛阶段 · Como vs 巴黎圣日耳曼
-DESCRIPTION:巴黎圣日耳曼 作客 Como（欧冠 2026-27 赛季 联赛
- 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Como\n客场: 
- 巴黎圣日耳曼\n场馆: Giuseppe Sinigaglia\n城市: Como
-CATEGORIES:Como赛程
+SUMMARY:科莫赛程 · 联赛阶段 · 科莫 vs 巴黎圣日耳曼
+DESCRIPTION:巴黎圣日耳曼 作客 科莫（欧冠 2026-27 赛季 联
+ 赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 科莫\n客
+ 场: 巴黎圣日耳曼\n场馆: Giuseppe Sinigaglia\n城市: Como
+CATEGORIES:科莫赛程
 URL;VALUE=URI:https://www.uefa.com/uefachampionsleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ucl-como-ucl-2026-401915264@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260829T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20270128T040000
 DTEND;TZID=Asia/Shanghai:20270128T050000
-SUMMARY:Como赛程 · 联赛阶段 · Como @ 巴塞罗那
-DESCRIPTION:Como 作客 巴塞罗那（欧冠 2026-27 赛季 联赛阶段
- ，北京时间）\n\n阶段: 联赛阶段\n主场: 巴塞罗那\n客场: 
- Como\n场馆: Spotify Camp Nou\n城市: Barcelona
-CATEGORIES:Como赛程
+SUMMARY:科莫赛程 · 联赛阶段 · 科莫 @ 巴塞罗那
+DESCRIPTION:科莫 作客 巴塞罗那（欧冠 2026-27 赛季 联赛阶
+ 段，北京时间）\n\n阶段: 联赛阶段\n主场: 巴塞罗那\n客
+ 场: 科莫\n场馆: Spotify Camp Nou\n城市: Barcelona
+CATEGORIES:科莫赛程
 URL;VALUE=URI:https://www.uefa.com/uefachampionsleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT

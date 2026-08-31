@@ -2,127 +2,121 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Koyomi Cast//uel-ren//EN
 URL:https://koyomi.cast/sources/uel
-NAME:Stade Rennais赛程
-X-WR-CALNAME:Stade Rennais赛程
-X-WR-CALDESC:Stade Rennais在欧联杯赛程中的比赛日程，自动同
- 步更新。
+NAME:雷恩赛程
+X-WR-CALNAME:雷恩赛程
+X-WR-CALDESC:雷恩在欧联杯赛程中的比赛日程，自动同步更
+ 新。
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:uel-ren-uel-2026-401915593@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20260917T030000
 DTEND;TZID=Asia/Shanghai:20260917T040000
-SUMMARY:Stade Rennais赛程 · 联赛阶段 · Stade Rennais @ 格拉茨
- 风暴
-DESCRIPTION:Stade Rennais 作客 格拉茨风暴（欧联杯 2026-27 赛
- 季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 格拉
- 茨风暴\n客场: Stade Rennais\n场馆: Merkur Arena\n城市: Graz
-CATEGORIES:Stade Rennais赛程
+SUMMARY:雷恩赛程 · 联赛阶段 · 雷恩 @ 格拉茨风暴
+DESCRIPTION:雷恩 作客 格拉茨风暴（欧联杯 2026-27 赛季 联
+ 赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 格拉茨风
+ 暴\n客场: 雷恩\n场馆: Merkur Arena\n城市: Graz
+CATEGORIES:雷恩赛程
 URL;VALUE=URI:https://www.uefa.com/uefaeuropaleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uel-ren-uel-2026-401915572@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261016T030000
 DTEND;TZID=Asia/Shanghai:20261016T040000
-SUMMARY:Stade Rennais赛程 · 联赛阶段 · Stade Rennais vs OFI Crete
-DESCRIPTION:OFI Crete 作客 Stade Rennais（欧联杯 2026-27 赛季 联
- 赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Stade Rennais
- \n客场: OFI Crete\n场馆: Roazhon Park\n城市: Rennes
-CATEGORIES:Stade Rennais赛程
+SUMMARY:雷恩赛程 · 联赛阶段 · 雷恩 vs 克里特OFI
+DESCRIPTION:克里特OFI 作客 雷恩（欧联杯 2026-27 赛季 联赛
+ 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 雷恩\n客场: 
+ 克里特OFI\n场馆: Roazhon Park\n城市: Rennes
+CATEGORIES:雷恩赛程
 URL;VALUE=URI:https://www.uefa.com/uefaeuropaleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uel-ren-uel-2026-401915547@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261023T004500
 DTEND;TZID=Asia/Shanghai:20261023T014500
-SUMMARY:Stade Rennais赛程 · 联赛阶段 · Stade Rennais @ Juventus
-DESCRIPTION:Stade Rennais 作客 Juventus（欧联杯 2026-27 赛季 联
- 赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Juventus\n客
- 场: Stade Rennais\n场馆: Allianz Stadium\n城市: Torino
-CATEGORIES:Stade Rennais赛程
+SUMMARY:雷恩赛程 · 联赛阶段 · 雷恩 @ 尤文图斯
+DESCRIPTION:雷恩 作客 尤文图斯（欧联杯 2026-27 赛季 联赛
+ 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 尤文图斯\n
+ 客场: 雷恩\n场馆: Allianz Stadium\n城市: Torino
+CATEGORIES:雷恩赛程
 URL;VALUE=URI:https://www.uefa.com/uefaeuropaleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uel-ren-uel-2026-401915551@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261106T014500
 DTEND;TZID=Asia/Shanghai:20261106T024500
-SUMMARY:Stade Rennais赛程 · 联赛阶段 · Stade Rennais vs Olympiacos
-DESCRIPTION:Olympiacos 作客 Stade Rennais（欧联杯 2026-27 赛季 联
- 赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Stade Rennais
- \n客场: Olympiacos\n场馆: Roazhon Park\n城市: Rennes
-CATEGORIES:Stade Rennais赛程
+SUMMARY:雷恩赛程 · 联赛阶段 · 雷恩 vs 奥林匹亚科斯
+DESCRIPTION:奥林匹亚科斯 作客 雷恩（欧联杯 2026-27 赛季 
+ 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 雷恩\n
+ 客场: 奥林匹亚科斯\n场馆: Roazhon Park\n城市: Rennes
+CATEGORIES:雷恩赛程
 URL;VALUE=URI:https://www.uefa.com/uefaeuropaleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uel-ren-uel-2026-401915505@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261127T040000
 DTEND;TZID=Asia/Shanghai:20261127T050000
-SUMMARY:Stade Rennais赛程 · 联赛阶段 · Stade Rennais @ NEC Nijmege
- n
-DESCRIPTION:Stade Rennais 作客 NEC Nijmegen（欧联杯 2026-27 赛季 
- 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: NEC Nijmeg
- en\n客场: Stade Rennais\n场馆: Goffertstadion\n城市: Nijmegen
-CATEGORIES:Stade Rennais赛程
+SUMMARY:雷恩赛程 · 联赛阶段 · 雷恩 @ 奈梅亨
+DESCRIPTION:雷恩 作客 奈梅亨（欧联杯 2026-27 赛季 联赛阶
+ 段，北京时间）\n\n阶段: 联赛阶段\n主场: 奈梅亨\n客场: 
+ 雷恩\n场馆: Goffertstadion\n城市: Nijmegen
+CATEGORIES:雷恩赛程
 URL;VALUE=URI:https://www.uefa.com/uefaeuropaleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uel-ren-uel-2026-401915497@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261211T014500
 DTEND;TZID=Asia/Shanghai:20261211T024500
-SUMMARY:Stade Rennais赛程 · 联赛阶段 · Stade Rennais vs 萨格勒
- 布迪纳摩
-DESCRIPTION:萨格勒布迪纳摩 作客 Stade Rennais（欧联杯 2026-27
-  赛季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: St
- ade Rennais\n客场: 萨格勒布迪纳摩\n场馆: Roazhon Park\n城市: 
- Rennes
-CATEGORIES:Stade Rennais赛程
+SUMMARY:雷恩赛程 · 联赛阶段 · 雷恩 vs 萨格勒布迪纳摩
+DESCRIPTION:萨格勒布迪纳摩 作客 雷恩（欧联杯 2026-27 赛季
+  联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 雷恩\n
+ 客场: 萨格勒布迪纳摩\n场馆: Roazhon Park\n城市: Rennes
+CATEGORIES:雷恩赛程
 URL;VALUE=URI:https://www.uefa.com/uefaeuropaleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uel-ren-uel-2026-401915476@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20270122T040000
 DTEND;TZID=Asia/Shanghai:20270122T050000
-SUMMARY:Stade Rennais赛程 · 联赛阶段 · Stade Rennais vs Omonia Nic
- osia
-DESCRIPTION:Omonia Nicosia 作客 Stade Rennais（欧联杯 2026-27 赛季
-  联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Stade Ren
- nais\n客场: Omonia Nicosia\n场馆: Roazhon Park\n城市: Rennes
-CATEGORIES:Stade Rennais赛程
+SUMMARY:雷恩赛程 · 联赛阶段 · 雷恩 vs 尼科西亚奥莫尼亚
+DESCRIPTION:尼科西亚奥莫尼亚 作客 雷恩（欧联杯 2026-27 赛
+ 季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 雷恩
+ \n客场: 尼科西亚奥莫尼亚\n场馆: Roazhon Park\n城市: Rennes
+CATEGORIES:雷恩赛程
 URL;VALUE=URI:https://www.uefa.com/uefaeuropaleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uel-ren-uel-2026-401915464@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20270129T040000
 DTEND;TZID=Asia/Shanghai:20270129T050000
-SUMMARY:Stade Rennais赛程 · 联赛阶段 · Stade Rennais @ Sparta Prag
- ue
-DESCRIPTION:Stade Rennais 作客 Sparta Prague（欧联杯 2026-27 赛季 
- 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Sparta Pra
- gue\n客场: Stade Rennais\n场馆: Generali Arena\n城市: Prague
-CATEGORIES:Stade Rennais赛程
+SUMMARY:雷恩赛程 · 联赛阶段 · 雷恩 @ 布拉格斯巴达
+DESCRIPTION:雷恩 作客 布拉格斯巴达（欧联杯 2026-27 赛季 
+ 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 布拉格
+ 斯巴达\n客场: 雷恩\n场馆: Generali Arena\n城市: Prague
+CATEGORIES:雷恩赛程
 URL;VALUE=URI:https://www.uefa.com/uefaeuropaleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT

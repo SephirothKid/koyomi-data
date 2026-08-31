@@ -2,95 +2,96 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Koyomi Cast//uecl-scf//EN
 URL:https://koyomi.cast/sources/uecl
-NAME:SC Freiburg赛程
-X-WR-CALNAME:SC Freiburg赛程
-X-WR-CALDESC:SC Freiburg在欧协联赛程中的比赛日程，自动同
- 步更新。
+NAME:弗莱堡赛程
+X-WR-CALNAME:弗莱堡赛程
+X-WR-CALDESC:弗莱堡在欧协联赛程中的比赛日程，自动同步
+ 更新。
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:uecl-scf-uecl-2026-401915848@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261016T030000
 DTEND;TZID=Asia/Shanghai:20261016T040000
-SUMMARY:SC Freiburg赛程 · 联赛阶段 · SC Freiburg vs Jablonec
-DESCRIPTION:Jablonec 作客 SC Freiburg（欧协联 2026-27 赛季 联赛
- 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: SC Freiburg\n客
- 场: Jablonec\n场馆: Europa-Park Stadion\n城市: Freiburg im Breisgau
-CATEGORIES:SC Freiburg赛程
+SUMMARY:弗莱堡赛程 · 联赛阶段 · 弗莱堡 vs 亚布洛内茨
+DESCRIPTION:亚布洛内茨 作客 弗莱堡（欧协联 2026-27 赛季 
+ 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 弗莱堡\
+ n客场: 亚布洛内茨\n场馆: Europa-Park Stadion\n城市: Freiburg im
+  Breisgau
+CATEGORIES:弗莱堡赛程
 URL;VALUE=URI:https://www.uefa.com/uefaconferenceleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uecl-scf-uecl-2026-401915836@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261023T030000
 DTEND;TZID=Asia/Shanghai:20261023T040000
-SUMMARY:SC Freiburg赛程 · 联赛阶段 · SC Freiburg @ AS Monaco
-DESCRIPTION:SC Freiburg 作客 AS Monaco（欧协联 2026-27 赛季 联赛
- 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: AS Monaco\n客
- 场: SC Freiburg\n场馆: Stade Louis II\n城市: Monaco
-CATEGORIES:SC Freiburg赛程
+SUMMARY:弗莱堡赛程 · 联赛阶段 · 弗莱堡 @ 摩纳哥
+DESCRIPTION:弗莱堡 作客 摩纳哥（欧协联 2026-27 赛季 联赛
+ 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 摩纳哥\n客
+ 场: 弗莱堡\n场馆: Stade Louis II\n城市: Monaco
+CATEGORIES:弗莱堡赛程
 URL;VALUE=URI:https://www.uefa.com/uefaconferenceleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uecl-scf-uecl-2026-401915825@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261106T014500
 DTEND;TZID=Asia/Shanghai:20261106T024500
-SUMMARY:SC Freiburg赛程 · 联赛阶段 · SC Freiburg @ Trabzonspor
-DESCRIPTION:SC Freiburg 作客 Trabzonspor（欧协联 2026-27 赛季 联
- 赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Trabzonspor\n
- 客场: SC Freiburg\n场馆: Papara Park\n城市: Trabzon
-CATEGORIES:SC Freiburg赛程
+SUMMARY:弗莱堡赛程 · 联赛阶段 · 弗莱堡 @ 特拉布宗体育
+DESCRIPTION:弗莱堡 作客 特拉布宗体育（欧协联 2026-27 赛季
+  联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 特拉布
+ 宗体育\n客场: 弗莱堡\n场馆: Papara Park\n城市: Trabzon
+CATEGORIES:弗莱堡赛程
 URL;VALUE=URI:https://www.uefa.com/uefaconferenceleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uecl-scf-uecl-2026-401915801@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261127T040000
 DTEND;TZID=Asia/Shanghai:20261127T050000
-SUMMARY:SC Freiburg赛程 · 联赛阶段 · SC Freiburg vs FC Twente
-DESCRIPTION:FC Twente 作客 SC Freiburg（欧协联 2026-27 赛季 联赛
- 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: SC Freiburg\n客
- 场: FC Twente\n场馆: Europa-Park Stadion\n城市: Freiburg im Breisgau
-CATEGORIES:SC Freiburg赛程
+SUMMARY:弗莱堡赛程 · 联赛阶段 · 弗莱堡 vs 特温特
+DESCRIPTION:特温特 作客 弗莱堡（欧协联 2026-27 赛季 联赛
+ 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 弗莱堡\n客
+ 场: 特温特\n场馆: Europa-Park Stadion\n城市: Freiburg im Breisgau
+CATEGORIES:弗莱堡赛程
 URL;VALUE=URI:https://www.uefa.com/uefaconferenceleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uecl-scf-uecl-2026-401915733@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261211T014500
 DTEND;TZID=Asia/Shanghai:20261211T024500
-SUMMARY:SC Freiburg赛程 · 联赛阶段 · SC Freiburg vs Panathinaikos
-DESCRIPTION:Panathinaikos 作客 SC Freiburg（欧协联 2026-27 赛季 
- 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: SC Freibur
- g\n客场: Panathinaikos\n场馆: Europa-Park Stadion\n城市: Freiburg im
-  Breisgau
-CATEGORIES:SC Freiburg赛程
+SUMMARY:弗莱堡赛程 · 联赛阶段 · 弗莱堡 vs 泛雅典
+DESCRIPTION:泛雅典 作客 弗莱堡（欧协联 2026-27 赛季 联赛
+ 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 弗莱堡\n客
+ 场: 泛雅典\n场馆: Europa-Park Stadion\n城市: Freiburg im Breisgau
+CATEGORIES:弗莱堡赛程
 URL;VALUE=URI:https://www.uefa.com/uefaconferenceleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uecl-scf-uecl-2026-401915620@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261218T040000
 DTEND;TZID=Asia/Shanghai:20261218T050000
-SUMMARY:SC Freiburg赛程 · 联赛阶段 · SC Freiburg @ Kauno Zalgiris
-DESCRIPTION:SC Freiburg 作客 Kauno Zalgiris（欧协联 2026-27 赛季 
- 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Kauno Zalg
- iris\n客场: SC Freiburg\n场馆: S. Darius and S. Gireno Stadium\n城市
- : Kaunas
-CATEGORIES:SC Freiburg赛程
+SUMMARY:弗莱堡赛程 · 联赛阶段 · 弗莱堡 @ 考纳斯扎尔吉
+ 里斯
+DESCRIPTION:弗莱堡 作客 考纳斯扎尔吉里斯（欧协联 2026-27 
+ 赛季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 考
+ 纳斯扎尔吉里斯\n客场: 弗莱堡\n场馆: S. Darius and S. Gireno 
+ Stadium\n城市: Kaunas
+CATEGORIES:弗莱堡赛程
 URL;VALUE=URI:https://www.uefa.com/uefaconferenceleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT

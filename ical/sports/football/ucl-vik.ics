@@ -2,122 +2,121 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Koyomi Cast//ucl-vik//EN
 URL:https://koyomi.cast/sources/ucl
-NAME:Viking FK赛程
-X-WR-CALNAME:Viking FK赛程
-X-WR-CALDESC:Viking FK在欧冠赛程中的比赛日程，自动同步更
- 新。
+NAME:维京赛程
+X-WR-CALNAME:维京赛程
+X-WR-CALDESC:维京在欧冠赛程中的比赛日程，自动同步更新
+ 。
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:ucl-vik-ucl-2026-401915448@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260829T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20260910T004500
 DTEND;TZID=Asia/Shanghai:20260910T014500
-SUMMARY:Viking FK赛程 · 联赛阶段 · Viking FK @ VfB Stuttgart
-DESCRIPTION:Viking FK 作客 VfB Stuttgart（欧冠 2026-27 赛季 联赛
- 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: VfB Stuttgart\n
- 客场: Viking FK\n场馆: MHPArena\n城市: Stuttgart
-CATEGORIES:Viking FK赛程
+SUMMARY:维京赛程 · 联赛阶段 · 维京 @ 斯图加特
+DESCRIPTION:维京 作客 斯图加特（欧冠 2026-27 赛季 联赛阶
+ 段，北京时间）\n\n阶段: 联赛阶段\n主场: 斯图加特\n客
+ 场: 维京\n场馆: MHPArena\n城市: Stuttgart
+CATEGORIES:维京赛程
 URL;VALUE=URI:https://www.uefa.com/uefachampionsleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ucl-vik-ucl-2026-401915411@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260829T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261014T030000
 DTEND;TZID=Asia/Shanghai:20261014T040000
-SUMMARY:Viking FK赛程 · 联赛阶段 · Viking FK vs 拜仁慕尼黑
-DESCRIPTION:拜仁慕尼黑 作客 Viking FK（欧冠 2026-27 赛季 联
- 赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Viking FK\n
- 客场: 拜仁慕尼黑\n场馆: Viking Stadion\n城市: Stavanger
-CATEGORIES:Viking FK赛程
+SUMMARY:维京赛程 · 联赛阶段 · 维京 vs 拜仁慕尼黑
+DESCRIPTION:拜仁慕尼黑 作客 维京（欧冠 2026-27 赛季 联赛
+ 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 维京\n客场: 
+ 拜仁慕尼黑\n场馆: Viking Stadion\n城市: Stavanger
+CATEGORIES:维京赛程
 URL;VALUE=URI:https://www.uefa.com/uefachampionsleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ucl-vik-ucl-2026-401915394@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260829T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261022T030000
 DTEND;TZID=Asia/Shanghai:20261022T040000
-SUMMARY:Viking FK赛程 · 联赛阶段 · Viking FK @ Aston Villa
-DESCRIPTION:Viking FK 作客 Aston Villa（欧冠 2026-27 赛季 联赛阶
- 段，北京时间）\n\n阶段: 联赛阶段\n主场: Aston Villa\n客场
- : Viking FK\n场馆: Villa Park\n城市: Birmingham
-CATEGORIES:Viking FK赛程
+SUMMARY:维京赛程 · 联赛阶段 · 维京 @ 阿斯顿维拉
+DESCRIPTION:维京 作客 阿斯顿维拉（欧冠 2026-27 赛季 联赛
+ 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 阿斯顿维拉\
+ n客场: 维京\n场馆: Villa Park\n城市: Birmingham
+CATEGORIES:维京赛程
 URL;VALUE=URI:https://www.uefa.com/uefachampionsleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ucl-vik-ucl-2026-401915302@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260829T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261105T040000
 DTEND;TZID=Asia/Shanghai:20261105T050000
-SUMMARY:Viking FK赛程 · 联赛阶段 · Viking FK vs Sabah FK
-DESCRIPTION:Sabah FK 作客 Viking FK（欧冠 2026-27 赛季 联赛阶段
- ，北京时间）\n\n阶段: 联赛阶段\n主场: Viking FK\n客场: Sab
- ah FK\n场馆: Viking Stadion\n城市: Stavanger
-CATEGORIES:Viking FK赛程
+SUMMARY:维京赛程 · 联赛阶段 · 维京 vs 萨巴伊尔
+DESCRIPTION:萨巴伊尔 作客 维京（欧冠 2026-27 赛季 联赛阶
+ 段，北京时间）\n\n阶段: 联赛阶段\n主场: 维京\n客场: 萨
+ 巴伊尔\n场馆: Viking Stadion\n城市: Stavanger
+CATEGORIES:维京赛程
 URL;VALUE=URI:https://www.uefa.com/uefachampionsleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ucl-vik-ucl-2026-401915291@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260829T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261126T040000
 DTEND;TZID=Asia/Shanghai:20261126T050000
-SUMMARY:Viking FK赛程 · 联赛阶段 · Viking FK @ 马竞
-DESCRIPTION:Viking FK 作客 马竞（欧冠 2026-27 赛季 联赛阶段
- ，北京时间）\n\n阶段: 联赛阶段\n主场: 马竞\n客场: Viking
-  FK\n场馆: Riyadh Air Metropolitano\n城市: Madrid
-CATEGORIES:Viking FK赛程
+SUMMARY:维京赛程 · 联赛阶段 · 维京 @ 马竞
+DESCRIPTION:维京 作客 马竞（欧冠 2026-27 赛季 联赛阶段，
+ 北京时间）\n\n阶段: 联赛阶段\n主场: 马竞\n客场: 维京\n
+ 场馆: Riyadh Air Metropolitano\n城市: Madrid
+CATEGORIES:维京赛程
 URL;VALUE=URI:https://www.uefa.com/uefachampionsleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ucl-vik-ucl-2026-401915290@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260829T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261209T014500
 DTEND;TZID=Asia/Shanghai:20261209T024500
-SUMMARY:Viking FK赛程 · 联赛阶段 · Viking FK vs Feyenoord Rotterda
- m
-DESCRIPTION:Feyenoord Rotterdam 作客 Viking FK（欧冠 2026-27 赛季 
- 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Viking FK\
- n客场: Feyenoord Rotterdam\n场馆: Viking Stadion\n城市: Stavanger
-CATEGORIES:Viking FK赛程
+SUMMARY:维京赛程 · 联赛阶段 · 维京 vs 费耶诺德
+DESCRIPTION:费耶诺德 作客 维京（欧冠 2026-27 赛季 联赛阶
+ 段，北京时间）\n\n阶段: 联赛阶段\n主场: 维京\n客场: 费
+ 耶诺德\n场馆: Viking Stadion\n城市: Stavanger
+CATEGORIES:维京赛程
 URL;VALUE=URI:https://www.uefa.com/uefachampionsleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ucl-vik-ucl-2026-401915272@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260829T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20270121T040000
 DTEND;TZID=Asia/Shanghai:20270121T050000
-SUMMARY:Viking FK赛程 · 联赛阶段 · Viking FK vs 埃因霍温
-DESCRIPTION:埃因霍温 作客 Viking FK（欧冠 2026-27 赛季 联赛
- 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Viking FK\n客
- 场: 埃因霍温\n场馆: Viking Stadion\n城市: Stavanger
-CATEGORIES:Viking FK赛程
+SUMMARY:维京赛程 · 联赛阶段 · 维京 vs 埃因霍温
+DESCRIPTION:埃因霍温 作客 维京（欧冠 2026-27 赛季 联赛阶
+ 段，北京时间）\n\n阶段: 联赛阶段\n主场: 维京\n客场: 埃
+ 因霍温\n场馆: Viking Stadion\n城市: Stavanger
+CATEGORIES:维京赛程
 URL;VALUE=URI:https://www.uefa.com/uefachampionsleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ucl-vik-ucl-2026-401915268@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260829T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20270128T040000
 DTEND;TZID=Asia/Shanghai:20270128T050000
-SUMMARY:Viking FK赛程 · 联赛阶段 · Viking FK @ 那不勒斯
-DESCRIPTION:Viking FK 作客 那不勒斯（欧冠 2026-27 赛季 联赛
- 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 那不勒斯\n
- 客场: Viking FK\n场馆: Stadio Diego Armando Maradona\n城市: Napoli
-CATEGORIES:Viking FK赛程
+SUMMARY:维京赛程 · 联赛阶段 · 维京 @ 那不勒斯
+DESCRIPTION:维京 作客 那不勒斯（欧冠 2026-27 赛季 联赛阶
+ 段，北京时间）\n\n阶段: 联赛阶段\n主场: 那不勒斯\n客
+ 场: 维京\n场馆: Stadio Diego Armando Maradona\n城市: Napoli
+CATEGORIES:维京赛程
 URL;VALUE=URI:https://www.uefa.com/uefachampionsleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT

@@ -2,121 +2,132 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Koyomi Cast//uel-bes//EN
 URL:https://koyomi.cast/sources/uel
-NAME:Besiktas赛程
-X-WR-CALNAME:Besiktas赛程
-X-WR-CALDESC:Besiktas在欧联杯赛程中的比赛日程，自动同步
- 更新。
+NAME:贝西克塔斯赛程
+X-WR-CALNAME:贝西克塔斯赛程
+X-WR-CALDESC:贝西克塔斯在欧联杯赛程中的比赛日程，自动
+ 同步更新。
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:uel-bes-uel-2026-401915591@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20260918T030000
 DTEND;TZID=Asia/Shanghai:20260918T040000
-SUMMARY:Besiktas赛程 · 联赛阶段 · Besiktas vs Marseille
-DESCRIPTION:Marseille 作客 Besiktas（欧联杯 2026-27 赛季 联赛阶
- 段，北京时间）\n\n阶段: 联赛阶段\n主场: Besiktas\n客场: M
- arseille\n场馆: Vodafone Park\n城市: Istanbul
-CATEGORIES:Besiktas赛程
+SUMMARY:贝西克塔斯赛程 · 联赛阶段 · 贝西克塔斯 vs 马赛
+DESCRIPTION:马赛 作客 贝西克塔斯（欧联杯 2026-27 赛季 联
+ 赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 贝西克塔
+ 斯\n客场: 马赛\n场馆: Vodafone Park\n城市: Istanbul
+CATEGORIES:贝西克塔斯赛程
 URL;VALUE=URI:https://www.uefa.com/uefaeuropaleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uel-bes-uel-2026-401915563@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261016T030000
 DTEND;TZID=Asia/Shanghai:20261016T040000
-SUMMARY:Besiktas赛程 · 联赛阶段 · Besiktas @ TSG Hoffenheim
-DESCRIPTION:Besiktas 作客 TSG Hoffenheim（欧联杯 2026-27 赛季 联
- 赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: TSG Hoffenhei
- m\n客场: Besiktas\n场馆: PreZero Arena\n城市: Sinsheim
-CATEGORIES:Besiktas赛程
+SUMMARY:贝西克塔斯赛程 · 联赛阶段 · 贝西克塔斯 @ 霍芬
+ 海姆
+DESCRIPTION:贝西克塔斯 作客 霍芬海姆（欧联杯 2026-27 赛季
+  联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 霍芬海
+ 姆\n客场: 贝西克塔斯\n场馆: PreZero Arena\n城市: Sinsheim
+CATEGORIES:贝西克塔斯赛程
 URL;VALUE=URI:https://www.uefa.com/uefaeuropaleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uel-bes-uel-2026-401915553@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261023T030000
 DTEND;TZID=Asia/Shanghai:20261023T040000
-SUMMARY:Besiktas赛程 · 联赛阶段 · Besiktas vs Crystal Palace
-DESCRIPTION:Crystal Palace 作客 Besiktas（欧联杯 2026-27 赛季 联
- 赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Besiktas\n客
- 场: Crystal Palace\n场馆: Vodafone Park\n城市: Istanbul
-CATEGORIES:Besiktas赛程
+SUMMARY:贝西克塔斯赛程 · 联赛阶段 · 贝西克塔斯 vs 克里
+ 斯托尔宫
+DESCRIPTION:克里斯托尔宫 作客 贝西克塔斯（欧联杯 2026-27 
+ 赛季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 贝
+ 西克塔斯\n客场: 克里斯托尔宫\n场馆: Vodafone Park\n城市: I
+ stanbul
+CATEGORIES:贝西克塔斯赛程
 URL;VALUE=URI:https://www.uefa.com/uefaeuropaleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uel-bes-uel-2026-401915522@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261106T040000
 DTEND;TZID=Asia/Shanghai:20261106T050000
-SUMMARY:Besiktas赛程 · 联赛阶段 · Besiktas @ 凯尔特人
-DESCRIPTION:Besiktas 作客 凯尔特人（欧联杯 2026-27 赛季 联赛
- 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 凯尔特人\n
- 客场: Besiktas\n场馆: Celtic Park\n城市: Glasgow
-CATEGORIES:Besiktas赛程
+SUMMARY:贝西克塔斯赛程 · 联赛阶段 · 贝西克塔斯 @ 凯尔
+ 特人
+DESCRIPTION:贝西克塔斯 作客 凯尔特人（欧联杯 2026-27 赛季
+  联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 凯尔特
+ 人\n客场: 贝西克塔斯\n场馆: Celtic Park\n城市: Glasgow
+CATEGORIES:贝西克塔斯赛程
 URL;VALUE=URI:https://www.uefa.com/uefaeuropaleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uel-bes-uel-2026-401915506@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261127T014500
 DTEND;TZID=Asia/Shanghai:20261127T024500
-SUMMARY:Besiktas赛程 · 联赛阶段 · Besiktas vs Hapoel Be'er
-DESCRIPTION:Hapoel Be'er 作客 Besiktas（欧联杯 2026-27 赛季 联赛
- 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Besiktas\n客场
- : Hapoel Be'er\n场馆: Vodafone Park\n城市: Istanbul
-CATEGORIES:Besiktas赛程
+SUMMARY:贝西克塔斯赛程 · 联赛阶段 · 贝西克塔斯 vs 贝尔
+ 谢巴夏普尔
+DESCRIPTION:贝尔谢巴夏普尔 作客 贝西克塔斯（欧联杯 2026-
+ 27 赛季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 
+ 贝西克塔斯\n客场: 贝尔谢巴夏普尔\n场馆: Vodafone Park\n城
+ 市: Istanbul
+CATEGORIES:贝西克塔斯赛程
 URL;VALUE=URI:https://www.uefa.com/uefaeuropaleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uel-bes-uel-2026-401915492@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261211T040000
 DTEND;TZID=Asia/Shanghai:20261211T050000
-SUMMARY:Besiktas赛程 · 联赛阶段 · Besiktas @ Bayer Leverkusen
-DESCRIPTION:Besiktas 作客 Bayer Leverkusen（欧联杯 2026-27 赛季 
- 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Bayer Leve
- rkusen\n客场: Besiktas\n场馆: BayArena\n城市: Leverkusen
-CATEGORIES:Besiktas赛程
+SUMMARY:贝西克塔斯赛程 · 联赛阶段 · 贝西克塔斯 @ 勒沃
+ 库森
+DESCRIPTION:贝西克塔斯 作客 勒沃库森（欧联杯 2026-27 赛季
+  联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 勒沃库
+ 森\n客场: 贝西克塔斯\n场馆: BayArena\n城市: Leverkusen
+CATEGORIES:贝西克塔斯赛程
 URL;VALUE=URI:https://www.uefa.com/uefaeuropaleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uel-bes-uel-2026-401915509@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20270122T014500
 DTEND;TZID=Asia/Shanghai:20270122T024500
-SUMMARY:Besiktas赛程 · 联赛阶段 · Besiktas vs Union St.-Gilloise
-DESCRIPTION:Union St.-Gilloise 作客 Besiktas（欧联杯 2026-27 赛季 
- 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Besiktas\n
- 客场: Union St.-Gilloise\n场馆: Vodafone Park\n城市: Istanbul
-CATEGORIES:Besiktas赛程
+SUMMARY:贝西克塔斯赛程 · 联赛阶段 · 贝西克塔斯 vs 圣日
+ 洛瓦联
+DESCRIPTION:圣日洛瓦联 作客 贝西克塔斯（欧联杯 2026-27 赛
+ 季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 贝西
+ 克塔斯\n客场: 圣日洛瓦联\n场馆: Vodafone Park\n城市: Istanbu
+ l
+CATEGORIES:贝西克塔斯赛程
 URL;VALUE=URI:https://www.uefa.com/uefaeuropaleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uel-bes-uel-2026-401915469@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20270129T040000
 DTEND;TZID=Asia/Shanghai:20270129T050000
-SUMMARY:Besiktas赛程 · 联赛阶段 · Besiktas @ Omonia Nicosia
-DESCRIPTION:Besiktas 作客 Omonia Nicosia（欧联杯 2026-27 赛季 联
- 赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Omonia Nicosi
- a\n客场: Besiktas\n场馆: GSP Stadium\n城市: Nicosia
-CATEGORIES:Besiktas赛程
+SUMMARY:贝西克塔斯赛程 · 联赛阶段 · 贝西克塔斯 @ 尼科
+ 西亚奥莫尼亚
+DESCRIPTION:贝西克塔斯 作客 尼科西亚奥莫尼亚（欧联杯 20
+ 26-27 赛季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主
+ 场: 尼科西亚奥莫尼亚\n客场: 贝西克塔斯\n场馆: GSP Stadiu
+ m\n城市: Nicosia
+CATEGORIES:贝西克塔斯赛程
 URL;VALUE=URI:https://www.uefa.com/uefaeuropaleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT

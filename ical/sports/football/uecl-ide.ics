@@ -2,101 +2,104 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Koyomi Cast//uecl-ide//EN
 URL:https://koyomi.cast/sources/uecl
-NAME:Inter D'Escaldes赛程
-X-WR-CALNAME:Inter D'Escaldes赛程
-X-WR-CALDESC:Inter D'Escaldes在欧协联赛程中的比赛日程，自动
- 同步更新。
+NAME:因特埃斯卡尔德斯赛程
+X-WR-CALNAME:因特埃斯卡尔德斯赛程
+X-WR-CALDESC:因特埃斯卡尔德斯在欧协联赛程中的比赛日程
+ ，自动同步更新。
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:uecl-ide-uecl-2026-401915857@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261016T004500
 DTEND;TZID=Asia/Shanghai:20261016T014500
-SUMMARY:Inter D'Escaldes赛程 · 联赛阶段 · Inter D'Escaldes @ Mjäl
- lby AIF
-DESCRIPTION:Inter D'Escaldes 作客 Mjällby AIF（欧协联 2026-27 赛
- 季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Mjäll
- by AIF\n客场: Inter D'Escaldes
-CATEGORIES:Inter D'Escaldes赛程
+SUMMARY:因特埃斯卡尔德斯赛程 · 联赛阶段 · 因特埃斯卡
+ 尔德斯 @ 米耶尔比
+DESCRIPTION:因特埃斯卡尔德斯 作客 米耶尔比（欧协联 2026-
+ 27 赛季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 
+ 米耶尔比\n客场: 因特埃斯卡尔德斯
+CATEGORIES:因特埃斯卡尔德斯赛程
 URL;VALUE=URI:https://www.uefa.com/uefaconferenceleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uecl-ide-uecl-2026-401915839@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261023T004500
 DTEND;TZID=Asia/Shanghai:20261023T014500
-SUMMARY:Inter D'Escaldes赛程 · 联赛阶段 · Inter D'Escaldes vs 克
- 拉约瓦
-DESCRIPTION:克拉约瓦 作客 Inter D'Escaldes（欧协联 2026-27 赛
- 季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Inter 
- D'Escaldes\n客场: 克拉约瓦\n场馆: Estadi de la FAF d'Encamp\n城
- 市: Encamp
-CATEGORIES:Inter D'Escaldes赛程
+SUMMARY:因特埃斯卡尔德斯赛程 · 联赛阶段 · 因特埃斯卡
+ 尔德斯 vs 克拉约瓦
+DESCRIPTION:克拉约瓦 作客 因特埃斯卡尔德斯（欧协联 2026-
+ 27 赛季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 
+ 因特埃斯卡尔德斯\n客场: 克拉约瓦\n场馆: Estadi de la FAF d
+ 'Encamp\n城市: Encamp
+CATEGORIES:因特埃斯卡尔德斯赛程
 URL;VALUE=URI:https://www.uefa.com/uefaconferenceleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uecl-ide-uecl-2026-401915827@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261106T014500
 DTEND;TZID=Asia/Shanghai:20261106T024500
-SUMMARY:Inter D'Escaldes赛程 · 联赛阶段 · Inter D'Escaldes @ Red S
- tar Belgrade
-DESCRIPTION:Inter D'Escaldes 作客 Red Star Belgrade（欧协联 2026-27 
- 赛季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Red
-  Star Belgrade\n客场: Inter D'Escaldes\n场馆: Rajko Mitic Stadium\n城
- 市: Belgrade
-CATEGORIES:Inter D'Escaldes赛程
+SUMMARY:因特埃斯卡尔德斯赛程 · 联赛阶段 · 因特埃斯卡
+ 尔德斯 @ 贝尔格莱德红星
+DESCRIPTION:因特埃斯卡尔德斯 作客 贝尔格莱德红星（欧协
+ 联 2026-27 赛季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\
+ n主场: 贝尔格莱德红星\n客场: 因特埃斯卡尔德斯\n场馆: 
+ Rajko Mitic Stadium\n城市: Belgrade
+CATEGORIES:因特埃斯卡尔德斯赛程
 URL;VALUE=URI:https://www.uefa.com/uefaconferenceleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uecl-ide-uecl-2026-401915738@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261127T040000
 DTEND;TZID=Asia/Shanghai:20261127T050000
-SUMMARY:Inter D'Escaldes赛程 · 联赛阶段 · Inter D'Escaldes vs F.C.
-  København
-DESCRIPTION:F.C. København 作客 Inter D'Escaldes（欧协联 2026-27 
- 赛季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Int
- er D'Escaldes\n客场: F.C. København\n场馆: Estadi de la FAF d'Encamp\
- n城市: Encamp
-CATEGORIES:Inter D'Escaldes赛程
+SUMMARY:因特埃斯卡尔德斯赛程 · 联赛阶段 · 因特埃斯卡
+ 尔德斯 vs 哥本哈根
+DESCRIPTION:哥本哈根 作客 因特埃斯卡尔德斯（欧协联 2026-
+ 27 赛季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 
+ 因特埃斯卡尔德斯\n客场: 哥本哈根\n场馆: Estadi de la FAF d
+ 'Encamp\n城市: Encamp
+CATEGORIES:因特埃斯卡尔德斯赛程
 URL;VALUE=URI:https://www.uefa.com/uefaconferenceleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uecl-ide-uecl-2026-401915736@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261211T014500
 DTEND;TZID=Asia/Shanghai:20261211T024500
-SUMMARY:Inter D'Escaldes赛程 · 联赛阶段 · Inter D'Escaldes @ Getaf
- e
-DESCRIPTION:Inter D'Escaldes 作客 Getafe（欧协联 2026-27 赛季 联
- 赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Getafe\n客
- 场: Inter D'Escaldes\n场馆: Estadio Coliseum\n城市: Getafe
-CATEGORIES:Inter D'Escaldes赛程
+SUMMARY:因特埃斯卡尔德斯赛程 · 联赛阶段 · 因特埃斯卡
+ 尔德斯 @ 赫塔费
+DESCRIPTION:因特埃斯卡尔德斯 作客 赫塔费（欧协联 2026-27 
+ 赛季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 赫
+ 塔费\n客场: 因特埃斯卡尔德斯\n场馆: Estadio Coliseum\n城市
+ : Getafe
+CATEGORIES:因特埃斯卡尔德斯赛程
 URL;VALUE=URI:https://www.uefa.com/uefaconferenceleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uecl-ide-uecl-2026-401915619@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260830T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20261218T040000
 DTEND;TZID=Asia/Shanghai:20261218T050000
-SUMMARY:Inter D'Escaldes赛程 · 联赛阶段 · Inter D'Escaldes vs AGF
-DESCRIPTION:AGF 作客 Inter D'Escaldes（欧协联 2026-27 赛季 联赛
- 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: Inter D'Escaldes
- \n客场: AGF\n场馆: Estadi de la FAF d'Encamp\n城市: Encamp
-CATEGORIES:Inter D'Escaldes赛程
+SUMMARY:因特埃斯卡尔德斯赛程 · 联赛阶段 · 因特埃斯卡
+ 尔德斯 vs 奥胡斯
+DESCRIPTION:奥胡斯 作客 因特埃斯卡尔德斯（欧协联 2026-27 
+ 赛季 联赛阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 因
+ 特埃斯卡尔德斯\n客场: 奥胡斯\n场馆: Estadi de la FAF d'Encam
+ p\n城市: Encamp
+CATEGORIES:因特埃斯卡尔德斯赛程
 URL;VALUE=URI:https://www.uefa.com/uefaconferenceleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
