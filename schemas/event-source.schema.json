@@ -69,6 +69,32 @@
     "rating": { "type": "number" },
     "rating_count": { "type": "integer" },
     "last_updated": { "type": "string", "format": "date" },
+    "checked_at": {
+      "type": "string",
+      "format": "date",
+      "description": "最近一次成功检查上游的日期；与内容变更时间 last_updated 分离。"
+    },
+    "maintenance": {
+      "type": "object",
+      "description": "事件源维护策略，用于年度硬编码源的下一周期告警。",
+      "properties": {
+        "kind": { "type": "string", "enum": ["hardcoded-annual"] },
+        "review_month": { "type": "integer", "minimum": 1, "maximum": 12 }
+      },
+      "required": ["kind", "review_month"],
+      "additionalProperties": false
+    },
+    "health_policy": {
+      "type": "object",
+      "description": "事件源健康检查策略。",
+      "properties": {
+        "require_calendar": {
+          "type": "boolean",
+          "description": "要求 iCal 在当前窗口内至少包含一个事件。"
+        }
+      },
+      "additionalProperties": false
+    },
     "version": { "type": "string" },
     "cycle_kind": {
       "type": "string",

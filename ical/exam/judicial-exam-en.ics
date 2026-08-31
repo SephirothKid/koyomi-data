@@ -11,7 +11,7 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:judicial-exam-judicial-2026-obj-exam@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260510T000000
+DTSTAMP:20260831T000000
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260914
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -25,9 +25,25 @@ URL;VALUE=URI:https://www.moj.gov.cn
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:judicial-exam-judicial-2026-result@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260831T000000
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:National Legal Professional Qualification Exam · Objective Test R
+ esults
+DESCRIPTION:Objective test results release. Date subject to source announc
+ ement.
+CATEGORIES:National Legal Professional Qualification Exam
+URL;VALUE=URI:https://www.moj.gov.cn
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:judicial-exam-judicial-2026-sub-exam@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260510T000000
+DTSTAMP:20260831T000000
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -36,22 +52,6 @@ SUMMARY:National Legal Professional Qualification Exam · Subjective Test
 DESCRIPTION:Subjective test\, morning and afternoon sessions.\n\n考试科
  目: 试卷一、试卷二\n考试形式: 机考\n合格标准: 108分\n
  成绩有效期: 当年有效
-CATEGORIES:National Legal Professional Qualification Exam
-URL;VALUE=URI:https://www.moj.gov.cn
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:judicial-exam-judicial-2026-result@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260510T000000
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:National Legal Professional Qualification Exam · Objective Test R
- esults
-DESCRIPTION:Objective test results release. Date subject to source announc
- ement.
 CATEGORIES:National Legal Professional Qualification Exam
 URL;VALUE=URI:https://www.moj.gov.cn
 STATUS:CONFIRMED

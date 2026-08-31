@@ -11,46 +11,46 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:cpa-cpa-2026-exam-pro@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260520T000000
-DTSTART;TZID=Asia/Shanghai:20260821T083000
-DTEND;TZID=Asia/Shanghai:20260823T083000
+DTSTAMP:20260831T000000
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:CPA Exam · Professional Stage Exam
-DESCRIPTION:Professional stage: 6 subjects over 3 days\, morning and after
- noon sessions.\n\n考试科目: 会计、审计、税法、经济法、财
- 管、战略\n考试形式: 机考\n合格标准: 60分/科\n成绩有效
- 期: 5年内通过6科
+DESCRIPTION:2026 Professional Stage Exam
 CATEGORIES:CPA Exam
-URL;VALUE=URI:https://cpaexam.cicpa.org.cn
+URL;VALUE=URI:https://cpaexam.cicpa.org.cn/files/articlehtml/statichtml/01
+ /0000019CDAB4F015B321D5725FC353DB.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cpa-cpa-2026-exam-comp@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260520T000000
-DTSTART;TZID=Asia/Shanghai:20260830T083000
-DTEND;TZID=Asia/Shanghai:20260830T093000
+DTSTAMP:20260831T000000
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:CPA Exam · Comprehensive Stage Exam
-DESCRIPTION:Comprehensive stage: professional competence integrated assess
- ment.\n\n考试科目: 职业能力综合测试\n考试形式: 机考\n合
- 格标准: 60分
+DESCRIPTION:2026 Comprehensive Stage Exam
 CATEGORIES:CPA Exam
-URL;VALUE=URI:https://cpaexam.cicpa.org.cn
+URL;VALUE=URI:https://cpaexam.cicpa.org.cn/files/articlehtml/statichtml/01
+ /0000019CDAB4F015B321D5725FC353DB.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cpa-cpa-2026-result@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260520T000000
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
+DTSTAMP:20260831T000000
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261201
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:CPA Exam · Results Release
-DESCRIPTION:Exam results release. Date subject to source announcement.\n\n
- 查询入口: 中注协官网成绩查询系统\n合格证书: 专业阶
- 段合格证（电子版）
+DESCRIPTION:2026 Results Release
 CATEGORIES:CPA Exam
-URL;VALUE=URI:https://cpaexam.cicpa.org.cn
+URL;VALUE=URI:https://cpaexam.cicpa.org.cn/files/articlehtml/statichtml/01
+ /0000019CDAB4F015B321D5725FC353DB.html
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

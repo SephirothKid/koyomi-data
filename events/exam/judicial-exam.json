@@ -1,12 +1,22 @@
 {
   "id": "judicial-exam",
   "name": "法律职业资格考试",
-  "name_en": "National Legal Professional Qualification Exam",
   "category": "exam",
+  "name_en": "National Legal Professional Qualification Exam",
+  "maintainer": "community",
+  "source_url": "https://www.moj.gov.cn/pub/sfbgw/zwgkztzl/2026nianzhuanti/2026qgtysfky0611/",
+  "maintenance": {
+    "kind": "hardcoded-annual",
+    "review_month": 6
+  },
   "subcategory": "法律",
   "exam_classification": {
-    "audiences": ["professional"],
-    "tracks": ["law"]
+    "audiences": [
+      "professional"
+    ],
+    "tracks": [
+      "law"
+    ]
   },
   "description": "国家统一法律职业资格考试（法考），包含主观题、客观题报名与考试时间安排。",
   "icon": "clipboard-check",
@@ -22,17 +32,15 @@
     "Law",
     "Judicial"
   ],
-  "maintainer": "community",
-  "source_url": "https://www.moj.gov.cn",
   "subscriber_count": 13690,
   "rating": 4.7,
   "rating_count": 380,
-  "last_updated": "2026-05-10",
+  "last_updated": "2026-08-31",
   "events": [
     {
       "id": "judicial-2026-register-open",
       "name": "2026年报名开始",
-      "date": "2026-06-10",
+      "date": "2026-06-15",
       "time": "09:00",
       "timezone": "Asia/Shanghai",
       "type": "deadline",
@@ -40,8 +48,8 @@
       "description": "网上报名系统开放，及时填报防止系统拥堵",
       "url": "https://www.moj.gov.cn",
       "status": "completed",
-      "last_verified": "2026-05-10",
-      "verified_by": "community",
+      "last_verified": "2026-08-31",
+      "verified_by": "official",
       "details": {
         "报名入口": "司法部官网",
         "报名费用": "¥190-300（各省不同）",
@@ -53,7 +61,7 @@
     {
       "id": "judicial-2026-register-close",
       "name": "2026年报名截止",
-      "date": "2026-06-30",
+      "date": "2026-06-29",
       "time": "17:00",
       "timezone": "Asia/Shanghai",
       "type": "deadline",
@@ -61,8 +69,8 @@
       "description": "网上报名截止",
       "url": "https://www.moj.gov.cn",
       "status": "completed",
-      "last_verified": "2026-05-10",
-      "verified_by": "community",
+      "last_verified": "2026-08-31",
+      "verified_by": "official",
       "details": {
         "报名入口": "司法部官网",
         "报名费用": "¥190-300（各省不同）",
@@ -70,6 +78,21 @@
       },
       "name_en": "2026 Registration Closes",
       "description_en": "Online registration closes."
+    },
+    {
+      "id": "judicial-2026-payment",
+      "name": "2026年报名缴费截止",
+      "name_en": "2026 Registration Payment Deadline",
+      "date": "2026-07-04",
+      "timezone": "Asia/Shanghai",
+      "type": "deadline",
+      "year": 2026,
+      "description": "各地缴费截止时间以司法行政机关公告为准，官方通知要求最迟不晚于 7 月 4 日。",
+      "description_en": "Payment deadlines vary by province; the official notice requires completion no later than July 4.",
+      "url": "https://www.moj.gov.cn/pub/sfbgw/zwgkztzl/2026nianzhuanti/2026qgtysfky0611/",
+      "status": "completed",
+      "last_verified": "2026-08-31",
+      "verified_by": "official"
     },
     {
       "id": "judicial-2026-obj-exam",
@@ -82,8 +105,8 @@
       "description": "客观题两天，每天上下午各一卷",
       "url": "https://www.moj.gov.cn",
       "status": "confirmed",
-      "last_verified": "2026-05-10",
-      "verified_by": "community",
+      "last_verified": "2026-08-31",
+      "verified_by": "official",
       "details": {
         "考试科目": "试卷一、试卷二",
         "考试形式": "机考",
@@ -92,6 +115,21 @@
       },
       "name_en": "2026 Objective Test",
       "description_en": "Objective test over two days, morning and afternoon sessions each day."
+    },
+    {
+      "id": "judicial-2026-result",
+      "name": "2026年客观题成绩公布",
+      "date": "2026-09-19",
+      "timezone": "Asia/Shanghai",
+      "type": "announcement",
+      "year": 2026,
+      "description": "客观题成绩公布，预计日期，以发布信息为准",
+      "url": "https://www.moj.gov.cn",
+      "status": "confirmed",
+      "last_verified": "2026-08-31",
+      "verified_by": "official",
+      "name_en": "2026 Objective Test Results",
+      "description_en": "Objective test results release. Date subject to source announcement."
     },
     {
       "id": "judicial-2026-sub-exam",
@@ -103,8 +141,8 @@
       "description": "主观题考试，上午下午各一卷",
       "url": "https://www.moj.gov.cn",
       "status": "confirmed",
-      "last_verified": "2026-05-10",
-      "verified_by": "community",
+      "last_verified": "2026-08-31",
+      "verified_by": "official",
       "details": {
         "考试科目": "试卷一、试卷二",
         "考试形式": "机考",
@@ -113,21 +151,6 @@
       },
       "name_en": "2026 Subjective Test",
       "description_en": "Subjective test, morning and afternoon sessions."
-    },
-    {
-      "id": "judicial-2026-result",
-      "name": "2026年客观题成绩公布",
-      "date": "2026-11-05",
-      "timezone": "Asia/Shanghai",
-      "type": "announcement",
-      "year": 2026,
-      "description": "客观题成绩公布，预计日期，以发布信息为准",
-      "url": "https://www.moj.gov.cn",
-      "status": "planned",
-      "last_verified": "2026-05-10",
-      "verified_by": "community",
-      "name_en": "2026 Objective Test Results",
-      "description_en": "Objective test results release. Date subject to source announcement."
     }
   ],
   "subcategory_en": "Law"
