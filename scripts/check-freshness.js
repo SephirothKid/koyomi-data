@@ -46,7 +46,6 @@ const today = new Date()
 const staleEvents = []
 const lifecycleErrors = []
 const emptyCalendars = []
-const healthWarnings = []
 const healthErrors = []
 const todayStr = today.toISOString().slice(0, 10)
 const calendarCutoffDate = new Date(today)
@@ -133,11 +132,6 @@ if (lifecycleErrors.length > 0) {
 if (emptyCalendars.length > 0) {
   console.error(`✗ 发现 ${emptyCalendars.length} 个要求有内容的空日历：`)
   for (const e of emptyCalendars) console.error(`  • ${e.file} / ${e.sourceId} — ${e.sourceName}`)
-}
-
-if (healthWarnings.length > 0) {
-  console.warn(`⚠ ${healthWarnings.length} 个事件源的 checked_at 超过 ${STALE_DAYS_DEFAULT} 天：`)
-  for (const e of healthWarnings) console.warn(`  • ${e.sourceId} — ${e.checkedAt}（${e.daysSinceChecked} 天前）`)
 }
 
 if (healthErrors.length > 0) {
