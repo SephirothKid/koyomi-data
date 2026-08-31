@@ -17150,7 +17150,7 @@
       "description": "罗马 作客 莱切（意甲 2026-27 赛季，北京时间）",
       "description_en": "AS Roma at Lecce (Serie A 2026-27, Beijing time)",
       "url": "https://www.legaseriea.it/en/serie-a/fixture-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-08-31",
       "verified_by": "auto",
       "teams": {
@@ -17170,8 +17170,15 @@
       "details": {
         "主场": "莱切",
         "客场": "罗马",
+        "比分": "莱切 0 - 4 罗马",
         "场馆": "Via Del Mare",
         "城市": "Lecce"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 4,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
