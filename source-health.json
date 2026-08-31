@@ -15,7 +15,7 @@
     "fgo": {
       "category": "gaming",
       "checked_at": "2026-08-31",
-      "outcome": "unchanged"
+      "outcome": "updated"
     },
     "tw-public-holidays": {
       "category": "holidays",
@@ -184,8 +184,8 @@
     },
     "cs2-tournaments": {
       "category": "gaming",
-      "outcome": "disabled",
-      "disabled_reason": "已停用：缺少 PANDASCORE_TOKEN，无法验证当前赛事赛程"
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
     },
     "epic-free": {
       "category": "gaming",
@@ -194,13 +194,13 @@
     },
     "kpl": {
       "category": "gaming",
-      "outcome": "disabled",
-      "disabled_reason": "已停用：缺少 PANDASCORE_TOKEN，无法验证当前赛程"
+      "checked_at": "2026-08-31",
+      "outcome": "updated"
     },
     "lpl": {
       "category": "gaming",
-      "outcome": "disabled",
-      "disabled_reason": "已停用：缺少 PANDASCORE_TOKEN，无法验证当前赛程"
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
     },
     "console-showcases": {
       "category": "gaming",
@@ -215,17 +215,19 @@
     "honkai-star-rail": {
       "category": "gaming",
       "checked_at": "2026-08-31",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://sr.mihoyo.com/news (fetch failed)"
     },
     "zenless-zone-zero": {
       "category": "gaming",
       "checked_at": "2026-08-31",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://api-takumi-static.mihoyo.com/content_v2_user/app/706fd13a87294881/getContentList?iChanId=279&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed)"
     },
     "rawg-releases": {
       "category": "gaming",
-      "outcome": "disabled",
-      "disabled_reason": "已停用：缺少 RAWG_API_KEY，无法验证当前发售日期"
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
     },
     "steam-sales": {
       "category": "gaming",
@@ -235,7 +237,7 @@
     "wuthering-waves": {
       "category": "gaming",
       "checked_at": "2026-08-31",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "accounting-qualification": {
       "category": "exam",
