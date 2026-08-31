@@ -27,41 +27,8 @@
   ],
   "maintainer": "community",
   "source_url": "https://www.cnipa.gov.cn",
-  "subscriber_count": 12600,
-  "rating": 4.6,
-  "rating_count": 140,
-  "events": [
-    {
-      "id": "patent-agent-2026-exam",
-      "name": "2026年专利代理师资格考试",
-      "name_en": "2026 Patent Agent Qualification Exam",
-      "date": "2026-07-04",
-      "end_date": "2026-07-05",
-      "timezone": "Asia/Shanghai",
-      "type": "range",
-      "year": 2026,
-      "description": "专利代理师资格考试。",
-      "description_en": "Patent agent qualification exam.",
-      "url": "https://www.cnipa.gov.cn",
-      "status": "completed",
-      "last_verified": "2026-07-06",
-      "verified_by": "community"
-    },
-    {
-      "id": "patent-agent-2026-results",
-      "name": "2026年专利代理师成绩查询",
-      "name_en": "2026 Patent Agent Qualification Exam Results Release",
-      "date": "2026-08-31",
-      "timezone": "Asia/Shanghai",
-      "type": "announcement",
-      "year": 2026,
-      "description": "成绩查询时间以国家知识产权局和考试系统公告为准。",
-      "description_en": "Results timing follows CNIPA and exam system announcements.",
-      "url": "https://www.cnipa.gov.cn",
-      "status": "planned",
-      "last_verified": "2026-07-06",
-      "verified_by": "community"
-    }
-  ],
-  "last_updated": "2026-07-06"
+  "events": [],
+  "last_updated": "2026-08-31",
+  "hidden": true,
+  "disabled_reason": "已停用：原数据为静态或猜测日期，暂无可验证的动态官方数据接口"
 }

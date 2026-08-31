@@ -2,6 +2,8 @@
   "id": "judicial-exam",
   "name": "法律职业资格考试",
   "category": "exam",
+  "hidden": true,
+  "disabled_reason": "已停用：缺少 JUDICIAL_EXAM_SOURCE_URL，无法验证年度公告",
   "name_en": "National Legal Professional Qualification Exam",
   "maintainer": "community",
   "source_url": "https://www.moj.gov.cn/pub/sfbgw/zwgkztzl/2026nianzhuanti/2026qgtysfky0611/",

@@ -2,6 +2,8 @@
   "id": "kpl",
   "name": "KPL",
   "category": "gaming",
+  "hidden": true,
+  "disabled_reason": "已停用：缺少 PANDASCORE_TOKEN，无法验证当前赛程",
   "name_en": "King Pro League",
   "subcategory": "电竞",
   "subcategory_en": "Esports",
@@ -3337,26 +3339,6 @@
         "阶段": "Stage 2 Group A",
         "赛制": "BO5"
       }
-    },
-    {
-      "id": "kpl-2026-spring-regular-season-window",
-      "name": "2026 KPL 春季赛常规赛窗口",
-      "date": "2026-02-20",
-      "end_date": "2026-04-20",
-      "timezone": "Asia/Shanghai",
-      "type": "range",
-      "year": 2026,
-      "description": "KPL 春季赛常规赛常见窗口，具体分组、轮次和对阵以王者荣耀赛事发布信息为准。",
-      "url": "https://pvp.qq.com/match/kpl/",
-      "status": "completed",
-      "last_verified": "2026-06-13",
-      "verified_by": "community",
-      "details": {
-        "赛事": "王者荣耀职业联赛",
-        "状态说明": "未接入逐场赛事日程前，以阶段窗口提醒为主"
-      },
-      "name_en": "2026 KPL Spring Regular Season Window",
-      "description_en": "Typical regular-season window for KPL Spring; groups, rounds and matchups follow official Honor of Kings esports announcements."
     },
     {
       "id": "kpl-2026-m1345055",
@@ -6759,38 +6741,6 @@
           }
         ]
       }
-    },
-    {
-      "id": "kpl-2026-spring-playoffs-window",
-      "name": "2026 KPL 春季赛季后赛窗口",
-      "date": "2026-04-25",
-      "end_date": "2026-05-15",
-      "timezone": "Asia/Shanghai",
-      "type": "range",
-      "year": 2026,
-      "description": "春季赛季后赛和总决赛集中窗口。",
-      "url": "https://pvp.qq.com/match/kpl/",
-      "status": "completed",
-      "last_verified": "2026-06-13",
-      "verified_by": "community",
-      "name_en": "2026 KPL Spring Playoffs Window",
-      "description_en": "Window for the KPL Spring playoffs and grand finals."
-    },
-    {
-      "id": "kpl-2026-summer-regular-season-window",
-      "name": "2026 KPL 夏季赛常规赛窗口",
-      "date": "2026-06-05",
-      "end_date": "2026-08-05",
-      "timezone": "Asia/Shanghai",
-      "type": "range",
-      "year": 2026,
-      "description": "KPL 夏季赛常规赛常见窗口，具体以赛事日程为准。",
-      "url": "https://pvp.qq.com/match/kpl/",
-      "status": "completed",
-      "last_verified": "2026-06-13",
-      "verified_by": "community",
-      "name_en": "2026 KPL Summer Regular Season Window",
-      "description_en": "Typical regular-season window for KPL Summer; exact dates follow the official schedule."
     },
     {
       "id": "kpl-2026-m1526382",
@@ -11393,22 +11343,6 @@
       }
     },
     {
-      "id": "kpl-2026-summer-playoffs-window",
-      "name": "2026 KPL 夏季赛季后赛窗口",
-      "date": "2026-08-10",
-      "end_date": "2026-09-05",
-      "timezone": "Asia/Shanghai",
-      "type": "range",
-      "year": 2026,
-      "description": "夏季赛季后赛和总决赛集中窗口。",
-      "url": "https://pvp.qq.com/match/kpl/",
-      "status": "planned",
-      "last_verified": "2026-06-13",
-      "verified_by": "community",
-      "name_en": "2026 KPL Summer Playoffs Window",
-      "description_en": "Window for the KPL Summer playoffs and grand finals."
-    },
-    {
       "id": "kpl-2026-m1610753",
       "name": "第3阶段A组 · RW vs EDG",
       "name_en": "Stage 3 Group A · RW vs EDG",
@@ -12918,38 +12852,6 @@
           }
         ]
       }
-    },
-    {
-      "id": "kpl-2026-challenger-cup-window",
-      "name": "2026 KPL 挑战者杯窗口",
-      "date": "2026-10-01",
-      "end_date": "2026-11-10",
-      "timezone": "Asia/Shanghai",
-      "type": "range",
-      "year": 2026,
-      "description": "王者荣耀挑战者杯常见赛事窗口，具体赛程以发布信息为准。",
-      "url": "https://pvp.qq.com/match/kpl/",
-      "status": "planned",
-      "last_verified": "2026-06-13",
-      "verified_by": "community",
-      "name_en": "2026 KPL Challenger Cup Window",
-      "description_en": "Typical window for the Honor of Kings Challenger Cup; exact schedule follows official announcements."
-    },
-    {
-      "id": "kpl-2026-annual-finals-window",
-      "name": "2026 KPL 年度总决赛窗口",
-      "date": "2026-11-15",
-      "end_date": "2026-12-20",
-      "timezone": "Asia/Shanghai",
-      "type": "range",
-      "year": 2026,
-      "description": "王者荣耀年度总决赛相关窗口，具体赛程以发布信息为准。",
-      "url": "https://pvp.qq.com/match/kpl/",
-      "status": "planned",
-      "last_verified": "2026-06-13",
-      "verified_by": "community",
-      "name_en": "2026 KPL Annual Finals Window",
-      "description_en": "Window for the Honor of Kings annual finals; exact schedule follows official announcements."
     }
   ],
   "last_updated": "2026-08-30",

@@ -540,20 +540,4 @@ CATEGORIES:FGO 活动日历
 URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
 STATUS:CONFIRMED
 END:VEVENT
-BEGIN:VEVENT
-UID:fgo-fgo-2026-forecast-next-event@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260831T000000
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261123
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:FGO 活动日历 · FGO 下一期活动预测窗口
-DESCRIPTION:FGO下一期活动预测窗口，需以官方公告为准。\n
- \n版本: 下一期\n类型: forecast\n\ndata_nature: 预测窗口\nbasis:
-  FGO活动约2-4周周期
-CATEGORIES:FGO 活动日历
-URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
-STATUS:CONFIRMED
-END:VEVENT
 END:VCALENDAR

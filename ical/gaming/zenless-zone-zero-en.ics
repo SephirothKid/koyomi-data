@@ -4,14 +4,14 @@ PRODID:-//Koyomi Cast//zenless-zone-zero//EN
 URL:https://koyomi.cast/sources/zenless-zone-zero
 NAME:Zenless Zone Zero Version Calendar
 X-WR-CALNAME:Zenless Zone Zero Version Calendar
-X-WR-CALDESC:绝区零版本前瞻、版本更新、调频阶段提醒。
- 未官宣节点使用 planned 状态。
+X-WR-CALDESC:Zenless Zone Zero versions and signal-search windows parsed f
+ rom official announcements only.
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:zenless-zone-zero-zenless-zone-zero-2026-165758-banners@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260829T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20260819T120000
 DTEND;TZID=Asia/Shanghai:20260908T145900
 SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero Phase 2 Si
@@ -55,82 +55,6 @@ DESCRIPTION:Zenless Zone Zero Official Signal Search (Phase 2)\n\nPhase: p
  : 3.1版本限时频段（下期）
 CATEGORIES:Zenless Zone Zero Version Calendar
 URL;VALUE=URI:https://zzz.mihoyo.com/news/detail/165758
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:zenless-zone-zero-zenless-zone-zero-2026-forecast-vnext-2-phase2@koyom
- i.cast
-SEQUENCE:0
-DTSTAMP:20260829T000000
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero Future Ver
- sion 2 Phase 2 Banner Window
-DESCRIPTION:Zenless Zone Zero Future Version 2 Phase 2 Banner prediction w
- indow. Subject to official announcement.\n\nVersion: 后续版本二\nPhas
- e: phase2\nType: forecast\n\ndata_nature: Forecast Window\nbasis: Approxim
- ately 42 days per version\, Phase 2 opens around day 21
-CATEGORIES:Zenless Zone Zero Version Calendar
-URL;VALUE=URI:https://zzz.mihoyo.com/news
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:zenless-zone-zero-zenless-zone-zero-2026-forecast-vnext-3-preview@koyo
- mi.cast
-SEQUENCE:0
-DTSTAMP:20260829T000000
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero Future Ver
- sion 3 Preview Livestream Window
-DESCRIPTION:Zenless Zone Zero Future Version 3 Preview Livestream predicti
- on window. Subject to official announcement.\n\nVersion: 后续版本三\n
- Type: forecast\n\ndata_nature: Forecast Window\nbasis: Approximately 42 da
- ys per version
-CATEGORIES:Zenless Zone Zero Version Calendar
-URL;VALUE=URI:https://zzz.mihoyo.com/news
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:zenless-zone-zero-zenless-zone-zero-2026-forecast-vnext-3-update@koyom
- i.cast
-SEQUENCE:0
-DTSTAMP:20260829T000000
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero Future Ver
- sion 3 Maintenance Update Window
-DESCRIPTION:Zenless Zone Zero Future Version 3 Maintenance Update predicti
- on window. Subject to official announcement.\n\nVersion: 后续版本三\n
- Type: forecast\n\ndata_nature: Forecast Window\nbasis: Approximately 42 da
- ys per version
-CATEGORIES:Zenless Zone Zero Version Calendar
-URL;VALUE=URI:https://zzz.mihoyo.com/news
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:zenless-zone-zero-zenless-zone-zero-2026-forecast-vnext-3-phase2@koyom
- i.cast
-SEQUENCE:0
-DTSTAMP:20260829T000000
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero Future Ver
- sion 3 Phase 2 Banner Window
-DESCRIPTION:Zenless Zone Zero Future Version 3 Phase 2 Banner prediction w
- indow. Subject to official announcement.\n\nVersion: 后续版本三\nPhas
- e: phase2\nType: forecast\n\ndata_nature: Forecast Window\nbasis: Approxim
- ately 42 days per version\, Phase 2 opens around day 21
-CATEGORIES:Zenless Zone Zero Version Calendar
-URL;VALUE=URI:https://zzz.mihoyo.com/news
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

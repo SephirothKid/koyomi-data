@@ -4,17 +4,388 @@
     "cpa": {
       "category": "exam",
       "checked_at": "2026-08-31",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "judicial-exam": {
       "category": "exam",
       "checked_at": "2026-08-31",
-      "outcome": "updated"
+      "outcome": "disabled",
+      "disabled_reason": "已停用：缺少 JUDICIAL_EXAM_SOURCE_URL，无法验证年度公告"
     },
     "fgo": {
       "category": "gaming",
       "checked_at": "2026-08-31",
-      "outcome": "updated"
+      "outcome": "unchanged"
+    },
+    "tw-public-holidays": {
+      "category": "holidays",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "cn-public-holidays": {
+      "category": "holidays",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "au-public-holidays": {
+      "category": "holidays",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "br-public-holidays": {
+      "category": "holidays",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "ca-public-holidays": {
+      "category": "holidays",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "de-public-holidays": {
+      "category": "holidays",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "fr-public-holidays": {
+      "category": "holidays",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "gb-public-holidays": {
+      "category": "holidays",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "hk-public-holidays": {
+      "category": "holidays",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "id-public-holidays": {
+      "category": "holidays",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "jp-public-holidays": {
+      "category": "holidays",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "kr-public-holidays": {
+      "category": "holidays",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "sg-public-holidays": {
+      "category": "holidays",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "us-public-holidays": {
+      "category": "holidays",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "vn-public-holidays": {
+      "category": "holidays",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "bundesliga": {
+      "category": "sports",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "cba": {
+      "category": "sports",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "csl": {
+      "category": "sports",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "epl": {
+      "category": "sports",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "f1": {
+      "category": "sports",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "laliga": {
+      "category": "sports",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "ligue1": {
+      "category": "sports",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "nba": {
+      "category": "sports",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "seriea": {
+      "category": "sports",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "australian-open": {
+      "category": "sports",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：官网暂无稳定机器可读赛程接口，当前不发布猜测日期"
+    },
+    "roland-garros": {
+      "category": "sports",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：官网暂无稳定机器可读赛程接口，当前不发布猜测日期"
+    },
+    "us-open": {
+      "category": "sports",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：官网暂无稳定机器可读赛程接口，当前不发布猜测日期"
+    },
+    "wimbledon": {
+      "category": "sports",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：官网暂无稳定机器可读赛程接口，当前不发布猜测日期"
+    },
+    "ucl": {
+      "category": "sports",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "uecl": {
+      "category": "sports",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "uel": {
+      "category": "sports",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "worldcup": {
+      "category": "sports",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "arknights": {
+      "category": "gaming",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "cs2-tournaments": {
+      "category": "gaming",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：缺少 PANDASCORE_TOKEN，无法验证当前赛事赛程"
+    },
+    "epic-free": {
+      "category": "gaming",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "kpl": {
+      "category": "gaming",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：缺少 PANDASCORE_TOKEN，无法验证当前赛程"
+    },
+    "lpl": {
+      "category": "gaming",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：缺少 PANDASCORE_TOKEN，无法验证当前赛程"
+    },
+    "console-showcases": {
+      "category": "gaming",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：发布会没有稳定官方日历接口，不发布猜测窗口"
+    },
+    "genshin-impact": {
+      "category": "gaming",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：官方内容接口当前返回 app not found，修复前不保留旧数据"
+    },
+    "honkai-star-rail": {
+      "category": "gaming",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "zenless-zone-zero": {
+      "category": "gaming",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "rawg-releases": {
+      "category": "gaming",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：缺少 RAWG_API_KEY，无法验证当前发售日期"
+    },
+    "steam-sales": {
+      "category": "gaming",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "wuthering-waves": {
+      "category": "gaming",
+      "checked_at": "2026-08-31",
+      "outcome": "unchanged"
+    },
+    "accounting-qualification": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "adult-gaokao": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "banking-qualification": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "catti": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "cost-engineer": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "fire-engineer": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "first-class-constructor": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "fund-qualification": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "futures-qualification": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "health-professional": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "licensed-pharmacist": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "national-college-entrance-exam": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "ncre": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "nurse-qualification": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "patent-agent": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "pets": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "physician-qualification": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "registered-safety-engineer": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "second-class-constructor": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "securities-qualification": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "self-taught-exam": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "social-worker": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "supervision-engineer": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "tax-agent": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "civil-service-provincial": {
+      "category": "exam",
+      "outcome": "failed",
+      "last_error": "fetch failed: https://www.bjpta.cn/ (fetch failed)"
+    },
+    "cet": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "civil-service-national": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "postgraduate-exam": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "ruankao": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
+    },
+    "teacher-qualification": {
+      "category": "exam",
+      "outcome": "disabled",
+      "disabled_reason": "已停用：原数据为静态年度表，暂无可验证的动态官方数据接口"
     }
   }
 }

@@ -11,7 +11,7 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:arknights-arknights-2026-永不落幕复刻-banner@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260820T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20260720T160000
 DTEND;TZID=Asia/Shanghai:20260803T035900
 SUMMARY:明日方舟版本日历 · 明日方舟 永不落幕·复刻 寻
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 UID:arknights-arknights-2026-限定寻访夏季车辙与风的归所-banne
  r@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260820T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20260801T120000
 DTEND;TZID=Asia/Shanghai:20260815T035900
 SUMMARY:明日方舟版本日历 · 明日方舟 【限定寻访·夏季
@@ -45,25 +45,9 @@ URL;VALUE=URI:https://prts.wiki/w/%E3%80%90%E9%99%90%E5%AE%9A%E5%AF%BB%E8%
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:arknights-arknights-2026-forecast-夏活限定@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260725T000000
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260816
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:明日方舟版本日历 · 明日方舟 夏活限定 预测窗口
-DESCRIPTION:明日方舟夏活限定预测窗口，需以官方公告为
- 准。\n\n版本: 夏活限定\n类型: forecast\n\ndata_nature: 预测窗
- 口\nbasis: 限定寻访历史周期
-CATEGORIES:明日方舟版本日历
-URL;VALUE=URI:https://ak.hypergryph.com/news
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:arknights-arknights-2026-联合行动23-banner@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260820T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20260818T160000
 DTEND;TZID=Asia/Shanghai:20260901T035900
 SUMMARY:明日方舟版本日历 · 明日方舟 联合行动23 寻访
@@ -73,40 +57,6 @@ DESCRIPTION:明日方舟寻访「联合行动23」。\n\n版本: 联合行
  尔 / 小满 / 杏仁 / 裁度
 CATEGORIES:明日方舟版本日历
 URL;VALUE=URI:https://prts.wiki/w/%E8%81%94%E5%90%88%E8%A1%8C%E5%8A%A823
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:arknights-arknights-2026-forecast-next-banner@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260820T000000
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260919
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:明日方舟版本日历 · 明日方舟 下一期寻访预测窗
- 口
-DESCRIPTION:明日方舟下一期寻访预测窗口，需以官方公告
- 为准。\n\n版本: 下一期\n类型: forecast\n\ndata_nature: 预测窗
- 口\nbasis: 标准寻访约14-21天周期
-CATEGORIES:明日方舟版本日历
-URL;VALUE=URI:https://ak.hypergryph.com/news
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:arknights-arknights-2026-forecast-半周年限定@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260820T000000
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261116
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:明日方舟版本日历 · 明日方舟 半周年限定 预测窗
- 口
-DESCRIPTION:明日方舟半周年限定预测窗口，需以官方公告
- 为准。\n\n版本: 半周年限定\n类型: forecast\n\ndata_nature: 预
- 测窗口\nbasis: 限定寻访历史周期
-CATEGORIES:明日方舟版本日历
-URL;VALUE=URI:https://ak.hypergryph.com/news
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

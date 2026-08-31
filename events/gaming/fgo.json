@@ -7097,36 +7097,6 @@
           "featured_4": []
         }
       ]
-    },
-    {
-      "id": "fgo-2026-forecast-next-event",
-      "name": "FGO 下一期活动预测窗口",
-      "name_en": "FGO Next Event Forecast Window",
-      "date": "2026-11-01",
-      "end_date": "2026-11-22",
-      "timezone": "Asia/Shanghai",
-      "type": "range",
-      "year": 2026,
-      "description": "FGO下一期活动预测窗口，需以官方公告为准。",
-      "description_en": "FGO next event prediction window. Subject to official announcement.",
-      "url": "https://game.bilibili.com/fgo/news.html",
-      "status": "planned",
-      "last_verified": "2026-08-31",
-      "verified_by": "community",
-      "details": {
-        "data_nature": "预测窗口",
-        "basis": "FGO活动约2-4周周期"
-      },
-      "details_en": {
-        "data_nature": "Forecast Window",
-        "basis": "FGO event ~2-4 week cycle"
-      },
-      "game": {
-        "game_id": "fgo",
-        "provider": "community",
-        "source_kind": "forecast",
-        "version": "下一期"
-      }
     }
   ],
   "last_updated": "2026-08-31"

@@ -47,6 +47,7 @@ const staleEvents = []
 const lifecycleErrors = []
 const emptyCalendars = []
 const healthWarnings = []
+const healthErrors = []
 const todayStr = today.toISOString().slice(0, 10)
 const calendarCutoffDate = new Date(today)
 calendarCutoffDate.setDate(calendarCutoffDate.getDate() - 30)
@@ -66,13 +67,19 @@ function eventEndDate(event) {
 for (const file of collectJsonFiles(EVENTS_DIR)) {
   const rel = file.replace(ROOT + '/', '')
   const source = JSON.parse(readFileSync(file, 'utf8'))
+  if (source.hidden === true) continue
   const sourceHealth = health.sources?.[source.id]
-  if (sourceHealth?.checked_at) {
+  if (!sourceHealth?.checked_at) {
+    healthErrors.push({ sourceId: source.id, sourceName: source.name, reason: '缺少成功抓取记录' })
+  } else {
     const checkedDate = new Date(sourceHealth.checked_at)
     const daysSinceChecked = Math.floor((today - checkedDate) / (1000 * 60 * 60 * 24))
     if (daysSinceChecked > STALE_DAYS_DEFAULT) {
-      healthWarnings.push({ sourceId: source.id, sourceName: source.name, checkedAt: sourceHealth.checked_at, daysSinceChecked })
+      healthErrors.push({ sourceId: source.id, sourceName: source.name, reason: `checked_at ${sourceHealth.checked_at}（${daysSinceChecked} 天前）` })
     }
+  }
+  if (sourceHealth?.outcome === 'failed' || sourceHealth?.outcome === 'skipped') {
+    healthErrors.push({ sourceId: source.id, sourceName: source.name, reason: `最近抓取结果为 ${sourceHealth.outcome}` })
   }
 
   const calendarEvents = (source.events ?? []).filter(event => eventEndDate(event) >= calendarCutoff)
@@ -133,7 +140,12 @@ if (healthWarnings.length > 0) {
   for (const e of healthWarnings) console.warn(`  • ${e.sourceId} — ${e.checkedAt}（${e.daysSinceChecked} 天前）`)
 }
 
-if (staleEvents.length === 0 && lifecycleErrors.length === 0 && emptyCalendars.length === 0) {
+if (healthErrors.length > 0) {
+  console.error(`✗ 发现 ${healthErrors.length} 个事件源健康记录缺失或失败：`)
+  for (const e of healthErrors) console.error(`  • ${e.sourceId} — ${e.reason}`)
+}
+
+if (staleEvents.length === 0 && lifecycleErrors.length === 0 && emptyCalendars.length === 0 && healthErrors.length === 0) {
   console.log(`✓ 当前/未来事件的新鲜度、生命周期和必需日历均通过`)
 }
 
@@ -203,4 +215,4 @@ if (GITHUB_TOKEN && GITHUB_REPOSITORY && (staleEvents.length > 0 || lifecycleErr
   }
 }
 
-process.exitCode = (staleEvents.length > 0 || lifecycleErrors.length > 0 || emptyCalendars.length > 0) ? 1 : 0
+process.exitCode = (staleEvents.length > 0 || lifecycleErrors.length > 0 || emptyCalendars.length > 0 || healthErrors.length > 0) ? 1 : 0

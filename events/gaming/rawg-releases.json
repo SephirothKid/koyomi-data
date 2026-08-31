@@ -2,6 +2,8 @@
   "id": "rawg-releases",
   "name": "RAWG 游戏发售",
   "category": "gaming",
+  "hidden": true,
+  "disabled_reason": "已停用：缺少 RAWG_API_KEY，无法验证当前发售日期",
   "name_en": "RAWG Game Releases",
   "subcategory": "游戏发售",
   "subcategory_en": "Game Releases",

@@ -2,6 +2,8 @@
   "id": "lpl",
   "name": "LPL",
   "category": "gaming",
+  "hidden": true,
+  "disabled_reason": "已停用：缺少 PANDASCORE_TOKEN，无法验证当前赛程",
   "name_en": "League of Legends Pro League",
   "subcategory": "电竞",
   "subcategory_en": "Esports",
@@ -26,26 +28,6 @@
   "rating": 4.8,
   "rating_count": 510,
   "events": [
-    {
-      "id": "lpl-2026-split-1-opening-window",
-      "name": "2026 LPL 第一赛段开赛窗口",
-      "date": "2026-01-10",
-      "end_date": "2026-01-25",
-      "timezone": "Asia/Shanghai",
-      "type": "range",
-      "year": 2026,
-      "description": "LPL 年初赛段常见开赛窗口，具体赛程和队伍对阵以英雄联盟赛事发布信息为准。",
-      "url": "https://lpl.qq.com",
-      "status": "completed",
-      "last_verified": "2026-06-13",
-      "verified_by": "community",
-      "details": {
-        "赛事": "英雄联盟职业联赛",
-        "状态说明": "未接入逐场赛事日程前，以阶段窗口提醒为主"
-      },
-      "name_en": "2026 LPL Split 1 Opening Window",
-      "description_en": "Typical opening window for the LPL early-year split; exact schedule and matchups follow official LoL Esports announcements."
-    },
     {
       "id": "lpl-2026-m1305227",
       "name": "登峰组 · WB vs IG",
@@ -3376,22 +3358,6 @@
       }
     },
     {
-      "id": "lpl-2026-split-1-playoffs-window",
-      "name": "2026 LPL 第一赛段淘汰赛窗口",
-      "date": "2026-03-01",
-      "end_date": "2026-03-25",
-      "timezone": "Asia/Shanghai",
-      "type": "range",
-      "year": 2026,
-      "description": "第一赛段淘汰赛和决赛窗口，具体日期以赛事日程为准。",
-      "url": "https://lpl.qq.com",
-      "status": "completed",
-      "last_verified": "2026-06-13",
-      "verified_by": "community",
-      "name_en": "2026 LPL Split 1 Playoffs Window",
-      "description_en": "Playoffs and finals window for Split 1; exact dates follow the official schedule."
-    },
-    {
       "id": "lpl-2026-m1352796",
       "name": "季后赛 · IG vs NIP",
       "name_en": "Playoffs · IG vs NIP",
@@ -3997,22 +3963,6 @@
         "阶段": "Group Ascend",
         "赛制": "BO3"
       }
-    },
-    {
-      "id": "lpl-2026-split-2-opening-window",
-      "name": "2026 LPL 第二赛段开赛窗口",
-      "date": "2026-04-05",
-      "end_date": "2026-04-20",
-      "timezone": "Asia/Shanghai",
-      "type": "range",
-      "year": 2026,
-      "description": "LPL 年中赛段常见开赛窗口，具体赛制、分组和对阵以发布信息为准。",
-      "url": "https://lpl.qq.com",
-      "status": "completed",
-      "last_verified": "2026-06-13",
-      "verified_by": "community",
-      "name_en": "2026 LPL Split 2 Opening Window",
-      "description_en": "Typical opening window for the LPL mid-year split; format, groups and matchups follow official announcements."
     },
     {
       "id": "lpl-2026-m1420882",
@@ -7143,22 +7093,6 @@
       }
     },
     {
-      "id": "lpl-2026-split-2-finals-window",
-      "name": "2026 LPL 第二赛段决赛窗口",
-      "date": "2026-05-20",
-      "end_date": "2026-06-05",
-      "timezone": "Asia/Shanghai",
-      "type": "range",
-      "year": 2026,
-      "description": "第二赛段收官和国际赛事资格相关窗口。",
-      "url": "https://lpl.qq.com",
-      "status": "completed",
-      "last_verified": "2026-06-13",
-      "verified_by": "community",
-      "name_en": "2026 LPL Split 2 Finals Window",
-      "description_en": "Window for the Split 2 finals and international qualification deciders."
-    },
-    {
       "id": "lpl-2026-m1422503",
       "name": "入围赛 · WE vs LNG",
       "name_en": "Play-In · WE vs LNG",
@@ -8243,22 +8177,6 @@
           }
         ]
       }
-    },
-    {
-      "id": "lpl-2026-summer-opening-window",
-      "name": "2026 LPL 夏季赛开赛窗口",
-      "date": "2026-06-15",
-      "end_date": "2026-07-05",
-      "timezone": "Asia/Shanghai",
-      "type": "range",
-      "year": 2026,
-      "description": "LPL 夏季赛常见开赛窗口，后续可升级为逐场比赛订阅。",
-      "url": "https://lpl.qq.com",
-      "status": "completed",
-      "last_verified": "2026-06-13",
-      "verified_by": "community",
-      "name_en": "2026 LPL Summer Split Opening Window",
-      "description_en": "Typical opening window for the LPL Summer Split; may be upgraded to per-match subscriptions later."
     },
     {
       "id": "lpl-2026-m1585249",
@@ -10469,22 +10387,6 @@
       }
     },
     {
-      "id": "lpl-2026-summer-playoffs-window",
-      "name": "2026 LPL 夏季赛季后赛窗口",
-      "date": "2026-08-15",
-      "end_date": "2026-09-10",
-      "timezone": "Asia/Shanghai",
-      "type": "range",
-      "year": 2026,
-      "description": "夏季赛季后赛和年度总决赛资格集中窗口。",
-      "url": "https://lpl.qq.com",
-      "status": "planned",
-      "last_verified": "2026-06-13",
-      "verified_by": "community",
-      "name_en": "2026 LPL Summer Playoffs Window",
-      "description_en": "Window for the Summer playoffs and season finals qualification."
-    },
-    {
       "id": "lpl-2026-m1585297",
       "name": "涅槃组 · NIP vs LNG",
       "name_en": "Group Nirvana · NIP vs LNG",
@@ -11839,22 +11741,6 @@
           }
         ]
       }
-    },
-    {
-      "id": "lpl-2026-regional-finals-window",
-      "name": "2026 LPL 全球总决赛资格赛窗口",
-      "date": "2026-09-10",
-      "end_date": "2026-09-20",
-      "timezone": "Asia/Shanghai",
-      "type": "range",
-      "year": 2026,
-      "description": "LPL 全球总决赛资格赛常见窗口，具体以发布信息为准。",
-      "url": "https://lpl.qq.com",
-      "status": "planned",
-      "last_verified": "2026-06-13",
-      "verified_by": "community",
-      "name_en": "2026 LPL Regional Finals Window",
-      "description_en": "Typical window for the LPL Worlds qualification series; exact dates follow official announcements."
     }
   ],
   "last_updated": "2026-08-30",

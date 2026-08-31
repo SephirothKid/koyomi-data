@@ -27,57 +27,8 @@
   ],
   "maintainer": "community",
   "source_url": "https://www.neea.edu.cn",
-  "subscriber_count": 19600,
-  "rating": 4.6,
-  "rating_count": 210,
-  "events": [
-    {
-      "id": "adult-gaokao-2026-registration",
-      "name": "2026年成人高考报名",
-      "name_en": "2026 Adult College Entrance Exam Registration",
-      "date": "2026-09-01",
-      "end_date": "2026-09-10",
-      "timezone": "Asia/Shanghai",
-      "type": "range",
-      "year": 2026,
-      "description": "成人高考报名时间由各省级招生考试机构发布，此处为常见报名窗口提醒。",
-      "description_en": "Registration dates are published by each provincial admissions authority; this is a typical registration window reminder.",
-      "url": "https://www.neea.edu.cn",
-      "status": "planned",
-      "last_verified": "2026-06-13",
-      "verified_by": "community"
-    },
-    {
-      "id": "adult-gaokao-2026-exam",
-      "name": "2026年成人高考",
-      "name_en": "2026 Adult College Entrance Exam",
-      "date": "2026-10-17",
-      "end_date": "2026-10-18",
-      "timezone": "Asia/Shanghai",
-      "type": "range",
-      "year": 2026,
-      "description": "成人高校招生全国统一考试，具体科目时间以准考证和本省公告为准。",
-      "description_en": "National unified adult college entrance exam; subject schedules follow the admission ticket and provincial notices.",
-      "url": "https://www.neea.edu.cn",
-      "status": "planned",
-      "last_verified": "2026-06-13",
-      "verified_by": "community"
-    },
-    {
-      "id": "adult-gaokao-2026-results",
-      "name": "2026年成人高考成绩查询",
-      "name_en": "2026 Adult College Entrance Exam Results Release",
-      "date": "2026-11-20",
-      "timezone": "Asia/Shanghai",
-      "type": "announcement",
-      "year": 2026,
-      "description": "成绩通常于 11 月下旬陆续公布，具体以各省级招生考试机构公告为准。",
-      "description_en": "Results are typically released from late November onward; follow each provincial admissions authority.",
-      "url": "https://www.neea.edu.cn",
-      "status": "planned",
-      "last_verified": "2026-06-13",
-      "verified_by": "community"
-    }
-  ],
-  "last_updated": "2026-06-13"
+  "events": [],
+  "last_updated": "2026-08-31",
+  "hidden": true,
+  "disabled_reason": "已停用：原数据为静态或猜测日期，暂无可验证的动态官方数据接口"
 }

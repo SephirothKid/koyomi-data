@@ -547,20 +547,4 @@ CATEGORIES:Fate/Grand Order Event Calendar
 URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
 STATUS:CONFIRMED
 END:VEVENT
-BEGIN:VEVENT
-UID:fgo-fgo-2026-forecast-next-event@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260831T000000
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261123
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fate/Grand Order Event Calendar · FGO Next Event Forecast Window
-DESCRIPTION:FGO next event prediction window. Subject to official announce
- ment.\n\nVersion: 下一期\nType: forecast\n\ndata_nature: Forecast Windo
- w\nbasis: FGO event ~2-4 week cycle
-CATEGORIES:Fate/Grand Order Event Calendar
-URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
-STATUS:CONFIRMED
-END:VEVENT
 END:VCALENDAR

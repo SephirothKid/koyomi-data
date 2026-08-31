@@ -11,7 +11,7 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:zenless-zone-zero-zenless-zone-zero-2026-165758-banners@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260829T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20260819T120000
 DTEND;TZID=Asia/Shanghai:20260908T145900
 SUMMARY:绝区零版本日历 · 绝区零 第二期调频：亲爱的绳
@@ -70,80 +70,6 @@ DESCRIPTION:绝区零官方活动调频（第二期）\n\n阶段: phase2\n
  ice: 3.1版本限时频段（下期）
 CATEGORIES:绝区零版本日历
 URL;VALUE=URI:https://zzz.mihoyo.com/news/detail/165758
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:zenless-zone-zero-zenless-zone-zero-2026-forecast-vnext-2-phase2@koyom
- i.cast
-SEQUENCE:0
-DTSTAMP:20260829T000000
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:绝区零版本日历 · 绝区零 后续版本二 下半卡池窗
- 口
-DESCRIPTION:绝区零 后续版本二 下半卡池预测窗口，需以官
- 方公告为准。\n\n版本: 后续版本二\n阶段: phase2\n类型: for
- ecast\n\ndata_nature: 预测窗口\nbasis: 约 42 天一个版本，下半
- 约第 21 天开启
-CATEGORIES:绝区零版本日历
-URL;VALUE=URI:https://zzz.mihoyo.com/news
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:zenless-zone-zero-zenless-zone-zero-2026-forecast-vnext-3-preview@koyo
- mi.cast
-SEQUENCE:0
-DTSTAMP:20260829T000000
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:绝区零版本日历 · 绝区零 后续版本三 前瞻直播窗
- 口
-DESCRIPTION:绝区零 后续版本三 版本前瞻直播预测窗口，需
- 以官方公告为准。\n\n版本: 后续版本三\n类型: forecast\n\nd
- ata_nature: 预测窗口\nbasis: 约 42 天一个版本
-CATEGORIES:绝区零版本日历
-URL;VALUE=URI:https://zzz.mihoyo.com/news
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:zenless-zone-zero-zenless-zone-zero-2026-forecast-vnext-3-update@koyom
- i.cast
-SEQUENCE:0
-DTSTAMP:20260829T000000
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:绝区零版本日历 · 绝区零 后续版本三 版本更新窗
- 口
-DESCRIPTION:绝区零 后续版本三 版本维护更新预测窗口，需
- 以官方公告为准。\n\n版本: 后续版本三\n类型: forecast\n\nd
- ata_nature: 预测窗口\nbasis: 约 42 天一个版本
-CATEGORIES:绝区零版本日历
-URL;VALUE=URI:https://zzz.mihoyo.com/news
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:zenless-zone-zero-zenless-zone-zero-2026-forecast-vnext-3-phase2@koyom
- i.cast
-SEQUENCE:0
-DTSTAMP:20260829T000000
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:绝区零版本日历 · 绝区零 后续版本三 下半卡池窗
- 口
-DESCRIPTION:绝区零 后续版本三 下半卡池预测窗口，需以官
- 方公告为准。\n\n版本: 后续版本三\n阶段: phase2\n类型: for
- ecast\n\ndata_nature: 预测窗口\nbasis: 约 42 天一个版本，下半
- 约第 21 天开启
-CATEGORIES:绝区零版本日历
-URL;VALUE=URI:https://zzz.mihoyo.com/news
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

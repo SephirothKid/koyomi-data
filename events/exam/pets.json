@@ -29,42 +29,8 @@
   ],
   "maintainer": "community",
   "source_url": "https://pets.neea.edu.cn",
-  "subscriber_count": 12800,
-  "rating": 4.6,
-  "rating_count": 150,
-  "events": [
-    {
-      "id": "pets-2026-h1-exam",
-      "name": "2026上半年全国英语等级考试",
-      "name_en": "2026 H1 Public English Test System (PETS)",
-      "date": "2026-03-21",
-      "end_date": "2026-03-22",
-      "timezone": "Asia/Shanghai",
-      "type": "range",
-      "year": 2026,
-      "description": "上半年全国英语等级考试。开考级别和报名期以中国教育考试网公告为准。",
-      "description_en": "H1 sitting of the Public English Test System. Levels offered and registration windows follow NEEA announcements.",
-      "url": "https://pets.neea.edu.cn",
-      "status": "completed",
-      "last_verified": "2026-06-13",
-      "verified_by": "community"
-    },
-    {
-      "id": "pets-2026-h2-exam",
-      "name": "2026下半年全国英语等级考试",
-      "name_en": "2026 H2 Public English Test System (PETS)",
-      "date": "2026-09-19",
-      "end_date": "2026-09-20",
-      "timezone": "Asia/Shanghai",
-      "type": "range",
-      "year": 2026,
-      "description": "下半年全国英语等级考试。开考级别和报名期以中国教育考试网公告为准。",
-      "description_en": "H2 sitting of the Public English Test System. Levels offered and registration windows follow NEEA announcements.",
-      "url": "https://pets.neea.edu.cn",
-      "status": "planned",
-      "last_verified": "2026-06-13",
-      "verified_by": "community"
-    }
-  ],
-  "last_updated": "2026-06-13"
+  "events": [],
+  "last_updated": "2026-08-31",
+  "hidden": true,
+  "disabled_reason": "已停用：原数据为静态或猜测日期，暂无可验证的动态官方数据接口"
 }

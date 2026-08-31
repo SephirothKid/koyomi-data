@@ -10,7 +10,7 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:wuthering-waves-wuthering-waves-2026-5004-version@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260829T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20260710T110000
 DTEND;TZID=Asia/Shanghai:20260820T040000
 SUMMARY:Wuthering Waves Version Calendar · Wuthering Waves v3.5 Version D
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wuthering-waves-wuthering-waves-2026-5282-maintenance@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260829T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20260820T040000
 DTEND;TZID=Asia/Shanghai:20260820T110000
 SUMMARY:Wuthering Waves Version Calendar · Wuthering Waves v3.6 Maintenan
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wuthering-waves-wuthering-waves-2026-5282-version@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260829T000000
+DTSTAMP:20260831T000000
 DTSTART;TZID=Asia/Shanghai:20260820T110000
 DTEND;TZID=Asia/Shanghai:20261001T040000
 SUMMARY:Wuthering Waves Version Calendar · Wuthering Waves v3.6 Version D
@@ -55,57 +55,6 @@ DESCRIPTION:Wuthering Waves v3.6 Version Content Availability.\n\nVersion:
 CATEGORIES:Wuthering Waves Version Calendar
 URL;VALUE=URI:https://wutheringwaves.kurogames.com/cn/main/news/detail/528
  2
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:wuthering-waves-wuthering-waves-2026-forecast-v1-update@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260829T000000
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Wuthering Waves Version Calendar · Wuthering Waves Next Version M
- aintenance Update Window
-DESCRIPTION:Wuthering Waves Next Version Maintenance Update prediction win
- dow. Subject to official announcement.\n\nType: forecast\n\ndata_nature: F
- orecast Window\nbasis: Approximately 42 days per version
-CATEGORIES:Wuthering Waves Version Calendar
-URL;VALUE=URI:https://wutheringwaves.kurogames.com/cn/main/news
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:wuthering-waves-wuthering-waves-2026-forecast-v2-update@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260829T000000
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Wuthering Waves Version Calendar · Wuthering Waves Future Version
-  2 Maintenance Update Window
-DESCRIPTION:Wuthering Waves Future Version 2 Maintenance Update prediction
-  window. Subject to official announcement.\n\nType: forecast\n\ndata_natur
- e: Forecast Window\nbasis: Approximately 42 days per version
-CATEGORIES:Wuthering Waves Version Calendar
-URL;VALUE=URI:https://wutheringwaves.kurogames.com/cn/main/news
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:wuthering-waves-wuthering-waves-2026-forecast-v3-update@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260829T000000
-DTSTART;VALUE=DATE:20261224
-DTEND;VALUE=DATE:20261225
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Wuthering Waves Version Calendar · Wuthering Waves Future Version
-  3 Maintenance Update Window
-DESCRIPTION:Wuthering Waves Future Version 3 Maintenance Update prediction
-  window. Subject to official announcement.\n\nType: forecast\n\ndata_natur
- e: Forecast Window\nbasis: Approximately 42 days per version
-CATEGORIES:Wuthering Waves Version Calendar
-URL;VALUE=URI:https://wutheringwaves.kurogames.com/cn/main/news
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

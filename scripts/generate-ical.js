@@ -569,6 +569,10 @@ for (const file of files) {
   try {
     source = JSON.parse(readFileSync(file, 'utf8'))
     if (ONLY_SOURCE_ID && source.id !== ONLY_SOURCE_ID) continue
+    if (source.hidden === true) {
+      console.log(`• ${source.id} disabled; no calendar generated`)
+      continue
+    }
 
     const calendarEvents = eventsForCalendar(source)
     totalEvents += calendarEvents.length
