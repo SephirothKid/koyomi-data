@@ -4,7 +4,9 @@
     "cpa": {
       "category": "exam",
       "checked_at": "2026-08-31",
-      "outcome": "unchanged"
+      "outcome": "failed",
+      "last_error": "fetch failed: https://cpaexam.cicpa.org.cn/articlelist/01/00.shtml (fetch failed)",
+      "maintenance_due": true
     },
     "judicial-exam": {
       "category": "exam",
