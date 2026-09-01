@@ -644,20 +644,6 @@ URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:epl-epl-2026-401879273@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260901T000000
-DTSTART;TZID=Asia/Shanghai:20260919T220000
-DTEND;TZID=Asia/Shanghai:20260919T230000
-SUMMARY:英超赛程 · 英超 · 克里斯托尔宫 @ 利兹联
-DESCRIPTION:克里斯托尔宫 作客 利兹联（英超 2026-27 赛季，
- 北京时间）\n\n主场: 利兹联\n客场: 克里斯托尔宫\n场馆: 
- Elland Road\n城市: Leeds
-CATEGORIES:英超赛程
-URL;VALUE=URI:https://www.premierleague.com/fixtures
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:epl-epl-2026-401879271@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260901T000000
@@ -695,6 +681,20 @@ SUMMARY:英超赛程 · 英超 · 利物浦 @ 伯恩茅斯
 DESCRIPTION:利物浦 作客 伯恩茅斯（英超 2026-27 赛季，北京
  时间）\n\n主场: 伯恩茅斯\n客场: 利物浦\n场馆: Vitality Sta
  dium\n城市: Bournemouth
+CATEGORIES:英超赛程
+URL;VALUE=URI:https://www.premierleague.com/fixtures
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-epl-2026-401879273@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260901T000000
+DTSTART;TZID=Asia/Shanghai:20260920T210000
+DTEND;TZID=Asia/Shanghai:20260920T220000
+SUMMARY:英超赛程 · 英超 · 克里斯托尔宫 @ 利兹联
+DESCRIPTION:克里斯托尔宫 作客 利兹联（英超 2026-27 赛季，
+ 北京时间）\n\n主场: 利兹联\n客场: 克里斯托尔宫\n场馆: 
+ Elland Road\n城市: Leeds
 CATEGORIES:英超赛程
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
@@ -1064,20 +1064,6 @@ URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:epl-epl-2026-401878765@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260901T000000
-DTSTART;TZID=Asia/Shanghai:20261024T220000
-DTEND;TZID=Asia/Shanghai:20261024T230000
-SUMMARY:英超赛程 · 英超 · 布莱顿 @ 利物浦
-DESCRIPTION:布莱顿 作客 利物浦（英超 2026-27 赛季，北京时
- 间）\n\n主场: 利物浦\n客场: 布莱顿\n场馆: Anfield\n城市: L
- iverpool
-CATEGORIES:英超赛程
-URL;VALUE=URI:https://www.premierleague.com/fixtures
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:epl-epl-2026-401878767@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260901T000000
@@ -1115,6 +1101,20 @@ SUMMARY:英超赛程 · 英超 · 布伦特福德 @ 赫尔城
 DESCRIPTION:布伦特福德 作客 赫尔城（英超 2026-27 赛季，北
  京时间）\n\n主场: 赫尔城\n客场: 布伦特福德\n场馆: The MK
  M Stadium\n城市: Hull
+CATEGORIES:英超赛程
+URL;VALUE=URI:https://www.premierleague.com/fixtures
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-epl-2026-401878765@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260901T000000
+DTSTART;TZID=Asia/Shanghai:20261025T220000
+DTEND;TZID=Asia/Shanghai:20261025T230000
+SUMMARY:英超赛程 · 英超 · 布莱顿 @ 利物浦
+DESCRIPTION:布莱顿 作客 利物浦（英超 2026-27 赛季，北京时
+ 间）\n\n主场: 利物浦\n客场: 布莱顿\n场馆: Anfield\n城市: L
+ iverpool
 CATEGORIES:英超赛程
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
@@ -1249,8 +1249,8 @@ BEGIN:VEVENT
 UID:epl-epl-2026-401879250@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260901T000000
-DTSTART;TZID=Asia/Shanghai:20261101T220000
-DTEND;TZID=Asia/Shanghai:20261101T230000
+DTSTART;TZID=Asia/Shanghai:20261101T040000
+DTEND;TZID=Asia/Shanghai:20261101T050000
 SUMMARY:英超赛程 · 英超 · 富勒姆 @ 阿斯顿维拉
 DESCRIPTION:富勒姆 作客 阿斯顿维拉（英超 2026-27 赛季，北
  京时间）\n\n主场: 阿斯顿维拉\n客场: 富勒姆\n场馆: Villa 
