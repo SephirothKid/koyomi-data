@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//genshin-impact//EN
+URL:https://koyomi.cast/sources/genshin-impact
+NAME:Genshin Impact Version Calendar
+X-WR-CALNAME:Genshin Impact Version Calendar
+X-WR-CALDESC:Genshin Impact updates, banners, and events parsed from offic
+ ial announcements only.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:genshin-impact-genshin-impact-2026-165618-maintenance@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260901T000000
+DTSTART;TZID=Asia/Shanghai:20260812T060000
+DTEND;TZID=Asia/Shanghai:20260812T070000
+SUMMARY:Genshin Impact Version Calendar · Genshin Impact v7.0 Maintenance
+  Update
+DESCRIPTION:Genshin Impact Official Maintenance Update.\n\nVersion: 7.0\nT
+ ype: maintenance\nOfficial source: 7.0版本更新维护预告\n\nofficial
+ _time: 2026/08/12 06:00前冒险等阶达到5级及以上的旅行者。 
+ 领取时间截至7.0
+CATEGORIES:Genshin Impact Version Calendar
+URL;VALUE=URI:https://ys.mihoyo.com/main/news/detail/165618
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:genshin-impact-genshin-impact-2026-165682-maintenance@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260901T000000
+DTSTART;TZID=Asia/Shanghai:20260812T060000
+DTEND;TZID=Asia/Shanghai:20260812T070000
+SUMMARY:Genshin Impact Version Calendar · Genshin Impact v7.0 Maintenance
+  Update
+DESCRIPTION:Genshin Impact Official Maintenance Update.\n\nVersion: 7.0\nT
+ ype: maintenance\nOfficial source: 「无神怜爱的雪国」7.0版本更
+ 新说明\n\nofficial_time: 2026/08/12 06:00前冒险等阶达到5级及
+ 以上的旅行者。 领取时间截至7.0
+CATEGORIES:Genshin Impact Version Calendar
+URL;VALUE=URI:https://ys.mihoyo.com/main/news/detail/165682
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

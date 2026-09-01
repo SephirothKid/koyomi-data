@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//genshin-impact//EN
+URL:https://koyomi.cast/sources/genshin-impact
+NAME:原神版本日历
+X-WR-CALNAME:原神版本日历
+X-WR-CALDESC:原神版本更新、卡池和活动节点，仅收录官方
+ 公告中可解析的日期。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:genshin-impact-genshin-impact-2026-165618-maintenance@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260901T000000
+DTSTART;TZID=Asia/Shanghai:20260812T060000
+DTEND;TZID=Asia/Shanghai:20260812T070000
+SUMMARY:原神版本日历 · 原神 7.0 版本维护更新
+DESCRIPTION:原神 官方版本维护更新。\n\n版本: 7.0\n类型: mai
+ ntenance\n官方来源: 7.0版本更新维护预告\n\nofficial_time: 2026
+ /08/12 06:00前冒险等阶达到5级及以上的旅行者。 领取时间
+ 截至7.0
+CATEGORIES:原神版本日历
+URL;VALUE=URI:https://ys.mihoyo.com/main/news/detail/165618
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:genshin-impact-genshin-impact-2026-165682-maintenance@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260901T000000
+DTSTART;TZID=Asia/Shanghai:20260812T060000
+DTEND;TZID=Asia/Shanghai:20260812T070000
+SUMMARY:原神版本日历 · 原神 7.0 版本维护更新
+DESCRIPTION:原神 官方版本维护更新。\n\n版本: 7.0\n类型: mai
+ ntenance\n官方来源: 「无神怜爱的雪国」7.0版本更新说明\n
+ \nofficial_time: 2026/08/12 06:00前冒险等阶达到5级及以上的旅
+ 行者。 领取时间截至7.0
+CATEGORIES:原神版本日历
+URL;VALUE=URI:https://ys.mihoyo.com/main/news/detail/165682
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
