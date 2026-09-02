@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//judicial-exam//EN
+URL:https://koyomi.cast/sources/judicial-exam
+NAME:National Legal Professional Qualification Exam
+X-WR-CALNAME:National Legal Professional Qualification Exam
+X-WR-CALDESC:国家统一法律职业资格考试（法考），包含主
+ 观题、客观题报名与考试时间安排。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:judicial-exam-judicial-exam-2026-obj-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260902T000000
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:National Legal Professional Qualification Exam · Objective Test
+DESCRIPTION:2026 Objective Test
+CATEGORIES:National Legal Professional Qualification Exam
+URL;VALUE=URI:http://legalinfo.moj.gov.cn/pub/sfbzhfx/zhfxfzzx/fzzxyw/2026
+ 06/t20260605_536079.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:judicial-exam-judicial-exam-2026-result@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260902T000000
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:National Legal Professional Qualification Exam · Objective Test R
+ esults
+DESCRIPTION:2026 Objective Test Results
+CATEGORIES:National Legal Professional Qualification Exam
+URL;VALUE=URI:http://legalinfo.moj.gov.cn/pub/sfbzhfx/zhfxfzzx/fzzxyw/2026
+ 06/t20260605_536079.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:judicial-exam-judicial-exam-2026-sub-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260902T000000
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:National Legal Professional Qualification Exam · Subjective Test
+DESCRIPTION:2026 Subjective Test
+CATEGORIES:National Legal Professional Qualification Exam
+URL;VALUE=URI:http://legalinfo.moj.gov.cn/pub/sfbzhfx/zhfxfzzx/fzzxyw/2026
+ 06/t20260605_536079.html
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
