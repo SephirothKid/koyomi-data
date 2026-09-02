@@ -2,23 +2,21 @@
   "id": "rawg-releases",
   "name": "RAWG 游戏发售",
   "category": "gaming",
-  "hidden": true,
-  "disabled_reason": "已停用：缺少 RAWG_API_KEY，无法验证当前发售日期",
-  "name_en": "RAWG Game Releases",
+  "name_en": "Multi-Platform Game Releases",
   "subcategory": "游戏发售",
   "subcategory_en": "Game Releases",
-  "description": "主流平台（PC / PS5 / PS4 / Xbox Series / Switch / iOS / Android）游戏发售日历，数据来自 RAWG 数据库。",
+  "description": "跟踪 PC、PlayStation、Xbox、Switch、移动端等主流平台的新游发售日期，适合玩家提前安排愿望单与游玩计划。数据由 RAWG 提供。",
   "description_en": "Upcoming game release dates across PC, PlayStation, Xbox, Nintendo Switch, iOS, and Android. Data provided by RAWG.",
   "icon": "🕹️",
   "tags": [
-    "游戏发售",
+    "新游发售",
     "PC",
     "PlayStation",
     "Xbox",
     "Switch"
   ],
   "tags_en": [
-    "Game Release",
+    "New Releases",
     "PC",
     "PlayStation",
     "Xbox",
@@ -525,9 +523,9 @@
       "description": "The Blood Of Dawnwalker 发售（PC / PS5）",
       "description_en": "The Blood Of Dawnwalker releases on PC / PS5.",
       "type": "event",
-      "status": "planned",
+      "status": "active",
       "url": "https://rawg.io/games/the-blood-of-dawnwalker",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -551,7 +549,7 @@
           ],
           "store_url": "https://rawg.io/games/the-blood-of-dawnwalker",
           "rawg_id": "996046",
-          "rawg_rating": 3.57
+          "rawg_rating": 3.5
         }
       ]
     },
@@ -567,7 +565,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/onimusha-way-of-the-sword",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -606,7 +604,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -653,7 +651,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/sigilfarer-a-dice-rolling-roguelite",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -692,7 +690,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/wolverine-2022",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -715,7 +713,48 @@
           ],
           "store_url": "https://rawg.io/games/wolverine-2022",
           "rawg_id": "662318",
-          "rawg_rating": 4.1
+          "rawg_rating": 3.82
+        }
+      ]
+    },
+    {
+      "id": "rawg-releases-2026-09-16",
+      "date": "2026-09-16",
+      "year": 2026,
+      "timezone": "Asia/Shanghai",
+      "name": "Aniimo 发售",
+      "name_en": "Aniimo release",
+      "description": "Aniimo 发售（Android / PC / PS5 / iOS）",
+      "description_en": "Aniimo releases on Android / PC / PS5 / iOS.",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/aniimo",
+      "last_verified": "2026-09-02",
+      "verified_by": "auto",
+      "details": {
+        "游戏数量": "1",
+        "发售游戏": "Aniimo",
+        "平台": "Android / PC / PS5 / iOS",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Aniimo",
+        "Platforms": "Android / PC / PS5 / iOS",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Aniimo",
+          "title_en": "Aniimo",
+          "platforms": [
+            "PC",
+            "PS5",
+            "iOS",
+            "Android"
+          ],
+          "store_url": "https://rawg.io/games/aniimo",
+          "rawg_id": "1004657"
         }
       ]
     },
@@ -731,7 +770,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "3",
@@ -793,7 +832,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/well-dweller",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -831,7 +870,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/alien-breed-35th-anniversary",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -869,7 +908,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -893,7 +932,7 @@
           ],
           "store_url": "https://rawg.io/games/control-resonant",
           "rawg_id": "1015409",
-          "rawg_rating": 4.22
+          "rawg_rating": 4.3
         },
         {
           "title": "Silent Hill Townfall",
@@ -919,7 +958,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/transport-fever-3",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -959,7 +998,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "3",
@@ -1017,7 +1056,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/ace-combat-8-wings-of-theve",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1056,7 +1095,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/gears-of-war-e-day",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1094,7 +1133,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/valor-mortis",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1133,7 +1172,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -1183,7 +1222,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/tenebris-somnia-demo",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1221,7 +1260,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/stupid-never-dies",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1259,7 +1298,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/final-fantasy-resonance",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1299,7 +1338,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/ecstatica",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1337,7 +1376,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/remothered-red-nuns-legacy",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1375,7 +1414,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/phantom-blade-zero",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1400,7 +1439,7 @@
           ],
           "store_url": "https://rawg.io/games/phantom-blade-zero",
           "rawg_id": "961205",
-          "rawg_rating": 3.43
+          "rawg_rating": 3.12
         }
       ]
     },
@@ -1416,7 +1455,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/no-rest-for-the-wicked-2024",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1457,7 +1496,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/space-station-designer",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1495,7 +1534,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/grand-theft-aito-vi",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1519,7 +1558,7 @@
           ],
           "store_url": "https://rawg.io/games/grand-theft-aito-vi",
           "rawg_id": "972995",
-          "rawg_rating": 3.74
+          "rawg_rating": 3.75
         }
       ]
     },
@@ -1535,7 +1574,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/beautiful-light",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1573,7 +1612,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/sombras-negative-frames",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1611,7 +1650,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/path-of-exile-2",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1650,7 +1689,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/they-come-in-fives",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1677,6 +1716,47 @@
       ]
     },
     {
+      "id": "rawg-releases-2027-01-15",
+      "date": "2027-01-15",
+      "year": 2027,
+      "timezone": "Asia/Shanghai",
+      "name": "ananta 发售",
+      "name_en": "ananta release",
+      "description": "ananta 发售（Android / PC / PS5 / iOS）",
+      "description_en": "ananta releases on Android / PC / PS5 / iOS.",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/ananta",
+      "last_verified": "2026-09-02",
+      "verified_by": "auto",
+      "details": {
+        "游戏数量": "1",
+        "发售游戏": "ananta",
+        "平台": "Android / PC / PS5 / iOS",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "ananta",
+        "Platforms": "Android / PC / PS5 / iOS",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "ananta",
+          "title_en": "ananta",
+          "platforms": [
+            "PC",
+            "PS5",
+            "iOS",
+            "Android"
+          ],
+          "store_url": "https://rawg.io/games/ananta",
+          "rawg_id": "994083"
+        }
+      ]
+    },
+    {
       "id": "rawg-releases-2027-02-12",
       "date": "2027-02-12",
       "year": 2027,
@@ -1688,7 +1768,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/tomb-raider-legacy-of-atlantis",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1727,7 +1807,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/god-of-war-laufey",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1765,7 +1845,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/fable2020",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1790,7 +1870,7 @@
           ],
           "store_url": "https://rawg.io/games/fable2020",
           "rawg_id": "471026",
-          "rawg_rating": 3.87
+          "rawg_rating": 3.69
         }
       ]
     },
@@ -1806,7 +1886,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/lords-of-the-fallen-2-2",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1846,7 +1926,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/exodus-archetype-entertainment",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1885,7 +1965,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/clutch-2027",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1924,7 +2004,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/unknown-carnivores-dinosaur-hunt-sequel",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-02",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1951,5 +2031,5 @@
       ]
     }
   ],
-  "last_updated": "2026-08-30"
+  "last_updated": "2026-09-02"
 }
