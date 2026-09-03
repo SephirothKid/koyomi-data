@@ -12875,7 +12875,7 @@
       "name_en": "Playoffs · TTG vs AG.SP",
       "name_zh": "季后赛 · TTG vs AG.SP",
       "date": "2026-09-03",
-      "time": "18:30",
+      "time": "18:38",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -12883,7 +12883,7 @@
       "description_en": "Talent Gaming vs AG Super Play — Playoffs (CST)",
       "description_zh": "Talent Gaming vs AG Super Play — Playoffs（北京时间）",
       "url": "https://www.youtube.com/watch?v=3kaZ88dKftY",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-03",
       "verified_by": "official",
       "teams": {
@@ -12901,6 +12901,12 @@
           "name_en": "AG Super Play",
           "image_url": "https://cdn-api.pandascore.co/images/team/image/129030/190px_all_gamers_logo.png"
         }
+      },
+      "result": {
+        "away_score": 4,
+        "home_score": 3,
+        "winner": "away",
+        "status": "completed"
       },
       "details": {
         "赛事": "King Pro League",
@@ -12986,6 +12992,67 @@
           },
           {
             "panda_match_id": "1643662",
+            "type": "winner"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kpl-2026-m1643666",
+      "name": "季后赛 · TES.A vs TTG",
+      "name_en": "Playoffs · TES.A vs TTG",
+      "name_zh": "季后赛 · TES.A vs TTG",
+      "date": "2026-09-05",
+      "time": "18:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "TOP Esports Armor vs Talent Gaming — Playoffs（北京时间）",
+      "description_en": "TOP Esports Armor vs Talent Gaming — Playoffs (CST)",
+      "description_zh": "TOP Esports Armor vs Talent Gaming — Playoffs（北京时间）",
+      "url": "https://www.youtube.com/@Hok_KPL",
+      "status": "confirmed",
+      "last_verified": "2026-09-03",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "top-esports-armor",
+          "code": "TES.A",
+          "name": "TOP Esports Armor",
+          "name_en": "TOP Esports Armor",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/129644/600px_top_esports_armor_2025_allmode.png"
+        },
+        "home": {
+          "id": "talent-gaming",
+          "code": "TTG",
+          "name": "Talent Gaming",
+          "name_en": "Talent Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/129041/190px_talent_gaming_logo.png"
+        }
+      },
+      "details": {
+        "赛事": "King Pro League",
+        "赛季": "Summer 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO7"
+      },
+      "bracket": {
+        "tournament_id": "21729",
+        "panda_match_id": "1643666",
+        "lane": "lower",
+        "round_key": "lower_semifinal",
+        "round_order": 2,
+        "slot_index": 0,
+        "label": "败者组四强",
+        "label_en": "Lower Semifinal",
+        "label_zh": "败者组四强",
+        "previous_matches": [
+          {
+            "panda_match_id": "1643665",
+            "type": "winner"
+          },
+          {
+            "panda_match_id": "1643664",
             "type": "winner"
           }
         ]

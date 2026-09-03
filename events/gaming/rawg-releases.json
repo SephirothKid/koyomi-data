@@ -554,6 +554,44 @@
       ]
     },
     {
+      "id": "rawg-releases-2026-09-03",
+      "date": "2026-09-03",
+      "year": 2026,
+      "timezone": "Asia/Shanghai",
+      "name": "Orbitals 发售",
+      "name_en": "Orbitals release",
+      "description": "Orbitals 发售（Switch）",
+      "description_en": "Orbitals releases on Switch.",
+      "type": "event",
+      "status": "active",
+      "url": "https://rawg.io/games/orbitals-3",
+      "last_verified": "2026-09-03",
+      "verified_by": "auto",
+      "details": {
+        "游戏数量": "1",
+        "发售游戏": "Orbitals",
+        "平台": "Switch",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Orbitals",
+        "Platforms": "Switch",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Orbitals",
+          "title_en": "Orbitals",
+          "platforms": [
+            "Switch"
+          ],
+          "store_url": "https://rawg.io/games/orbitals-3",
+          "rawg_id": "1019801"
+        }
+      ]
+    },
+    {
       "id": "rawg-releases-2026-09-04",
       "date": "2026-09-04",
       "year": 2026,
@@ -1754,6 +1792,44 @@
       ]
     },
     {
+      "id": "rawg-releases-2027-01-28",
+      "date": "2027-01-28",
+      "year": 2027,
+      "timezone": "Asia/Shanghai",
+      "name": "Until Dawn 2 发售",
+      "name_en": "Until Dawn 2 release",
+      "description": "Until Dawn 2 发售（PS5）",
+      "description_en": "Until Dawn 2 releases on PS5.",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/until-dawn-2-2",
+      "last_verified": "2026-09-03",
+      "verified_by": "auto",
+      "details": {
+        "游戏数量": "1",
+        "发售游戏": "Until Dawn 2",
+        "平台": "PS5",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Until Dawn 2",
+        "Platforms": "PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Until Dawn 2",
+          "title_en": "Until Dawn 2",
+          "platforms": [
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/until-dawn-2-2",
+          "rawg_id": "1018058"
+        }
+      ]
+    },
+    {
       "id": "rawg-releases-2027-02-12",
       "date": "2027-02-12",
       "year": 2027,
@@ -1967,24 +2043,24 @@
       "date": "2027-05-31",
       "year": 2027,
       "timezone": "Asia/Shanghai",
-      "name": "Clutch (2027) 发售",
-      "name_en": "Clutch (2027) release",
-      "description": "Clutch (2027) 发售（PC / PS5）",
-      "description_en": "Clutch (2027) releases on PC / PS5.",
+      "name": "Clutch (2027) 等 2 款发售",
+      "name_en": "Clutch (2027) + 1 more release",
+      "description": "当天发售：Clutch (2027)、Daba: Land of Water Scar",
+      "description_en": "Releases this day: Clutch (2027), Daba: Land of Water Scar.",
       "type": "event",
       "status": "planned",
-      "url": "https://rawg.io/games/clutch-2027",
+      "url": "https://rawg.io/games",
       "last_verified": "2026-09-03",
       "verified_by": "auto",
       "details": {
-        "游戏数量": "1",
-        "发售游戏": "Clutch (2027)",
+        "游戏数量": "2",
+        "发售游戏": "Clutch (2027)、Daba: Land of Water Scar",
         "平台": "PC / PS5",
         "数据来源": "RAWG"
       },
       "details_en": {
-        "Game count": "1",
-        "Games": "Clutch (2027)",
+        "Game count": "2",
+        "Games": "Clutch (2027), Daba: Land of Water Scar",
         "Platforms": "PC / PS5",
         "Data source": "RAWG"
       },
@@ -1998,6 +2074,16 @@
           ],
           "store_url": "https://rawg.io/games/clutch-2027",
           "rawg_id": "1018060"
+        },
+        {
+          "title": "Daba: Land of Water Scar",
+          "title_en": "Daba: Land of Water Scar",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/daba-land-of-water-scar",
+          "rawg_id": "1009837"
         }
       ]
     },
