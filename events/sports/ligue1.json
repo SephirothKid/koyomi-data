@@ -13961,7 +13961,7 @@
       "description": "里尔 作客 图卢兹（法甲 2026-27 赛季，北京时间）",
       "description_en": "Lille at Toulouse (Ligue 1 2026-27, Beijing time)",
       "url": "https://www.ligue1.com/fixtures-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-03",
       "verified_by": "auto",
       "teams": {
@@ -13981,8 +13981,15 @@
       "details": {
         "主场": "图卢兹",
         "客场": "里尔",
+        "比分": "图卢兹 0 - 1 里尔",
         "场馆": "Stadium Municipal de Toulouse",
         "城市": "Toulouse"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
