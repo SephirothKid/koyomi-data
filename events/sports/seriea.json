@@ -17236,7 +17236,7 @@
       "description": "科莫 作客 热那亚（意甲 2026-27 赛季，北京时间）",
       "description_en": "Como at Genoa (Serie A 2026-27, Beijing time)",
       "url": "https://www.legaseriea.it/en/serie-a/fixture-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-04",
       "verified_by": "auto",
       "teams": {
@@ -17256,8 +17256,15 @@
       "details": {
         "主场": "热那亚",
         "客场": "科莫",
+        "比分": "热那亚 1 - 4 科莫",
         "场馆": "Stadio Luigi Ferraris",
         "城市": "Genova"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 4,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {

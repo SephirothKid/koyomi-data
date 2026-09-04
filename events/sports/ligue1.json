@@ -14004,7 +14004,7 @@
       "description": "欧塞尔 作客 里昂（法甲 2026-27 赛季，北京时间）",
       "description_en": "AJ Auxerre at Lyon (Ligue 1 2026-27, Beijing time)",
       "url": "https://www.ligue1.com/fixtures-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-04",
       "verified_by": "auto",
       "teams": {
@@ -14024,8 +14024,15 @@
       "details": {
         "主场": "里昂",
         "客场": "欧塞尔",
+        "比分": "里昂 3 - 1 欧塞尔",
         "场馆": "Groupama Stadium",
         "城市": "Lyon"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -14040,7 +14047,7 @@
       "description": "摩纳哥 作客 巴黎圣日耳曼（法甲 2026-27 赛季，北京时间）",
       "description_en": "AS Monaco at Paris Saint-Germain (Ligue 1 2026-27, Beijing time)",
       "url": "https://www.ligue1.com/fixtures-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-04",
       "verified_by": "auto",
       "teams": {
@@ -14060,8 +14067,15 @@
       "details": {
         "主场": "巴黎圣日耳曼",
         "客场": "摩纳哥",
+        "比分": "巴黎圣日耳曼 1 - 2 摩纳哥",
         "场馆": "Parc des Princes",
         "城市": "Paris"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
