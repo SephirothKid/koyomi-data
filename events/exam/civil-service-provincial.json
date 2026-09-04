@@ -12,8 +12,8 @@
       "public-service"
     ]
   },
-  "description": "各省公务员考试公告、报名、笔试、成绩、面试等关键窗口聚合。省级时间差异较大，本源优先提醒全国共性阶段。",
-  "icon": "clipboard-check",
+  "description": "聚合各省已发布的公务员考试公告、报名和笔试时间。原始公告由各省官方渠道发布，本源仅使用 Gwy.com 的年度公告汇总，不采集预测日期。",
+  "icon": "🏛️",
   "tags": [
     "省考",
     "公务员",
@@ -27,10 +27,148 @@
     "Registration"
   ],
   "maintainer": "community",
-  "source_url": "https://www.offcn.com/gwy/",
-  "events": [],
-  "last_updated": "2026-08-30",
+  "source_url": "https://m.gwy.com/dfgwy/",
+  "events": [
+    {
+      "id": "civil-service-provincial-2026-early-announcement",
+      "name": "2026年度提前批次省考公告发布",
+      "name_en": "2026 Early-Batch Provincial Civil Service Exam Announcements",
+      "date": "2025-10-19",
+      "end_date": "2025-11-10",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "2026年提前批次省考公告集中发布期（北京、上海、江苏、浙江、山东、广东、四川、天津、西藏）。",
+      "description_en": "Announcement release period for early-batch provincial civil service exams (Beijing, Shanghai, Jiangsu, Zhejiang, Shandong, Guangdong, Sichuan, Tianjin, Xizang).",
+      "url": "https://www.gwy.com/dfgwy/392850.html",
+      "status": "completed",
+      "last_verified": "2026-09-04",
+      "verified_by": "community",
+      "details": {
+        "_provinces": "{\"北京\":{\"batch\":\"early\",\"announcementDate\":\"2025-11-10\",\"registrationStart\":\"2025-11-17\",\"registrationEnd\":\"2025-11-21\",\"writtenExamDate\":\"2025-12-06\",\"writtenExamEndDate\":\"2025-12-07\"},\"山东\":{\"batch\":\"early\",\"announcementDate\":\"2025-11-05\",\"registrationStart\":\"2025-11-07\",\"registrationEnd\":\"2025-11-10\",\"writtenExamDate\":\"2025-12-06\",\"writtenExamEndDate\":\"2025-12-07\"},\"天津\":{\"batch\":\"early\",\"announcementDate\":\"2025-11-04\",\"registrationStart\":\"2025-11-05\",\"registrationEnd\":\"2025-11-11\",\"writtenExamDate\":\"2025-12-06\",\"writtenExamEndDate\":\"2025-12-07\"},\"浙江\":{\"batch\":\"early\",\"announcementDate\":\"2025-11-03\",\"registrationStart\":\"2025-11-06\",\"registrationEnd\":\"2025-11-11\",\"writtenExamDate\":\"2025-12-06\",\"writtenExamEndDate\":\"2025-12-07\"},\"上海\":{\"batch\":\"early\",\"announcementDate\":\"2025-10-31\",\"registrationStart\":\"2025-11-01\",\"registrationEnd\":\"2025-11-07\",\"writtenExamDate\":\"2025-12-06\",\"writtenExamEndDate\":\"2025-12-07\"},\"江苏\":{\"batch\":\"early\",\"announcementDate\":\"2025-10-31\",\"registrationStart\":\"2025-11-04\",\"registrationEnd\":\"2025-11-10\",\"writtenExamDate\":\"2025-12-06\",\"writtenExamEndDate\":\"2025-12-07\"},\"四川\":{\"batch\":\"early\",\"announcementDate\":\"2025-10-29\",\"registrationStart\":\"2025-10-30\",\"registrationEnd\":\"2025-11-05\",\"writtenExamDate\":\"2025-12-07\",\"writtenExamEndDate\":\"2025-12-07\"},\"广东\":{\"batch\":\"early\",\"announcementDate\":\"2025-10-19\",\"registrationStart\":\"2025-10-20\",\"registrationEnd\":\"2025-10-24\",\"writtenExamDate\":\"2025-12-07\",\"writtenExamEndDate\":\"2025-12-07\"},\"河南\":{\"batch\":\"joint\",\"announcementDate\":\"2026-01-05\",\"registrationStart\":\"2026-01-06\",\"registrationEnd\":\"2026-01-14\",\"writtenExamDate\":\"2026-03-14\",\"writtenExamEndDate\":\"2026-03-15\"},\"湖北\":{\"batch\":\"joint\",\"announcementDate\":\"2026-01-12\",\"registrationStart\":\"2026-01-13\",\"registrationEnd\":\"2026-01-19\",\"writtenExamDate\":\"2026-03-14\",\"writtenExamEndDate\":\"2026-03-15\"},\"湖南\":{\"batch\":\"joint\",\"announcementDate\":\"2026-01-14\",\"registrationStart\":\"2026-01-29\",\"registrationEnd\":\"2026-02-04\",\"writtenExamDate\":\"2026-03-14\",\"writtenExamEndDate\":\"2026-03-15\"},\"安徽\":{\"batch\":\"joint\",\"announcementDate\":\"2026-01-15\",\"registrationStart\":\"2026-01-19\",\"registrationEnd\":\"2026-01-25\",\"writtenExamDate\":\"2026-03-14\",\"writtenExamEndDate\":\"2026-03-15\"},\"海南\":{\"batch\":\"joint\",\"announcementDate\":\"2026-01-15\",\"registrationStart\":\"2026-01-19\",\"registrationEnd\":\"2026-01-23\",\"writtenExamDate\":\"2026-03-14\",\"writtenExamEndDate\":\"2026-03-15\"},\"重庆\":{\"batch\":\"joint\",\"announcementDate\":\"2026-01-15\",\"registrationStart\":\"2026-01-20\",\"registrationEnd\":\"2026-01-25\",\"writtenExamDate\":\"2026-03-14\",\"writtenExamEndDate\":\"2026-03-15\"},\"福建\":{\"batch\":\"joint\",\"announcementDate\":\"2026-01-16\",\"registrationStart\":\"2026-01-19\",\"registrationEnd\":\"2026-01-23\",\"writtenExamDate\":\"2026-03-14\",\"writtenExamEndDate\":\"2026-03-15\"},\"贵州\":{\"batch\":\"joint\",\"announcementDate\":\"2026-01-16\",\"registrationStart\":\"2026-01-19\",\"registrationEnd\":\"2026-01-23\",\"writtenExamDate\":\"2026-03-14\",\"writtenExamEndDate\":\"2026-03-15\"},\"江西\":{\"batch\":\"joint\",\"announcementDate\":\"2026-01-21\",\"registrationStart\":\"2026-01-22\",\"registrationEnd\":\"2026-01-29\",\"writtenExamDate\":\"2026-03-14\",\"writtenExamEndDate\":\"2026-03-15\"},\"内蒙古\":{\"batch\":\"joint\",\"announcementDate\":\"2026-01-22\",\"registrationStart\":\"2026-02-01\",\"registrationEnd\":\"2026-02-05\",\"writtenExamDate\":\"2026-03-14\",\"writtenExamEndDate\":\"2026-03-15\"},\"黑龙江\":{\"batch\":\"joint\",\"announcementDate\":\"2026-01-23\",\"registrationStart\":\"2026-02-02\",\"registrationEnd\":\"2026-02-06\",\"writtenExamDate\":\"2026-03-14\",\"writtenExamEndDate\":\"2026-03-15\"},\"青海\":{\"batch\":\"joint\",\"announcementDate\":\"2026-01-23\",\"registrationStart\":\"2026-01-26\",\"registrationEnd\":\"2026-01-30\",\"writtenExamDate\":\"2026-03-14\",\"writtenExamEndDate\":\"2026-03-15\"},\"陕西\":{\"batch\":\"joint\",\"announcementDate\":\"2026-01-26\",\"registrationStart\":\"2026-02-01\",\"registrationEnd\":\"2026-02-06\",\"writtenExamDate\":\"2026-03-14\",\"writtenExamEndDate\":\"2026-03-15\"},\"辽宁\":{\"batch\":\"joint\",\"announcementDate\":\"2026-01-27\",\"registrationStart\":\"2026-01-30\",\"registrationEnd\":\"2026-02-03\",\"writtenExamDate\":\"2026-03-14\",\"writtenExamEndDate\":\"2026-03-15\"},\"吉林\":{\"batch\":\"joint\",\"announcementDate\":\"2026-01-29\",\"registrationStart\":\"2026-02-02\",\"registrationEnd\":\"2026-02-06\",\"writtenExamDate\":\"2026-03-14\",\"writtenExamEndDate\":\"2026-03-15\"},\"宁夏\":{\"batch\":\"joint\",\"announcementDate\":\"2026-01-29\",\"registrationStart\":\"2026-02-01\",\"registrationEnd\":\"2026-02-06\",\"writtenExamDate\":\"2026-03-14\",\"writtenExamEndDate\":\"2026-03-15\"},\"云南\":{\"batch\":\"joint\",\"announcementDate\":\"2026-01-30\",\"registrationStart\":\"2026-02-07\",\"registrationEnd\":\"2026-02-11\",\"writtenExamDate\":\"2026-03-14\",\"writtenExamEndDate\":\"2026-03-15\"},\"河北\":{\"batch\":\"joint\",\"announcementDate\":\"2026-01-30\",\"registrationStart\":\"2026-02-01\",\"registrationEnd\":\"2026-02-05\",\"writtenExamDate\":\"2026-03-14\",\"writtenExamEndDate\":\"2026-03-15\"},\"新疆兵团\":{\"batch\":\"joint\",\"announcementDate\":\"2026-01-27\",\"registrationStart\":\"2026-01-30\",\"registrationEnd\":\"2026-02-06\",\"writtenExamDate\":\"2026-03-14\",\"writtenExamEndDate\":\"2026-03-15\"},\"甘肃\":{\"batch\":\"joint\",\"announcementDate\":\"2026-01-30\",\"registrationStart\":\"2026-02-02\",\"registrationEnd\":\"2026-02-08\",\"writtenExamDate\":\"2026-03-14\",\"writtenExamEndDate\":\"2026-03-15\"},\"新疆\":{\"batch\":\"joint\",\"announcementDate\":\"2026-02-04\",\"registrationStart\":\"2026-02-06\",\"registrationEnd\":\"2026-02-11\",\"writtenExamDate\":\"2026-03-14\",\"writtenExamEndDate\":\"2026-03-15\"}}",
+        "_provinceList": "北京、天津、河北、山西、内蒙古、辽宁、吉林、黑龙江、上海、江苏、浙江、安徽、福建、江西、山东、河南、湖北、湖南、广东、广西、海南、重庆、四川、贵州、云南、西藏、陕西、甘肃、青海、宁夏、新疆、新疆兵团"
+      }
+    },
+    {
+      "id": "civil-service-provincial-2026-early-registration",
+      "name": "2026年度提前批次省考报名",
+      "name_en": "2026 Early-Batch Provincial Civil Service Exam Registration",
+      "date": "2025-10-20",
+      "end_date": "2025-11-21",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "2026年提前批次省考报名窗口。",
+      "description_en": "Registration window for early-batch provincial civil service exams.",
+      "url": "https://www.gwy.com/dfgwy/392850.html",
+      "status": "completed",
+      "last_verified": "2026-09-04",
+      "verified_by": "community"
+    },
+    {
+      "id": "civil-service-provincial-2026-early-admission-ticket",
+      "name": "2026年度提前批次省考准考证打印",
+      "name_en": "2026 Early-Batch Provincial Civil Service Exam Admission Ticket Release",
+      "date": "2025-11-29",
+      "end_date": "2025-12-07",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "2026年提前批次准考证打印窗口。",
+      "description_en": "Admission ticket printing window for early-batch provincial civil service exams.",
+      "url": "https://www.gwy.com/dfgwy/392850.html",
+      "status": "completed",
+      "last_verified": "2026-09-04",
+      "verified_by": "community"
+    },
+    {
+      "id": "civil-service-provincial-2026-early-written-exam",
+      "name": "2026年度提前批次省考笔试",
+      "name_en": "2026 Early-Batch Provincial Civil Service Exam Written Exam",
+      "date": "2025-12-06",
+      "end_date": "2025-12-07",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "2026年提前批次省考笔试（北京、上海、江苏、浙江、山东、广东、四川、天津、西藏）。",
+      "description_en": "Written exams for early-batch provinces (Beijing, Shanghai, Jiangsu, Zhejiang, Shandong, Guangdong, Sichuan, Tianjin, Xizang).",
+      "url": "https://www.gwy.com/dfgwy/392850.html",
+      "status": "completed",
+      "last_verified": "2026-09-04",
+      "verified_by": "community",
+      "details": {
+        "考试科目": "行政职业能力测验、申论；部分岗位含专业科目"
+      }
+    },
+    {
+      "id": "civil-service-provincial-2026-joint-announcement",
+      "name": "2026年度省考联考公告发布",
+      "name_en": "2026 Joint-Exam Provincial Civil Service Exam Announcements",
+      "date": "2026-01-05",
+      "end_date": "2026-02-04",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "2026年多省公务员联考公告集中发布期。",
+      "description_en": "Announcement release period for the multi-province joint civil service exam.",
+      "url": "https://www.gwy.com/dfgwy/392850.html",
+      "status": "completed",
+      "last_verified": "2026-09-04",
+      "verified_by": "community"
+    },
+    {
+      "id": "civil-service-provincial-2026-joint-registration",
+      "name": "2026年度省考联考报名",
+      "name_en": "2026 Joint-Exam Provincial Civil Service Exam Registration",
+      "date": "2026-01-06",
+      "end_date": "2026-02-11",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "2026年联考省份报名窗口。",
+      "description_en": "Registration window for joint-exam provinces.",
+      "url": "https://www.gwy.com/dfgwy/392850.html",
+      "status": "completed",
+      "last_verified": "2026-09-04",
+      "verified_by": "community"
+    },
+    {
+      "id": "civil-service-provincial-2026-joint-admission-ticket",
+      "name": "2026年度省考联考准考证打印",
+      "name_en": "2026 Joint-Exam Provincial Civil Service Exam Admission Ticket Release",
+      "date": "2026-03-07",
+      "end_date": "2026-03-15",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "2026年联考准考证打印窗口。",
+      "description_en": "Admission ticket printing window for joint-exam provinces.",
+      "url": "https://www.gwy.com/dfgwy/392850.html",
+      "status": "completed",
+      "last_verified": "2026-09-04",
+      "verified_by": "community"
+    },
+    {
+      "id": "civil-service-provincial-2026-joint-written-exam",
+      "name": "2026年度多省联考笔试",
+      "name_en": "2026 Multi-Province Joint Civil Service Written Exam",
+      "date": "2026-03-14",
+      "end_date": "2026-03-15",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "2026年多省公务员联考笔试。",
+      "description_en": "Written exam of the multi-province joint civil service exam.",
+      "url": "https://www.gwy.com/dfgwy/392850.html",
+      "status": "completed",
+      "last_verified": "2026-09-04",
+      "verified_by": "community",
+      "details": {
+        "考试科目": "行政职业能力测验、申论；部分岗位含专业科目"
+      }
+    }
+  ],
+  "last_updated": "2026-09-04",
   "subcategory_en": "Civil Service",
-  "hidden": true,
-  "disabled_reason": "已停用：官方汇总页面当前不可验证，恢复前不发布估算日期"
+  "attribution": "时间汇总来自上岸鸭公考（Gwy.com）；事件原文链接保留在每个事件中。"
 }
