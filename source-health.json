@@ -15,7 +15,7 @@
     },
     "fgo": {
       "category": "gaming",
-      "checked_at": "2026-09-03",
+      "checked_at": "2026-09-04",
       "outcome": "updated"
     },
     "tw-public-holidays": {
@@ -181,27 +181,27 @@
     },
     "arknights": {
       "category": "gaming",
-      "checked_at": "2026-09-03",
+      "checked_at": "2026-09-04",
       "outcome": "unchanged"
     },
     "cs2-tournaments": {
       "category": "gaming",
-      "checked_at": "2026-09-03",
+      "checked_at": "2026-09-04",
       "outcome": "unchanged"
     },
     "epic-free": {
       "category": "gaming",
-      "checked_at": "2026-09-03",
+      "checked_at": "2026-09-04",
       "outcome": "updated"
     },
     "kpl": {
       "category": "gaming",
-      "checked_at": "2026-09-03",
+      "checked_at": "2026-09-04",
       "outcome": "updated"
     },
     "lpl": {
       "category": "gaming",
-      "checked_at": "2026-09-03",
+      "checked_at": "2026-09-04",
       "outcome": "updated"
     },
     "console-showcases": {
@@ -212,26 +212,29 @@
     "genshin-impact": {
       "category": "gaming",
       "checked_at": "2026-09-03",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/16471662a82d418a/getContentList?iAppId=43&iChanId=719&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed)"
     },
     "honkai-star-rail": {
       "category": "gaming",
       "checked_at": "2026-09-03",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/1963de8dc19e461c/getContentList?iChanId=255&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed)"
     },
     "zenless-zone-zero": {
       "category": "gaming",
       "checked_at": "2026-09-03",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/706fd13a87294881/getContentList?iChanId=279&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed)"
     },
     "rawg-releases": {
       "category": "gaming",
-      "checked_at": "2026-09-03",
+      "checked_at": "2026-09-04",
       "outcome": "updated"
     },
     "steam-sales": {
       "category": "gaming",
-      "checked_at": "2026-09-03",
+      "checked_at": "2026-09-04",
       "outcome": "unchanged"
     },
     "wuthering-waves": {
