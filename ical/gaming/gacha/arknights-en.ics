@@ -12,7 +12,7 @@ BEGIN:VEVENT
 UID:arknights-arknights-2026-限定寻访夏季车辙与风的归所-banne
  r@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260831T000000
+DTSTAMP:20260905T000000
 DTSTART;TZID=Asia/Shanghai:20260801T120000
 DTEND;TZID=Asia/Shanghai:20260815T035900
 SUMMARY:Arknights Version Calendar · Arknights 【限定寻访·夏季】
@@ -31,7 +31,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arknights-arknights-2026-联合行动23-banner@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260831T000000
+DTSTAMP:20260905T000000
 DTSTART;TZID=Asia/Shanghai:20260818T160000
 DTEND;TZID=Asia/Shanghai:20260901T035900
 SUMMARY:Arknights Version Calendar · Arknights 联合行动23 Headhunting
@@ -41,6 +41,23 @@ DESCRIPTION:Arknights Headhunting Banner「联合行动23」.\n\nVersion:
  枳 / 诺威尔 / 小满 / 杏仁 / 裁度
 CATEGORIES:Arknights Version Calendar
 URL;VALUE=URI:https://prts.wiki/w/%E8%81%94%E5%90%88%E8%A1%8C%E5%8A%A823
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arknights-arknights-2026-石白深蓝之夜-banner@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260905T000000
+DTSTART;TZID=Asia/Shanghai:20260904T120000
+DTEND;TZID=Asia/Shanghai:20260918T035900
+SUMMARY:Arknights Version Calendar · Arknights 石白深蓝之夜 Headhun
+ ting
+DESCRIPTION:Arknights Limited Headhunting Banner「石白深蓝之夜」.\
+ n\nVersion: 石白深蓝之夜\nType: banner\n\nBanners:\n1. 石白深蓝
+ 之夜（Collaboration）\n5-star rate-up: 结城理 / 埃癸斯 / 岳羽
+ 由加莉
+CATEGORIES:Arknights Version Calendar
+URL;VALUE=URI:https://prts.wiki/w/%E7%9F%B3%E7%99%BD%E6%B7%B1%E8%93%9D%E4%
+ B9%8B%E5%A4%9C
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
