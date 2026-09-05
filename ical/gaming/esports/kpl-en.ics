@@ -460,11 +460,24 @@ BEGIN:VEVENT
 UID:kpl-kpl-2026-m1643666@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260905T000000
-DTSTART;TZID=Asia/Shanghai:20260905T183000
-DTEND;TZID=Asia/Shanghai:20260905T193000
+DTSTART;TZID=Asia/Shanghai:20260905T184300
+DTEND;TZID=Asia/Shanghai:20260905T194300
 SUMMARY:King Pro League · Playoffs · TES.A vs TTG
 DESCRIPTION:TOP Esports Armor vs Talent Gaming — Playoffs (CST)\n\n赛
  事: King Pro League\n赛季: Summer 2026\n阶段: Playoffs\n赛制: BO7
+CATEGORIES:King Pro League
+URL;VALUE=URI:https://www.twitch.tv/hok_esports_kpl
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kpl-kpl-2026-m1643668@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260905T000000
+DTSTART;TZID=Asia/Shanghai:20260906T183000
+DTEND;TZID=Asia/Shanghai:20260906T193000
+SUMMARY:King Pro League · Playoffs · JDG vs TTG
+DESCRIPTION:JD Gaming vs Talent Gaming — Playoffs (CST)\n\n赛事: King 
+ Pro League\n赛季: Summer 2026\n阶段: Playoffs\n赛制: BO7
 CATEGORIES:King Pro League
 URL;VALUE=URI:https://www.twitch.tv/hok_esports_kpl
 STATUS:CONFIRMED
