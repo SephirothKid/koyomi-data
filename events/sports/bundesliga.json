@@ -13839,7 +13839,7 @@
       "description": "拜仁慕尼黑 作客 沙尔克04（德甲 2026-27 赛季，北京时间）",
       "description_en": "Bayern Munich at Schalke 04 (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-05",
       "verified_by": "auto",
       "teams": {
@@ -13859,8 +13859,15 @@
       "details": {
         "主场": "沙尔克04",
         "客场": "拜仁慕尼黑",
+        "比分": "沙尔克04 0 - 0 拜仁慕尼黑",
         "场馆": "Veltins Arena",
         "城市": "Gelsenkirchen"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 0,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {

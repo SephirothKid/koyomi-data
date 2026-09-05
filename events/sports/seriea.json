@@ -17322,7 +17322,7 @@
       "description": "那不勒斯 作客 国际米兰（意甲 2026-27 赛季，北京时间）",
       "description_en": "Napoli at Internazionale (Serie A 2026-27, Beijing time)",
       "url": "https://www.legaseriea.it/en/serie-a/fixture-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-05",
       "verified_by": "auto",
       "teams": {
@@ -17342,8 +17342,15 @@
       "details": {
         "主场": "国际米兰",
         "客场": "那不勒斯",
+        "比分": "国际米兰 3 - 2 那不勒斯",
         "场馆": "San Siro",
         "城市": "Milano"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 2,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -17358,7 +17365,7 @@
       "description": "亚特兰大 作客 罗马（意甲 2026-27 赛季，北京时间）",
       "description_en": "Atalanta at AS Roma (Serie A 2026-27, Beijing time)",
       "url": "https://www.legaseriea.it/en/serie-a/fixture-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-05",
       "verified_by": "auto",
       "teams": {
@@ -17378,8 +17385,15 @@
       "details": {
         "主场": "罗马",
         "客场": "亚特兰大",
+        "比分": "罗马 2 - 1 亚特兰大",
         "场馆": "Olimpico",
         "城市": "Roma"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
