@@ -15,7 +15,7 @@
     },
     "fgo": {
       "category": "gaming",
-      "checked_at": "2026-09-05",
+      "checked_at": "2026-09-06",
       "outcome": "unchanged"
     },
     "tw-public-holidays": {
@@ -180,27 +180,27 @@
     },
     "arknights": {
       "category": "gaming",
-      "checked_at": "2026-09-05",
+      "checked_at": "2026-09-06",
       "outcome": "unchanged"
     },
     "cs2-tournaments": {
       "category": "gaming",
-      "checked_at": "2026-09-05",
+      "checked_at": "2026-09-06",
       "outcome": "unchanged"
     },
     "epic-free": {
       "category": "gaming",
-      "checked_at": "2026-09-05",
+      "checked_at": "2026-09-06",
       "outcome": "unchanged"
     },
     "kpl": {
       "category": "gaming",
-      "checked_at": "2026-09-05",
-      "outcome": "updated"
+      "checked_at": "2026-09-06",
+      "outcome": "unchanged"
     },
     "lpl": {
       "category": "gaming",
-      "checked_at": "2026-09-05",
+      "checked_at": "2026-09-06",
       "outcome": "updated"
     },
     "console-showcases": {
@@ -211,31 +211,33 @@
     "genshin-impact": {
       "category": "gaming",
       "checked_at": "2026-09-05",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/16471662a82d418a/getContentList?iAppId=43&iChanId=721&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed)"
     },
     "honkai-star-rail": {
       "category": "gaming",
       "checked_at": "2026-09-05",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/1963de8dc19e461c/getContentList?iChanId=255&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed)"
     },
     "zenless-zone-zero": {
       "category": "gaming",
-      "checked_at": "2026-09-05",
+      "checked_at": "2026-09-06",
       "outcome": "unchanged"
     },
     "rawg-releases": {
       "category": "gaming",
-      "checked_at": "2026-09-05",
+      "checked_at": "2026-09-06",
       "outcome": "unchanged"
     },
     "steam-sales": {
       "category": "gaming",
-      "checked_at": "2026-09-05",
+      "checked_at": "2026-09-06",
       "outcome": "unchanged"
     },
     "wuthering-waves": {
       "category": "gaming",
-      "checked_at": "2026-09-05",
+      "checked_at": "2026-09-06",
       "outcome": "unchanged"
     },
     "accounting-qualification": {
