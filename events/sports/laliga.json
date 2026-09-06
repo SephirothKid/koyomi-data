@@ -17881,7 +17881,7 @@
       "description": "巴塞罗那 作客 瓦伦西亚（西甲 2026-27 赛季，北京时间）",
       "description_en": "Barcelona at Valencia (La Liga 2026-27, Beijing time)",
       "url": "https://www.laliga.com/laliga-ea-sports",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-06",
       "verified_by": "auto",
       "teams": {
@@ -17901,8 +17901,15 @@
       "details": {
         "主场": "瓦伦西亚",
         "客场": "巴塞罗那",
+        "比分": "瓦伦西亚 0 - 5 巴塞罗那",
         "场馆": "Mestalla Stadium",
         "城市": "Manises"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 5,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -17917,7 +17924,7 @@
       "description": "奥萨苏纳 作客 阿拉维斯（西甲 2026-27 赛季，北京时间）",
       "description_en": "Osasuna at Alavés (La Liga 2026-27, Beijing time)",
       "url": "https://www.laliga.com/laliga-ea-sports",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-06",
       "verified_by": "auto",
       "teams": {
@@ -17937,8 +17944,15 @@
       "details": {
         "主场": "阿拉维斯",
         "客场": "奥萨苏纳",
+        "比分": "阿拉维斯 5 - 2 奥萨苏纳",
         "场馆": "Mendizorrotza",
         "城市": "Vitoria-Gasteiz"
+      },
+      "result": {
+        "home_score": 5,
+        "away_score": 2,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -17953,7 +17967,7 @@
       "description": "莱万特 作客 马拉加（西甲 2026-27 赛季，北京时间）",
       "description_en": "Levante at Málaga (La Liga 2026-27, Beijing time)",
       "url": "https://www.laliga.com/laliga-ea-sports",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-06",
       "verified_by": "auto",
       "teams": {
@@ -17973,8 +17987,15 @@
       "details": {
         "主场": "马拉加",
         "客场": "莱万特",
+        "比分": "马拉加 0 - 0 莱万特",
         "场馆": "La Rosaleda",
         "城市": "Malaga"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 0,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {

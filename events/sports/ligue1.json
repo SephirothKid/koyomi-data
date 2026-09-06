@@ -14262,7 +14262,7 @@
       "description": "雷恩 作客 昂热（法甲 2026-27 赛季，北京时间）",
       "description_en": "Stade Rennais at Angers (Ligue 1 2026-27, Beijing time)",
       "url": "https://www.ligue1.com/fixtures-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-06",
       "verified_by": "auto",
       "teams": {
@@ -14282,8 +14282,15 @@
       "details": {
         "主场": "昂热",
         "客场": "雷恩",
+        "比分": "昂热 1 - 2 雷恩",
         "场馆": "Stade Raymond Kopa",
         "城市": "Angers"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -14298,7 +14305,7 @@
       "description": "巴黎FC 作客 马赛（法甲 2026-27 赛季，北京时间）",
       "description_en": "Paris FC at Marseille (Ligue 1 2026-27, Beijing time)",
       "url": "https://www.ligue1.com/fixtures-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-06",
       "verified_by": "auto",
       "teams": {
@@ -14318,8 +14325,15 @@
       "details": {
         "主场": "马赛",
         "客场": "巴黎FC",
+        "比分": "马赛 2 - 3 巴黎FC",
         "场馆": "Stade Vélodrome",
         "城市": "Marseille"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {

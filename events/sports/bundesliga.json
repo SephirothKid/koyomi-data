@@ -13925,7 +13925,7 @@
       "description": "奥格斯堡 作客 法兰克福（德甲 2026-27 赛季，北京时间）",
       "description_en": "FC Augsburg at Eintracht Frankfurt (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-06",
       "verified_by": "auto",
       "teams": {
@@ -13945,8 +13945,15 @@
       "details": {
         "主场": "法兰克福",
         "客场": "奥格斯堡",
+        "比分": "法兰克福 1 - 4 奥格斯堡",
         "场馆": "Deutsche Bank Park",
         "城市": "Frankfurt"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 4,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {

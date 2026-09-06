@@ -17623,7 +17623,7 @@
       "description": "切尔西 作客 阿森纳（英超 2026-27 赛季，北京时间）",
       "description_en": "Chelsea at Arsenal (Premier League 2026-27, Beijing time)",
       "url": "https://www.premierleague.com/fixtures",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-06",
       "verified_by": "auto",
       "teams": {
@@ -17643,8 +17643,15 @@
       "details": {
         "主场": "阿森纳",
         "客场": "切尔西",
+        "比分": "阿森纳 2 - 1 切尔西",
         "场馆": "Emirates Stadium",
         "城市": "London"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
