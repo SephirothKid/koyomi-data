@@ -610,8 +610,8 @@ BEGIN:VEVENT
 UID:lpl-lpl-2026-m1643092@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260907T000000
-DTSTART;TZID=Asia/Shanghai:20260907T170000
-DTEND;TZID=Asia/Shanghai:20260907T180000
+DTSTART;TZID=Asia/Shanghai:20260907T170700
+DTEND;TZID=Asia/Shanghai:20260907T180700
 SUMMARY:LPL · 季后赛 · AL vs BLG
 DESCRIPTION:Anyone's Legend vs Bilibili Gaming — Playoffs（北京时间
  ）\n\n赛事: LPL\n赛季: Split 3 2026\n阶段: Playoffs\n赛制: BO5
@@ -630,6 +630,19 @@ DESCRIPTION:Invictus Gaming vs LGD Gaming — Playoffs（北京时间）\n
  \n赛事: LPL\n赛季: Split 3 2026\n阶段: Playoffs\n赛制: BO5
 CATEGORIES:LPL
 URL;VALUE=URI:https://www.youtube.com/@LPL_English/live
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lpl-lpl-2026-m1652747@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260907T000000
+DTSTART;TZID=Asia/Shanghai:20260918T170000
+DTEND;TZID=Asia/Shanghai:20260918T180000
+SUMMARY:LPL · 季后赛 · WE vs JDG
+DESCRIPTION:Team WE vs JD Gaming — Playoffs（北京时间）\n\n赛事:
+  LPL\n赛季: Regional Finals 2026\n阶段: Playoffs\n赛制: BO5
+CATEGORIES:LPL
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
