@@ -18053,7 +18053,7 @@
       "description": "塞尔塔 作客 赫塔费（西甲 2026-27 赛季，北京时间）",
       "description_en": "Celta Vigo at Getafe (La Liga 2026-27, Beijing time)",
       "url": "https://www.laliga.com/laliga-ea-sports",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-07",
       "verified_by": "auto",
       "teams": {
@@ -18073,8 +18073,15 @@
       "details": {
         "主场": "赫塔费",
         "客场": "塞尔塔",
+        "比分": "赫塔费 1 - 1 塞尔塔",
         "场馆": "Estadio Coliseum",
         "城市": "Getafe"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -18089,7 +18096,7 @@
       "description": "皇家社会 作客 埃尔切（西甲 2026-27 赛季，北京时间）",
       "description_en": "Real Sociedad at Elche (La Liga 2026-27, Beijing time)",
       "url": "https://www.laliga.com/laliga-ea-sports",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-07",
       "verified_by": "auto",
       "teams": {
@@ -18109,8 +18116,15 @@
       "details": {
         "主场": "埃尔切",
         "客场": "皇家社会",
+        "比分": "埃尔切 2 - 3 皇家社会",
         "场馆": "Estadio Martínez Valero",
         "城市": "Elche"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
