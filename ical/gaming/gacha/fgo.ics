@@ -9,21 +9,6 @@ X-WR-CALDESC:FGO国服活动、召唤卡池和维护提醒。数据来自
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-UID:fgo-fgo-2026-FateGrandOrderFes202-activity@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260905T000000
-DTSTART;TZID=Asia/Shanghai:20260718T190000
-DTEND;TZID=Asia/Shanghai:20260808T095900
-SUMMARY:FGO 活动日历 · FGO 「Fate/Grand Order Fes. 2026 ～10th Anni
- versary～」倒计时纪念活动
-DESCRIPTION:FGO活动「「Fate/Grand Order Fes. 2026 ～10th Anniversary
- ～」倒计时纪念活动」。\n\n版本: 「Fate/Grand Order Fes. 2026
-  ～10th Anniversary～」倒计时纪念活动\n类型: announcement
-CATEGORIES:FGO 活动日历
-URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:fgo-fgo-2026-总统特异点通关应援纪念活动第2弹-activity@k
  oyomi.cast
 SEQUENCE:0
@@ -74,61 +59,6 @@ URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:fgo-fgo-2026-10周年纪念福袋召唤-banner@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260801T000000
-DTSTART;TZID=Asia/Shanghai:20260729T120000
-DTEND;TZID=Asia/Shanghai:20260808T095900
-SUMMARY:FGO 活动日历 · FGO 10周年纪念福袋召唤 召唤
-DESCRIPTION:FGO召唤「10周年纪念福袋召唤」。\n\n版本: 10周
- 年纪念福袋召唤\n类型: banner\n\n卡池信息：\n1. 10周年纪
- 念福袋召唤（角色）
-CATEGORIES:FGO 活动日历
-URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:fgo-fgo-2026-DestinyOrder召唤EXTRA-banner@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260801T000000
-DTSTART;TZID=Asia/Shanghai:20260729T120000
-DTEND;TZID=Asia/Shanghai:20260808T095900
-SUMMARY:FGO 活动日历 · FGO Destiny Order召唤(EXTRA) 召唤
-DESCRIPTION:FGO召唤「Destiny Order召唤(EXTRA)」。\n\n版本: Destin
- y Order召唤(EXTRA)\n类型: banner\n\n卡池信息：\n1. Destiny Order
- 召唤(EXTRA)（角色）
-CATEGORIES:FGO 活动日历
-URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:fgo-fgo-2026-DestinyOrder召唤七骑士-banner@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260801T000000
-DTSTART;TZID=Asia/Shanghai:20260729T120000
-DTEND;TZID=Asia/Shanghai:20260808T095900
-SUMMARY:FGO 活动日历 · FGO Destiny Order召唤(七骑士) 召唤
-DESCRIPTION:FGO召唤「Destiny Order召唤(七骑士)」。\n\n版本: De
- stiny Order召唤(七骑士)\n类型: banner\n\n卡池信息：\n1. Destin
- y Order召唤(七骑士)（角色）
-CATEGORIES:FGO 活动日历
-URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:fgo-fgo-2026-FateGrandOrder10thAn-activity@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260905T000000
-DTSTART;TZID=Asia/Shanghai:20260729T120000
-DTEND;TZID=Asia/Shanghai:20260808T095900
-SUMMARY:FGO 活动日历 · FGO Fate/Grand Order ～10th Anniversary～
-DESCRIPTION:FGO活动「Fate/Grand Order ～10th Anniversary～」。\n\n
- 版本: Fate/Grand Order ～10th Anniversary～\n类型: announcement
-CATEGORIES:FGO 活动日历
-URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:fgo-fgo-2026-冠位戴冠战Extra开幕前夕纪念活动-activity@koy
  omi.cast
 SEQUENCE:0
@@ -140,24 +70,6 @@ SUMMARY:FGO 活动日历 · FGO 「冠位戴冠战：Extra」开幕前夕
 DESCRIPTION:FGO活动「「冠位戴冠战：Extra」开幕前夕纪念活
  动」。\n\n版本: 「冠位戴冠战：Extra」开幕前夕纪念活动
  \n类型: announcement
-CATEGORIES:FGO 活动日历
-URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:fgo-fgo-2026-简中版10周年专属PV纪念召唤-banner@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260801T000000
-DTSTART;TZID=Asia/Shanghai:20260729T120000
-DTEND;TZID=Asia/Shanghai:20260808T095900
-SUMMARY:FGO 活动日历 · FGO 简中版10周年专属PV纪念召唤 召
- 唤
-DESCRIPTION:FGO召唤「简中版10周年专属PV纪念召唤」。\n\n版
- 本: 简中版10周年专属PV纪念召唤\n类型: banner\n\n卡池信息
- ：\n1. 简中版10周年专属PV纪念召唤（角色）\n5星 UP: 伊什
- 塔尔 / 埃列什基伽勒 / 岩窟王 / 莱昂纳多·达·芬奇 / 始
- 皇帝 / 贞德〔Alter〕 / 伟大的石像神 / 尼莫 / 奥伯龙 / 阿
- 尔托莉雅·卡斯特
 CATEGORIES:FGO 活动日历
 URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
 STATUS:CONFIRMED
