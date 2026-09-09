@@ -8,4 +8,47 @@ X-WR-CALDESC:山西汾酒在CBA赛程中的比赛日程，自动同步更
  新。
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cba-29132-cba-2027-100110432@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260909T000000
+DTSTART;TZID=Asia/Shanghai:20261009T193000
+DTEND;TZID=Asia/Shanghai:20261009T203000
+SUMMARY:山西汾酒赛程 · 季前赛 · 山西汾酒 @ 深圳马可波
+ 罗
+DESCRIPTION:山西汾酒 作客 深圳马可波罗（CBA 2026-27 赛季，
+ 北京时间）\n\n阶段: 季前赛\n场序: 0\n主场: 深圳马可波
+ 罗\n客场: 山西汾酒
+CATEGORIES:山西汾酒赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-29132-cba-2027-100110422@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260909T000000
+DTSTART;TZID=Asia/Shanghai:20261010T150000
+DTEND;TZID=Asia/Shanghai:20261010T160000
+SUMMARY:山西汾酒赛程 · 季前赛 · 山西汾酒 vs 南京天之蓝
+DESCRIPTION:南京天之蓝 作客 山西汾酒（CBA 2026-27 赛季，北
+ 京时间）\n\n阶段: 季前赛\n场序: 0\n主场: 山西汾酒\n客场
+ : 南京天之蓝
+CATEGORIES:山西汾酒赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-29132-cba-2027-100110426@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260909T000000
+DTSTART;TZID=Asia/Shanghai:20261011T193000
+DTEND;TZID=Asia/Shanghai:20261011T203000
+SUMMARY:山西汾酒赛程 · 季前赛 · 山西汾酒 @ 北京控股
+DESCRIPTION:山西汾酒 作客 北京控股（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 季前赛\n场序: 0\n主场: 北京控股\n客场: 
+ 山西汾酒
+CATEGORIES:山西汾酒赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR

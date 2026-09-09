@@ -8,4 +8,47 @@ X-WR-CALDESC:山东高速在CBA赛程中的比赛日程，自动同步更
  新。
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cba-29130-cba-2027-100110433@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260909T000000
+DTSTART;TZID=Asia/Shanghai:20261009T193000
+DTEND;TZID=Asia/Shanghai:20261009T203000
+SUMMARY:山东高速赛程 · 季前赛 · 山东高速 @ 广东东阳光
+DESCRIPTION:山东高速 作客 广东东阳光（CBA 2026-27 赛季，北
+ 京时间）\n\n阶段: 季前赛\n场序: 0\n主场: 广东东阳光\n客
+ 场: 山东高速
+CATEGORIES:山东高速赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-29130-cba-2027-100110435@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260909T000000
+DTSTART;TZID=Asia/Shanghai:20261010T150000
+DTEND;TZID=Asia/Shanghai:20261010T160000
+SUMMARY:山东高速赛程 · 季前赛 · 山东高速 vs 天津先行者
+DESCRIPTION:天津先行者 作客 山东高速（CBA 2026-27 赛季，北
+ 京时间）\n\n阶段: 季前赛\n场序: 0\n主场: 山东高速\n客场
+ : 天津先行者
+CATEGORIES:山东高速赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-29130-cba-2027-100110438@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260909T000000
+DTSTART;TZID=Asia/Shanghai:20261011T150000
+DTEND;TZID=Asia/Shanghai:20261011T160000
+SUMMARY:山东高速赛程 · 季前赛 · 山东高速 vs 广州朗肽海
+ 本
+DESCRIPTION:广州朗肽海本 作客 山东高速（CBA 2026-27 赛季，
+ 北京时间）\n\n阶段: 季前赛\n场序: 0\n主场: 山东高速\n客
+ 场: 广州朗肽海本
+CATEGORIES:山东高速赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
