@@ -23,7 +23,7 @@
   "subscriber_count": 0,
   "rating": 0,
   "rating_count": 0,
-  "last_updated": "2026-09-08",
+  "last_updated": "2026-09-09",
   "events": [
     {
       "id": "ucl-2025-757653",
@@ -8354,7 +8354,7 @@
       "description_en": "LASK Linz at AEK Athens (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -8398,7 +8398,7 @@
       "description_en": "Aston Villa at Club Brugge (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -8442,7 +8442,7 @@
       "description_en": "Villarreal at Borussia Dortmund (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -8486,7 +8486,7 @@
       "description_en": "Manchester City at FC Porto (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -8530,7 +8530,7 @@
       "description_en": "Real Betis at Lille (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -8574,7 +8574,7 @@
       "description_en": "Internazionale at Real Madrid (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "completed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -8617,8 +8617,8 @@
       "description": "费耶诺德 作客 巴塞罗那（欧冠 2026-27 赛季 联赛阶段，北京时间）",
       "description_en": "Feyenoord Rotterdam at Barcelona (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
-      "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "status": "completed",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -8638,8 +8638,15 @@
         "阶段": "联赛阶段",
         "主场": "巴塞罗那",
         "客场": "费耶诺德",
+        "比分": "巴塞罗那 5 - 1 费耶诺德",
         "场馆": "Spotify Camp Nou",
         "城市": "Barcelona"
+      },
+      "result": {
+        "home_score": 5,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -8654,8 +8661,8 @@
       "description": "维京 作客 斯图加特（欧冠 2026-27 赛季 联赛阶段，北京时间）",
       "description_en": "Viking FK at VfB Stuttgart (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
-      "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "status": "completed",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -8675,8 +8682,15 @@
         "阶段": "联赛阶段",
         "主场": "斯图加特",
         "客场": "维京",
+        "比分": "斯图加特 3 - 1 维京",
         "场馆": "MHPArena",
         "城市": "Stuttgart"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -8691,8 +8705,8 @@
       "description": "马竞 作客 利物浦（欧冠 2026-27 赛季 联赛阶段，北京时间）",
       "description_en": "Atlético Madrid at Liverpool (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
-      "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "status": "completed",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -8712,8 +8726,15 @@
         "阶段": "联赛阶段",
         "主场": "利物浦",
         "客场": "马竞",
+        "比分": "利物浦 2 - 1 马竞",
         "场馆": "Anfield",
         "城市": "Liverpool"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -8728,8 +8749,8 @@
       "description": "阿森纳 作客 那不勒斯（欧冠 2026-27 赛季 联赛阶段，北京时间）",
       "description_en": "Arsenal at Napoli (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
-      "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "status": "completed",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -8749,8 +8770,15 @@
         "阶段": "联赛阶段",
         "主场": "那不勒斯",
         "客场": "阿森纳",
+        "比分": "那不勒斯 0 - 1 阿森纳",
         "场馆": "Stadio Diego Armando Maradona",
         "城市": "Napoli"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -8765,8 +8793,8 @@
       "description": "Slovan Bratislava 作客 巴黎圣日耳曼（欧冠 2026-27 赛季 联赛阶段，北京时间）",
       "description_en": "Slovan Bratislava at Paris Saint-Germain (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
-      "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "status": "completed",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -8786,8 +8814,15 @@
         "阶段": "联赛阶段",
         "主场": "巴黎圣日耳曼",
         "客场": "Slovan Bratislava",
+        "比分": "巴黎圣日耳曼 6 - 1 Slovan Bratislava",
         "场馆": "Parc des Princes",
         "城市": "Paris"
+      },
+      "result": {
+        "home_score": 6,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -8802,8 +8837,8 @@
       "description": "加拉塔萨雷 作客 葡萄牙体育（欧冠 2026-27 赛季 联赛阶段，北京时间）",
       "description_en": "Galatasaray at Sporting CP (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
-      "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "status": "completed",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -8823,8 +8858,15 @@
         "阶段": "联赛阶段",
         "主场": "葡萄牙体育",
         "客场": "加拉塔萨雷",
+        "比分": "葡萄牙体育 3 - 1 加拉塔萨雷",
         "场馆": "Estádio José Alvalade",
         "城市": "Lisbon"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -8840,7 +8882,7 @@
       "description_en": "AS Roma at Fenerbahce (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -8877,7 +8919,7 @@
       "description_en": "Shakhtar Donetsk at PSV Eindhoven (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -8914,7 +8956,7 @@
       "description_en": "Bodo/Glimt at Bayern Munich (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -8951,7 +8993,7 @@
       "description_en": "RB Leipzig at Como (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -8988,7 +9030,7 @@
       "description_en": "Sabah FK at Manchester United (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9025,7 +9067,7 @@
       "description_en": "Lens at Slavia Prague (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9062,7 +9104,7 @@
       "description_en": "Sporting CP at Lens (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9099,7 +9141,7 @@
       "description_en": "Slavia Prague at Sabah FK (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9118,7 +9160,9 @@
       "details": {
         "阶段": "联赛阶段",
         "主场": "萨巴伊尔",
-        "客场": "布拉格斯拉维亚"
+        "客场": "布拉格斯拉维亚",
+        "场馆": "Baku Olympic Stadium",
+        "城市": "Baku"
       }
     },
     {
@@ -9134,7 +9178,7 @@
       "description_en": "Lille at Arsenal (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9171,7 +9215,7 @@
       "description_en": "Manchester United at Atlético Madrid (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9208,7 +9252,7 @@
       "description_en": "Barcelona at Galatasaray (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9245,7 +9289,7 @@
       "description_en": "Club Brugge at Internazionale (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9282,7 +9326,7 @@
       "description_en": "PSV Eindhoven at RB Leipzig (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9319,7 +9363,7 @@
       "description_en": "Bayern Munich at Viking FK (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9356,7 +9400,7 @@
       "description_en": "Napoli at Villarreal (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9393,7 +9437,7 @@
       "description_en": "Como at Feyenoord Rotterdam (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9430,7 +9474,7 @@
       "description_en": "Liverpool at LASK Linz (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9467,7 +9511,7 @@
       "description_en": "Real Madrid at AS Roma (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9504,7 +9548,7 @@
       "description_en": "Fenerbahce at Aston Villa (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9541,7 +9585,7 @@
       "description_en": "Borussia Dortmund at Bodo/Glimt (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9578,7 +9622,7 @@
       "description_en": "Paris Saint-Germain at Manchester City (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9615,7 +9659,7 @@
       "description_en": "FC Porto at Real Betis (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9652,7 +9696,7 @@
       "description_en": "AEK Athens at Shakhtar Donetsk (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9689,7 +9733,7 @@
       "description_en": "VfB Stuttgart at Slovan Bratislava (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9726,7 +9770,7 @@
       "description_en": "Slavia Prague at Fenerbahce (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9763,7 +9807,7 @@
       "description_en": "Borussia Dortmund at Sabah FK (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9782,7 +9826,9 @@
       "details": {
         "阶段": "联赛阶段",
         "主场": "萨巴伊尔",
-        "客场": "多特蒙德"
+        "客场": "多特蒙德",
+        "场馆": "Baku Olympic Stadium",
+        "城市": "Baku"
       }
     },
     {
@@ -9798,7 +9844,7 @@
       "description_en": "Slovan Bratislava at AS Roma (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9835,7 +9881,7 @@
       "description_en": "PSV Eindhoven at FC Porto (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9872,7 +9918,7 @@
       "description_en": "Villarreal at Liverpool (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9909,7 +9955,7 @@
       "description_en": "AEK Athens at Manchester City (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9946,7 +9992,7 @@
       "description_en": "Bodo/Glimt at Napoli (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -9983,7 +10029,7 @@
       "description_en": "Barcelona at Paris Saint-Germain (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10020,7 +10066,7 @@
       "description_en": "Atlético Madrid at VfB Stuttgart (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10057,7 +10103,7 @@
       "description_en": "Manchester United at Como (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10094,7 +10140,7 @@
       "description_en": "Galatasaray at Lille (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10131,7 +10177,7 @@
       "description_en": "Viking FK at Aston Villa (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10168,7 +10214,7 @@
       "description_en": "Arsenal at Bayern Munich (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10205,7 +10251,7 @@
       "description_en": "Lens at Club Brugge (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10242,7 +10288,7 @@
       "description_en": "Shakhtar Donetsk at Internazionale (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10279,7 +10325,7 @@
       "description_en": "Feyenoord Rotterdam at Real Betis (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10316,7 +10362,7 @@
       "description_en": "RB Leipzig at Real Madrid (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10353,7 +10399,7 @@
       "description_en": "LASK Linz at Sporting CP (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10390,7 +10436,7 @@
       "description_en": "VfB Stuttgart at Galatasaray (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10427,7 +10473,7 @@
       "description_en": "Sporting CP at Shakhtar Donetsk (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10464,7 +10510,7 @@
       "description_en": "Bayern Munich at Atlético Madrid (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10501,7 +10547,7 @@
       "description_en": "Aston Villa at Barcelona (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10538,7 +10584,7 @@
       "description_en": "Lille at Bodo/Glimt (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10575,7 +10621,7 @@
       "description_en": "Internazionale at Feyenoord Rotterdam (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10612,7 +10658,7 @@
       "description_en": "Slovan Bratislava at LASK Linz (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10649,7 +10695,7 @@
       "description_en": "AS Roma at Manchester United (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10686,7 +10732,7 @@
       "description_en": "Paris Saint-Germain at Villarreal (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10723,7 +10769,7 @@
       "description_en": "Real Madrid at AEK Athens (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10760,7 +10806,7 @@
       "description_en": "Liverpool at Fenerbahce (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10797,7 +10843,7 @@
       "description_en": "Real Betis at Borussia Dortmund (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10834,7 +10880,7 @@
       "description_en": "Napoli at FC Porto (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10871,7 +10917,7 @@
       "description_en": "Como at Lens (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10908,7 +10954,7 @@
       "description_en": "Club Brugge at PSV Eindhoven (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10945,7 +10991,7 @@
       "description_en": "Manchester City at RB Leipzig (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -10982,7 +11028,7 @@
       "description_en": "Arsenal at Slavia Prague (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11019,7 +11065,7 @@
       "description_en": "Sabah FK at Viking FK (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11056,7 +11102,7 @@
       "description_en": "LASK Linz at Bodo/Glimt (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11093,7 +11139,7 @@
       "description_en": "Aston Villa at Galatasaray (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11130,7 +11176,7 @@
       "description_en": "Borussia Dortmund at Arsenal (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11167,7 +11213,7 @@
       "description_en": "AEK Athens at Como (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11204,7 +11250,7 @@
       "description_en": "FC Porto at Feyenoord Rotterdam (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11241,7 +11287,7 @@
       "description_en": "Napoli at Manchester City (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11278,7 +11324,7 @@
       "description_en": "Lens at RB Leipzig (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11315,7 +11361,7 @@
       "description_en": "PSV Eindhoven at Real Madrid (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11352,7 +11398,7 @@
       "description_en": "Real Betis at Slovan Bratislava (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11389,7 +11435,7 @@
       "description_en": "Barcelona at Sabah FK (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11408,7 +11454,9 @@
       "details": {
         "阶段": "联赛阶段",
         "主场": "萨巴伊尔",
-        "客场": "巴塞罗那"
+        "客场": "巴塞罗那",
+        "场馆": "Baku Olympic Stadium",
+        "城市": "Baku"
       }
     },
     {
@@ -11424,7 +11472,7 @@
       "description_en": "Villarreal at Slavia Prague (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11461,7 +11509,7 @@
       "description_en": "Viking FK at Atlético Madrid (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11498,7 +11546,7 @@
       "description_en": "Liverpool at Club Brugge (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11535,7 +11583,7 @@
       "description_en": "VfB Stuttgart at Internazionale (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11572,7 +11620,7 @@
       "description_en": "Bayern Munich at Lille (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11609,7 +11657,7 @@
       "description_en": "AS Roma at Paris Saint-Germain (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11646,7 +11694,7 @@
       "description_en": "Fenerbahce at Shakhtar Donetsk (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11683,7 +11731,7 @@
       "description_en": "Manchester United at Sporting CP (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11720,7 +11768,7 @@
       "description_en": "Feyenoord Rotterdam at Viking FK (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11757,7 +11805,7 @@
       "description_en": "Sabah FK at Villarreal (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11794,7 +11842,7 @@
       "description_en": "Galatasaray at AEK Athens (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11831,7 +11879,7 @@
       "description_en": "Sporting CP at AS Roma (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11868,7 +11916,7 @@
       "description_en": "Paris Saint-Germain at Aston Villa (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11905,7 +11953,7 @@
       "description_en": "Manchester City at Barcelona (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11942,7 +11990,7 @@
       "description_en": "Slavia Prague at Bayern Munich (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -11979,7 +12027,7 @@
       "description_en": "RB Leipzig at Manchester United (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12016,7 +12064,7 @@
       "description_en": "Club Brugge at Napoli (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12053,7 +12101,7 @@
       "description_en": "Como at Real Betis (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12090,7 +12138,7 @@
       "description_en": "Shakhtar Donetsk at Slovan Bratislava (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12127,7 +12175,7 @@
       "description_en": "Real Madrid at Arsenal (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12164,7 +12212,7 @@
       "description_en": "Internazionale at Borussia Dortmund (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12201,7 +12249,7 @@
       "description_en": "Fenerbahce at LASK Linz (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12238,7 +12286,7 @@
       "description_en": "Bodo/Glimt at Lens (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12275,7 +12323,7 @@
       "description_en": "FC Porto at Liverpool (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12312,7 +12360,7 @@
       "description_en": "Atlético Madrid at PSV Eindhoven (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12349,7 +12397,7 @@
       "description_en": "Lille at VfB Stuttgart (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12386,7 +12434,7 @@
       "description_en": "Atlético Madrid at Bodo/Glimt (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12423,7 +12471,7 @@
       "description_en": "Feyenoord Rotterdam at Galatasaray (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12460,7 +12508,7 @@
       "description_en": "AS Roma at AEK Athens (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12497,7 +12545,7 @@
       "description_en": "Borussia Dortmund at Aston Villa (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12534,7 +12582,7 @@
       "description_en": "Slavia Prague at FC Porto (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12571,7 +12619,7 @@
       "description_en": "Liverpool at Internazionale (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12608,7 +12656,7 @@
       "description_en": "Slovan Bratislava at Lille (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12645,7 +12693,7 @@
       "description_en": "LASK Linz at Real Madrid (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12682,7 +12730,7 @@
       "description_en": "Club Brugge at VfB Stuttgart (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12719,7 +12767,7 @@
       "description_en": "Villarreal at Fenerbahce (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12756,7 +12804,7 @@
       "description_en": "Napoli at Sabah FK (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12775,7 +12823,9 @@
       "details": {
         "阶段": "联赛阶段",
         "主场": "萨巴伊尔",
-        "客场": "那不勒斯"
+        "客场": "那不勒斯",
+        "场馆": "Baku Olympic Stadium",
+        "城市": "Baku"
       }
     },
     {
@@ -12791,7 +12841,7 @@
       "description_en": "Paris Saint-Germain at Como (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12828,7 +12878,7 @@
       "description_en": "Manchester City at Lens (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12865,7 +12915,7 @@
       "description_en": "Bayern Munich at Manchester United (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12902,7 +12952,7 @@
       "description_en": "Shakhtar Donetsk at RB Leipzig (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12939,7 +12989,7 @@
       "description_en": "Arsenal at Real Betis (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -12976,7 +13026,7 @@
       "description_en": "Barcelona at Sporting CP (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -13013,7 +13063,7 @@
       "description_en": "PSV Eindhoven at Viking FK (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -13050,7 +13100,7 @@
       "description_en": "Sabah FK at Arsenal (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -13087,7 +13137,7 @@
       "description_en": "Lille at AS Roma (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -13124,7 +13174,7 @@
       "description_en": "Fenerbahce at Atlético Madrid (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -13161,7 +13211,7 @@
       "description_en": "Como at Barcelona (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -13198,7 +13248,7 @@
       "description_en": "Real Betis at Bayern Munich (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -13235,7 +13285,7 @@
       "description_en": "AEK Athens at Borussia Dortmund (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -13272,7 +13322,7 @@
       "description_en": "Bodo/Glimt at Club Brugge (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -13309,7 +13359,7 @@
       "description_en": "RB Leipzig at Feyenoord Rotterdam (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -13346,7 +13396,7 @@
       "description_en": "FC Porto at LASK Linz (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -13383,7 +13433,7 @@
       "description_en": "Lens at Liverpool (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -13420,7 +13470,7 @@
       "description_en": "Sporting CP at Manchester City (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -13457,7 +13507,7 @@
       "description_en": "Viking FK at Napoli (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -13494,7 +13544,7 @@
       "description_en": "Galatasaray at Paris Saint-Germain (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -13531,7 +13581,7 @@
       "description_en": "VfB Stuttgart at PSV Eindhoven (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -13568,7 +13618,7 @@
       "description_en": "Real Madrid at Shakhtar Donetsk (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -13605,7 +13655,7 @@
       "description_en": "Aston Villa at Slavia Prague (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -13642,7 +13692,7 @@
       "description_en": "Internazionale at Slovan Bratislava (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
@@ -13679,7 +13729,7 @@
       "description_en": "Manchester United at Villarreal (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
       "status": "confirmed",
-      "last_verified": "2026-09-08",
+      "last_verified": "2026-09-09",
       "verified_by": "auto",
       "teams": {
         "home": {
