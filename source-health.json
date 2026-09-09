@@ -100,12 +100,14 @@
     "cba": {
       "category": "sports",
       "checked_at": "2026-09-09",
-      "outcome": "unchanged"
+      "outcome": "failed",
+      "last_error": "adapter returned an empty event payload; refusing to retain stale data"
     },
     "csl": {
       "category": "sports",
       "checked_at": "2026-09-09",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://api.cfl-china.cn/frontweb/api/tournaments?competition_code=CSL (fetch failed)"
     },
     "epl": {
       "category": "sports",
