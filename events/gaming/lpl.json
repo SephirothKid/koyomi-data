@@ -11440,6 +11440,18 @@
         "赛季": "Split 3 2026",
         "阶段": "Playoffs",
         "赛制": "BO5"
+      },
+      "bracket": {
+        "tournament_id": "21726",
+        "panda_match_id": "1643088",
+        "lane": "upper",
+        "round_key": "quarterfinal",
+        "round_order": 0,
+        "slot_index": 0,
+        "label": "胜者组八强 1",
+        "label_en": "Upper Quarterfinal 1",
+        "label_zh": "胜者组八强 1",
+        "previous_matches": []
       }
     },
     {
@@ -11486,6 +11498,18 @@
         "赛季": "Split 3 2026",
         "阶段": "Playoffs",
         "赛制": "BO5"
+      },
+      "bracket": {
+        "tournament_id": "21726",
+        "panda_match_id": "1643089",
+        "lane": "upper",
+        "round_key": "quarterfinal",
+        "round_order": 0,
+        "slot_index": 1,
+        "label": "胜者组八强 2",
+        "label_en": "Upper Quarterfinal 2",
+        "label_zh": "胜者组八强 2",
+        "previous_matches": []
       }
     },
     {
@@ -11532,6 +11556,23 @@
         "赛季": "Split 3 2026",
         "阶段": "Playoffs",
         "赛制": "BO5"
+      },
+      "bracket": {
+        "tournament_id": "21726",
+        "panda_match_id": "1643091",
+        "lane": "upper",
+        "round_key": "semifinal",
+        "round_order": 1,
+        "slot_index": 1,
+        "label": "胜者组四强 2",
+        "label_en": "Upper Semifinal 2",
+        "label_zh": "胜者组四强 2",
+        "previous_matches": [
+          {
+            "panda_match_id": "1643089",
+            "type": "winner"
+          }
+        ]
       }
     },
     {
@@ -11578,6 +11619,23 @@
         "赛季": "Split 3 2026",
         "阶段": "Playoffs",
         "赛制": "BO5"
+      },
+      "bracket": {
+        "tournament_id": "21726",
+        "panda_match_id": "1643090",
+        "lane": "upper",
+        "round_key": "semifinal",
+        "round_order": 1,
+        "slot_index": 0,
+        "label": "胜者组四强 1",
+        "label_en": "Upper Semifinal 1",
+        "label_zh": "胜者组四强 1",
+        "previous_matches": [
+          {
+            "panda_match_id": "1643088",
+            "type": "winner"
+          }
+        ]
       }
     },
     {
@@ -11624,6 +11682,23 @@
         "赛季": "Split 3 2026",
         "阶段": "Playoffs",
         "赛制": "BO5"
+      },
+      "bracket": {
+        "tournament_id": "21726",
+        "panda_match_id": "1643094",
+        "lane": "lower",
+        "round_key": "r1",
+        "round_order": 0,
+        "slot_index": 0,
+        "label": "败者组第1轮 1",
+        "label_en": "Lower Round 1 · Match 1",
+        "label_zh": "败者组第1轮 1",
+        "previous_matches": [
+          {
+            "panda_match_id": "1643088",
+            "type": "loser"
+          }
+        ]
       }
     },
     {
@@ -11670,6 +11745,23 @@
         "赛季": "Split 3 2026",
         "阶段": "Playoffs",
         "赛制": "BO5"
+      },
+      "bracket": {
+        "tournament_id": "21726",
+        "panda_match_id": "1643095",
+        "lane": "lower",
+        "round_key": "r1",
+        "round_order": 0,
+        "slot_index": 1,
+        "label": "败者组第1轮 2",
+        "label_en": "Lower Round 1 · Match 2",
+        "label_zh": "败者组第1轮 2",
+        "previous_matches": [
+          {
+            "panda_match_id": "1643089",
+            "type": "loser"
+          }
+        ]
       }
     },
     {
@@ -11716,6 +11808,27 @@
         "赛季": "Split 3 2026",
         "阶段": "Playoffs",
         "赛制": "BO5"
+      },
+      "bracket": {
+        "tournament_id": "21726",
+        "panda_match_id": "1643096",
+        "lane": "lower",
+        "round_key": "lower_quarterfinal",
+        "round_order": 1,
+        "slot_index": 0,
+        "label": "败者组八强 1",
+        "label_en": "Lower Quarterfinal 1",
+        "label_zh": "败者组八强 1",
+        "previous_matches": [
+          {
+            "panda_match_id": "1643091",
+            "type": "loser"
+          },
+          {
+            "panda_match_id": "1643094",
+            "type": "winner"
+          }
+        ]
       }
     },
     {
@@ -11762,6 +11875,27 @@
         "赛季": "Split 3 2026",
         "阶段": "Playoffs",
         "赛制": "BO5"
+      },
+      "bracket": {
+        "tournament_id": "21726",
+        "panda_match_id": "1643097",
+        "lane": "lower",
+        "round_key": "lower_quarterfinal",
+        "round_order": 1,
+        "slot_index": 1,
+        "label": "败者组八强 2",
+        "label_en": "Lower Quarterfinal 2",
+        "label_zh": "败者组八强 2",
+        "previous_matches": [
+          {
+            "panda_match_id": "1643090",
+            "type": "loser"
+          },
+          {
+            "panda_match_id": "1643095",
+            "type": "winner"
+          }
+        ]
       }
     },
     {
@@ -11808,6 +11942,27 @@
         "赛季": "Split 3 2026",
         "阶段": "Playoffs",
         "赛制": "BO5"
+      },
+      "bracket": {
+        "tournament_id": "21726",
+        "panda_match_id": "1643092",
+        "lane": "upper",
+        "round_key": "upper_final",
+        "round_order": 3,
+        "slot_index": 0,
+        "label": "胜者组决赛",
+        "label_en": "Upper Bracket Final",
+        "label_zh": "胜者组决赛",
+        "previous_matches": [
+          {
+            "panda_match_id": "1643090",
+            "type": "winner"
+          },
+          {
+            "panda_match_id": "1643091",
+            "type": "winner"
+          }
+        ]
       }
     },
     {
@@ -11854,6 +12009,27 @@
         "赛季": "Split 3 2026",
         "阶段": "Playoffs",
         "赛制": "BO5"
+      },
+      "bracket": {
+        "tournament_id": "21726",
+        "panda_match_id": "1643098",
+        "lane": "lower",
+        "round_key": "lower_semifinal",
+        "round_order": 2,
+        "slot_index": 0,
+        "label": "败者组四强",
+        "label_en": "Lower Semifinal",
+        "label_zh": "败者组四强",
+        "previous_matches": [
+          {
+            "panda_match_id": "1643096",
+            "type": "winner"
+          },
+          {
+            "panda_match_id": "1643097",
+            "type": "winner"
+          }
+        ]
       }
     },
     {
@@ -11894,6 +12070,27 @@
         "赛季": "Split 3 2026",
         "阶段": "Playoffs",
         "赛制": "BO5"
+      },
+      "bracket": {
+        "tournament_id": "21726",
+        "panda_match_id": "1643099",
+        "lane": "lower",
+        "round_key": "lower_final",
+        "round_order": 4,
+        "slot_index": 0,
+        "label": "败者组决赛",
+        "label_en": "Lower Bracket Final",
+        "label_zh": "败者组决赛",
+        "previous_matches": [
+          {
+            "panda_match_id": "1643092",
+            "type": "loser"
+          },
+          {
+            "panda_match_id": "1643098",
+            "type": "winner"
+          }
+        ]
       }
     },
     {
@@ -11934,6 +12131,18 @@
         "赛季": "Regional Finals 2026",
         "阶段": "Playoffs",
         "赛制": "BO5"
+      },
+      "bracket": {
+        "tournament_id": "21763",
+        "panda_match_id": "1652747",
+        "lane": "lower",
+        "round_key": "lower_semifinal",
+        "round_order": 2,
+        "slot_index": 0,
+        "label": "败者组四强",
+        "label_en": "Lower Semifinal",
+        "label_zh": "败者组四强",
+        "previous_matches": []
       }
     }
   ],

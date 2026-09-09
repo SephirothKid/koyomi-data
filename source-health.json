@@ -15,7 +15,7 @@
     "fgo": {
       "category": "gaming",
       "checked_at": "2026-09-09",
-      "outcome": "unchanged"
+      "outcome": "updated"
     },
     "tw-public-holidays": {
       "category": "holidays",
@@ -190,7 +190,7 @@
     "epic-free": {
       "category": "gaming",
       "checked_at": "2026-09-09",
-      "outcome": "unchanged"
+      "outcome": "updated"
     },
     "kpl": {
       "category": "gaming",
@@ -210,7 +210,8 @@
     "genshin-impact": {
       "category": "gaming",
       "checked_at": "2026-09-09",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/16471662a82d418a/getContent?iAppId=43&iInfoId=155188&sLangKey=zh-cn (fetch failed)"
     },
     "honkai-star-rail": {
       "category": "gaming",
@@ -220,7 +221,7 @@
     "zenless-zone-zero": {
       "category": "gaming",
       "checked_at": "2026-09-09",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "rawg-releases": {
       "category": "gaming",
@@ -235,7 +236,8 @@
     "wuthering-waves": {
       "category": "gaming",
       "checked_at": "2026-09-09",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/zh/ArticleMenu.json (fetch failed)"
     },
     "accounting-qualification": {
       "category": "exam",
