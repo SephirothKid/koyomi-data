@@ -14,7 +14,7 @@
     },
     "fgo": {
       "category": "gaming",
-      "checked_at": "2026-09-09",
+      "checked_at": "2026-09-10",
       "outcome": "updated"
     },
     "tw-public-holidays": {
@@ -179,27 +179,27 @@
     },
     "arknights": {
       "category": "gaming",
-      "checked_at": "2026-09-09",
+      "checked_at": "2026-09-10",
       "outcome": "unchanged"
     },
     "cs2-tournaments": {
       "category": "gaming",
-      "checked_at": "2026-09-09",
+      "checked_at": "2026-09-10",
       "outcome": "unchanged"
     },
     "epic-free": {
       "category": "gaming",
-      "checked_at": "2026-09-09",
-      "outcome": "updated"
+      "checked_at": "2026-09-10",
+      "outcome": "unchanged"
     },
     "kpl": {
       "category": "gaming",
-      "checked_at": "2026-09-09",
+      "checked_at": "2026-09-10",
       "outcome": "unchanged"
     },
     "lpl": {
       "category": "gaming",
-      "checked_at": "2026-09-09",
+      "checked_at": "2026-09-10",
       "outcome": "updated"
     },
     "console-showcases": {
@@ -211,33 +211,34 @@
       "category": "gaming",
       "checked_at": "2026-09-09",
       "outcome": "skipped",
-      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/16471662a82d418a/getContent?iAppId=43&iInfoId=155188&sLangKey=zh-cn (fetch failed)"
+      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/16471662a82d418a/getContentList?iAppId=43&iChanId=721&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed)"
     },
     "honkai-star-rail": {
       "category": "gaming",
       "checked_at": "2026-09-09",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/1963de8dc19e461c/getContentList?iChanId=255&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed)"
     },
     "zenless-zone-zero": {
       "category": "gaming",
       "checked_at": "2026-09-09",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/706fd13a87294881/getContentList?iChanId=279&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed)"
     },
     "rawg-releases": {
       "category": "gaming",
-      "checked_at": "2026-09-09",
+      "checked_at": "2026-09-10",
       "outcome": "updated"
     },
     "steam-sales": {
       "category": "gaming",
-      "checked_at": "2026-09-09",
-      "outcome": "unchanged"
+      "checked_at": "2026-09-10",
+      "outcome": "updated"
     },
     "wuthering-waves": {
       "category": "gaming",
-      "checked_at": "2026-09-09",
-      "outcome": "skipped",
-      "last_error": "fetch failed: https://media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/zh/ArticleMenu.json (fetch failed)"
+      "checked_at": "2026-09-10",
+      "outcome": "unchanged"
     },
     "accounting-qualification": {
       "category": "exam",
