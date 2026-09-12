@@ -525,13 +525,26 @@ BEGIN:VEVENT
 UID:lpl-lpl-2026-m1643099@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260912T000000
-DTSTART;TZID=Asia/Shanghai:20260912T170000
-DTEND;TZID=Asia/Shanghai:20260912T180000
+DTSTART;TZID=Asia/Shanghai:20260912T165500
+DTEND;TZID=Asia/Shanghai:20260912T175500
 SUMMARY:LPL · 季后赛 · AL vs IG
 DESCRIPTION:Anyone's Legend vs Invictus Gaming — Playoffs（北京时间
  ）\n\n赛事: LPL\n赛季: Split 3 2026\n阶段: Playoffs\n赛制: BO5
 CATEGORIES:LPL
 URL;VALUE=URI:https://www.twitch.tv/lplenglish
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lpl-lpl-2026-m1643093@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260912T000000
+DTSTART;TZID=Asia/Shanghai:20260913T170000
+DTEND;TZID=Asia/Shanghai:20260913T180000
+SUMMARY:LPL · 季后赛 · BLG vs AL
+DESCRIPTION:Bilibili Gaming vs Anyone's Legend — Playoffs（北京时间
+ ）\n\n赛事: LPL\n赛季: Split 3 2026\n阶段: Playoffs\n赛制: BO5
+CATEGORIES:LPL
+URL;VALUE=URI:https://www.youtube.com/@LPL_English/live
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT

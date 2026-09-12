@@ -185,7 +185,7 @@
     "cs2-tournaments": {
       "category": "gaming",
       "checked_at": "2026-09-12",
-      "outcome": "unchanged"
+      "outcome": "updated"
     },
     "epic-free": {
       "category": "gaming",
@@ -209,15 +209,13 @@
     },
     "genshin-impact": {
       "category": "gaming",
-      "checked_at": "2026-09-11",
-      "outcome": "skipped",
-      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/16471662a82d418a/getContentList?iAppId=43&iChanId=719&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed)"
+      "checked_at": "2026-09-12",
+      "outcome": "unchanged"
     },
     "honkai-star-rail": {
       "category": "gaming",
-      "checked_at": "2026-09-11",
-      "outcome": "skipped",
-      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/1963de8dc19e461c/getContentList?iChanId=255&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed)"
+      "checked_at": "2026-09-12",
+      "outcome": "unchanged"
     },
     "zenless-zone-zero": {
       "category": "gaming",
@@ -237,7 +235,8 @@
     "wuthering-waves": {
       "category": "gaming",
       "checked_at": "2026-09-12",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/zh/ArticleMenu.json (fetch failed)"
     },
     "accounting-qualification": {
       "category": "exam",

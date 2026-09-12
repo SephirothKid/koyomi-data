@@ -6730,11 +6730,11 @@
         "label_zh": "总决赛",
         "previous_matches": [
           {
-            "panda_match_id": "1444167",
+            "panda_match_id": "1444165",
             "type": "winner"
           },
           {
-            "panda_match_id": "1444165",
+            "panda_match_id": "1444167",
             "type": "winner"
           }
         ]
@@ -12993,11 +12993,11 @@
         "label_zh": "胜者组决赛",
         "previous_matches": [
           {
-            "panda_match_id": "1643662",
+            "panda_match_id": "1643663",
             "type": "winner"
           },
           {
-            "panda_match_id": "1643663",
+            "panda_match_id": "1643662",
             "type": "winner"
           }
         ]
@@ -13060,11 +13060,11 @@
         "label_zh": "败者组四强",
         "previous_matches": [
           {
-            "panda_match_id": "1643664",
+            "panda_match_id": "1643665",
             "type": "winner"
           },
           {
-            "panda_match_id": "1643665",
+            "panda_match_id": "1643664",
             "type": "winner"
           }
         ]
@@ -13127,12 +13127,12 @@
         "label_zh": "败者组决赛",
         "previous_matches": [
           {
-            "panda_match_id": "1643666",
-            "type": "winner"
-          },
-          {
             "panda_match_id": "1643667",
             "type": "loser"
+          },
+          {
+            "panda_match_id": "1643666",
+            "type": "winner"
           }
         ]
       }
@@ -13143,7 +13143,7 @@
       "name_en": "Playoffs · WOL vs TTG",
       "name_zh": "季后赛 · WOL vs TTG",
       "date": "2026-09-12",
-      "time": "18:00",
+      "time": "18:22",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -13151,7 +13151,7 @@
       "description_en": "Wolves vs Talent Gaming — Playoffs (CST)",
       "description_zh": "Wolves vs Talent Gaming — Playoffs（北京时间）",
       "url": "https://www.twitch.tv/hok_esports_kpl",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-12",
       "verified_by": "official",
       "teams": {
@@ -13169,6 +13169,12 @@
           "name_en": "Talent Gaming",
           "image_url": "https://cdn-api.pandascore.co/images/team/image/129041/190px_talent_gaming_logo.png"
         }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 4,
+        "winner": "home",
+        "status": "completed"
       },
       "details": {
         "赛事": "King Pro League",
