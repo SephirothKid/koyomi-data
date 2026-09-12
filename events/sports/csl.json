@@ -11727,7 +11727,7 @@
       "description": "辽宁铁人楠波湾 作客 天津津门虎（中超 2026 赛季，北京时间）",
       "description_en": "Liaoning Tieren at Tianjin Jinmen Tiger (Chinese Super League 2026, Beijing time)",
       "url": "https://www.cfl-china.cn/zh/fixtures/details.html?match_id=7elqren5n59mu0vl7uy1i4h78&competition_code=CSL&local_date=2026-09-12&home_contestant_id=di8wvsww8w86i7gr80pbbhsyi&away_contestant_id=7u46yssnarhr1uyxsmv4q5x3q",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-09-12",
       "verified_by": "auto",
       "teams": {
@@ -11751,6 +11751,7 @@
         "轮次": "第 18 轮",
         "主场": "天津津门虎",
         "客场": "辽宁铁人楠波湾",
+        "比分": "天津津门虎 1 - 0 辽宁铁人楠波湾",
         "场馆": "泰达足球场"
       },
       "details_en": {
@@ -11758,7 +11759,15 @@
         "Round": "Round 18",
         "Home": "Tianjin Jinmen Tiger",
         "Away": "Liaoning Tieren",
+        "Score": "Tianjin Jinmen Tiger 1 - 0 Liaoning Tieren",
         "Venue": "TEDA Football Stadium"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT",
+        "score": "1 - 0"
       }
     },
     {
@@ -11775,7 +11784,7 @@
       "description": "河南俱乐部彩陶坊 作客 武汉三镇（中超 2026 赛季，北京时间）",
       "description_en": "Henan at Wuhan Three Towns (Chinese Super League 2026, Beijing time)",
       "url": "https://www.cfl-china.cn/zh/fixtures/details.html?match_id=7bz86a4xl8hb0rm4fyrwu347o&competition_code=CSL&local_date=2026-09-12&home_contestant_id=6nbq8ek8wl4scwttlmgdyveqy&away_contestant_id=1eaept8dld85s894brcrkrq5p",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-12",
       "verified_by": "auto",
       "teams": {
@@ -11799,6 +11808,7 @@
         "轮次": "第 18 轮",
         "主场": "武汉三镇",
         "客场": "河南俱乐部彩陶坊",
+        "比分": "武汉三镇 1 - 1 河南俱乐部彩陶坊",
         "场馆": "武汉体育中心体育场"
       },
       "details_en": {
@@ -11806,7 +11816,15 @@
         "Round": "Round 18",
         "Home": "Wuhan Three Towns",
         "Away": "Henan",
+        "Score": "Wuhan Three Towns 1 - 1 Henan",
         "Venue": "Wuhan Sports Center Stadium"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT",
+        "score": "1 - 1"
       }
     },
     {
