@@ -14226,7 +14226,7 @@
       "description": "不来梅 作客 科隆（德甲 2026-27 赛季，北京时间）",
       "description_en": "Werder Bremen at FC Cologne (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-12",
       "verified_by": "auto",
       "teams": {
@@ -14246,8 +14246,15 @@
       "details": {
         "主场": "科隆",
         "客场": "不来梅",
+        "比分": "科隆 1 - 1 不来梅",
         "场馆": "RheinEnergieStadion",
         "城市": "Cologne"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {

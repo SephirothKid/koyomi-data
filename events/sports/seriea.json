@@ -17752,7 +17752,7 @@
       "description": "AC米兰 作客 拉齐奥（意甲 2026-27 赛季，北京时间）",
       "description_en": "AC Milan at Lazio (Serie A 2026-27, Beijing time)",
       "url": "https://www.legaseriea.it/en/serie-a/fixture-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-12",
       "verified_by": "auto",
       "teams": {
@@ -17772,8 +17772,15 @@
       "details": {
         "主场": "拉齐奥",
         "客场": "AC米兰",
+        "比分": "拉齐奥 2 - 2 AC米兰",
         "场馆": "Olimpico",
         "城市": "Roma"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 2,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -17788,7 +17795,7 @@
       "description": "卡利亚里 作客 亚特兰大（意甲 2026-27 赛季，北京时间）",
       "description_en": "Cagliari at Atalanta (Serie A 2026-27, Beijing time)",
       "url": "https://www.legaseriea.it/en/serie-a/fixture-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-12",
       "verified_by": "auto",
       "teams": {
@@ -17808,8 +17815,15 @@
       "details": {
         "主场": "亚特兰大",
         "客场": "卡利亚里",
+        "比分": "亚特兰大 1 - 2 卡利亚里",
         "场馆": "New Balance Arena",
         "城市": "Bergamo"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {

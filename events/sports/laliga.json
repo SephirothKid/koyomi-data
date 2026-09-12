@@ -18225,7 +18225,7 @@
       "description": "西班牙人 作客 奥萨苏纳（西甲 2026-27 赛季，北京时间）",
       "description_en": "Espanyol at Osasuna (La Liga 2026-27, Beijing time)",
       "url": "https://www.laliga.com/laliga-ea-sports",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-12",
       "verified_by": "auto",
       "teams": {
@@ -18245,8 +18245,15 @@
       "details": {
         "主场": "奥萨苏纳",
         "客场": "西班牙人",
+        "比分": "奥萨苏纳 0 - 2 西班牙人",
         "场馆": "El Sadar",
         "城市": "Pamplona"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -18261,7 +18268,7 @@
       "description": "埃尔切 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，北京时间）",
       "description_en": "Elche at Athletic Club (La Liga 2026-27, Beijing time)",
       "url": "https://www.laliga.com/laliga-ea-sports",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-12",
       "verified_by": "auto",
       "teams": {
@@ -18281,8 +18288,15 @@
       "details": {
         "主场": "毕尔巴鄂竞技",
         "客场": "埃尔切",
+        "比分": "毕尔巴鄂竞技 1 - 1 埃尔切",
         "场馆": "San Mamés",
         "城市": "Bilbao"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -18297,7 +18311,7 @@
       "description": "瓦列卡诺 作客 皇家马德里（西甲 2026-27 赛季，北京时间）",
       "description_en": "Rayo Vallecano at Real Madrid (La Liga 2026-27, Beijing time)",
       "url": "https://www.laliga.com/laliga-ea-sports",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-12",
       "verified_by": "auto",
       "teams": {
@@ -18317,8 +18331,15 @@
       "details": {
         "主场": "皇家马德里",
         "客场": "瓦列卡诺",
+        "比分": "皇家马德里 4 - 1 瓦列卡诺",
         "场馆": "Santiago Bernabéu",
         "城市": "Madrid"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
