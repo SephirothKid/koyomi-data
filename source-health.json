@@ -16,7 +16,7 @@
     "fgo": {
       "category": "gaming",
       "checked_at": "2026-09-13",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "tw-public-holidays": {
       "category": "holidays",
@@ -226,7 +226,7 @@
     "rawg-releases": {
       "category": "gaming",
       "checked_at": "2026-09-13",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "steam-sales": {
       "category": "gaming",
@@ -236,7 +236,8 @@
     "wuthering-waves": {
       "category": "gaming",
       "checked_at": "2026-09-13",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/zh/ArticleMenu.json (fetch failed)"
     },
     "accounting-qualification": {
       "category": "exam",

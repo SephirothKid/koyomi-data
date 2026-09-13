@@ -454,4 +454,30 @@ CATEGORIES:KPL
 URL;VALUE=URI:https://www.twitch.tv/hok_esports_kpl
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:kpl-kpl-2026-m1688820@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260913T000000
+DTSTART;TZID=Asia/Shanghai:20260917T150000
+DTEND;TZID=Asia/Shanghai:20260917T160000
+SUMMARY:KPL · 升降级赛 · SYG vs UUG
+DESCRIPTION:SYGaming vs UU Gamers — Promotion（北京时间）\n\n赛
+ 事: King Pro League\n赛季: Spring 2027\n阶段: Promotion\n赛制: BO7
+CATEGORIES:KPL
+URL;VALUE=URI:https://www.youtube.com/@Hok_KPL/live
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kpl-kpl-2026-m1688821@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260913T000000
+DTSTART;TZID=Asia/Shanghai:20260917T190000
+DTEND;TZID=Asia/Shanghai:20260917T200000
+SUMMARY:KPL · 升降级赛 · WST vs WLT
+DESCRIPTION:WST vs WLT Esports Club — Promotion（北京时间）\n\n赛
+ 事: King Pro League\n赛季: Spring 2027\n阶段: Promotion\n赛制: BO7
+CATEGORIES:KPL
+URL;VALUE=URI:https://www.youtube.com/@Hok_KPL/live
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
