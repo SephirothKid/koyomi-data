@@ -14312,7 +14312,7 @@
       "description": "拜仁慕尼黑 作客 埃尔弗斯贝格（德甲 2026-27 赛季，北京时间）",
       "description_en": "Bayern Munich at SV Elversberg (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-13",
       "verified_by": "auto",
       "teams": {
@@ -14332,8 +14332,15 @@
       "details": {
         "主场": "埃尔弗斯贝格",
         "客场": "拜仁慕尼黑",
+        "比分": "埃尔弗斯贝格 1 - 2 拜仁慕尼黑",
         "场馆": "URSAPHARM-Arena an der Kaiserlinde",
         "城市": "Spiesen-Elversberg"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {

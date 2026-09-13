@@ -17881,7 +17881,7 @@
       "description": "博洛尼亚 作客 那不勒斯（意甲 2026-27 赛季，北京时间）",
       "description_en": "Bologna at Napoli (Serie A 2026-27, Beijing time)",
       "url": "https://www.legaseriea.it/en/serie-a/fixture-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-13",
       "verified_by": "auto",
       "teams": {
@@ -17901,8 +17901,15 @@
       "details": {
         "主场": "那不勒斯",
         "客场": "博洛尼亚",
+        "比分": "那不勒斯 1 - 0 博洛尼亚",
         "场馆": "Stadio Diego Armando Maradona",
         "城市": "Napoli"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -17917,7 +17924,7 @@
       "description": "尤文图斯 作客 萨索洛（意甲 2026-27 赛季，北京时间）",
       "description_en": "Juventus at Sassuolo (Serie A 2026-27, Beijing time)",
       "url": "https://www.legaseriea.it/en/serie-a/fixture-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-13",
       "verified_by": "auto",
       "teams": {
@@ -17937,8 +17944,15 @@
       "details": {
         "主场": "萨索洛",
         "客场": "尤文图斯",
+        "比分": "萨索洛 3 - 2 尤文图斯",
         "场馆": "Mapei Stadium",
         "城市": "Reggio Emilia"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 2,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {

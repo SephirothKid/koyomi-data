@@ -18440,7 +18440,7 @@
       "description": "拉科鲁尼亚 作客 赫塔费（西甲 2026-27 赛季，北京时间）",
       "description_en": "Deportivo at Getafe (La Liga 2026-27, Beijing time)",
       "url": "https://www.laliga.com/laliga-ea-sports",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-13",
       "verified_by": "auto",
       "teams": {
@@ -18460,8 +18460,15 @@
       "details": {
         "主场": "赫塔费",
         "客场": "拉科鲁尼亚",
+        "比分": "赫塔费 1 - 1 拉科鲁尼亚",
         "场馆": "Estadio Coliseum",
         "城市": "Getafe"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -18476,7 +18483,7 @@
       "description": "马竞 作客 皇家社会（西甲 2026-27 赛季，北京时间）",
       "description_en": "Atlético Madrid at Real Sociedad (La Liga 2026-27, Beijing time)",
       "url": "https://www.laliga.com/laliga-ea-sports",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-13",
       "verified_by": "auto",
       "teams": {
@@ -18496,8 +18503,15 @@
       "details": {
         "主场": "皇家社会",
         "客场": "马竞",
+        "比分": "皇家社会 0 - 3 马竞",
         "场馆": "Reale Arena",
         "城市": "San Sebastian"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
