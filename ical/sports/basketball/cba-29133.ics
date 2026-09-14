@@ -2,54 +2,51 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Koyomi Cast//cba-29133//EN
 URL:https://koyomi.cast/sources/cba
-NAME:南京天之蓝赛程
-X-WR-CALNAME:南京天之蓝赛程
-X-WR-CALDESC:南京天之蓝在CBA赛程中的比赛日程，自动同步
- 更新。
+NAME:南京同曦赛程
+X-WR-CALNAME:南京同曦赛程
+X-WR-CALDESC:南京同曦在CBA赛程中的比赛日程，自动同步更
+ 新。
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:cba-29133-cba-2027-100110428@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260909T000000
+DTSTAMP:20260914T000000
 DTSTART;TZID=Asia/Shanghai:20261009T150000
 DTEND;TZID=Asia/Shanghai:20261009T160000
-SUMMARY:南京天之蓝赛程 · 季前赛 · 南京天之蓝 @ 北京控
- 股
-DESCRIPTION:南京天之蓝 作客 北京控股（CBA 2026-27 赛季，北
- 京时间）\n\n阶段: 季前赛\n场序: 0\n主场: 北京控股\n客场
- : 南京天之蓝
-CATEGORIES:南京天之蓝赛程
+SUMMARY:南京同曦赛程 · 季前赛 · 南京同曦 @ 北京控股
+DESCRIPTION:南京同曦 作客 北京控股（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 季前赛\n场序: 0\n主场: 北京控股\n客场: 
+ 南京同曦
+CATEGORIES:南京同曦赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cba-29133-cba-2027-100110422@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260909T000000
+DTSTAMP:20260914T000000
 DTSTART;TZID=Asia/Shanghai:20261010T150000
 DTEND;TZID=Asia/Shanghai:20261010T160000
-SUMMARY:南京天之蓝赛程 · 季前赛 · 南京天之蓝 @ 山西汾
- 酒
-DESCRIPTION:南京天之蓝 作客 山西汾酒（CBA 2026-27 赛季，北
- 京时间）\n\n阶段: 季前赛\n场序: 0\n主场: 山西汾酒\n客场
- : 南京天之蓝
-CATEGORIES:南京天之蓝赛程
+SUMMARY:南京同曦赛程 · 季前赛 · 南京同曦 @ 山西汾酒
+DESCRIPTION:南京同曦 作客 山西汾酒（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 季前赛\n场序: 0\n主场: 山西汾酒\n客场: 
+ 南京同曦
+CATEGORIES:南京同曦赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cba-29133-cba-2027-100110424@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260909T000000
+DTSTAMP:20260914T000000
 DTSTART;TZID=Asia/Shanghai:20261011T150000
 DTEND;TZID=Asia/Shanghai:20261011T160000
-SUMMARY:南京天之蓝赛程 · 季前赛 · 南京天之蓝 vs 深圳马
- 可波罗
-DESCRIPTION:深圳马可波罗 作客 南京天之蓝（CBA 2026-27 赛季
- ，北京时间）\n\n阶段: 季前赛\n场序: 0\n主场: 南京天之
- 蓝\n客场: 深圳马可波罗
-CATEGORIES:南京天之蓝赛程
+SUMMARY:南京同曦赛程 · 季前赛 · 南京同曦 vs 深圳新世纪
+DESCRIPTION:深圳新世纪 作客 南京同曦（CBA 2026-27 赛季，北
+ 京时间）\n\n阶段: 季前赛\n场序: 0\n主场: 南京同曦\n客场
+ : 深圳新世纪
+CATEGORIES:南京同曦赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
 END:VEVENT
