@@ -1088,24 +1088,24 @@
       "date": "2026-10-01",
       "year": 2026,
       "timezone": "Asia/Shanghai",
-      "name": "End of Abyss 等 3 款发售",
-      "name_en": "End of Abyss + 2 more releases",
-      "description": "当天发售：End of Abyss、Ghost of Yōtei: Echoes of Sekigahara、Rayman Legends Retold",
-      "description_en": "Releases this day: End of Abyss, Ghost of Yōtei: Echoes of Sekigahara, Rayman Legends Retold.",
+      "name": "End of Abyss 等 2 款发售",
+      "name_en": "End of Abyss + 1 more release",
+      "description": "当天发售：End of Abyss、Ghost of Yōtei: Echoes of Sekigahara",
+      "description_en": "Releases this day: End of Abyss, Ghost of Yōtei: Echoes of Sekigahara.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games",
       "last_verified": "2026-09-14",
       "verified_by": "auto",
       "details": {
-        "游戏数量": "3",
-        "发售游戏": "End of Abyss、Ghost of Yōtei: Echoes of Sekigahara、Rayman Legends Retold",
+        "游戏数量": "2",
+        "发售游戏": "End of Abyss、Ghost of Yōtei: Echoes of Sekigahara",
         "平台": "PC / PS5",
         "数据来源": "RAWG"
       },
       "details_en": {
-        "Game count": "3",
-        "Games": "End of Abyss, Ghost of Yōtei: Echoes of Sekigahara, Rayman Legends Retold",
+        "Game count": "2",
+        "Games": "End of Abyss, Ghost of Yōtei: Echoes of Sekigahara",
         "Platforms": "PC / PS5",
         "Data source": "RAWG"
       },
@@ -1128,16 +1128,6 @@
           ],
           "store_url": "https://rawg.io/games/ghost-of-yotei-echoes-of-sekigahara",
           "rawg_id": "1019418"
-        },
-        {
-          "title": "Rayman Legends Retold",
-          "title_en": "Rayman Legends Retold",
-          "platforms": [
-            "PC",
-            "PS5"
-          ],
-          "store_url": "https://rawg.io/games/rayman-legends-retold",
-          "rawg_id": "1018059"
         }
       ]
     },
@@ -1817,6 +1807,45 @@
           ],
           "store_url": "https://rawg.io/games/sombras-negative-frames",
           "rawg_id": "1019381"
+        }
+      ]
+    },
+    {
+      "id": "rawg-releases-2026-12-03",
+      "date": "2026-12-03",
+      "year": 2026,
+      "timezone": "Asia/Shanghai",
+      "name": "Rayman Legends Retold 发售",
+      "name_en": "Rayman Legends Retold release",
+      "description": "Rayman Legends Retold 发售（PC / PS5）",
+      "description_en": "Rayman Legends Retold releases on PC / PS5.",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/rayman-legends-retold",
+      "last_verified": "2026-09-14",
+      "verified_by": "auto",
+      "details": {
+        "游戏数量": "1",
+        "发售游戏": "Rayman Legends Retold",
+        "平台": "PC / PS5",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Rayman Legends Retold",
+        "Platforms": "PC / PS5",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Rayman Legends Retold",
+          "title_en": "Rayman Legends Retold",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/rayman-legends-retold",
+          "rawg_id": "1018059"
         }
       ]
     },
