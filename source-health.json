@@ -96,7 +96,8 @@
     "bundesliga": {
       "category": "sports",
       "checked_at": "2026-09-15",
-      "outcome": "unchanged"
+      "outcome": "failed",
+      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?limit=200&dates=20270401-20270731"
     },
     "cba": {
       "category": "sports",
@@ -106,13 +107,13 @@
     "csl": {
       "category": "sports",
       "checked_at": "2026-09-15",
-      "outcome": "skipped",
-      "last_error": "fetch failed: https://api.cfl-china.cn/frontweb/api/tournaments?competition_code=CSL (fetch failed)"
+      "outcome": "unchanged"
     },
     "epl": {
       "category": "sports",
       "checked_at": "2026-09-15",
-      "outcome": "unchanged"
+      "outcome": "failed",
+      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?limit=200&dates=20270401-20270731"
     },
     "f1": {
       "category": "sports",
@@ -122,12 +123,14 @@
     "laliga": {
       "category": "sports",
       "checked_at": "2026-09-15",
-      "outcome": "unchanged"
+      "outcome": "failed",
+      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?limit=200&dates=20270401-20270731"
     },
     "ligue1": {
       "category": "sports",
       "checked_at": "2026-09-15",
-      "outcome": "unchanged"
+      "outcome": "failed",
+      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/scoreboard?limit=200&dates=20260801-20261231"
     },
     "nba": {
       "category": "sports",
@@ -137,7 +140,8 @@
     "seriea": {
       "category": "sports",
       "checked_at": "2026-09-15",
-      "outcome": "unchanged"
+      "outcome": "failed",
+      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?limit=200&dates=20270101-20270331"
     },
     "australian-open": {
       "category": "sports",
@@ -162,17 +166,20 @@
     "ucl": {
       "category": "sports",
       "checked_at": "2026-09-15",
-      "outcome": "unchanged"
+      "outcome": "failed",
+      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?limit=200&dates=20270401-20270731"
     },
     "uecl": {
       "category": "sports",
       "checked_at": "2026-09-15",
-      "outcome": "unchanged"
+      "outcome": "failed",
+      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.europa.conf/scoreboard?limit=200&dates=20270101-20270331"
     },
     "uel": {
       "category": "sports",
       "checked_at": "2026-09-15",
-      "outcome": "unchanged"
+      "outcome": "failed",
+      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.europa/scoreboard?limit=200&dates=20270401-20270731"
     },
     "worldcup": {
       "category": "sports",
