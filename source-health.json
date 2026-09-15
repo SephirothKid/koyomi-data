@@ -106,12 +106,13 @@
     "csl": {
       "category": "sports",
       "checked_at": "2026-09-15",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://api.cfl-china.cn/frontweb/api/tournaments?competition_code=CSL (fetch failed)"
     },
     "epl": {
       "category": "sports",
       "checked_at": "2026-09-15",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "f1": {
       "category": "sports",
@@ -121,7 +122,7 @@
     "laliga": {
       "category": "sports",
       "checked_at": "2026-09-15",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "ligue1": {
       "category": "sports",
@@ -136,7 +137,7 @@
     "seriea": {
       "category": "sports",
       "checked_at": "2026-09-15",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "australian-open": {
       "category": "sports",
