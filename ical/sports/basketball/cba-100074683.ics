@@ -11,7 +11,7 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:cba-100074683-cba-2027-100110427@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260914T000000
+DTSTAMP:20260917T000000
 DTSTART;TZID=Asia/Shanghai:20261009T193000
 DTEND;TZID=Asia/Shanghai:20261009T203000
 SUMMARY:宁波富邦赛程 · 季前赛 · 宁波富邦 @ 北京首钢
@@ -25,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cba-100074683-cba-2027-100110429@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260914T000000
+DTSTAMP:20260917T000000
 DTSTART;TZID=Asia/Shanghai:20261010T150000
 DTEND;TZID=Asia/Shanghai:20261010T160000
 SUMMARY:宁波富邦赛程 · 季前赛 · 宁波富邦 vs 江苏肯帝亚
@@ -39,13 +39,703 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cba-100074683-cba-2027-100110434@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260914T000000
+DTSTAMP:20260917T000000
 DTSTART;TZID=Asia/Shanghai:20261011T150000
 DTEND;TZID=Asia/Shanghai:20261011T160000
 SUMMARY:宁波富邦赛程 · 季前赛 · 宁波富邦 vs 浙江稠州
 DESCRIPTION:浙江稠州 作客 宁波富邦（CBA 2026-27 赛季，北京
  时间）\n\n阶段: 季前赛\n场序: 0\n主场: 宁波富邦\n客场: 
  浙江稠州
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110677@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20261017T193500
+DTEND;TZID=Asia/Shanghai:20261017T203500
+SUMMARY:宁波富邦赛程 · 常规赛第1轮 · 宁波富邦 vs 北京
+ 控股
+DESCRIPTION:北京控股 作客 宁波富邦（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第1轮\n轮次: 第 1 轮\n场序: 3\n主
+ 场: 宁波富邦\n客场: 北京控股
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110776@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20261020T193500
+DTEND;TZID=Asia/Shanghai:20261020T203500
+SUMMARY:宁波富邦赛程 · 常规赛第2轮 · 宁波富邦 vs 山西
+ 汾酒
+DESCRIPTION:山西汾酒 作客 宁波富邦（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第2轮\n轮次: 第 2 轮\n场序: 16\n主
+ 场: 宁波富邦\n客场: 山西汾酒
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110820@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20261022T193500
+DTEND;TZID=Asia/Shanghai:20261022T203500
+SUMMARY:宁波富邦赛程 · 常规赛第3轮 · 宁波富邦 @ 福建浔
+ 兴
+DESCRIPTION:宁波富邦 作客 福建浔兴（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第3轮\n轮次: 第 3 轮\n场序: 21\n主
+ 场: 福建浔兴\n客场: 宁波富邦
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110894@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20261024T193500
+DTEND;TZID=Asia/Shanghai:20261024T203500
+SUMMARY:宁波富邦赛程 · 常规赛第4轮 · 宁波富邦 @ 广东宏
+ 远
+DESCRIPTION:宁波富邦 作客 广东宏远（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第4轮\n轮次: 第 4 轮\n场序: 31\n主
+ 场: 广东宏远\n客场: 宁波富邦
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110944@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20261026T193500
+DTEND;TZID=Asia/Shanghai:20261026T203500
+SUMMARY:宁波富邦赛程 · 常规赛第5轮 · 宁波富邦 vs 吉林
+ 东北虎
+DESCRIPTION:吉林东北虎 作客 宁波富邦（CBA 2026-27 赛季，北
+ 京时间）\n\n阶段: 常规赛第5轮\n轮次: 第 5 轮\n场序: 41\n
+ 主场: 宁波富邦\n客场: 吉林东北虎
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110971@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20261030T193500
+DTEND;TZID=Asia/Shanghai:20261030T203500
+SUMMARY:宁波富邦赛程 · 常规赛第6轮 · 宁波富邦 vs 辽宁
+ 沈阳三生
+DESCRIPTION:辽宁沈阳三生 作客 宁波富邦（CBA 2026-27 赛季，
+ 北京时间）\n\n阶段: 常规赛第6轮\n轮次: 第 6 轮\n场序: 58
+ \n主场: 宁波富邦\n客场: 辽宁沈阳三生
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110983@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20261101T193500
+DTEND;TZID=Asia/Shanghai:20261101T203500
+SUMMARY:宁波富邦赛程 · 常规赛第7轮 · 宁波富邦 @ 天津荣
+ 钢
+DESCRIPTION:宁波富邦 作客 天津荣钢（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第7轮\n轮次: 第 7 轮\n场序: 69\n主
+ 场: 天津荣钢\n客场: 宁波富邦
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100111002@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20261103T193500
+DTEND;TZID=Asia/Shanghai:20261103T203500
+SUMMARY:宁波富邦赛程 · 常规赛第8轮 · 宁波富邦 @ 北京首
+ 钢
+DESCRIPTION:宁波富邦 作客 北京首钢（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第8轮\n轮次: 第 8 轮\n场序: 78\n主
+ 场: 北京首钢\n客场: 宁波富邦
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100111018@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20261204T193500
+DTEND;TZID=Asia/Shanghai:20261204T203500
+SUMMARY:宁波富邦赛程 · 常规赛第9轮 · 宁波富邦 vs 南京
+ 同曦
+DESCRIPTION:南京同曦 作客 宁波富邦（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第9轮\n轮次: 第 9 轮\n场序: 84\n主
+ 场: 宁波富邦\n客场: 南京同曦
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110584@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20261206T193500
+DTEND;TZID=Asia/Shanghai:20261206T203500
+SUMMARY:宁波富邦赛程 · 常规赛第10轮 · 宁波富邦 @ 江苏
+ 肯帝亚
+DESCRIPTION:宁波富邦 作客 江苏肯帝亚（CBA 2026-27 赛季，北
+ 京时间）\n\n阶段: 常规赛第10轮\n轮次: 第 10 轮\n场序: 91\
+ n主场: 江苏肯帝亚\n客场: 宁波富邦
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110628@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20261209T193500
+DTEND;TZID=Asia/Shanghai:20261209T203500
+SUMMARY:宁波富邦赛程 · 常规赛第11轮 · 宁波富邦 @ 浙江
+ 稠州
+DESCRIPTION:宁波富邦 作客 浙江稠州（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第11轮\n轮次: 第 11 轮\n场序: 102\n
+ 主场: 浙江稠州\n客场: 宁波富邦
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110656@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20261211T193500
+DTEND;TZID=Asia/Shanghai:20261211T203500
+SUMMARY:宁波富邦赛程 · 常规赛第12轮 · 宁波富邦 vs 江苏
+ 肯帝亚
+DESCRIPTION:江苏肯帝亚 作客 宁波富邦（CBA 2026-27 赛季，北
+ 京时间）\n\n阶段: 常规赛第12轮\n轮次: 第 12 轮\n场序: 113
+ \n主场: 宁波富邦\n客场: 江苏肯帝亚
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110688@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20261213T193500
+DTEND;TZID=Asia/Shanghai:20261213T203500
+SUMMARY:宁波富邦赛程 · 常规赛第13轮 · 宁波富邦 vs 山东
+ 山高
+DESCRIPTION:山东山高 作客 宁波富邦（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第13轮\n轮次: 第 13 轮\n场序: 122\n
+ 主场: 宁波富邦\n客场: 山东山高
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110742@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20261216T193500
+DTEND;TZID=Asia/Shanghai:20261216T203500
+SUMMARY:宁波富邦赛程 · 常规赛第14轮 · 宁波富邦 @ 上海
+ 久事
+DESCRIPTION:宁波富邦 作客 上海久事（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第14轮\n轮次: 第 14 轮\n场序: 136\n
+ 主场: 上海久事\n客场: 宁波富邦
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110778@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20261218T200000
+DTEND;TZID=Asia/Shanghai:20261218T210000
+SUMMARY:宁波富邦赛程 · 常规赛第15轮 · 宁波富邦 @ 新疆
+ 广汇
+DESCRIPTION:宁波富邦 作客 新疆广汇（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第15轮\n轮次: 第 15 轮\n场序: 147\n
+ 主场: 新疆广汇\n客场: 宁波富邦
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110796@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20261220T193500
+DTEND;TZID=Asia/Shanghai:20261220T203500
+SUMMARY:宁波富邦赛程 · 常规赛第16轮 · 宁波富邦 @ 青岛
+ 国信海天
+DESCRIPTION:宁波富邦 作客 青岛国信海天（CBA 2026-27 赛季，
+ 北京时间）\n\n阶段: 常规赛第16轮\n轮次: 第 16 轮\n场序: 
+ 152\n主场: 青岛国信海天\n客场: 宁波富邦
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110859@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20261223T193500
+DTEND;TZID=Asia/Shanghai:20261223T203500
+SUMMARY:宁波富邦赛程 · 常规赛第17轮 · 宁波富邦 vs 浙江
+ 稠州
+DESCRIPTION:浙江稠州 作客 宁波富邦（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第17轮\n轮次: 第 17 轮\n场序: 166\n
+ 主场: 宁波富邦\n客场: 浙江稠州
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110890@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20261225T193500
+DTEND;TZID=Asia/Shanghai:20261225T203500
+SUMMARY:宁波富邦赛程 · 常规赛第18轮 · 宁波富邦 vs 江苏
+ 肯帝亚
+DESCRIPTION:江苏肯帝亚 作客 宁波富邦（CBA 2026-27 赛季，北
+ 京时间）\n\n阶段: 常规赛第18轮\n轮次: 第 18 轮\n场序: 173
+ \n主场: 宁波富邦\n客场: 江苏肯帝亚
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110572@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20261227T193500
+DTEND;TZID=Asia/Shanghai:20261227T203500
+SUMMARY:宁波富邦赛程 · 常规赛第19轮 · 宁波富邦 @ 浙江
+ 稠州
+DESCRIPTION:宁波富邦 作客 浙江稠州（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第19轮\n轮次: 第 19 轮\n场序: 183\n
+ 主场: 浙江稠州\n客场: 宁波富邦
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110603@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20261229T193500
+DTEND;TZID=Asia/Shanghai:20261229T203500
+SUMMARY:宁波富邦赛程 · 常规赛第20轮 · 宁波富邦 @ 深圳
+ 新世纪
+DESCRIPTION:宁波富邦 作客 深圳新世纪（CBA 2026-27 赛季，北
+ 京时间）\n\n阶段: 常规赛第20轮\n轮次: 第 20 轮\n场序: 191
+ \n主场: 深圳新世纪\n客场: 宁波富邦
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110665@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20270101T193500
+DTEND;TZID=Asia/Shanghai:20270101T203500
+SUMMARY:宁波富邦赛程 · 常规赛第21轮 · 宁波富邦 vs 新疆
+ 广汇
+DESCRIPTION:新疆广汇 作客 宁波富邦（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第21轮\n轮次: 第 21 轮\n场序: 202\n
+ 主场: 宁波富邦\n客场: 新疆广汇
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110730@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20270104T193500
+DTEND;TZID=Asia/Shanghai:20270104T203500
+SUMMARY:宁波富邦赛程 · 常规赛第22轮 · 宁波富邦 vs 深圳
+ 新世纪
+DESCRIPTION:深圳新世纪 作客 宁波富邦（CBA 2026-27 赛季，北
+ 京时间）\n\n阶段: 常规赛第22轮\n轮次: 第 22 轮\n场序: 219
+ \n主场: 宁波富邦\n客场: 深圳新世纪
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110777@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20270106T193500
+DTEND;TZID=Asia/Shanghai:20270106T203500
+SUMMARY:宁波富邦赛程 · 常规赛第23轮 · 宁波富邦 @ 江苏
+ 肯帝亚
+DESCRIPTION:宁波富邦 作客 江苏肯帝亚（CBA 2026-27 赛季，北
+ 京时间）\n\n阶段: 常规赛第23轮\n轮次: 第 23 轮\n场序: 225
+ \n主场: 江苏肯帝亚\n客场: 宁波富邦
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110818@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20270109T193500
+DTEND;TZID=Asia/Shanghai:20270109T203500
+SUMMARY:宁波富邦赛程 · 常规赛第24轮 · 宁波富邦 vs 四川
+ 锦城
+DESCRIPTION:四川锦城 作客 宁波富邦（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第24轮\n轮次: 第 24 轮\n场序: 236\n
+ 主场: 宁波富邦\n客场: 四川锦城
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110846@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20270111T193500
+DTEND;TZID=Asia/Shanghai:20270111T203500
+SUMMARY:宁波富邦赛程 · 常规赛第25轮 · 宁波富邦 @ 广州
+ 龙狮
+DESCRIPTION:宁波富邦 作客 广州龙狮（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第25轮\n轮次: 第 25 轮\n场序: 245\n
+ 主场: 广州龙狮\n客场: 宁波富邦
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110880@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20270113T193500
+DTEND;TZID=Asia/Shanghai:20270113T203500
+SUMMARY:宁波富邦赛程 · 常规赛第26轮 · 宁波富邦 @ 福建
+ 浔兴
+DESCRIPTION:宁波富邦 作客 福建浔兴（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第26轮\n轮次: 第 26 轮\n场序: 254\n
+ 主场: 福建浔兴\n客场: 宁波富邦
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110920@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20270115T193500
+DTEND;TZID=Asia/Shanghai:20270115T203500
+SUMMARY:宁波富邦赛程 · 常规赛第27轮 · 宁波富邦 vs 浙江
+ 稠州
+DESCRIPTION:浙江稠州 作客 宁波富邦（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第27轮\n轮次: 第 27 轮\n场序: 264\n
+ 主场: 宁波富邦\n客场: 浙江稠州
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110580@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20270118T193500
+DTEND;TZID=Asia/Shanghai:20270118T203500
+SUMMARY:宁波富邦赛程 · 常规赛第28轮 · 宁波富邦 vs 浙江
+ 广厦
+DESCRIPTION:浙江广厦 作客 宁波富邦（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第28轮\n轮次: 第 28 轮\n场序: 275\n
+ 主场: 宁波富邦\n客场: 浙江广厦
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110645@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20270121T193500
+DTEND;TZID=Asia/Shanghai:20270121T203500
+SUMMARY:宁波富邦赛程 · 常规赛第29轮 · 宁波富邦 @ 深圳
+ 新世纪
+DESCRIPTION:宁波富邦 作客 深圳新世纪（CBA 2026-27 赛季，北
+ 京时间）\n\n阶段: 常规赛第29轮\n轮次: 第 29 轮\n场序: 289
+ \n主场: 深圳新世纪\n客场: 宁波富邦
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110683@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20270123T193500
+DTEND;TZID=Asia/Shanghai:20270123T203500
+SUMMARY:宁波富邦赛程 · 常规赛第30轮 · 宁波富邦 @ 山东
+ 山高
+DESCRIPTION:宁波富邦 作客 山东山高（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第30轮\n轮次: 第 30 轮\n场序: 298\n
+ 主场: 山东山高\n客场: 宁波富邦
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110745@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20270125T193500
+DTEND;TZID=Asia/Shanghai:20270125T203500
+SUMMARY:宁波富邦赛程 · 常规赛第31轮 · 宁波富邦 @ 四川
+ 锦城
+DESCRIPTION:宁波富邦 作客 四川锦城（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第31轮\n轮次: 第 31 轮\n场序: 310\n
+ 主场: 四川锦城\n客场: 宁波富邦
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110770@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20270127T193500
+DTEND;TZID=Asia/Shanghai:20270127T203500
+SUMMARY:宁波富邦赛程 · 常规赛第32轮 · 宁波富邦 vs 广州
+ 龙狮
+DESCRIPTION:广州龙狮 作客 宁波富邦（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第32轮\n轮次: 第 32 轮\n场序: 316\n
+ 主场: 宁波富邦\n客场: 广州龙狮
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110836@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20270130T193500
+DTEND;TZID=Asia/Shanghai:20270130T203500
+SUMMARY:宁波富邦赛程 · 常规赛第33轮 · 宁波富邦 vs 福建
+ 浔兴
+DESCRIPTION:福建浔兴 作客 宁波富邦（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第33轮\n轮次: 第 33 轮\n场序: 328\n
+ 主场: 宁波富邦\n客场: 福建浔兴
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110881@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20270201T193500
+DTEND;TZID=Asia/Shanghai:20270201T203500
+SUMMARY:宁波富邦赛程 · 常规赛第34轮 · 宁波富邦 vs 青岛
+ 国信海天
+DESCRIPTION:青岛国信海天 作客 宁波富邦（CBA 2026-27 赛季，
+ 北京时间）\n\n阶段: 常规赛第34轮\n轮次: 第 34 轮\n场序: 
+ 336\n主场: 宁波富邦\n客场: 青岛国信海天
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110937@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20270310T193500
+DTEND;TZID=Asia/Shanghai:20270310T203500
+SUMMARY:宁波富邦赛程 · 常规赛第35轮 · 宁波富邦 @ 浙江
+ 广厦
+DESCRIPTION:宁波富邦 作客 浙江广厦（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第35轮\n轮次: 第 35 轮\n场序: 348\n
+ 主场: 浙江广厦\n客场: 宁波富邦
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110952@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20270312T193500
+DTEND;TZID=Asia/Shanghai:20270312T203500
+SUMMARY:宁波富邦赛程 · 常规赛第36轮 · 宁波富邦 vs 深圳
+ 新世纪
+DESCRIPTION:深圳新世纪 作客 宁波富邦（CBA 2026-27 赛季，北
+ 京时间）\n\n阶段: 常规赛第36轮\n轮次: 第 36 轮\n场序: 355
+ \n主场: 宁波富邦\n客场: 深圳新世纪
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110563@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20270314T193500
+DTEND;TZID=Asia/Shanghai:20270314T203500
+SUMMARY:宁波富邦赛程 · 常规赛第37轮 · 宁波富邦 vs 上海
+ 久事
+DESCRIPTION:上海久事 作客 宁波富邦（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第37轮\n轮次: 第 37 轮\n场序: 363\n
+ 主场: 宁波富邦\n客场: 上海久事
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110610@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20270318T193500
+DTEND;TZID=Asia/Shanghai:20270318T203500
+SUMMARY:宁波富邦赛程 · 常规赛第38轮 · 宁波富邦 @ 北京
+ 控股
+DESCRIPTION:宁波富邦 作客 北京控股（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第38轮\n轮次: 第 38 轮\n场序: 379\n
+ 主场: 北京控股\n客场: 宁波富邦
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110649@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20270320T193500
+DTEND;TZID=Asia/Shanghai:20270320T203500
+SUMMARY:宁波富邦赛程 · 常规赛第39轮 · 宁波富邦 @ 山西
+ 汾酒
+DESCRIPTION:宁波富邦 作客 山西汾酒（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第39轮\n轮次: 第 39 轮\n场序: 389\n
+ 主场: 山西汾酒\n客场: 宁波富邦
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110700@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20270322T193500
+DTEND;TZID=Asia/Shanghai:20270322T203500
+SUMMARY:宁波富邦赛程 · 常规赛第40轮 · 宁波富邦 vs 福建
+ 浔兴
+DESCRIPTION:福建浔兴 作客 宁波富邦（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第40轮\n轮次: 第 40 轮\n场序: 397\n
+ 主场: 宁波富邦\n客场: 福建浔兴
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110754@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20270324T193500
+DTEND;TZID=Asia/Shanghai:20270324T203500
+SUMMARY:宁波富邦赛程 · 常规赛第41轮 · 宁波富邦 vs 广东
+ 宏远
+DESCRIPTION:广东宏远 作客 宁波富邦（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第41轮\n轮次: 第 41 轮\n场序: 407\n
+ 主场: 宁波富邦\n客场: 广东宏远
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110791@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20270326T193500
+DTEND;TZID=Asia/Shanghai:20270326T203500
+SUMMARY:宁波富邦赛程 · 常规赛第42轮 · 宁波富邦 @ 吉林
+ 东北虎
+DESCRIPTION:宁波富邦 作客 吉林东北虎（CBA 2026-27 赛季，北
+ 京时间）\n\n阶段: 常规赛第42轮\n轮次: 第 42 轮\n场序: 412
+ \n主场: 吉林东北虎\n客场: 宁波富邦
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110845@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20270328T193500
+DTEND;TZID=Asia/Shanghai:20270328T203500
+SUMMARY:宁波富邦赛程 · 常规赛第43轮 · 宁波富邦 @ 辽宁
+ 沈阳三生
+DESCRIPTION:宁波富邦 作客 辽宁沈阳三生（CBA 2026-27 赛季，
+ 北京时间）\n\n阶段: 常规赛第43轮\n轮次: 第 43 轮\n场序: 
+ 421\n主场: 辽宁沈阳三生\n客场: 宁波富邦
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110901@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20270330T193500
+DTEND;TZID=Asia/Shanghai:20270330T203500
+SUMMARY:宁波富邦赛程 · 常规赛第44轮 · 宁波富邦 vs 天津
+ 荣钢
+DESCRIPTION:天津荣钢 作客 宁波富邦（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第44轮\n轮次: 第 44 轮\n场序: 431\n
+ 主场: 宁波富邦\n客场: 天津荣钢
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100110995@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20270403T193500
+DTEND;TZID=Asia/Shanghai:20270403T203500
+SUMMARY:宁波富邦赛程 · 常规赛第45轮 · 宁波富邦 vs 北京
+ 首钢
+DESCRIPTION:北京首钢 作客 宁波富邦（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第45轮\n轮次: 第 45 轮\n场序: 448\n
+ 主场: 宁波富邦\n客场: 北京首钢
+CATEGORIES:宁波富邦赛程
+URL;VALUE=URI:https://www.cbaleague.com/data/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cba-100074683-cba-2027-100111005@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260917T000000
+DTSTART;TZID=Asia/Shanghai:20270407T193500
+DTEND;TZID=Asia/Shanghai:20270407T203500
+SUMMARY:宁波富邦赛程 · 常规赛第46轮 · 宁波富邦 @ 南京
+ 同曦
+DESCRIPTION:宁波富邦 作客 南京同曦（CBA 2026-27 赛季，北京
+ 时间）\n\n阶段: 常规赛第46轮\n轮次: 第 46 轮\n场序: 452\n
+ 主场: 南京同曦\n客场: 宁波富邦
 CATEGORIES:宁波富邦赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
