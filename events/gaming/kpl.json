@@ -13217,8 +13217,8 @@
       "description": "SYGaming vs UU Gamers — Promotion（北京时间）",
       "description_en": "SYGaming vs UU Gamers — Promotion (CST)",
       "description_zh": "SYGaming vs UU Gamers — Promotion（北京时间）",
-      "url": "https://www.huya.com/660002",
-      "status": "active",
+      "url": "https://live.bilibili.com/21144080",
+      "status": "completed",
       "last_verified": "2026-09-17",
       "verified_by": "official",
       "teams": {
@@ -13238,10 +13238,10 @@
         }
       },
       "result": {
-        "away_score": 0,
-        "home_score": 1,
+        "away_score": 1,
+        "home_score": 4,
         "winner": "home",
-        "status": "active"
+        "status": "completed"
       },
       "details": {
         "赛事": "King Pro League",
@@ -13268,15 +13268,15 @@
       "name_en": "Promotion · WST vs WLT",
       "name_zh": "升降级赛 · WST vs WLT",
       "date": "2026-09-17",
-      "time": "19:00",
+      "time": "18:01",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "WST vs WLT Esports Club — Promotion（北京时间）",
       "description_en": "WST vs WLT Esports Club — Promotion (CST)",
       "description_zh": "WST vs WLT Esports Club — Promotion（北京时间）",
-      "url": "https://www.youtube.com/watch?v=TJ7cFZdLJ2Y",
-      "status": "confirmed",
+      "url": "https://live.bilibili.com/21144080",
+      "status": "completed",
       "last_verified": "2026-09-17",
       "verified_by": "official",
       "teams": {
@@ -13295,6 +13295,12 @@
           "image_url": "https://cdn-api.pandascore.co/images/team/image/137942/wlt_esports_club_allmode.png"
         }
       },
+      "result": {
+        "away_score": 0,
+        "home_score": 4,
+        "winner": "home",
+        "status": "completed"
+      },
       "details": {
         "赛事": "King Pro League",
         "赛季": "Spring 2027",
@@ -13312,6 +13318,67 @@
         "label_en": "Lower Semifinal",
         "label_zh": "败者组四强",
         "previous_matches": []
+      }
+    },
+    {
+      "id": "kpl-2026-m1688822",
+      "name": "升降级赛 · SYG vs WLT",
+      "name_en": "Promotion · SYG vs WLT",
+      "name_zh": "升降级赛 · SYG vs WLT",
+      "date": "2026-09-18",
+      "time": "19:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "SYGaming vs WLT Esports Club — Promotion（北京时间）",
+      "description_en": "SYGaming vs WLT Esports Club — Promotion (CST)",
+      "description_zh": "SYGaming vs WLT Esports Club — Promotion（北京时间）",
+      "url": "https://www.youtube.com/@Hok_KPL/live",
+      "status": "confirmed",
+      "last_verified": "2026-09-17",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "sygaming",
+          "code": "SYG",
+          "name": "SYGaming",
+          "name_en": "SYGaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/137634/190px_sy_gaming_allmode.png"
+        },
+        "home": {
+          "id": "wlt-esports-club",
+          "code": "WLT",
+          "name": "WLT Esports Club",
+          "name_en": "WLT Esports Club",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/137942/wlt_esports_club_allmode.png"
+        }
+      },
+      "details": {
+        "赛事": "King Pro League",
+        "赛季": "Spring 2027",
+        "阶段": "Promotion",
+        "赛制": "BO7"
+      },
+      "bracket": {
+        "tournament_id": "21938",
+        "panda_match_id": "1688822",
+        "lane": "lower",
+        "round_key": "lower_final",
+        "round_order": 4,
+        "slot_index": 0,
+        "label": "败者组决赛",
+        "label_en": "Lower Bracket Final",
+        "label_zh": "败者组决赛",
+        "previous_matches": [
+          {
+            "panda_match_id": "1688820",
+            "type": "loser"
+          },
+          {
+            "panda_match_id": "1688821",
+            "type": "winner"
+          }
+        ]
       }
     }
   ],

@@ -16,7 +16,7 @@
     "fgo": {
       "category": "gaming",
       "checked_at": "2026-09-17",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "tw-public-holidays": {
       "category": "holidays",
@@ -195,12 +195,12 @@
     "cs2-tournaments": {
       "category": "gaming",
       "checked_at": "2026-09-17",
-      "outcome": "unchanged"
+      "outcome": "updated"
     },
     "epic-free": {
       "category": "gaming",
       "checked_at": "2026-09-17",
-      "outcome": "unchanged"
+      "outcome": "updated"
     },
     "kpl": {
       "category": "gaming",
@@ -210,7 +210,7 @@
     "lpl": {
       "category": "gaming",
       "checked_at": "2026-09-17",
-      "outcome": "unchanged"
+      "outcome": "updated"
     },
     "console-showcases": {
       "category": "gaming",
@@ -235,7 +235,7 @@
     "rawg-releases": {
       "category": "gaming",
       "checked_at": "2026-09-17",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "steam-sales": {
       "category": "gaming",
@@ -245,7 +245,8 @@
     "wuthering-waves": {
       "category": "gaming",
       "checked_at": "2026-09-17",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/zh/ArticleMenu.json (fetch failed)"
     },
     "accounting-qualification": {
       "category": "exam",
