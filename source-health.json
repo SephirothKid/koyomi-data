@@ -97,23 +97,24 @@
       "category": "sports",
       "checked_at": "2026-09-15",
       "outcome": "failed",
-      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?limit=200&dates=20270401-20270731"
+      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?limit=200&dates=20260801-20261231"
     },
     "cba": {
       "category": "sports",
       "checked_at": "2026-09-17",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "csl": {
       "category": "sports",
       "checked_at": "2026-09-17",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://api.cfl-china.cn/frontweb/api/tournaments?competition_code=CSL (fetch failed)"
     },
     "epl": {
       "category": "sports",
       "checked_at": "2026-09-15",
       "outcome": "failed",
-      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?limit=200&dates=20270401-20270731"
+      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?limit=200&dates=20260801-20261231"
     },
     "f1": {
       "category": "sports",
@@ -173,13 +174,13 @@
       "category": "sports",
       "checked_at": "2026-09-15",
       "outcome": "failed",
-      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.europa.conf/scoreboard?limit=200&dates=20270101-20270331"
+      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.europa.conf/scoreboard?limit=200&dates=20270401-20270731"
     },
     "uel": {
       "category": "sports",
       "checked_at": "2026-09-15",
       "outcome": "failed",
-      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.europa/scoreboard?limit=200&dates=20270401-20270731"
+      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.europa/scoreboard?limit=200&dates=20260801-20261231"
     },
     "worldcup": {
       "category": "sports",
