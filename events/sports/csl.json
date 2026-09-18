@@ -11841,7 +11841,7 @@
       "description": "武汉三镇 作客 浙江俱乐部绿城（中超 2026 赛季，北京时间）",
       "description_en": "Wuhan Three Towns at Zhejiang (Chinese Super League 2026, Beijing time)",
       "url": "https://www.cfl-china.cn/zh/fixtures/details.html?match_id=7wvy3glfx3b1cq4n4jsjqcahg&competition_code=CSL&local_date=2026-09-18&home_contestant_id=a3l87ozfq8bjwpy0nxvs5w28o&away_contestant_id=6nbq8ek8wl4scwttlmgdyveqy",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-09-18",
       "verified_by": "auto",
       "teams": {
@@ -11865,6 +11865,7 @@
         "轮次": "第 22 轮",
         "主场": "浙江俱乐部绿城",
         "客场": "武汉三镇",
+        "比分": "浙江俱乐部绿城 4 - 1 武汉三镇",
         "场馆": "黄龙体育中心体育场"
       },
       "details_en": {
@@ -11872,7 +11873,15 @@
         "Round": "Round 22",
         "Home": "Zhejiang",
         "Away": "Wuhan Three Towns",
+        "Score": "Zhejiang 4 - 1 Wuhan Three Towns",
         "Venue": "Huanglong Sports Centre"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT",
+        "score": "4 - 1"
       }
     },
     {
