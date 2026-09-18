@@ -11394,15 +11394,15 @@
       "name_en": "Playoffs · WE vs JDG",
       "name_zh": "季后赛 · WE vs JDG",
       "date": "2026-09-18",
-      "time": "17:00",
+      "time": "17:06",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "Team WE vs JD Gaming — Playoffs（北京时间）",
       "description_en": "Team WE vs JD Gaming — Playoffs (CST)",
       "description_zh": "Team WE vs JD Gaming — Playoffs（北京时间）",
-      "url": "https://www.twitch.tv/lplenglish",
-      "status": "confirmed",
+      "url": "https://www.youtube.com/watch?v=45mqgMklXJ4",
+      "status": "completed",
       "last_verified": "2026-09-18",
       "verified_by": "official",
       "teams": {
@@ -11412,6 +11412,52 @@
           "name": "Team WE",
           "name_en": "Team WE",
           "image_url": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png"
+        },
+        "home": {
+          "id": "qg-reapers",
+          "code": "JDG",
+          "name": "JD Gaming",
+          "name_en": "JD Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 3,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "LPL",
+        "赛季": "Regional Finals 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5"
+      }
+    },
+    {
+      "id": "lpl-2026-m1652748",
+      "name": "季后赛 · IG vs JDG",
+      "name_en": "Playoffs · IG vs JDG",
+      "name_zh": "季后赛 · IG vs JDG",
+      "date": "2026-09-19",
+      "time": "17:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Invictus Gaming vs JD Gaming — Playoffs（北京时间）",
+      "description_en": "Invictus Gaming vs JD Gaming — Playoffs (CST)",
+      "description_zh": "Invictus Gaming vs JD Gaming — Playoffs（北京时间）",
+      "url": "https://www.twitch.tv/lplenglish",
+      "status": "confirmed",
+      "last_verified": "2026-09-18",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "invictus-gaming",
+          "code": "IG",
+          "name": "Invictus Gaming",
+          "name_en": "Invictus Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
         },
         "home": {
           "id": "qg-reapers",
