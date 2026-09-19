@@ -125,43 +125,57 @@ BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1685171@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260919T000000
-DTSTART;TZID=Asia/Shanghai:20260919T180000
-DTEND;TZID=Asia/Shanghai:20260919T190000
+DTSTART;TZID=Asia/Shanghai:20260919T180100
+DTEND;TZID=Asia/Shanghai:20260919T190100
 SUMMARY:CS2 · StarLadder StarSeries · 季后赛 · MIBR vs NRG
 DESCRIPTION:MIBR vs NRG — StarLadder StarSeries （北京时间）\n\n
  赛事: StarLadder StarSeries\n赛季: 2026\n阶段: 季后赛\n赛制: BO
  3
 CATEGORIES:CS2
-URL;VALUE=URI:https://kick.com/starladder
+URL;VALUE=URI:https://kick.com/esportsbg
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1685170@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260919T000000
-DTSTART;TZID=Asia/Shanghai:20260919T203000
-DTEND;TZID=Asia/Shanghai:20260919T213000
+DTSTART;TZID=Asia/Shanghai:20260919T200100
+DTEND;TZID=Asia/Shanghai:20260919T210100
 SUMMARY:CS2 · StarLadder StarSeries · 季后赛 · MOUZ vs FURIA
 DESCRIPTION:MOUZ vs FURIA — StarLadder StarSeries （北京时间）\n\n
  赛事: StarLadder StarSeries\n赛季: 2026\n阶段: 季后赛\n赛制: BO
  3
 CATEGORIES:CS2
-URL;VALUE=URI:https://kick.com/starladder
+URL;VALUE=URI:https://www.youtube.com/watch?v=DEtCGuIXPH8
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1685172@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260919T000000
-DTSTART;TZID=Asia/Shanghai:20260919T230000
-DTEND;TZID=Asia/Shanghai:20260920T000000
+DTSTART;TZID=Asia/Shanghai:20260919T232500
+DTEND;TZID=Asia/Shanghai:20260920T002500
 SUMMARY:CS2 · StarLadder StarSeries · 季后赛 · Aurora Gaming vs Vita
  lity
 DESCRIPTION:Aurora Gaming vs Vitality — StarLadder StarSeries （北京
  时间）\n\n赛事: StarLadder StarSeries\n赛季: 2026\n阶段: 季后
  赛\n赛制: BO3
 CATEGORIES:CS2
-URL;VALUE=URI:https://kick.com/starladder
+URL;VALUE=URI:https://www.twitch.tv/benccce
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-cs2-2026-m1685173@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260919T000000
+DTSTART;TZID=Asia/Shanghai:20260920T023000
+DTEND;TZID=Asia/Shanghai:20260920T033000
+SUMMARY:CS2 · StarLadder StarSeries · 季后赛 · MIBR vs FURIA
+DESCRIPTION:MIBR vs FURIA — StarLadder StarSeries （北京时间）\n\n
+ 赛事: StarLadder StarSeries\n赛季: 2026\n阶段: 季后赛\n赛制: BO
+ 3
+CATEGORIES:CS2
+URL;VALUE=URI:https://www.twitch.tv/benccce
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

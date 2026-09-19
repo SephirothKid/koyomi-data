@@ -50003,14 +50003,14 @@
       "name": "StarLadder StarSeries · 季后赛 · MIBR vs NRG",
       "name_en": "StarLadder StarSeries · Playoffs · MIBR vs NRG",
       "date": "2026-09-19",
-      "time": "18:00",
+      "time": "18:01",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "MIBR vs NRG — StarLadder StarSeries （北京时间）",
       "description_en": "MIBR vs NRG — StarLadder StarSeries  (CST)",
-      "url": "https://kick.com/starladder",
-      "status": "confirmed",
+      "url": "https://kick.com/esportsbg",
+      "status": "completed",
       "last_verified": "2026-09-19",
       "verified_by": "official",
       "teams": {
@@ -50025,6 +50025,12 @@
           "name": "NRG"
         }
       },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
       "details": {
         "赛事": "StarLadder StarSeries",
         "赛季": "2026",
@@ -50037,14 +50043,14 @@
       "name": "StarLadder StarSeries · 季后赛 · MOUZ vs FURIA",
       "name_en": "StarLadder StarSeries · Playoffs · MOUZ vs FURIA",
       "date": "2026-09-19",
-      "time": "20:30",
+      "time": "20:01",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "MOUZ vs FURIA — StarLadder StarSeries （北京时间）",
       "description_en": "MOUZ vs FURIA — StarLadder StarSeries  (CST)",
-      "url": "https://kick.com/starladder",
-      "status": "confirmed",
+      "url": "https://www.youtube.com/watch?v=DEtCGuIXPH8",
+      "status": "completed",
       "last_verified": "2026-09-19",
       "verified_by": "official",
       "teams": {
@@ -50059,6 +50065,12 @@
           "name": "FURIA"
         }
       },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
       "details": {
         "赛事": "StarLadder StarSeries",
         "赛季": "2026",
@@ -50071,14 +50083,14 @@
       "name": "StarLadder StarSeries · 季后赛 · Aurora Gaming vs Vitality",
       "name_en": "StarLadder StarSeries · Playoffs · Aurora Gaming vs Vitality",
       "date": "2026-09-19",
-      "time": "23:00",
+      "time": "23:25",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "Aurora Gaming vs Vitality — StarLadder StarSeries （北京时间）",
       "description_en": "Aurora Gaming vs Vitality — StarLadder StarSeries  (CST)",
-      "url": "https://kick.com/starladder",
-      "status": "confirmed",
+      "url": "https://www.twitch.tv/benccce",
+      "status": "active",
       "last_verified": "2026-09-19",
       "verified_by": "official",
       "teams": {
@@ -50091,6 +50103,40 @@
           "id": "3455",
           "code": "Vitality",
           "name": "Vitality"
+        }
+      },
+      "details": {
+        "赛事": "StarLadder StarSeries",
+        "赛季": "2026",
+        "阶段": "季后赛",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1685173",
+      "name": "StarLadder StarSeries · 季后赛 · MIBR vs FURIA",
+      "name_en": "StarLadder StarSeries · Playoffs · MIBR vs FURIA",
+      "date": "2026-09-20",
+      "time": "02:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "MIBR vs FURIA — StarLadder StarSeries （北京时间）",
+      "description_en": "MIBR vs FURIA — StarLadder StarSeries  (CST)",
+      "url": "https://www.twitch.tv/benccce",
+      "status": "confirmed",
+      "last_verified": "2026-09-19",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "3250",
+          "code": "MIBR",
+          "name": "MIBR"
+        },
+        "home": {
+          "id": "124530",
+          "code": "FURIA",
+          "name": "FURIA"
         }
       },
       "details": {
