@@ -182,14 +182,29 @@ BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1685174@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20260920T000000
-DTSTART;TZID=Asia/Shanghai:20260920T200000
-DTEND;TZID=Asia/Shanghai:20260920T210000
+DTSTART;TZID=Asia/Shanghai:20260920T200100
+DTEND;TZID=Asia/Shanghai:20260920T210100
 SUMMARY:CS2 · StarLadder StarSeries · 季后赛 · Vitality vs FURIA
 DESCRIPTION:Vitality vs FURIA — StarLadder StarSeries （北京时间）
  \n\n赛事: StarLadder StarSeries\n赛季: 2026\n阶段: 季后赛\n赛制
  : BO3
 CATEGORIES:CS2
 URL;VALUE=URI:https://www.twitch.tv/pelaajatcom
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-cs2-2026-m1685175@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260920T000000
+DTSTART;TZID=Asia/Shanghai:20260920T230200
+DTEND;TZID=Asia/Shanghai:20260921T000200
+SUMMARY:CS2 · StarLadder StarSeries · 季后赛 · Aurora Gaming vs Vita
+ lity
+DESCRIPTION:Aurora Gaming vs Vitality — StarLadder StarSeries （北京
+ 时间）\n\n赛事: StarLadder StarSeries\n赛季: 2026\n阶段: 季后
+ 赛\n赛制: BO5
+CATEGORIES:CS2
+URL;VALUE=URI:https://www.youtube.com/watch?v=nTqTkKZpW8k
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

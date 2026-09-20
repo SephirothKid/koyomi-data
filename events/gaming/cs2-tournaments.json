@@ -50163,14 +50163,14 @@
       "name": "StarLadder StarSeries · 季后赛 · Vitality vs FURIA",
       "name_en": "StarLadder StarSeries · Playoffs · Vitality vs FURIA",
       "date": "2026-09-20",
-      "time": "20:00",
+      "time": "20:01",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "Vitality vs FURIA — StarLadder StarSeries （北京时间）",
       "description_en": "Vitality vs FURIA — StarLadder StarSeries  (CST)",
       "url": "https://www.twitch.tv/pelaajatcom",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-09-20",
       "verified_by": "official",
       "teams": {
@@ -50185,11 +50185,51 @@
           "name": "FURIA"
         }
       },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
       "details": {
         "赛事": "StarLadder StarSeries",
         "赛季": "2026",
         "阶段": "季后赛",
         "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1685175",
+      "name": "StarLadder StarSeries · 季后赛 · Aurora Gaming vs Vitality",
+      "name_en": "StarLadder StarSeries · Playoffs · Aurora Gaming vs Vitality",
+      "date": "2026-09-20",
+      "time": "23:02",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Aurora Gaming vs Vitality — StarLadder StarSeries （北京时间）",
+      "description_en": "Aurora Gaming vs Vitality — StarLadder StarSeries  (CST)",
+      "url": "https://www.youtube.com/watch?v=nTqTkKZpW8k",
+      "status": "active",
+      "last_verified": "2026-09-20",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "131505",
+          "code": "Aurora Gaming",
+          "name": "Aurora Gaming"
+        },
+        "home": {
+          "id": "3455",
+          "code": "Vitality",
+          "name": "Vitality"
+        }
+      },
+      "details": {
+        "赛事": "StarLadder StarSeries",
+        "赛季": "2026",
+        "阶段": "季后赛",
+        "赛制": "BO5"
       }
     }
   ],
