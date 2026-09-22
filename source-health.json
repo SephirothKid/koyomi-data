@@ -101,7 +101,7 @@
     "cba": {
       "category": "sports",
       "checked_at": "2026-09-22",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "csl": {
       "category": "sports",
@@ -112,7 +112,7 @@
       "category": "sports",
       "checked_at": "2026-09-15",
       "outcome": "failed",
-      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?limit=200&dates=20260801-20261231"
+      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?limit=200&dates=20270101-20270331"
     },
     "f1": {
       "category": "sports",
@@ -166,13 +166,13 @@
       "category": "sports",
       "checked_at": "2026-09-15",
       "outcome": "failed",
-      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?limit=200&dates=20260801-20261231"
+      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?limit=200&dates=20270401-20270731"
     },
     "uecl": {
       "category": "sports",
       "checked_at": "2026-09-15",
       "outcome": "failed",
-      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.europa.conf/scoreboard?limit=200&dates=20270101-20270331"
+      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.europa.conf/scoreboard?limit=200&dates=20260801-20261231"
     },
     "uel": {
       "category": "sports",
