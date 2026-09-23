@@ -15,7 +15,7 @@
     "fgo": {
       "category": "gaming",
       "checked_at": "2026-09-23",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "tw-public-holidays": {
       "category": "holidays",
@@ -198,12 +198,12 @@
     "epic-free": {
       "category": "gaming",
       "checked_at": "2026-09-23",
-      "outcome": "unchanged"
+      "outcome": "updated"
     },
     "kpl": {
       "category": "gaming",
       "checked_at": "2026-09-23",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "lpl": {
       "category": "gaming",
@@ -218,12 +218,14 @@
     "genshin-impact": {
       "category": "gaming",
       "checked_at": "2026-09-23",
-      "outcome": "updated"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/16471662a82d418a/getContentList?iAppId=43&iChanId=721&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed)"
     },
     "honkai-star-rail": {
       "category": "gaming",
       "checked_at": "2026-09-23",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/1963de8dc19e461c/getContentList?iChanId=255&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed)"
     },
     "zenless-zone-zero": {
       "category": "gaming",
@@ -243,7 +245,7 @@
     "wuthering-waves": {
       "category": "gaming",
       "checked_at": "2026-09-23",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "accounting-qualification": {
       "category": "exam",
