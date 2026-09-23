@@ -7,4 +7,50 @@ X-WR-CALNAME:鸣潮版本日历
 X-WR-CALDESC:鸣潮版本维护更新和版本周期日历。
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:wuthering-waves-wuthering-waves-2026-5282-version@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260923T000000
+DTSTART;TZID=Asia/Shanghai:20260820T110000
+DTEND;TZID=Asia/Shanghai:20260930T040000
+SUMMARY:鸣潮版本日历 · 鸣潮 3.6 版本周期
+DESCRIPTION:鸣潮 3.6 版本内容开放周期。\n\n版本: 3.6\n类型:
+  version\n官方来源: 《鸣潮》3.6版本更新维护预告\n\nofficia
+ l_notice: 《鸣潮》3.6版本更新维护预告
+CATEGORIES:鸣潮版本日历
+URL;VALUE=URI:https://wutheringwaves.kurogames.com/cn/main/news/detail/528
+ 2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wuthering-waves-wuthering-waves-2026-5477-maintenance@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260923T000000
+DTSTART;TZID=Asia/Shanghai:20260930T040000
+DTEND;TZID=Asia/Shanghai:20260930T110000
+SUMMARY:鸣潮版本日历 · 鸣潮 3.7 版本维护更新
+DESCRIPTION:鸣潮官方版本维护更新。\n\n版本: 3.7\n类型: vers
+ ion_update\n官方来源: 《鸣潮》3.7版本更新维护预告\n\noffic
+ ial_time: 2026年9月30日04:00 ~ 2026年9月30日11:00（UTC+8）\noffici
+ al_notice: 《鸣潮》3.7版本更新维护预告
+CATEGORIES:鸣潮版本日历
+URL;VALUE=URI:https://wutheringwaves.kurogames.com/cn/main/news/detail/547
+ 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wuthering-waves-wuthering-waves-2026-5477-version@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20260923T000000
+DTSTART;TZID=Asia/Shanghai:20260930T110000
+DTEND;TZID=Asia/Shanghai:20260930T120000
+SUMMARY:鸣潮版本日历 · 鸣潮 3.7 版本周期
+DESCRIPTION:鸣潮 3.7 版本内容开放周期。\n\n版本: 3.7\n类型:
+  version\n官方来源: 《鸣潮》3.7版本更新维护预告\n\nofficia
+ l_notice: 《鸣潮》3.7版本更新维护预告
+CATEGORIES:鸣潮版本日历
+URL;VALUE=URI:https://wutheringwaves.kurogames.com/cn/main/news/detail/547
+ 7
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
