@@ -4,19 +4,18 @@
   "category": "gaming",
   "name_en": "Honkai: Star Rail Version Calendar",
   "subcategory": "游戏更新",
-  "description": "崩坏：星穹铁道版本前瞻、版本更新、跃迁阶段和活动截止提醒。未官宣节点使用 planned 状态。",
+  "description": "崩坏：星穹铁道版本、跃迁和活动节点，仅收录官方公告中可解析的日期。",
   "description_en": "Honkai: Star Rail versions, warps, and events parsed from official announcements only.",
-  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/10/4a/56104ae6-272f-0619-908e-6ce14305b4fe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+  "icon": "🚂",
   "tags": [
     "崩坏星穹铁道",
-    "崩铁",
     "版本更新",
     "跃迁"
   ],
   "tags_en": [
     "Honkai: Star Rail",
     "Version Update",
-    "Banner"
+    "Warps"
   ],
   "maintainer": "community",
   "source_url": "https://sr.mihoyo.com/news",
@@ -795,7 +794,7 @@
       "description_en": "Honkai: Star Rail Official Maintenance Update.",
       "url": "https://sr.mihoyo.com/news/detail/163585",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-24",
       "verified_by": "official",
       "details": {
         "official_time": "2026/04/22 06:00进行版本更新维护，维护完成后将更新至4.2"
@@ -827,7 +826,7 @@
       "description": "崩坏：星穹铁道 官方版本维护更新。",
       "url": "https://sr.mihoyo.com/news/detail/163630",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-24",
       "verified_by": "official",
       "details": {
         "official_time": "2026/04/22 4.2版本更新后 - 2026/06/01 06:00",
@@ -1278,7 +1277,7 @@
       "description": "崩坏：星穹铁道 官方版本维护更新。",
       "url": "https://sr.mihoyo.com/news/detail/164426",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-24",
       "verified_by": "official",
       "details": {
         "official_time": "2026/06/01 4.3版本更新后 - 2026/07/15 06:00",
@@ -1316,7 +1315,7 @@
       "description_en": "Honkai: Star Rail Official Maintenance Update.",
       "url": "https://sr.mihoyo.com/news/detail/164408",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-24",
       "verified_by": "official",
       "details": {
         "official_time": "2026/06/01（周一） 06:00进行版本更新维护，维护完成后将更新至4.3"
@@ -1606,7 +1605,7 @@
       "description_en": "Honkai: Star Rail Official Maintenance Update.",
       "url": "https://sr.mihoyo.com/news/detail/165187",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-24",
       "verified_by": "official",
       "details": {
         "official_time": "2026/07/15 06:00进行版本更新维护，维护完成后将更新至4.4"
@@ -1638,7 +1637,7 @@
       "description_en": "Honkai: Star Rail Official Maintenance Update.",
       "url": "https://sr.mihoyo.com/news/detail/165210",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-24",
       "verified_by": "official",
       "details": {
         "official_time": "2026/07/15 4.4版本更新后 - 2026/08/26 06:00",
@@ -1674,7 +1673,7 @@
       "description_en": "Honkai: Star Rail Official Maintenance Update.",
       "url": "https://sr.mihoyo.com/news/detail/165896",
       "status": "active",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-24",
       "verified_by": "official",
       "details": {
         "official_time": "2026/08/26 4.5版本更新后 - 2026/09/28 06:00",
@@ -1695,8 +1694,40 @@
         "source_url": "https://sr.mihoyo.com/news/detail/165896",
         "version": "4.5"
       }
+    },
+    {
+      "id": "honkai-star-rail-2026-166480-maintenance",
+      "name": "崩坏：星穹铁道 4.6 版本维护更新",
+      "name_en": "Honkai: Star Rail v4.6 Maintenance Update",
+      "date": "2026-09-28",
+      "end_date": "2026-04-06",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "event",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 官方版本维护更新。",
+      "description_en": "Honkai: Star Rail Official Maintenance Update.",
+      "url": "https://sr.mihoyo.com/news/detail/166480",
+      "status": "completed",
+      "last_verified": "2026-09-24",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/09/28（周一） 06:00进行版本更新维护，维护完成后将更新至4.6"
+      },
+      "details_en": {
+        "official_time": "2026/09/28（周一） 06:00进行版本更新维护，维护完成后将更新至4.6"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "maintenance",
+        "source_content_id": "166480",
+        "source_title": "4.6版本更新维护预告",
+        "source_url": "https://sr.mihoyo.com/news/detail/166480",
+        "version": "4.6"
+      }
     }
   ],
-  "last_updated": "2026-08-31",
+  "last_updated": "2026-09-24",
   "subcategory_en": "Game Updates"
 }
