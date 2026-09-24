@@ -979,7 +979,7 @@
           ],
           "store_url": "https://rawg.io/games/control-resonant",
           "rawg_id": "1015409",
-          "rawg_rating": 4.3
+          "rawg_rating": 4.27
         },
         {
           "title": "Silent Hill Townfall",
@@ -1216,25 +1216,25 @@
       "date": "2026-10-06",
       "year": 2026,
       "timezone": "Asia/Shanghai",
-      "name": "Gears of War: E-Day 发售",
-      "name_en": "Gears of War: E-Day release",
-      "description": "Gears of War: E-Day 发售（PC）",
-      "description_en": "Gears of War: E-Day releases on PC.",
+      "name": "Gears of War: E-Day 等 2 款发售",
+      "name_en": "Gears of War: E-Day + 1 more release",
+      "description": "当天发售：Gears of War: E-Day、Star Wars: Galactic Racer",
+      "description_en": "Releases this day: Gears of War: E-Day, Star Wars: Galactic Racer.",
       "type": "event",
       "status": "planned",
-      "url": "https://rawg.io/games/gears-of-war-e-day",
+      "url": "https://rawg.io/games",
       "last_verified": "2026-09-24",
       "verified_by": "auto",
       "details": {
-        "游戏数量": "1",
-        "发售游戏": "Gears of War: E-Day",
-        "平台": "PC",
+        "游戏数量": "2",
+        "发售游戏": "Gears of War: E-Day、Star Wars: Galactic Racer",
+        "平台": "PC / PS5 / Xbox Series",
         "数据来源": "RAWG"
       },
       "details_en": {
-        "Game count": "1",
-        "Games": "Gears of War: E-Day",
-        "Platforms": "PC",
+        "Game count": "2",
+        "Games": "Gears of War: E-Day, Star Wars: Galactic Racer",
+        "Platforms": "PC / PS5 / Xbox Series",
         "Data source": "RAWG"
       },
       "games": [
@@ -1246,6 +1246,57 @@
           ],
           "store_url": "https://rawg.io/games/gears-of-war-e-day",
           "rawg_id": "983213"
+        },
+        {
+          "title": "Star Wars: Galactic Racer",
+          "title_en": "Star Wars: Galactic Racer",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series"
+          ],
+          "store_url": "https://rawg.io/games/star-wars-galactic-racer",
+          "rawg_id": "1017395"
+        }
+      ]
+    },
+    {
+      "id": "rawg-releases-2026-10-08",
+      "date": "2026-10-08",
+      "year": 2026,
+      "timezone": "Asia/Shanghai",
+      "name": "Clive Barker's Hellraiser: Revival 发售",
+      "name_en": "Clive Barker's Hellraiser: Revival release",
+      "description": "Clive Barker's Hellraiser: Revival 发售（PC / PS5 / Switch）",
+      "description_en": "Clive Barker's Hellraiser: Revival releases on PC / PS5 / Switch.",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/clive-barkers-hellraiser-revival",
+      "last_verified": "2026-09-24",
+      "verified_by": "auto",
+      "details": {
+        "游戏数量": "1",
+        "发售游戏": "Clive Barker's Hellraiser: Revival",
+        "平台": "PC / PS5 / Switch",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "Clive Barker's Hellraiser: Revival",
+        "Platforms": "PC / PS5 / Switch",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "Clive Barker's Hellraiser: Revival",
+          "title_en": "Clive Barker's Hellraiser: Revival",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Switch"
+          ],
+          "store_url": "https://rawg.io/games/clive-barkers-hellraiser-revival",
+          "rawg_id": "1015542"
         }
       ]
     },
@@ -1659,24 +1710,24 @@
       "date": "2026-10-29",
       "year": 2026,
       "timezone": "Asia/Shanghai",
-      "name": "影之刃零 发售",
-      "name_en": "Phantom Blade Zero release",
-      "description": "影之刃零 发售（PC / PS5）",
-      "description_en": "Phantom Blade Zero releases on PC / PS5.",
+      "name": "影之刃零 等 2 款发售",
+      "name_en": "Phantom Blade Zero + 1 more release",
+      "description": "当天发售：影之刃零、Tavern Farkle GB",
+      "description_en": "Releases this day: Phantom Blade Zero, Tavern Farkle GB.",
       "type": "event",
       "status": "planned",
-      "url": "https://rawg.io/games/phantom-blade-zero",
+      "url": "https://rawg.io/games",
       "last_verified": "2026-09-24",
       "verified_by": "auto",
       "details": {
-        "游戏数量": "1",
-        "发售游戏": "影之刃零",
+        "游戏数量": "2",
+        "发售游戏": "影之刃零、Tavern Farkle GB",
         "平台": "PC / PS5",
         "数据来源": "RAWG"
       },
       "details_en": {
-        "Game count": "1",
-        "Games": "Phantom Blade Zero",
+        "Game count": "2",
+        "Games": "Phantom Blade Zero, Tavern Farkle GB",
         "Platforms": "PC / PS5",
         "Data source": "RAWG"
       },
@@ -1692,6 +1743,15 @@
           "store_url": "https://rawg.io/games/phantom-blade-zero",
           "rawg_id": "961205",
           "rawg_rating": 3.33
+        },
+        {
+          "title": "Tavern Farkle GB",
+          "title_en": "Tavern Farkle GB",
+          "platforms": [
+            "PC"
+          ],
+          "store_url": "https://rawg.io/games/tavern-farkle-gb",
+          "rawg_id": "1020128"
         }
       ]
     },
