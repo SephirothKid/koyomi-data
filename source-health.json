@@ -14,8 +14,8 @@
     },
     "fgo": {
       "category": "gaming",
-      "checked_at": "2026-09-24",
-      "outcome": "unchanged"
+      "checked_at": "2026-09-25",
+      "outcome": "updated"
     },
     "tw-public-holidays": {
       "category": "holidays",
@@ -187,22 +187,22 @@
     },
     "arknights": {
       "category": "gaming",
-      "checked_at": "2026-09-24",
+      "checked_at": "2026-09-25",
       "outcome": "unchanged"
     },
     "cs2-tournaments": {
       "category": "gaming",
-      "checked_at": "2026-09-24",
+      "checked_at": "2026-09-25",
       "outcome": "unchanged"
     },
     "epic-free": {
       "category": "gaming",
-      "checked_at": "2026-09-24",
+      "checked_at": "2026-09-25",
       "outcome": "updated"
     },
     "kpl": {
       "category": "gaming",
-      "checked_at": "2026-09-24",
+      "checked_at": "2026-09-25",
       "outcome": "unchanged"
     },
     "lpl": {
@@ -219,32 +219,35 @@
     "genshin-impact": {
       "category": "gaming",
       "checked_at": "2026-09-24",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/16471662a82d418a/getContentList?iAppId=43&iChanId=721&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed)"
     },
     "honkai-star-rail": {
       "category": "gaming",
       "checked_at": "2026-09-24",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/1963de8dc19e461c/getContentList?iChanId=255&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed)"
     },
     "zenless-zone-zero": {
       "category": "gaming",
-      "checked_at": "2026-09-24",
+      "checked_at": "2026-09-25",
       "outcome": "unchanged"
     },
     "rawg-releases": {
       "category": "gaming",
-      "checked_at": "2026-09-24",
+      "checked_at": "2026-09-25",
       "outcome": "updated"
     },
     "steam-sales": {
       "category": "gaming",
-      "checked_at": "2026-09-24",
+      "checked_at": "2026-09-25",
       "outcome": "unchanged"
     },
     "wuthering-waves": {
       "category": "gaming",
       "checked_at": "2026-09-24",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/zh/ArticleMenu.json (fetch failed)"
     },
     "accounting-qualification": {
       "category": "exam",
