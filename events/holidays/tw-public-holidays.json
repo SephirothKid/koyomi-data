@@ -5,22 +5,20 @@
   "name_en": "Taiwan, China Public Holidays",
   "subcategory": "公众假期",
   "subcategory_en": "Public Holidays",
-  "description": "中国台湾公众假期安排，基于《纪念日及节日实施办法》规则计算，包含固定日期节日和农历节日。弹性放假和补班安排需以内政部年度公告为准进行校准。",
-  "description_en": "Taiwan public holidays based on the Commemoration Days and Festivals Implementation Rules. Flexible holiday arrangements subject to annual MOI announcement.",
-  "icon": "calendar-days",
+  "description": "中国台湾公众假期，按逐日公告数据自动同步；不使用代码内农历日期表。",
+  "description_en": "Taiwan public holidays synced from published daily calendar data; no in-code lunar date table.",
+  "icon": "/logos/holiday/official.png",
   "tags": [
     "中国台湾",
     "公众假期",
-    "节假日",
-    "国定假日"
+    "节假日"
   ],
   "tags_en": [
     "Taiwan China",
-    "Public Holidays",
-    "National Holidays"
+    "Public Holidays"
   ],
-  "maintainer": "official",
-  "source_url": "https://www.moi.gov.tw/",
+  "maintainer": "community",
+  "source_url": "https://github.com/ruyut/TaiwanCalendar",
   "attribution": "TaiwanCalendar (government-announcement-derived dataset)",
   "subscriber_count": 15000,
   "rating": 4.3,
@@ -53,7 +51,7 @@
       "description_en": "New Year's Day; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -76,7 +74,7 @@
       "description_en": "Lunar New Year Eve Eve; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -115,7 +113,7 @@
       "description_en": "Lunar New Year Eve; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -139,7 +137,7 @@
       "description_en": "Lunar New Year; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -177,7 +175,7 @@
       "description_en": "Peace Memorial Day; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -200,7 +198,7 @@
       "description_en": "Make-up Holiday; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -239,7 +237,7 @@
       "description_en": "兒童節及民族掃墓節; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -277,7 +275,7 @@
       "description_en": "Make-up Holiday; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -315,7 +313,7 @@
       "description_en": "Dragon Boat Festival; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -338,7 +336,7 @@
       "description_en": "孔子誕辰紀念日; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -361,7 +359,7 @@
       "description_en": "Make-up Holiday; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -399,7 +397,7 @@
       "description_en": "Mid-Autumn Festival; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -437,7 +435,7 @@
       "description_en": "National Day; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -460,7 +458,7 @@
       "description_en": "Make-up Holiday; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -483,7 +481,7 @@
       "description_en": "Taiwan Retrocession Day; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -506,7 +504,7 @@
       "description_en": "Constitution Day; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -544,7 +542,7 @@
       "description_en": "New Year's Day; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -567,7 +565,7 @@
       "description_en": "Lunar New Year Eve Eve; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -606,7 +604,7 @@
       "description_en": "Lunar New Year Eve; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -630,7 +628,7 @@
       "description_en": "Lunar New Year; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -653,7 +651,7 @@
       "description_en": "Make-up Holiday; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -676,7 +674,7 @@
       "description_en": "Make-up Holiday; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -714,7 +712,7 @@
       "description_en": "Peace Memorial Day; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -737,7 +735,7 @@
       "description_en": "Make-up Holiday; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -776,7 +774,7 @@
       "description_en": "Children's Day; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -799,7 +797,7 @@
       "description_en": "Qingming Festival; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -822,7 +820,7 @@
       "description_en": "Make-up Holiday; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -860,7 +858,7 @@
       "description_en": "Labor Day; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -898,7 +896,7 @@
       "description_en": "Dragon Boat Festival; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "completed",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -920,8 +918,8 @@
       "description": "中秋節，日期来自逐日假期公告数据。",
       "description_en": "Mid-Autumn Festival; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
-      "status": "planned",
-      "last_verified": "2026-08-31",
+      "status": "completed",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -943,8 +941,8 @@
       "description": "孔子誕辰紀念日/教師節，日期来自逐日假期公告数据。",
       "description_en": "Confucius' Birthday / Teachers' Day; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
-      "status": "planned",
-      "last_verified": "2026-08-31",
+      "status": "active",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -967,7 +965,7 @@
       "description_en": "Make-up Holiday; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "planned",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -990,7 +988,7 @@
       "description_en": "National Day; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "planned",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -1013,7 +1011,7 @@
       "description_en": "Taiwan Retrocession Day; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "planned",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -1036,7 +1034,7 @@
       "description_en": "Make-up Holiday; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "planned",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -1059,7 +1057,7 @@
       "description_en": "Constitution Day; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "planned",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -1082,7 +1080,7 @@
       "description_en": "New Year's Day; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "planned",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -1105,7 +1103,7 @@
       "description_en": "Lunar New Year Eve Eve; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "planned",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -1128,7 +1126,7 @@
       "description_en": "Lunar New Year Eve; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "planned",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -1152,7 +1150,7 @@
       "description_en": "Lunar New Year; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "planned",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -1176,7 +1174,7 @@
       "description_en": "Make-up Holiday; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "planned",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -1199,7 +1197,7 @@
       "description_en": "Peace Memorial Day; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "planned",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -1222,7 +1220,7 @@
       "description_en": "Make-up Holiday; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "planned",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -1245,7 +1243,7 @@
       "description_en": "Children's Day; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "planned",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -1268,7 +1266,7 @@
       "description_en": "Qingming Festival; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "planned",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -1291,7 +1289,7 @@
       "description_en": "Make-up Holiday; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "planned",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -1314,7 +1312,7 @@
       "description_en": "Make-up Holiday; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "planned",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -1337,7 +1335,7 @@
       "description_en": "Labor Day; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "planned",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -1360,7 +1358,7 @@
       "description_en": "Dragon Boat Festival; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "planned",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -1383,7 +1381,7 @@
       "description_en": "Mid-Autumn Festival; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "planned",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -1406,7 +1404,7 @@
       "description_en": "Confucius' Birthday / Teachers' Day; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "planned",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -1429,7 +1427,7 @@
       "description_en": "National Day; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "planned",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -1452,7 +1450,7 @@
       "description_en": "Make-up Holiday; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "planned",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -1475,7 +1473,7 @@
       "description_en": "Taiwan Retrocession Day; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "planned",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -1498,7 +1496,7 @@
       "description_en": "Make-up Holiday; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "planned",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -1521,7 +1519,7 @@
       "description_en": "Constitution Day; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "planned",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -1544,7 +1542,7 @@
       "description_en": "Make-up Holiday; dates come from the published daily holiday calendar.",
       "url": "https://www.moi.gov.tw/",
       "status": "planned",
-      "last_verified": "2026-08-31",
+      "last_verified": "2026-09-28",
       "verified_by": "auto",
       "details": {
         "data_source": "TaiwanCalendar",
@@ -1556,5 +1554,5 @@
       }
     }
   ],
-  "last_updated": "2026-08-31"
+  "last_updated": "2026-09-28"
 }

@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Koyomi Cast//hk-public-holidays//EN
 URL:https://koyomi.cast/sources/hk-public-holidays
-NAME:Hong Kong Public Holidays
-X-WR-CALNAME:Hong Kong Public Holidays
+NAME:Hong Kong, China Public Holidays
+X-WR-CALNAME:Hong Kong, China Public Holidays
 X-WR-CALDESC:Hong Kong SAR public holidays, synced from the Government Gaz
  ette.
 TIMEZONE-ID:Asia/Hong_Kong
@@ -12,15 +12,16 @@ BEGIN:VEVENT
 UID:hk-public-holidays-hk-holiday-2026-day-following-the-mid-autumn-festiv
  al-09-26-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260706T000000
+DTSTAMP:20260928T000000
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Hong Kong Public Holidays · Day following the Mid-Autumn Festival
+SUMMARY:Hong Kong\, China Public Holidays · Day following the Mid-Autumn 
+ Festival
 DESCRIPTION:Day following the Mid-Autumn Festival (Hong Kong\, China Publi
  c Holidays)\n\n假期类型: Public\n固定日期: 否\n全国通用: 是
-CATEGORIES:Hong Kong Public Holidays
+CATEGORIES:Hong Kong\, China Public Holidays
 URL;VALUE=URI:https://www.gov.hk/sc/about/abouthk/holiday/
 STATUS:CONFIRMED
 END:VEVENT
@@ -28,15 +29,15 @@ BEGIN:VEVENT
 UID:hk-public-holidays-hk-holiday-2026-national-day-10-01-public@koyomi.ca
  st
 SEQUENCE:0
-DTSTAMP:20260706T000000
+DTSTAMP:20260928T000000
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Hong Kong Public Holidays · National Day
+SUMMARY:Hong Kong\, China Public Holidays · National Day
 DESCRIPTION:National Day (Hong Kong\, China Public Holidays)\n\n假期类
  型: Public\n固定日期: 否\n全国通用: 是
-CATEGORIES:Hong Kong Public Holidays
+CATEGORIES:Hong Kong\, China Public Holidays
 URL;VALUE=URI:https://www.gov.hk/sc/about/abouthk/holiday/
 STATUS:CONFIRMED
 END:VEVENT
@@ -44,15 +45,15 @@ BEGIN:VEVENT
 UID:hk-public-holidays-hk-holiday-2026-chung-yeung-festival-10-19-public@k
  oyomi.cast
 SEQUENCE:0
-DTSTAMP:20260706T000000
+DTSTAMP:20260928T000000
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Hong Kong Public Holidays · Chung Yeung Festival
+SUMMARY:Hong Kong\, China Public Holidays · Chung Yeung Festival
 DESCRIPTION:Chung Yeung Festival (Hong Kong\, China Public Holidays)\n\n
  假期类型: Public\n固定日期: 否\n全国通用: 是
-CATEGORIES:Hong Kong Public Holidays
+CATEGORIES:Hong Kong\, China Public Holidays
 URL;VALUE=URI:https://www.gov.hk/sc/about/abouthk/holiday/
 STATUS:CONFIRMED
 END:VEVENT
@@ -60,30 +61,30 @@ BEGIN:VEVENT
 UID:hk-public-holidays-hk-holiday-2026-christmas-day-12-25-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20260706T000000
+DTSTAMP:20260928T000000
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Hong Kong Public Holidays · Christmas Day
+SUMMARY:Hong Kong\, China Public Holidays · Christmas Day
 DESCRIPTION:Christmas Day (Hong Kong\, China Public Holidays)\n\n假期类
  型: Public\n固定日期: 否\n全国通用: 是
-CATEGORIES:Hong Kong Public Holidays
+CATEGORIES:Hong Kong\, China Public Holidays
 URL;VALUE=URI:https://www.gov.hk/sc/about/abouthk/holiday/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:hk-public-holidays-hk-holiday-2026-boxing-day-12-26-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260706T000000
+DTSTAMP:20260928T000000
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Hong Kong Public Holidays · Boxing Day
+SUMMARY:Hong Kong\, China Public Holidays · Boxing Day
 DESCRIPTION:Boxing Day (Hong Kong\, China Public Holidays)\n\n假期类型
  : Public\n固定日期: 否\n全国通用: 是
-CATEGORIES:Hong Kong Public Holidays
+CATEGORIES:Hong Kong\, China Public Holidays
 URL;VALUE=URI:https://www.gov.hk/sc/about/abouthk/holiday/
 STATUS:CONFIRMED
 END:VEVENT
@@ -91,15 +92,15 @@ BEGIN:VEVENT
 UID:hk-public-holidays-hk-holiday-2027-new-years-day-01-01-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20260706T000000
+DTSTAMP:20260928T000000
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Hong Kong Public Holidays · New Year's Day
+SUMMARY:Hong Kong\, China Public Holidays · New Year's Day
 DESCRIPTION:New Year's Day (Hong Kong\, China Public Holidays)\n\n假期
  类型: Public\n固定日期: 否\n全国通用: 是
-CATEGORIES:Hong Kong Public Holidays
+CATEGORIES:Hong Kong\, China Public Holidays
 URL;VALUE=URI:https://www.gov.hk/sc/about/abouthk/holiday/
 STATUS:CONFIRMED
 END:VEVENT
@@ -107,15 +108,15 @@ BEGIN:VEVENT
 UID:hk-public-holidays-hk-holiday-2027-lunar-new-year-02-06-public@koyomi.
  cast
 SEQUENCE:0
-DTSTAMP:20260706T000000
+DTSTAMP:20260928T000000
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Hong Kong Public Holidays · Lunar New Year
+SUMMARY:Hong Kong\, China Public Holidays · Lunar New Year
 DESCRIPTION:Lunar New Year (Hong Kong\, China Public Holidays)\n\n假期
  类型: Public\n固定日期: 否\n全国通用: 是
-CATEGORIES:Hong Kong Public Holidays
+CATEGORIES:Hong Kong\, China Public Holidays
 URL;VALUE=URI:https://www.gov.hk/sc/about/abouthk/holiday/
 STATUS:CONFIRMED
 END:VEVENT
@@ -123,15 +124,15 @@ BEGIN:VEVENT
 UID:hk-public-holidays-hk-holiday-2027-second-day-of-lunar-new-year-02-08-
  public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260706T000000
+DTSTAMP:20260928T000000
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Hong Kong Public Holidays · Second day of Lunar New Year
+SUMMARY:Hong Kong\, China Public Holidays · Second day of Lunar New Year
 DESCRIPTION:Second day of Lunar New Year (Hong Kong\, China Public Holiday
  s)\n\n假期类型: Public\n固定日期: 否\n全国通用: 是
-CATEGORIES:Hong Kong Public Holidays
+CATEGORIES:Hong Kong\, China Public Holidays
 URL;VALUE=URI:https://www.gov.hk/sc/about/abouthk/holiday/
 STATUS:CONFIRMED
 END:VEVENT
@@ -139,15 +140,15 @@ BEGIN:VEVENT
 UID:hk-public-holidays-hk-holiday-2027-third-day-of-lunar-new-year-02-09-p
  ublic@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260706T000000
+DTSTAMP:20260928T000000
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Hong Kong Public Holidays · Third day of Lunar New Year
+SUMMARY:Hong Kong\, China Public Holidays · Third day of Lunar New Year
 DESCRIPTION:Third day of Lunar New Year (Hong Kong\, China Public Holidays
  )\n\n假期类型: Public\n固定日期: 否\n全国通用: 是
-CATEGORIES:Hong Kong Public Holidays
+CATEGORIES:Hong Kong\, China Public Holidays
 URL;VALUE=URI:https://www.gov.hk/sc/about/abouthk/holiday/
 STATUS:CONFIRMED
 END:VEVENT
@@ -155,15 +156,15 @@ BEGIN:VEVENT
 UID:hk-public-holidays-hk-holiday-2027-good-friday-03-26-public@koyomi.cas
  t
 SEQUENCE:0
-DTSTAMP:20260706T000000
+DTSTAMP:20260928T000000
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Hong Kong Public Holidays · Good Friday
+SUMMARY:Hong Kong\, China Public Holidays · Good Friday
 DESCRIPTION:Good Friday (Hong Kong\, China Public Holidays)\n\n假期类
  型: Public\n固定日期: 否\n全国通用: 是
-CATEGORIES:Hong Kong Public Holidays
+CATEGORIES:Hong Kong\, China Public Holidays
 URL;VALUE=URI:https://www.gov.hk/sc/about/abouthk/holiday/
 STATUS:CONFIRMED
 END:VEVENT
@@ -171,15 +172,15 @@ BEGIN:VEVENT
 UID:hk-public-holidays-hk-holiday-2027-holy-saturday-03-27-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20260706T000000
+DTSTAMP:20260928T000000
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Hong Kong Public Holidays · Holy Saturday
+SUMMARY:Hong Kong\, China Public Holidays · Holy Saturday
 DESCRIPTION:Holy Saturday (Hong Kong\, China Public Holidays)\n\n假期类
  型: Public\n固定日期: 否\n全国通用: 是
-CATEGORIES:Hong Kong Public Holidays
+CATEGORIES:Hong Kong\, China Public Holidays
 URL;VALUE=URI:https://www.gov.hk/sc/about/abouthk/holiday/
 STATUS:CONFIRMED
 END:VEVENT
@@ -187,15 +188,15 @@ BEGIN:VEVENT
 UID:hk-public-holidays-hk-holiday-2027-easter-monday-03-29-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20260706T000000
+DTSTAMP:20260928T000000
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Hong Kong Public Holidays · Easter Monday
+SUMMARY:Hong Kong\, China Public Holidays · Easter Monday
 DESCRIPTION:Easter Monday (Hong Kong\, China Public Holidays)\n\n假期类
  型: Public\n固定日期: 否\n全国通用: 是
-CATEGORIES:Hong Kong Public Holidays
+CATEGORIES:Hong Kong\, China Public Holidays
 URL;VALUE=URI:https://www.gov.hk/sc/about/abouthk/holiday/
 STATUS:CONFIRMED
 END:VEVENT
@@ -203,30 +204,30 @@ BEGIN:VEVENT
 UID:hk-public-holidays-hk-holiday-2027-ching-ming-festival-04-05-public@ko
  yomi.cast
 SEQUENCE:0
-DTSTAMP:20260706T000000
+DTSTAMP:20260928T000000
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270406
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Hong Kong Public Holidays · Ching Ming Festival
+SUMMARY:Hong Kong\, China Public Holidays · Ching Ming Festival
 DESCRIPTION:Ching Ming Festival (Hong Kong\, China Public Holidays)\n\n假
  期类型: Public\n固定日期: 否\n全国通用: 是
-CATEGORIES:Hong Kong Public Holidays
+CATEGORIES:Hong Kong\, China Public Holidays
 URL;VALUE=URI:https://www.gov.hk/sc/about/abouthk/holiday/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:hk-public-holidays-hk-holiday-2027-labour-day-05-01-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260706T000000
+DTSTAMP:20260928T000000
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Hong Kong Public Holidays · Labour Day
+SUMMARY:Hong Kong\, China Public Holidays · Labour Day
 DESCRIPTION:Labour Day (Hong Kong\, China Public Holidays)\n\n假期类型
  : Public\n固定日期: 否\n全国通用: 是
-CATEGORIES:Hong Kong Public Holidays
+CATEGORIES:Hong Kong\, China Public Holidays
 URL;VALUE=URI:https://www.gov.hk/sc/about/abouthk/holiday/
 STATUS:CONFIRMED
 END:VEVENT
@@ -234,15 +235,15 @@ BEGIN:VEVENT
 UID:hk-public-holidays-hk-holiday-2027-buddhas-birthday-05-13-public@koyom
  i.cast
 SEQUENCE:0
-DTSTAMP:20260706T000000
+DTSTAMP:20260928T000000
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Hong Kong Public Holidays · Buddha's Birthday
+SUMMARY:Hong Kong\, China Public Holidays · Buddha's Birthday
 DESCRIPTION:Buddha's Birthday (Hong Kong\, China Public Holidays)\n\n假
  期类型: Public\n固定日期: 否\n全国通用: 是
-CATEGORIES:Hong Kong Public Holidays
+CATEGORIES:Hong Kong\, China Public Holidays
 URL;VALUE=URI:https://www.gov.hk/sc/about/abouthk/holiday/
 STATUS:CONFIRMED
 END:VEVENT
@@ -250,15 +251,15 @@ BEGIN:VEVENT
 UID:hk-public-holidays-hk-holiday-2027-dragon-boat-festival-06-09-public@k
  oyomi.cast
 SEQUENCE:0
-DTSTAMP:20260706T000000
+DTSTAMP:20260928T000000
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270610
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Hong Kong Public Holidays · Dragon Boat Festival
+SUMMARY:Hong Kong\, China Public Holidays · Dragon Boat Festival
 DESCRIPTION:Dragon Boat Festival (Hong Kong\, China Public Holidays)\n\n
  假期类型: Public\n固定日期: 否\n全国通用: 是
-CATEGORIES:Hong Kong Public Holidays
+CATEGORIES:Hong Kong\, China Public Holidays
 URL;VALUE=URI:https://www.gov.hk/sc/about/abouthk/holiday/
 STATUS:CONFIRMED
 END:VEVENT
@@ -266,17 +267,17 @@ BEGIN:VEVENT
 UID:hk-public-holidays-hk-holiday-2027-hong-kong-special-administrative-re
  gion-establishment-day-07-01-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260706T000000
+DTSTAMP:20260928T000000
 DTSTART;VALUE=DATE:20270701
 DTEND;VALUE=DATE:20270702
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Hong Kong Public Holidays · Hong Kong Special Administrative Regi
- on Establishment Day
+SUMMARY:Hong Kong\, China Public Holidays · Hong Kong Special Administrat
+ ive Region Establishment Day
 DESCRIPTION:Hong Kong Special Administrative Region Establishment Day (Hon
  g Kong\, China Public Holidays)\n\n假期类型: Public\n固定日期: 否
  \n全国通用: 是
-CATEGORIES:Hong Kong Public Holidays
+CATEGORIES:Hong Kong\, China Public Holidays
 URL;VALUE=URI:https://www.gov.hk/sc/about/abouthk/holiday/
 STATUS:CONFIRMED
 END:VEVENT
@@ -284,15 +285,16 @@ BEGIN:VEVENT
 UID:hk-public-holidays-hk-holiday-2027-day-following-the-mid-autumn-festiv
  al-09-16-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260706T000000
+DTSTAMP:20260928T000000
 DTSTART;VALUE=DATE:20270916
 DTEND;VALUE=DATE:20270917
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Hong Kong Public Holidays · Day following the Mid-Autumn Festival
+SUMMARY:Hong Kong\, China Public Holidays · Day following the Mid-Autumn 
+ Festival
 DESCRIPTION:Day following the Mid-Autumn Festival (Hong Kong\, China Publi
  c Holidays)\n\n假期类型: Public\n固定日期: 否\n全国通用: 是
-CATEGORIES:Hong Kong Public Holidays
+CATEGORIES:Hong Kong\, China Public Holidays
 URL;VALUE=URI:https://www.gov.hk/sc/about/abouthk/holiday/
 STATUS:CONFIRMED
 END:VEVENT
@@ -300,15 +302,15 @@ BEGIN:VEVENT
 UID:hk-public-holidays-hk-holiday-2027-national-day-10-01-public@koyomi.ca
  st
 SEQUENCE:0
-DTSTAMP:20260706T000000
+DTSTAMP:20260928T000000
 DTSTART;VALUE=DATE:20271001
 DTEND;VALUE=DATE:20271002
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Hong Kong Public Holidays · National Day
+SUMMARY:Hong Kong\, China Public Holidays · National Day
 DESCRIPTION:National Day (Hong Kong\, China Public Holidays)\n\n假期类
  型: Public\n固定日期: 否\n全国通用: 是
-CATEGORIES:Hong Kong Public Holidays
+CATEGORIES:Hong Kong\, China Public Holidays
 URL;VALUE=URI:https://www.gov.hk/sc/about/abouthk/holiday/
 STATUS:CONFIRMED
 END:VEVENT
@@ -316,15 +318,15 @@ BEGIN:VEVENT
 UID:hk-public-holidays-hk-holiday-2027-chung-yeung-festival-10-08-public@k
  oyomi.cast
 SEQUENCE:0
-DTSTAMP:20260706T000000
+DTSTAMP:20260928T000000
 DTSTART;VALUE=DATE:20271008
 DTEND;VALUE=DATE:20271009
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Hong Kong Public Holidays · Chung Yeung Festival
+SUMMARY:Hong Kong\, China Public Holidays · Chung Yeung Festival
 DESCRIPTION:Chung Yeung Festival (Hong Kong\, China Public Holidays)\n\n
  假期类型: Public\n固定日期: 否\n全国通用: 是
-CATEGORIES:Hong Kong Public Holidays
+CATEGORIES:Hong Kong\, China Public Holidays
 URL;VALUE=URI:https://www.gov.hk/sc/about/abouthk/holiday/
 STATUS:CONFIRMED
 END:VEVENT
@@ -332,30 +334,30 @@ BEGIN:VEVENT
 UID:hk-public-holidays-hk-holiday-2027-christmas-day-12-25-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20260706T000000
+DTSTAMP:20260928T000000
 DTSTART;VALUE=DATE:20271225
 DTEND;VALUE=DATE:20271226
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Hong Kong Public Holidays · Christmas Day
+SUMMARY:Hong Kong\, China Public Holidays · Christmas Day
 DESCRIPTION:Christmas Day (Hong Kong\, China Public Holidays)\n\n假期类
  型: Public\n固定日期: 否\n全国通用: 是
-CATEGORIES:Hong Kong Public Holidays
+CATEGORIES:Hong Kong\, China Public Holidays
 URL;VALUE=URI:https://www.gov.hk/sc/about/abouthk/holiday/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:hk-public-holidays-hk-holiday-2027-boxing-day-12-27-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260706T000000
+DTSTAMP:20260928T000000
 DTSTART;VALUE=DATE:20271227
 DTEND;VALUE=DATE:20271228
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Hong Kong Public Holidays · Boxing Day
+SUMMARY:Hong Kong\, China Public Holidays · Boxing Day
 DESCRIPTION:Boxing Day (Hong Kong\, China Public Holidays)\n\n假期类型
  : Public\n固定日期: 否\n全国通用: 是
-CATEGORIES:Hong Kong Public Holidays
+CATEGORIES:Hong Kong\, China Public Holidays
 URL;VALUE=URI:https://www.gov.hk/sc/about/abouthk/holiday/
 STATUS:CONFIRMED
 END:VEVENT
