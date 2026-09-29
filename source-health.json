@@ -15,7 +15,7 @@
     "fgo": {
       "category": "gaming",
       "checked_at": "2026-09-29",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "tw-public-holidays": {
       "category": "holidays",
@@ -208,7 +208,8 @@
     "lpl": {
       "category": "gaming",
       "checked_at": "2026-09-29",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: https://api.pandascore.co/lol/matches?filter%5Bleague_id%5D=294&range%5Bbegin_at%5D=2026-01-01%2C2099-12-31&page%5Bnumber%5D=1&page%5Bsize%5D=100&sort=begin_at"
     },
     "console-showcases": {
       "category": "gaming",
@@ -223,7 +224,7 @@
     "honkai-star-rail": {
       "category": "gaming",
       "checked_at": "2026-09-29",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "zenless-zone-zero": {
       "category": "gaming",
@@ -233,7 +234,7 @@
     "rawg-releases": {
       "category": "gaming",
       "checked_at": "2026-09-29",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "steam-sales": {
       "category": "gaming",
