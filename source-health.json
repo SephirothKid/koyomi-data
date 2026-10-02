@@ -9,7 +9,7 @@
     },
     "judicial-exam": {
       "category": "exam",
-      "checked_at": "2026-10-01",
+      "checked_at": "2026-10-02",
       "outcome": "unchanged"
     },
     "fgo": {
@@ -369,7 +369,8 @@
     "civil-service-provincial": {
       "category": "exam",
       "checked_at": "2026-10-01",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://m.gwy.com/dfgwy/ (fetch failed)"
     },
     "cet": {
       "category": "exam",
