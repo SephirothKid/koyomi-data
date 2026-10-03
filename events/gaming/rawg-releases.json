@@ -1182,7 +1182,7 @@
       "description": "Ace Combat 8: Wings of Theve 发售（PC / PS5）",
       "description_en": "Ace Combat 8: Wings of Theve releases on PC / PS5.",
       "type": "event",
-      "status": "active",
+      "status": "completed",
       "url": "https://rawg.io/games/ace-combat-8-wings-of-theve",
       "last_verified": "2026-10-02",
       "verified_by": "auto",
@@ -1223,7 +1223,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -1272,7 +1272,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/clive-barkers-hellraiser-revival",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1312,7 +1312,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/battleplan",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1350,7 +1350,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -1391,28 +1391,37 @@
       "date": "2026-10-14",
       "year": 2026,
       "timezone": "Asia/Shanghai",
-      "name": "Warhammer 40,000: Boltgun 2 发售",
-      "name_en": "Warhammer 40,000: Boltgun 2 release",
-      "description": "Warhammer 40,000: Boltgun 2 发售（PC）",
-      "description_en": "Warhammer 40,000: Boltgun 2 releases on PC.",
+      "name": "Odd Town 等 2 款发售",
+      "name_en": "Odd Town + 1 more release",
+      "description": "当天发售：Odd Town、Warhammer 40,000: Boltgun 2",
+      "description_en": "Releases this day: Odd Town, Warhammer 40,000: Boltgun 2.",
       "type": "event",
       "status": "planned",
-      "url": "https://rawg.io/games/warhammer-40000-boltgun-2",
-      "last_verified": "2026-10-02",
+      "url": "https://rawg.io/games",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
-        "游戏数量": "1",
-        "发售游戏": "Warhammer 40,000: Boltgun 2",
+        "游戏数量": "2",
+        "发售游戏": "Odd Town、Warhammer 40,000: Boltgun 2",
         "平台": "PC",
         "数据来源": "RAWG"
       },
       "details_en": {
-        "Game count": "1",
-        "Games": "Warhammer 40,000: Boltgun 2",
+        "Game count": "2",
+        "Games": "Odd Town, Warhammer 40,000: Boltgun 2",
         "Platforms": "PC",
         "Data source": "RAWG"
       },
       "games": [
+        {
+          "title": "Odd Town",
+          "title_en": "Odd Town",
+          "platforms": [
+            "PC"
+          ],
+          "store_url": "https://rawg.io/games/odd-town",
+          "rawg_id": "1020260"
+        },
         {
           "title": "Warhammer 40,000: Boltgun 2",
           "title_en": "Warhammer 40,000: Boltgun 2",
@@ -1429,25 +1438,25 @@
       "date": "2026-10-15",
       "year": 2026,
       "timezone": "Asia/Shanghai",
-      "name": "Castlevania: Belmont's Curse 等 2 款发售",
-      "name_en": "Castlevania: Belmont's Curse + 1 more release",
-      "description": "当天发售：Castlevania: Belmont's Curse、Enshrouded",
-      "description_en": "Releases this day: Castlevania: Belmont's Curse, Enshrouded.",
+      "name": "Castlevania: Belmont's Curse 等 4 款发售",
+      "name_en": "Castlevania: Belmont's Curse + 3 more releases",
+      "description": "当天发售：Castlevania: Belmont's Curse、Disney/Pixar Toy Story 3 Complete Edition、Enshrouded、Penguin Colony",
+      "description_en": "Releases this day: Castlevania: Belmont's Curse, Disney/Pixar Toy Story 3 Complete Edition, Enshrouded, Penguin Colony.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
-        "游戏数量": "2",
-        "发售游戏": "Castlevania: Belmont's Curse、Enshrouded",
-        "平台": "PC / PS5 / Switch",
+        "游戏数量": "4",
+        "发售游戏": "Castlevania: Belmont's Curse、Disney/Pixar Toy Story 3 Complete Edition、Enshrouded、Penguin Colony",
+        "平台": "PC / PS4 / PS5 / Switch / Xbox Series",
         "数据来源": "RAWG"
       },
       "details_en": {
-        "Game count": "2",
-        "Games": "Castlevania: Belmont's Curse, Enshrouded",
-        "Platforms": "PC / PS5 / Switch",
+        "Game count": "4",
+        "Games": "Castlevania: Belmont's Curse, Disney/Pixar Toy Story 3 Complete Edition, Enshrouded, Penguin Colony",
+        "Platforms": "PC / PS4 / PS5 / Switch / Xbox Series",
         "Data source": "RAWG"
       },
       "games": [
@@ -1463,6 +1472,19 @@
           "rawg_id": "1018102"
         },
         {
+          "title": "Disney/Pixar Toy Story 3 Complete Edition",
+          "title_en": "Disney/Pixar Toy Story 3 Complete Edition",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series",
+            "PS4",
+            "Switch"
+          ],
+          "store_url": "https://rawg.io/games/disneypixar-toy-story-3-complete-edition",
+          "rawg_id": "1020290"
+        },
+        {
           "title": "Enshrouded",
           "title_en": "Enshrouded",
           "platforms": [
@@ -1471,6 +1493,15 @@
           "store_url": "https://rawg.io/games/enshrouded-2",
           "rawg_id": "975605",
           "rawg_rating": 3.71
+        },
+        {
+          "title": "Penguin Colony",
+          "title_en": "Penguin Colony",
+          "platforms": [
+            "PC"
+          ],
+          "store_url": "https://rawg.io/games/penguin-colony",
+          "rawg_id": "1020259"
         }
       ]
     },
@@ -1486,7 +1517,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/tenebris-somnia-demo",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1524,7 +1555,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/mycopunk",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1562,7 +1593,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/stupid-never-dies",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1600,7 +1631,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/final-fantasy-resonance",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1640,7 +1671,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/ecstatica",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1678,7 +1709,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/remothered-red-nuns-legacy",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1716,7 +1747,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "3",
@@ -1776,7 +1807,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/underkeep",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1814,7 +1845,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/the-legend-of-zelda-ocarina-of-time-2",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1852,7 +1883,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/after-the-wane",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1892,7 +1923,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/space-station-designer",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1930,7 +1961,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/grand-theft-aito-vi",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1954,7 +1985,7 @@
           ],
           "store_url": "https://rawg.io/games/grand-theft-aito-vi",
           "rawg_id": "972995",
-          "rawg_rating": 3.8
+          "rawg_rating": 3.81
         }
       ]
     },
@@ -1970,7 +2001,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/beautiful-light",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2008,7 +2039,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/sombras-negative-frames",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2046,7 +2077,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/rayman-legends-retold",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2085,7 +2116,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/path-of-exile-2",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2124,7 +2155,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/they-come-in-fives",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2162,7 +2193,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/ananta",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2203,7 +2234,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/titan-quest-2",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2243,7 +2274,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -2290,7 +2321,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/metro-2039",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2329,7 +2360,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/tomb-raider-legacy-of-atlantis",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2368,7 +2399,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/god-of-war-laufey",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2406,7 +2437,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/fable2020",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2447,7 +2478,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/trine-6-together-in-time",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2487,7 +2518,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -2539,7 +2570,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/exodus-archetype-entertainment",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2578,7 +2609,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/final-fantasy-vii-revelations",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2618,7 +2649,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -2667,7 +2698,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/parking-in-tight-spaces",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2705,7 +2736,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/unknown-carnivores-dinosaur-hunt-sequel",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-03",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2732,5 +2763,5 @@
       ]
     }
   ],
-  "last_updated": "2026-10-02"
+  "last_updated": "2026-10-03"
 }
