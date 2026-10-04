@@ -304,8 +304,8 @@ BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1711378@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261004T000000
-DTSTART;TZID=Asia/Shanghai:20261004T170000
-DTEND;TZID=Asia/Shanghai:20261004T180000
+DTSTART;TZID=Asia/Shanghai:20261004T170100
+DTEND;TZID=Asia/Shanghai:20261004T180100
 SUMMARY:CS2 · ESL · Group Stage · ShindeN vs Legacy
 DESCRIPTION:ShindeN vs Legacy — ESL  (CST)\n\n赛事: ESL\n赛季: 2026\
  n阶段: 小组赛\n赛制: BO3
@@ -317,26 +317,13 @@ BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1711377@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261004T000000
-DTSTART;TZID=Asia/Shanghai:20261004T170000
-DTEND;TZID=Asia/Shanghai:20261004T180000
+DTSTART;TZID=Asia/Shanghai:20261004T170200
+DTEND;TZID=Asia/Shanghai:20261004T180200
 SUMMARY:CS2 · ESL · Group Stage · Spirit vs PARIVISION
 DESCRIPTION:Spirit vs PARIVISION — ESL  (CST)\n\n赛事: ESL\n赛季: 20
  26\n阶段: 小组赛\n赛制: BO3
 CATEGORIES:CS2
 URL;VALUE=URI:https://www.twitch.tv/izakooo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:cs2-tournaments-cs2-2026-m1711380@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261004T000000
-DTSTART;TZID=Asia/Shanghai:20261004T193000
-DTEND;TZID=Asia/Shanghai:20261004T203000
-SUMMARY:CS2 · ESL · Group Stage · Team Falcons vs Aurora Gaming
-DESCRIPTION:Team Falcons vs Aurora Gaming — ESL  (CST)\n\n赛事: ESL\n
- 赛季: 2026\n阶段: 小组赛\n赛制: BO3
-CATEGORIES:CS2
-URL;VALUE=URI:https://kick.com/jaxi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -353,55 +340,68 @@ URL;VALUE=URI:https://kick.com/elmorocho7
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:cs2-tournaments-cs2-2026-m1711388@koyomi.cast
+UID:cs2-tournaments-cs2-2026-m1711380@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261004T000000
-DTSTART;TZID=Asia/Shanghai:20261004T220000
-DTEND;TZID=Asia/Shanghai:20261004T230000
-SUMMARY:CS2 · ESL · Group Stage · FURIA vs MOUZ
-DESCRIPTION:FURIA vs MOUZ — ESL  (CST)\n\n赛事: ESL\n赛季: 2026\n阶
- 段: 小组赛\n赛制: BO3
+DTSTART;TZID=Asia/Shanghai:20261004T201900
+DTEND;TZID=Asia/Shanghai:20261004T211900
+SUMMARY:CS2 · ESL · Group Stage · Team Falcons vs Aurora Gaming
+DESCRIPTION:Team Falcons vs Aurora Gaming — ESL  (CST)\n\n赛事: ESL\n
+ 赛季: 2026\n阶段: 小组赛\n赛制: BO3
 CATEGORIES:CS2
-URL;VALUE=URI:https://www.twitch.tv/izakooo
+URL;VALUE=URI:https://kick.com/jaxi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1711381@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261004T000000
-DTSTART;TZID=Asia/Shanghai:20261004T220000
-DTEND;TZID=Asia/Shanghai:20261004T230000
+DTSTART;TZID=Asia/Shanghai:20261004T220100
+DTEND;TZID=Asia/Shanghai:20261004T230100
 SUMMARY:CS2 · ESL · Group Stage · G2 vs 1WIN
 DESCRIPTION:G2 vs 1WIN — ESL  (CST)\n\n赛事: ESL\n赛季: 2026\n阶段
  : 小组赛\n赛制: BO3
 CATEGORIES:CS2
-URL;VALUE=URI:https://www.youtube.com/watch?v=vpy22mnQTKw
+URL;VALUE=URI:https://www.twitch.tv/dach_cs3
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:cs2-tournaments-cs2-2026-m1711383@koyomi.cast
+UID:cs2-tournaments-cs2-2026-m1711388@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261004T000000
-DTSTART;TZID=Asia/Shanghai:20261005T003000
-DTEND;TZID=Asia/Shanghai:20261005T013000
-SUMMARY:CS2 · ESL · Group Stage · BetBoom Team vs M80
-DESCRIPTION:BetBoom Team vs M80 — ESL  (CST)\n\n赛事: ESL\n赛季: 202
- 6\n阶段: 小组赛\n赛制: BO3
+DTSTART;TZID=Asia/Shanghai:20261004T222200
+DTEND;TZID=Asia/Shanghai:20261004T232200
+SUMMARY:CS2 · ESL · Group Stage · FURIA vs MOUZ
+DESCRIPTION:FURIA vs MOUZ — ESL  (CST)\n\n赛事: ESL\n赛季: 2026\n阶
+ 段: 小组赛\n赛制: BO3
 CATEGORIES:CS2
-URL;VALUE=URI:https://www.twitch.tv/croissantstrike2
+URL;VALUE=URI:https://www.youtube.com/watch?v=RK1BNIbBmGI
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1711382@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261004T000000
-DTSTART;TZID=Asia/Shanghai:20261005T003000
-DTEND;TZID=Asia/Shanghai:20261005T013000
+DTSTART;TZID=Asia/Shanghai:20261005T003100
+DTEND;TZID=Asia/Shanghai:20261005T013100
 SUMMARY:CS2 · ESL · Group Stage · Vitality vs Natus Vincere
 DESCRIPTION:Vitality vs Natus Vincere — ESL  (CST)\n\n赛事: ESL\n赛
  季: 2026\n阶段: 小组赛\n赛制: BO3
 CATEGORIES:CS2
-URL;VALUE=URI:https://kick.com/maj3r
+URL;VALUE=URI:https://www.youtube.com/watch?v=LcMDVOtgvdk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-cs2-2026-m1711383@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261004T000000
+DTSTART;TZID=Asia/Shanghai:20261005T011100
+DTEND;TZID=Asia/Shanghai:20261005T021100
+SUMMARY:CS2 · ESL · Group Stage · BetBoom Team vs M80
+DESCRIPTION:BetBoom Team vs M80 — ESL  (CST)\n\n赛事: ESL\n赛季: 202
+ 6\n阶段: 小组赛\n赛制: BO3
+CATEGORIES:CS2
+URL;VALUE=URI:https://www.twitch.tv/dach_cs3
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
