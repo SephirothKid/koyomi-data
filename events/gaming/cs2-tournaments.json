@@ -50890,7 +50890,7 @@
       "description": "ShindeN vs G2 — ESL （北京时间）",
       "description_en": "ShindeN vs G2 — ESL  (CST)",
       "url": "https://kick.com/eslcsb",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-10-05",
       "verified_by": "official",
       "teams": {
@@ -50904,6 +50904,12 @@
           "code": "G2",
           "name": "G2"
         }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
       },
       "details": {
         "赛事": "ESL",
@@ -50924,7 +50930,7 @@
       "description": "PARIVISION vs FURIA — ESL （北京时间）",
       "description_en": "PARIVISION vs FURIA — ESL  (CST)",
       "url": "https://www.youtube.com/watch?v=GWkVaZlFFRU",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-10-05",
       "verified_by": "official",
       "teams": {
@@ -50939,39 +50945,11 @@
           "name": "FURIA"
         }
       },
-      "details": {
-        "赛事": "ESL",
-        "赛季": "2026",
-        "阶段": "小组赛",
-        "赛制": "BO3"
-      }
-    },
-    {
-      "id": "cs2-2026-m1711390",
-      "name": "ESL · 小组赛 · 9z vs Natus Vincere",
-      "name_en": "ESL · Group Stage · 9z vs Natus Vincere",
-      "date": "2026-10-05",
-      "time": "19:30",
-      "timezone": "Asia/Shanghai",
-      "type": "event",
-      "year": 2026,
-      "description": "9z vs Natus Vincere — ESL （北京时间）",
-      "description_en": "9z vs Natus Vincere — ESL  (CST)",
-      "url": "https://www.youtube.com/watch?v=GWkVaZlFFRU",
-      "status": "confirmed",
-      "last_verified": "2026-10-05",
-      "verified_by": "official",
-      "teams": {
-        "away": {
-          "id": "126709",
-          "code": "9z",
-          "name": "9z"
-        },
-        "home": {
-          "id": "3216",
-          "code": "Natus Vincere",
-          "name": "Natus Vincere"
-        }
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
       },
       "details": {
         "赛事": "ESL",
@@ -50992,7 +50970,7 @@
       "description": "Legacy vs 1WIN — ESL （北京时间）",
       "description_en": "Legacy vs 1WIN — ESL  (CST)",
       "url": "https://kick.com/eslcsb",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-10-05",
       "verified_by": "official",
       "teams": {
@@ -51007,6 +50985,92 @@
           "name": "1WIN"
         }
       },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "ESL",
+        "赛季": "2026",
+        "阶段": "小组赛",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1711390",
+      "name": "ESL · 小组赛 · 9z vs Natus Vincere",
+      "name_en": "ESL · Group Stage · 9z vs Natus Vincere",
+      "date": "2026-10-05",
+      "time": "20:22",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "9z vs Natus Vincere — ESL （北京时间）",
+      "description_en": "9z vs Natus Vincere — ESL  (CST)",
+      "url": "https://www.youtube.com/watch?v=GWkVaZlFFRU",
+      "status": "completed",
+      "last_verified": "2026-10-05",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "126709",
+          "code": "9z",
+          "name": "9z"
+        },
+        "home": {
+          "id": "3216",
+          "code": "Natus Vincere",
+          "name": "Natus Vincere"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "ESL",
+        "赛季": "2026",
+        "阶段": "小组赛",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1711434",
+      "name": "ESL · 小组赛 · M80 vs TYLOO",
+      "name_en": "ESL · Group Stage · M80 vs TYLOO",
+      "date": "2026-10-05",
+      "time": "22:01",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "M80 vs TYLOO — ESL （北京时间）",
+      "description_en": "M80 vs TYLOO — ESL  (CST)",
+      "url": "https://www.twitch.tv/dach_cs3",
+      "status": "completed",
+      "last_verified": "2026-10-05",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "133435",
+          "code": "M80",
+          "name": "M80"
+        },
+        "home": {
+          "id": "3248",
+          "code": "TYLOO",
+          "name": "TYLOO"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
       "details": {
         "赛事": "ESL",
         "赛季": "2026",
@@ -51019,14 +51083,14 @@
       "name": "ESL · 小组赛 · Spirit vs MOUZ",
       "name_en": "ESL · Group Stage · Spirit vs MOUZ",
       "date": "2026-10-05",
-      "time": "22:00",
+      "time": "22:23",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "Spirit vs MOUZ — ESL （北京时间）",
       "description_en": "Spirit vs MOUZ — ESL  (CST)",
-      "url": "https://www.youtube.com/watch?v=GWkVaZlFFRU",
-      "status": "confirmed",
+      "url": "https://www.twitch.tv/x9nium",
+      "status": "completed",
       "last_verified": "2026-10-05",
       "verified_by": "official",
       "teams": {
@@ -51041,39 +51105,11 @@
           "name": "MOUZ"
         }
       },
-      "details": {
-        "赛事": "ESL",
-        "赛季": "2026",
-        "阶段": "小组赛",
-        "赛制": "BO3"
-      }
-    },
-    {
-      "id": "cs2-2026-m1711434",
-      "name": "ESL · 小组赛 · M80 vs TYLOO",
-      "name_en": "ESL · Group Stage · M80 vs TYLOO",
-      "date": "2026-10-05",
-      "time": "22:00",
-      "timezone": "Asia/Shanghai",
-      "type": "event",
-      "year": 2026,
-      "description": "M80 vs TYLOO — ESL （北京时间）",
-      "description_en": "M80 vs TYLOO — ESL  (CST)",
-      "url": "https://kick.com/eslcsb",
-      "status": "confirmed",
-      "last_verified": "2026-10-05",
-      "verified_by": "official",
-      "teams": {
-        "away": {
-          "id": "133435",
-          "code": "M80",
-          "name": "M80"
-        },
-        "home": {
-          "id": "3248",
-          "code": "TYLOO",
-          "name": "TYLOO"
-        }
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
       },
       "details": {
         "赛事": "ESL",
@@ -51093,8 +51129,8 @@
       "year": 2026,
       "description": "Vitality vs Team Falcons — ESL （北京时间）",
       "description_en": "Vitality vs Team Falcons — ESL  (CST)",
-      "url": "https://www.youtube.com/watch?v=GWkVaZlFFRU",
-      "status": "confirmed",
+      "url": "https://www.twitch.tv/x9nium",
+      "status": "completed",
       "last_verified": "2026-10-05",
       "verified_by": "official",
       "teams": {
@@ -51109,6 +51145,12 @@
           "name": "Team Falcons"
         }
       },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
       "details": {
         "赛事": "ESL",
         "赛季": "2026",
@@ -51121,14 +51163,14 @@
       "name": "ESL · 小组赛 · Aurora Gaming vs BetBoom Team",
       "name_en": "ESL · Group Stage · Aurora Gaming vs BetBoom Team",
       "date": "2026-10-06",
-      "time": "00:30",
+      "time": "01:23",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "Aurora Gaming vs BetBoom Team — ESL （北京时间）",
       "description_en": "Aurora Gaming vs BetBoom Team — ESL  (CST)",
-      "url": "https://kick.com/eslcsb",
-      "status": "confirmed",
+      "url": "https://www.twitch.tv/dach_cs3",
+      "status": "completed",
       "last_verified": "2026-10-05",
       "verified_by": "official",
       "teams": {
@@ -51141,6 +51183,216 @@
           "id": "133458",
           "code": "BetBoom Team",
           "name": "BetBoom Team"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "ESL",
+        "赛季": "2026",
+        "阶段": "小组赛",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1711439",
+      "name": "ESL · 小组赛 · Spirit vs 1WIN",
+      "name_en": "ESL · Group Stage · Spirit vs 1WIN",
+      "date": "2026-10-06",
+      "time": "20:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Spirit vs 1WIN — ESL （北京时间）",
+      "description_en": "Spirit vs 1WIN — ESL  (CST)",
+      "url": "https://www.twitch.tv/ESLCSb",
+      "status": "confirmed",
+      "last_verified": "2026-10-05",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "124523",
+          "code": "Spirit",
+          "name": "Spirit"
+        },
+        "home": {
+          "id": "126944",
+          "code": "1WIN",
+          "name": "1WIN"
+        }
+      },
+      "details": {
+        "赛事": "ESL",
+        "赛季": "2026",
+        "阶段": "小组赛",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1711438",
+      "name": "ESL · 小组赛 · G2 vs PARIVISION",
+      "name_en": "ESL · Group Stage · G2 vs PARIVISION",
+      "date": "2026-10-06",
+      "time": "20:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "G2 vs PARIVISION — ESL （北京时间）",
+      "description_en": "G2 vs PARIVISION — ESL  (CST)",
+      "url": "https://www.twitch.tv/ESLCS",
+      "status": "confirmed",
+      "last_verified": "2026-10-05",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "3210",
+          "code": "G2",
+          "name": "G2"
+        },
+        "home": {
+          "id": "133719",
+          "code": "PARIVISION",
+          "name": "PARIVISION"
+        }
+      },
+      "details": {
+        "赛事": "ESL",
+        "赛季": "2026",
+        "阶段": "小组赛",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1711462",
+      "name": "ESL · 小组赛 · 9z vs BetBoom Team",
+      "name_en": "ESL · Group Stage · 9z vs BetBoom Team",
+      "date": "2026-10-06",
+      "time": "22:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "9z vs BetBoom Team — ESL （北京时间）",
+      "description_en": "9z vs BetBoom Team — ESL  (CST)",
+      "url": "https://www.twitch.tv/ESLCSb",
+      "status": "confirmed",
+      "last_verified": "2026-10-05",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "126709",
+          "code": "9z",
+          "name": "9z"
+        },
+        "home": {
+          "id": "133458",
+          "code": "BetBoom Team",
+          "name": "BetBoom Team"
+        }
+      },
+      "details": {
+        "赛事": "ESL",
+        "赛季": "2026",
+        "阶段": "小组赛",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1711440",
+      "name": "ESL · 小组赛 · FURIA vs Aurora Gaming",
+      "name_en": "ESL · Group Stage · FURIA vs Aurora Gaming",
+      "date": "2026-10-06",
+      "time": "22:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "FURIA vs Aurora Gaming — ESL （北京时间）",
+      "description_en": "FURIA vs Aurora Gaming — ESL  (CST)",
+      "url": "https://www.twitch.tv/ESLCS",
+      "status": "confirmed",
+      "last_verified": "2026-10-05",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "124530",
+          "code": "FURIA",
+          "name": "FURIA"
+        },
+        "home": {
+          "id": "131505",
+          "code": "Aurora Gaming",
+          "name": "Aurora Gaming"
+        }
+      },
+      "details": {
+        "赛事": "ESL",
+        "赛季": "2026",
+        "阶段": "小组赛",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1711470",
+      "name": "ESL · 小组赛 · Team Falcons vs Natus Vincere",
+      "name_en": "ESL · Group Stage · Team Falcons vs Natus Vincere",
+      "date": "2026-10-07",
+      "time": "01:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Team Falcons vs Natus Vincere — ESL （北京时间）",
+      "description_en": "Team Falcons vs Natus Vincere — ESL  (CST)",
+      "url": "https://www.twitch.tv/ESLCS",
+      "status": "confirmed",
+      "last_verified": "2026-10-05",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "130564",
+          "code": "Team Falcons",
+          "name": "Team Falcons"
+        },
+        "home": {
+          "id": "3216",
+          "code": "Natus Vincere",
+          "name": "Natus Vincere"
+        }
+      },
+      "details": {
+        "赛事": "ESL",
+        "赛季": "2026",
+        "阶段": "小组赛",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1711469",
+      "name": "ESL · 小组赛 · Legacy vs M80",
+      "name_en": "ESL · Group Stage · Legacy vs M80",
+      "date": "2026-10-07",
+      "time": "01:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Legacy vs M80 — ESL （北京时间）",
+      "description_en": "Legacy vs M80 — ESL  (CST)",
+      "url": "https://www.twitch.tv/ESLCSb",
+      "status": "confirmed",
+      "last_verified": "2026-10-05",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "133708",
+          "code": "Legacy",
+          "name": "Legacy"
+        },
+        "home": {
+          "id": "133435",
+          "code": "M80",
+          "name": "M80"
         }
       },
       "details": {
