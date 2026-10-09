@@ -11,7 +11,7 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:arknights-arknights-2026-石白深蓝之夜-banner@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260930T000000
+DTSTAMP:20261009T000000
 DTSTART;TZID=Asia/Shanghai:20260904T120000
 DTEND;TZID=Asia/Shanghai:20260918T035900
 SUMMARY:明日方舟版本日历 · 明日方舟 石白深蓝之夜 寻访
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arknights-arknights-2026-定向甄选08-banner@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260930T000000
+DTSTAMP:20261009T000000
 DTSTART;TZID=Asia/Shanghai:20260929T160000
 DTEND;TZID=Asia/Shanghai:20261013T035900
 SUMMARY:明日方舟版本日历 · 明日方舟 定向甄选08 寻访
@@ -34,6 +34,20 @@ DESCRIPTION:明日方舟寻访「定向甄选08」。\n\n版本: 定向甄
  选08\n类型: banner\n\n卡池信息：\n1. 定向甄选08（角色）
 CATEGORIES:明日方舟版本日历
 URL;VALUE=URI:https://prts.wiki/w/%E5%AE%9A%E5%90%91%E7%94%84%E9%80%8908
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arknights-arknights-2026-海渊巡游-banner@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261009T000000
+DTSTART;TZID=Asia/Shanghai:20261009T120000
+DTEND;TZID=Asia/Shanghai:20261023T035900
+SUMMARY:明日方舟版本日历 · 明日方舟 海渊巡游 寻访
+DESCRIPTION:明日方舟寻访「海渊巡游」。\n\n版本: 海渊巡
+ 游\n类型: banner\n\n卡池信息：\n1. 海渊巡游（角色）\n5星 
+ UP: 克莱门莎 / 火哨 / 德·托莱多
+CATEGORIES:明日方舟版本日历
+URL;VALUE=URI:https://prts.wiki/w/%E6%B5%B7%E6%B8%8A%E5%B7%A1%E6%B8%B8
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
