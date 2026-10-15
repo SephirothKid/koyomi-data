@@ -21,7 +21,7 @@
   "subscriber_count": 30160,
   "rating": 4.4,
   "rating_count": 460,
-  "last_updated": "2026-10-09",
+  "last_updated": "2026-10-15",
   "events": [
     {
       "id": "epic-free-2026-w21",
@@ -817,8 +817,8 @@
       "description": "本周免费游戏：Bad Cheese、Agent A - 伪装游戏",
       "description_en": "This week's free games: Bad Cheese, Agent A: A puzzle in disguise",
       "url": "https://store.epicgames.com/zh-CN/free-games",
-      "status": "confirmed",
-      "last_verified": "2026-10-09",
+      "status": "active",
+      "last_verified": "2026-10-15",
       "verified_by": "auto",
       "details": {
         "领取方式": "Epic Games Store 客户端/网页",
@@ -849,34 +849,43 @@
     },
     {
       "id": "epic-free-2026-w43",
-      "name": "Astrea Six Sided Oracles",
-      "name_en": "Astrea Six Sided Oracles",
-      "date": "2026-10-19",
+      "name": "Sker Ritual、Home - A Unique Horror Adventure",
+      "name_en": "Sker Ritual, Home - A Unique Horror Adventure",
+      "date": "2026-10-22",
       "time": "23:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "本周免费游戏：Astrea Six Sided Oracles",
-      "description_en": "This week's free games: Astrea Six Sided Oracles",
+      "description": "本周免费游戏：Sker Ritual、Home - A Unique Horror Adventure",
+      "description_en": "This week's free games: Sker Ritual, Home - A Unique Horror Adventure",
       "url": "https://store.epicgames.com/zh-CN/free-games",
       "status": "confirmed",
-      "last_verified": "2026-09-23",
+      "last_verified": "2026-10-15",
       "verified_by": "auto",
       "details": {
         "领取方式": "Epic Games Store 客户端/网页",
         "领取条件": "免费注册账号即可",
         "注意事项": "每周四 23:00 更新，领取后永久拥有",
-        "本周游戏": "Astrea Six Sided Oracles"
+        "本周游戏": "Sker Ritual、Home - A Unique Horror Adventure"
       },
       "games": [
         {
-          "title": "Astrea Six Sided Oracles",
-          "title_en": "Astrea Six Sided Oracles",
-          "description": "《Astrea》是一款全新的骰子构筑+地宫探险类游戏。玩家将化身为六位勇敢先知之一，开启穿越失落文明遗迹的冒险之旅，使用不断变化的骰子组合和附魔守卫，净化一波又一波腐化的敌人和一位衰败的女神，从而拯救整个星系。",
-          "description_en": "An all new dice-deck-building roguelike, Astrea, has you chart a path through the ruins of a lost civilization as one of six brave Oracles. Using an ever-changing deck of dice and enchanted Sentinels, Purify waves of Corrupted foes and a decayed goddess to save the Star System.",
-          "cover_url": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/download-astrea-six-sided-oracles-offer-av5rc.png",
+          "title": "Sker Ritual",
+          "title_en": "Sker Ritual",
+          "description": "The round-based co-op survival FPS and spin-off to the award-winning British horror, Maid of Sker. Play solo or up to 4 players to survive the supernatural onslaught of the Quiet Ones.",
+          "description_en": "The round-based co-op survival FPS and spin-off to the award-winning British horror, Maid of Sker. Play solo or up to 4 players to survive the supernatural onslaught of the Quiet Ones.",
+          "cover_url": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-1cyza.png",
           "original_price": "¥78.00",
-          "store_url": "https://store.epicgames.com/zh-CN/p/915d7181013c40d980e1924513c7b8ec"
+          "store_url": "https://store.epicgames.com/zh-CN/p/8dbc8d70481d4c0b8412d3aec76a35a1"
+        },
+        {
+          "title": "Home - A Unique Horror Adventure",
+          "title_en": "Home - A Unique Horror Adventure",
+          "description": "Home is a unique horror adventure set in a beautifully-realized pixel world. It’s a murder mystery with a twist – because you decide what ultimately happens.",
+          "description_en": "Home is a unique horror adventure set in a beautifully-realized pixel world. It’s a murder mystery with a twist – because you decide what ultimately happens.",
+          "cover_url": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-14ws1.png",
+          "original_price": "¥15.00",
+          "store_url": "https://store.epicgames.com/zh-CN/p/ff70f2b02fd842f8961f7729af25cda9"
         }
       ]
     }
