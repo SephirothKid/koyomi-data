@@ -12354,7 +12354,7 @@
       "description": "天津津门虎 作客 河南俱乐部彩陶坊（中超 2026 赛季，北京时间）",
       "description_en": "Tianjin Jinmen Tiger at Henan (Chinese Super League 2026, Beijing time)",
       "url": "https://www.cfl-china.cn/zh/fixtures/details.html?match_id=8m5yl3l3nyueh4o8yqno04v10&competition_code=CSL&local_date=2026-10-16&home_contestant_id=1eaept8dld85s894brcrkrq5p&away_contestant_id=di8wvsww8w86i7gr80pbbhsyi",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-10-16",
       "verified_by": "auto",
       "teams": {
@@ -12378,6 +12378,7 @@
         "轮次": "第 28 轮",
         "主场": "河南俱乐部彩陶坊",
         "客场": "天津津门虎",
+        "比分": "河南俱乐部彩陶坊 0 - 1 天津津门虎",
         "场馆": "郑州航海体育场"
       },
       "details_en": {
@@ -12385,7 +12386,15 @@
         "Round": "Round 28",
         "Home": "Henan",
         "Away": "Tianjin Jinmen Tiger",
+        "Score": "Henan 0 - 1 Tianjin Jinmen Tiger",
         "Venue": "Zhengzhou Hanghai Stadium"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT",
+        "score": "0 - 1"
       }
     },
     {
