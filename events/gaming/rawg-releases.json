@@ -1563,7 +1563,7 @@
       "description": "Tenebris Somnia 发售（PC）",
       "description_en": "Tenebris Somnia releases on PC.",
       "type": "event",
-      "status": "active",
+      "status": "completed",
       "url": "https://rawg.io/games/tenebris-somnia-demo",
       "last_verified": "2026-10-16",
       "verified_by": "auto",
@@ -1603,7 +1603,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/mycopunk",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1641,7 +1641,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/stupid-never-dies",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1679,7 +1679,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/final-fantasy-resonance",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1719,7 +1719,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/ecstatica",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1750,24 +1750,24 @@
       "date": "2026-10-26",
       "year": 2026,
       "timezone": "Asia/Shanghai",
-      "name": "Remothered: Red Nun's Legacy 发售",
-      "name_en": "Remothered: Red Nun's Legacy release",
-      "description": "Remothered: Red Nun's Legacy 发售（PC）",
-      "description_en": "Remothered: Red Nun's Legacy releases on PC.",
+      "name": "Remothered: Red Nun's Legacy 等 2 款发售",
+      "name_en": "Remothered: Red Nun's Legacy + 1 more release",
+      "description": "当天发售：Remothered: Red Nun's Legacy、The Boss Gangster: Criminal Empire",
+      "description_en": "Releases this day: Remothered: Red Nun's Legacy, The Boss Gangster: Criminal Empire.",
       "type": "event",
       "status": "planned",
-      "url": "https://rawg.io/games/remothered-red-nuns-legacy",
-      "last_verified": "2026-10-16",
+      "url": "https://rawg.io/games",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
-        "游戏数量": "1",
-        "发售游戏": "Remothered: Red Nun's Legacy",
+        "游戏数量": "2",
+        "发售游戏": "Remothered: Red Nun's Legacy、The Boss Gangster: Criminal Empire",
         "平台": "PC",
         "数据来源": "RAWG"
       },
       "details_en": {
-        "Game count": "1",
-        "Games": "Remothered: Red Nun's Legacy",
+        "Game count": "2",
+        "Games": "Remothered: Red Nun's Legacy, The Boss Gangster: Criminal Empire",
         "Platforms": "PC",
         "Data source": "RAWG"
       },
@@ -1780,6 +1780,15 @@
           ],
           "store_url": "https://rawg.io/games/remothered-red-nuns-legacy",
           "rawg_id": "1019656"
+        },
+        {
+          "title": "The Boss Gangster: Criminal Empire",
+          "title_en": "The Boss Gangster: Criminal Empire",
+          "platforms": [
+            "PC"
+          ],
+          "store_url": "https://rawg.io/games/the-boss-gangster-criminal-empire",
+          "rawg_id": "1020499"
         }
       ]
     },
@@ -1795,7 +1804,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/gennady",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1822,29 +1831,67 @@
       ]
     },
     {
+      "id": "rawg-releases-2026-10-28",
+      "date": "2026-10-28",
+      "year": 2026,
+      "timezone": "Asia/Shanghai",
+      "name": "COP BASTARD 发售",
+      "name_en": "COP BASTARD release",
+      "description": "COP BASTARD 发售（PC）",
+      "description_en": "COP BASTARD releases on PC.",
+      "type": "event",
+      "status": "planned",
+      "url": "https://rawg.io/games/cop-bastard",
+      "last_verified": "2026-10-17",
+      "verified_by": "auto",
+      "details": {
+        "游戏数量": "1",
+        "发售游戏": "COP BASTARD",
+        "平台": "PC",
+        "数据来源": "RAWG"
+      },
+      "details_en": {
+        "Game count": "1",
+        "Games": "COP BASTARD",
+        "Platforms": "PC",
+        "Data source": "RAWG"
+      },
+      "games": [
+        {
+          "title": "COP BASTARD",
+          "title_en": "COP BASTARD",
+          "platforms": [
+            "PC"
+          ],
+          "store_url": "https://rawg.io/games/cop-bastard",
+          "rawg_id": "802450"
+        }
+      ]
+    },
+    {
       "id": "rawg-releases-2026-10-29",
       "date": "2026-10-29",
       "year": 2026,
       "timezone": "Asia/Shanghai",
-      "name": "Crimson Desert: Charting the Unknown 等 3 款发售",
-      "name_en": "Crimson Desert: Charting the Unknown + 2 more releases",
-      "description": "当天发售：Crimson Desert: Charting the Unknown、影之刃零、Tavern Farkle GB",
-      "description_en": "Releases this day: Crimson Desert: Charting the Unknown, Phantom Blade Zero, Tavern Farkle GB.",
+      "name": "Crimson Desert: Charting the Unknown 等 4 款发售",
+      "name_en": "Crimson Desert: Charting the Unknown + 3 more releases",
+      "description": "当天发售：Crimson Desert: Charting the Unknown、影之刃零、Tavern Farkle GB、The Golden Caravan",
+      "description_en": "Releases this day: Crimson Desert: Charting the Unknown, Phantom Blade Zero, Tavern Farkle GB, The Golden Caravan.",
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
-        "游戏数量": "3",
-        "发售游戏": "Crimson Desert: Charting the Unknown、影之刃零、Tavern Farkle GB",
-        "平台": "PC / PS5",
+        "游戏数量": "4",
+        "发售游戏": "Crimson Desert: Charting the Unknown、影之刃零、Tavern Farkle GB、The Golden Caravan",
+        "平台": "PC / PS5 / macOS",
         "数据来源": "RAWG"
       },
       "details_en": {
-        "Game count": "3",
-        "Games": "Crimson Desert: Charting the Unknown, Phantom Blade Zero, Tavern Farkle GB",
-        "Platforms": "PC / PS5",
+        "Game count": "4",
+        "Games": "Crimson Desert: Charting the Unknown, Phantom Blade Zero, Tavern Farkle GB, The Golden Caravan",
+        "Platforms": "PC / PS5 / macOS",
         "Data source": "RAWG"
       },
       "games": [
@@ -1878,6 +1925,16 @@
           ],
           "store_url": "https://rawg.io/games/tavern-farkle-gb",
           "rawg_id": "1020128"
+        },
+        {
+          "title": "The Golden Caravan",
+          "title_en": "The Golden Caravan",
+          "platforms": [
+            "PC",
+            "macOS"
+          ],
+          "store_url": "https://rawg.io/games/the-golden-caravan",
+          "rawg_id": "1020488"
         }
       ]
     },
@@ -1893,7 +1950,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/project-afterfall",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1931,7 +1988,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/underkeep",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -1969,7 +2026,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/the-legend-of-zelda-ocarina-of-time-2",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2007,7 +2064,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -2056,7 +2113,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/space-station-designer",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2094,7 +2151,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/grand-theft-aito-vi",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2134,7 +2191,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/beautiful-light",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2172,7 +2229,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/sombras-negative-frames",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2210,7 +2267,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/rayman-legends-retold",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2249,7 +2306,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/guns-of-eschaton",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2288,7 +2345,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/path-of-exile-2",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2327,7 +2384,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/they-come-in-fives",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2365,7 +2422,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/ananta",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2406,7 +2463,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/titan-quest-2",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2446,7 +2503,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -2493,7 +2550,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/metro-2039",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2532,7 +2589,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/tomb-raider-legacy-of-atlantis",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2571,7 +2628,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/god-of-war-laufey",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2609,7 +2666,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/fable2020",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2650,7 +2707,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/trine-6-together-in-time",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2690,7 +2747,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/trainwatch",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2728,7 +2785,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -2780,7 +2837,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/exodus-archetype-entertainment",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2819,7 +2876,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/final-fantasy-vii-revelations",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2859,7 +2916,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -2908,7 +2965,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/parking-in-tight-spaces",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2946,7 +3003,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://rawg.io/games/unknown-carnivores-dinosaur-hunt-sequel",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -2973,5 +3030,5 @@
       ]
     }
   ],
-  "last_updated": "2026-10-16"
+  "last_updated": "2026-10-17"
 }
