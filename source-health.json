@@ -9,8 +9,8 @@
     },
     "judicial-exam": {
       "category": "exam",
-      "checked_at": "2026-10-19",
-      "outcome": "updated"
+      "checked_at": "2026-10-20",
+      "outcome": "unchanged"
     },
     "fgo": {
       "category": "gaming",
@@ -368,7 +368,8 @@
     "civil-service-provincial": {
       "category": "exam",
       "checked_at": "2026-10-19",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://m.gwy.com/dfgwy/ (fetch failed)"
     },
     "cet": {
       "category": "exam",
