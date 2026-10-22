@@ -532,14 +532,66 @@ BEGIN:VEVENT
 UID:kpl-kpl-2026-m1707265@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261022T000000
-DTSTART;TZID=Asia/Shanghai:20261022T180000
-DTEND;TZID=Asia/Shanghai:20261022T190000
+DTSTART;TZID=Asia/Shanghai:20261022T180500
+DTEND;TZID=Asia/Shanghai:20261022T190500
 SUMMARY:King Pro League · Breakout Stage · LGD vs Hero
 DESCRIPTION:LGD NBW vs Hero JiuJing — Breakout Stage (CST)\n\n赛事: Ki
  ng Pro League\n赛季: Grand Finals 2026\n阶段: Breakout Stage\n赛制: 
  BO7
 CATEGORIES:King Pro League
 URL;VALUE=URI:https://www.youtube.com/watch?v=Xjql1Stuiqg
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kpl-kpl-2026-m1765301@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261022T000000
+DTSTART;TZID=Asia/Shanghai:20261027T180000
+DTEND;TZID=Asia/Shanghai:20261027T190000
+SUMMARY:King Pro League · Playoffs · JDG vs TTG
+DESCRIPTION:JD Gaming vs Talent Gaming — Playoffs (CST)\n\n赛事: King 
+ Pro League\n赛季: Grand Finals 2026\n阶段: Playoffs\n赛制: BO7
+CATEGORIES:King Pro League
+URL;VALUE=URI:https://www.youtube.com/@Hok_KPL/streams
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kpl-kpl-2026-m1765302@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261022T000000
+DTSTART;TZID=Asia/Shanghai:20261028T180000
+DTEND;TZID=Asia/Shanghai:20261028T190000
+SUMMARY:King Pro League · Playoffs · WOL vs TES.A
+DESCRIPTION:Wolves vs TOP Esports Armor — Playoffs (CST)\n\n赛事: King
+  Pro League\n赛季: Grand Finals 2026\n阶段: Playoffs\n赛制: BO7
+CATEGORIES:King Pro League
+URL;VALUE=URI:https://www.youtube.com/@Hok_KPL/streams
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kpl-kpl-2026-m1765303@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261022T000000
+DTSTART;TZID=Asia/Shanghai:20261029T180000
+DTEND;TZID=Asia/Shanghai:20261029T190000
+SUMMARY:King Pro League · Playoffs · KSG vs WB
+DESCRIPTION:Kuaishou Gaming vs Weibo Gaming — Playoffs (CST)\n\n赛事: 
+ King Pro League\n赛季: Grand Finals 2026\n阶段: Playoffs\n赛制: BO7
+CATEGORIES:King Pro League
+URL;VALUE=URI:https://www.youtube.com/@Hok_KPL/streams
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kpl-kpl-2026-m1765304@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261022T000000
+DTSTART;TZID=Asia/Shanghai:20261030T180000
+DTEND;TZID=Asia/Shanghai:20261030T190000
+SUMMARY:King Pro League · Playoffs · EDG vs LGD
+DESCRIPTION:EDward Gaming vs LGD NBW — Playoffs (CST)\n\n赛事: King Pr
+ o League\n赛季: Grand Finals 2026\n阶段: Playoffs\n赛制: BO7
+CATEGORIES:King Pro League
+URL;VALUE=URI:https://www.youtube.com/@Hok_KPL/streams
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

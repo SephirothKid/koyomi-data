@@ -13248,18 +13248,6 @@
         "赛季": "Spring 2027",
         "阶段": "Promotion",
         "赛制": "BO7"
-      },
-      "bracket": {
-        "tournament_id": "21938",
-        "panda_match_id": "1688820",
-        "lane": "upper",
-        "round_key": "upper_final",
-        "round_order": 3,
-        "slot_index": 0,
-        "label": "胜者组决赛",
-        "label_en": "Upper Bracket Final",
-        "label_zh": "胜者组决赛",
-        "previous_matches": []
       }
     },
     {
@@ -13306,18 +13294,6 @@
         "赛季": "Spring 2027",
         "阶段": "Promotion",
         "赛制": "BO7"
-      },
-      "bracket": {
-        "tournament_id": "21938",
-        "panda_match_id": "1688821",
-        "lane": "lower",
-        "round_key": "lower_semifinal",
-        "round_order": 2,
-        "slot_index": 0,
-        "label": "败者组四强",
-        "label_en": "Lower Semifinal",
-        "label_zh": "败者组四强",
-        "previous_matches": []
       }
     },
     {
@@ -13364,27 +13340,6 @@
         "赛季": "Spring 2027",
         "阶段": "Promotion",
         "赛制": "BO7"
-      },
-      "bracket": {
-        "tournament_id": "21938",
-        "panda_match_id": "1688822",
-        "lane": "lower",
-        "round_key": "lower_final",
-        "round_order": 4,
-        "slot_index": 0,
-        "label": "败者组决赛",
-        "label_en": "Lower Bracket Final",
-        "label_zh": "败者组决赛",
-        "previous_matches": [
-          {
-            "panda_match_id": "1688820",
-            "type": "loser"
-          },
-          {
-            "panda_match_id": "1688821",
-            "type": "winner"
-          }
-        ]
       }
     },
     {
@@ -13431,27 +13386,6 @@
         "赛季": "Spring 2027",
         "阶段": "Promotion",
         "赛制": "BO7"
-      },
-      "bracket": {
-        "tournament_id": "21938",
-        "panda_match_id": "1688823",
-        "lane": "grand",
-        "round_key": "grand_final",
-        "round_order": 0,
-        "slot_index": 0,
-        "label": "总决赛",
-        "label_en": "Grand Final",
-        "label_zh": "总决赛",
-        "previous_matches": [
-          {
-            "panda_match_id": "1688820",
-            "type": "winner"
-          },
-          {
-            "panda_match_id": "1688822",
-            "type": "winner"
-          }
-        ]
       }
     },
     {
@@ -15208,7 +15142,7 @@
       "name_en": "Breakout Stage · LGD vs Hero",
       "name_zh": "Breakout Stage · LGD vs Hero",
       "date": "2026-10-22",
-      "time": "18:00",
+      "time": "18:05",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -15216,7 +15150,7 @@
       "description_en": "LGD NBW vs Hero JiuJing — Breakout Stage (CST)",
       "description_zh": "LGD NBW vs Hero JiuJing — Breakout Stage（北京时间）",
       "url": "https://www.youtube.com/watch?v=Xjql1Stuiqg",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-10-22",
       "verified_by": "official",
       "teams": {
@@ -15235,10 +15169,176 @@
           "image_url": "https://cdn-api.pandascore.co/images/team/image/129035/173px_nanjing_hero_jiujing_2021.png"
         }
       },
+      "result": {
+        "away_score": 4,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
       "details": {
         "赛事": "King Pro League",
         "赛季": "Grand Finals 2026",
         "阶段": "Breakout Stage",
+        "赛制": "BO7"
+      }
+    },
+    {
+      "id": "kpl-2026-m1765301",
+      "name": "季后赛 · JDG vs TTG",
+      "name_en": "Playoffs · JDG vs TTG",
+      "name_zh": "季后赛 · JDG vs TTG",
+      "date": "2026-10-27",
+      "time": "18:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "JD Gaming vs Talent Gaming — Playoffs（北京时间）",
+      "description_en": "JD Gaming vs Talent Gaming — Playoffs (CST)",
+      "description_zh": "JD Gaming vs Talent Gaming — Playoffs（北京时间）",
+      "url": "https://www.youtube.com/@Hok_KPL/streams",
+      "status": "confirmed",
+      "last_verified": "2026-10-22",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "jd-gaming-kog",
+          "code": "JDG",
+          "name": "JD Gaming",
+          "name_en": "JD Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/135058/600px_jd_gaming_2021_allmode.png"
+        },
+        "home": {
+          "id": "talent-gaming",
+          "code": "TTG",
+          "name": "Talent Gaming",
+          "name_en": "Talent Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/129041/190px_talent_gaming_logo.png"
+        }
+      },
+      "details": {
+        "赛事": "King Pro League",
+        "赛季": "Grand Finals 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO7"
+      }
+    },
+    {
+      "id": "kpl-2026-m1765302",
+      "name": "季后赛 · WOL vs TES.A",
+      "name_en": "Playoffs · WOL vs TES.A",
+      "name_zh": "季后赛 · WOL vs TES.A",
+      "date": "2026-10-28",
+      "time": "18:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Wolves vs TOP Esports Armor — Playoffs（北京时间）",
+      "description_en": "Wolves vs TOP Esports Armor — Playoffs (CST)",
+      "description_zh": "Wolves vs TOP Esports Armor — Playoffs（北京时间）",
+      "url": "https://www.youtube.com/@Hok_KPL/streams",
+      "status": "confirmed",
+      "last_verified": "2026-10-22",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "wolves-kog",
+          "code": "WOL",
+          "name": "Wolves",
+          "name_en": "Wolves",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/129564/692px_wolves_esports_allmode.png"
+        },
+        "home": {
+          "id": "top-esports-armor",
+          "code": "TES.A",
+          "name": "TOP Esports Armor",
+          "name_en": "TOP Esports Armor",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/129644/600px_top_esports_armor_2025_allmode.png"
+        }
+      },
+      "details": {
+        "赛事": "King Pro League",
+        "赛季": "Grand Finals 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO7"
+      }
+    },
+    {
+      "id": "kpl-2026-m1765303",
+      "name": "季后赛 · KSG vs WB",
+      "name_en": "Playoffs · KSG vs WB",
+      "name_zh": "季后赛 · KSG vs WB",
+      "date": "2026-10-29",
+      "time": "18:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Kuaishou Gaming vs Weibo Gaming — Playoffs（北京时间）",
+      "description_en": "Kuaishou Gaming vs Weibo Gaming — Playoffs (CST)",
+      "description_zh": "Kuaishou Gaming vs Weibo Gaming — Playoffs（北京时间）",
+      "url": "https://www.youtube.com/@Hok_KPL/streams",
+      "status": "confirmed",
+      "last_verified": "2026-10-22",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "kuaishow-gamin",
+          "code": "KSG",
+          "name": "Kuaishou Gaming",
+          "name_en": "Kuaishou Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/129036/782px_kuaishou_gaming_2025_allmode.png"
+        },
+        "home": {
+          "id": "weibo-gaming",
+          "code": "WB",
+          "name": "Weibo Gaming",
+          "name_en": "Weibo Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/129046/190px_weibo_gaming_logo.png"
+        }
+      },
+      "details": {
+        "赛事": "King Pro League",
+        "赛季": "Grand Finals 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO7"
+      }
+    },
+    {
+      "id": "kpl-2026-m1765304",
+      "name": "季后赛 · EDG vs LGD",
+      "name_en": "Playoffs · EDG vs LGD",
+      "name_zh": "季后赛 · EDG vs LGD",
+      "date": "2026-10-30",
+      "time": "18:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "EDward Gaming vs LGD NBW — Playoffs（北京时间）",
+      "description_en": "EDward Gaming vs LGD NBW — Playoffs (CST)",
+      "description_zh": "EDward Gaming vs LGD NBW — Playoffs（北京时间）",
+      "url": "https://www.youtube.com/@Hok_KPL/streams",
+      "status": "confirmed",
+      "last_verified": "2026-10-22",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "edward-gaming-kog",
+          "code": "EDG",
+          "name": "EDward Gaming",
+          "name_en": "EDward Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/129032/181px_e_dward_gaming_mobile_logo.png"
+        },
+        "home": {
+          "id": "lgd-nbw",
+          "code": "LGD",
+          "name": "LGD NBW",
+          "name_en": "LGD NBW",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/133323/600px_lgdnbw_2023_allmode.png"
+        }
+      },
+      "details": {
+        "赛事": "King Pro League",
+        "赛季": "Grand Finals 2026",
+        "阶段": "Playoffs",
         "赛制": "BO7"
       }
     }
