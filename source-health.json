@@ -15,7 +15,7 @@
     "fgo": {
       "category": "gaming",
       "checked_at": "2026-10-24",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "tw-public-holidays": {
       "category": "holidays",
@@ -189,7 +189,7 @@
     "arknights": {
       "category": "gaming",
       "checked_at": "2026-10-24",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "cs2-tournaments": {
       "category": "gaming",
@@ -199,7 +199,7 @@
     "epic-free": {
       "category": "gaming",
       "checked_at": "2026-10-24",
-      "outcome": "unchanged"
+      "outcome": "updated"
     },
     "kpl": {
       "category": "gaming",
@@ -208,9 +208,8 @@
     },
     "lpl": {
       "category": "gaming",
-      "checked_at": "2026-10-23",
-      "outcome": "skipped",
-      "last_error": "HTTP 429: https://api.pandascore.co/lol/matches?filter%5Bleague_id%5D=294&range%5Bbegin_at%5D=2026-01-01%2C2099-12-31&page%5Bnumber%5D=1&page%5Bsize%5D=100&sort=begin_at"
+      "checked_at": "2026-10-24",
+      "outcome": "updated"
     },
     "console-showcases": {
       "category": "gaming",
@@ -235,7 +234,7 @@
     "rawg-releases": {
       "category": "gaming",
       "checked_at": "2026-10-24",
-      "outcome": "unchanged"
+      "outcome": "updated"
     },
     "steam-sales": {
       "category": "gaming",
@@ -245,7 +244,8 @@
     "wuthering-waves": {
       "category": "gaming",
       "checked_at": "2026-10-24",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/zh/ArticleMenu.json (fetch failed)"
     },
     "accounting-qualification": {
       "category": "exam",
