@@ -650,24 +650,11 @@ URL;VALUE=URI:https://www.youtube.com/watch?v=FLPmJhY7Lpk
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:cs2-tournaments-cs2-2026-m1753697@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261025T000000
-DTSTART;TZID=Asia/Shanghai:20261025T160000
-DTEND;TZID=Asia/Shanghai:20261025T170000
-SUMMARY:CS2 · PGL Masters Bucharest · Group Stage · Spirit vs TYLOO
-DESCRIPTION:Spirit vs TYLOO — PGL Masters Bucharest (CST)\n\n赛事: PGL
-  Masters\n赛季: 布加勒斯特\n阶段: 小组赛\n赛制: BO3
-CATEGORIES:CS2
-URL;VALUE=URI:https://kick.com/krl_stream
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1753696@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261025T000000
-DTSTART;TZID=Asia/Shanghai:20261025T160000
-DTEND;TZID=Asia/Shanghai:20261025T170000
+DTSTART;TZID=Asia/Shanghai:20261025T160100
+DTEND;TZID=Asia/Shanghai:20261025T170100
 SUMMARY:CS2 · PGL Masters Bucharest · Group Stage · FUT Esports vs Liqu
  id
 DESCRIPTION:FUT Esports vs Liquid — PGL Masters Bucharest (CST)\n\n赛
@@ -677,25 +664,24 @@ URL;VALUE=URI:https://kick.com/maj3r
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:cs2-tournaments-cs2-2026-m1753699@koyomi.cast
+UID:cs2-tournaments-cs2-2026-m1753697@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261025T000000
-DTSTART;TZID=Asia/Shanghai:20261025T190000
-DTEND;TZID=Asia/Shanghai:20261025T200000
-SUMMARY:CS2 · PGL Masters Bucharest · Group Stage · BetBoom Team vs Nem
- iga
-DESCRIPTION:BetBoom Team vs Nemiga — PGL Masters Bucharest (CST)\n\n赛
- 事: PGL Masters\n赛季: 布加勒斯特\n阶段: 小组赛\n赛制: BO3
+DTSTART;TZID=Asia/Shanghai:20261025T160200
+DTEND;TZID=Asia/Shanghai:20261025T170200
+SUMMARY:CS2 · PGL Masters Bucharest · Group Stage · Spirit vs TYLOO
+DESCRIPTION:Spirit vs TYLOO — PGL Masters Bucharest (CST)\n\n赛事: PGL
+  Masters\n赛季: 布加勒斯特\n阶段: 小组赛\n赛制: BO3
 CATEGORIES:CS2
-URL;VALUE=URI:https://kick.com/pedrotavares12
+URL;VALUE=URI:https://kick.com/krl_stream
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1753698@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261025T000000
-DTSTART;TZID=Asia/Shanghai:20261025T190000
-DTEND;TZID=Asia/Shanghai:20261025T200000
+DTSTART;TZID=Asia/Shanghai:20261025T174400
+DTEND;TZID=Asia/Shanghai:20261025T184400
 SUMMARY:CS2 · PGL Masters Bucharest · Group Stage · Vitality vs TheMong
  olz
 DESCRIPTION:Vitality vs TheMongolz — PGL Masters Bucharest (CST)\n\n赛
@@ -705,11 +691,25 @@ URL;VALUE=URI:https://www.twitch.tv/krl_stream
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:cs2-tournaments-cs2-2026-m1753699@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261025T000000
+DTSTART;TZID=Asia/Shanghai:20261025T180500
+DTEND;TZID=Asia/Shanghai:20261025T190500
+SUMMARY:CS2 · PGL Masters Bucharest · Group Stage · BetBoom Team vs Nem
+ iga
+DESCRIPTION:BetBoom Team vs Nemiga — PGL Masters Bucharest (CST)\n\n赛
+ 事: PGL Masters\n赛季: 布加勒斯特\n阶段: 小组赛\n赛制: BO3
+CATEGORIES:CS2
+URL;VALUE=URI:https://kick.com/pedrotavares12
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1753701@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261025T000000
-DTSTART;TZID=Asia/Shanghai:20261025T220000
-DTEND;TZID=Asia/Shanghai:20261025T230000
+DTSTART;TZID=Asia/Shanghai:20261025T210100
+DTEND;TZID=Asia/Shanghai:20261025T220100
 SUMMARY:CS2 · PGL Masters Bucharest · Group Stage · MOUZ vs 9z
 DESCRIPTION:MOUZ vs 9z — PGL Masters Bucharest (CST)\n\n赛事: PGL Mast
  ers\n赛季: 布加勒斯特\n阶段: 小组赛\n赛制: BO3
@@ -721,8 +721,8 @@ BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1753700@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261025T000000
-DTSTART;TZID=Asia/Shanghai:20261025T220000
-DTEND;TZID=Asia/Shanghai:20261025T230000
+DTSTART;TZID=Asia/Shanghai:20261025T210800
+DTEND;TZID=Asia/Shanghai:20261025T220800
 SUMMARY:CS2 · PGL Masters Bucharest · Group Stage · G2 vs Aurora Gaming
 DESCRIPTION:G2 vs Aurora Gaming — PGL Masters Bucharest (CST)\n\n赛事:
   PGL Masters\n赛季: 布加勒斯特\n阶段: 小组赛\n赛制: BO3
@@ -731,31 +731,31 @@ URL;VALUE=URI:https://www.twitch.tv/ViperDemon
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:cs2-tournaments-cs2-2026-m1753703@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261025T000000
-DTSTART;TZID=Asia/Shanghai:20261026T010000
-DTEND;TZID=Asia/Shanghai:20261026T020000
-SUMMARY:CS2 · PGL Masters Bucharest · Group Stage · FURIA vs Natus Vinc
- ere
-DESCRIPTION:FURIA vs Natus Vincere — PGL Masters Bucharest (CST)\n\n赛
- 事: PGL Masters\n赛季: 布加勒斯特\n阶段: 小组赛\n赛制: BO3
-CATEGORIES:CS2
-URL;VALUE=URI:https://www.youtube.com/watch?v=aKs-MokK1bA
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1753702@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261025T000000
-DTSTART;TZID=Asia/Shanghai:20261026T010000
-DTEND;TZID=Asia/Shanghai:20261026T020000
+DTSTART;TZID=Asia/Shanghai:20261025T225500
+DTEND;TZID=Asia/Shanghai:20261025T235500
 SUMMARY:CS2 · PGL Masters Bucharest · Group Stage · Legacy vs DENDELE C
  S
 DESCRIPTION:Legacy vs DENDELE CS — PGL Masters Bucharest (CST)\n\n赛事
  : PGL Masters\n赛季: 布加勒斯特\n阶段: 小组赛\n赛制: BO3
 CATEGORIES:CS2
 URL;VALUE=URI:https://www.twitch.tv/CS2_maincast2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-cs2-2026-m1753703@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261025T000000
+DTSTART;TZID=Asia/Shanghai:20261025T234900
+DTEND;TZID=Asia/Shanghai:20261026T004900
+SUMMARY:CS2 · PGL Masters Bucharest · Group Stage · FURIA vs Natus Vinc
+ ere
+DESCRIPTION:FURIA vs Natus Vincere — PGL Masters Bucharest (CST)\n\n赛
+ 事: PGL Masters\n赛季: 布加勒斯特\n阶段: 小组赛\n赛制: BO3
+CATEGORIES:CS2
+URL;VALUE=URI:https://www.youtube.com/watch?v=aKs-MokK1bA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
