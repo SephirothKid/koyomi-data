@@ -52519,52 +52519,18 @@
       }
     },
     {
-      "id": "cs2-2026-m1753705",
-      "name": "PGL Masters 布加勒斯特 · 小组赛 · Nemiga vs Aurora Gaming",
-      "name_en": "PGL Masters Bucharest · Group Stage · Nemiga vs Aurora Gaming",
-      "date": "2026-10-26",
-      "time": "16:00",
-      "timezone": "Asia/Shanghai",
-      "type": "event",
-      "year": 2026,
-      "description": "Nemiga vs Aurora Gaming — PGL Masters 布加勒斯特（北京时间）",
-      "description_en": "Nemiga vs Aurora Gaming — PGL Masters Bucharest (CST)",
-      "url": "https://kick.com/maj3r",
-      "status": "confirmed",
-      "last_verified": "2026-10-26",
-      "verified_by": "official",
-      "teams": {
-        "away": {
-          "id": "124522",
-          "code": "Nemiga",
-          "name": "Nemiga"
-        },
-        "home": {
-          "id": "131505",
-          "code": "Aurora Gaming",
-          "name": "Aurora Gaming"
-        }
-      },
-      "details": {
-        "赛事": "PGL Masters",
-        "赛季": "布加勒斯特",
-        "阶段": "小组赛",
-        "赛制": "BO3"
-      }
-    },
-    {
       "id": "cs2-2026-m1753704",
       "name": "PGL Masters 布加勒斯特 · 小组赛 · TheMongolz vs MOUZ",
       "name_en": "PGL Masters Bucharest · Group Stage · TheMongolz vs MOUZ",
       "date": "2026-10-26",
-      "time": "16:00",
+      "time": "16:01",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "TheMongolz vs MOUZ — PGL Masters 布加勒斯特（北京时间）",
       "description_en": "TheMongolz vs MOUZ — PGL Masters Bucharest (CST)",
       "url": "https://www.twitch.tv/zonixxcs",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-10-26",
       "verified_by": "official",
       "teams": {
@@ -52579,6 +52545,12 @@
           "name": "MOUZ"
         }
       },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
       "details": {
         "赛事": "PGL Masters",
         "赛季": "布加勒斯特",
@@ -52587,31 +52559,37 @@
       }
     },
     {
-      "id": "cs2-2026-m1753707",
-      "name": "PGL Masters 布加勒斯特 · 小组赛 · 9z vs TYLOO",
-      "name_en": "PGL Masters Bucharest · Group Stage · 9z vs TYLOO",
+      "id": "cs2-2026-m1753705",
+      "name": "PGL Masters 布加勒斯特 · 小组赛 · Nemiga vs Aurora Gaming",
+      "name_en": "PGL Masters Bucharest · Group Stage · Nemiga vs Aurora Gaming",
       "date": "2026-10-26",
-      "time": "19:00",
+      "time": "16:02",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "9z vs TYLOO — PGL Masters 布加勒斯特（北京时间）",
-      "description_en": "9z vs TYLOO — PGL Masters Bucharest (CST)",
-      "url": "https://kick.com/forg1",
-      "status": "confirmed",
+      "description": "Nemiga vs Aurora Gaming — PGL Masters 布加勒斯特（北京时间）",
+      "description_en": "Nemiga vs Aurora Gaming — PGL Masters Bucharest (CST)",
+      "url": "https://kick.com/maj3r",
+      "status": "completed",
       "last_verified": "2026-10-26",
       "verified_by": "official",
       "teams": {
         "away": {
-          "id": "126709",
-          "code": "9z",
-          "name": "9z"
+          "id": "124522",
+          "code": "Nemiga",
+          "name": "Nemiga"
         },
         "home": {
-          "id": "3248",
-          "code": "TYLOO",
-          "name": "TYLOO"
+          "id": "131505",
+          "code": "Aurora Gaming",
+          "name": "Aurora Gaming"
         }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
       },
       "details": {
         "赛事": "PGL Masters",
@@ -52625,14 +52603,14 @@
       "name": "PGL Masters 布加勒斯特 · 小组赛 · Vitality vs FUT Esports",
       "name_en": "PGL Masters Bucharest · Group Stage · Vitality vs FUT Esports",
       "date": "2026-10-26",
-      "time": "19:00",
+      "time": "18:20",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "Vitality vs FUT Esports — PGL Masters 布加勒斯特（北京时间）",
       "description_en": "Vitality vs FUT Esports — PGL Masters Bucharest (CST)",
-      "url": "https://www.twitch.tv/krl_stream",
-      "status": "confirmed",
+      "url": "https://www.twitch.tv/roman",
+      "status": "completed",
       "last_verified": "2026-10-26",
       "verified_by": "official",
       "teams": {
@@ -52647,6 +52625,52 @@
           "name": "FUT Esports"
         }
       },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "PGL Masters",
+        "赛季": "布加勒斯特",
+        "阶段": "小组赛",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1753707",
+      "name": "PGL Masters 布加勒斯特 · 小组赛 · 9z vs TYLOO",
+      "name_en": "PGL Masters Bucharest · Group Stage · 9z vs TYLOO",
+      "date": "2026-10-26",
+      "time": "18:56",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "9z vs TYLOO — PGL Masters 布加勒斯特（北京时间）",
+      "description_en": "9z vs TYLOO — PGL Masters Bucharest (CST)",
+      "url": "https://www.twitch.tv/CS2_maincast2",
+      "status": "completed",
+      "last_verified": "2026-10-26",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "126709",
+          "code": "9z",
+          "name": "9z"
+        },
+        "home": {
+          "id": "3248",
+          "code": "TYLOO",
+          "name": "TYLOO"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
       "details": {
         "赛事": "PGL Masters",
         "赛季": "布加勒斯特",
@@ -52659,14 +52683,14 @@
       "name": "PGL Masters 布加勒斯特 · 小组赛 · Spirit vs FURIA",
       "name_en": "PGL Masters Bucharest · Group Stage · Spirit vs FURIA",
       "date": "2026-10-26",
-      "time": "22:00",
+      "time": "21:44",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "Spirit vs FURIA — PGL Masters 布加勒斯特（北京时间）",
       "description_en": "Spirit vs FURIA — PGL Masters Bucharest (CST)",
-      "url": "https://kick.com/gaules",
-      "status": "confirmed",
+      "url": "https://kick.com/maj3r",
+      "status": "completed",
       "last_verified": "2026-10-26",
       "verified_by": "official",
       "teams": {
@@ -52681,6 +52705,12 @@
           "name": "FURIA"
         }
       },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
       "details": {
         "赛事": "PGL Masters",
         "赛季": "布加勒斯特",
@@ -52693,14 +52723,14 @@
       "name": "PGL Masters 布加勒斯特 · 小组赛 · Liquid vs Legacy",
       "name_en": "PGL Masters Bucharest · Group Stage · Liquid vs Legacy",
       "date": "2026-10-26",
-      "time": "22:00",
+      "time": "22:13",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "Liquid vs Legacy — PGL Masters 布加勒斯特（北京时间）",
       "description_en": "Liquid vs Legacy — PGL Masters Bucharest (CST)",
       "url": "https://www.twitch.tv/esport1TV",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-10-26",
       "verified_by": "official",
       "teams": {
@@ -52714,6 +52744,12 @@
           "code": "Legacy",
           "name": "Legacy"
         }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
       },
       "details": {
         "赛事": "PGL Masters",
@@ -52767,7 +52803,7 @@
       "year": 2026,
       "description": "Alliance vs FaZe — Tesla Cup （北京时间）",
       "description_en": "Alliance vs FaZe — Tesla Cup  (CST)",
-      "url": "https://kick.com/rlgcs",
+      "url": "https://kick.com/narodcast2",
       "status": "confirmed",
       "last_verified": "2026-10-26",
       "verified_by": "official",
@@ -52795,14 +52831,14 @@
       "name": "PGL Masters 布加勒斯特 · 小组赛 · G2 vs DENDELE CS",
       "name_en": "PGL Masters Bucharest · Group Stage · G2 vs DENDELE CS",
       "date": "2026-10-27",
-      "time": "01:00",
+      "time": "00:34",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "G2 vs DENDELE CS — PGL Masters 布加勒斯特（北京时间）",
       "description_en": "G2 vs DENDELE CS — PGL Masters Bucharest (CST)",
       "url": "https://kick.com/gaules",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-10-26",
       "verified_by": "official",
       "teams": {
@@ -52816,6 +52852,12 @@
           "code": "DENDELE CS",
           "name": "DENDELE CS"
         }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
       },
       "details": {
         "赛事": "PGL Masters",
@@ -52836,7 +52878,7 @@
       "description": "BetBoom Team vs Natus Vincere — PGL Masters 布加勒斯特（北京时间）",
       "description_en": "BetBoom Team vs Natus Vincere — PGL Masters Bucharest (CST)",
       "url": "https://www.twitch.tv/krl_stream",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-10-26",
       "verified_by": "official",
       "teams": {
@@ -52850,6 +52892,12 @@
           "code": "Natus Vincere",
           "name": "Natus Vincere"
         }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
       },
       "details": {
         "赛事": "PGL Masters",
@@ -53203,7 +53251,7 @@
       "name": "BLAST Rivals · Group A · Legacy vs FURIA",
       "name_en": "BLAST Rivals · Group A · Legacy vs FURIA",
       "date": "2026-11-11",
-      "time": "10:00",
+      "time": "11:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -53237,7 +53285,7 @@
       "name": "BLAST Rivals · Group A · Vitality vs Team Falcons",
       "name_en": "BLAST Rivals · Group A · Vitality vs Team Falcons",
       "date": "2026-11-11",
-      "time": "12:30",
+      "time": "13:30",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -53271,7 +53319,7 @@
       "name": "BLAST Rivals · Group B · Spirit vs FUT Esports",
       "name_en": "BLAST Rivals · Group B · Spirit vs FUT Esports",
       "date": "2026-11-11",
-      "time": "15:00",
+      "time": "16:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -53305,7 +53353,7 @@
       "name": "BLAST Rivals · Group B · MOUZ vs G2",
       "name_en": "BLAST Rivals · Group B · MOUZ vs G2",
       "date": "2026-11-11",
-      "time": "17:30",
+      "time": "18:30",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,

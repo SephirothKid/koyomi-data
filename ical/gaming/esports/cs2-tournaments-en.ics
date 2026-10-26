@@ -759,11 +759,24 @@ URL;VALUE=URI:https://www.youtube.com/watch?v=aKs-MokK1bA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:cs2-tournaments-cs2-2026-m1753704@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261026T000000
+DTSTART;TZID=Asia/Shanghai:20261026T160100
+DTEND;TZID=Asia/Shanghai:20261026T170100
+SUMMARY:CS2 · PGL Masters Bucharest · Group Stage · TheMongolz vs MOUZ
+DESCRIPTION:TheMongolz vs MOUZ — PGL Masters Bucharest (CST)\n\n赛事: 
+ PGL Masters\n赛季: 布加勒斯特\n阶段: 小组赛\n赛制: BO3
+CATEGORIES:CS2
+URL;VALUE=URI:https://www.twitch.tv/zonixxcs
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1753705@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261026T000000
-DTSTART;TZID=Asia/Shanghai:20261026T160000
-DTEND;TZID=Asia/Shanghai:20261026T170000
+DTSTART;TZID=Asia/Shanghai:20261026T160200
+DTEND;TZID=Asia/Shanghai:20261026T170200
 SUMMARY:CS2 · PGL Masters Bucharest · Group Stage · Nemiga vs Aurora Ga
  ming
 DESCRIPTION:Nemiga vs Aurora Gaming — PGL Masters Bucharest (CST)\n\n赛
@@ -773,64 +786,51 @@ URL;VALUE=URI:https://kick.com/maj3r
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:cs2-tournaments-cs2-2026-m1753704@koyomi.cast
+UID:cs2-tournaments-cs2-2026-m1753706@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261026T000000
-DTSTART;TZID=Asia/Shanghai:20261026T160000
-DTEND;TZID=Asia/Shanghai:20261026T170000
-SUMMARY:CS2 · PGL Masters Bucharest · Group Stage · TheMongolz vs MOUZ
-DESCRIPTION:TheMongolz vs MOUZ — PGL Masters Bucharest (CST)\n\n赛事: 
- PGL Masters\n赛季: 布加勒斯特\n阶段: 小组赛\n赛制: BO3
+DTSTART;TZID=Asia/Shanghai:20261026T182000
+DTEND;TZID=Asia/Shanghai:20261026T192000
+SUMMARY:CS2 · PGL Masters Bucharest · Group Stage · Vitality vs FUT Esp
+ orts
+DESCRIPTION:Vitality vs FUT Esports — PGL Masters Bucharest (CST)\n\n赛
+ 事: PGL Masters\n赛季: 布加勒斯特\n阶段: 小组赛\n赛制: BO3
 CATEGORIES:CS2
-URL;VALUE=URI:https://www.twitch.tv/zonixxcs
+URL;VALUE=URI:https://www.twitch.tv/roman
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1753707@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261026T000000
-DTSTART;TZID=Asia/Shanghai:20261026T190000
-DTEND;TZID=Asia/Shanghai:20261026T200000
+DTSTART;TZID=Asia/Shanghai:20261026T185600
+DTEND;TZID=Asia/Shanghai:20261026T195600
 SUMMARY:CS2 · PGL Masters Bucharest · Group Stage · 9z vs TYLOO
 DESCRIPTION:9z vs TYLOO — PGL Masters Bucharest (CST)\n\n赛事: PGL Mas
  ters\n赛季: 布加勒斯特\n阶段: 小组赛\n赛制: BO3
 CATEGORIES:CS2
-URL;VALUE=URI:https://kick.com/forg1
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:cs2-tournaments-cs2-2026-m1753706@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261026T000000
-DTSTART;TZID=Asia/Shanghai:20261026T190000
-DTEND;TZID=Asia/Shanghai:20261026T200000
-SUMMARY:CS2 · PGL Masters Bucharest · Group Stage · Vitality vs FUT Esp
- orts
-DESCRIPTION:Vitality vs FUT Esports — PGL Masters Bucharest (CST)\n\n赛
- 事: PGL Masters\n赛季: 布加勒斯特\n阶段: 小组赛\n赛制: BO3
-CATEGORIES:CS2
-URL;VALUE=URI:https://www.twitch.tv/krl_stream
+URL;VALUE=URI:https://www.twitch.tv/CS2_maincast2
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1753709@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261026T000000
-DTSTART;TZID=Asia/Shanghai:20261026T220000
-DTEND;TZID=Asia/Shanghai:20261026T230000
+DTSTART;TZID=Asia/Shanghai:20261026T214400
+DTEND;TZID=Asia/Shanghai:20261026T224400
 SUMMARY:CS2 · PGL Masters Bucharest · Group Stage · Spirit vs FURIA
 DESCRIPTION:Spirit vs FURIA — PGL Masters Bucharest (CST)\n\n赛事: PGL
   Masters\n赛季: 布加勒斯特\n阶段: 小组赛\n赛制: BO3
 CATEGORIES:CS2
-URL;VALUE=URI:https://kick.com/gaules
+URL;VALUE=URI:https://kick.com/maj3r
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1753708@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261026T000000
-DTSTART;TZID=Asia/Shanghai:20261026T220000
-DTEND;TZID=Asia/Shanghai:20261026T230000
+DTSTART;TZID=Asia/Shanghai:20261026T221300
+DTEND;TZID=Asia/Shanghai:20261026T231300
 SUMMARY:CS2 · PGL Masters Bucharest · Group Stage · Liquid vs Legacy
 DESCRIPTION:Liquid vs Legacy — PGL Masters Bucharest (CST)\n\n赛事: PG
  L Masters\n赛季: 布加勒斯特\n阶段: 小组赛\n赛制: BO3
@@ -861,15 +861,15 @@ SUMMARY:CS2 · Tesla Cup · Group A · Alliance vs FaZe
 DESCRIPTION:Alliance vs FaZe — Tesla Cup  (CST)\n\n赛事: Tesla Cup\n
  赛季: 2026\n阶段: Group A\n赛制: BO3
 CATEGORIES:CS2
-URL;VALUE=URI:https://kick.com/rlgcs
+URL;VALUE=URI:https://kick.com/narodcast2
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1753711@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261026T000000
-DTSTART;TZID=Asia/Shanghai:20261027T010000
-DTEND;TZID=Asia/Shanghai:20261027T020000
+DTSTART;TZID=Asia/Shanghai:20261027T003400
+DTEND;TZID=Asia/Shanghai:20261027T013400
 SUMMARY:CS2 · PGL Masters Bucharest · Group Stage · G2 vs DENDELE CS
 DESCRIPTION:G2 vs DENDELE CS — PGL Masters Bucharest (CST)\n\n赛事: PG
  L Masters\n赛季: 布加勒斯特\n阶段: 小组赛\n赛制: BO3
@@ -1026,8 +1026,8 @@ BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1762450@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261026T000000
-DTSTART;TZID=Asia/Shanghai:20261111T100000
-DTEND;TZID=Asia/Shanghai:20261111T110000
+DTSTART;TZID=Asia/Shanghai:20261111T110000
+DTEND;TZID=Asia/Shanghai:20261111T120000
 SUMMARY:CS2 · BLAST Rivals · Group A · Legacy vs FURIA
 DESCRIPTION:Legacy vs FURIA — BLAST Rivals  (CST)\n\n赛事: BLAST Rival
  s\n赛季: 2026\n阶段: Group A\n赛制: BO3
@@ -1039,8 +1039,8 @@ BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1762451@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261026T000000
-DTSTART;TZID=Asia/Shanghai:20261111T123000
-DTEND;TZID=Asia/Shanghai:20261111T133000
+DTSTART;TZID=Asia/Shanghai:20261111T133000
+DTEND;TZID=Asia/Shanghai:20261111T143000
 SUMMARY:CS2 · BLAST Rivals · Group A · Vitality vs Team Falcons
 DESCRIPTION:Vitality vs Team Falcons — BLAST Rivals  (CST)\n\n赛事: BL
  AST Rivals\n赛季: 2026\n阶段: Group A\n赛制: BO3
@@ -1052,8 +1052,8 @@ BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1762459@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261026T000000
-DTSTART;TZID=Asia/Shanghai:20261111T150000
-DTEND;TZID=Asia/Shanghai:20261111T160000
+DTSTART;TZID=Asia/Shanghai:20261111T160000
+DTEND;TZID=Asia/Shanghai:20261111T170000
 SUMMARY:CS2 · BLAST Rivals · Group B · Spirit vs FUT Esports
 DESCRIPTION:Spirit vs FUT Esports — BLAST Rivals  (CST)\n\n赛事: BLAST
   Rivals\n赛季: 2026\n阶段: Group B\n赛制: BO3
@@ -1065,8 +1065,8 @@ BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1762460@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261026T000000
-DTSTART;TZID=Asia/Shanghai:20261111T173000
-DTEND;TZID=Asia/Shanghai:20261111T183000
+DTSTART;TZID=Asia/Shanghai:20261111T183000
+DTEND;TZID=Asia/Shanghai:20261111T193000
 SUMMARY:CS2 · BLAST Rivals · Group B · MOUZ vs G2
 DESCRIPTION:MOUZ vs G2 — BLAST Rivals  (CST)\n\n赛事: BLAST Rivals\n
  赛季: 2026\n阶段: Group B\n赛制: BO3
