@@ -52770,7 +52770,7 @@
       "description": "B8 vs K27 — Tesla Cup （北京时间）",
       "description_en": "B8 vs K27 — Tesla Cup  (CST)",
       "url": "https://kick.com/watchfultvb",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-10-27",
       "verified_by": "official",
       "teams": {
@@ -52785,6 +52785,12 @@
           "name": "K27"
         }
       },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
       "details": {
         "赛事": "Tesla Cup",
         "赛季": "2026",
@@ -52797,14 +52803,14 @@
       "name": "Tesla Cup · Group A · Alliance vs FaZe",
       "name_en": "Tesla Cup · Group A · Alliance vs FaZe",
       "date": "2026-10-27",
-      "time": "19:00",
+      "time": "18:56",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "Alliance vs FaZe — Tesla Cup （北京时间）",
       "description_en": "Alliance vs FaZe — Tesla Cup  (CST)",
       "url": "https://kick.com/narodcast2",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-10-27",
       "verified_by": "official",
       "teams": {
@@ -52819,10 +52825,96 @@
           "name": "FaZe"
         }
       },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
       "details": {
         "赛事": "Tesla Cup",
         "赛季": "2026",
         "阶段": "Group A",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1763046",
+      "name": "Tesla Cup · Group A · K27 vs FaZe",
+      "name_en": "Tesla Cup · Group A · K27 vs FaZe",
+      "date": "2026-10-27",
+      "time": "21:16",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "K27 vs FaZe — Tesla Cup （北京时间）",
+      "description_en": "K27 vs FaZe — Tesla Cup  (CST)",
+      "url": "https://kick.com/narodcast2",
+      "status": "completed",
+      "last_verified": "2026-10-27",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "135298",
+          "code": "K27",
+          "name": "K27"
+        },
+        "home": {
+          "id": "3212",
+          "code": "FaZe",
+          "name": "FaZe"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Tesla Cup",
+        "赛季": "2026",
+        "阶段": "Group A",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1763053",
+      "name": "Tesla Cup · Group B · Luminosity vs HOTU",
+      "name_en": "Tesla Cup · Group B · Luminosity vs HOTU",
+      "date": "2026-10-27",
+      "time": "23:33",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Luminosity vs HOTU — Tesla Cup （北京时间）",
+      "description_en": "Luminosity vs HOTU — Tesla Cup  (CST)",
+      "url": "https://kick.com/watchfultvb",
+      "status": "completed",
+      "last_verified": "2026-10-27",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "3228",
+          "code": "Luminosity",
+          "name": "Luminosity"
+        },
+        "home": {
+          "id": "130569",
+          "code": "HOTU",
+          "name": "HOTU"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Tesla Cup",
+        "赛季": "2026",
+        "阶段": "Group B",
         "赛制": "BO3"
       }
     },
@@ -52907,52 +52999,18 @@
       }
     },
     {
-      "id": "cs2-2026-m1753713",
-      "name": "PGL Masters 布加勒斯特 · 小组赛 · Liquid vs Aurora Gaming",
-      "name_en": "PGL Masters Bucharest · Group Stage · Liquid vs Aurora Gaming",
-      "date": "2026-10-27",
-      "time": "19:00",
-      "timezone": "Asia/Shanghai",
-      "type": "event",
-      "year": 2026,
-      "description": "Liquid vs Aurora Gaming — PGL Masters 布加勒斯特（北京时间）",
-      "description_en": "Liquid vs Aurora Gaming — PGL Masters Bucharest (CST)",
-      "url": "https://www.twitch.tv/pgl_cs2",
-      "status": "confirmed",
-      "last_verified": "2026-10-27",
-      "verified_by": "official",
-      "teams": {
-        "away": {
-          "id": "3213",
-          "code": "Liquid",
-          "name": "Liquid"
-        },
-        "home": {
-          "id": "131505",
-          "code": "Aurora Gaming",
-          "name": "Aurora Gaming"
-        }
-      },
-      "details": {
-        "赛事": "PGL Masters",
-        "赛季": "布加勒斯特",
-        "阶段": "小组赛",
-        "赛制": "BO3"
-      }
-    },
-    {
       "id": "cs2-2026-m1753712",
       "name": "PGL Masters 布加勒斯特 · 小组赛 · Nemiga vs DENDELE CS",
       "name_en": "PGL Masters Bucharest · Group Stage · Nemiga vs DENDELE CS",
       "date": "2026-10-27",
-      "time": "19:00",
+      "time": "19:01",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "Nemiga vs DENDELE CS — PGL Masters 布加勒斯特（北京时间）",
       "description_en": "Nemiga vs DENDELE CS — PGL Masters Bucharest (CST)",
-      "url": "https://www.twitch.tv/pgl_cs2",
-      "status": "confirmed",
+      "url": "https://www.twitch.tv/krl_stream2",
+      "status": "completed",
       "last_verified": "2026-10-27",
       "verified_by": "official",
       "teams": {
@@ -52967,6 +53025,12 @@
           "name": "DENDELE CS"
         }
       },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
       "details": {
         "赛事": "PGL Masters",
         "赛季": "布加勒斯特",
@@ -52975,31 +53039,37 @@
       }
     },
     {
-      "id": "cs2-2026-m1753715",
-      "name": "PGL Masters 布加勒斯特 · 小组赛 · Spirit vs MOUZ",
-      "name_en": "PGL Masters Bucharest · Group Stage · Spirit vs MOUZ",
+      "id": "cs2-2026-m1753713",
+      "name": "PGL Masters 布加勒斯特 · 小组赛 · Liquid vs Aurora Gaming",
+      "name_en": "PGL Masters Bucharest · Group Stage · Liquid vs Aurora Gaming",
       "date": "2026-10-27",
-      "time": "22:00",
+      "time": "19:08",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Spirit vs MOUZ — PGL Masters 布加勒斯特（北京时间）",
-      "description_en": "Spirit vs MOUZ — PGL Masters Bucharest (CST)",
-      "url": "https://www.twitch.tv/pgl_cs2",
-      "status": "confirmed",
+      "description": "Liquid vs Aurora Gaming — PGL Masters 布加勒斯特（北京时间）",
+      "description_en": "Liquid vs Aurora Gaming — PGL Masters Bucharest (CST)",
+      "url": "https://www.twitch.tv/bysl4m",
+      "status": "completed",
       "last_verified": "2026-10-27",
       "verified_by": "official",
       "teams": {
         "away": {
-          "id": "124523",
-          "code": "Spirit",
-          "name": "Spirit"
+          "id": "3213",
+          "code": "Liquid",
+          "name": "Liquid"
         },
         "home": {
-          "id": "3240",
-          "code": "MOUZ",
-          "name": "MOUZ"
+          "id": "131505",
+          "code": "Aurora Gaming",
+          "name": "Aurora Gaming"
         }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
       },
       "details": {
         "赛事": "PGL Masters",
@@ -53013,14 +53083,14 @@
       "name": "PGL Masters 布加勒斯特 · 小组赛 · TheMongolz vs Legacy",
       "name_en": "PGL Masters Bucharest · Group Stage · TheMongolz vs Legacy",
       "date": "2026-10-27",
-      "time": "22:00",
+      "time": "20:56",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "TheMongolz vs Legacy — PGL Masters 布加勒斯特（北京时间）",
       "description_en": "TheMongolz vs Legacy — PGL Masters Bucharest (CST)",
-      "url": "https://www.twitch.tv/pgl_cs2",
-      "status": "confirmed",
+      "url": "https://www.twitch.tv/krl_stream2",
+      "status": "completed",
       "last_verified": "2026-10-27",
       "verified_by": "official",
       "teams": {
@@ -53035,6 +53105,12 @@
           "name": "Legacy"
         }
       },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
       "details": {
         "赛事": "PGL Masters",
         "赛季": "布加勒斯特",
@@ -53043,36 +53119,42 @@
       }
     },
     {
-      "id": "cs2-2026-m1763053",
-      "name": "Tesla Cup · Group B · Luminosity vs HOTU",
-      "name_en": "Tesla Cup · Group B · Luminosity vs HOTU",
-      "date": "2026-10-28",
-      "time": "01:00",
+      "id": "cs2-2026-m1753715",
+      "name": "PGL Masters 布加勒斯特 · 小组赛 · Spirit vs MOUZ",
+      "name_en": "PGL Masters Bucharest · Group Stage · Spirit vs MOUZ",
+      "date": "2026-10-27",
+      "time": "22:36",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Luminosity vs HOTU — Tesla Cup （北京时间）",
-      "description_en": "Luminosity vs HOTU — Tesla Cup  (CST)",
-      "url": "https://kick.com/rlgcs",
-      "status": "confirmed",
+      "description": "Spirit vs MOUZ — PGL Masters 布加勒斯特（北京时间）",
+      "description_en": "Spirit vs MOUZ — PGL Masters Bucharest (CST)",
+      "url": "https://www.twitch.tv/zonixxcs",
+      "status": "completed",
       "last_verified": "2026-10-27",
       "verified_by": "official",
       "teams": {
         "away": {
-          "id": "3228",
-          "code": "Luminosity",
-          "name": "Luminosity"
+          "id": "124523",
+          "code": "Spirit",
+          "name": "Spirit"
         },
         "home": {
-          "id": "130569",
-          "code": "HOTU",
-          "name": "HOTU"
+          "id": "3240",
+          "code": "MOUZ",
+          "name": "MOUZ"
         }
       },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
       "details": {
-        "赛事": "Tesla Cup",
-        "赛季": "2026",
-        "阶段": "Group B",
+        "赛事": "PGL Masters",
+        "赛季": "布加勒斯特",
+        "阶段": "小组赛",
         "赛制": "BO3"
       }
     },
@@ -53081,14 +53163,14 @@
       "name": "Tesla Cup · Group B · Envy vs GamerLegion",
       "name_en": "Tesla Cup · Group B · Envy vs GamerLegion",
       "date": "2026-10-28",
-      "time": "04:00",
+      "time": "01:40",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "Envy vs GamerLegion — Tesla Cup （北京时间）",
       "description_en": "Envy vs GamerLegion — Tesla Cup  (CST)",
       "url": "https://kick.com/rlgcs",
-      "status": "confirmed",
+      "status": "active",
       "last_verified": "2026-10-27",
       "verified_by": "official",
       "teams": {
@@ -53111,36 +53193,36 @@
       }
     },
     {
-      "id": "cs2-2026-m1753717",
-      "name": "PGL Masters 布加勒斯特 · 小组赛 · Vitality vs Natus Vincere",
-      "name_en": "PGL Masters Bucharest · Group Stage · Vitality vs Natus Vincere",
+      "id": "cs2-2026-m1763045",
+      "name": "Tesla Cup · Group A · B8 vs Alliance",
+      "name_en": "Tesla Cup · Group A · B8 vs Alliance",
       "date": "2026-10-28",
-      "time": "01:00",
+      "time": "16:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "Vitality vs Natus Vincere — PGL Masters 布加勒斯特（北京时间）",
-      "description_en": "Vitality vs Natus Vincere — PGL Masters Bucharest (CST)",
-      "url": "https://www.twitch.tv/pgl_cs2",
+      "description": "B8 vs Alliance — Tesla Cup （北京时间）",
+      "description_en": "B8 vs Alliance — Tesla Cup  (CST)",
+      "url": "https://kick.com/rlgcs",
       "status": "confirmed",
       "last_verified": "2026-10-27",
       "verified_by": "official",
       "teams": {
         "away": {
-          "id": "3455",
-          "code": "Vitality",
-          "name": "Vitality"
+          "id": "129381",
+          "code": "B8",
+          "name": "B8"
         },
         "home": {
-          "id": "3216",
-          "code": "Natus Vincere",
-          "name": "Natus Vincere"
+          "id": "133725",
+          "code": "Alliance",
+          "name": "Alliance"
         }
       },
       "details": {
-        "赛事": "PGL Masters",
-        "赛季": "布加勒斯特",
-        "阶段": "小组赛",
+        "赛事": "Tesla Cup",
+        "赛季": "2026",
+        "阶段": "Group A",
         "赛制": "BO3"
       }
     },
@@ -53149,14 +53231,14 @@
       "name": "PGL Masters 布加勒斯特 · 小组赛 · FURIA vs TYLOO",
       "name_en": "PGL Masters Bucharest · Group Stage · FURIA vs TYLOO",
       "date": "2026-10-28",
-      "time": "01:00",
+      "time": "00:19",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "FURIA vs TYLOO — PGL Masters 布加勒斯特（北京时间）",
       "description_en": "FURIA vs TYLOO — PGL Masters Bucharest (CST)",
-      "url": "https://www.twitch.tv/pgl_cs2",
-      "status": "confirmed",
+      "url": "https://www.twitch.tv/michel",
+      "status": "completed",
       "last_verified": "2026-10-27",
       "verified_by": "official",
       "teams": {
@@ -53169,6 +53251,46 @@
           "id": "3248",
           "code": "TYLOO",
           "name": "TYLOO"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "PGL Masters",
+        "赛季": "布加勒斯特",
+        "阶段": "小组赛",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1753717",
+      "name": "PGL Masters 布加勒斯特 · 小组赛 · Vitality vs Natus Vincere",
+      "name_en": "PGL Masters Bucharest · Group Stage · Vitality vs Natus Vincere",
+      "date": "2026-10-28",
+      "time": "01:55",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Vitality vs Natus Vincere — PGL Masters 布加勒斯特（北京时间）",
+      "description_en": "Vitality vs Natus Vincere — PGL Masters Bucharest (CST)",
+      "url": "https://www.twitch.tv/watchfulTV",
+      "status": "active",
+      "last_verified": "2026-10-27",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "3455",
+          "code": "Vitality",
+          "name": "Vitality"
+        },
+        "home": {
+          "id": "3216",
+          "code": "Natus Vincere",
+          "name": "Natus Vincere"
         }
       },
       "details": {
