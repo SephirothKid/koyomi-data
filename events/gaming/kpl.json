@@ -15234,15 +15234,15 @@
       "name_en": "Playoffs · WOL vs TES.A",
       "name_zh": "季后赛 · WOL vs TES.A",
       "date": "2026-10-28",
-      "time": "18:00",
+      "time": "18:12",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "Wolves vs TOP Esports Armor — Playoffs（北京时间）",
       "description_en": "Wolves vs TOP Esports Armor — Playoffs (CST)",
       "description_zh": "Wolves vs TOP Esports Armor — Playoffs（北京时间）",
-      "url": "https://www.youtube.com/@Hok_KPL/streams",
-      "status": "confirmed",
+      "url": "https://www.youtube.com/watch?v=ESmAzCn0-Hs",
+      "status": "completed",
       "last_verified": "2026-10-28",
       "verified_by": "official",
       "teams": {
@@ -15260,6 +15260,12 @@
           "name_en": "TOP Esports Armor",
           "image_url": "https://cdn-api.pandascore.co/images/team/image/129644/600px_top_esports_armor_2025_allmode.png"
         }
+      },
+      "result": {
+        "away_score": 4,
+        "home_score": 3,
+        "winner": "away",
+        "status": "completed"
       },
       "details": {
         "赛事": "King Pro League",
@@ -15339,6 +15345,86 @@
           "name": "LGD NBW",
           "name_en": "LGD NBW",
           "image_url": "https://cdn-api.pandascore.co/images/team/image/133323/600px_lgdnbw_2023_allmode.png"
+        }
+      },
+      "details": {
+        "赛事": "King Pro League",
+        "赛季": "Grand Finals 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO7"
+      }
+    },
+    {
+      "id": "kpl-2026-m1766475",
+      "name": "季后赛 · TTG vs TES.A",
+      "name_en": "Playoffs · TTG vs TES.A",
+      "name_zh": "季后赛 · TTG vs TES.A",
+      "date": "2026-10-31",
+      "time": "18:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Talent Gaming vs TOP Esports Armor — Playoffs（北京时间）",
+      "description_en": "Talent Gaming vs TOP Esports Armor — Playoffs (CST)",
+      "description_zh": "Talent Gaming vs TOP Esports Armor — Playoffs（北京时间）",
+      "url": "https://www.youtube.com/@Hok_KPL/streams",
+      "status": "confirmed",
+      "last_verified": "2026-10-28",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "talent-gaming",
+          "code": "TTG",
+          "name": "Talent Gaming",
+          "name_en": "Talent Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/129041/190px_talent_gaming_logo.png"
+        },
+        "home": {
+          "id": "top-esports-armor",
+          "code": "TES.A",
+          "name": "TOP Esports Armor",
+          "name_en": "TOP Esports Armor",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/129644/600px_top_esports_armor_2025_allmode.png"
+        }
+      },
+      "details": {
+        "赛事": "King Pro League",
+        "赛季": "Grand Finals 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO7"
+      }
+    },
+    {
+      "id": "kpl-2026-m1766477",
+      "name": "季后赛 · JDG vs WOL",
+      "name_en": "Playoffs · JDG vs WOL",
+      "name_zh": "季后赛 · JDG vs WOL",
+      "date": "2026-11-02",
+      "time": "18:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "JD Gaming vs Wolves — Playoffs（北京时间）",
+      "description_en": "JD Gaming vs Wolves — Playoffs (CST)",
+      "description_zh": "JD Gaming vs Wolves — Playoffs（北京时间）",
+      "url": "https://www.youtube.com/@Hok_KPL/streams",
+      "status": "confirmed",
+      "last_verified": "2026-10-28",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "jd-gaming-kog",
+          "code": "JDG",
+          "name": "JD Gaming",
+          "name_en": "JD Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/135058/600px_jd_gaming_2021_allmode.png"
+        },
+        "home": {
+          "id": "wolves-kog",
+          "code": "WOL",
+          "name": "Wolves",
+          "name_en": "Wolves",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/129564/692px_wolves_esports_allmode.png"
         }
       },
       "details": {

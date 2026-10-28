@@ -1835,24 +1835,24 @@
       "date": "2026-10-28",
       "year": 2026,
       "timezone": "Asia/Shanghai",
-      "name": "COP BASTARD 发售",
-      "name_en": "COP BASTARD release",
-      "description": "COP BASTARD 发售（PC）",
-      "description_en": "COP BASTARD releases on PC.",
+      "name": "COP BASTARD 等 2 款发售",
+      "name_en": "COP BASTARD + 1 more release",
+      "description": "当天发售：COP BASTARD、Sulfur",
+      "description_en": "Releases this day: COP BASTARD, Sulfur.",
       "type": "event",
       "status": "active",
-      "url": "https://rawg.io/games/cop-bastard",
+      "url": "https://rawg.io/games",
       "last_verified": "2026-10-28",
       "verified_by": "auto",
       "details": {
-        "游戏数量": "1",
-        "发售游戏": "COP BASTARD",
+        "游戏数量": "2",
+        "发售游戏": "COP BASTARD、Sulfur",
         "平台": "PC",
         "数据来源": "RAWG"
       },
       "details_en": {
-        "Game count": "1",
-        "Games": "COP BASTARD",
+        "Game count": "2",
+        "Games": "COP BASTARD, Sulfur",
         "Platforms": "PC",
         "Data source": "RAWG"
       },
@@ -1865,6 +1865,16 @@
           ],
           "store_url": "https://rawg.io/games/cop-bastard",
           "rawg_id": "802450"
+        },
+        {
+          "title": "Sulfur",
+          "title_en": "Sulfur",
+          "platforms": [
+            "PC"
+          ],
+          "store_url": "https://rawg.io/games/sulfur",
+          "rawg_id": "991568",
+          "rawg_rating": 3.17
         }
       ]
     },
@@ -2298,28 +2308,38 @@
       "date": "2026-12-03",
       "year": 2026,
       "timezone": "Asia/Shanghai",
-      "name": "Rayman Legends Retold 发售",
-      "name_en": "Rayman Legends Retold release",
-      "description": "Rayman Legends Retold 发售（PC / PS5）",
-      "description_en": "Rayman Legends Retold releases on PC / PS5.",
+      "name": "Cronos: Lazarus 等 2 款发售",
+      "name_en": "Cronos: Lazarus + 1 more release",
+      "description": "当天发售：Cronos: Lazarus、Rayman Legends Retold",
+      "description_en": "Releases this day: Cronos: Lazarus, Rayman Legends Retold.",
       "type": "event",
       "status": "planned",
-      "url": "https://rawg.io/games/rayman-legends-retold",
+      "url": "https://rawg.io/games",
       "last_verified": "2026-10-28",
       "verified_by": "auto",
       "details": {
-        "游戏数量": "1",
-        "发售游戏": "Rayman Legends Retold",
+        "游戏数量": "2",
+        "发售游戏": "Cronos: Lazarus、Rayman Legends Retold",
         "平台": "PC / PS5",
         "数据来源": "RAWG"
       },
       "details_en": {
-        "Game count": "1",
-        "Games": "Rayman Legends Retold",
+        "Game count": "2",
+        "Games": "Cronos: Lazarus, Rayman Legends Retold",
         "Platforms": "PC / PS5",
         "Data source": "RAWG"
       },
       "games": [
+        {
+          "title": "Cronos: Lazarus",
+          "title_en": "Cronos: Lazarus",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "store_url": "https://rawg.io/games/cronos-lazarus",
+          "rawg_id": "1018110"
+        },
         {
           "title": "Rayman Legends Retold",
           "title_en": "Rayman Legends Retold",

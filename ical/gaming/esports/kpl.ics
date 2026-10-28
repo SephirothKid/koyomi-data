@@ -573,14 +573,14 @@ BEGIN:VEVENT
 UID:kpl-kpl-2026-m1765302@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261028T000000
-DTSTART;TZID=Asia/Shanghai:20261028T180000
-DTEND;TZID=Asia/Shanghai:20261028T190000
+DTSTART;TZID=Asia/Shanghai:20261028T181200
+DTEND;TZID=Asia/Shanghai:20261028T191200
 SUMMARY:KPL · 季后赛 · WOL vs TES.A
 DESCRIPTION:Wolves vs TOP Esports Armor — Playoffs（北京时间）\n\n
  赛事: King Pro League\n赛季: Grand Finals 2026\n阶段: Playoffs\n赛
  制: BO7
 CATEGORIES:KPL
-URL;VALUE=URI:https://www.youtube.com/@Hok_KPL/streams
+URL;VALUE=URI:https://www.youtube.com/watch?v=ESmAzCn0-Hs
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -607,6 +607,33 @@ SUMMARY:KPL · 季后赛 · EDG vs LGD
 DESCRIPTION:EDward Gaming vs LGD NBW — Playoffs（北京时间）\n\n赛
  事: King Pro League\n赛季: Grand Finals 2026\n阶段: Playoffs\n赛制:
   BO7
+CATEGORIES:KPL
+URL;VALUE=URI:https://www.youtube.com/@Hok_KPL/streams
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kpl-kpl-2026-m1766475@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261028T000000
+DTSTART;TZID=Asia/Shanghai:20261031T180000
+DTEND;TZID=Asia/Shanghai:20261031T190000
+SUMMARY:KPL · 季后赛 · TTG vs TES.A
+DESCRIPTION:Talent Gaming vs TOP Esports Armor — Playoffs（北京时间
+ ）\n\n赛事: King Pro League\n赛季: Grand Finals 2026\n阶段: Playoff
+ s\n赛制: BO7
+CATEGORIES:KPL
+URL;VALUE=URI:https://www.youtube.com/@Hok_KPL/streams
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kpl-kpl-2026-m1766477@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261028T000000
+DTSTART;TZID=Asia/Shanghai:20261102T180000
+DTEND;TZID=Asia/Shanghai:20261102T190000
+SUMMARY:KPL · 季后赛 · JDG vs WOL
+DESCRIPTION:JD Gaming vs Wolves — Playoffs（北京时间）\n\n赛事: 
+ King Pro League\n赛季: Grand Finals 2026\n阶段: Playoffs\n赛制: BO7
 CATEGORIES:KPL
 URL;VALUE=URI:https://www.youtube.com/@Hok_KPL/streams
 STATUS:CONFIRMED
