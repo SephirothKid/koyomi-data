@@ -1146,8 +1146,8 @@ BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1763057@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261029T000000
-DTSTART;TZID=Asia/Shanghai:20261029T170000
-DTEND;TZID=Asia/Shanghai:20261029T180000
+DTSTART;TZID=Asia/Shanghai:20261029T170500
+DTEND;TZID=Asia/Shanghai:20261029T180500
 SUMMARY:CS2 · Tesla Cup · 季后赛 · B8 vs HOTU
 DESCRIPTION:B8 vs HOTU — Tesla Cup （北京时间）\n\n赛事: Tesla C
  up\n赛季: 2026\n阶段: 季后赛\n赛制: BO3
@@ -1159,13 +1159,26 @@ BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1763058@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261029T000000
-DTSTART;TZID=Asia/Shanghai:20261029T200000
-DTEND;TZID=Asia/Shanghai:20261029T210000
+DTSTART;TZID=Asia/Shanghai:20261029T191600
+DTEND;TZID=Asia/Shanghai:20261029T201600
 SUMMARY:CS2 · Tesla Cup · 季后赛 · FaZe vs GamerLegion
 DESCRIPTION:FaZe vs GamerLegion — Tesla Cup （北京时间）\n\n赛事
  : Tesla Cup\n赛季: 2026\n阶段: 季后赛\n赛制: BO3
 CATEGORIES:CS2
 URL;VALUE=URI:https://kick.com/rlgcs
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-cs2-2026-m1763060@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261029T000000
+DTSTART;TZID=Asia/Shanghai:20261029T232200
+DTEND;TZID=Asia/Shanghai:20261030T002200
+SUMMARY:CS2 · Tesla Cup · 季后赛 · B8 vs FaZe
+DESCRIPTION:B8 vs FaZe — Tesla Cup （北京时间）\n\n赛事: Tesla C
+ up\n赛季: 2026\n阶段: 季后赛\n赛制: BO3
+CATEGORIES:CS2
+URL;VALUE=URI:https://kick.com/innocenttt
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1202,8 +1215,8 @@ BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1753683@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261029T000000
-DTSTART;TZID=Asia/Shanghai:20261029T190000
-DTEND;TZID=Asia/Shanghai:20261029T200000
+DTSTART;TZID=Asia/Shanghai:20261029T182300
+DTEND;TZID=Asia/Shanghai:20261029T192300
 SUMMARY:CS2 · PGL Masters 布加勒斯特 · 季后赛 · Vitality vs Nat
  us Vincere
 DESCRIPTION:Vitality vs Natus Vincere — PGL Masters 布加勒斯特（
@@ -1217,8 +1230,8 @@ BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1753684@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261029T000000
-DTSTART;TZID=Asia/Shanghai:20261029T220000
-DTEND;TZID=Asia/Shanghai:20261029T230000
+DTSTART;TZID=Asia/Shanghai:20261029T212900
+DTEND;TZID=Asia/Shanghai:20261029T222900
 SUMMARY:CS2 · PGL Masters 布加勒斯特 · 季后赛 · Aurora Gaming v
  s MOUZ
 DESCRIPTION:Aurora Gaming vs MOUZ — PGL Masters 布加勒斯特（北京
@@ -1232,8 +1245,8 @@ BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1753685@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261029T000000
-DTSTART;TZID=Asia/Shanghai:20261030T010000
-DTEND;TZID=Asia/Shanghai:20261030T020000
+DTSTART;TZID=Asia/Shanghai:20261029T232800
+DTEND;TZID=Asia/Shanghai:20261030T002800
 SUMMARY:CS2 · PGL Masters 布加勒斯特 · 季后赛 · BetBoom Team vs
   FURIA
 DESCRIPTION:BetBoom Team vs FURIA — PGL Masters 布加勒斯特（北京
@@ -1241,6 +1254,48 @@ DESCRIPTION:BetBoom Team vs FURIA — PGL Masters 布加勒斯特（北京
  赛\n赛制: BO3
 CATEGORIES:CS2
 URL;VALUE=URI:https://www.twitch.tv/esport1TV
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-cs2-2026-m1763059@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261029T000000
+DTSTART;TZID=Asia/Shanghai:20261030T013100
+DTEND;TZID=Asia/Shanghai:20261030T023100
+SUMMARY:CS2 · Tesla Cup · 季后赛 · HOTU vs GamerLegion
+DESCRIPTION:HOTU vs GamerLegion — Tesla Cup （北京时间）\n\n赛事
+ : Tesla Cup\n赛季: 2026\n阶段: 季后赛\n赛制: BO3
+CATEGORIES:CS2
+URL;VALUE=URI:https://kick.com/innocenttt
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-cs2-2026-m1753686@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261029T000000
+DTSTART;TZID=Asia/Shanghai:20261030T200000
+DTEND;TZID=Asia/Shanghai:20261030T210000
+SUMMARY:CS2 · PGL Masters 布加勒斯特 · 季后赛 · Nemiga vs Vital
+ ity
+DESCRIPTION:Nemiga vs Vitality — PGL Masters 布加勒斯特（北京时
+ 间）\n\n赛事: PGL Masters\n赛季: 布加勒斯特\n阶段: 季后赛\
+ n赛制: BO3
+CATEGORIES:CS2
+URL;VALUE=URI:https://www.twitch.tv/PGL
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-cs2-2026-m1753687@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261029T000000
+DTSTART;TZID=Asia/Shanghai:20261030T230000
+DTEND;TZID=Asia/Shanghai:20261031T000000
+SUMMARY:CS2 · PGL Masters 布加勒斯特 · 季后赛 · MOUZ vs FURIA
+DESCRIPTION:MOUZ vs FURIA — PGL Masters 布加勒斯特（北京时间
+ ）\n\n赛事: PGL Masters\n赛季: 布加勒斯特\n阶段: 季后赛\n
+ 赛制: BO3
+CATEGORIES:CS2
+URL;VALUE=URI:https://www.twitch.tv/PGL
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT

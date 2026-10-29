@@ -53563,14 +53563,14 @@
       "name": "Tesla Cup · 季后赛 · B8 vs HOTU",
       "name_en": "Tesla Cup · Playoffs · B8 vs HOTU",
       "date": "2026-10-29",
-      "time": "17:00",
+      "time": "17:05",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "B8 vs HOTU — Tesla Cup （北京时间）",
       "description_en": "B8 vs HOTU — Tesla Cup  (CST)",
       "url": "https://kick.com/rlgcs",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-10-29",
       "verified_by": "official",
       "teams": {
@@ -53585,6 +53585,12 @@
           "name": "HOTU"
         }
       },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
       "details": {
         "赛事": "Tesla Cup",
         "赛季": "2026",
@@ -53597,14 +53603,14 @@
       "name": "Tesla Cup · 季后赛 · FaZe vs GamerLegion",
       "name_en": "Tesla Cup · Playoffs · FaZe vs GamerLegion",
       "date": "2026-10-29",
-      "time": "20:00",
+      "time": "19:16",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "FaZe vs GamerLegion — Tesla Cup （北京时间）",
       "description_en": "FaZe vs GamerLegion — Tesla Cup  (CST)",
       "url": "https://kick.com/rlgcs",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-10-29",
       "verified_by": "official",
       "teams": {
@@ -53618,6 +53624,52 @@
           "code": "GamerLegion",
           "name": "GamerLegion"
         }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Tesla Cup",
+        "赛季": "2026",
+        "阶段": "季后赛",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1763060",
+      "name": "Tesla Cup · 季后赛 · B8 vs FaZe",
+      "name_en": "Tesla Cup · Playoffs · B8 vs FaZe",
+      "date": "2026-10-29",
+      "time": "23:22",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "B8 vs FaZe — Tesla Cup （北京时间）",
+      "description_en": "B8 vs FaZe — Tesla Cup  (CST)",
+      "url": "https://kick.com/innocenttt",
+      "status": "completed",
+      "last_verified": "2026-10-29",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "129381",
+          "code": "B8",
+          "name": "B8"
+        },
+        "home": {
+          "id": "3212",
+          "code": "FaZe",
+          "name": "FaZe"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
       },
       "details": {
         "赛事": "Tesla Cup",
@@ -53678,7 +53730,7 @@
       "description": "FUT Esports vs Nemiga — PGL Masters 布加勒斯特（北京时间）",
       "description_en": "FUT Esports vs Nemiga — PGL Masters Bucharest (CST)",
       "url": "https://www.twitch.tv/esport1TV",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-10-29",
       "verified_by": "official",
       "teams": {
@@ -53693,6 +53745,12 @@
           "name": "Nemiga"
         }
       },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
       "details": {
         "赛事": "PGL Masters",
         "赛季": "布加勒斯特",
@@ -53705,14 +53763,14 @@
       "name": "PGL Masters 布加勒斯特 · 季后赛 · Vitality vs Natus Vincere",
       "name_en": "PGL Masters Bucharest · Playoffs · Vitality vs Natus Vincere",
       "date": "2026-10-29",
-      "time": "19:00",
+      "time": "18:23",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "Vitality vs Natus Vincere — PGL Masters 布加勒斯特（北京时间）",
       "description_en": "Vitality vs Natus Vincere — PGL Masters Bucharest (CST)",
       "url": "https://www.twitch.tv/esport1TV",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-10-29",
       "verified_by": "official",
       "teams": {
@@ -53727,6 +53785,12 @@
           "name": "Natus Vincere"
         }
       },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
       "details": {
         "赛事": "PGL Masters",
         "赛季": "布加勒斯特",
@@ -53739,14 +53803,14 @@
       "name": "PGL Masters 布加勒斯特 · 季后赛 · Aurora Gaming vs MOUZ",
       "name_en": "PGL Masters Bucharest · Playoffs · Aurora Gaming vs MOUZ",
       "date": "2026-10-29",
-      "time": "22:00",
+      "time": "21:29",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "Aurora Gaming vs MOUZ — PGL Masters 布加勒斯特（北京时间）",
       "description_en": "Aurora Gaming vs MOUZ — PGL Masters Bucharest (CST)",
       "url": "https://www.twitch.tv/esport1TV",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-10-29",
       "verified_by": "official",
       "teams": {
@@ -53761,6 +53825,12 @@
           "name": "MOUZ"
         }
       },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
       "details": {
         "赛事": "PGL Masters",
         "赛季": "布加勒斯特",
@@ -53772,15 +53842,15 @@
       "id": "cs2-2026-m1753685",
       "name": "PGL Masters 布加勒斯特 · 季后赛 · BetBoom Team vs FURIA",
       "name_en": "PGL Masters Bucharest · Playoffs · BetBoom Team vs FURIA",
-      "date": "2026-10-30",
-      "time": "01:00",
+      "date": "2026-10-29",
+      "time": "23:28",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "BetBoom Team vs FURIA — PGL Masters 布加勒斯特（北京时间）",
       "description_en": "BetBoom Team vs FURIA — PGL Masters Bucharest (CST)",
       "url": "https://www.twitch.tv/esport1TV",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-10-29",
       "verified_by": "official",
       "teams": {
@@ -53788,6 +53858,120 @@
           "id": "133458",
           "code": "BetBoom Team",
           "name": "BetBoom Team"
+        },
+        "home": {
+          "id": "124530",
+          "code": "FURIA",
+          "name": "FURIA"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "PGL Masters",
+        "赛季": "布加勒斯特",
+        "阶段": "季后赛",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1763059",
+      "name": "Tesla Cup · 季后赛 · HOTU vs GamerLegion",
+      "name_en": "Tesla Cup · Playoffs · HOTU vs GamerLegion",
+      "date": "2026-10-30",
+      "time": "01:31",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "HOTU vs GamerLegion — Tesla Cup （北京时间）",
+      "description_en": "HOTU vs GamerLegion — Tesla Cup  (CST)",
+      "url": "https://kick.com/innocenttt",
+      "status": "completed",
+      "last_verified": "2026-10-29",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "130569",
+          "code": "HOTU",
+          "name": "HOTU"
+        },
+        "home": {
+          "id": "125847",
+          "code": "GamerLegion",
+          "name": "GamerLegion"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Tesla Cup",
+        "赛季": "2026",
+        "阶段": "季后赛",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1753686",
+      "name": "PGL Masters 布加勒斯特 · 季后赛 · Nemiga vs Vitality",
+      "name_en": "PGL Masters Bucharest · Playoffs · Nemiga vs Vitality",
+      "date": "2026-10-30",
+      "time": "20:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Nemiga vs Vitality — PGL Masters 布加勒斯特（北京时间）",
+      "description_en": "Nemiga vs Vitality — PGL Masters Bucharest (CST)",
+      "url": "https://www.twitch.tv/PGL",
+      "status": "confirmed",
+      "last_verified": "2026-10-29",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "124522",
+          "code": "Nemiga",
+          "name": "Nemiga"
+        },
+        "home": {
+          "id": "3455",
+          "code": "Vitality",
+          "name": "Vitality"
+        }
+      },
+      "details": {
+        "赛事": "PGL Masters",
+        "赛季": "布加勒斯特",
+        "阶段": "季后赛",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1753687",
+      "name": "PGL Masters 布加勒斯特 · 季后赛 · MOUZ vs FURIA",
+      "name_en": "PGL Masters Bucharest · Playoffs · MOUZ vs FURIA",
+      "date": "2026-10-30",
+      "time": "23:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "MOUZ vs FURIA — PGL Masters 布加勒斯特（北京时间）",
+      "description_en": "MOUZ vs FURIA — PGL Masters Bucharest (CST)",
+      "url": "https://www.twitch.tv/PGL",
+      "status": "confirmed",
+      "last_verified": "2026-10-29",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "3240",
+          "code": "MOUZ",
+          "name": "MOUZ"
         },
         "home": {
           "id": "124530",

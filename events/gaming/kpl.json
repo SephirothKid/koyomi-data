@@ -13248,18 +13248,6 @@
         "赛季": "Spring 2027",
         "阶段": "Promotion",
         "赛制": "BO7"
-      },
-      "bracket": {
-        "tournament_id": "21938",
-        "panda_match_id": "1688820",
-        "lane": "upper",
-        "round_key": "upper_final",
-        "round_order": 3,
-        "slot_index": 0,
-        "label": "胜者组决赛",
-        "label_en": "Upper Bracket Final",
-        "label_zh": "胜者组决赛",
-        "previous_matches": []
       }
     },
     {
@@ -13306,18 +13294,6 @@
         "赛季": "Spring 2027",
         "阶段": "Promotion",
         "赛制": "BO7"
-      },
-      "bracket": {
-        "tournament_id": "21938",
-        "panda_match_id": "1688821",
-        "lane": "lower",
-        "round_key": "lower_semifinal",
-        "round_order": 2,
-        "slot_index": 0,
-        "label": "败者组四强",
-        "label_en": "Lower Semifinal",
-        "label_zh": "败者组四强",
-        "previous_matches": []
       }
     },
     {
@@ -13364,27 +13340,6 @@
         "赛季": "Spring 2027",
         "阶段": "Promotion",
         "赛制": "BO7"
-      },
-      "bracket": {
-        "tournament_id": "21938",
-        "panda_match_id": "1688822",
-        "lane": "lower",
-        "round_key": "lower_final",
-        "round_order": 4,
-        "slot_index": 0,
-        "label": "败者组决赛",
-        "label_en": "Lower Bracket Final",
-        "label_zh": "败者组决赛",
-        "previous_matches": [
-          {
-            "panda_match_id": "1688820",
-            "type": "loser"
-          },
-          {
-            "panda_match_id": "1688821",
-            "type": "winner"
-          }
-        ]
       }
     },
     {
@@ -13431,27 +13386,6 @@
         "赛季": "Spring 2027",
         "阶段": "Promotion",
         "赛制": "BO7"
-      },
-      "bracket": {
-        "tournament_id": "21938",
-        "panda_match_id": "1688823",
-        "lane": "grand",
-        "round_key": "grand_final",
-        "round_order": 0,
-        "slot_index": 0,
-        "label": "总决赛",
-        "label_en": "Grand Final",
-        "label_zh": "总决赛",
-        "previous_matches": [
-          {
-            "panda_match_id": "1688820",
-            "type": "winner"
-          },
-          {
-            "panda_match_id": "1688822",
-            "type": "winner"
-          }
-        ]
       }
     },
     {
@@ -15292,18 +15226,6 @@
         "赛季": "Grand Finals 2026",
         "阶段": "Playoffs",
         "赛制": "BO7"
-      },
-      "bracket": {
-        "tournament_id": "22285",
-        "panda_match_id": "1765301",
-        "lane": "upper",
-        "round_key": "quarterfinal",
-        "round_order": 0,
-        "slot_index": 0,
-        "label": "胜者组八强 1",
-        "label_en": "Upper Quarterfinal 1",
-        "label_zh": "胜者组八强 1",
-        "previous_matches": []
       }
     },
     {
@@ -15350,18 +15272,6 @@
         "赛季": "Grand Finals 2026",
         "阶段": "Playoffs",
         "赛制": "BO7"
-      },
-      "bracket": {
-        "tournament_id": "22285",
-        "panda_match_id": "1765302",
-        "lane": "upper",
-        "round_key": "quarterfinal",
-        "round_order": 0,
-        "slot_index": 1,
-        "label": "胜者组八强 2",
-        "label_en": "Upper Quarterfinal 2",
-        "label_zh": "胜者组八强 2",
-        "previous_matches": []
       }
     },
     {
@@ -15370,15 +15280,15 @@
       "name_en": "Playoffs · KSG vs WB",
       "name_zh": "季后赛 · KSG vs WB",
       "date": "2026-10-29",
-      "time": "18:00",
+      "time": "18:09",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "Kuaishou Gaming vs Weibo Gaming — Playoffs（北京时间）",
       "description_en": "Kuaishou Gaming vs Weibo Gaming — Playoffs (CST)",
       "description_zh": "Kuaishou Gaming vs Weibo Gaming — Playoffs（北京时间）",
-      "url": "https://www.youtube.com/@Hok_KPL/streams",
-      "status": "confirmed",
+      "url": "https://www.youtube.com/watch?v=v_B00-wwLr4",
+      "status": "completed",
       "last_verified": "2026-10-29",
       "verified_by": "official",
       "teams": {
@@ -15397,23 +15307,17 @@
           "image_url": "https://cdn-api.pandascore.co/images/team/image/129046/190px_weibo_gaming_logo.png"
         }
       },
+      "result": {
+        "away_score": 3,
+        "home_score": 4,
+        "winner": "home",
+        "status": "completed"
+      },
       "details": {
         "赛事": "King Pro League",
         "赛季": "Grand Finals 2026",
         "阶段": "Playoffs",
         "赛制": "BO7"
-      },
-      "bracket": {
-        "tournament_id": "22285",
-        "panda_match_id": "1765303",
-        "lane": "upper",
-        "round_key": "quarterfinal",
-        "round_order": 0,
-        "slot_index": 2,
-        "label": "胜者组八强 3",
-        "label_en": "Upper Quarterfinal 3",
-        "label_zh": "胜者组八强 3",
-        "previous_matches": []
       }
     },
     {
@@ -15454,18 +15358,6 @@
         "赛季": "Grand Finals 2026",
         "阶段": "Playoffs",
         "赛制": "BO7"
-      },
-      "bracket": {
-        "tournament_id": "22285",
-        "panda_match_id": "1765304",
-        "lane": "upper",
-        "round_key": "quarterfinal",
-        "round_order": 0,
-        "slot_index": 3,
-        "label": "胜者组八强 4",
-        "label_en": "Upper Quarterfinal 4",
-        "label_zh": "胜者组八强 4",
-        "previous_matches": []
       }
     },
     {
@@ -15506,27 +15398,6 @@
         "赛季": "Grand Finals 2026",
         "阶段": "Playoffs",
         "赛制": "BO7"
-      },
-      "bracket": {
-        "tournament_id": "22285",
-        "panda_match_id": "1766475",
-        "lane": "lower",
-        "round_key": "r1",
-        "round_order": 0,
-        "slot_index": 0,
-        "label": "败者组第1轮 1",
-        "label_en": "Lower Round 1 · Match 1",
-        "label_zh": "败者组第1轮 1",
-        "previous_matches": [
-          {
-            "panda_match_id": "1765301",
-            "type": "loser"
-          },
-          {
-            "panda_match_id": "1765302",
-            "type": "loser"
-          }
-        ]
       }
     },
     {
@@ -15567,27 +15438,6 @@
         "赛季": "Grand Finals 2026",
         "阶段": "Playoffs",
         "赛制": "BO7"
-      },
-      "bracket": {
-        "tournament_id": "22285",
-        "panda_match_id": "1766477",
-        "lane": "upper",
-        "round_key": "semifinal",
-        "round_order": 1,
-        "slot_index": 0,
-        "label": "胜者组四强 1",
-        "label_en": "Upper Semifinal 1",
-        "label_zh": "胜者组四强 1",
-        "previous_matches": [
-          {
-            "panda_match_id": "1765301",
-            "type": "winner"
-          },
-          {
-            "panda_match_id": "1765302",
-            "type": "winner"
-          }
-        ]
       }
     }
   ],
