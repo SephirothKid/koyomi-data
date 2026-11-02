@@ -54250,7 +54250,7 @@
       "description": "9z vs BetBoom Team — IEM Beijing（北京时间）",
       "description_en": "9z vs BetBoom Team — IEM Beijing (CST)",
       "url": "https://www.youtube.com/watch?v=NbNK2IYGK2A",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-11-02",
       "verified_by": "official",
       "teams": {
@@ -54264,6 +54264,12 @@
           "code": "BetBoom Team",
           "name": "BetBoom Team"
         }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
       },
       "details": {
         "赛事": "IEM",
@@ -54284,7 +54290,7 @@
       "description": "FURIA vs FaZe — IEM Beijing（北京时间）",
       "description_en": "FURIA vs FaZe — IEM Beijing (CST)",
       "url": "https://kick.com/gaules",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-11-02",
       "verified_by": "official",
       "teams": {
@@ -54299,6 +54305,12 @@
           "name": "FaZe"
         }
       },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
       "details": {
         "赛事": "IEM",
         "赛季": "Beijing",
@@ -54311,14 +54323,14 @@
       "name": "IEM Beijing · Group B · MOUZ vs TYLOO",
       "name_en": "IEM Beijing · Group B · MOUZ vs TYLOO",
       "date": "2026-11-02",
-      "time": "18:20",
+      "time": "18:17",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "MOUZ vs TYLOO — IEM Beijing（北京时间）",
       "description_en": "MOUZ vs TYLOO — IEM Beijing (CST)",
-      "url": "https://www.twitch.tv/mgfongabe",
-      "status": "confirmed",
+      "url": "https://www.youtube.com/watch?v=QkeY3FbdwEg",
+      "status": "completed",
       "last_verified": "2026-11-02",
       "verified_by": "official",
       "teams": {
@@ -54333,6 +54345,12 @@
           "name": "TYLOO"
         }
       },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
       "details": {
         "赛事": "IEM",
         "赛季": "Beijing",
@@ -54345,14 +54363,14 @@
       "name": "IEM Beijing · Group A · Natus Vincere vs Team Falcons",
       "name_en": "IEM Beijing · Group A · Natus Vincere vs Team Falcons",
       "date": "2026-11-02",
-      "time": "19:00",
+      "time": "19:50",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "Natus Vincere vs Team Falcons — IEM Beijing（北京时间）",
       "description_en": "Natus Vincere vs Team Falcons — IEM Beijing (CST)",
       "url": "https://www.youtube.com/watch?v=WjkcbItqZTg",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-02",
       "verified_by": "official",
       "teams": {
@@ -54360,6 +54378,182 @@
           "id": "3216",
           "code": "Natus Vincere",
           "name": "Natus Vincere"
+        },
+        "home": {
+          "id": "130564",
+          "code": "Team Falcons",
+          "name": "Team Falcons"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "IEM",
+        "赛季": "Beijing",
+        "阶段": "Group A",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1781473",
+      "name": "IEM Beijing · Group B · Aurora Gaming vs G2",
+      "name_en": "IEM Beijing · Group B · Aurora Gaming vs G2",
+      "date": "2026-11-03",
+      "time": "10:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Aurora Gaming vs G2 — IEM Beijing（北京时间）",
+      "description_en": "Aurora Gaming vs G2 — IEM Beijing (CST)",
+      "url": "https://www.twitch.tv/peacemakerl",
+      "status": "confirmed",
+      "last_verified": "2026-11-02",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "131505",
+          "code": "Aurora Gaming",
+          "name": "Aurora Gaming"
+        },
+        "home": {
+          "id": "3210",
+          "code": "G2",
+          "name": "G2"
+        }
+      },
+      "details": {
+        "赛事": "IEM",
+        "赛季": "Beijing",
+        "阶段": "Group B",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1781470",
+      "name": "IEM Beijing · Group B · Liquid vs PARIVISION",
+      "name_en": "IEM Beijing · Group B · Liquid vs PARIVISION",
+      "date": "2026-11-03",
+      "time": "10:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Liquid vs PARIVISION — IEM Beijing（北京时间）",
+      "description_en": "Liquid vs PARIVISION — IEM Beijing (CST)",
+      "url": "https://www.twitch.tv/croissantstrike2",
+      "status": "confirmed",
+      "last_verified": "2026-11-02",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "3213",
+          "code": "Liquid",
+          "name": "Liquid"
+        },
+        "home": {
+          "id": "133719",
+          "code": "PARIVISION",
+          "name": "PARIVISION"
+        }
+      },
+      "details": {
+        "赛事": "IEM",
+        "赛季": "Beijing",
+        "阶段": "Group B",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1781472",
+      "name": "IEM Beijing · Group B · TYLOO vs 9z",
+      "name_en": "IEM Beijing · Group B · TYLOO vs 9z",
+      "date": "2026-11-03",
+      "time": "12:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "TYLOO vs 9z — IEM Beijing（北京时间）",
+      "description_en": "TYLOO vs 9z — IEM Beijing (CST)",
+      "url": "https://www.twitch.tv/bysl4m",
+      "status": "confirmed",
+      "last_verified": "2026-11-02",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "3248",
+          "code": "TYLOO",
+          "name": "TYLOO"
+        },
+        "home": {
+          "id": "126709",
+          "code": "9z",
+          "name": "9z"
+        }
+      },
+      "details": {
+        "赛事": "IEM",
+        "赛季": "Beijing",
+        "阶段": "Group B",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1781469",
+      "name": "IEM Beijing · Group B · MOUZ vs BetBoom Team",
+      "name_en": "IEM Beijing · Group B · MOUZ vs BetBoom Team",
+      "date": "2026-11-03",
+      "time": "12:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "MOUZ vs BetBoom Team — IEM Beijing（北京时间）",
+      "description_en": "MOUZ vs BetBoom Team — IEM Beijing (CST)",
+      "url": "https://www.twitch.tv/pelaajatcom",
+      "status": "confirmed",
+      "last_verified": "2026-11-02",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "3240",
+          "code": "MOUZ",
+          "name": "MOUZ"
+        },
+        "home": {
+          "id": "133458",
+          "code": "BetBoom Team",
+          "name": "BetBoom Team"
+        }
+      },
+      "details": {
+        "赛事": "IEM",
+        "赛季": "Beijing",
+        "阶段": "Group B",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1781465",
+      "name": "IEM Beijing · Group A · FaZe vs Team Falcons",
+      "name_en": "IEM Beijing · Group A · FaZe vs Team Falcons",
+      "date": "2026-11-03",
+      "time": "15:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "FaZe vs Team Falcons — IEM Beijing（北京时间）",
+      "description_en": "FaZe vs Team Falcons — IEM Beijing (CST)",
+      "url": "https://www.twitch.tv/bysl4m",
+      "status": "confirmed",
+      "last_verified": "2026-11-02",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "3212",
+          "code": "FaZe",
+          "name": "FaZe"
         },
         "home": {
           "id": "130564",
@@ -54375,11 +54569,45 @@
       }
     },
     {
+      "id": "cs2-2026-m1781461",
+      "name": "IEM Beijing · Group A · TheMongolz vs Heroic",
+      "name_en": "IEM Beijing · Group A · TheMongolz vs Heroic",
+      "date": "2026-11-03",
+      "time": "15:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "TheMongolz vs Heroic — IEM Beijing（北京时间）",
+      "description_en": "TheMongolz vs Heroic — IEM Beijing (CST)",
+      "url": "https://kick.com/x9nium",
+      "status": "confirmed",
+      "last_verified": "2026-11-02",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "3272",
+          "code": "TheMongolz",
+          "name": "TheMongolz"
+        },
+        "home": {
+          "id": "3246",
+          "code": "Heroic",
+          "name": "Heroic"
+        }
+      },
+      "details": {
+        "赛事": "IEM",
+        "赛季": "Beijing",
+        "阶段": "Group A",
+        "赛制": "BO3"
+      }
+    },
+    {
       "id": "cs2-2026-m1781464",
       "name": "IEM Beijing · Group A · Legacy vs B8",
       "name_en": "IEM Beijing · Group A · Legacy vs B8",
       "date": "2026-11-03",
-      "time": "10:00",
+      "time": "17:30",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -54409,104 +54637,36 @@
       }
     },
     {
-      "id": "cs2-2026-m1781461",
-      "name": "IEM Beijing · Group A · TheMongolz vs Heroic",
-      "name_en": "IEM Beijing · Group A · TheMongolz vs Heroic",
+      "id": "cs2-2026-m1781462",
+      "name": "IEM Beijing · Group A · FURIA vs Natus Vincere",
+      "name_en": "IEM Beijing · Group A · FURIA vs Natus Vincere",
       "date": "2026-11-03",
-      "time": "10:00",
+      "time": "17:30",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "TheMongolz vs Heroic — IEM Beijing（北京时间）",
-      "description_en": "TheMongolz vs Heroic — IEM Beijing (CST)",
+      "description": "FURIA vs Natus Vincere — IEM Beijing（北京时间）",
+      "description_en": "FURIA vs Natus Vincere — IEM Beijing (CST)",
       "url": "https://www.twitch.tv/ESLCSb",
       "status": "confirmed",
       "last_verified": "2026-11-02",
       "verified_by": "official",
       "teams": {
         "away": {
-          "id": "3272",
-          "code": "TheMongolz",
-          "name": "TheMongolz"
+          "id": "124530",
+          "code": "FURIA",
+          "name": "FURIA"
         },
         "home": {
-          "id": "3246",
-          "code": "Heroic",
-          "name": "Heroic"
+          "id": "3216",
+          "code": "Natus Vincere",
+          "name": "Natus Vincere"
         }
       },
       "details": {
         "赛事": "IEM",
         "赛季": "Beijing",
         "阶段": "Group A",
-        "赛制": "BO3"
-      }
-    },
-    {
-      "id": "cs2-2026-m1781473",
-      "name": "IEM Beijing · Group B · Aurora Gaming vs G2",
-      "name_en": "IEM Beijing · Group B · Aurora Gaming vs G2",
-      "date": "2026-11-03",
-      "time": "12:30",
-      "timezone": "Asia/Shanghai",
-      "type": "event",
-      "year": 2026,
-      "description": "Aurora Gaming vs G2 — IEM Beijing（北京时间）",
-      "description_en": "Aurora Gaming vs G2 — IEM Beijing (CST)",
-      "url": "https://www.twitch.tv/ESLCSb",
-      "status": "confirmed",
-      "last_verified": "2026-11-02",
-      "verified_by": "official",
-      "teams": {
-        "away": {
-          "id": "131505",
-          "code": "Aurora Gaming",
-          "name": "Aurora Gaming"
-        },
-        "home": {
-          "id": "3210",
-          "code": "G2",
-          "name": "G2"
-        }
-      },
-      "details": {
-        "赛事": "IEM",
-        "赛季": "Beijing",
-        "阶段": "Group B",
-        "赛制": "BO3"
-      }
-    },
-    {
-      "id": "cs2-2026-m1781470",
-      "name": "IEM Beijing · Group B · Liquid vs PARIVISION",
-      "name_en": "IEM Beijing · Group B · Liquid vs PARIVISION",
-      "date": "2026-11-03",
-      "time": "12:30",
-      "timezone": "Asia/Shanghai",
-      "type": "event",
-      "year": 2026,
-      "description": "Liquid vs PARIVISION — IEM Beijing（北京时间）",
-      "description_en": "Liquid vs PARIVISION — IEM Beijing (CST)",
-      "url": "https://www.twitch.tv/ESLCSb",
-      "status": "confirmed",
-      "last_verified": "2026-11-02",
-      "verified_by": "official",
-      "teams": {
-        "away": {
-          "id": "3213",
-          "code": "Liquid",
-          "name": "Liquid"
-        },
-        "home": {
-          "id": "133719",
-          "code": "PARIVISION",
-          "name": "PARIVISION"
-        }
-      },
-      "details": {
-        "赛事": "IEM",
-        "赛季": "Beijing",
-        "阶段": "Group B",
         "赛制": "BO3"
       }
     },
