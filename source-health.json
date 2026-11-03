@@ -13,8 +13,8 @@
     },
     "fgo": {
       "category": "gaming",
-      "checked_at": "2026-11-02",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-03",
+      "outcome": "updated"
     },
     "tw-public-holidays": {
       "category": "holidays",
@@ -186,27 +186,27 @@
     },
     "arknights": {
       "category": "gaming",
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-03",
       "outcome": "unchanged"
     },
     "cs2-tournaments": {
       "category": "gaming",
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-03",
       "outcome": "updated"
     },
     "epic-free": {
       "category": "gaming",
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-03",
       "outcome": "unchanged"
     },
     "kpl": {
       "category": "gaming",
-      "checked_at": "2026-11-02",
-      "outcome": "updated"
+      "checked_at": "2026-11-03",
+      "outcome": "unchanged"
     },
     "lpl": {
       "category": "gaming",
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-03",
       "outcome": "unchanged"
     },
     "console-showcases": {
@@ -216,34 +216,35 @@
     },
     "genshin-impact": {
       "category": "gaming",
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-03",
       "outcome": "unchanged"
     },
     "honkai-star-rail": {
       "category": "gaming",
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-03",
       "outcome": "unchanged"
     },
     "zenless-zone-zero": {
       "category": "gaming",
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-03",
       "outcome": "unchanged"
     },
     "rawg-releases": {
       "category": "gaming",
       "checked_at": "2026-11-02",
       "outcome": "skipped",
-      "last_error": "HTTP 522: https://api.rawg.io/api/games?key=***&dates=2026-11-02%2C2026-11-30&platforms=4%2C187%2C18%2C1%2C7%2C3%2C21&ordering=released&page_size=40&page=1"
+      "last_error": "HTTP 522: https://api.rawg.io/api/games?key=***&dates=2026-11-03%2C2026-11-30&platforms=4%2C187%2C18%2C1%2C7%2C3%2C21&ordering=released&page_size=40&page=1"
     },
     "steam-sales": {
       "category": "gaming",
-      "checked_at": "2026-11-02",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-03",
+      "outcome": "updated"
     },
     "wuthering-waves": {
       "category": "gaming",
       "checked_at": "2026-11-02",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/zh/ArticleMenu.json (fetch failed)"
     },
     "accounting-qualification": {
       "category": "exam",
