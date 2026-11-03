@@ -54570,7 +54570,7 @@
       "description": "FaZe vs Team Falcons — IEM Beijing（北京时间）",
       "description_en": "FaZe vs Team Falcons — IEM Beijing (CST)",
       "url": "https://www.youtube.com/watch?v=KZf_z4-h0xU",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-11-03",
       "verified_by": "official",
       "teams": {
@@ -54584,6 +54584,12 @@
           "code": "Team Falcons",
           "name": "Team Falcons"
         }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
       },
       "details": {
         "赛事": "IEM",
@@ -54604,7 +54610,7 @@
       "description": "TheMongolz vs Heroic — IEM Beijing（北京时间）",
       "description_en": "TheMongolz vs Heroic — IEM Beijing (CST)",
       "url": "https://kick.com/x9nium",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-11-03",
       "verified_by": "official",
       "teams": {
@@ -54619,6 +54625,12 @@
           "name": "Heroic"
         }
       },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
       "details": {
         "赛事": "IEM",
         "赛季": "Beijing",
@@ -54631,14 +54643,14 @@
       "name": "IEM Beijing · Group A · FURIA vs Natus Vincere",
       "name_en": "IEM Beijing · Group A · FURIA vs Natus Vincere",
       "date": "2026-11-03",
-      "time": "18:00",
+      "time": "18:14",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "FURIA vs Natus Vincere — IEM Beijing（北京时间）",
       "description_en": "FURIA vs Natus Vincere — IEM Beijing (CST)",
       "url": "https://www.twitch.tv/bysl4m",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-03",
       "verified_by": "official",
       "teams": {
@@ -54653,6 +54665,12 @@
           "name": "Natus Vincere"
         }
       },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
       "details": {
         "赛事": "IEM",
         "赛季": "Beijing",
@@ -54665,14 +54683,14 @@
       "name": "IEM Beijing · Group A · Legacy vs B8",
       "name_en": "IEM Beijing · Group A · Legacy vs B8",
       "date": "2026-11-03",
-      "time": "18:15",
+      "time": "19:04",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "Legacy vs B8 — IEM Beijing（北京时间）",
       "description_en": "Legacy vs B8 — IEM Beijing (CST)",
       "url": "https://www.youtube.com/watch?v=MBJT33vOjV0",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-03",
       "verified_by": "official",
       "teams": {
@@ -54687,6 +54705,12 @@
           "name": "B8"
         }
       },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
       "details": {
         "赛事": "IEM",
         "赛季": "Beijing",
@@ -54699,7 +54723,7 @@
       "name": "IEM Beijing · Group B · BetBoom Team vs Aurora Gaming",
       "name_en": "IEM Beijing · Group B · BetBoom Team vs Aurora Gaming",
       "date": "2026-11-04",
-      "time": "12:30",
+      "time": "10:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -54733,7 +54757,7 @@
       "name": "IEM Beijing · Group B · Liquid vs TYLOO",
       "name_en": "IEM Beijing · Group B · Liquid vs TYLOO",
       "date": "2026-11-04",
-      "time": "12:30",
+      "time": "10:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -54763,11 +54787,79 @@
       }
     },
     {
+      "id": "cs2-2026-m1781467",
+      "name": "IEM Beijing · Group A · Heroic vs Team Falcons",
+      "name_en": "IEM Beijing · Group A · Heroic vs Team Falcons",
+      "date": "2026-11-04",
+      "time": "12:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Heroic vs Team Falcons — IEM Beijing（北京时间）",
+      "description_en": "Heroic vs Team Falcons — IEM Beijing (CST)",
+      "url": "https://www.twitch.tv/ESLCSb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "3246",
+          "code": "Heroic",
+          "name": "Heroic"
+        },
+        "home": {
+          "id": "130564",
+          "code": "Team Falcons",
+          "name": "Team Falcons"
+        }
+      },
+      "details": {
+        "赛事": "IEM",
+        "赛季": "Beijing",
+        "阶段": "Group A",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1781466",
+      "name": "IEM Beijing · Group A · Natus Vincere vs B8",
+      "name_en": "IEM Beijing · Group A · Natus Vincere vs B8",
+      "date": "2026-11-04",
+      "time": "12:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Natus Vincere vs B8 — IEM Beijing（北京时间）",
+      "description_en": "Natus Vincere vs B8 — IEM Beijing (CST)",
+      "url": "https://www.twitch.tv/ESLCSb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "3216",
+          "code": "Natus Vincere",
+          "name": "Natus Vincere"
+        },
+        "home": {
+          "id": "129381",
+          "code": "B8",
+          "name": "B8"
+        }
+      },
+      "details": {
+        "赛事": "IEM",
+        "赛季": "Beijing",
+        "阶段": "Group A",
+        "赛制": "BO3"
+      }
+    },
+    {
       "id": "cs2-2026-m1781471",
       "name": "IEM Beijing · Group B · MOUZ vs PARIVISION",
       "name_en": "IEM Beijing · Group B · MOUZ vs PARIVISION",
       "date": "2026-11-04",
-      "time": "17:30",
+      "time": "15:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -54793,6 +54885,40 @@
         "赛事": "IEM",
         "赛季": "Beijing",
         "阶段": "Group B",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1781463",
+      "name": "IEM Beijing · Group A · TheMongolz vs FURIA",
+      "name_en": "IEM Beijing · Group A · TheMongolz vs FURIA",
+      "date": "2026-11-04",
+      "time": "17:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "TheMongolz vs FURIA — IEM Beijing（北京时间）",
+      "description_en": "TheMongolz vs FURIA — IEM Beijing (CST)",
+      "url": "https://www.twitch.tv/ESLCSb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "3272",
+          "code": "TheMongolz",
+          "name": "TheMongolz"
+        },
+        "home": {
+          "id": "124530",
+          "code": "FURIA",
+          "name": "FURIA"
+        }
+      },
+      "details": {
+        "赛事": "IEM",
+        "赛季": "Beijing",
+        "阶段": "Group A",
         "赛制": "BO3"
       }
     },
@@ -54930,6 +55056,278 @@
         "赛季": "2026",
         "阶段": "Group B",
         "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1789260",
+      "name": "PGL Major 新加坡 · Stage 1 · Liquid vs BC.Game Esports",
+      "name_en": "PGL Major Singapore · Stage 1 · Liquid vs BC.Game Esports",
+      "date": "2026-11-24",
+      "time": "17:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Liquid vs BC.Game Esports — PGL Major 新加坡（北京时间）",
+      "description_en": "Liquid vs BC.Game Esports — PGL Major Singapore (CST)",
+      "url": "https://www.twitch.tv/pgl_cs2",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "3213",
+          "code": "Liquid",
+          "name": "Liquid"
+        },
+        "home": {
+          "id": "135177",
+          "code": "BC.Game Esports",
+          "name": "BC.Game Esports"
+        }
+      },
+      "details": {
+        "赛事": "PGL Major",
+        "赛季": "新加坡",
+        "阶段": "Stage 1",
+        "赛制": "BO1"
+      }
+    },
+    {
+      "id": "cs2-2026-m1789259",
+      "name": "PGL Major 新加坡 · Stage 1 · PARIVISION vs DENDELE CS",
+      "name_en": "PGL Major Singapore · Stage 1 · PARIVISION vs DENDELE CS",
+      "date": "2026-11-24",
+      "time": "17:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "PARIVISION vs DENDELE CS — PGL Major 新加坡（北京时间）",
+      "description_en": "PARIVISION vs DENDELE CS — PGL Major Singapore (CST)",
+      "url": "https://www.twitch.tv/pgl_cs2",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "133719",
+          "code": "PARIVISION",
+          "name": "PARIVISION"
+        },
+        "home": {
+          "id": "138988",
+          "code": "DENDELE CS",
+          "name": "DENDELE CS"
+        }
+      },
+      "details": {
+        "赛事": "PGL Major",
+        "赛季": "新加坡",
+        "阶段": "Stage 1",
+        "赛制": "BO1"
+      }
+    },
+    {
+      "id": "cs2-2026-m1789258",
+      "name": "PGL Major 新加坡 · Stage 1 · NIP vs M80",
+      "name_en": "PGL Major Singapore · Stage 1 · NIP vs M80",
+      "date": "2026-11-24",
+      "time": "17:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "NIP vs M80 — PGL Major 新加坡（北京时间）",
+      "description_en": "NIP vs M80 — PGL Major Singapore (CST)",
+      "url": "https://www.twitch.tv/pgl_cs2",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "3218",
+          "code": "NIP",
+          "name": "NIP"
+        },
+        "home": {
+          "id": "133435",
+          "code": "M80",
+          "name": "M80"
+        }
+      },
+      "details": {
+        "赛事": "PGL Major",
+        "赛季": "新加坡",
+        "阶段": "Stage 1",
+        "赛制": "BO1"
+      }
+    },
+    {
+      "id": "cs2-2026-m1789257",
+      "name": "PGL Major 新加坡 · Stage 1 · Heroic vs Imperial",
+      "name_en": "PGL Major Singapore · Stage 1 · Heroic vs Imperial",
+      "date": "2026-11-24",
+      "time": "17:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Heroic vs Imperial — PGL Major 新加坡（北京时间）",
+      "description_en": "Heroic vs Imperial — PGL Major Singapore (CST)",
+      "url": "https://www.twitch.tv/pgl_cs2",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "3246",
+          "code": "Heroic",
+          "name": "Heroic"
+        },
+        "home": {
+          "id": "126377",
+          "code": "Imperial",
+          "name": "Imperial"
+        }
+      },
+      "details": {
+        "赛事": "PGL Major",
+        "赛季": "新加坡",
+        "阶段": "Stage 1",
+        "赛制": "BO1"
+      }
+    },
+    {
+      "id": "cs2-2026-m1789256",
+      "name": "PGL Major 新加坡 · Stage 1 · FaZe vs Wildcard",
+      "name_en": "PGL Major Singapore · Stage 1 · FaZe vs Wildcard",
+      "date": "2026-11-24",
+      "time": "17:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "FaZe vs Wildcard — PGL Major 新加坡（北京时间）",
+      "description_en": "FaZe vs Wildcard — PGL Major Singapore (CST)",
+      "url": "https://www.twitch.tv/pgl_cs2",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "3212",
+          "code": "FaZe",
+          "name": "FaZe"
+        },
+        "home": {
+          "id": "135273",
+          "code": "Wildcard",
+          "name": "Wildcard"
+        }
+      },
+      "details": {
+        "赛事": "PGL Major",
+        "赛季": "新加坡",
+        "阶段": "Stage 1",
+        "赛制": "BO1"
+      }
+    },
+    {
+      "id": "cs2-2026-m1789255",
+      "name": "PGL Major 新加坡 · Stage 1 · Eternal Fire vs FlyQuest",
+      "name_en": "PGL Major Singapore · Stage 1 · Eternal Fire vs FlyQuest",
+      "date": "2026-11-24",
+      "time": "17:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Eternal Fire vs FlyQuest — PGL Major 新加坡（北京时间）",
+      "description_en": "Eternal Fire vs FlyQuest — PGL Major Singapore (CST)",
+      "url": "https://www.twitch.tv/pgl_cs2",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "129413",
+          "code": "Eternal Fire",
+          "name": "Eternal Fire"
+        },
+        "home": {
+          "id": "134746",
+          "code": "FlyQuest",
+          "name": "FlyQuest"
+        }
+      },
+      "details": {
+        "赛事": "PGL Major",
+        "赛季": "新加坡",
+        "阶段": "Stage 1",
+        "赛制": "BO1"
+      }
+    },
+    {
+      "id": "cs2-2026-m1789254",
+      "name": "PGL Major 新加坡 · Stage 1 · 9z vs Lynn Vision",
+      "name_en": "PGL Major Singapore · Stage 1 · 9z vs Lynn Vision",
+      "date": "2026-11-24",
+      "time": "17:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "9z vs Lynn Vision — PGL Major 新加坡（北京时间）",
+      "description_en": "9z vs Lynn Vision — PGL Major Singapore (CST)",
+      "url": "https://www.twitch.tv/pgl_cs2",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "126709",
+          "code": "9z",
+          "name": "9z"
+        },
+        "home": {
+          "id": "126439",
+          "code": "Lynn Vision",
+          "name": "Lynn Vision"
+        }
+      },
+      "details": {
+        "赛事": "PGL Major",
+        "赛季": "新加坡",
+        "阶段": "Stage 1",
+        "赛制": "BO1"
+      }
+    },
+    {
+      "id": "cs2-2026-m1789253",
+      "name": "PGL Major 新加坡 · Stage 1 · 100 Thieves vs Chinggis Warriors",
+      "name_en": "PGL Major Singapore · Stage 1 · 100 Thieves vs Chinggis Warriors",
+      "date": "2026-11-24",
+      "time": "17:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "100 Thieves vs Chinggis Warriors — PGL Major 新加坡（北京时间）",
+      "description_en": "100 Thieves vs Chinggis Warriors — PGL Major Singapore (CST)",
+      "url": "https://www.twitch.tv/pgl_cs2",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "126452",
+          "code": "100 Thieves",
+          "name": "100 Thieves"
+        },
+        "home": {
+          "id": "134264",
+          "code": "Chinggis Warriors",
+          "name": "Chinggis Warriors"
+        }
+      },
+      "details": {
+        "赛事": "PGL Major",
+        "赛季": "新加坡",
+        "阶段": "Stage 1",
+        "赛制": "BO1"
       }
     }
   ],

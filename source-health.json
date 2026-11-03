@@ -202,12 +202,13 @@
     "kpl": {
       "category": "gaming",
       "checked_at": "2026-11-03",
-      "outcome": "unchanged"
+      "outcome": "updated"
     },
     "lpl": {
       "category": "gaming",
       "checked_at": "2026-11-03",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: https://api.pandascore.co/lol/matches?filter%5Bleague_id%5D=294&range%5Bbegin_at%5D=2026-01-01%2C2099-12-31&page%5Bnumber%5D=1&page%5Bsize%5D=100&sort=begin_at"
     },
     "console-showcases": {
       "category": "gaming",
@@ -238,13 +239,12 @@
     "steam-sales": {
       "category": "gaming",
       "checked_at": "2026-11-03",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "wuthering-waves": {
       "category": "gaming",
-      "checked_at": "2026-11-02",
-      "outcome": "skipped",
-      "last_error": "fetch failed: https://media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/zh/ArticleMenu.json (fetch failed)"
+      "checked_at": "2026-11-03",
+      "outcome": "unchanged"
     },
     "accounting-qualification": {
       "category": "exam",
