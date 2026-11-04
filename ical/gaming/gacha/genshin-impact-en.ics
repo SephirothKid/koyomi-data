@@ -8,4 +8,24 @@ X-WR-CALDESC:Genshin Impact updates, banners, and events parsed from offic
  ial announcements only.
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:genshin-impact-genshin-impact-2026-167205-maintenance@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261104T060000
+DTEND;TZID=Asia/Shanghai:20261104T110000
+SUMMARY:Genshin Impact Version Calendar · Genshin Impact · "Hour of Ruin
+ " Version 7.2 Update Details
+DESCRIPTION:Below are the details of the Version 7.2 update "Hour of Ruin"
+  and the update compensation.\n\nVersion: 7.2\nType: maintenance\nOfficial
+  source: 「坏灭肇始之时」7.2版本更新说明\n\nofficial_time: 2
+ 026-11-04 06:00 – 2026-11-04 11:00\nofficial_notice: "Hour of Ruin" Vers
+ ion 7.2 Update Details\nEnglish source: https://genshin.hoyoverse.com/en/n
+ ews/detail/167187\nEnglish source ID: 167187\nEnglish original title: "Hou
+ r of Ruin" Version 7.2 Update Details\nEnglish name status: official annou
+ ncement\; mainland timing preserved
+CATEGORIES:Genshin Impact Version Calendar
+URL;VALUE=URI:https://ys.mihoyo.com/main/news/detail/167205
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR

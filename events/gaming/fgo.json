@@ -30,7 +30,7 @@
     {
       "id": "fgo-2025-FateSamuraiRemnantFa-activity",
       "name": "FGO 「Fate/Samurai Remnant×Fate/Grand Order联动活动」开幕前夕纪念活动",
-      "name_en": "FGO 「Fate/Samurai Remnant×Fate/Grand Order联动活动」开幕前夕纪念活动",
+      "name_en": "FGO Fate/Samurai Remnant×Fate/Grand Order Collaboration Event Pre-Release Campaign",
       "date": "2025-01-09",
       "end_date": "2025-01-16",
       "time": "19:00",
@@ -40,22 +40,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「「Fate/Samurai Remnant×Fate/Grand Order联动活动」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「Fate/Samurai Remnant×Fate/Grand Order联动活动」开幕前夕纪念活动」.",
+      "description_en": "FGO Fate/Samurai Remnant×Fate/Grand Order Collaboration Event Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「Fate/Samurai Remnant×Fate/Grand Order联动活动」开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-盈月剑风帖-activity",
       "name": "FGO 盈月剑风帖",
-      "name_en": "FGO 盈月剑风帖",
+      "name_en": "FGO Waxing Moon Chronicles",
       "date": "2025-01-16",
       "end_date": "2025-02-06",
       "time": "19:00",
@@ -65,22 +69,30 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「盈月剑风帖」。",
-      "description_en": "FGO Event「盈月剑风帖」.",
+      "description_en": "FGO CN-server event: Waxing Moon Chronicles.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "盈月剑风帖"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "upstream game data",
+        "English source": "https://api.atlasacademy.io/basic/NA/event/80457",
+        "English source ID": "80457",
+        "English original title": "Waxing Moon Chronicles",
+        "CN identity source": "https://api.atlasacademy.io/basic/CN/event/80457"
       }
     },
     {
       "id": "fgo-2025-新春庆贺活动-activity",
       "name": "FGO 新春庆贺活动",
-      "name_en": "FGO 新春庆贺活动",
+      "name_en": "FGO Lunar New Year Celebration",
       "date": "2025-01-27",
       "end_date": "2025-02-06",
       "time": "14:00",
@@ -90,22 +102,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「新春庆贺活动」。",
-      "description_en": "FGO Event「新春庆贺活动」.",
+      "description_en": "FGO Lunar New Year Celebration.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "新春庆贺活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-巡灵的祝祭第7弹-activity",
       "name": "FGO 巡灵的祝祭 第7弹",
-      "name_en": "FGO 巡灵的祝祭 第7弹",
+      "name_en": "FGO Evocation Festival Part 7",
       "date": "2025-01-31",
       "end_date": "2025-02-13",
       "time": "19:00",
@@ -115,22 +131,25 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「巡灵的祝祭 第7弹」。",
-      "description_en": "FGO Event「巡灵的祝祭 第7弹」.",
+      "description_en": "FGO Evocation Festival Part 7.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "巡灵的祝祭 第7弹"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-OrdealCall新任务开放纪念活动第-activity",
       "name": "FGO Ordeal Call:新任务开放纪念活动 第5弹",
-      "name_en": "FGO Ordeal Call:新任务开放纪念活动 第5弹",
       "date": "2025-02-06",
       "end_date": "2025-02-13",
       "time": "19:00",
@@ -140,22 +159,27 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「Ordeal Call:新任务开放纪念活动 第5弹」。",
-      "description_en": "FGO Event「Ordeal Call:新任务开放纪念活动 第5弹」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "Ordeal Call:新任务开放纪念活动 第5弹"
+      },
+      "name_en": "FGO Ordeal Call: New Mission Release Campaign Part 5",
+      "description_en": "FGO Ordeal Call: New Mission Release Campaign Part 5.",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-情人节2025开幕前夕纪念活动-activity",
       "name": "FGO 「情人节2025」开幕前夕纪念活动",
-      "name_en": "FGO 「情人节2025」开幕前夕纪念活动",
+      "name_en": "FGO Valentine 2025 Pre-Release Campaign",
       "date": "2025-02-06",
       "end_date": "2025-02-13",
       "time": "19:00",
@@ -165,22 +189,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「「情人节2025」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「情人节2025」开幕前夕纪念活动」.",
+      "description_en": "FGO Valentine 2025 Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「情人节2025」开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-情人节2025前往巧克力之河的尽头-activity",
       "name": "FGO 情人节2025 ～前往巧克力之河的尽头～",
-      "name_en": "FGO 情人节2025 ～前往巧克力之河的尽头～",
+      "name_en": "FGO Valentine's 2025 - Beyond the River of Chocolate",
       "date": "2025-02-13",
       "end_date": "2025-03-06",
       "time": "19:00",
@@ -190,22 +218,30 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「情人节2025 ～前往巧克力之河的尽头～」。",
-      "description_en": "FGO Event「情人节2025 ～前往巧克力之河的尽头～」.",
+      "description_en": "FGO CN-server event: Valentine's 2025 - Beyond the River of Chocolate.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "情人节2025 ～前往巧克力之河的尽头～"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "upstream game data",
+        "English source": "https://api.atlasacademy.io/basic/NA/event/80460",
+        "English source ID": "80460",
+        "English original title": "Valentine's 2026 - Beyond the River of Chocolate",
+        "CN identity source": "https://api.atlasacademy.io/basic/CN/event/80460"
       }
     },
     {
       "id": "fgo-2025-奏章开幕前夕纪念活动-activity",
       "name": "FGO 「奏章Ⅱ」开幕前夕纪念活动",
-      "name_en": "FGO 「奏章Ⅱ」开幕前夕纪念活动",
+      "name_en": "FGO Ordeal Call Ⅱ Pre-Release Campaign",
       "date": "2025-02-27",
       "end_date": "2025-03-31",
       "time": "19:00",
@@ -215,22 +251,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「「奏章Ⅱ」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「奏章Ⅱ」开幕前夕纪念活动」.",
+      "description_en": "FGO Ordeal Call Ⅱ Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「奏章Ⅱ」开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-CBC2025查理曼的蒙茹瓦骑士道-activity",
       "name": "FGO CBC2025 查理曼的蒙茹瓦骑士道！",
-      "name_en": "FGO CBC2025 查理曼的蒙茹瓦骑士道！",
+      "name_en": "FGO CBC 2025 Charlemagne's Chivalrous Montjoie!",
       "date": "2025-03-06",
       "end_date": "2025-03-27",
       "time": "19:00",
@@ -240,22 +280,30 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「CBC2025 查理曼的蒙茹瓦骑士道！」。",
-      "description_en": "FGO Event「CBC2025 查理曼的蒙茹瓦骑士道！」.",
+      "description_en": "FGO CN-server event: CBC 2025 Charlemagne's Chivalrous Montjoie!.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "CBC2025 查理曼的蒙茹瓦骑士道！"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "upstream game data",
+        "English source": "https://api.atlasacademy.io/basic/NA/event/80462",
+        "English source ID": "80462",
+        "English original title": "CBC 2026 Charlemagne's Chivalrous Montjoie!",
+        "CN identity source": "https://api.atlasacademy.io/basic/CN/event/80462"
       }
     },
     {
       "id": "fgo-2025-迦勒底男性精选2025-activity",
       "name": "FGO 迦勒底男性精选2025",
-      "name_en": "FGO 迦勒底男性精选2025",
+      "name_en": "FGO Chaldea Boys Collection 2025",
       "date": "2025-03-06",
       "end_date": "2025-03-27",
       "time": "19:00",
@@ -265,22 +313,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「迦勒底男性精选2025」。",
-      "description_en": "FGO Event「迦勒底男性精选2025」.",
+      "description_en": "FGO Chaldea Boys Collection 2025.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "迦勒底男性精选2025"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-上线3100日纪念活动-activity",
       "name": "FGO 上线3100日纪念活动",
-      "name_en": "FGO 上线3100日纪念活动",
+      "name_en": "FGO 3100 Days Since Launch Celebration Campaign",
       "date": "2025-03-26",
       "end_date": "2025-03-27",
       "time": "04:00",
@@ -290,22 +342,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「上线3100日纪念活动」。",
-      "description_en": "FGO Event「上线3100日纪念活动」.",
+      "description_en": "FGO 3100 Days Since Launch Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "上线3100日纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-FateGrandOrder春之新人御主-activity",
       "name": "FGO Fate/Grand Order 春之新人御主应援纪念活动2025！",
-      "name_en": "FGO Fate/Grand Order 春之新人御主应援纪念活动2025！",
+      "name_en": "FGO Fate/Grand Order Spring New Master Support Campaign2025!",
       "date": "2025-03-29",
       "end_date": "2025-05-01",
       "time": "19:00",
@@ -315,22 +371,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「Fate/Grand Order 春之新人御主应援纪念活动2025！」。",
-      "description_en": "FGO Event「Fate/Grand Order 春之新人御主应援纪念活动2025！」.",
+      "description_en": "FGO Fate/Grand Order Spring New Master Support Campaign2025!.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "Fate/Grand Order 春之新人御主应援纪念活动2025！"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-FateFinalJourney发行纪念-activity",
       "name": "FGO 「Fate/Final Journey」发行纪念活动",
-      "name_en": "FGO 「Fate/Final Journey」发行纪念活动",
+      "name_en": "FGO Fate/Final Journey Release Celebration Campaign",
       "date": "2025-04-01",
       "end_date": "2025-04-02",
       "time": "00:00",
@@ -340,22 +400,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「「Fate/Final Journey」发行纪念活动」。",
-      "description_en": "FGO Event「「Fate/Final Journey」发行纪念活动」.",
+      "description_en": "FGO Fate/Final Journey Release Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「Fate/Final Journey」发行纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-巡灵的祝祭第8弹-activity",
       "name": "FGO 巡灵的祝祭 第8弹",
-      "name_en": "FGO 巡灵的祝祭 第8弹",
+      "name_en": "FGO Evocation Festival Part 8",
       "date": "2025-04-03",
       "end_date": "2025-04-17",
       "time": "19:00",
@@ -365,22 +429,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「巡灵的祝祭 第8弹」。",
-      "description_en": "FGO Event「巡灵的祝祭 第8弹」.",
+      "description_en": "FGO Evocation Festival Part 8.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "巡灵的祝祭 第8弹"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-春之战力增强活动-activity",
       "name": "FGO 春之战力增强活动",
-      "name_en": "FGO 春之战力增强活动",
+      "name_en": "FGO Spring Strengthening Campaign",
       "date": "2025-04-10",
       "end_date": "2025-04-24",
       "time": "19:00",
@@ -390,22 +458,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「春之战力增强活动」。",
-      "description_en": "FGO Event「春之战力增强活动」.",
+      "description_en": "FGO Spring Strengthening Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "春之战力增强活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-魔法使之夜FateGrandOrder联-activity",
       "name": "FGO 「魔法使之夜×Fate/Grand Order联动活动」开幕前夕纪念活动",
-      "name_en": "FGO 「魔法使之夜×Fate/Grand Order联动活动」开幕前夕纪念活动",
+      "name_en": "FGO Witch on the Holy Night×Fate/Grand Order Collaboration Event Pre-Release Campaign",
       "date": "2025-04-17",
       "end_date": "2025-05-01",
       "time": "19:00",
@@ -415,22 +487,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「「魔法使之夜×Fate/Grand Order联动活动」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「魔法使之夜×Fate/Grand Order联动活动」开幕前夕纪念活动」.",
+      "description_en": "FGO Witch on the Holy Night×Fate/Grand Order Collaboration Event Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「魔法使之夜×Fate/Grand Order联动活动」开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-魔法使之夜AfterNight隈乃温泉杀-activity",
       "name": "FGO 魔法使之夜 After Night／隈乃温泉杀人事件 ～知更鸟目击！ 魔法使两度死亡～",
-      "name_en": "FGO 魔法使之夜 After Night／隈乃温泉杀人事件 ～知更鸟目击！ 魔法使两度死亡～",
+      "name_en": "FGO After Witch on the Holy Night/Murder at the Kumano Hot Springs - The Robin Saw It! Magicians Only Live Twice",
       "date": "2025-04-24",
       "end_date": "2025-05-15",
       "time": "19:00",
@@ -440,22 +516,30 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「魔法使之夜 After Night／隈乃温泉杀人事件 ～知更鸟目击！ 魔法使两度死亡～」。",
-      "description_en": "FGO Event「魔法使之夜 After Night／隈乃温泉杀人事件 ～知更鸟目击！ 魔法使两度死亡～」.",
+      "description_en": "FGO CN-server event: After Witch on the Holy Night/Murder at the Kumano Hot Springs - The Robin Saw It! Magicians Only Live Twice.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "魔法使之夜 After Night／隈乃温泉杀人事件 ～知更鸟目击！ 魔法使两度死亡～"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "upstream game data",
+        "English source": "https://api.atlasacademy.io/basic/NA/event/80472",
+        "English source ID": "80472",
+        "English original title": "After Witch on the Holy Night/Murder at the Kumano Hot Springs\n- The Robin Saw It! Magicians Only Live Twice",
+        "CN identity source": "https://api.atlasacademy.io/basic/CN/event/80472"
       }
     },
     {
       "id": "fgo-2025-复刻版活动开幕纪念活动-activity",
       "name": "FGO 复刻版活动开幕纪念活动",
-      "name_en": "FGO 复刻版活动开幕纪念活动",
+      "name_en": "FGO Rerun Event Launch Campaign",
       "date": "2025-05-15",
       "end_date": "2025-06-26",
       "time": "19:00",
@@ -465,22 +549,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「复刻版活动开幕纪念活动」。",
-      "description_en": "FGO Event「复刻版活动开幕纪念活动」.",
+      "description_en": "FGO Rerun Event Launch Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "复刻版活动开幕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-迦勒底夏日冒险追梦少年与怀梦少女复刻版-activity",
       "name": "FGO 迦勒底·夏日冒险！ ～追梦少年与怀梦少女～ 复刻版",
-      "name_en": "FGO 迦勒底·夏日冒险！ ～追梦少年与怀梦少女～ 复刻版",
+      "name_en": "FGO Revival: Chaldea Summer Adventure! A Boy Pursuing Dreams and a Girl Who Dreams",
       "date": "2025-05-15",
       "end_date": "2025-06-05",
       "time": "19:00",
@@ -490,22 +578,30 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「迦勒底·夏日冒险！ ～追梦少年与怀梦少女～ 复刻版」。",
-      "description_en": "FGO Event「迦勒底·夏日冒险！ ～追梦少年与怀梦少女～ 复刻版」.",
+      "description_en": "FGO CN-server event: Revival: Chaldea Summer Adventure! A Boy Pursuing Dreams and a Girl Who Dreams.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "迦勒底·夏日冒险！ ～追梦少年与怀梦少女～ 复刻版"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "upstream game data",
+        "English source": "https://api.atlasacademy.io/basic/NA/event/80474",
+        "English source ID": "80474",
+        "English original title": "Revival: Chaldea Summer Adventure! A Boy Pursuing Dreams and a Girl Who Dreams",
+        "CN identity source": "https://api.atlasacademy.io/basic/CN/event/80474"
       }
     },
     {
       "id": "fgo-2025-幕间物语活动第19弹-activity",
       "name": "FGO 幕间物语活动 第19弹",
-      "name_en": "FGO 幕间物语活动 第19弹",
+      "name_en": "FGO Interlude Campaign Part 19",
       "date": "2025-05-29",
       "end_date": "2025-06-05",
       "time": "19:00",
@@ -515,22 +611,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「幕间物语活动 第19弹」。",
-      "description_en": "FGO Event「幕间物语活动 第19弹」.",
+      "description_en": "FGO Interlude Campaign Part 19.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "幕间物语活动 第19弹"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-泳装活动2025参加条件通关应援纪念活动-activity",
       "name": "FGO 「泳装活动2025」参加条件通关应援纪念活动",
-      "name_en": "FGO 「泳装活动2025」参加条件通关应援纪念活动",
+      "name_en": "FGO Summer Event 2025 Entry Requirement Support Campaign",
       "date": "2025-05-29",
       "end_date": "2025-06-28",
       "time": "19:00",
@@ -540,22 +640,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「「泳装活动2025」参加条件通关应援纪念活动」。",
-      "description_en": "FGO Event「「泳装活动2025」参加条件通关应援纪念活动」.",
+      "description_en": "FGO Summer Event 2025 Entry Requirement Support Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「泳装活动2025」参加条件通关应援纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-螺旋证明世界LilimHarlot无人喝-activity",
       "name": "FGO 螺旋证明世界 Lilim Harlot ～无人喝彩的蔷薇～ 复刻版",
-      "name_en": "FGO 螺旋证明世界 Lilim Harlot ～无人喝彩的蔷薇～ 复刻版",
+      "name_en": "FGO Revival: Spiral Proof World, Lilim Harlot - A Rose Without Ovation",
       "date": "2025-06-05",
       "end_date": "2025-06-26",
       "time": "19:00",
@@ -565,16 +669,24 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「螺旋证明世界 Lilim Harlot ～无人喝彩的蔷薇～ 复刻版」。",
-      "description_en": "FGO Event「螺旋证明世界 Lilim Harlot ～无人喝彩的蔷薇～ 复刻版」.",
+      "description_en": "FGO CN-server event: Revival: Spiral Proof World, Lilim Harlot - A Rose Without Ovation.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "螺旋证明世界 Lilim Harlot ～无人喝彩的蔷薇～ 复刻版"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "upstream game data",
+        "English source": "https://api.atlasacademy.io/basic/NA/event/80476",
+        "English source ID": "80476",
+        "English original title": "Revival: Spiral Proof World, Lilim Harlot - A Rose Without Ovation",
+        "CN identity source": "https://api.atlasacademy.io/basic/CN/event/80476"
       }
     },
     {
@@ -605,7 +717,7 @@
     {
       "id": "fgo-2025-幕间物语活动第20弹-activity",
       "name": "FGO 幕间物语活动 第20弹",
-      "name_en": "FGO 幕间物语活动 第20弹",
+      "name_en": "FGO Interlude Campaign Part 20",
       "date": "2025-06-19",
       "end_date": "2025-06-26",
       "time": "19:00",
@@ -615,22 +727,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「幕间物语活动 第20弹」。",
-      "description_en": "FGO Event「幕间物语活动 第20弹」.",
+      "description_en": "FGO Interlude Campaign Part 20.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "幕间物语活动 第20弹"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-舞动龙宫深海公主与两枚宝玉开幕前夕纪念活-activity",
       "name": "FGO 「舞动龙宫！ ～深海公主与两枚宝玉～」开幕前夕纪念活动",
-      "name_en": "FGO 「舞动龙宫！ ～深海公主与两枚宝玉～」开幕前夕纪念活动",
+      "name_en": "FGO Dancing Dragon Palace — Princess of the Deep and Two Jewels Pre-Release Campaign",
       "date": "2025-06-19",
       "end_date": "2025-07-03",
       "time": "19:00",
@@ -640,16 +756,20 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「「舞动龙宫！ ～深海公主与两枚宝玉～」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「舞动龙宫！ ～深海公主与两枚宝玉～」开幕前夕纪念活动」.",
+      "description_en": "FGO Dancing Dragon Palace — Princess of the Deep and Two Jewels Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「舞动龙宫！ ～深海公主与两枚宝玉～」开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -705,7 +825,7 @@
     {
       "id": "fgo-2025-舞动龙宫深海公主与两枚宝玉-activity",
       "name": "FGO 舞动龙宫！ ～深海公主与两枚宝玉～",
-      "name_en": "FGO 舞动龙宫！ ～深海公主与两枚宝玉～",
+      "name_en": "FGO The Dancing Dragon Castle! The Princess in the Deep Sea and The Two Gems",
       "date": "2025-06-26",
       "end_date": "2025-07-17",
       "time": "19:00",
@@ -715,16 +835,24 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「舞动龙宫！ ～深海公主与两枚宝玉～」。",
-      "description_en": "FGO Event「舞动龙宫！ ～深海公主与两枚宝玉～」.",
+      "description_en": "FGO CN-server event: The Dancing Dragon Castle! The Princess in the Deep Sea and The Two Gems.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "舞动龙宫！ ～深海公主与两枚宝玉～"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "upstream game data",
+        "English source": "https://api.atlasacademy.io/basic/NA/event/80480",
+        "English source ID": "80480",
+        "English original title": "The Dancing Dragon Castle! The Princess in the Deep Sea and The Two Gems",
+        "CN identity source": "https://api.atlasacademy.io/basic/CN/event/80480"
       }
     },
     {
@@ -780,7 +908,7 @@
     {
       "id": "fgo-2025-上线3200日纪念活动-activity",
       "name": "FGO 上线3200日纪念活动",
-      "name_en": "FGO 上线3200日纪念活动",
+      "name_en": "FGO 3200 Days Since Launch Celebration Campaign",
       "date": "2025-07-04",
       "end_date": "2025-07-05",
       "time": "04:00",
@@ -790,16 +918,20 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「上线3200日纪念活动」。",
-      "description_en": "FGO Event「上线3200日纪念活动」.",
+      "description_en": "FGO 3200 Days Since Launch Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "上线3200日纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -830,7 +962,7 @@
     {
       "id": "fgo-2025-泳装活动2025参加条件完成应援纪念活动-activity",
       "name": "FGO 「泳装活动2025」参加条件完成应援纪念活动 第2弹",
-      "name_en": "FGO 「泳装活动2025」参加条件完成应援纪念活动 第2弹",
+      "name_en": "FGO Summer Event 2025 Entry Requirement Support Campaign Part 2",
       "date": "2025-07-10",
       "end_date": "2025-08-31",
       "time": "19:00",
@@ -840,16 +972,20 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「「泳装活动2025」参加条件完成应援纪念活动 第2弹」。",
-      "description_en": "FGO Event「「泳装活动2025」参加条件完成应援纪念活动 第2弹」.",
+      "description_en": "FGO Summer Event 2025 Entry Requirement Support Campaign Part 2.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「泳装活动2025」参加条件完成应援纪念活动 第2弹"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -880,7 +1016,7 @@
     {
       "id": "fgo-2025-FGOExpoFateGrandOrde-activity",
       "name": "FGO 「FGO Expo ～Fate/Grand Order Fes. 2025 9th Anniversary～」倒计时纪念活动",
-      "name_en": "FGO 「FGO Expo ～Fate/Grand Order Fes. 2025 9th Anniversary～」倒计时纪念活动",
+      "name_en": "FGO FGO Expo — Fate/Grand Order Fes. 2025 9th Anniversary — Countdown Campaign",
       "date": "2025-07-17",
       "end_date": "2025-08-10",
       "time": "19:00",
@@ -890,22 +1026,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「「FGO Expo ～Fate/Grand Order Fes. 2025 9th Anniversary～」倒计时纪念活动」。",
-      "description_en": "FGO Event「「FGO Expo ～Fate/Grand Order Fes. 2025 9th Anniversary～」倒计时纪念活动」.",
+      "description_en": "FGO FGO Expo — Fate/Grand Order Fes. 2025 9th Anniversary — Countdown Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「FGO Expo ～Fate/Grand Order Fes. 2025 9th Anniversary～」倒计时纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-狩猎关卡第14弹-activity",
       "name": "FGO 狩猎关卡 第14弹",
-      "name_en": "FGO 狩猎关卡 第14弹",
+      "name_en": "FGO Hunting Quests Part 14",
       "date": "2025-07-17",
       "end_date": "2025-07-24",
       "time": "19:00",
@@ -915,16 +1055,20 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「狩猎关卡 第14弹」。",
-      "description_en": "FGO Event「狩猎关卡 第14弹」.",
+      "description_en": "FGO Hunting Quests Part 14.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "狩猎关卡 第14弹"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -1018,7 +1162,7 @@
       "description_en": "FGO Event「Fate/Grand Order ～9th Anniversary～」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
@@ -1030,7 +1174,7 @@
     {
       "id": "fgo-2025-FateGrandOrderServan-activity",
       "name": "FGO 「Fate/Grand Order Servant Art Chronicle -最终再临展-」 举办纪念特别登录奖励",
-      "name_en": "FGO 「Fate/Grand Order Servant Art Chronicle -最终再临展-」 举办纪念特别登录奖励",
+      "name_en": "FGO Fate/Grand Order Servant Art Chronicle -Final Ascension Exhibition- Special Exhibition Login Bonuses",
       "date": "2025-07-30",
       "end_date": "2025-08-07",
       "time": "18:00",
@@ -1040,16 +1184,20 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「「Fate/Grand Order Servant Art Chronicle -最终再临展-」 举办纪念特别登录奖励」。",
-      "description_en": "FGO Event「「Fate/Grand Order Servant Art Chronicle -最终再临展-」 举办纪念特别登录奖励」.",
+      "description_en": "FGO Fate/Grand Order Servant Art Chronicle -Final Ascension Exhibition- Special Exhibition Login Bonuses.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「Fate/Grand Order Servant Art Chronicle -最终再临展-」 举办纪念特别登录奖励"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -1130,7 +1278,7 @@
     {
       "id": "fgo-2025-BB主办名流夏日体验逆袭的迪拜-activity",
       "name": "FGO BB主办☆名流夏日体验！ ～逆袭的迪拜～",
-      "name_en": "FGO BB主办☆名流夏日体验！ ～逆袭的迪拜～",
+      "name_en": "FGO BB Presents☆Celeb Summer Experience! Dubai's Counterattack",
       "date": "2025-08-10",
       "end_date": "2025-09-28",
       "time": "15:00",
@@ -1140,16 +1288,24 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「BB主办☆名流夏日体验！ ～逆袭的迪拜～」。",
-      "description_en": "FGO Event「BB主办☆名流夏日体验！ ～逆袭的迪拜～」.",
+      "description_en": "FGO CN-server event: BB Presents☆Celeb Summer Experience! Dubai's Counterattack.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "BB主办☆名流夏日体验！ ～逆袭的迪拜～"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "upstream game data",
+        "English source": "https://api.atlasacademy.io/basic/NA/event/80485",
+        "English source ID": "80485",
+        "English original title": "BB Presents☆Celeb Summer Experience!\nDubai's Counterattack",
+        "CN identity source": "https://api.atlasacademy.io/basic/CN/event/80485"
       }
     },
     {
@@ -1205,7 +1361,7 @@
     {
       "id": "fgo-2025-LostbeltNo4通关应援纪念活动-activity",
       "name": "FGO 「Lostbelt No.4」通关应援纪念活动",
-      "name_en": "FGO 「Lostbelt No.4」通关应援纪念活动",
+      "name_en": "FGO Lostbelt No.4 Clear Support Campaign",
       "date": "2025-08-29",
       "end_date": "2025-09-26",
       "time": "19:00",
@@ -1215,22 +1371,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「「Lostbelt No.4」通关应援纪念活动」。",
-      "description_en": "FGO Event「「Lostbelt No.4」通关应援纪念活动」.",
+      "description_en": "FGO Lostbelt No.4 Clear Support Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「Lostbelt No.4」通关应援纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-奏章攻略应援纪念活动-activity",
       "name": "FGO 「奏章Ⅲ」攻略应援纪念活动",
-      "name_en": "FGO 「奏章Ⅲ」攻略应援纪念活动",
+      "name_en": "FGO Ordeal Call Ⅲ Strategy Support Campaign",
       "date": "2025-08-29",
       "end_date": "2025-10-31",
       "time": "19:00",
@@ -1240,22 +1400,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「「奏章Ⅲ」攻略应援纪念活动」。",
-      "description_en": "FGO Event「「奏章Ⅲ」攻略应援纪念活动」.",
+      "description_en": "FGO Ordeal Call Ⅲ Strategy Support Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「奏章Ⅲ」攻略应援纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-奏章新灵长后继战原型肇始中篇开幕前夕纪念-activity",
       "name": "FGO 「奏章Ⅲ 新灵长后继战 原型肇始」(中篇)开幕前夕纪念活动",
-      "name_en": "FGO 「奏章Ⅲ 新灵长后继战 原型肇始」(中篇)开幕前夕纪念活动",
+      "name_en": "FGO Ordeal Call III: Archetype Inception (Middle Part) Pre-Release Campaign",
       "date": "2025-08-31",
       "end_date": "2025-09-06",
       "time": "04:00",
@@ -1265,16 +1429,20 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「「奏章Ⅲ 新灵长后继战 原型肇始」(中篇)开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「奏章Ⅲ 新灵长后继战 原型肇始」(中篇)开幕前夕纪念活动」.",
+      "description_en": "FGO Ordeal Call III: Archetype Inception (Middle Part) Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「奏章Ⅲ 新灵长后继战 原型肇始」(中篇)开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -1380,7 +1548,7 @@
     {
       "id": "fgo-2025-奏章新灵长后继战原型肇始后篇开幕前夕纪念-activity",
       "name": "FGO 「奏章Ⅲ 新灵长后继战 原型肇始」(后篇)开幕前夕纪念活动",
-      "name_en": "FGO 「奏章Ⅲ 新灵长后继战 原型肇始」(后篇)开幕前夕纪念活动",
+      "name_en": "FGO Ordeal Call III: Archetype Inception (Final Part) Pre-Release Campaign",
       "date": "2025-09-10",
       "end_date": "2025-09-25",
       "time": "04:00",
@@ -1390,22 +1558,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「「奏章Ⅲ 新灵长后继战 原型肇始」(后篇)开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「奏章Ⅲ 新灵长后继战 原型肇始」(后篇)开幕前夕纪念活动」.",
+      "description_en": "FGO Ordeal Call III: Archetype Inception (Final Part) Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「奏章Ⅲ 新灵长后继战 原型肇始」(后篇)开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-上线3700日纪念活动-activity",
       "name": "FGO 上线3700日纪念活动",
-      "name_en": "FGO 上线3700日纪念活动",
+      "name_en": "FGO 3700 Days Since Launch Celebration Campaign",
       "date": "2025-09-14",
       "end_date": "2025-09-14",
       "time": "00:00",
@@ -1415,16 +1587,20 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「上线3700日纪念活动」。",
-      "description_en": "FGO Event「上线3700日纪念活动」.",
+      "description_en": "FGO 3700 Days Since Launch Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "上线3700日纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -1530,7 +1706,7 @@
     {
       "id": "fgo-2025-LostbeltNo5通关应援纪念活动-activity",
       "name": "FGO 「Lostbelt No.5」通关应援纪念活动",
-      "name_en": "FGO 「Lostbelt No.5」通关应援纪念活动",
+      "name_en": "FGO Lostbelt No.5 Clear Support Campaign",
       "date": "2025-09-26",
       "end_date": "2025-10-30",
       "time": "19:00",
@@ -1540,22 +1716,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「「Lostbelt No.5」通关应援纪念活动」。",
-      "description_en": "FGO Event「「Lostbelt No.5」通关应援纪念活动」.",
+      "description_en": "FGO Lostbelt No.5 Clear Support Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「Lostbelt No.5」通关应援纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-FatehollowataraxiaRE-activity",
       "name": "FGO 「Fate/hollow ataraxia REMASTERED」特别纪念活动",
-      "name_en": "FGO 「Fate/hollow ataraxia REMASTERED」特别纪念活动",
+      "name_en": "FGO Fate/hollow ataraxia REMASTERED Special Celebration Campaign",
       "date": "2025-09-27",
       "end_date": "2025-10-04",
       "time": "04:00",
@@ -1565,22 +1745,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「「Fate/hollow ataraxia REMASTERED」特别纪念活动」。",
-      "description_en": "FGO Event「「Fate/hollow ataraxia REMASTERED」特别纪念活动」.",
+      "description_en": "FGO Fate/hollow ataraxia REMASTERED Special Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「Fate/hollow ataraxia REMASTERED」特别纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-3000万下载突破纪念活动-activity",
       "name": "FGO 3000万下载突破纪念活动",
-      "name_en": "FGO 3000万下载突破纪念活动",
+      "name_en": "FGO 30 Million Downloads Celebration Campaign",
       "date": "2025-09-30",
       "end_date": "2025-11-30",
       "time": "19:00",
@@ -1590,16 +1774,20 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「3000万下载突破纪念活动」。",
-      "description_en": "FGO Event「3000万下载突破纪念活动」.",
+      "description_en": "FGO 30 Million Downloads Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "3000万下载突破纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -1655,7 +1843,7 @@
     {
       "id": "fgo-2025-10月开幕预定限时活动开幕前夕纪念活动-activity",
       "name": "FGO 「10月开幕预定 限时活动」开幕前夕纪念活动",
-      "name_en": "FGO 「10月开幕预定 限时活动」开幕前夕纪念活动",
+      "name_en": "FGO Month 10 Limited-Time Event Pre-Release Campaign",
       "date": "2025-10-09",
       "end_date": "2025-10-23",
       "time": "19:00",
@@ -1665,22 +1853,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「「10月开幕预定 限时活动」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「10月开幕预定 限时活动」开幕前夕纪念活动」.",
+      "description_en": "FGO Month 10 Limited-Time Event Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「10月开幕预定 限时活动」开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-上线3300日纪念活动-activity",
       "name": "FGO 上线3300日纪念活动",
-      "name_en": "FGO 上线3300日纪念活动",
+      "name_en": "FGO 3300 Days Since Launch Celebration Campaign",
       "date": "2025-10-12",
       "end_date": "2025-10-13",
       "time": "04:00",
@@ -1690,16 +1882,20 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「上线3300日纪念活动」。",
-      "description_en": "FGO Event「上线3300日纪念活动」.",
+      "description_en": "FGO 3300 Days Since Launch Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "上线3300日纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -1730,7 +1926,7 @@
     {
       "id": "fgo-2025-妖精双六虫笼游戏致尚未得见的完美的你-activity",
       "name": "FGO 妖精双六虫笼游戏 致尚未得见的完美的你",
-      "name_en": "FGO 妖精双六虫笼游戏 致尚未得见的完美的你",
+      "name_en": "FGO Faerie Sugoroku Insect Cage Game - To the Ideal One I Seek",
       "date": "2025-10-16",
       "end_date": "2025-11-06",
       "time": "19:00",
@@ -1740,16 +1936,24 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「妖精双六虫笼游戏 致尚未得见的完美的你」。",
-      "description_en": "FGO Event「妖精双六虫笼游戏 致尚未得见的完美的你」.",
+      "description_en": "FGO CN-server event: Faerie Sugoroku Insect Cage Game - To the Ideal One I Seek.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "妖精双六虫笼游戏 致尚未得见的完美的你"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "upstream game data",
+        "English source": "https://api.atlasacademy.io/basic/NA/event/80490",
+        "English source ID": "80490",
+        "English original title": "Faerie Sugoroku Insect Cage Game - To the Ideal One I Seek",
+        "CN identity source": "https://api.atlasacademy.io/basic/CN/event/80490"
       }
     },
     {
@@ -1855,7 +2059,7 @@
     {
       "id": "fgo-2025-LostbeltNo6通关应援纪念活动-activity",
       "name": "FGO 「Lostbelt No.6」通关应援纪念活动",
-      "name_en": "FGO 「Lostbelt No.6」通关应援纪念活动",
+      "name_en": "FGO Lostbelt No.6 Clear Support Campaign",
       "date": "2025-10-31",
       "end_date": "2025-11-27",
       "time": "19:00",
@@ -1865,22 +2069,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「「Lostbelt No.6」通关应援纪念活动」。",
-      "description_en": "FGO Event「「Lostbelt No.6」通关应援纪念活动」.",
+      "description_en": "FGO Lostbelt No.6 Clear Support Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「Lostbelt No.6」通关应援纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-秋之战力增强纪念活动-activity",
       "name": "FGO 秋之战力增强纪念活动",
-      "name_en": "FGO 秋之战力增强纪念活动",
+      "name_en": "FGO Autumn Strengthening Campaign",
       "date": "2025-10-31",
       "end_date": "2025-11-07",
       "time": "19:00",
@@ -1890,16 +2098,20 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「秋之战力增强纪念活动」。",
-      "description_en": "FGO Event「秋之战力增强纪念活动」.",
+      "description_en": "FGO Autumn Strengthening Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "秋之战力增强纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -1955,7 +2167,6 @@
     {
       "id": "fgo-2025-通通砸碎神秘屋的工匠们星之矿工与日出之翼-activity",
       "name": "FGO 「通通砸碎！神秘屋的工匠们 ～星之矿工与日出之翼～」开幕前夕纪念活动",
-      "name_en": "FGO 「通通砸碎！神秘屋的工匠们 ～星之矿工与日出之翼～」开幕前夕纪念活动",
       "date": "2025-11-06",
       "end_date": "2025-11-20",
       "time": "19:00",
@@ -1965,22 +2176,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「「通通砸碎！神秘屋的工匠们 ～星之矿工与日出之翼～」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「通通砸碎！神秘屋的工匠们 ～星之矿工与日出之翼～」开幕前夕纪念活动」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「通通砸碎！神秘屋的工匠们 ～星之矿工与日出之翼～」开幕前夕纪念活动"
+      },
+      "name_en": "FGO Smash It All! Mystery House Artisans — Star Miners and Wings of Sunrise Pre-Release Campaign",
+      "description_en": "FGO Smash It All! Mystery House Artisans — Star Miners and Wings of Sunrise Pre-Release Campaign.",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-FinalOrderProject第2部-activity",
       "name": "FGO Final Order Project 『第2部 终章』即将到来！第2部回顾纪念活动 ～第7章篇～",
-      "name_en": "FGO Final Order Project 『第2部 终章』即将到来！第2部回顾纪念活动 ～第7章篇～",
       "date": "2025-11-10",
       "end_date": "2025-11-17",
       "time": "18:00",
@@ -1990,22 +2205,27 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「Final Order Project 『第2部 终章』即将到来！第2部回顾纪念活动 ～第7章篇～」。",
-      "description_en": "FGO Event「Final Order Project 『第2部 终章』即将到来！第2部回顾纪念活动 ～第7章篇～」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "Final Order Project 『第2部 终章』即将到来！第2部回顾纪念活动 ～第7章篇～"
+      },
+      "name_en": "FGO Final Order Project Part 2 Final Chapter Approaches! Part 2 Retrospective Campaign — Chapter 7 —",
+      "description_en": "FGO Final Order Project Part 2 Final Chapter Approaches! Part 2 Retrospective Campaign — Chapter 7 —.",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-冠位戴冠战Archer-activity",
       "name": "FGO 冠位戴冠战：Archer",
-      "name_en": "FGO 冠位戴冠战：Archer",
+      "name_en": "FGO Grand Duel: Archer",
       "date": "2025-11-14",
       "end_date": "2025-11-21",
       "time": "18:00",
@@ -2015,22 +2235,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「冠位戴冠战：Archer」。",
-      "description_en": "FGO Event「冠位戴冠战：Archer」.",
+      "description_en": "FGO Grand Duel: Archer.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "冠位戴冠战：Archer"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-冠位戴冠战Rider冠位戴冠战Assas-activity",
       "name": "FGO 「冠位戴冠战：Rider」＆「冠位戴冠战：Assassin」风暴罐消耗0！纪念活动",
-      "name_en": "FGO 「冠位戴冠战：Rider」＆「冠位戴冠战：Assassin」风暴罐消耗0！纪念活动",
+      "name_en": "FGO Grand Duel: Rider & Grand Duel: Assassin Zero Storm Pod Cost Campaign",
       "date": "2025-11-21",
       "end_date": "2025-11-28",
       "time": "18:00",
@@ -2040,22 +2264,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「「冠位戴冠战：Rider」＆「冠位戴冠战：Assassin」风暴罐消耗0！纪念活动」。",
-      "description_en": "FGO Event「「冠位戴冠战：Rider」＆「冠位戴冠战：Assassin」风暴罐消耗0！纪念活动」.",
+      "description_en": "FGO Grand Duel: Rider & Grand Duel: Assassin Zero Storm Pod Cost Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「冠位戴冠战：Rider」＆「冠位戴冠战：Assassin」风暴罐消耗0！纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-冠位戴冠战Caster开幕前夕纪念活动-activity",
       "name": "FGO 「冠位戴冠战：Caster」开幕前夕纪念活动",
-      "name_en": "FGO 「冠位戴冠战：Caster」开幕前夕纪念活动",
+      "name_en": "FGO Grand Duel: Caster Pre-Release Campaign",
       "date": "2025-11-24",
       "end_date": "2025-12-10",
       "time": "18:00",
@@ -2065,22 +2293,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「「冠位戴冠战：Caster」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「冠位戴冠战：Caster」开幕前夕纪念活动」.",
+      "description_en": "FGO Grand Duel: Caster Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「冠位戴冠战：Caster」开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-LostbeltNo7通关应援纪念活动-activity",
       "name": "FGO 「Lostbelt No.7」通关应援纪念活动",
-      "name_en": "FGO 「Lostbelt No.7」通关应援纪念活动",
+      "name_en": "FGO Lostbelt No.7 Clear Support Campaign",
       "date": "2025-11-27",
       "end_date": "2025-12-30",
       "time": "19:00",
@@ -2090,22 +2322,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「「Lostbelt No.7」通关应援纪念活动」。",
-      "description_en": "FGO Event「「Lostbelt No.7」通关应援纪念活动」.",
+      "description_en": "FGO Lostbelt No.7 Clear Support Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「Lostbelt No.7」通关应援纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-幕间物语活动第21弹-activity",
       "name": "FGO 幕间物语活动 第21弹",
-      "name_en": "FGO 幕间物语活动 第21弹",
+      "name_en": "FGO Interlude Campaign Part 21",
       "date": "2025-11-27",
       "end_date": "2025-12-11",
       "time": "19:00",
@@ -2115,22 +2351,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「幕间物语活动 第21弹」。",
-      "description_en": "FGO Event「幕间物语活动 第21弹」.",
+      "description_en": "FGO Interlude Campaign Part 21.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "幕间物语活动 第21弹"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-冠位戴冠战Caster-activity",
       "name": "FGO 冠位戴冠战：Caster",
-      "name_en": "FGO 冠位戴冠战：Caster",
+      "name_en": "FGO Grand Duel: Caster",
       "date": "2025-12-03",
       "end_date": "2025-12-10",
       "time": "18:00",
@@ -2140,22 +2380,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「冠位戴冠战：Caster」。",
-      "description_en": "FGO Event「冠位戴冠战：Caster」.",
+      "description_en": "FGO Grand Duel: Caster.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "冠位戴冠战：Caster"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-圣诞节2025开幕前夕纪念活动-activity",
       "name": "FGO 「圣诞节2025」开幕前夕纪念活动",
-      "name_en": "FGO 「圣诞节2025」开幕前夕纪念活动",
+      "name_en": "FGO Christmas 2025 Pre-Release Campaign",
       "date": "2025-12-04",
       "end_date": "2025-12-28",
       "time": "19:00",
@@ -2165,22 +2409,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「「圣诞节2025」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「圣诞节2025」开幕前夕纪念活动」.",
+      "description_en": "FGO Christmas 2025 Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「圣诞节2025」开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-波赫约拉的圣诞前夜怀梦圣诞老人与胡桃夹子-activity",
       "name": "FGO 波赫约拉的圣诞前夜 怀梦圣诞老人与胡桃夹子",
-      "name_en": "FGO 波赫约拉的圣诞前夜 怀梦圣诞老人与胡桃夹子",
+      "name_en": "FGO Christmas Eve in Pohjola — A Dreaming Santa and the Nutcracker",
       "date": "2025-12-09",
       "end_date": "2025-12-23",
       "time": "19:00",
@@ -2190,22 +2438,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「波赫约拉的圣诞前夜 怀梦圣诞老人与胡桃夹子」。",
-      "description_en": "FGO Event「波赫约拉的圣诞前夜 怀梦圣诞老人与胡桃夹子」.",
+      "description_en": "FGO Christmas Eve in Pohjola — A Dreaming Santa and the Nutcracker.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "波赫约拉的圣诞前夜 怀梦圣诞老人与胡桃夹子"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-全冠位戴冠战风暴罐消耗0纪念活动-activity",
       "name": "FGO 全「冠位戴冠战」风暴罐消耗0！纪念活动",
-      "name_en": "FGO 全「冠位戴冠战」风暴罐消耗0！纪念活动",
+      "name_en": "FGO All Grand Duel Zero Storm Pod Cost Campaign",
       "date": "2025-12-10",
       "end_date": "2025-12-20",
       "time": "18:00",
@@ -2215,22 +2467,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「全「冠位戴冠战」风暴罐消耗0！纪念活动」。",
-      "description_en": "FGO Event「全「冠位戴冠战」风暴罐消耗0！纪念活动」.",
+      "description_en": "FGO All Grand Duel Zero Storm Pod Cost Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "全「冠位戴冠战」风暴罐消耗0！纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-第2部终章开幕前夕纪念活动-activity",
       "name": "FGO 「第2部 终章」开幕前夕纪念活动",
-      "name_en": "FGO 「第2部 终章」开幕前夕纪念活动",
+      "name_en": "FGO Part 2 Final Chapter Pre-Release Campaign",
       "date": "2025-12-10",
       "end_date": "2025-12-31",
       "time": "18:00",
@@ -2240,22 +2496,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「「第2部 终章」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「第2部 终章」开幕前夕纪念活动」.",
+      "description_en": "FGO Part 2 Final Chapter Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「第2部 终章」开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-上线3800日纪念活动-activity",
       "name": "FGO 上线3800日纪念活动",
-      "name_en": "FGO 上线3800日纪念活动",
+      "name_en": "FGO 3800 Days Since Launch Celebration Campaign",
       "date": "2025-12-23",
       "end_date": "2025-12-23",
       "time": "00:00",
@@ -2265,22 +2525,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「上线3800日纪念活动」。",
-      "description_en": "FGO Event「上线3800日纪念活动」.",
+      "description_en": "FGO 3800 Days Since Launch Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "上线3800日纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-SpacePhantasmoon另一个圣-activity",
       "name": "FGO Space Phantasmoon 另一个圣诞 午夜的幻上好",
-      "name_en": "FGO Space Phantasmoon 另一个圣诞 午夜的幻上好",
+      "name_en": "FGO Space Phantasmoon — Another Christmas: A Midnight Phantasm",
       "date": "2025-12-23",
       "end_date": "2025-12-30",
       "time": "19:00",
@@ -2290,22 +2554,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「Space Phantasmoon 另一个圣诞 午夜的幻上好」。",
-      "description_en": "FGO Event「Space Phantasmoon 另一个圣诞 午夜的幻上好」.",
+      "description_en": "FGO Space Phantasmoon — Another Christmas: A Midnight Phantasm.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "Space Phantasmoon 另一个圣诞 午夜的幻上好"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-FateProject除夕TV特别篇20-activity",
       "name": "FGO 「Fate Project 除夕TV特别篇2025」播放纪念活动",
-      "name_en": "FGO 「Fate Project 除夕TV特别篇2025」播放纪念活动",
+      "name_en": "FGO Fate Project New Year's Eve TV Special 2025 Broadcast Celebration Campaign",
       "date": "2025-12-31",
       "end_date": "2025-12-31",
       "time": "04:00",
@@ -2315,22 +2583,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「「Fate Project 除夕TV特别篇2025」播放纪念活动」。",
-      "description_en": "FGO Event「「Fate Project 除夕TV特别篇2025」播放纪念活动」.",
+      "description_en": "FGO Fate Project New Year's Eve TV Special 2025 Broadcast Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「Fate Project 除夕TV特别篇2025」播放纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-2026年新年纪念活动-activity",
       "name": "FGO 2026年新年纪念活动",
-      "name_en": "FGO 2026年新年纪念活动",
+      "name_en": "FGO 2026 New Year Campaign",
       "date": "2025-12-31",
       "end_date": "2026-01-15",
       "time": "15:00",
@@ -2340,22 +2612,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「2026年新年纪念活动」。",
-      "description_en": "FGO Event「2026年新年纪念活动」.",
+      "description_en": "FGO 2026 New Year Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "2026年新年纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2025-奏章通关应援纪念活动-activity",
       "name": "FGO 「奏章Ⅰ」通关应援纪念活动",
-      "name_en": "FGO 「奏章Ⅰ」通关应援纪念活动",
+      "name_en": "FGO Ordeal Call Ⅰ Clear Support Campaign",
       "date": "2025-12-31",
       "end_date": "2026-01-29",
       "time": "15:00",
@@ -2365,22 +2641,26 @@
       "type": "range",
       "year": 2025,
       "description": "FGO活动「「奏章Ⅰ」通关应援纪念活动」。",
-      "description_en": "FGO Event「「奏章Ⅰ」通关应援纪念活动」.",
+      "description_en": "FGO Ordeal Call Ⅰ Clear Support Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「奏章Ⅰ」通关应援纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-2026年新年活动-activity",
       "name": "FGO 2026年新年活动",
-      "name_en": "FGO 2026年新年活动",
+      "name_en": "FGO 2026 New Year Event",
       "date": "2026-01-01",
       "end_date": "2026-01-14",
       "time": "00:00",
@@ -2390,22 +2670,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「2026年新年活动」。",
-      "description_en": "FGO Event「2026年新年活动」.",
+      "description_en": "FGO 2026 New Year Event.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "2026年新年活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-巡灵的祝祭新春纪念活动-activity",
       "name": "FGO 巡灵的祝祭 新春纪念活动",
-      "name_en": "FGO 巡灵的祝祭 新春纪念活动",
+      "name_en": "FGO Evocation Festival New Year Campaign",
       "date": "2026-01-06",
       "end_date": "2026-02-05",
       "time": "19:00",
@@ -2415,22 +2699,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「巡灵的祝祭 新春纪念活动」。",
-      "description_en": "FGO Event「巡灵的祝祭 新春纪念活动」.",
+      "description_en": "FGO Evocation Festival New Year Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "巡灵的祝祭 新春纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-巡灵的祝祭第9弹-activity",
       "name": "FGO 巡灵的祝祭 第9弹",
-      "name_en": "FGO 巡灵的祝祭 第9弹",
+      "name_en": "FGO Evocation Festival Part 9",
       "date": "2026-01-06",
       "end_date": "2026-02-08",
       "time": "19:00",
@@ -2440,22 +2728,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「巡灵的祝祭 第9弹」。",
-      "description_en": "FGO Event「巡灵的祝祭 第9弹」.",
+      "description_en": "FGO Evocation Festival Part 9.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "巡灵的祝祭 第9弹"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-1月开幕预定限时活动开幕前夕纪念活动-activity",
       "name": "FGO 「1月开幕预定 限时活动」开幕前夕纪念活动",
-      "name_en": "FGO 「1月开幕预定 限时活动」开幕前夕纪念活动",
+      "name_en": "FGO Month 1 Limited-Time Event Pre-Release Campaign",
       "date": "2026-01-08",
       "end_date": "2026-01-22",
       "time": "19:00",
@@ -2465,22 +2757,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「1月开幕预定 限时活动」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「1月开幕预定 限时活动」开幕前夕纪念活动」.",
+      "description_en": "FGO Month 1 Limited-Time Event Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「1月开幕预定 限时活动」开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-迦勒底花神节你的鲜花盛放之时开幕前夕纪念-activity",
       "name": "FGO 「迦勒底·花神节 你的鲜花盛放之时」开幕前夕纪念活动",
-      "name_en": "FGO 「迦勒底·花神节 你的鲜花盛放之时」开幕前夕纪念活动",
+      "name_en": "FGO Chaldea Floralia — When Your Flowers Bloom Pre-Release Campaign",
       "date": "2026-01-13",
       "end_date": "2026-01-27",
       "time": "18:00",
@@ -2490,22 +2786,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「迦勒底·花神节 你的鲜花盛放之时」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「迦勒底·花神节 你的鲜花盛放之时」开幕前夕纪念活动」.",
+      "description_en": "FGO Chaldea Floralia — When Your Flowers Bloom Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「迦勒底·花神节 你的鲜花盛放之时」开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-FGO迦勒底卫星基站2026福井会场举办-activity",
       "name": "FGO 「FGO 迦勒底卫星基站 2026」福井会场举办纪念活动",
-      "name_en": "FGO 「FGO 迦勒底卫星基站 2026」福井会场举办纪念活动",
+      "name_en": "FGO FGO Chaldea Satellite Station 2026 Fukui Venue Celebration Campaign",
       "date": "2026-01-14",
       "end_date": "2026-01-18",
       "time": "18:00",
@@ -2515,22 +2815,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「FGO 迦勒底卫星基站 2026」福井会场举办纪念活动」。",
-      "description_en": "FGO Event「「FGO 迦勒底卫星基站 2026」福井会场举办纪念活动」.",
+      "description_en": "FGO FGO Chaldea Satellite Station 2026 Fukui Venue Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「FGO 迦勒底卫星基站 2026」福井会场举办纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-培育吧我的小小龙披鳞之辈所见的幻想-activity",
       "name": "FGO 培育吧！ 我的小小龙 ～披鳞之辈所见的幻想～",
-      "name_en": "FGO 培育吧！ 我的小小龙 ～披鳞之辈所见的幻想～",
+      "name_en": "FGO Grow! My Little Dragon — A Scaled Creature's Fantasy",
       "date": "2026-01-15",
       "end_date": "2026-02-05",
       "time": "19:00",
@@ -2540,22 +2844,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「培育吧！ 我的小小龙 ～披鳞之辈所见的幻想～」。",
-      "description_en": "FGO Event「培育吧！ 我的小小龙 ～披鳞之辈所见的幻想～」.",
+      "description_en": "FGO Grow! My Little Dragon — A Scaled Creature's Fantasy.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "培育吧！ 我的小小龙 ～披鳞之辈所见的幻想～"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-上线3400日纪念活动-activity",
       "name": "FGO 上线3400日纪念活动",
-      "name_en": "FGO 上线3400日纪念活动",
+      "name_en": "FGO 3400 Days Since Launch Celebration Campaign",
       "date": "2026-01-20",
       "end_date": "2026-01-21",
       "time": "04:00",
@@ -2565,22 +2873,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「上线3400日纪念活动」。",
-      "description_en": "FGO Event「上线3400日纪念活动」.",
+      "description_en": "FGO 3400 Days Since Launch Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "上线3400日纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-迦勒底花神节你的鲜花盛放之时-activity",
       "name": "FGO 迦勒底·花神节 你的鲜花盛放之时",
-      "name_en": "FGO 迦勒底·花神节 你的鲜花盛放之时",
+      "name_en": "FGO Chaldea Floralia — When Your Flowers Bloom",
       "date": "2026-01-23",
       "end_date": "2026-02-13",
       "time": "18:00",
@@ -2590,22 +2902,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「迦勒底·花神节 你的鲜花盛放之时」。",
-      "description_en": "FGO Event「迦勒底·花神节 你的鲜花盛放之时」.",
+      "description_en": "FGO Chaldea Floralia — When Your Flowers Bloom.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "迦勒底·花神节 你的鲜花盛放之时"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-奏章常驻开放主线物语BB主办名流夏日体验-activity",
       "name": "FGO 「奏章Ⅲ」常驻开放！＆主线物语「BB主办☆名流夏日体验！ ～逆袭的迪拜～」追加！",
-      "name_en": "FGO 「奏章Ⅲ」常驻开放！＆主线物语「BB主办☆名流夏日体验！ ～逆袭的迪拜～」追加！",
+      "name_en": "FGO Ordeal Call Ⅲ Permanently Available! & Main Story BB Presents: Celebrity Summer Experience — Dubai Strikes Back Added!",
       "date": "2026-01-29",
       "end_date": "2026-02-12",
       "time": "19:00",
@@ -2615,22 +2931,25 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「奏章Ⅲ」常驻开放！＆主线物语「BB主办☆名流夏日体验！ ～逆袭的迪拜～」追加！」。",
-      "description_en": "FGO Event「「奏章Ⅲ」常驻开放！＆主线物语「BB主办☆名流夏日体验！ ～逆袭的迪拜～」追加！」.",
+      "description_en": "FGO Ordeal Call Ⅲ Permanently Available! & Main Story BB Presents: Celebrity Summer Experience — Dubai Strikes Back Added!.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「奏章Ⅲ」常驻开放！＆主线物语「BB主办☆名流夏日体验！ ～逆袭的迪拜～」追加！"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-奏章通关应援纪念活动-activity",
       "name": "FGO 「奏章Ⅱ」通关应援纪念活动",
-      "name_en": "FGO 「奏章Ⅱ」通关应援纪念活动",
       "date": "2026-01-29",
       "end_date": "2026-02-26",
       "time": "19:00",
@@ -2640,22 +2959,27 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「奏章Ⅱ」通关应援纪念活动」。",
-      "description_en": "FGO Event「「奏章Ⅱ」通关应援纪念活动」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「奏章Ⅱ」通关应援纪念活动"
+      },
+      "name_en": "FGO Ordeal Call Ⅱ Clear Support Campaign",
+      "description_en": "FGO Ordeal Call Ⅱ Clear Support Campaign.",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-战力增强纪念活动职阶星图分值解放支援-activity",
       "name": "FGO 战力增强纪念活动 ～职阶星图分值解放支援～",
-      "name_en": "FGO 战力增强纪念活动 ～职阶星图分值解放支援～",
+      "name_en": "FGO Strengthening Campaign — Class Score Unlock Support",
       "date": "2026-01-29",
       "end_date": "2026-02-12",
       "time": "19:00",
@@ -2665,22 +2989,25 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「战力增强纪念活动 ～职阶星图分值解放支援～」。",
-      "description_en": "FGO Event「战力增强纪念活动 ～职阶星图分值解放支援～」.",
+      "description_en": "FGO Strengthening Campaign — Class Score Unlock Support.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "战力增强纪念活动 ～职阶星图分值解放支援～"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-情人节2026开幕前夕纪念活动-activity",
       "name": "FGO 「情人节2026」开幕前夕纪念活动",
-      "name_en": "FGO 「情人节2026」开幕前夕纪念活动",
       "date": "2026-02-05",
       "end_date": "2026-02-19",
       "time": "19:00",
@@ -2690,22 +3017,27 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「情人节2026」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「情人节2026」开幕前夕纪念活动」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「情人节2026」开幕前夕纪念活动"
+      },
+      "name_en": "FGO Valentine 2026 Pre-Release Campaign",
+      "description_en": "FGO Valentine 2026 Pre-Release Campaign.",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-FGO迦勒底卫星基站2026长崎会场举办-activity",
       "name": "FGO 「FGO 迦勒底卫星基站 2026」长崎会场举办纪念活动",
-      "name_en": "FGO 「FGO 迦勒底卫星基站 2026」长崎会场举办纪念活动",
+      "name_en": "FGO FGO Chaldea Satellite Station 2026 Nagasaki Venue Celebration Campaign",
       "date": "2026-02-06",
       "end_date": "2026-02-09",
       "time": "04:00",
@@ -2715,22 +3047,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「FGO 迦勒底卫星基站 2026」长崎会场举办纪念活动」。",
-      "description_en": "FGO Event「「FGO 迦勒底卫星基站 2026」长崎会场举办纪念活动」.",
+      "description_en": "FGO FGO Chaldea Satellite Station 2026 Nagasaki Venue Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「FGO 迦勒底卫星基站 2026」长崎会场举办纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-2026新春庆贺活动-activity",
       "name": "FGO 2026新春庆贺活动",
-      "name_en": "FGO 2026新春庆贺活动",
+      "name_en": "FGO 2026 Lunar New Year Celebration",
       "date": "2026-02-12",
       "end_date": "2026-02-26",
       "time": "19:00",
@@ -2740,22 +3076,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「2026新春庆贺活动」。",
-      "description_en": "FGO Event「2026新春庆贺活动」.",
+      "description_en": "FGO 2026 Lunar New Year Celebration.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "2026新春庆贺活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-小野小町古今抄雪消月的闪耀莲华-activity",
       "name": "FGO 小野小町古今抄 ～雪消月的闪耀莲华～",
-      "name_en": "FGO 小野小町古今抄 ～雪消月的闪耀莲华～",
+      "name_en": "FGO Ono no Komachi Anthology — A Shining Lotus in the Thawing Moon",
       "date": "2026-02-12",
       "end_date": "2026-03-05",
       "time": "19:00",
@@ -2765,22 +3105,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「小野小町古今抄 ～雪消月的闪耀莲华～」。",
-      "description_en": "FGO Event「小野小町古今抄 ～雪消月的闪耀莲华～」.",
+      "description_en": "FGO Ono no Komachi Anthology — A Shining Lotus in the Thawing Moon.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "小野小町古今抄 ～雪消月的闪耀莲华～"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-Aftertime情人节2026母亲巧克-activity",
       "name": "FGO Aftertime·情人节2026 ～母亲巧克力之谜～",
-      "name_en": "FGO Aftertime·情人节2026 ～母亲巧克力之谜～",
+      "name_en": "FGO Aftertime Valentine2026 — The Mystery of Mother Chocolate",
       "date": "2026-02-13",
       "end_date": "2026-03-06",
       "time": "18:00",
@@ -2790,22 +3134,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「Aftertime·情人节2026 ～母亲巧克力之谜～」。",
-      "description_en": "FGO Event「Aftertime·情人节2026 ～母亲巧克力之谜～」.",
+      "description_en": "FGO Aftertime Valentine2026 — The Mystery of Mother Chocolate.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "Aftertime·情人节2026 ～母亲巧克力之谜～"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-总统特异点通关应援纪念活动-activity",
       "name": "FGO 「总统特异点」通关应援纪念活动",
-      "name_en": "FGO 「总统特异点」通关应援纪念活动",
+      "name_en": "FGO President Singularity Clear Support Campaign",
       "date": "2026-02-26",
       "end_date": "2026-03-05",
       "time": "19:00",
@@ -2815,22 +3163,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「总统特异点」通关应援纪念活动」。",
-      "description_en": "FGO Event「「总统特异点」通关应援纪念活动」.",
+      "description_en": "FGO President Singularity Clear Support Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「总统特异点」通关应援纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-巡灵的祝祭第10弹-activity",
       "name": "FGO 巡灵的祝祭 第10弹",
-      "name_en": "FGO 巡灵的祝祭 第10弹",
+      "name_en": "FGO Evocation Festival Part 10",
       "date": "2026-02-26",
       "end_date": "2026-03-12",
       "time": "19:00",
@@ -2840,22 +3192,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「巡灵的祝祭 第10弹」。",
-      "description_en": "FGO Event「巡灵的祝祭 第10弹」.",
+      "description_en": "FGO Evocation Festival Part 10.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "巡灵的祝祭 第10弹"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-新章开放条件通关应援冠位戴冠战Berse-activity",
       "name": "FGO 新章开放条件通关应援「冠位戴冠战：Berserker」风暴罐消耗0！纪念活动",
-      "name_en": "FGO 新章开放条件通关应援「冠位戴冠战：Berserker」风暴罐消耗0！纪念活动",
+      "name_en": "FGO New Chapter Unlock Support: Grand Duel: Berserker Zero Storm Pod Cost Campaign",
       "date": "2026-03-02",
       "end_date": "2026-03-09",
       "time": "18:00",
@@ -2865,22 +3221,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「新章开放条件通关应援「冠位戴冠战：Berserker」风暴罐消耗0！纪念活动」。",
-      "description_en": "FGO Event「新章开放条件通关应援「冠位戴冠战：Berserker」风暴罐消耗0！纪念活动」.",
+      "description_en": "FGO New Chapter Unlock Support: Grand Duel: Berserker Zero Storm Pod Cost Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "新章开放条件通关应援「冠位戴冠战：Berserker」风暴罐消耗0！纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-FGO迦勒底卫星基站2026山形会场举办-activity",
       "name": "FGO 「FGO 迦勒底卫星基站 2026」山形会场举办纪念活动",
-      "name_en": "FGO 「FGO 迦勒底卫星基站 2026」山形会场举办纪念活动",
+      "name_en": "FGO FGO Chaldea Satellite Station 2026 Yamagata Venue Celebration Campaign",
       "date": "2026-03-05",
       "end_date": "2026-03-08",
       "time": "04:00",
@@ -2890,22 +3250,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「FGO 迦勒底卫星基站 2026」山形会场举办纪念活动」。",
-      "description_en": "FGO Event「「FGO 迦勒底卫星基站 2026」山形会场举办纪念活动」.",
+      "description_en": "FGO FGO Chaldea Satellite Station 2026 Yamagata Venue Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「FGO 迦勒底卫星基站 2026」山形会场举办纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-CBC2026其名为但丁德诺沃酒店的礼宾-activity",
       "name": "FGO CBC2026 其名为但丁 ～德诺沃酒店的礼宾司～",
-      "name_en": "FGO CBC2026 其名为但丁 ～德诺沃酒店的礼宾司～",
+      "name_en": "FGO CBC2026: His Name Is Dante — Concierge of Hotel Denovo",
       "date": "2026-03-05",
       "end_date": "2026-03-26",
       "time": "19:00",
@@ -2915,22 +3279,25 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「CBC2026 其名为但丁 ～德诺沃酒店的礼宾司～」。",
-      "description_en": "FGO Event「CBC2026 其名为但丁 ～德诺沃酒店的礼宾司～」.",
+      "description_en": "FGO CBC2026: His Name Is Dante — Concierge of Hotel Denovo.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "CBC2026 其名为但丁 ～德诺沃酒店的礼宾司～"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-CBC2026迦勒底男性精选2026-activity",
       "name": "FGO CBC2026(迦勒底男性精选2026)",
-      "name_en": "FGO CBC2026(迦勒底男性精选2026)",
       "date": "2026-03-05",
       "end_date": "2026-03-26",
       "time": "19:00",
@@ -2940,22 +3307,27 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「CBC2026(迦勒底男性精选2026)」。",
-      "description_en": "FGO Event「CBC2026(迦勒底男性精选2026)」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "CBC2026(迦勒底男性精选2026)"
+      },
+      "name_en": "FGO CBC2026(Chaldea Boys Collection 2026)",
+      "description_en": "FGO CBC2026(Chaldea Boys Collection 2026).",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-CBC2026迦勒底男性精选2026开幕-activity",
       "name": "FGO 「CBC2026(迦勒底男性精选2026)」开幕前夕纪念活动",
-      "name_en": "FGO 「CBC2026(迦勒底男性精选2026)」开幕前夕纪念活动",
+      "name_en": "FGO CBC2026(Chaldea Boys Collection 2026) Pre-Release Campaign",
       "date": "2026-03-06",
       "end_date": "2026-03-18",
       "time": "18:00",
@@ -2965,22 +3337,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「CBC2026(迦勒底男性精选2026)」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「CBC2026(迦勒底男性精选2026)」开幕前夕纪念活动」.",
+      "description_en": "FGO CBC2026(Chaldea Boys Collection 2026) Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「CBC2026(迦勒底男性精选2026)」开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-新章开放条件通关应援冠位戴冠战Lance-activity",
       "name": "FGO 新章开放条件通关应援「冠位戴冠战：Lancer」风暴罐消耗0！纪念活动",
-      "name_en": "FGO 新章开放条件通关应援「冠位戴冠战：Lancer」风暴罐消耗0！纪念活动",
+      "name_en": "FGO New Chapter Unlock Support: Grand Duel: Lancer Zero Storm Pod Cost Campaign",
       "date": "2026-03-09",
       "end_date": "2026-03-16",
       "time": "18:00",
@@ -2990,22 +3366,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「新章开放条件通关应援「冠位戴冠战：Lancer」风暴罐消耗0！纪念活动」。",
-      "description_en": "FGO Event「新章开放条件通关应援「冠位戴冠战：Lancer」风暴罐消耗0！纪念活动」.",
+      "description_en": "FGO New Chapter Unlock Support: Grand Duel: Lancer Zero Storm Pod Cost Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "新章开放条件通关应援「冠位戴冠战：Lancer」风暴罐消耗0！纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-CBC2026我喜欢的诱拐两位莫莱与无尽-activity",
       "name": "FGO CBC2026 我喜欢的诱拐 ～两位莫莱与无尽的遗产～",
-      "name_en": "FGO CBC2026 我喜欢的诱拐 ～两位莫莱与无尽的遗产～",
+      "name_en": "FGO CBC2026: My Favorite Abduction — Two Molays and an Endless Inheritance",
       "date": "2026-03-11",
       "end_date": "2026-03-25",
       "time": "18:00",
@@ -3015,22 +3395,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「CBC2026 我喜欢的诱拐 ～两位莫莱与无尽的遗产～」。",
-      "description_en": "FGO Event「CBC2026 我喜欢的诱拐 ～两位莫莱与无尽的遗产～」.",
+      "description_en": "FGO CBC2026: My Favorite Abduction — Two Molays and an Endless Inheritance.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "CBC2026 我喜欢的诱拐 ～两位莫莱与无尽的遗产～"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-复刻水怪危机无垢者们的浮岛轻量版-activity",
       "name": "FGO 复刻：水怪危机 无垢者们的浮岛 轻量版",
-      "name_en": "FGO 复刻：水怪危机 无垢者们的浮岛 轻量版",
+      "name_en": "FGO Rerun: Water Monsters Crisis — The Floating Island of the Innocent Lite",
       "date": "2026-03-19",
       "end_date": "2026-04-09",
       "time": "18:00",
@@ -3040,22 +3424,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「复刻：水怪危机 无垢者们的浮岛 轻量版」。",
-      "description_en": "FGO Event「复刻：水怪危机 无垢者们的浮岛 轻量版」.",
+      "description_en": "FGO Rerun: Water Monsters Crisis — The Floating Island of the Innocent Lite.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "复刻：水怪危机 无垢者们的浮岛 轻量版"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-TV动画FatestrangeFake特-activity",
       "name": "FGO TV动画「Fate/strange Fake」特别纪念活动",
-      "name_en": "FGO TV动画「Fate/strange Fake」特别纪念活动",
+      "name_en": "FGO TV Anime Fate/strange Fake Special Celebration Campaign",
       "date": "2026-03-20",
       "end_date": "2026-03-28",
       "time": "04:00",
@@ -3065,22 +3453,25 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「TV动画「Fate/strange Fake」特别纪念活动」。",
-      "description_en": "FGO Event「TV动画「Fate/strange Fake」特别纪念活动」.",
+      "description_en": "FGO TV Anime Fate/strange Fake Special Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "TV动画「Fate/strange Fake」特别纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-FateGrandOrder春之新人御主-activity",
       "name": "FGO Fate/Grand Order 春之新人御主应援纪念活动2026！",
-      "name_en": "FGO Fate/Grand Order 春之新人御主应援纪念活动2026！",
       "date": "2026-03-26",
       "end_date": "2026-04-30",
       "time": "19:00",
@@ -3090,22 +3481,27 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「Fate/Grand Order 春之新人御主应援纪念活动2026！」。",
-      "description_en": "FGO Event「Fate/Grand Order 春之新人御主应援纪念活动2026！」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "Fate/Grand Order 春之新人御主应援纪念活动2026！"
+      },
+      "name_en": "FGO Fate/Grand Order Spring New Master Support Campaign2026!",
+      "description_en": "FGO Fate/Grand Order Spring New Master Support Campaign2026!.",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-奏章开幕前夕纪念活动-activity",
       "name": "FGO 「奏章Ⅳ」开幕前夕纪念活动",
-      "name_en": "FGO 「奏章Ⅳ」开幕前夕纪念活动",
+      "name_en": "FGO Ordeal Call Ⅳ Pre-Release Campaign",
       "date": "2026-03-26",
       "end_date": "2026-05-14",
       "time": "19:00",
@@ -3115,22 +3511,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「奏章Ⅳ」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「奏章Ⅳ」开幕前夕纪念活动」.",
+      "description_en": "FGO Ordeal Call Ⅳ Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「奏章Ⅳ」开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-上线3900日纪念活动-activity",
       "name": "FGO 上线3900日纪念活动",
-      "name_en": "FGO 上线3900日纪念活动",
+      "name_en": "FGO 3900 Days Since Launch Celebration Campaign",
       "date": "2026-04-02",
       "end_date": "2026-04-02",
       "time": "00:00",
@@ -3140,22 +3540,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「上线3900日纪念活动」。",
-      "description_en": "FGO Event「上线3900日纪念活动」.",
+      "description_en": "FGO 3900 Days Since Launch Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "上线3900日纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-复刻昭和奇神计划唠唠叨叨龙马千钧一发消失-activity",
       "name": "FGO 复刻：昭和奇神计划 唠唠叨叨龙马千钧一发！ 消失的信首之谜 轻量版",
-      "name_en": "FGO 复刻：昭和奇神计划 唠唠叨叨龙马千钧一发！ 消失的信首之谜 轻量版",
+      "name_en": "FGO Revival: Showa Kishin Project: GUDAGUDA Ryouma's Narrow Escape! The Mystery of the Disappearing Nobbu Head - Lite",
       "date": "2026-04-02",
       "end_date": "2026-04-23",
       "time": "19:00",
@@ -3165,22 +3569,30 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「复刻：昭和奇神计划 唠唠叨叨龙马千钧一发！ 消失的信首之谜 轻量版」。",
-      "description_en": "FGO Event「复刻：昭和奇神计划 唠唠叨叨龙马千钧一发！ 消失的信首之谜 轻量版」.",
+      "description_en": "FGO CN-server event: Revival: Showa Kishin Project: GUDAGUDA Ryouma's Narrow Escape! The Mystery of the Disappearing Nobbu Head - Lite.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "复刻：昭和奇神计划 唠唠叨叨龙马千钧一发！ 消失的信首之谜 轻量版"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "upstream game data",
+        "English source": "https://api.atlasacademy.io/basic/NA/event/80534",
+        "English source ID": "80534",
+        "English original title": "Revival: Showa Kishin Project: GUDAGUDA Ryouma's Narrow Escape! The Mystery of the Disappearing Nobbu Head - Lite",
+        "CN identity source": "https://api.atlasacademy.io/basic/CN/event/80534"
       }
     },
     {
       "id": "fgo-2026-巡灵的祝祭第11弹-activity",
       "name": "FGO 巡灵的祝祭 第11弹",
-      "name_en": "FGO 巡灵的祝祭 第11弹",
+      "name_en": "FGO Evocation Festival Part 11",
       "date": "2026-04-02",
       "end_date": "2026-04-16",
       "time": "19:00",
@@ -3190,22 +3602,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「巡灵的祝祭 第11弹」。",
-      "description_en": "FGO Event「巡灵的祝祭 第11弹」.",
+      "description_en": "FGO Evocation Festival Part 11.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "巡灵的祝祭 第11弹"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-新章开放条件通关应援冠位戴冠战Saber-activity",
       "name": "FGO 新章开放条件通关应援「冠位戴冠战：Saber」风暴罐消耗0！纪念活动",
-      "name_en": "FGO 新章开放条件通关应援「冠位戴冠战：Saber」风暴罐消耗0！纪念活动",
+      "name_en": "FGO New Chapter Unlock Support: Grand Duel: Saber Zero Storm Pod Cost Campaign",
       "date": "2026-04-03",
       "end_date": "2026-04-10",
       "time": "18:00",
@@ -3215,22 +3631,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「新章开放条件通关应援「冠位戴冠战：Saber」风暴罐消耗0！纪念活动」。",
-      "description_en": "FGO Event「新章开放条件通关应援「冠位戴冠战：Saber」风暴罐消耗0！纪念活动」.",
+      "description_en": "FGO New Chapter Unlock Support: Grand Duel: Saber Zero Storm Pod Cost Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "新章开放条件通关应援「冠位戴冠战：Saber」风暴罐消耗0！纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-3400万下载突破纪念活动-activity",
       "name": "FGO 3400万下载突破纪念活动",
-      "name_en": "FGO 3400万下载突破纪念活动",
+      "name_en": "FGO 34 Million Downloads Celebration Campaign",
       "date": "2026-04-08",
       "end_date": "2026-04-22",
       "time": "18:00",
@@ -3240,22 +3660,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「3400万下载突破纪念活动」。",
-      "description_en": "FGO Event「3400万下载突破纪念活动」.",
+      "description_en": "FGO 34 Million Downloads Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "3400万下载突破纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-3100万下载突破纪念活动-activity",
       "name": "FGO 3100万下载突破纪念活动",
-      "name_en": "FGO 3100万下载突破纪念活动",
+      "name_en": "FGO 31 Million Downloads Celebration Campaign",
       "date": "2026-04-09",
       "end_date": "2026-04-30",
       "time": "19:00",
@@ -3265,22 +3689,25 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「3100万下载突破纪念活动」。",
-      "description_en": "FGO Event「3100万下载突破纪念活动」.",
+      "description_en": "FGO 31 Million Downloads Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "3100万下载突破纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-新章开放条件通关应援冠位戴冠战Extra-activity",
       "name": "FGO 新章开放条件通关应援「冠位戴冠战：Extra」风暴罐消耗0！纪念活动",
-      "name_en": "FGO 新章开放条件通关应援「冠位戴冠战：Extra」风暴罐消耗0！纪念活动",
       "date": "2026-04-10",
       "end_date": "2026-04-17",
       "time": "18:00",
@@ -3290,22 +3717,27 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「新章开放条件通关应援「冠位戴冠战：Extra」风暴罐消耗0！纪念活动」。",
-      "description_en": "FGO Event「新章开放条件通关应援「冠位戴冠战：Extra」风暴罐消耗0！纪念活动」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "新章开放条件通关应援「冠位戴冠战：Extra」风暴罐消耗0！纪念活动"
+      },
+      "name_en": "FGO New Chapter Unlock Support: Grand Duel: Extra Zero Storm Pod Cost Campaign",
+      "description_en": "FGO New Chapter Unlock Support: Grand Duel: Extra Zero Storm Pod Cost Campaign.",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-FatestrangeFakeFateG-activity",
       "name": "FGO 「Fate/strange Fake×Fate/Grand Order联动活动」开幕前夕纪念活动",
-      "name_en": "FGO 「Fate/strange Fake×Fate/Grand Order联动活动」开幕前夕纪念活动",
+      "name_en": "FGO Fate/strange Fake×Fate/Grand Order Collaboration Event Pre-Release Campaign",
       "date": "2026-04-15",
       "end_date": "2026-04-29",
       "time": "18:00",
@@ -3315,22 +3747,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「Fate/strange Fake×Fate/Grand Order联动活动」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「Fate/strange Fake×Fate/Grand Order联动活动」开幕前夕纪念活动」.",
+      "description_en": "FGO Fate/strange Fake×Fate/Grand Order Collaboration Event Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「Fate/strange Fake×Fate/Grand Order联动活动」开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-新章开放条件通关应援冠位戴冠战Arche-activity",
       "name": "FGO 新章开放条件通关应援「冠位戴冠战：Archer」风暴罐消耗0！纪念活动",
-      "name_en": "FGO 新章开放条件通关应援「冠位戴冠战：Archer」风暴罐消耗0！纪念活动",
+      "name_en": "FGO New Chapter Unlock Support: Grand Duel: Archer Zero Storm Pod Cost Campaign",
       "date": "2026-04-17",
       "end_date": "2026-04-24",
       "time": "18:00",
@@ -3340,22 +3776,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「新章开放条件通关应援「冠位戴冠战：Archer」风暴罐消耗0！纪念活动」。",
-      "description_en": "FGO Event「新章开放条件通关应援「冠位戴冠战：Archer」风暴罐消耗0！纪念活动」.",
+      "description_en": "FGO New Chapter Unlock Support: Grand Duel: Archer Zero Storm Pod Cost Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "新章开放条件通关应援「冠位戴冠战：Archer」风暴罐消耗0！纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-巡灵的祝祭第12弹-activity",
       "name": "FGO 巡灵的祝祭 第12弹",
-      "name_en": "FGO 巡灵的祝祭 第12弹",
+      "name_en": "FGO Evocation Festival Part 12",
       "date": "2026-04-23",
       "end_date": "2026-05-07",
       "time": "19:00",
@@ -3365,22 +3805,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「巡灵的祝祭 第12弹」。",
-      "description_en": "FGO Event「巡灵的祝祭 第12弹」.",
+      "description_en": "FGO Evocation Festival Part 12.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "巡灵的祝祭 第12弹"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-剽灭十字前线安条克-activity",
       "name": "FGO 剽灭十字前线 安条克",
-      "name_en": "FGO 剽灭十字前线 安条克",
+      "name_en": "FGO Crusade Front: Antioch",
       "date": "2026-04-25",
       "end_date": "2026-05-16",
       "time": "20:00",
@@ -3390,22 +3834,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「剽灭十字前线 安条克」。",
-      "description_en": "FGO Event「剽灭十字前线 安条克」.",
+      "description_en": "FGO Crusade Front: Antioch.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "剽灭十字前线 安条克"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-上线3500日纪念活动-activity",
       "name": "FGO 上线3500日纪念活动",
-      "name_en": "FGO 上线3500日纪念活动",
+      "name_en": "FGO 3500 Days Since Launch Celebration Campaign",
       "date": "2026-04-30",
       "end_date": "2026-05-01",
       "time": "04:00",
@@ -3415,22 +3863,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「上线3500日纪念活动」。",
-      "description_en": "FGO Event「上线3500日纪念活动」.",
+      "description_en": "FGO 3500 Days Since Launch Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "上线3500日纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-奏章开幕纪念冲刺活动-activity",
       "name": "FGO 「奏章Ⅳ」开幕纪念冲刺活动",
-      "name_en": "FGO 「奏章Ⅳ」开幕纪念冲刺活动",
+      "name_en": "FGO Ordeal Call Ⅳ Release Countdown Campaign",
       "date": "2026-04-30",
       "end_date": "2026-05-31",
       "time": "19:00",
@@ -3440,22 +3892,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「奏章Ⅳ」开幕纪念冲刺活动」。",
-      "description_en": "FGO Event「「奏章Ⅳ」开幕纪念冲刺活动」.",
+      "description_en": "FGO Ordeal Call Ⅳ Release Countdown Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「奏章Ⅳ」开幕纪念冲刺活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-伪典共鸣幻想雪原市-activity",
       "name": "FGO 伪典共鸣幻想 雪原市",
-      "name_en": "FGO 伪典共鸣幻想 雪原市",
+      "name_en": "FGO Apocryphal Resonance Fantasy: Snowfield",
       "date": "2026-05-01",
       "end_date": "2026-05-16",
       "time": "18:00",
@@ -3465,22 +3921,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「伪典共鸣幻想 雪原市」。",
-      "description_en": "FGO Event「伪典共鸣幻想 雪原市」.",
+      "description_en": "FGO Apocryphal Resonance Fantasy: Snowfield.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "伪典共鸣幻想 雪原市"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-新章开放条件通关应援冠位戴冠战Rider-activity",
       "name": "FGO 新章开放条件通关应援「冠位戴冠战：Rider」风暴罐消耗0！纪念活动",
-      "name_en": "FGO 新章开放条件通关应援「冠位戴冠战：Rider」风暴罐消耗0！纪念活动",
+      "name_en": "FGO New Chapter Unlock Support: Grand Duel: Rider Zero Storm Pod Cost Campaign",
       "date": "2026-05-08",
       "end_date": "2026-05-15",
       "time": "18:00",
@@ -3490,22 +3950,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「新章开放条件通关应援「冠位戴冠战：Rider」风暴罐消耗0！纪念活动」。",
-      "description_en": "FGO Event「新章开放条件通关应援「冠位戴冠战：Rider」风暴罐消耗0！纪念活动」.",
+      "description_en": "FGO New Chapter Unlock Support: Grand Duel: Rider Zero Storm Pod Cost Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "新章开放条件通关应援「冠位戴冠战：Rider」风暴罐消耗0！纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-冠位肖像系统解放冠位戴冠战开幕前夕纪念活-activity",
       "name": "FGO 「冠位肖像系统」解放＆「冠位戴冠战」开幕 前夕纪念活动",
-      "name_en": "FGO 「冠位肖像系统」解放＆「冠位戴冠战」开幕 前夕纪念活动",
+      "name_en": "FGO Grand Graph System Unlock & Grand Duel Pre-Release Campaign",
       "date": "2026-05-09",
       "end_date": "2026-05-28",
       "time": "19:00",
@@ -3515,22 +3979,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「冠位肖像系统」解放＆「冠位戴冠战」开幕 前夕纪念活动」。",
-      "description_en": "FGO Event「「冠位肖像系统」解放＆「冠位戴冠战」开幕 前夕纪念活动」.",
+      "description_en": "FGO Grand Graph System Unlock & Grand Duel Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「冠位肖像系统」解放＆「冠位戴冠战」开幕 前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-巡灵的祝祭第13弹-activity",
       "name": "FGO 巡灵的祝祭 第13弹",
-      "name_en": "FGO 巡灵的祝祭 第13弹",
+      "name_en": "FGO Evocation Festival Part 13",
       "date": "2026-05-09",
       "end_date": "2026-05-23",
       "time": "19:00",
@@ -3540,22 +4008,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「巡灵的祝祭 第13弹」。",
-      "description_en": "FGO Event「巡灵的祝祭 第13弹」.",
+      "description_en": "FGO Evocation Festival Part 13.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "巡灵的祝祭 第13弹"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-新章开幕前夕纪念活动第1弹-activity",
       "name": "FGO 「新章」开幕前夕纪念活动 第1弹",
-      "name_en": "FGO 「新章」开幕前夕纪念活动 第1弹",
+      "name_en": "FGO New Chapter Pre-Release Campaign Part 1",
       "date": "2026-05-13",
       "end_date": "2026-06-30",
       "time": "18:00",
@@ -3565,22 +4037,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「新章」开幕前夕纪念活动 第1弹」。",
-      "description_en": "FGO Event「「新章」开幕前夕纪念活动 第1弹」.",
+      "description_en": "FGO New Chapter Pre-Release Campaign Part 1.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「新章」开幕前夕纪念活动 第1弹"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-新章开放条件通关应援冠位戴冠战Assas-activity",
       "name": "FGO 新章开放条件通关应援「冠位戴冠战：Assassin」风暴罐消耗0！纪念活动",
-      "name_en": "FGO 新章开放条件通关应援「冠位戴冠战：Assassin」风暴罐消耗0！纪念活动",
+      "name_en": "FGO New Chapter Unlock Support: Grand Duel: Assassin Zero Storm Pod Cost Campaign",
       "date": "2026-05-15",
       "end_date": "2026-05-22",
       "time": "18:00",
@@ -3590,22 +4066,25 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「新章开放条件通关应援「冠位戴冠战：Assassin」风暴罐消耗0！纪念活动」。",
-      "description_en": "FGO Event「新章开放条件通关应援「冠位戴冠战：Assassin」风暴罐消耗0！纪念活动」.",
+      "description_en": "FGO New Chapter Unlock Support: Grand Duel: Assassin Zero Storm Pod Cost Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "新章开放条件通关应援「冠位戴冠战：Assassin」风暴罐消耗0！纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-篇乡愁永巡刻盘过去的迦勒底开幕前夕纪念活-activity",
       "name": "FGO 「？？？篇 乡愁永巡刻盘 过去的迦勒底」开幕前夕纪念活动 第2弹",
-      "name_en": "FGO 「？？？篇 乡愁永巡刻盘 过去的迦勒底」开幕前夕纪念活动 第2弹",
       "date": "2026-05-20",
       "end_date": "2026-06-03",
       "time": "18:00",
@@ -3615,22 +4094,27 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「？？？篇 乡愁永巡刻盘 过去的迦勒底」开幕前夕纪念活动 第2弹」。",
-      "description_en": "FGO Event「「？？？篇 乡愁永巡刻盘 过去的迦勒底」开幕前夕纪念活动 第2弹」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「？？？篇 乡愁永巡刻盘 过去的迦勒底」开幕前夕纪念活动 第2弹"
+      },
+      "name_en": "FGO Unknown Chapter: Nostalgia's Ever-Turning Dial — Chaldea of the Past Pre-Release Campaign Part 2",
+      "description_en": "FGO Unknown Chapter: Nostalgia's Ever-Turning Dial — Chaldea of the Past Pre-Release Campaign Part 2.",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-新章开放条件通关应援冠位戴冠战Caste-activity",
       "name": "FGO 新章开放条件通关应援「冠位戴冠战：Caster」风暴罐消耗0！纪念活动",
-      "name_en": "FGO 新章开放条件通关应援「冠位戴冠战：Caster」风暴罐消耗0！纪念活动",
+      "name_en": "FGO New Chapter Unlock Support: Grand Duel: Caster Zero Storm Pod Cost Campaign",
       "date": "2026-05-22",
       "end_date": "2026-05-29",
       "time": "18:00",
@@ -3640,22 +4124,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「新章开放条件通关应援「冠位戴冠战：Caster」风暴罐消耗0！纪念活动」。",
-      "description_en": "FGO Event「新章开放条件通关应援「冠位戴冠战：Caster」风暴罐消耗0！纪念活动」.",
+      "description_en": "FGO New Chapter Unlock Support: Grand Duel: Caster Zero Storm Pod Cost Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "新章开放条件通关应援「冠位戴冠战：Caster」风暴罐消耗0！纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-落泪之翼开幕前夕纪念活动-activity",
       "name": "FGO 「落泪之翼」开幕前夕纪念活动",
-      "name_en": "FGO 「落泪之翼」开幕前夕纪念活动",
+      "name_en": "FGO Wings of Tears Pre-Release Campaign",
       "date": "2026-05-28",
       "end_date": "2026-06-11",
       "time": "19:00",
@@ -3665,16 +4153,20 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「落泪之翼」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「落泪之翼」开幕前夕纪念活动」.",
+      "description_en": "FGO Wings of Tears Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「落泪之翼」开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -3750,7 +4242,7 @@
     {
       "id": "fgo-2026-落泪之翼-activity",
       "name": "FGO 落泪之翼",
-      "name_en": "FGO 落泪之翼",
+      "name_en": "FGO Wings of Tears",
       "date": "2026-06-03",
       "end_date": "2026-06-25",
       "time": "19:00",
@@ -3760,16 +4252,20 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「落泪之翼」。",
-      "description_en": "FGO Event「落泪之翼」.",
+      "description_en": "FGO Wings of Tears.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "落泪之翼"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -3913,7 +4409,7 @@
     {
       "id": "fgo-2026-冠位戴冠战Berserker开幕前夕纪念-activity",
       "name": "FGO 「冠位戴冠战：Berserker」开幕前夕纪念活动",
-      "name_en": "FGO 「冠位戴冠战：Berserker」开幕前夕纪念活动",
+      "name_en": "FGO Grand Duel: Berserker Pre-Release Campaign",
       "date": "2026-06-09",
       "end_date": "2026-06-27",
       "time": "19:00",
@@ -3923,16 +4419,20 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「冠位戴冠战：Berserker」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「冠位戴冠战：Berserker」开幕前夕纪念活动」.",
+      "description_en": "FGO Grand Duel: Berserker Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「冠位戴冠战：Berserker」开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -4162,7 +4662,7 @@
     {
       "id": "fgo-2026-夏预习版雀之旅馆的活动日志阎魔亭繁盛记-activity",
       "name": "FGO 夏预习版：雀之旅馆的活动日志～阎魔亭繁盛记～",
-      "name_en": "FGO 夏预习版：雀之旅馆的活动日志～阎魔亭繁盛记～",
+      "name_en": "FGO Summer Preview: Sparrow Inn Diary — Enma-tei Prosperity",
       "date": "2026-06-12",
       "end_date": "2026-06-26",
       "time": "10:00",
@@ -4172,16 +4672,20 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「夏预习版：雀之旅馆的活动日志～阎魔亭繁盛记～」。",
-      "description_en": "FGO Event「夏预习版：雀之旅馆的活动日志～阎魔亭繁盛记～」.",
+      "description_en": "FGO Summer Preview: Sparrow Inn Diary — Enma-tei Prosperity.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "夏预习版：雀之旅馆的活动日志～阎魔亭繁盛记～"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -4257,7 +4761,7 @@
     {
       "id": "fgo-2026-于春日的尾声等待你开幕前夕纪念活动-activity",
       "name": "FGO 「于春日的尾声等待你」开幕前夕纪念活动",
-      "name_en": "FGO 「于春日的尾声等待你」开幕前夕纪念活动",
+      "name_en": "FGO Waiting for You at Spring's End Pre-Release Campaign",
       "date": "2026-06-24",
       "end_date": "2026-07-08",
       "time": "18:00",
@@ -4267,22 +4771,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「于春日的尾声等待你」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「于春日的尾声等待你」开幕前夕纪念活动」.",
+      "description_en": "FGO Waiting for You at Spring's End Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「于春日的尾声等待你」开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-7月奖池活动开幕前夕纪念活动-activity",
       "name": "FGO 「7月奖池活动」开幕前夕纪念活动",
-      "name_en": "FGO 「7月奖池活动」开幕前夕纪念活动",
+      "name_en": "FGO Month 7 Lottery Event Pre-Release Campaign",
       "date": "2026-06-25",
       "end_date": "2026-07-09",
       "time": "19:00",
@@ -4292,16 +4800,20 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「7月奖池活动」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「7月奖池活动」开幕前夕纪念活动」.",
+      "description_en": "FGO Month 7 Lottery Event Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「7月奖池活动」开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -4457,7 +4969,7 @@
     {
       "id": "fgo-2026-OVERTHESAMESKYJUNE纪念-activity",
       "name": "FGO 「OVER THE SAME SKY-JUNE-」纪念登录奖励&amp;概念礼装！",
-      "name_en": "FGO 「OVER THE SAME SKY-JUNE-」纪念登录奖励&amp;概念礼装！",
+      "name_en": "FGO OVER THE SAME SKY-JUNE- Login Bonuses & Craft Essences",
       "date": "2026-06-30",
       "end_date": "2026-07-14",
       "time": "19:00",
@@ -4467,16 +4979,20 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「OVER THE SAME SKY-JUNE-」纪念登录奖励&amp;概念礼装！」。",
-      "description_en": "FGO Event「「OVER THE SAME SKY-JUNE-」纪念登录奖励&amp;概念礼装！」.",
+      "description_en": "FGO OVER THE SAME SKY-JUNE- Login Bonuses & Craft Essences.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「OVER THE SAME SKY-JUNE-」纪念登录奖励&amp;概念礼装！"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -4540,7 +5056,7 @@
     {
       "id": "fgo-2026-于春日的尾声等待你-activity",
       "name": "FGO 于春日的尾声等待你",
-      "name_en": "FGO 于春日的尾声等待你",
+      "name_en": "FGO Waiting for You at Spring's End",
       "date": "2026-07-01",
       "end_date": "2026-07-22",
       "time": "20:00",
@@ -4550,16 +5066,20 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「于春日的尾声等待你」。",
-      "description_en": "FGO Event「于春日的尾声等待你」.",
+      "description_en": "FGO Waiting for You at Spring's End.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "于春日的尾声等待你"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -4681,7 +5201,7 @@
     {
       "id": "fgo-2026-冠位戴冠战Lancer开幕前夕纪念活动-activity",
       "name": "FGO 「冠位戴冠战：Lancer」开幕前夕纪念活动",
-      "name_en": "FGO 「冠位戴冠战：Lancer」开幕前夕纪念活动",
+      "name_en": "FGO Grand Duel: Lancer Pre-Release Campaign",
       "date": "2026-07-02",
       "end_date": "2026-07-23",
       "time": "19:00",
@@ -4691,16 +5211,20 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「冠位戴冠战：Lancer」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「冠位戴冠战：Lancer」开幕前夕纪念活动」.",
+      "description_en": "FGO Grand Duel: Lancer Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「冠位戴冠战：Lancer」开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -4798,7 +5322,7 @@
     {
       "id": "fgo-2026-因陀罗的大试炼巡回破裂天空-activity",
       "name": "FGO 因陀罗的大试炼 ～巡回破裂天空～",
-      "name_en": "FGO 因陀罗的大试炼 ～巡回破裂天空～",
+      "name_en": "FGO Indra's Great Trial — Journey Through the Shattered Sky",
       "date": "2026-07-02",
       "end_date": "2026-07-14",
       "time": "19:00",
@@ -4808,16 +5332,20 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「因陀罗的大试炼 ～巡回破裂天空～」。",
-      "description_en": "FGO Event「因陀罗的大试炼 ～巡回破裂天空～」.",
+      "description_en": "FGO Indra's Great Trial — Journey Through the Shattered Sky.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "因陀罗的大试炼 ～巡回破裂天空～"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -5605,7 +6133,7 @@
     {
       "id": "fgo-2026-FateGrandOrder展占星回廊举-activity",
       "name": "FGO 「Fate/Grand Order展 -占星回廊-」举办纪念活动",
-      "name_en": "FGO 「Fate/Grand Order展 -占星回廊-」举办纪念活动",
+      "name_en": "FGO Fate/Grand Order Exhibition -Stargazing Gallery- Celebration Campaign",
       "date": "2026-07-11",
       "end_date": "2026-07-24",
       "time": "00:00",
@@ -5615,16 +6143,20 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「Fate/Grand Order展 -占星回廊-」举办纪念活动」。",
-      "description_en": "FGO Event「「Fate/Grand Order展 -占星回廊-」举办纪念活动」.",
+      "description_en": "FGO Fate/Grand Order Exhibition -Stargazing Gallery- Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「Fate/Grand Order展 -占星回廊-」举办纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -5655,7 +6187,7 @@
     {
       "id": "fgo-2026-上线4000日纪念活动-activity",
       "name": "FGO 上线4000日纪念活动",
-      "name_en": "FGO 上线4000日纪念活动",
+      "name_en": "FGO 4000 Days Since Launch Celebration Campaign",
       "date": "2026-07-11",
       "end_date": "2026-07-11",
       "time": "00:00",
@@ -5665,22 +6197,25 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「上线4000日纪念活动」。",
-      "description_en": "FGO Event「上线4000日纪念活动」.",
+      "description_en": "FGO 4000 Days Since Launch Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "上线4000日纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-FateGrandOrderFes202-activity",
       "name": "FGO 「Fate/Grand Order Fes. 2026 ～10th Anniversary～」倒计时纪念活动",
-      "name_en": "FGO 「Fate/Grand Order Fes. 2026 ～10th Anniversary～」倒计时纪念活动",
       "date": "2026-07-18",
       "end_date": "2026-08-08",
       "time": "19:00",
@@ -5690,16 +6225,21 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「Fate/Grand Order Fes. 2026 ～10th Anniversary～」倒计时纪念活动」。",
-      "description_en": "FGO Event「「Fate/Grand Order Fes. 2026 ～10th Anniversary～」倒计时纪念活动」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「Fate/Grand Order Fes. 2026 ～10th Anniversary～」倒计时纪念活动"
+      },
+      "name_en": "FGO Fate/Grand Order Fes. 2026 — 10th Anniversary — Countdown Campaign",
+      "description_en": "FGO Fate/Grand Order Fes. 2026 — 10th Anniversary — Countdown Campaign.",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -5759,7 +6299,7 @@
     {
       "id": "fgo-2026-总统特异点通关应援纪念活动第2弹-activity",
       "name": "FGO 「总统特异点」通关应援纪念活动 第2弹",
-      "name_en": "FGO 「总统特异点」通关应援纪念活动 第2弹",
+      "name_en": "FGO President Singularity Clear Support Campaign Part 2",
       "date": "2026-07-24",
       "end_date": "2026-09-02",
       "time": "15:00",
@@ -5769,16 +6309,20 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「总统特异点」通关应援纪念活动 第2弹」。",
-      "description_en": "FGO Event「「总统特异点」通关应援纪念活动 第2弹」.",
+      "description_en": "FGO President Singularity Clear Support Campaign Part 2.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「总统特异点」通关应援纪念活动 第2弹"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -6030,7 +6574,7 @@
       "description_en": "FGO Event「Fate/Grand Order ～10th Anniversary～」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
@@ -6042,7 +6586,7 @@
     {
       "id": "fgo-2026-冠位戴冠战Extra开幕前夕纪念活动-activity",
       "name": "FGO 「冠位戴冠战：Extra」开幕前夕纪念活动",
-      "name_en": "FGO 「冠位戴冠战：Extra」开幕前夕纪念活动",
+      "name_en": "FGO Grand Duel: Extra Pre-Release Campaign",
       "date": "2026-07-29",
       "end_date": "2026-09-03",
       "time": "12:00",
@@ -6052,16 +6596,20 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「冠位戴冠战：Extra」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「冠位戴冠战：Extra」开幕前夕纪念活动」.",
+      "description_en": "FGO Grand Duel: Extra Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「冠位戴冠战：Extra」开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -6141,7 +6689,6 @@
     {
       "id": "fgo-2026-FateGrandOrder11thAn-activity",
       "name": "FGO 「Fate/Grand Order ～11th Anniversary～」迦勒底学园祭联动活动",
-      "name_en": "FGO 「Fate/Grand Order ～11th Anniversary～」迦勒底学园祭联动活动",
       "date": "2026-08-01",
       "end_date": "2026-08-12",
       "time": "09:00",
@@ -6151,16 +6698,21 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「Fate/Grand Order ～11th Anniversary～」迦勒底学园祭联动活动」。",
-      "description_en": "FGO Event「「Fate/Grand Order ～11th Anniversary～」迦勒底学园祭联动活动」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「Fate/Grand Order ～11th Anniversary～」迦勒底学园祭联动活动"
+      },
+      "name_en": "FGO Fate/Grand Order — 11th Anniversary — Chaldea School Festival Collaboration",
+      "description_en": "FGO Fate/Grand Order — 11th Anniversary — Chaldea School Festival Collaboration.",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -6216,7 +6768,7 @@
     {
       "id": "fgo-2026-上线3600日纪念活动-activity",
       "name": "FGO 上线3600日纪念活动",
-      "name_en": "FGO 上线3600日纪念活动",
+      "name_en": "FGO 3600 Days Since Launch Celebration Campaign",
       "date": "2026-08-08",
       "end_date": "2026-08-09",
       "time": "04:00",
@@ -6226,16 +6778,20 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「上线3600日纪念活动」。",
-      "description_en": "FGO Event「上线3600日纪念活动」.",
+      "description_en": "FGO 3600 Days Since Launch Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "上线3600日纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -6307,7 +6863,7 @@
     {
       "id": "fgo-2026-迦勒底U夏日岛总统会梦见夏日吗-activity",
       "name": "FGO 迦勒底·U－夏日岛 ～总统会梦见夏日吗？～",
-      "name_en": "FGO 迦勒底·U－夏日岛 ～总统会梦见夏日吗？～",
+      "name_en": "FGO Chaldea U-Summer Island — Does the President Dream of Summer?",
       "date": "2026-08-08",
       "end_date": "2026-08-29",
       "time": "15:00",
@@ -6317,16 +6873,20 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「迦勒底·U－夏日岛 ～总统会梦见夏日吗？～」。",
-      "description_en": "FGO Event「迦勒底·U－夏日岛 ～总统会梦见夏日吗？～」.",
+      "description_en": "FGO Chaldea U-Summer Island — Does the President Dream of Summer?.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "迦勒底·U－夏日岛 ～总统会梦见夏日吗？～"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -6456,7 +7016,6 @@
     {
       "id": "fgo-2026-FinalOrderProjectLos-activity",
       "name": "FGO Final Order Project [Lostbelt No.1]通关应援纪念活动",
-      "name_en": "FGO Final Order Project [Lostbelt No.1]通关应援纪念活动",
       "date": "2026-08-11",
       "end_date": "2026-10-31",
       "time": "19:00",
@@ -6466,16 +7025,21 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「Final Order Project [Lostbelt No.1]通关应援纪念活动」。",
-      "description_en": "FGO Event「Final Order Project [Lostbelt No.1]通关应援纪念活动」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "Final Order Project [Lostbelt No.1]通关应援纪念活动"
+      },
+      "name_en": "FGO Final Order Project [Lostbelt No.1] Clear Support Campaign",
+      "description_en": "FGO Final Order Project [Lostbelt No.1] Clear Support Campaign.",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -6605,7 +7169,7 @@
     {
       "id": "fgo-2026-迦勒底南海大决战妖怪岛惊现谜之巨人身影-activity",
       "name": "FGO 迦勒底南海大决战！ ～妖怪岛惊现谜之巨人身影～",
-      "name_en": "FGO 迦勒底南海大决战！ ～妖怪岛惊现谜之巨人身影～",
+      "name_en": "FGO Chaldea South Seas Showdown — A Mysterious Giant on Yokai Island",
       "date": "2026-08-12",
       "end_date": "2026-09-02",
       "time": "20:00",
@@ -6615,16 +7179,20 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「迦勒底南海大决战！ ～妖怪岛惊现谜之巨人身影～」。",
-      "description_en": "FGO Event「迦勒底南海大决战！ ～妖怪岛惊现谜之巨人身影～」.",
+      "description_en": "FGO Chaldea South Seas Showdown — A Mysterious Giant on Yokai Island.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "迦勒底南海大决战！ ～妖怪岛惊现谜之巨人身影～"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -7080,7 +7648,7 @@
     {
       "id": "fgo-2026-3200万下载突破纪念活动-activity",
       "name": "FGO 3200万下载突破纪念活动",
-      "name_en": "FGO 3200万下载突破纪念活动",
+      "name_en": "FGO 32 Million Downloads Celebration Campaign",
       "date": "2026-08-29",
       "end_date": "2026-09-12",
       "time": "19:00",
@@ -7090,16 +7658,20 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「3200万下载突破纪念活动」。",
-      "description_en": "FGO Event「3200万下载突破纪念活动」.",
+      "description_en": "FGO 32 Million Downloads Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "3200万下载突破纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -7151,7 +7723,7 @@
     {
       "id": "fgo-2026-3500万下载突破纪念活动-activity",
       "name": "FGO 3500万下载突破纪念活动",
-      "name_en": "FGO 3500万下载突破纪念活动",
+      "name_en": "FGO 35 Million Downloads Celebration Campaign",
       "date": "2026-09-02",
       "end_date": "2026-09-16",
       "time": "18:00",
@@ -7161,16 +7733,20 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「3500万下载突破纪念活动」。",
-      "description_en": "FGO Event「3500万下载突破纪念活动」.",
+      "description_en": "FGO 35 Million Downloads Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "3500万下载突破纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -7250,7 +7826,7 @@
     {
       "id": "fgo-2026-冠位戴冠战Rider开幕前夕纪念活动-activity",
       "name": "FGO 「冠位戴冠战：Rider」开幕前夕纪念活动",
-      "name_en": "FGO 「冠位戴冠战：Rider」开幕前夕纪念活动",
+      "name_en": "FGO Grand Duel: Rider Pre-Release Campaign",
       "date": "2026-09-03",
       "end_date": "2026-09-16",
       "time": "19:00",
@@ -7260,16 +7836,20 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「冠位戴冠战：Rider」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「冠位戴冠战：Rider」开幕前夕纪念活动」.",
+      "description_en": "FGO Grand Duel: Rider Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「冠位戴冠战：Rider」开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -7317,7 +7897,7 @@
     {
       "id": "fgo-2026-失落的创世VanishedBeginni-activity",
       "name": "FGO 失落的创世(Vanished Beginning) 来自未来的方舟",
-      "name_en": "FGO 失落的创世(Vanished Beginning) 来自未来的方舟",
+      "name_en": "FGO Vanished Beginning — An Ark from the Future",
       "date": "2026-09-03",
       "end_date": "2026-09-24",
       "time": "19:00",
@@ -7327,16 +7907,20 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「失落的创世(Vanished Beginning) 来自未来的方舟」。",
-      "description_en": "FGO Event「失落的创世(Vanished Beginning) 来自未来的方舟」.",
+      "description_en": "FGO Vanished Beginning — An Ark from the Future.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "失落的创世(Vanished Beginning) 来自未来的方舟"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -7474,7 +8058,7 @@
     {
       "id": "fgo-2026-见鬼去吧南瓜农场屠杀开幕前夕纪念活动-activity",
       "name": "FGO 「见鬼去吧！ 南瓜农场屠杀」开幕前夕纪念活动",
-      "name_en": "FGO 「见鬼去吧！ 南瓜农场屠杀」开幕前夕纪念活动",
+      "name_en": "FGO Go to Hell! Pumpkin Farm Massacre Pre-Release Campaign",
       "date": "2026-09-09",
       "end_date": "2026-09-23",
       "time": "18:00",
@@ -7484,22 +8068,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「见鬼去吧！ 南瓜农场屠杀」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「见鬼去吧！ 南瓜农场屠杀」开幕前夕纪念活动」.",
+      "description_en": "FGO Go to Hell! Pumpkin Farm Massacre Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「见鬼去吧！ 南瓜农场屠杀」开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-见鬼去吧南瓜农场屠杀参加条件通关应援纪念-activity",
       "name": "FGO 「见鬼去吧！ 南瓜农场屠杀」参加条件通关应援纪念活动",
-      "name_en": "FGO 「见鬼去吧！ 南瓜农场屠杀」参加条件通关应援纪念活动",
+      "name_en": "FGO Go to Hell! Pumpkin Farm Massacre Entry Requirement Support Campaign",
       "date": "2026-09-16",
       "end_date": "2026-10-07",
       "time": "18:00",
@@ -7509,22 +8097,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「见鬼去吧！ 南瓜农场屠杀」参加条件通关应援纪念活动」。",
-      "description_en": "FGO Event「「见鬼去吧！ 南瓜农场屠杀」参加条件通关应援纪念活动」.",
+      "description_en": "FGO Go to Hell! Pumpkin Farm Massacre Entry Requirement Support Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「见鬼去吧！ 南瓜农场屠杀」参加条件通关应援纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-见鬼去吧南瓜农场屠杀-activity",
       "name": "FGO 见鬼去吧！ 南瓜农场屠杀",
-      "name_en": "FGO 见鬼去吧！ 南瓜农场屠杀",
+      "name_en": "FGO Go to Hell! Pumpkin Farm Massacre",
       "date": "2026-09-16",
       "end_date": "2026-10-07",
       "time": "20:00",
@@ -7534,16 +8126,20 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「见鬼去吧！ 南瓜农场屠杀」。",
-      "description_en": "FGO Event「见鬼去吧！ 南瓜农场屠杀」.",
+      "description_en": "FGO Go to Hell! Pumpkin Farm Massacre.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "见鬼去吧！ 南瓜农场屠杀"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -7599,7 +8195,7 @@
     {
       "id": "fgo-2026-冠位戴冠战Saber冠位戴冠战Berse-activity",
       "name": "FGO 「冠位戴冠战：Saber」＆「冠位戴冠战：Berserker」风暴罐消耗0！纪念活动",
-      "name_en": "FGO 「冠位戴冠战：Saber」＆「冠位戴冠战：Berserker」风暴罐消耗0！纪念活动",
+      "name_en": "FGO Grand Duel: Saber & Grand Duel: Berserker Zero Storm Pod Cost Campaign",
       "date": "2026-09-17",
       "end_date": "2026-09-24",
       "time": "19:00",
@@ -7609,16 +8205,20 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「冠位戴冠战：Saber」＆「冠位戴冠战：Berserker」风暴罐消耗0！纪念活动」。",
-      "description_en": "FGO Event「「冠位戴冠战：Saber」＆「冠位戴冠战：Berserker」风暴罐消耗0！纪念活动」.",
+      "description_en": "FGO Grand Duel: Saber & Grand Duel: Berserker Zero Storm Pod Cost Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「冠位戴冠战：Saber」＆「冠位戴冠战：Berserker」风暴罐消耗0！纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -7666,7 +8266,6 @@
     {
       "id": "fgo-2026-幕末武斗神话唠唠叨叨新选组THEENDR-activity",
       "name": "FGO 「幕末武斗神话 唠唠叨叨新选组 THE END REVENGE OF MAKOTO」开幕前夕纪念活动",
-      "name_en": "FGO 「幕末武斗神话 唠唠叨叨新选组 THE END REVENGE OF MAKOTO」开幕前夕纪念活动",
       "date": "2026-09-17",
       "end_date": "2026-10-01",
       "time": "19:00",
@@ -7676,16 +8275,21 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「幕末武斗神话 唠唠叨叨新选组 THE END REVENGE OF MAKOTO」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「幕末武斗神话 唠唠叨叨新选组 THE END REVENGE OF MAKOTO」开幕前夕纪念活动」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「幕末武斗神话 唠唠叨叨新选组 THE END REVENGE OF MAKOTO」开幕前夕纪念活动"
+      },
+      "name_en": "FGO Bakumatsu Martial Myth: GUDAGUDA Shinsengumi THE END REVENGE OF MAKOTO Pre-Release Campaign",
+      "description_en": "FGO Bakumatsu Martial Myth: GUDAGUDA Shinsengumi THE END REVENGE OF MAKOTO Pre-Release Campaign.",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -8141,7 +8745,6 @@
     {
       "id": "fgo-2026-FinalOrderProjectOrd-activity",
       "name": "FGO Final Order Project [Ordeal Call Ⅰ]通关应援纪念活动",
-      "name_en": "FGO Final Order Project [Ordeal Call Ⅰ]通关应援纪念活动",
       "date": "2026-09-29",
       "end_date": "2026-12-20",
       "time": "19:00",
@@ -8151,16 +8754,21 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「Final Order Project [Ordeal Call Ⅰ]通关应援纪念活动」。",
-      "description_en": "FGO Event「Final Order Project [Ordeal Call Ⅰ]通关应援纪念活动」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "active",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "Final Order Project [Ordeal Call Ⅰ]通关应援纪念活动"
+      },
+      "name_en": "FGO Final Order Project [Ordeal Call Ⅰ] Clear Support Campaign",
+      "description_en": "FGO Final Order Project [Ordeal Call Ⅰ] Clear Support Campaign.",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -8278,7 +8886,7 @@
     {
       "id": "fgo-2026-冠位戴冠战Assassin开幕前夕纪念活-activity",
       "name": "FGO 「冠位戴冠战：Assassin」开幕前夕纪念活动",
-      "name_en": "FGO 「冠位戴冠战：Assassin」开幕前夕纪念活动",
+      "name_en": "FGO Grand Duel: Assassin Pre-Release Campaign",
       "date": "2026-10-04",
       "end_date": "2026-10-22",
       "time": "19:00",
@@ -8288,16 +8896,20 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「冠位戴冠战：Assassin」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「冠位戴冠战：Assassin」开幕前夕纪念活动」.",
+      "description_en": "FGO Grand Duel: Assassin Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「冠位戴冠战：Assassin」开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -8345,7 +8957,7 @@
     {
       "id": "fgo-2026-冠位名代战准备应援纪念活动-activity",
       "name": "FGO 「冠位名代战」准备应援纪念活动",
-      "name_en": "FGO 「冠位名代战」准备应援纪念活动",
+      "name_en": "FGO Grand Proxy Battle Preparation Support Campaign",
       "date": "2026-10-07",
       "end_date": "2026-10-23",
       "time": "18:00",
@@ -8355,16 +8967,20 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「冠位名代战」准备应援纪念活动」。",
-      "description_en": "FGO Event「「冠位名代战」准备应援纪念活动」.",
+      "description_en": "FGO Grand Proxy Battle Preparation Support Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「冠位名代战」准备应援纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -8412,7 +9028,7 @@
     {
       "id": "fgo-2026-3300万下载突破纪念活动-activity",
       "name": "FGO 3300万下载突破纪念活动",
-      "name_en": "FGO 3300万下载突破纪念活动",
+      "name_en": "FGO 33 Million Downloads Celebration Campaign",
       "date": "2026-10-08",
       "end_date": "2026-10-22",
       "time": "19:00",
@@ -8422,16 +9038,20 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「3300万下载突破纪念活动」。",
-      "description_en": "FGO Event「3300万下载突破纪念活动」.",
+      "description_en": "FGO 33 Million Downloads Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "3300万下载突破纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -8479,7 +9099,7 @@
     {
       "id": "fgo-2026-复刻版盈月剑风帖-activity",
       "name": "FGO 复刻版：盈月剑风帖",
-      "name_en": "FGO 复刻版：盈月剑风帖",
+      "name_en": "FGO Rerun: Waxing Moon Sword Tale",
       "date": "2026-10-14",
       "end_date": "2026-11-04",
       "time": "18:00",
@@ -8489,16 +9109,20 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「复刻版：盈月剑风帖」。",
-      "description_en": "FGO Event「复刻版：盈月剑风帖」.",
+      "description_en": "FGO Rerun: Waxing Moon Sword Tale.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "active",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "复刻版：盈月剑风帖"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
@@ -8558,7 +9182,7 @@
     {
       "id": "fgo-2026-万圣节2026开幕前夕纪念活动-activity",
       "name": "FGO 「万圣节2026」开幕前夕纪念活动",
-      "name_en": "FGO 「万圣节2026」开幕前夕纪念活动",
+      "name_en": "FGO Halloween 2026 Pre-Release Campaign",
       "date": "2026-10-17",
       "end_date": "2026-10-31",
       "time": "19:00",
@@ -8568,22 +9192,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「万圣节2026」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「万圣节2026」开幕前夕纪念活动」.",
+      "description_en": "FGO Halloween 2026 Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「万圣节2026」开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-上线4100日纪念活动-activity",
       "name": "FGO 上线4100日纪念活动",
-      "name_en": "FGO 上线4100日纪念活动",
+      "name_en": "FGO 4100 Days Since Launch Celebration Campaign",
       "date": "2026-10-19",
       "end_date": "2026-10-19",
       "time": "00:00",
@@ -8593,22 +9221,25 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「上线4100日纪念活动」。",
-      "description_en": "FGO Event「上线4100日纪念活动」.",
+      "description_en": "FGO 4100 Days Since Launch Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "上线4100日纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-终结万圣节20265SSR伊丽莎白巴托里-banner",
-      "name": "FGO 终结·万圣节2026 ★5(SSR)伊丽莎白·巴托里推荐召唤 召唤",
-      "name_en": "FGO 终结·万圣节2026 ★5(SSR)伊丽莎白·巴托里推荐召唤 Summoning",
+      "name": "FGO 终结·万圣节2026 ★5(SSR)伊丽莎白·巴托里推荐召唤",
       "date": "2026-10-22",
       "end_date": "2026-11-13",
       "time": "19:00",
@@ -8618,10 +9249,9 @@
       "type": "range",
       "year": 2026,
       "description": "FGO召唤「终结·万圣节2026 ★5(SSR)伊丽莎白·巴托里推荐召唤」。",
-      "description_en": "FGO Summoning「终结·万圣节2026 ★5(SSR)伊丽莎白·巴托里推荐召唤」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "active",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
@@ -8629,36 +9259,24 @@
         "source_kind": "banner",
         "version": "终结·万圣节2026 ★5(SSR)伊丽莎白·巴托里推荐召唤"
       },
+      "name_en": "FGO Final Halloween 2026 ★5(SSR)Elizabeth Bathory Summoning",
+      "description_en": "FGO Final Halloween 2026 ★5(SSR)Elizabeth Bathory Summoning.",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
+      },
       "banners": [
         {
           "name": "终结·万圣节2026 ★5(SSR)伊丽莎白·巴托里推荐召唤",
-          "type": "character",
-          "featured_5": [
-            {
-              "name": "伊丽莎白·巴托里SSR",
-              "rarity": 5
-            },
-            {
-              "name": "太空女主人",
-              "rarity": 5
-            },
-            {
-              "name": "地下贫民窟",
-              "rarity": 5
-            },
-            {
-              "name": "火星射击",
-              "rarity": 5
-            }
-          ],
-          "featured_4": []
+          "name_en": "Final Halloween 2026 ★5(SSR)Elizabeth Bathory Summoning",
+          "type": "character"
         }
       ]
     },
     {
       "id": "fgo-2026-终结万圣节2026于南瓜星闪耀的歌姬-activity",
       "name": "FGO 终结·万圣节2026 ～于南瓜星闪耀的歌姬～",
-      "name_en": "FGO 终结·万圣节2026 ～于南瓜星闪耀的歌姬～",
+      "name_en": "FGO Final Halloween 2026 — A Diva Shining on the Pumpkin Planet",
       "date": "2026-10-22",
       "end_date": "2026-11-12",
       "time": "19:00",
@@ -8668,22 +9286,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「终结·万圣节2026 ～于南瓜星闪耀的歌姬～」。",
-      "description_en": "FGO Event「终结·万圣节2026 ～于南瓜星闪耀的歌姬～」.",
+      "description_en": "FGO Final Halloween 2026 — A Diva Shining on the Pumpkin Planet.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "active",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "终结·万圣节2026 ～于南瓜星闪耀的歌姬～"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-冠位名代战玉藻艾莉亚-activity",
       "name": "FGO 冠位名代战：玉藻艾莉亚",
-      "name_en": "FGO 冠位名代战：玉藻艾莉亚",
+      "name_en": "FGO Grand Proxy Battle: Tamamo Aria",
       "date": "2026-10-23",
       "end_date": "2026-10-30",
       "time": "18:00",
@@ -8693,22 +9315,25 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「冠位名代战：玉藻艾莉亚」。",
-      "description_en": "FGO Event「冠位名代战：玉藻艾莉亚」.",
+      "description_en": "FGO Grand Proxy Battle: Tamamo Aria.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "completed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "activity",
         "version": "冠位名代战：玉藻艾莉亚"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-冠位名代战玉藻艾莉亚推荐召唤-banner",
-      "name": "FGO 「冠位名代战」玉藻艾莉亚推荐召唤 召唤",
-      "name_en": "FGO 「冠位名代战」玉藻艾莉亚推荐召唤 Summoning",
+      "name": "FGO 「冠位名代战」玉藻艾莉亚推荐召唤",
       "date": "2026-10-23",
       "end_date": "2026-11-11",
       "time": "18:00",
@@ -8718,10 +9343,9 @@
       "type": "range",
       "year": 2026,
       "description": "FGO召唤「「冠位名代战」玉藻艾莉亚推荐召唤」。",
-      "description_en": "FGO Summoning「「冠位名代战」玉藻艾莉亚推荐召唤」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "active",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
@@ -8729,24 +9353,23 @@
         "source_kind": "banner",
         "version": "「冠位名代战」玉藻艾莉亚推荐召唤"
       },
+      "name_en": "FGO Grand Proxy Battle Tamamo Aria Summoning",
+      "description_en": "FGO Grand Proxy Battle Tamamo Aria Summoning.",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
+      },
       "banners": [
         {
           "name": "「冠位名代战」玉藻艾莉亚推荐召唤",
-          "type": "character",
-          "featured_5": [
-            {
-              "name": "玉藻艾莉亚",
-              "rarity": 5
-            }
-          ],
-          "featured_4": []
+          "name_en": "Grand Proxy Battle Tamamo Aria Summoning",
+          "type": "character"
         }
       ]
     },
     {
       "id": "fgo-2026-终结万圣节2026推荐召唤2-banner",
-      "name": "FGO 终结·万圣节2026推荐召唤2 召唤",
-      "name_en": "FGO 终结·万圣节2026推荐召唤2 Summoning",
+      "name": "FGO 终结·万圣节2026推荐召唤2",
       "date": "2026-10-24",
       "end_date": "2026-11-12",
       "time": "19:00",
@@ -8756,10 +9379,9 @@
       "type": "range",
       "year": 2026,
       "description": "FGO召唤「终结·万圣节2026推荐召唤2」。",
-      "description_en": "FGO Summoning「终结·万圣节2026推荐召唤2」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "active",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
@@ -8767,52 +9389,23 @@
         "source_kind": "banner",
         "version": "终结·万圣节2026推荐召唤2"
       },
+      "name_en": "FGO Final Halloween 2026 Summoning 2",
+      "description_en": "FGO Final Halloween 2026 Summoning 2.",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
+      },
       "banners": [
         {
           "name": "终结·万圣节2026推荐召唤2",
-          "type": "character",
-          "featured_5": [
-            {
-              "name": "阿喀琉斯",
-              "rarity": 5
-            },
-            {
-              "name": "黄金国的Berserker",
-              "rarity": 5
-            },
-            {
-              "name": "齐格飞",
-              "rarity": 5
-            },
-            {
-              "name": "雅克·德·莫莱",
-              "rarity": 5
-            },
-            {
-              "name": "克里姆希尔德",
-              "rarity": 5
-            },
-            {
-              "name": "太空女主人",
-              "rarity": 5
-            },
-            {
-              "name": "地下贫民窟",
-              "rarity": 5
-            },
-            {
-              "name": "火星射击",
-              "rarity": 5
-            }
-          ],
-          "featured_4": []
+          "name_en": "Final Halloween 2026 Summoning 2",
+          "type": "character"
         }
       ]
     },
     {
       "id": "fgo-2026-FinalOrderProject第2部-activity",
       "name": "FGO Final Order Project 『第2部 终章』临近！最终冲刺纪念活动",
-      "name_en": "FGO Final Order Project 『第2部 终章』临近！最终冲刺纪念活动",
       "date": "2026-10-27",
       "end_date": "2026-12-20",
       "time": "19:00",
@@ -8822,22 +9415,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「Final Order Project 『第2部 终章』临近！最终冲刺纪念活动」。",
-      "description_en": "FGO Event「Final Order Project 『第2部 终章』临近！最终冲刺纪念活动」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "active",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "Final Order Project 『第2部 终章』临近！最终冲刺纪念活动"
+      },
+      "name_en": "FGO Final Order Project Part 2 Final Chapter Final Countdown Campaign",
+      "description_en": "FGO Final Order Project Part 2 Final Chapter Final Countdown Campaign.",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-OVERTHESAMESKYOCTOBE-banner",
-      "name": "FGO 「OVER THE SAME SKY-OCTOBER-」推荐召唤 召唤",
-      "name_en": "FGO 「OVER THE SAME SKY-OCTOBER-」推荐召唤 Summoning",
+      "name": "FGO 「OVER THE SAME SKY-OCTOBER-」推荐召唤",
       "date": "2026-10-27",
       "end_date": "2026-11-10",
       "time": "19:00",
@@ -8847,10 +9444,9 @@
       "type": "range",
       "year": 2026,
       "description": "FGO召唤「「OVER THE SAME SKY-OCTOBER-」推荐召唤」。",
-      "description_en": "FGO Summoning「「OVER THE SAME SKY-OCTOBER-」推荐召唤」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "active",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
@@ -8858,60 +9454,23 @@
         "source_kind": "banner",
         "version": "「OVER THE SAME SKY-OCTOBER-」推荐召唤"
       },
+      "name_en": "FGO OVER THE SAME SKY-OCTOBER- Summoning",
+      "description_en": "FGO OVER THE SAME SKY-OCTOBER- Summoning.",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
+      },
       "banners": [
         {
           "name": "「OVER THE SAME SKY-OCTOBER-」推荐召唤",
-          "type": "character",
-          "featured_5": [
-            {
-              "name": "尤瑞艾莉",
-              "rarity": 5
-            },
-            {
-              "name": "土方岁三",
-              "rarity": 5
-            },
-            {
-              "name": "铃鹿御前",
-              "rarity": 5
-            },
-            {
-              "name": "新宿的Archer",
-              "rarity": 5
-            },
-            {
-              "name": "夏洛克·福尔摩斯",
-              "rarity": 5
-            },
-            {
-              "name": "布拉达曼特",
-              "rarity": 5
-            },
-            {
-              "name": "阿纳斯塔西娅",
-              "rarity": 5
-            },
-            {
-              "name": "多布雷尼亚·尼基季奇",
-              "rarity": 5
-            },
-            {
-              "name": "女教皇若安",
-              "rarity": 5
-            },
-            {
-              "name": "娄希",
-              "rarity": 5
-            }
-          ],
-          "featured_4": []
+          "name_en": "OVER THE SAME SKY-OCTOBER- Summoning",
+          "type": "character"
         }
       ]
     },
     {
       "id": "fgo-2026-终结万圣节2026推荐召唤3-banner",
-      "name": "FGO 终结·万圣节2026推荐召唤3 召唤",
-      "name_en": "FGO 终结·万圣节2026推荐召唤3 Summoning",
+      "name": "FGO 终结·万圣节2026推荐召唤3",
       "date": "2026-10-28",
       "end_date": "2026-11-06",
       "time": "19:00",
@@ -8921,10 +9480,9 @@
       "type": "range",
       "year": 2026,
       "description": "FGO召唤「终结·万圣节2026推荐召唤3」。",
-      "description_en": "FGO Summoning「终结·万圣节2026推荐召唤3」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "active",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
@@ -8932,48 +9490,24 @@
         "source_kind": "banner",
         "version": "终结·万圣节2026推荐召唤3"
       },
+      "name_en": "FGO Final Halloween 2026 Summoning 3",
+      "description_en": "FGO Final Halloween 2026 Summoning 3.",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
+      },
       "banners": [
         {
           "name": "终结·万圣节2026推荐召唤3",
-          "type": "character",
-          "featured_5": [
-            {
-              "name": "卡米拉",
-              "rarity": 5
-            },
-            {
-              "name": "弗拉德三世",
-              "rarity": 5
-            },
-            {
-              "name": "刑部姬",
-              "rarity": 5
-            },
-            {
-              "name": "渡边纲",
-              "rarity": 5
-            },
-            {
-              "name": "太空女主人",
-              "rarity": 5
-            },
-            {
-              "name": "地下贫民窟",
-              "rarity": 5
-            },
-            {
-              "name": "火星射击",
-              "rarity": 5
-            }
-          ],
-          "featured_4": []
+          "name_en": "Final Halloween 2026 Summoning 3",
+          "type": "character"
         }
       ]
     },
     {
       "id": "fgo-2026-巡灵的祝祭第14弹-activity",
       "name": "FGO 巡灵的祝祭 第14弹",
-      "name_en": "FGO 巡灵的祝祭 第14弹",
+      "name_en": "FGO Evocation Festival Part 14",
       "date": "2026-10-28",
       "end_date": "2026-11-14",
       "time": "19:00",
@@ -8983,22 +9517,25 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「巡灵的祝祭 第14弹」。",
-      "description_en": "FGO Event「巡灵的祝祭 第14弹」.",
+      "description_en": "FGO Evocation Festival Part 14.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "active",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "巡灵的祝祭 第14弹"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-巡灵的祝祭第14弹推荐召唤-banner",
-      "name": "FGO 「巡灵的祝祭 第14弹」推荐召唤 召唤",
-      "name_en": "FGO 「巡灵的祝祭 第14弹」推荐召唤 Summoning",
+      "name": "FGO 「巡灵的祝祭 第14弹」推荐召唤",
       "date": "2026-10-28",
       "end_date": "2026-11-09",
       "time": "19:00",
@@ -9008,10 +9545,9 @@
       "type": "range",
       "year": 2026,
       "description": "FGO召唤「「巡灵的祝祭 第14弹」推荐召唤」。",
-      "description_en": "FGO Summoning「「巡灵的祝祭 第14弹」推荐召唤」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "active",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
@@ -9019,52 +9555,24 @@
         "source_kind": "banner",
         "version": "「巡灵的祝祭 第14弹」推荐召唤"
       },
+      "name_en": "FGO Evocation Festival Part 14 Summoning",
+      "description_en": "FGO Evocation Festival Part 14 Summoning.",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
+      },
       "banners": [
         {
           "name": "「巡灵的祝祭 第14弹」推荐召唤",
-          "type": "character",
-          "featured_5": [
-            {
-              "name": "阿比盖尔·威廉姆斯",
-              "rarity": 5
-            },
-            {
-              "name": "梵高",
-              "rarity": 5
-            },
-            {
-              "name": "星月巡游",
-              "rarity": 5
-            },
-            {
-              "name": "绿洲骑士",
-              "rarity": 5
-            },
-            {
-              "name": "玩具之门",
-              "rarity": 5
-            },
-            {
-              "name": "西部破戒僧",
-              "rarity": 5
-            },
-            {
-              "name": "掌中灯火",
-              "rarity": 5
-            },
-            {
-              "name": "花之人偶",
-              "rarity": 5
-            }
-          ],
-          "featured_4": []
+          "name_en": "Evocation Festival Part 14 Summoning",
+          "type": "character"
         }
       ]
     },
     {
       "id": "fgo-2026-冠位戴冠战Rider冠位戴冠战Caste-activity",
       "name": "FGO 「冠位戴冠战：Rider」＆「冠位戴冠战：Caster」＆「冠位戴冠战：Assassin」风暴罐消耗0！纪念活动",
-      "name_en": "FGO 「冠位戴冠战：Rider」＆「冠位戴冠战：Caster」＆「冠位戴冠战：Assassin」风暴罐消耗0！纪念活动",
+      "name_en": "FGO Grand Duel: Rider & Grand Duel: Caster & Grand Duel: Assassin Zero Storm Pod Cost Campaign",
       "date": "2026-10-29",
       "end_date": "2026-11-11",
       "time": "18:00",
@@ -9074,22 +9582,26 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「冠位戴冠战：Rider」＆「冠位戴冠战：Caster」＆「冠位戴冠战：Assassin」风暴罐消耗0！纪念活动」。",
-      "description_en": "FGO Event「「冠位戴冠战：Rider」＆「冠位戴冠战：Caster」＆「冠位戴冠战：Assassin」风暴罐消耗0！纪念活动」.",
+      "description_en": "FGO Grand Duel: Rider & Grand Duel: Caster & Grand Duel: Assassin Zero Storm Pod Cost Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "active",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「冠位戴冠战：Rider」＆「冠位戴冠战：Caster」＆「冠位戴冠战：Assassin」风暴罐消耗0！纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-FGOTHEDRAMALOGUECosm-activity",
       "name": "FGO 「FGO THE DRAMALOGUE -Cosmos in the Lostbelt-」公演纪念活动",
-      "name_en": "FGO 「FGO THE DRAMALOGUE -Cosmos in the Lostbelt-」公演纪念活动",
+      "name_en": "FGO FGO THE DRAMALOGUE -Cosmos in the Lostbelt- Performance Celebration Campaign",
       "date": "2026-10-30",
       "end_date": "2026-11-13",
       "time": "18:00",
@@ -9099,22 +9611,25 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「FGO THE DRAMALOGUE -Cosmos in the Lostbelt-」公演纪念活动」。",
-      "description_en": "FGO Event「「FGO THE DRAMALOGUE -Cosmos in the Lostbelt-」公演纪念活动」.",
+      "description_en": "FGO FGO THE DRAMALOGUE -Cosmos in the Lostbelt- Performance Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "active",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「FGO THE DRAMALOGUE -Cosmos in the Lostbelt-」公演纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-FGOTHEDRAMALOGUECosm-banner",
-      "name": "FGO 「FGO THE DRAMALOGUE -Cosmos in the Lostbelt-」公演纪念 推荐召唤 召唤",
-      "name_en": "FGO 「FGO THE DRAMALOGUE -Cosmos in the Lostbelt-」公演纪念 推荐召唤 Summoning",
+      "name": "FGO 「FGO THE DRAMALOGUE -Cosmos in the Lostbelt-」公演纪念 推荐召唤",
       "date": "2026-10-30",
       "end_date": "2026-11-06",
       "time": "18:00",
@@ -9124,10 +9639,9 @@
       "type": "range",
       "year": 2026,
       "description": "FGO召唤「「FGO THE DRAMALOGUE -Cosmos in the Lostbelt-」公演纪念 推荐召唤」。",
-      "description_en": "FGO Summoning「「FGO THE DRAMALOGUE -Cosmos in the Lostbelt-」公演纪念 推荐召唤」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "active",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
@@ -9135,28 +9649,24 @@
         "source_kind": "banner",
         "version": "「FGO THE DRAMALOGUE -Cosmos in the Lostbelt-」公演纪念 推荐召唤"
       },
+      "name_en": "FGO FGO THE DRAMALOGUE -Cosmos in the Lostbelt- Performance Celebration Summoning",
+      "description_en": "FGO FGO THE DRAMALOGUE -Cosmos in the Lostbelt- Performance Celebration Summoning.",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
+      },
       "banners": [
         {
           "name": "「FGO THE DRAMALOGUE -Cosmos in the Lostbelt-」公演纪念 推荐召唤",
-          "type": "character",
-          "featured_5": [
-            {
-              "name": "Template:卡池一览/data",
-              "rarity": 5
-            },
-            {
-              "name": "页面编写卡池信息。",
-              "rarity": 5
-            }
-          ],
-          "featured_4": []
+          "name_en": "FGO THE DRAMALOGUE -Cosmos in the Lostbelt- Performance Celebration Summoning",
+          "type": "character"
         }
       ]
     },
     {
       "id": "fgo-2026-全世界1亿下载突破纪念活动-activity",
       "name": "FGO 全世界1亿下载突破纪念活动",
-      "name_en": "FGO 全世界1亿下载突破纪念活动",
+      "name_en": "FGO 100 Million Worldwide Downloads Celebration Campaign",
       "date": "2026-11-01",
       "end_date": "2026-11-08",
       "time": "04:00",
@@ -9166,22 +9676,25 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「全世界1亿下载突破纪念活动」。",
-      "description_en": "FGO Event「全世界1亿下载突破纪念活动」.",
+      "description_en": "FGO 100 Million Worldwide Downloads Celebration Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "active",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "全世界1亿下载突破纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-FateGrandOrderRoadto-banner",
-      "name": "FGO Fate/Grand Order「Road to 终章」第6章篇纪念 摩根推荐召唤 召唤",
-      "name_en": "FGO Fate/Grand Order「Road to 终章」第6章篇纪念 摩根推荐召唤 Summoning",
+      "name": "FGO Fate/Grand Order「Road to 终章」第6章篇纪念 摩根推荐召唤",
       "date": "2026-11-03",
       "end_date": "2026-11-10",
       "time": "19:00",
@@ -9191,10 +9704,9 @@
       "type": "range",
       "year": 2026,
       "description": "FGO召唤「Fate/Grand Order「Road to 终章」第6章篇纪念 摩根推荐召唤」。",
-      "description_en": "FGO Summoning「Fate/Grand Order「Road to 终章」第6章篇纪念 摩根推荐召唤」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "active",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
@@ -9202,36 +9714,89 @@
         "source_kind": "banner",
         "version": "Fate/Grand Order「Road to 终章」第6章篇纪念 摩根推荐召唤"
       },
+      "name_en": "FGO Fate/Grand Order Road to Final Chapter Chapter 6 Celebration Morgan Summoning",
+      "description_en": "FGO Fate/Grand Order Road to Final Chapter Chapter 6 Celebration Morgan Summoning.",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
+      },
       "banners": [
         {
           "name": "Fate/Grand Order「Road to 终章」第6章篇纪念 摩根推荐召唤",
-          "type": "character",
-          "featured_5": [
-            {
-              "name": "摩根",
-              "rarity": 5
-            },
-            {
-              "name": "妖精骑士高文",
-              "rarity": 5
-            },
-            {
-              "name": "巅峰",
-              "rarity": 5
-            },
-            {
-              "name": "情人节女巫们",
-              "rarity": 5
-            }
-          ],
-          "featured_4": []
+          "name_en": "Fate/Grand Order Road to Final Chapter Chapter 6 Celebration Morgan Summoning",
+          "type": "character"
+        }
+      ]
+    },
+    {
+      "id": "fgo-2026-严冬泳装特辑唠唠叨叨软软弹弹战争史上最差-activity",
+      "name": "FGO 「严冬泳装特辑 唠唠叨叨软软弹弹战争！ ～史上最差劲的炸弹娘～」开幕前夕纪念活动",
+      "name_en": "FGO CN event — 2026-11-04",
+      "date": "2026-11-04",
+      "end_date": "2026-11-18",
+      "time": "18:00",
+      "end_time": "12:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "FGO活动「「严冬泳装特辑 唠唠叨叨软软弹弹战争！ ～史上最差劲的炸弹娘～」开幕前夕纪念活动」。",
+      "description_en": "FGO CN event — 2026-11-04. Event details are available in the original Chinese announcement.",
+      "url": "https://game.bilibili.com/fgo/news.html",
+      "status": "active",
+      "last_verified": "2026-11-04",
+      "verified_by": "community",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "unavailable"
+      },
+      "game": {
+        "game_id": "fgo",
+        "provider": "bilibili",
+        "source_kind": "announcement",
+        "version": "「严冬泳装特辑 唠唠叨叨软软弹弹战争！ ～史上最差劲的炸弹娘～」开幕前夕纪念活动"
+      }
+    },
+    {
+      "id": "fgo-2026-严冬泳装特辑唠唠叨叨软软弹弹战争开幕前夕-banner",
+      "name": "FGO 「严冬泳装特辑 唠唠叨叨软软弹弹战争！」开幕前夕推荐召唤",
+      "name_en": "FGO CN summoning campaign — 2026-11-04",
+      "date": "2026-11-04",
+      "end_date": "2026-11-18",
+      "time": "18:00",
+      "end_time": "12:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "FGO召唤「「严冬泳装特辑 唠唠叨叨软软弹弹战争！」开幕前夕推荐召唤」。",
+      "description_en": "FGO CN summoning campaign — 2026-11-04. Event details are available in the original Chinese announcement.",
+      "url": "https://game.bilibili.com/fgo/news.html",
+      "status": "active",
+      "last_verified": "2026-11-04",
+      "verified_by": "community",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "unavailable"
+      },
+      "game": {
+        "game_id": "fgo",
+        "provider": "bilibili",
+        "source_kind": "banner",
+        "version": "「严冬泳装特辑 唠唠叨叨软软弹弹战争！」开幕前夕推荐召唤"
+      },
+      "banners": [
+        {
+          "name": "「严冬泳装特辑 唠唠叨叨软软弹弹战争！」开幕前夕推荐召唤",
+          "name_en": "CN summoning campaign — 2026-11-04",
+          "type": "character"
         }
       ]
     },
     {
       "id": "fgo-2026-冠位戴冠战Archer开幕前夕纪念活动-activity",
       "name": "FGO 「冠位戴冠战：Archer」开幕前夕纪念活动",
-      "name_en": "FGO 「冠位戴冠战：Archer」开幕前夕纪念活动",
+      "name_en": "FGO Grand Duel: Archer Pre-Release Campaign",
       "date": "2026-11-05",
       "end_date": "2026-11-21",
       "time": "19:00",
@@ -9241,22 +9806,25 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「冠位戴冠战：Archer」开幕前夕纪念活动」。",
-      "description_en": "FGO Event「「冠位戴冠战：Archer」开幕前夕纪念活动」.",
+      "description_en": "FGO Grand Duel: Archer Pre-Release Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "confirmed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「冠位戴冠战：Archer」开幕前夕纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-冠位戴冠战Archer推荐召唤-banner",
-      "name": "FGO 「冠位戴冠战：Archer」推荐召唤 召唤",
-      "name_en": "FGO 「冠位戴冠战：Archer」推荐召唤 Summoning",
+      "name": "FGO 「冠位戴冠战：Archer」推荐召唤",
       "date": "2026-11-05",
       "end_date": "2026-11-21",
       "time": "19:00",
@@ -9266,10 +9834,9 @@
       "type": "range",
       "year": 2026,
       "description": "FGO召唤「「冠位戴冠战：Archer」推荐召唤」。",
-      "description_en": "FGO Summoning「「冠位戴冠战：Archer」推荐召唤」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "confirmed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
@@ -9277,28 +9844,24 @@
         "source_kind": "banner",
         "version": "「冠位戴冠战：Archer」推荐召唤"
       },
+      "name_en": "FGO Grand Duel: Archer Summoning",
+      "description_en": "FGO Grand Duel: Archer Summoning.",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
+      },
       "banners": [
         {
           "name": "「冠位戴冠战：Archer」推荐召唤",
-          "type": "character",
-          "featured_5": [
-            {
-              "name": "Template:卡池一览/data",
-              "rarity": 5
-            },
-            {
-              "name": "页面编写卡池信息。",
-              "rarity": 5
-            }
-          ],
-          "featured_4": []
+          "name_en": "Grand Duel: Archer Summoning",
+          "type": "character"
         }
       ]
     },
     {
       "id": "fgo-2026-冠位戴冠战Lancer冠位戴冠战Extr-activity",
       "name": "FGO 「冠位戴冠战：Lancer」＆「冠位戴冠战：Extra」风暴罐消耗0！纪念活动",
-      "name_en": "FGO 「冠位戴冠战：Lancer」＆「冠位戴冠战：Extra」风暴罐消耗0！纪念活动",
+      "name_en": "FGO Grand Duel: Lancer & Grand Duel: Extra Zero Storm Pod Cost Campaign",
       "date": "2026-11-05",
       "end_date": "2026-11-13",
       "time": "19:00",
@@ -9308,22 +9871,25 @@
       "type": "range",
       "year": 2026,
       "description": "FGO活动「「冠位戴冠战：Lancer」＆「冠位戴冠战：Extra」风暴罐消耗0！纪念活动」。",
-      "description_en": "FGO Event「「冠位戴冠战：Lancer」＆「冠位戴冠战：Extra」风暴罐消耗0！纪念活动」.",
+      "description_en": "FGO Grand Duel: Lancer & Grand Duel: Extra Zero Storm Pod Cost Campaign.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "confirmed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
         "provider": "bilibili",
         "source_kind": "announcement",
         "version": "「冠位戴冠战：Lancer」＆「冠位戴冠战：Extra」风暴罐消耗0！纪念活动"
+      },
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
       }
     },
     {
       "id": "fgo-2026-冠位戴冠战Lancer冠位戴冠战Extr-banner",
-      "name": "FGO 「冠位戴冠战：Lancer」＆「冠位戴冠战：Extra」推荐召唤 召唤",
-      "name_en": "FGO 「冠位戴冠战：Lancer」＆「冠位戴冠战：Extra」推荐召唤 Summoning",
+      "name": "FGO 「冠位戴冠战：Lancer」＆「冠位戴冠战：Extra」推荐召唤",
       "date": "2026-11-05",
       "end_date": "2026-11-13",
       "time": "19:00",
@@ -9333,10 +9899,9 @@
       "type": "range",
       "year": 2026,
       "description": "FGO召唤「「冠位戴冠战：Lancer」＆「冠位戴冠战：Extra」推荐召唤」。",
-      "description_en": "FGO Summoning「「冠位戴冠战：Lancer」＆「冠位戴冠战：Extra」推荐召唤」.",
       "url": "https://game.bilibili.com/fgo/news.html",
       "status": "confirmed",
-      "last_verified": "2026-11-03",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "fgo",
@@ -9344,24 +9909,20 @@
         "source_kind": "banner",
         "version": "「冠位戴冠战：Lancer」＆「冠位戴冠战：Extra」推荐召唤"
       },
+      "name_en": "FGO Grand Duel: Lancer & Grand Duel: Extra Summoning",
+      "description_en": "FGO Grand Duel: Lancer & Grand Duel: Extra Summoning.",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation"
+      },
       "banners": [
         {
           "name": "「冠位戴冠战：Lancer」＆「冠位戴冠战：Extra」推荐召唤",
-          "type": "character",
-          "featured_5": [
-            {
-              "name": "Template:卡池一览/data",
-              "rarity": 5
-            },
-            {
-              "name": "页面编写卡池信息。",
-              "rarity": 5
-            }
-          ],
-          "featured_4": []
+          "name_en": "Grand Duel: Lancer & Grand Duel: Extra Summoning",
+          "type": "character"
         }
       ]
     }
   ],
-  "last_updated": "2026-11-03"
+  "last_updated": "2026-11-04"
 }

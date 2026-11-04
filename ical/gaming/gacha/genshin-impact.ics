@@ -8,4 +8,18 @@ X-WR-CALDESC:原神版本更新、卡池和活动节点，仅收录官方
  公告中可解析的日期。
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:genshin-impact-genshin-impact-2026-167205-maintenance@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261104T060000
+DTEND;TZID=Asia/Shanghai:20261104T110000
+SUMMARY:原神版本日历 · 原神 7.2 版本维护更新
+DESCRIPTION:原神 官方版本维护更新。\n\n版本: 7.2\n类型: mai
+ ntenance\n官方来源: 「坏灭肇始之时」7.2版本更新说明\n\no
+ fficial_time: 2026/11/04 06:00 预计5个小时
+CATEGORIES:原神版本日历
+URL;VALUE=URI:https://ys.mihoyo.com/main/news/detail/167205
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR

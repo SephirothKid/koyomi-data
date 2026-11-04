@@ -11,33 +11,44 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:zenless-zone-zero-zenless-zone-zero-2026-166512-banners@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261021T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20260930T120000
 DTEND;TZID=Asia/Shanghai:20261020T145900
-SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero v3.3 Phase
-  2 Signal Search
-DESCRIPTION:Zenless Zone Zero Official Signal Search (Phase 2)\n\nVersion:
-  3.3\nPhase: phase2\nType: banner\nOfficial source: 3.2版本限时频段
- （下期）\n\nBanners:\n1. 代理人频段（Banner）\n5-star rate-up: 
- 亲爱的绳匠： 本期代理人与音擎调频活动时间为： 2026-0
- 9-30 12:00~2026-10-20 14:59 ，包含如下内容： 活动期间，限定
- S级代理人[洛克茜]、[普罗米娅]以及默认A级代理人[可琳]
- 、[比利]的调频获取概率将大幅提升！ 活动期间，限定S
- 级音擎[绯月银棺]、[朔月裁霜]以及默认A级音擎[家政员]
- 、[仿制星徽引擎]的调频获取概率将大幅提升！ ※详情
- 可前往游戏内公告及调频界面查看。 -- 欢迎来到罗斯凯
- 利法！--\n\nofficial_time: 2026-09-30 12:00~2026-10-20 14:59\nAgent「
- 代理人频段」5★: 亲爱的绳匠： 本期代理人与音擎调频
- 活动时间为： 2026-09-30 12:00~2026-10-20 14:59 ，包含如下内容
- ： 活动期间，限定S级代理人[洛克茜]、[普罗米娅]以及
- 默认A级代理人[可琳]、[比利]的调频获取概率将大幅提升
- ！ 活动期间，限定S级音擎[绯月银棺]、[朔月裁霜]以及
- 默认A级音擎[家政员]、[仿制星徽引擎]的调频获取概率将
- 大幅提升！ ※详情可前往游戏内公告及调频界面查看。 
- -- 欢迎来到罗斯凯利法！--\nofficial_notice: 3.2版本限时频
- 段（下期）
+SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero · V3.2 Li
+ mited-Time Channels (Phase II)
+DESCRIPTION:V3.2 Limited-Time Channels (Phase II)\n\nVersion: 3.2\nPhase: 
+ phase2\nType: banner\nOfficial source: 3.2版本限时频段（下期）\n
+ \nBanners:\n1. 代理人频段（Banner）\n5-star rate-up: 洛克茜 / 
+ 普罗米娅\n4-star rate-up: 可琳 / 比利\n2. 音擎频段（W-Engine
+ ）\n5-star rate-up: 绯月银棺 / 朔月裁霜\n4-star rate-up: 家政
+ 员 / 仿制星徽引擎\n\nofficial_time: 2026-09-30 12:00 – 2026-10-20
+  14:59\nofficial_notice: V3.2 Limited-Time Channels (Phase II)\nEnglish so
+ urce: https://zenless.hoyoverse.com/en-us/news/166475\nEnglish source ID: 
+ 166475\nEnglish original title: V3.2 Limited-Time Channels (Phase II)\nEng
+ lish name status: official announcement\; mainland timing preserved
 CATEGORIES:Zenless Zone Zero Version Calendar
 URL;VALUE=URI:https://zzz.mihoyo.com/news/detail/166512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:zenless-zone-zero-zenless-zone-zero-2026-166989-maintenance@koyomi.cas
+ t
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261021T060000
+DTEND;TZID=Asia/Shanghai:20261021T110000
+SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero · Version
+  3.3 "Journey to the Sky" Update Announcement
+DESCRIPTION:Version 3.3 "Journey to the Sky" Update Announcement\n\nVersio
+ n: 3.3\nType: maintenance\nOfficial source: 3.3版本「重返天空的旅
+ 程」更新公告\n\nofficial_time: 2026-10-21 06:00 – 2026-10-21 11:00
+ \nofficial_notice: Version 3.3 "Journey to the Sky" Update Announcement\nE
+ nglish source: https://zenless.hoyoverse.com/en-us/news/166963\nEnglish so
+ urce ID: 166963\nEnglish original title: Version 3.3 "Journey to the Sky" 
+ Update Announcement\nEnglish name status: official announcement\; mainland
+  timing preserved
+CATEGORIES:Zenless Zone Zero Version Calendar
+URL;VALUE=URI:https://zzz.mihoyo.com/news/detail/166989
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

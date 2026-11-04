@@ -11,40 +11,38 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:zenless-zone-zero-zenless-zone-zero-2026-166512-banners@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261021T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20260930T120000
 DTEND;TZID=Asia/Shanghai:20261020T145900
-SUMMARY:绝区零版本日历 · 绝区零 3.3 第二期调频：亲爱的
- 绳匠： 本期代理人与音擎调频活动时间为： 2026-09-30 12:0
- 0~2026-10-20 14:59 ，包含如下内容： 活动期间，限定S级代
- 理人[洛克茜]、[普罗米娅]以及默认A级代理人[可琳]、[比
- 利]的调频获取概率将大幅提升！ 活动期间，限定S级音
- 擎[绯月银棺]、[朔月裁霜]以及默认A级音擎[家政员]、[仿
- 制星徽引擎]的调频获取概率将大幅提升！ ※详情可前往
- 游戏内公告及调频界面查看。 -- 欢迎来到罗斯凯利法！-
- -
-DESCRIPTION:绝区零官方活动调频（第二期）\n\n版本: 3.3\n阶
+SUMMARY:绝区零版本日历 · 绝区零 3.2 第二期调频：洛克茜
+  / 普罗米娅 / 绯月银棺 / 朔月裁霜
+DESCRIPTION:绝区零官方活动调频（第二期）\n\n版本: 3.2\n阶
  段: phase2\n类型: banner\n官方来源: 3.2版本限时频段（下期
- ）\n\n卡池信息：\n1. 代理人频段（卡池）\n5星 UP: 亲爱的
- 绳匠： 本期代理人与音擎调频活动时间为： 2026-09-30 12:0
- 0~2026-10-20 14:59 ，包含如下内容： 活动期间，限定S级代
- 理人[洛克茜]、[普罗米娅]以及默认A级代理人[可琳]、[比
- 利]的调频获取概率将大幅提升！ 活动期间，限定S级音
- 擎[绯月银棺]、[朔月裁霜]以及默认A级音擎[家政员]、[仿
- 制星徽引擎]的调频获取概率将大幅提升！ ※详情可前往
- 游戏内公告及调频界面查看。 -- 欢迎来到罗斯凯利法！-
- -\n\nofficial_time: 2026-09-30 12:00~2026-10-20 14:59\n代理人「代理
- 人频段」5★: 亲爱的绳匠： 本期代理人与音擎调频活动
- 时间为： 2026-09-30 12:00~2026-10-20 14:59 ，包含如下内容： 
- 活动期间，限定S级代理人[洛克茜]、[普罗米娅]以及默认
- A级代理人[可琳]、[比利]的调频获取概率将大幅提升！ 
- 活动期间，限定S级音擎[绯月银棺]、[朔月裁霜]以及默认
- A级音擎[家政员]、[仿制星徽引擎]的调频获取概率将大幅
- 提升！ ※详情可前往游戏内公告及调频界面查看。 -- 欢
- 迎来到罗斯凯利法！--\nofficial_notice: 3.2版本限时频段（
- 下期）
+ ）\n\n卡池信息：\n1. 代理人频段（卡池）\n5星 UP: 洛克茜
+  / 普罗米娅\n4星 UP: 可琳 / 比利\n2. 音擎频段（音擎）\n5
+ 星 UP: 绯月银棺 / 朔月裁霜\n4星 UP: 家政员 / 仿制星徽引
+ 擎\n\nofficial_time: 2026-09-30 12:00~2026-10-20 14:59\n代理人「代
+ 理人频段」5★: 洛克茜 / 普罗米娅\n代理人「代理人频段
+ 」4★: 可琳 / 比利\n音擎「音擎频段」5★: 绯月银棺 / 朔
+ 月裁霜\n音擎「音擎频段」4★: 家政员 / 仿制星徽引擎\no
+ fficial_notice: 3.2版本限时频段（下期）
 CATEGORIES:绝区零版本日历
 URL;VALUE=URI:https://zzz.mihoyo.com/news/detail/166512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:zenless-zone-zero-zenless-zone-zero-2026-166989-maintenance@koyomi.cas
+ t
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261021T060000
+DTEND;TZID=Asia/Shanghai:20261021T110000
+SUMMARY:绝区零版本日历 · 绝区零 3.3 版本维护更新
+DESCRIPTION:绝区零 官方版本维护更新。\n\n版本: 3.3\n类型: 
+ maintenance\n官方来源: 3.3版本「重返天空的旅程」更新公
+ 告\n\nofficial_time: 2026/10/21 06:00 预计5个小时
+CATEGORIES:绝区零版本日历
+URL;VALUE=URI:https://zzz.mihoyo.com/news/detail/166989
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

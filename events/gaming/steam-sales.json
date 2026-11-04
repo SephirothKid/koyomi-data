@@ -27,7 +27,7 @@
   "subscriber_count": 43240,
   "rating": 4.2,
   "rating_count": 120,
-  "last_updated": "2026-11-03",
+  "last_updated": "2026-11-04",
   "events": [
     {
       "id": "steam-2025-lunar-new-year",
@@ -327,7 +327,7 @@
     },
     {
       "id": "steam-2026-auto-battler-rpg-fest",
-      "name": "2026 自动战斗 RPG 节",
+      "name": "2026 自走棋角色扮演游戏节",
       "name_en": "2026 Auto-Battler RPG Fest",
       "date": "2026-11-16",
       "end_date": "2026-11-23",
@@ -335,12 +335,121 @@
       "timezone": "Asia/Shanghai",
       "type": "range",
       "year": 2026,
-      "description": "Steam 自动战斗 RPG 节：Auto-Battler RPG Fest 类型游戏专题特卖与 Demo 试玩",
-      "description_en": "Steam Auto-Battler RPG Fest: themed sale and demos for Auto-Battler RPG Fest genre games",
+      "description": "Steam 2026 年自走棋角色扮演游戏节",
+      "description_en": "Steam 2026 Auto-Battler RPG Fest",
       "url": "https://store.steampowered.com/sale/",
       "status": "planned",
-      "last_verified": "2026-11-03",
-      "verified_by": "official"
+      "last_verified": "2026-11-04",
+      "verified_by": "official",
+      "details_en": {
+        "Schedule source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=english",
+        "Chinese title source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=schinese"
+      }
+    },
+    {
+      "id": "steam-2026-winter-sale",
+      "name": "2026 冬季特卖",
+      "name_en": "2026 Winter Sale",
+      "date": "2026-12-17",
+      "end_date": "2027-01-04",
+      "time": "01:00",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "Steam 2026 年冬季特卖",
+      "description_en": "Steam 2026 Winter Sale",
+      "url": "https://store.steampowered.com/sale/",
+      "status": "planned",
+      "last_verified": "2026-11-04",
+      "verified_by": "official",
+      "details_en": {
+        "Schedule source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=english",
+        "Chinese title source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=schinese"
+      }
+    },
+    {
+      "id": "steam-2027-desktop-companion-fest",
+      "name": "2027 桌面伴侣游戏节",
+      "name_en": "2027 Desktop Companion Fest",
+      "date": "2027-01-14",
+      "end_date": "2027-01-18",
+      "time": "01:00",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2027,
+      "description": "Steam 2027 年桌面伴侣游戏节",
+      "description_en": "Steam 2027 Desktop Companion Fest",
+      "url": "https://store.steampowered.com/sale/",
+      "status": "planned",
+      "last_verified": "2026-11-04",
+      "verified_by": "official",
+      "details_en": {
+        "Schedule source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=english",
+        "Chinese title source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=schinese"
+      }
+    },
+    {
+      "id": "steam-2027-shop-keeper-fest",
+      "name": "2027 商店管理游戏节",
+      "name_en": "2027 Shop Keeper Fest",
+      "date": "2027-01-25",
+      "end_date": "2027-02-01",
+      "time": "01:00",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2027,
+      "description": "Steam 2027 年商店管理游戏节",
+      "description_en": "Steam 2027 Shop Keeper Fest",
+      "url": "https://store.steampowered.com/sale/",
+      "status": "planned",
+      "last_verified": "2026-11-04",
+      "verified_by": "official",
+      "details_en": {
+        "Schedule source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=english",
+        "Chinese title source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=schinese"
+      }
+    },
+    {
+      "id": "steam-2027-sheep-fest",
+      "name": "2027 绵羊游戏节",
+      "name_en": "2027 Sheep Fest",
+      "date": "2027-02-04",
+      "end_date": "2027-02-08",
+      "time": "01:00",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2027,
+      "description": "Steam 2027 年绵羊游戏节",
+      "description_en": "Steam 2027 Sheep Fest",
+      "url": "https://store.steampowered.com/sale/",
+      "status": "planned",
+      "last_verified": "2026-11-04",
+      "verified_by": "official",
+      "details_en": {
+        "Schedule source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=english",
+        "Chinese title source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=schinese"
+      }
+    },
+    {
+      "id": "steam-2027-couch-co-op-fest",
+      "name": "2027 沙发合作游戏节",
+      "name_en": "2027 Couch Co-Op Fest",
+      "date": "2027-02-08",
+      "end_date": "2027-02-15",
+      "time": "01:00",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2027,
+      "description": "Steam 2027 年沙发合作游戏节",
+      "description_en": "Steam 2027 Couch Co-Op Fest",
+      "url": "https://store.steampowered.com/sale/",
+      "status": "planned",
+      "last_verified": "2026-11-04",
+      "verified_by": "official",
+      "details_en": {
+        "Schedule source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=english",
+        "Chinese title source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=schinese"
+      }
     },
     {
       "id": "steam-2027-next-fest-feb",
@@ -356,8 +465,180 @@
       "description_en": "Steam Next Fest 2027 February Edition: limited-time free demos of hundreds of upcoming games, plus developer livestreams",
       "url": "https://store.steampowered.com/sale/",
       "status": "planned",
-      "last_verified": "2026-11-03",
-      "verified_by": "official"
+      "last_verified": "2026-11-04",
+      "verified_by": "official",
+      "details_en": {
+        "Schedule source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=english",
+        "Chinese title source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=schinese"
+      }
+    },
+    {
+      "id": "steam-2027-rhythm-fest",
+      "name": "2027 节奏游戏节",
+      "name_en": "2027 Rhythm Fest",
+      "date": "2027-03-08",
+      "end_date": "2027-03-15",
+      "time": "01:00",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2027,
+      "description": "Steam 2027 年节奏游戏节",
+      "description_en": "Steam 2027 Rhythm Fest",
+      "url": "https://store.steampowered.com/sale/",
+      "status": "planned",
+      "last_verified": "2026-11-04",
+      "verified_by": "official",
+      "details_en": {
+        "Schedule source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=english",
+        "Chinese title source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=schinese"
+      }
+    },
+    {
+      "id": "steam-2027-spring-sale",
+      "name": "2027 春季特卖",
+      "name_en": "2027 Spring Sale",
+      "date": "2027-03-18",
+      "end_date": "2027-03-25",
+      "time": "01:00",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2027,
+      "description": "Steam 2027 年春季特卖",
+      "description_en": "Steam 2027 Spring Sale",
+      "url": "https://store.steampowered.com/sale/",
+      "status": "planned",
+      "last_verified": "2026-11-04",
+      "verified_by": "official",
+      "details_en": {
+        "Schedule source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=english",
+        "Chinese title source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=schinese"
+      }
+    },
+    {
+      "id": "steam-2027-dinos-vs.-robots-fest",
+      "name": "2027 恐龙大战机器人游戏节",
+      "name_en": "2027 Dinos vs. Robots Fest",
+      "date": "2027-03-29",
+      "end_date": "2027-04-05",
+      "time": "01:00",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2027,
+      "description": "Steam 2027 年恐龙大战机器人游戏节",
+      "description_en": "Steam 2027 Dinos vs. Robots Fest",
+      "url": "https://store.steampowered.com/sale/",
+      "status": "planned",
+      "last_verified": "2026-11-04",
+      "verified_by": "official",
+      "details_en": {
+        "Schedule source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=english",
+        "Chinese title source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=schinese"
+      }
+    },
+    {
+      "id": "steam-2027-racing-fest",
+      "name": "2027 竞速游戏节",
+      "name_en": "2027 Racing Fest",
+      "date": "2027-04-12",
+      "end_date": "2027-04-19",
+      "time": "01:00",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2027,
+      "description": "Steam 2027 年竞速游戏节",
+      "description_en": "Steam 2027 Racing Fest",
+      "url": "https://store.steampowered.com/sale/",
+      "status": "planned",
+      "last_verified": "2026-11-04",
+      "verified_by": "official",
+      "details_en": {
+        "Schedule source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=english",
+        "Chinese title source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=schinese"
+      }
+    },
+    {
+      "id": "steam-2027-witch-fest",
+      "name": "2027 女巫游戏节",
+      "name_en": "2027 Witch Fest",
+      "date": "2027-04-22",
+      "end_date": "2027-04-26",
+      "time": "01:00",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2027,
+      "description": "Steam 2027 年女巫游戏节",
+      "description_en": "Steam 2027 Witch Fest",
+      "url": "https://store.steampowered.com/sale/",
+      "status": "planned",
+      "last_verified": "2026-11-04",
+      "verified_by": "official",
+      "details_en": {
+        "Schedule source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=english",
+        "Chinese title source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=schinese"
+      }
+    },
+    {
+      "id": "steam-2027-fighting-fest",
+      "name": "2027 格斗游戏节",
+      "name_en": "2027 Fighting Fest",
+      "date": "2027-04-26",
+      "end_date": "2027-05-03",
+      "time": "01:00",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2027,
+      "description": "Steam 2027 年格斗游戏节",
+      "description_en": "Steam 2027 Fighting Fest",
+      "url": "https://store.steampowered.com/sale/",
+      "status": "planned",
+      "last_verified": "2026-11-04",
+      "verified_by": "official",
+      "details_en": {
+        "Schedule source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=english",
+        "Chinese title source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=schinese"
+      }
+    },
+    {
+      "id": "steam-2027-real-time-strategy-fest",
+      "name": "2027 即时战略游戏节",
+      "name_en": "2027 Real-Time Strategy Fest",
+      "date": "2027-05-10",
+      "end_date": "2027-05-17",
+      "time": "01:00",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2027,
+      "description": "Steam 2027 年即时战略游戏节",
+      "description_en": "Steam 2027 Real-Time Strategy Fest",
+      "url": "https://store.steampowered.com/sale/",
+      "status": "planned",
+      "last_verified": "2026-11-04",
+      "verified_by": "official",
+      "details_en": {
+        "Schedule source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=english",
+        "Chinese title source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=schinese"
+      }
+    },
+    {
+      "id": "steam-2027-mountaineering-fest",
+      "name": "2027 登山游戏节",
+      "name_en": "2027 Mountaineering Fest",
+      "date": "2027-05-31",
+      "end_date": "2027-06-03",
+      "time": "01:00",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2027,
+      "description": "Steam 2027 年登山游戏节",
+      "description_en": "Steam 2027 Mountaineering Fest",
+      "url": "https://store.steampowered.com/sale/",
+      "status": "planned",
+      "last_verified": "2026-11-04",
+      "verified_by": "official",
+      "details_en": {
+        "Schedule source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=english",
+        "Chinese title source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=schinese"
+      }
     },
     {
       "id": "steam-2027-next-fest-jun",
@@ -373,8 +654,33 @@
       "description_en": "Steam Next Fest 2027 June Edition: limited-time free demos of hundreds of upcoming games, plus developer livestreams",
       "url": "https://store.steampowered.com/sale/",
       "status": "planned",
-      "last_verified": "2026-11-03",
-      "verified_by": "official"
+      "last_verified": "2026-11-04",
+      "verified_by": "official",
+      "details_en": {
+        "Schedule source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=english",
+        "Chinese title source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=schinese"
+      }
+    },
+    {
+      "id": "steam-2027-summer-sale",
+      "name": "2027 夏日特卖",
+      "name_en": "2027 Summer Sale",
+      "date": "2027-06-24",
+      "end_date": "2027-07-08",
+      "time": "01:00",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2027,
+      "description": "Steam 2027 年夏日特卖",
+      "description_en": "Steam 2027 Summer Sale",
+      "url": "https://store.steampowered.com/sale/",
+      "status": "planned",
+      "last_verified": "2026-11-04",
+      "verified_by": "official",
+      "details_en": {
+        "Schedule source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=english",
+        "Chinese title source": "https://partner.steamgames.com/doc/marketing/upcoming_events?l=schinese"
+      }
     }
   ],
   "subcategory_en": "Sales"

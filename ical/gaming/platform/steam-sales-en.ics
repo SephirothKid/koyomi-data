@@ -51,12 +51,71 @@ END:VEVENT
 BEGIN:VEVENT
 UID:steam-sales-steam-2026-auto-battler-rpg-fest@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261116T010000
 DTEND;TZID=Asia/Shanghai:20261123T010000
 SUMMARY:Steam Events & Sales · Auto-Battler RPG Fest
-DESCRIPTION:Steam Auto-Battler RPG Fest: themed sale and demos for Auto-Ba
- ttler RPG Fest genre games
+DESCRIPTION:Steam 2026 Auto-Battler RPG Fest
+CATEGORIES:Steam Events & Sales
+URL;VALUE=URI:https://store.steampowered.com/sale/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:steam-sales-steam-2026-winter-sale@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261217T010000
+DTEND;TZID=Asia/Shanghai:20270104T010000
+SUMMARY:Steam Events & Sales · Winter Sale
+DESCRIPTION:Steam 2026 Winter Sale
+CATEGORIES:Steam Events & Sales
+URL;VALUE=URI:https://store.steampowered.com/sale/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:steam-sales-steam-2027-desktop-companion-fest@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20270114T010000
+DTEND;TZID=Asia/Shanghai:20270118T010000
+SUMMARY:Steam Events & Sales · Desktop Companion Fest
+DESCRIPTION:Steam 2027 Desktop Companion Fest
+CATEGORIES:Steam Events & Sales
+URL;VALUE=URI:https://store.steampowered.com/sale/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:steam-sales-steam-2027-shop-keeper-fest@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20270125T010000
+DTEND;TZID=Asia/Shanghai:20270201T010000
+SUMMARY:Steam Events & Sales · Shop Keeper Fest
+DESCRIPTION:Steam 2027 Shop Keeper Fest
+CATEGORIES:Steam Events & Sales
+URL;VALUE=URI:https://store.steampowered.com/sale/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:steam-sales-steam-2027-sheep-fest@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20270204T010000
+DTEND;TZID=Asia/Shanghai:20270208T010000
+SUMMARY:Steam Events & Sales · Sheep Fest
+DESCRIPTION:Steam 2027 Sheep Fest
+CATEGORIES:Steam Events & Sales
+URL;VALUE=URI:https://store.steampowered.com/sale/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:steam-sales-steam-2027-couch-co-op-fest@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20270208T010000
+DTEND;TZID=Asia/Shanghai:20270215T010000
+SUMMARY:Steam Events & Sales · Couch Co-Op Fest
+DESCRIPTION:Steam 2027 Couch Co-Op Fest
 CATEGORIES:Steam Events & Sales
 URL;VALUE=URI:https://store.steampowered.com/sale/
 STATUS:CONFIRMED
@@ -64,7 +123,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:steam-sales-steam-2027-next-fest-feb@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270222T010000
 DTEND;TZID=Asia/Shanghai:20270301T010000
 SUMMARY:Steam Events & Sales · Steam Next Fest 2027 (February Edition)
@@ -75,14 +134,122 @@ URL;VALUE=URI:https://store.steampowered.com/sale/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:steam-sales-steam-2027-rhythm-fest@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20270308T010000
+DTEND;TZID=Asia/Shanghai:20270315T010000
+SUMMARY:Steam Events & Sales · Rhythm Fest
+DESCRIPTION:Steam 2027 Rhythm Fest
+CATEGORIES:Steam Events & Sales
+URL;VALUE=URI:https://store.steampowered.com/sale/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:steam-sales-steam-2027-spring-sale@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20270318T010000
+DTEND;TZID=Asia/Shanghai:20270325T010000
+SUMMARY:Steam Events & Sales · Spring Sale
+DESCRIPTION:Steam 2027 Spring Sale
+CATEGORIES:Steam Events & Sales
+URL;VALUE=URI:https://store.steampowered.com/sale/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:steam-sales-steam-2027-dinos-vs.-robots-fest@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20270329T010000
+DTEND;TZID=Asia/Shanghai:20270405T010000
+SUMMARY:Steam Events & Sales · Dinos vs. Robots Fest
+DESCRIPTION:Steam 2027 Dinos vs. Robots Fest
+CATEGORIES:Steam Events & Sales
+URL;VALUE=URI:https://store.steampowered.com/sale/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:steam-sales-steam-2027-racing-fest@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20270412T010000
+DTEND;TZID=Asia/Shanghai:20270419T010000
+SUMMARY:Steam Events & Sales · Racing Fest
+DESCRIPTION:Steam 2027 Racing Fest
+CATEGORIES:Steam Events & Sales
+URL;VALUE=URI:https://store.steampowered.com/sale/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:steam-sales-steam-2027-witch-fest@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20270422T010000
+DTEND;TZID=Asia/Shanghai:20270426T010000
+SUMMARY:Steam Events & Sales · Witch Fest
+DESCRIPTION:Steam 2027 Witch Fest
+CATEGORIES:Steam Events & Sales
+URL;VALUE=URI:https://store.steampowered.com/sale/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:steam-sales-steam-2027-fighting-fest@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20270426T010000
+DTEND;TZID=Asia/Shanghai:20270503T010000
+SUMMARY:Steam Events & Sales · Fighting Fest
+DESCRIPTION:Steam 2027 Fighting Fest
+CATEGORIES:Steam Events & Sales
+URL;VALUE=URI:https://store.steampowered.com/sale/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:steam-sales-steam-2027-real-time-strategy-fest@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20270510T010000
+DTEND;TZID=Asia/Shanghai:20270517T010000
+SUMMARY:Steam Events & Sales · Real-Time Strategy Fest
+DESCRIPTION:Steam 2027 Real-Time Strategy Fest
+CATEGORIES:Steam Events & Sales
+URL;VALUE=URI:https://store.steampowered.com/sale/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:steam-sales-steam-2027-mountaineering-fest@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20270531T010000
+DTEND;TZID=Asia/Shanghai:20270603T010000
+SUMMARY:Steam Events & Sales · Mountaineering Fest
+DESCRIPTION:Steam 2027 Mountaineering Fest
+CATEGORIES:Steam Events & Sales
+URL;VALUE=URI:https://store.steampowered.com/sale/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:steam-sales-steam-2027-next-fest-jun@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270614T010000
 DTEND;TZID=Asia/Shanghai:20270621T010000
 SUMMARY:Steam Events & Sales · Steam Next Fest 2027 (June Edition)
 DESCRIPTION:Steam Next Fest 2027 June Edition: limited-time free demos of 
  hundreds of upcoming games\, plus developer livestreams
+CATEGORIES:Steam Events & Sales
+URL;VALUE=URI:https://store.steampowered.com/sale/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:steam-sales-steam-2027-summer-sale@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20270624T010000
+DTEND;TZID=Asia/Shanghai:20270708T010000
+SUMMARY:Steam Events & Sales · Summer Sale
+DESCRIPTION:Steam 2027 Summer Sale
 CATEGORIES:Steam Events & Sales
 URL;VALUE=URI:https://store.steampowered.com/sale/
 STATUS:CONFIRMED

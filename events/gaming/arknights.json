@@ -29,7 +29,7 @@
     {
       "id": "arknights-2025-证实完成指引复刻-banner",
       "name": "明日方舟 证实，完成，指引·复刻 寻访",
-      "name_en": "Arknights 证实，完成，指引·复刻 Headhunting",
+      "name_en": "Arknights Proof, Completion, Guidance Rerun Headhunting",
       "date": "2025-12-19",
       "end_date": "2026-01-02",
       "time": "16:00",
@@ -39,10 +39,10 @@
       "type": "range",
       "year": 2025,
       "description": "明日方舟寻访「证实，完成，指引·复刻」。",
-      "description_en": "Arknights Headhunting Banner「证实，完成，指引·复刻」.",
+      "description_en": "Arknights Proof, Completion, Guidance Rerun Headhunting.",
       "url": "https://prts.wiki/w/%E8%AF%81%E5%AE%9E%EF%BC%8C%E5%AE%8C%E6%88%90%EF%BC%8C%E6%8C%87%E5%BC%95%C2%B7%E5%A4%8D%E5%88%BB",
       "status": "completed",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "arknights",
@@ -53,29 +53,42 @@
       "banners": [
         {
           "name": "证实，完成，指引·复刻",
+          "name_en": "Proof, Completion, Guidance Rerun",
           "type": "character",
           "featured_5": [
             {
               "name": "引星棘刺",
-              "rarity": 6
-            },
+              "rarity": 6,
+              "character_id": "char_1039_thorn2",
+              "name_en": "Thorns the Lodestar"
+            }
+          ],
+          "featured_4": [
             {
               "name": "杏仁",
-              "rarity": 6
+              "rarity": 5,
+              "character_id": "char_4105_almond",
+              "name_en": "Almond"
             },
             {
               "name": "特克诺",
-              "rarity": 6
+              "rarity": 5,
+              "character_id": "char_4164_tecno",
+              "name_en": "Tecno"
             }
-          ],
-          "featured_4": []
+          ]
         }
-      ]
+      ],
+      "details_en": {
+        "English source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/main/en_US/gamedata/excel/character_table.json",
+        "Character ID source": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/json/tl-akhr.json",
+        "English name status": "Character names: community-extracted English client data; banner title: curated translation."
+      }
     },
     {
       "id": "arknights-2025-跨年欢庆中坚-banner",
       "name": "明日方舟 跨年欢庆·中坚 寻访",
-      "name_en": "Arknights 跨年欢庆·中坚 Headhunting",
+      "name_en": "Arknights New Year Celebration: Kernel Headhunting",
       "date": "2025-12-25",
       "end_date": "2026-01-08",
       "time": "04:00",
@@ -85,10 +98,10 @@
       "type": "range",
       "year": 2025,
       "description": "明日方舟寻访「跨年欢庆·中坚」。",
-      "description_en": "Arknights Headhunting Banner「跨年欢庆·中坚」.",
+      "description_en": "Arknights New Year Celebration: Kernel Headhunting.",
       "url": "https://prts.wiki/w/%E8%B7%A8%E5%B9%B4%E6%AC%A2%E5%BA%86%C2%B7%E4%B8%AD%E5%9D%9A",
       "status": "completed",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "arknights",
@@ -99,6 +112,7 @@
       "banners": [
         {
           "name": "跨年欢庆·中坚",
+          "name_en": "New Year Celebration: Kernel",
           "type": "character",
           "featured_5": [],
           "featured_4": []
@@ -108,7 +122,7 @@
     {
       "id": "arknights-2026-跨年欢庆希冀-banner",
       "name": "明日方舟 跨年欢庆·希冀 寻访",
-      "name_en": "Arknights 跨年欢庆·希冀 Headhunting",
+      "name_en": "Arknights New Year Celebration: Hope Headhunting",
       "date": "2026-01-01",
       "end_date": "2026-01-15",
       "time": "00:00",
@@ -118,10 +132,10 @@
       "type": "range",
       "year": 2026,
       "description": "明日方舟寻访「跨年欢庆·希冀」。",
-      "description_en": "Arknights Headhunting Banner「跨年欢庆·希冀」.",
+      "description_en": "Arknights New Year Celebration: Hope Headhunting.",
       "url": "https://prts.wiki/w/%E8%B7%A8%E5%B9%B4%E6%AC%A2%E5%BA%86%C2%B7%E5%B8%8C%E5%86%80",
       "status": "completed",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "arknights",
@@ -132,6 +146,7 @@
       "banners": [
         {
           "name": "跨年欢庆·希冀",
+          "name_en": "New Year Celebration: Hope",
           "type": "character",
           "featured_5": [],
           "featured_4": []
@@ -141,7 +156,7 @@
     {
       "id": "arknights-2026-在凝固的时光中探寻-banner",
       "name": "明日方舟 在凝固的时光中探寻 寻访",
-      "name_en": "Arknights 在凝固的时光中探寻 Headhunting",
+      "name_en": "Arknights Searching Through Frozen Time Headhunting",
       "date": "2026-01-09",
       "end_date": "2026-01-23",
       "time": "07:00",
@@ -151,10 +166,10 @@
       "type": "range",
       "year": 2026,
       "description": "明日方舟寻访「在凝固的时光中探寻」。",
-      "description_en": "Arknights Headhunting Banner「在凝固的时光中探寻」.",
+      "description_en": "Arknights Searching Through Frozen Time Headhunting.",
       "url": "https://prts.wiki/w/%E5%9C%A8%E5%87%9D%E5%9B%BA%E7%9A%84%E6%97%B6%E5%85%89%E4%B8%AD%E6%8E%A2%E5%AF%BB",
       "status": "completed",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "arknights",
@@ -165,29 +180,38 @@
       "banners": [
         {
           "name": "在凝固的时光中探寻",
+          "name_en": "Searching Through Frozen Time",
           "type": "character",
           "featured_5": [
             {
               "name": "缇缇",
               "rarity": 6
-            },
+            }
+          ],
+          "featured_4": [
             {
               "name": "撷英调香师",
-              "rarity": 6
+              "rarity": 5
             },
             {
               "name": "海霓",
-              "rarity": 6
+              "rarity": 5,
+              "character_id": "char_4079_haini",
+              "name_en": "Lucilla"
             }
-          ],
-          "featured_4": []
+          ]
         }
-      ]
+      ],
+      "details_en": {
+        "English source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/main/en_US/gamedata/excel/character_table.json",
+        "Character ID source": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/json/tl-akhr.json",
+        "English name status": "Character names: community-extracted English client data; banner title: curated translation."
+      }
     },
     {
       "id": "arknights-2026-限定寻访春节劫尽古今-banner",
       "name": "明日方舟 【限定寻访·春节】劫尽古今 寻访",
-      "name_en": "Arknights 【限定寻访·春节】劫尽古今 Headhunting",
+      "name_en": "Arknights Limited Headhunting: Spring Festival — Trials Across the Ages",
       "date": "2026-02-10",
       "end_date": "2026-02-24",
       "time": "12:00",
@@ -197,10 +221,10 @@
       "type": "range",
       "year": 2026,
       "description": "明日方舟限定寻访「【限定寻访·春节】劫尽古今」。",
-      "description_en": "Arknights Limited Headhunting Banner「【限定寻访·春节】劫尽古今」.",
+      "description_en": "Arknights Limited Headhunting: Spring Festival — Trials Across the Ages.",
       "url": "https://prts.wiki/w/%E3%80%90%E9%99%90%E5%AE%9A%E5%AF%BB%E8%AE%BF%C2%B7%E6%98%A5%E8%8A%82%E3%80%91%E5%8A%AB%E5%B0%BD%E5%8F%A4%E4%BB%8A",
       "status": "completed",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "arknights",
@@ -211,6 +235,7 @@
       "banners": [
         {
           "name": "【限定寻访·春节】劫尽古今",
+          "name_en": "Limited Headhunting: Spring Festival — Trials Across the Ages",
           "type": "collaboration",
           "featured_5": [
             {
@@ -220,20 +245,20 @@
             {
               "name": "赤刃明霄陈",
               "rarity": 6
-            },
-            {
-              "name": "风絮",
-              "rarity": 6
             }
           ],
-          "featured_4": []
+          "featured_4": [
+            {
+              "name": "风絮",
+              "rarity": 5
+            }
+          ]
         }
       ]
     },
     {
       "id": "arknights-2026-可甄选6干员-banner",
       "name": "明日方舟 ! 可甄选6★干员 寻访",
-      "name_en": "Arknights ! 可甄选6★干员 Headhunting",
       "date": "2026-02-19",
       "end_date": "2026-03-05",
       "time": "04:00",
@@ -243,10 +268,9 @@
       "type": "range",
       "year": 2026,
       "description": "明日方舟寻访「! 可甄选6★干员」。",
-      "description_en": "Arknights Headhunting Banner「! 可甄选6★干员」.",
       "url": "https://prts.wiki/w/!%20%E5%8F%AF%E7%94%84%E9%80%896%E2%98%85%E5%B9%B2%E5%91%98",
       "status": "completed",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "arknights",
@@ -254,9 +278,12 @@
         "source_kind": "banner",
         "version": "! 可甄选6★干员"
       },
+      "name_en": "Arknights ! 6-Star Operator Selection Headhunting",
+      "description_en": "Arknights ! 6-Star Operator Selection Headhunting.",
       "banners": [
         {
           "name": "! 可甄选6★干员",
+          "name_en": "! 6-Star Operator Selection",
           "type": "character",
           "featured_5": [],
           "featured_4": []
@@ -266,7 +293,7 @@
     {
       "id": "arknights-2026-定向甄选06-banner",
       "name": "明日方舟 定向甄选06 寻访",
-      "name_en": "Arknights 定向甄选06 Headhunting",
+      "name_en": "Arknights Directional Selection 06 Headhunting",
       "date": "2026-02-24",
       "end_date": "2026-03-10",
       "time": "16:00",
@@ -276,10 +303,10 @@
       "type": "range",
       "year": 2026,
       "description": "明日方舟寻访「定向甄选06」。",
-      "description_en": "Arknights Headhunting Banner「定向甄选06」.",
+      "description_en": "Arknights Directional Selection 06 Headhunting.",
       "url": "https://prts.wiki/w/%E5%AE%9A%E5%90%91%E7%94%84%E9%80%8906",
       "status": "completed",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "arknights",
@@ -290,6 +317,7 @@
       "banners": [
         {
           "name": "定向甄选06",
+          "name_en": "Directional Selection 06",
           "type": "character",
           "featured_5": [],
           "featured_4": []
@@ -299,7 +327,7 @@
     {
       "id": "arknights-2026-以我的方式-banner",
       "name": "明日方舟 以我的方式 寻访",
-      "name_en": "Arknights 以我的方式 Headhunting",
+      "name_en": "Arknights My Way Headhunting",
       "date": "2026-03-10",
       "end_date": "2026-03-24",
       "time": "07:00",
@@ -309,10 +337,10 @@
       "type": "range",
       "year": 2026,
       "description": "明日方舟寻访「以我的方式」。",
-      "description_en": "Arknights Headhunting Banner「以我的方式」.",
+      "description_en": "Arknights My Way Headhunting.",
       "url": "https://prts.wiki/w/%E4%BB%A5%E6%88%91%E7%9A%84%E6%96%B9%E5%BC%8F",
       "status": "completed",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "arknights",
@@ -323,29 +351,38 @@
       "banners": [
         {
           "name": "以我的方式",
+          "name_en": "My Way",
           "type": "character",
           "featured_5": [
             {
               "name": "贝洛内",
               "rarity": 6
-            },
+            }
+          ],
+          "featured_4": [
             {
               "name": "复奏",
-              "rarity": 6
+              "rarity": 5
             },
             {
               "name": "洋灰",
-              "rarity": 6
+              "rarity": 5,
+              "character_id": "char_464_cement",
+              "name_en": "Cement"
             }
-          ],
-          "featured_4": []
+          ]
         }
-      ]
+      ],
+      "details_en": {
+        "English source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/main/en_US/gamedata/excel/character_table.json",
+        "Character ID source": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/json/tl-akhr.json",
+        "English name status": "Character names: community-extracted English client data; banner title: curated translation."
+      }
     },
     {
       "id": "arknights-2026-联合行动21-banner",
       "name": "明日方舟 联合行动21 寻访",
-      "name_en": "Arknights 联合行动21 Headhunting",
+      "name_en": "Arknights Joint Operation 21 Headhunting",
       "date": "2026-03-14",
       "end_date": "2026-03-28",
       "time": "16:00",
@@ -355,10 +392,10 @@
       "type": "range",
       "year": 2026,
       "description": "明日方舟寻访「联合行动21」。",
-      "description_en": "Arknights Headhunting Banner「联合行动21」.",
+      "description_en": "Arknights Joint Operation 21 Headhunting.",
       "url": "https://prts.wiki/w/%E8%81%94%E5%90%88%E8%A1%8C%E5%8A%A821",
       "status": "completed",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "arknights",
@@ -369,6 +406,7 @@
       "banners": [
         {
           "name": "联合行动21",
+          "name_en": "Joint Operation 21",
           "type": "character",
           "featured_5": [
             {
@@ -377,49 +415,71 @@
             },
             {
               "name": "忍冬",
-              "rarity": 6
+              "rarity": 6,
+              "character_id": "char_4026_vulpis",
+              "name_en": "Vulpisfoglia"
             },
             {
               "name": "妮芙",
-              "rarity": 6
+              "rarity": 6,
+              "character_id": "char_4146_nymph",
+              "name_en": "Nymph"
             },
             {
               "name": "乌尔比安",
-              "rarity": 6
-            },
+              "rarity": 6,
+              "character_id": "char_4145_ulpia",
+              "name_en": "Ulpianus"
+            }
+          ],
+          "featured_4": [
             {
               "name": "响石",
-              "rarity": 6
+              "rarity": 5
             },
             {
               "name": "子月",
-              "rarity": 6
+              "rarity": 5,
+              "character_id": "char_4014_lunacu",
+              "name_en": "Lunacub"
             },
             {
               "name": "和弦",
-              "rarity": 6
+              "rarity": 5,
+              "character_id": "char_297_hamoni",
+              "name_en": "Harmonie"
             },
             {
               "name": "温米",
-              "rarity": 6
+              "rarity": 5,
+              "character_id": "char_4081_warmy",
+              "name_en": "Warmy"
             },
             {
               "name": "寻澜",
-              "rarity": 6
+              "rarity": 5,
+              "character_id": "char_4052_surfer",
+              "name_en": "Surfer"
             },
             {
               "name": "波卜",
-              "rarity": 6
+              "rarity": 5,
+              "character_id": "char_487_bobb",
+              "name_en": "Bobbing"
             }
-          ],
-          "featured_4": []
+          ]
         }
-      ]
+      ],
+      "details_en": {
+        "English source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/main/en_US/gamedata/excel/character_table.json",
+        "Character ID source": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/json/tl-akhr.json",
+        "English name status": "Character names: community-extracted English client data; banner title: curated translation."
+      }
     },
     {
       "id": "arknights-2026-自火中归还复刻-banner",
       "name": "明日方舟 自火中归还·复刻 寻访",
-      "name_en": "Arknights 自火中归还·复刻 Headhunting",
+      "name_en": "Arknights Return from the Fire Rerun Headhunting",
       "date": "2026-03-27",
       "end_date": "2026-04-10",
       "time": "16:00",
@@ -429,10 +489,10 @@
       "type": "range",
       "year": 2026,
       "description": "明日方舟寻访「自火中归还·复刻」。",
-      "description_en": "Arknights Headhunting Banner「自火中归还·复刻」.",
+      "description_en": "Arknights Return from the Fire Rerun Headhunting.",
       "url": "https://prts.wiki/w/%E8%87%AA%E7%81%AB%E4%B8%AD%E5%BD%92%E8%BF%98%C2%B7%E5%A4%8D%E5%88%BB",
       "status": "completed",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "arknights",
@@ -443,29 +503,42 @@
       "banners": [
         {
           "name": "自火中归还·复刻",
+          "name_en": "Return from the Fire Rerun",
           "type": "character",
           "featured_5": [
             {
               "name": "死芒",
-              "rarity": 6
-            },
+              "rarity": 6,
+              "character_id": "char_450_necras",
+              "name_en": "Necrass"
+            }
+          ],
+          "featured_4": [
             {
               "name": "火哨",
-              "rarity": 6
+              "rarity": 5,
+              "character_id": "char_493_firwhl",
+              "name_en": "Firewhistle"
             },
             {
               "name": "钼铅",
-              "rarity": 6
+              "rarity": 5,
+              "character_id": "char_4171_wulfen",
+              "name_en": "Wulfenite"
             }
-          ],
-          "featured_4": []
+          ]
         }
-      ]
+      ],
+      "details_en": {
+        "English source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/main/en_US/gamedata/excel/character_table.json",
+        "Character ID source": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/json/tl-akhr.json",
+        "English name status": "Character names: community-extracted English client data; banner title: curated translation."
+      }
     },
     {
       "id": "arknights-2026-辟路之人-banner",
       "name": "明日方舟 辟路之人 寻访",
-      "name_en": "Arknights 辟路之人 Headhunting",
+      "name_en": "Arknights Pathfinder Headhunting",
       "date": "2026-04-07",
       "end_date": "2026-04-21",
       "time": "07:00",
@@ -475,10 +548,10 @@
       "type": "range",
       "year": 2026,
       "description": "明日方舟寻访「辟路之人」。",
-      "description_en": "Arknights Headhunting Banner「辟路之人」.",
+      "description_en": "Arknights Pathfinder Headhunting.",
       "url": "https://prts.wiki/w/%E8%BE%9F%E8%B7%AF%E4%B9%8B%E4%BA%BA",
       "status": "completed",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "arknights",
@@ -489,29 +562,38 @@
       "banners": [
         {
           "name": "辟路之人",
+          "name_en": "Pathfinder",
           "type": "character",
           "featured_5": [
             {
               "name": "怒潮凛冬",
               "rarity": 6
-            },
+            }
+          ],
+          "featured_4": [
             {
               "name": "乌啾",
-              "rarity": 6
+              "rarity": 5
             },
             {
               "name": "渡桥",
-              "rarity": 6
+              "rarity": 5,
+              "character_id": "char_4147_mitm",
+              "name_en": "Mitm"
             }
-          ],
-          "featured_4": []
+          ]
         }
-      ]
+      ],
+      "details_en": {
+        "English source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/main/en_US/gamedata/excel/character_table.json",
+        "Character ID source": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/json/tl-akhr.json",
+        "English name status": "Character names: community-extracted English client data; banner title: curated translation."
+      }
     },
     {
       "id": "arknights-2026-限定寻访庆典承诺-banner",
       "name": "明日方舟 【限定寻访·庆典】承诺 寻访",
-      "name_en": "Arknights 【限定寻访·庆典】承诺 Headhunting",
+      "name_en": "Arknights Limited Headhunting: Celebration — Promise",
       "date": "2026-05-01",
       "end_date": "2026-05-15",
       "time": "07:00",
@@ -521,10 +603,10 @@
       "type": "range",
       "year": 2026,
       "description": "明日方舟限定寻访「【限定寻访·庆典】承诺」。",
-      "description_en": "Arknights Limited Headhunting Banner「【限定寻访·庆典】承诺」.",
+      "description_en": "Arknights Limited Headhunting: Celebration — Promise.",
       "url": "https://prts.wiki/w/%E3%80%90%E9%99%90%E5%AE%9A%E5%AF%BB%E8%AE%BF%C2%B7%E5%BA%86%E5%85%B8%E3%80%91%E6%89%BF%E8%AF%BA",
       "status": "completed",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "arknights",
@@ -535,6 +617,7 @@
       "banners": [
         {
           "name": "【限定寻访·庆典】承诺",
+          "name_en": "Limited Headhunting: Celebration — Promise",
           "type": "collaboration",
           "featured_5": [
             {
@@ -544,20 +627,21 @@
             {
               "name": "可露希尔",
               "rarity": 6
-            },
-            {
-              "name": "裂响",
-              "rarity": 6
             }
           ],
-          "featured_4": []
+          "featured_4": [
+            {
+              "name": "裂响",
+              "rarity": 5
+            }
+          ]
         }
       ]
     },
     {
       "id": "arknights-2026-定向甄选07-banner",
       "name": "明日方舟 定向甄选07 寻访",
-      "name_en": "Arknights 定向甄选07 Headhunting",
+      "name_en": "Arknights Directional Selection 07 Headhunting",
       "date": "2026-05-15",
       "end_date": "2026-05-29",
       "time": "16:00",
@@ -567,10 +651,10 @@
       "type": "range",
       "year": 2026,
       "description": "明日方舟寻访「定向甄选07」。",
-      "description_en": "Arknights Headhunting Banner「定向甄选07」.",
+      "description_en": "Arknights Directional Selection 07 Headhunting.",
       "url": "https://prts.wiki/w/%E5%AE%9A%E5%90%91%E7%94%84%E9%80%8907",
       "status": "completed",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "arknights",
@@ -581,6 +665,7 @@
       "banners": [
         {
           "name": "定向甄选07",
+          "name_en": "Directional Selection 07",
           "type": "character",
           "featured_5": [],
           "featured_4": []
@@ -590,7 +675,7 @@
     {
       "id": "arknights-2026-幽境狩人-banner",
       "name": "明日方舟 幽境狩人 寻访",
-      "name_en": "Arknights 幽境狩人 Headhunting",
+      "name_en": "Arknights Hunter of the Hidden Realm Headhunting",
       "date": "2026-06-01",
       "end_date": "2026-06-15",
       "time": "12:00",
@@ -600,10 +685,10 @@
       "type": "range",
       "year": 2026,
       "description": "明日方舟限定寻访「幽境狩人」。",
-      "description_en": "Arknights Limited Headhunting Banner「幽境狩人」.",
+      "description_en": "Arknights Hunter of the Hidden Realm Headhunting.",
       "url": "https://prts.wiki/w/%E5%B9%BD%E5%A2%83%E7%8B%A9%E4%BA%BA",
       "status": "completed",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "arknights",
@@ -614,25 +699,27 @@
       "banners": [
         {
           "name": "幽境狩人",
+          "name_en": "Hunter of the Hidden Realm",
           "type": "collaboration",
           "featured_5": [
             {
               "name": "焰狐龙梓兰",
               "rarity": 6
-            },
-            {
-              "name": "雷狼龙S空爆",
-              "rarity": 6
             }
           ],
-          "featured_4": []
+          "featured_4": [
+            {
+              "name": "雷狼龙S空爆",
+              "rarity": 5
+            }
+          ]
         }
       ]
     },
     {
       "id": "arknights-2026-砺火成锋复刻-banner",
       "name": "明日方舟 砺火成锋·复刻 寻访",
-      "name_en": "Arknights 砺火成锋·复刻 Headhunting",
+      "name_en": "Arknights Forged in Fire Rerun Headhunting",
       "date": "2026-06-15",
       "end_date": "2026-06-29",
       "time": "16:00",
@@ -642,10 +729,10 @@
       "type": "range",
       "year": 2026,
       "description": "明日方舟限定寻访「砺火成锋·复刻」。",
-      "description_en": "Arknights Limited Headhunting Banner「砺火成锋·复刻」.",
+      "description_en": "Arknights Forged in Fire Rerun Headhunting.",
       "url": "https://prts.wiki/w/%E7%A0%BA%E7%81%AB%E6%88%90%E9%94%8B%C2%B7%E5%A4%8D%E5%88%BB",
       "status": "completed",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "arknights",
@@ -656,25 +743,36 @@
       "banners": [
         {
           "name": "砺火成锋·复刻",
+          "name_en": "Forged in Fire Rerun",
           "type": "collaboration",
           "featured_5": [
             {
               "name": "麒麟R夜刀",
-              "rarity": 6
-            },
-            {
-              "name": "火龙S黑角",
-              "rarity": 6
+              "rarity": 6,
+              "character_id": "char_1029_yato2",
+              "name_en": "Kirin R Yato"
             }
           ],
-          "featured_4": []
+          "featured_4": [
+            {
+              "name": "火龙S黑角",
+              "rarity": 5,
+              "character_id": "char_1030_noirc2",
+              "name_en": "Rathalos S Noir Corne"
+            }
+          ]
         }
-      ]
+      ],
+      "details_en": {
+        "English source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/main/en_US/gamedata/excel/character_table.json",
+        "Character ID source": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/json/tl-akhr.json",
+        "English name status": "Character names: community-extracted English client data; banner title: curated translation."
+      }
     },
     {
       "id": "arknights-2026-联合行动22-banner",
       "name": "明日方舟 联合行动22 寻访",
-      "name_en": "Arknights 联合行动22 Headhunting",
+      "name_en": "Arknights Joint Operation 22 Headhunting",
       "date": "2026-06-26",
       "end_date": "2026-07-10",
       "time": "16:00",
@@ -684,10 +782,10 @@
       "type": "range",
       "year": 2026,
       "description": "明日方舟寻访「联合行动22」。",
-      "description_en": "Arknights Headhunting Banner「联合行动22」.",
+      "description_en": "Arknights Joint Operation 22 Headhunting.",
       "url": "https://prts.wiki/w/%E8%81%94%E5%90%88%E8%A1%8C%E5%8A%A822",
       "status": "completed",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "arknights",
@@ -698,15 +796,20 @@
       "banners": [
         {
           "name": "联合行动22",
+          "name_en": "Joint Operation 22",
           "type": "character",
           "featured_5": [
             {
               "name": "蕾缪安",
-              "rarity": 6
+              "rarity": 6,
+              "character_id": "char_4193_lemuen",
+              "name_en": "Lemuen"
             },
             {
               "name": "伊内丝",
-              "rarity": 6
+              "rarity": 6,
+              "character_id": "char_4087_ines",
+              "name_en": "Ines"
             },
             {
               "name": "娜斯提",
@@ -714,41 +817,57 @@
             },
             {
               "name": "霍尔海雅",
-              "rarity": 6
-            },
+              "rarity": 6,
+              "character_id": "char_4027_heyak",
+              "name_en": "Ho'olheyak"
+            }
+          ],
+          "featured_4": [
             {
               "name": "复奏",
-              "rarity": 6
+              "rarity": 5
             },
             {
               "name": "火哨",
-              "rarity": 6
+              "rarity": 5,
+              "character_id": "char_493_firwhl",
+              "name_en": "Firewhistle"
             },
             {
               "name": "聆音",
-              "rarity": 6
+              "rarity": 5,
+              "character_id": "char_4187_graceb",
+              "name_en": "Gracebearer"
             },
             {
               "name": "雪猎",
-              "rarity": 6
+              "rarity": 5
             },
             {
               "name": "玫拉",
-              "rarity": 6
+              "rarity": 5,
+              "character_id": "char_4006_melnte",
+              "name_en": "Melanite"
             },
             {
               "name": "寒檀",
-              "rarity": 6
+              "rarity": 5,
+              "character_id": "char_341_sntlla",
+              "name_en": "Santalla"
             }
-          ],
-          "featured_4": []
+          ]
         }
-      ]
+      ],
+      "details_en": {
+        "English source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/main/en_US/gamedata/excel/character_table.json",
+        "Character ID source": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/json/tl-akhr.json",
+        "English name status": "Character names: community-extracted English client data; banner title: curated translation."
+      }
     },
     {
       "id": "arknights-2026-确定性混沌-banner",
       "name": "明日方舟 确定性混沌 寻访",
-      "name_en": "Arknights 确定性混沌 Headhunting",
+      "name_en": "Arknights Deterministic Chaos Headhunting",
       "date": "2026-07-10",
       "end_date": "2026-07-24",
       "time": "12:00",
@@ -758,10 +877,10 @@
       "type": "range",
       "year": 2026,
       "description": "明日方舟寻访「确定性混沌」。",
-      "description_en": "Arknights Headhunting Banner「确定性混沌」.",
+      "description_en": "Arknights Deterministic Chaos Headhunting.",
       "url": "https://prts.wiki/w/%E7%A1%AE%E5%AE%9A%E6%80%A7%E6%B7%B7%E6%B2%8C",
       "status": "completed",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "arknights",
@@ -772,29 +891,38 @@
       "banners": [
         {
           "name": "确定性混沌",
+          "name_en": "Deterministic Chaos",
           "type": "character",
           "featured_5": [
             {
               "name": "谬因",
               "rarity": 6
-            },
+            }
+          ],
+          "featured_4": [
             {
               "name": "佩德洛",
-              "rarity": 6
+              "rarity": 5
             },
             {
               "name": "钼铅",
-              "rarity": 6
+              "rarity": 5,
+              "character_id": "char_4171_wulfen",
+              "name_en": "Wulfenite"
             }
-          ],
-          "featured_4": []
+          ]
         }
-      ]
+      ],
+      "details_en": {
+        "English source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/main/en_US/gamedata/excel/character_table.json",
+        "Character ID source": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/json/tl-akhr.json",
+        "English name status": "Character names: community-extracted English client data; banner title: curated translation."
+      }
     },
     {
       "id": "arknights-2026-永不落幕复刻-banner",
       "name": "明日方舟 永不落幕·复刻 寻访",
-      "name_en": "Arknights 永不落幕·复刻 Headhunting",
+      "name_en": "Arknights Never-Ending Show Rerun Headhunting",
       "date": "2026-07-20",
       "end_date": "2026-08-03",
       "time": "16:00",
@@ -804,10 +932,10 @@
       "type": "range",
       "year": 2026,
       "description": "明日方舟寻访「永不落幕·复刻」。",
-      "description_en": "Arknights Headhunting Banner「永不落幕·复刻」.",
+      "description_en": "Arknights Never-Ending Show Rerun Headhunting.",
       "url": "https://prts.wiki/w/%E6%B0%B8%E4%B8%8D%E8%90%BD%E5%B9%95%C2%B7%E5%A4%8D%E5%88%BB",
       "status": "completed",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "arknights",
@@ -818,29 +946,42 @@
       "banners": [
         {
           "name": "永不落幕·复刻",
+          "name_en": "Never-Ending Show Rerun",
           "type": "character",
           "featured_5": [
             {
               "name": "酒神",
-              "rarity": 6
-            },
+              "rarity": 6,
+              "character_id": "char_1042_phatm2",
+              "name_en": "Tragodia"
+            }
+          ],
+          "featured_4": [
             {
               "name": "阿兰娜",
-              "rarity": 6
+              "rarity": 5,
+              "character_id": "char_4178_alanna",
+              "name_en": "Alanna"
             },
             {
               "name": "蒂比",
-              "rarity": 6
+              "rarity": 5,
+              "character_id": "char_4191_tippi",
+              "name_en": "Tippi"
             }
-          ],
-          "featured_4": []
+          ]
         }
-      ]
+      ],
+      "details_en": {
+        "English source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/main/en_US/gamedata/excel/character_table.json",
+        "Character ID source": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/json/tl-akhr.json",
+        "English name status": "Character names: community-extracted English client data; banner title: curated translation."
+      }
     },
     {
       "id": "arknights-2026-限定寻访夏季车辙与风的归所-banner",
       "name": "明日方舟 【限定寻访·夏季】车辙与风的归所 寻访",
-      "name_en": "Arknights 【限定寻访·夏季】车辙与风的归所 Headhunting",
+      "name_en": "Arknights Limited Headhunting: Summer — Where Wheel Tracks and Wind Return",
       "date": "2026-08-01",
       "end_date": "2026-08-15",
       "time": "12:00",
@@ -850,10 +991,10 @@
       "type": "range",
       "year": 2026,
       "description": "明日方舟限定寻访「【限定寻访·夏季】车辙与风的归所」。",
-      "description_en": "Arknights Limited Headhunting Banner「【限定寻访·夏季】车辙与风的归所」.",
+      "description_en": "Arknights Limited Headhunting: Summer — Where Wheel Tracks and Wind Return.",
       "url": "https://prts.wiki/w/%E3%80%90%E9%99%90%E5%AE%9A%E5%AF%BB%E8%AE%BF%C2%B7%E5%A4%8F%E5%AD%A3%E3%80%91%E8%BD%A6%E8%BE%99%E4%B8%8E%E9%A3%8E%E7%9A%84%E5%BD%92%E6%89%80",
       "status": "completed",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "arknights",
@@ -864,6 +1005,7 @@
       "banners": [
         {
           "name": "【限定寻访·夏季】车辙与风的归所",
+          "name_en": "Limited Headhunting: Summer — Where Wheel Tracks and Wind Return",
           "type": "collaboration",
           "featured_5": [
             {
@@ -873,20 +1015,21 @@
             {
               "name": "珊比",
               "rarity": 6
-            },
-            {
-              "name": "嘉辛塔",
-              "rarity": 6
             }
           ],
-          "featured_4": []
+          "featured_4": [
+            {
+              "name": "嘉辛塔",
+              "rarity": 5
+            }
+          ]
         }
       ]
     },
     {
       "id": "arknights-2026-联合行动23-banner",
       "name": "明日方舟 联合行动23 寻访",
-      "name_en": "Arknights 联合行动23 Headhunting",
+      "name_en": "Arknights Joint Operation 23 Headhunting",
       "date": "2026-08-18",
       "end_date": "2026-09-01",
       "time": "16:00",
@@ -896,10 +1039,10 @@
       "type": "range",
       "year": 2026,
       "description": "明日方舟寻访「联合行动23」。",
-      "description_en": "Arknights Headhunting Banner「联合行动23」.",
+      "description_en": "Arknights Joint Operation 23 Headhunting.",
       "url": "https://prts.wiki/w/%E8%81%94%E5%90%88%E8%A1%8C%E5%8A%A823",
       "status": "completed",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "arknights",
@@ -910,6 +1053,7 @@
       "banners": [
         {
           "name": "联合行动23",
+          "name_en": "Joint Operation 23",
           "type": "character",
           "featured_5": [
             {
@@ -922,45 +1066,65 @@
             },
             {
               "name": "死芒",
-              "rarity": 6
+              "rarity": 6,
+              "character_id": "char_450_necras",
+              "name_en": "Necrass"
             },
             {
               "name": "忍冬",
-              "rarity": 6
-            },
+              "rarity": 6,
+              "character_id": "char_4026_vulpis",
+              "name_en": "Vulpisfoglia"
+            }
+          ],
+          "featured_4": [
             {
               "name": "乌啾",
-              "rarity": 6
+              "rarity": 5
             },
             {
               "name": "青枳",
-              "rarity": 6
+              "rarity": 5,
+              "character_id": "char_488_buildr",
+              "name_en": "Poncirus"
             },
             {
               "name": "诺威尔",
-              "rarity": 6
+              "rarity": 5,
+              "character_id": "char_4173_nowell",
+              "name_en": "Nowell"
             },
             {
               "name": "小满",
-              "rarity": 6
+              "rarity": 5,
+              "character_id": "char_4122_grabds",
+              "name_en": "Grain Buds"
             },
             {
               "name": "杏仁",
-              "rarity": 6
+              "rarity": 5,
+              "character_id": "char_4105_almond",
+              "name_en": "Almond"
             },
             {
               "name": "裁度",
-              "rarity": 6
+              "rarity": 5,
+              "character_id": "char_4155_talr",
+              "name_en": "Figurino"
             }
-          ],
-          "featured_4": []
+          ]
         }
-      ]
+      ],
+      "details_en": {
+        "English source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/main/en_US/gamedata/excel/character_table.json",
+        "Character ID source": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/json/tl-akhr.json",
+        "English name status": "Character names: community-extracted English client data; banner title: curated translation."
+      }
     },
     {
       "id": "arknights-2026-石白深蓝之夜-banner",
       "name": "明日方舟 石白深蓝之夜 寻访",
-      "name_en": "Arknights 石白深蓝之夜 Headhunting",
+      "name_en": "Arknights A Night of White Stone and Deep Blue Headhunting",
       "date": "2026-09-04",
       "end_date": "2026-09-18",
       "time": "12:00",
@@ -970,10 +1134,10 @@
       "type": "range",
       "year": 2026,
       "description": "明日方舟限定寻访「石白深蓝之夜」。",
-      "description_en": "Arknights Limited Headhunting Banner「石白深蓝之夜」.",
+      "description_en": "Arknights A Night of White Stone and Deep Blue Headhunting.",
       "url": "https://prts.wiki/w/%E7%9F%B3%E7%99%BD%E6%B7%B1%E8%93%9D%E4%B9%8B%E5%A4%9C",
       "status": "completed",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "arknights",
@@ -984,29 +1148,31 @@
       "banners": [
         {
           "name": "石白深蓝之夜",
+          "name_en": "A Night of White Stone and Deep Blue",
           "type": "collaboration",
           "featured_5": [
             {
               "name": "结城理",
               "rarity": 6
-            },
+            }
+          ],
+          "featured_4": [
             {
               "name": "埃癸斯",
-              "rarity": 6
+              "rarity": 5
             },
             {
               "name": "岳羽由加莉",
-              "rarity": 6
+              "rarity": 5
             }
-          ],
-          "featured_4": []
+          ]
         }
       ]
     },
     {
       "id": "arknights-2026-定向甄选08-banner",
       "name": "明日方舟 定向甄选08 寻访",
-      "name_en": "Arknights 定向甄选08 Headhunting",
+      "name_en": "Arknights Directional Selection 08 Headhunting",
       "date": "2026-09-29",
       "end_date": "2026-10-13",
       "time": "16:00",
@@ -1016,10 +1182,10 @@
       "type": "range",
       "year": 2026,
       "description": "明日方舟寻访「定向甄选08」。",
-      "description_en": "Arknights Headhunting Banner「定向甄选08」.",
+      "description_en": "Arknights Directional Selection 08 Headhunting.",
       "url": "https://prts.wiki/w/%E5%AE%9A%E5%90%91%E7%94%84%E9%80%8908",
       "status": "completed",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "arknights",
@@ -1030,6 +1196,7 @@
       "banners": [
         {
           "name": "定向甄选08",
+          "name_en": "Directional Selection 08",
           "type": "character",
           "featured_5": [],
           "featured_4": []
@@ -1039,7 +1206,7 @@
     {
       "id": "arknights-2026-海渊巡游-banner",
       "name": "明日方舟 海渊巡游 寻访",
-      "name_en": "Arknights 海渊巡游 Headhunting",
+      "name_en": "Arknights Voyage Through the Abyss Headhunting",
       "date": "2026-10-09",
       "end_date": "2026-10-23",
       "time": "12:00",
@@ -1049,10 +1216,10 @@
       "type": "range",
       "year": 2026,
       "description": "明日方舟寻访「海渊巡游」。",
-      "description_en": "Arknights Headhunting Banner「海渊巡游」.",
+      "description_en": "Arknights Voyage Through the Abyss Headhunting.",
       "url": "https://prts.wiki/w/%E6%B5%B7%E6%B8%8A%E5%B7%A1%E6%B8%B8",
       "status": "completed",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "arknights",
@@ -1063,29 +1230,38 @@
       "banners": [
         {
           "name": "海渊巡游",
+          "name_en": "Voyage Through the Abyss",
           "type": "character",
           "featured_5": [
             {
               "name": "克莱门莎",
               "rarity": 6
-            },
+            }
+          ],
+          "featured_4": [
             {
               "name": "火哨",
-              "rarity": 6
+              "rarity": 5,
+              "character_id": "char_493_firwhl",
+              "name_en": "Firewhistle"
             },
             {
               "name": "德·托莱多",
-              "rarity": 6
+              "rarity": 5
             }
-          ],
-          "featured_4": []
+          ]
         }
-      ]
+      ],
+      "details_en": {
+        "English source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/main/en_US/gamedata/excel/character_table.json",
+        "Character ID source": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/json/tl-akhr.json",
+        "English name status": "Character names: community-extracted English client data; banner title: curated translation."
+      }
     },
     {
       "id": "arknights-2026-限定寻访庆典将雪投火-banner",
       "name": "明日方舟 【限定寻访·庆典】将雪投火 寻访",
-      "name_en": "Arknights 【限定寻访·庆典】将雪投火 Headhunting",
+      "name_en": "Arknights Limited Headhunting: Celebration — Cast Snow into Fire",
       "date": "2026-11-01",
       "end_date": "2026-11-15",
       "time": "12:00",
@@ -1095,10 +1271,10 @@
       "type": "range",
       "year": 2026,
       "description": "明日方舟限定寻访「【限定寻访·庆典】将雪投火」。",
-      "description_en": "Arknights Limited Headhunting Banner「【限定寻访·庆典】将雪投火」.",
+      "description_en": "Arknights Limited Headhunting: Celebration — Cast Snow into Fire.",
       "url": "https://prts.wiki/w/%E3%80%90%E9%99%90%E5%AE%9A%E5%AF%BB%E8%AE%BF%C2%B7%E5%BA%86%E5%85%B8%E3%80%91%E5%B0%86%E9%9B%AA%E6%8A%95%E7%81%AB",
       "status": "active",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-04",
       "verified_by": "community",
       "game": {
         "game_id": "arknights",
@@ -1109,6 +1285,7 @@
       "banners": [
         {
           "name": "【限定寻访·庆典】将雪投火",
+          "name_en": "Limited Headhunting: Celebration — Cast Snow into Fire",
           "type": "collaboration",
           "featured_5": [
             {
@@ -1118,16 +1295,17 @@
             {
               "name": "冻河",
               "rarity": 6
-            },
-            {
-              "name": "奥尔佳",
-              "rarity": 6
             }
           ],
-          "featured_4": []
+          "featured_4": [
+            {
+              "name": "奥尔佳",
+              "rarity": 5
+            }
+          ]
         }
       ]
     }
   ],
-  "last_updated": "2026-11-01"
+  "last_updated": "2026-11-04"
 }
