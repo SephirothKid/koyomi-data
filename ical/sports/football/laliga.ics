@@ -11,27 +11,14 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882851@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261010T030000
 DTEND;TZID=Asia/Shanghai:20261010T040000
 SUMMARY:西甲赛程 · 西甲 · 西班牙人 @ 马拉加
 DESCRIPTION:西班牙人 作客 马拉加（西甲 2026-27 赛季，北京
- 时间）\n\n主场: 马拉加\n客场: 西班牙人\n场馆: La Rosaleda\
- n城市: Malaga
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882849@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261010T200000
-DTEND;TZID=Asia/Shanghai:20261010T210000
-SUMMARY:西甲赛程 · 西甲 · 毕尔巴鄂竞技 @ 瓦列卡诺
-DESCRIPTION:毕尔巴鄂竞技 作客 瓦列卡诺（西甲 2026-27 赛季
- ，北京时间）\n\n主场: 瓦列卡诺\n客场: 毕尔巴鄂竞技\n
- 场馆: Estadio de Vallecas\n城市: Madrid
+ 时间）\n\n比分: 马拉加 1 - 1 西班牙人\n\n主场: 马拉加\n
+ 客场: 西班牙人\n比分: 马拉加 1 - 1 西班牙人\n场馆: La Ros
+ aleda\n城市: Malaga
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -39,12 +26,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882856@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261010T221500
 DTEND;TZID=Asia/Shanghai:20261010T231500
 SUMMARY:西甲赛程 · 西甲 · 马竞 @ 阿拉维斯
 DESCRIPTION:马竞 作客 阿拉维斯（西甲 2026-27 赛季，北京时
- 间）\n\n主场: 阿拉维斯\n客场: 马竞\n场馆: Mendizorrotza\n城
+ 间）\n\n比分: 阿拉维斯 1 - 2 马竞\n\n主场: 阿拉维斯\n客
+ 场: 马竞\n比分: 阿拉维斯 1 - 2 马竞\n场馆: Mendizorrotza\n城
  市: Vitoria-Gasteiz
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
@@ -53,13 +41,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882853@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261011T003000
 DTEND;TZID=Asia/Shanghai:20261011T013000
 SUMMARY:西甲赛程 · 西甲 · 赫塔费 @ 巴塞罗那
 DESCRIPTION:赫塔费 作客 巴塞罗那（西甲 2026-27 赛季，北京
- 时间）\n\n主场: 巴塞罗那\n客场: 赫塔费\n场馆: Spotify Camp
-  Nou\n城市: Barcelona
+ 时间）\n\n比分: 巴塞罗那 3 - 0 赫塔费\n\n主场: 巴塞罗那\
+ n客场: 赫塔费\n比分: 巴塞罗那 3 - 0 赫塔费\n场馆: Spotify 
+ Camp Nou\n城市: Barcelona
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -67,13 +56,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882848@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261011T030000
 DTEND;TZID=Asia/Shanghai:20261011T040000
 SUMMARY:西甲赛程 · 西甲 · 比利亚雷亚尔 @ 皇家马德里
 DESCRIPTION:比利亚雷亚尔 作客 皇家马德里（西甲 2026-27 赛
- 季，北京时间）\n\n主场: 皇家马德里\n客场: 比利亚雷亚
- 尔\n场馆: Santiago Bernabéu\n城市: Madrid
+ 季，北京时间）\n\n比分: 皇家马德里 1 - 0 比利亚雷亚尔\
+ n\n主场: 皇家马德里\n客场: 比利亚雷亚尔\n比分: 皇家马
+ 德里 1 - 0 比利亚雷亚尔\n场馆: Santiago Bernabéu\n城市: Madri
+ d
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -81,13 +72,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882854@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261011T200000
 DTEND;TZID=Asia/Shanghai:20261011T210000
 SUMMARY:西甲赛程 · 西甲 · 塞尔塔 @ 埃尔切
 DESCRIPTION:塞尔塔 作客 埃尔切（西甲 2026-27 赛季，北京时
- 间）\n\n主场: 埃尔切\n客场: 塞尔塔\n场馆: Estadio Martínez 
- Valero\n城市: Elche
+ 间）\n\n比分: 埃尔切 0 - 0 塞尔塔\n\n主场: 埃尔切\n客场: 
+ 塞尔塔\n比分: 埃尔切 0 - 0 塞尔塔\n场馆: Estadio Martínez Va
+ lero\n城市: Elche
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -95,13 +87,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882847@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261011T221500
 DTEND;TZID=Asia/Shanghai:20261011T231500
 SUMMARY:西甲赛程 · 西甲 · 拉科鲁尼亚 @ 皇家社会
 DESCRIPTION:拉科鲁尼亚 作客 皇家社会（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 皇家社会\n客场: 拉科鲁尼亚\n场馆: 
- Reale Arena\n城市: San Sebastian
+ 北京时间）\n\n比分: 皇家社会 3 - 2 拉科鲁尼亚\n\n主场: 
+ 皇家社会\n客场: 拉科鲁尼亚\n比分: 皇家社会 3 - 2 拉科
+ 鲁尼亚\n场馆: Reale Arena\n城市: San Sebastian
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -109,13 +102,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882855@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261012T003000
 DTEND;TZID=Asia/Shanghai:20261012T013000
 SUMMARY:西甲赛程 · 西甲 · 奥萨苏纳 @ 皇家贝蒂斯
 DESCRIPTION:奥萨苏纳 作客 皇家贝蒂斯（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 皇家贝蒂斯\n客场: 奥萨苏纳\n场馆: 
- Estadio La Cartuja\n城市: Sevilla
+ 北京时间）\n\n比分: 皇家贝蒂斯 5 - 2 奥萨苏纳\n\n主场: 
+ 皇家贝蒂斯\n客场: 奥萨苏纳\n比分: 皇家贝蒂斯 5 - 2 奥
+ 萨苏纳\n场馆: Estadio La Cartuja\n城市: Sevilla
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -123,13 +117,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882850@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261012T030000
 DTEND;TZID=Asia/Shanghai:20261012T040000
 SUMMARY:西甲赛程 · 西甲 · 瓦伦西亚 @ 桑坦德竞技
 DESCRIPTION:瓦伦西亚 作客 桑坦德竞技（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 桑坦德竞技\n客场: 瓦伦西亚\n场馆: 
- El Sardineros\n城市: Santander
+ 北京时间）\n\n比分: 桑坦德竞技 2 - 2 瓦伦西亚\n\n主场: 
+ 桑坦德竞技\n客场: 瓦伦西亚\n比分: 桑坦德竞技 2 - 2 瓦
+ 伦西亚\n场馆: El Sardineros\n城市: Santander
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -137,27 +132,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882852@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261013T030000
 DTEND;TZID=Asia/Shanghai:20261013T040000
 SUMMARY:西甲赛程 · 西甲 · 塞维利亚 @ 莱万特
 DESCRIPTION:塞维利亚 作客 莱万特（西甲 2026-27 赛季，北京
- 时间）\n\n主场: 莱万特\n客场: 塞维利亚\n场馆: Estadi Ciuta
- t de València\n城市: Manises
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882845@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261019T020000
-DTEND;TZID=Asia/Shanghai:20261019T030000
-SUMMARY:西甲赛程 · 西甲 · 阿拉维斯 @ 塞尔塔
-DESCRIPTION:阿拉维斯 作客 塞尔塔（西甲 2026-27 赛季，北京
- 时间）\n\n主场: 塞尔塔\n客场: 阿拉维斯\n场馆: Balaidos\n
- 城市: Vigo
+ 时间）\n\n比分: 莱万特 3 - 3 塞维利亚\n\n主场: 莱万特\n
+ 客场: 塞维利亚\n比分: 莱万特 3 - 3 塞维利亚\n场馆: Estadi
+  Ciutat de València\n城市: Manises
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -165,13 +147,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882844@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261019T020000
-DTEND;TZID=Asia/Shanghai:20261019T030000
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261017T030000
+DTEND;TZID=Asia/Shanghai:20261017T040000
 SUMMARY:西甲赛程 · 西甲 · 莱万特 @ 拉科鲁尼亚
 DESCRIPTION:莱万特 作客 拉科鲁尼亚（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 拉科鲁尼亚\n客场: 莱万特\n场馆: Riazor
- \n城市: La Coruña
+ 京时间）\n\n比分: 拉科鲁尼亚 1 - 1 莱万特\n\n主场: 拉科
+ 鲁尼亚\n客场: 莱万特\n比分: 拉科鲁尼亚 1 - 1 莱万特\n场
+ 馆: Riazor\n城市: La Coruña
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -179,97 +162,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882843@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261019T020000
-DTEND;TZID=Asia/Shanghai:20261019T030000
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261017T200000
+DTEND;TZID=Asia/Shanghai:20261017T210000
 SUMMARY:西甲赛程 · 西甲 · 马竞 @ 西班牙人
 DESCRIPTION:马竞 作客 西班牙人（西甲 2026-27 赛季，北京时
- 间）\n\n主场: 西班牙人\n客场: 马竞\n场馆: RCDE Stadium\n城
+ 间）\n\n比分: 西班牙人 0 - 1 马竞\n\n主场: 西班牙人\n客
+ 场: 马竞\n比分: 西班牙人 0 - 1 马竞\n场馆: RCDE Stadium\n城
  市: Barcelona
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882842@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261019T020000
-DTEND;TZID=Asia/Shanghai:20261019T030000
-SUMMARY:西甲赛程 · 西甲 · 瓦列卡诺 @ 赫塔费
-DESCRIPTION:瓦列卡诺 作客 赫塔费（西甲 2026-27 赛季，北京
- 时间）\n\n主场: 赫塔费\n客场: 瓦列卡诺\n场馆: Estadio Coli
- seum\n城市: Getafe
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882841@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261019T020000
-DTEND;TZID=Asia/Shanghai:20261019T030000
-SUMMARY:西甲赛程 · 西甲 · 皇家社会 @ 马拉加
-DESCRIPTION:皇家社会 作客 马拉加（西甲 2026-27 赛季，北京
- 时间）\n\n主场: 马拉加\n客场: 皇家社会\n场馆: La Rosaleda\
- n城市: Malaga
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882840@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261019T020000
-DTEND;TZID=Asia/Shanghai:20261019T030000
-SUMMARY:西甲赛程 · 西甲 · 桑坦德竞技 @ 奥萨苏纳
-DESCRIPTION:桑坦德竞技 作客 奥萨苏纳（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 奥萨苏纳\n客场: 桑坦德竞技\n场馆: 
- El Sadar\n城市: Pamplona
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882846@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261019T020000
-DTEND;TZID=Asia/Shanghai:20261019T030000
-SUMMARY:西甲赛程 · 西甲 · 巴塞罗那 @ 皇家贝蒂斯
-DESCRIPTION:巴塞罗那 作客 皇家贝蒂斯（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 皇家贝蒂斯\n客场: 巴塞罗那\n场馆: 
- Estadio La Cartuja\n城市: Sevilla
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882839@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261019T020000
-DTEND;TZID=Asia/Shanghai:20261019T030000
-SUMMARY:西甲赛程 · 西甲 · 塞维利亚 @ 皇家马德里
-DESCRIPTION:塞维利亚 作客 皇家马德里（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 皇家马德里\n客场: 塞维利亚\n场馆: 
- Santiago Bernabéu\n城市: Madrid
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882838@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261019T020000
-DTEND;TZID=Asia/Shanghai:20261019T030000
-SUMMARY:西甲赛程 · 西甲 · 毕尔巴鄂竞技 @ 瓦伦西亚
-DESCRIPTION:毕尔巴鄂竞技 作客 瓦伦西亚（西甲 2026-27 赛季
- ，北京时间）\n\n主场: 瓦伦西亚\n客场: 毕尔巴鄂竞技\n
- 场馆: Mestalla Stadium\n城市: Manises
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -277,13 +177,134 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882837@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261019T020000
-DTEND;TZID=Asia/Shanghai:20261019T030000
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261017T221500
+DTEND;TZID=Asia/Shanghai:20261017T231500
 SUMMARY:西甲赛程 · 西甲 · 埃尔切 @ 比利亚雷亚尔
 DESCRIPTION:埃尔切 作客 比利亚雷亚尔（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 比利亚雷亚尔\n客场: 埃尔切\n场馆: 
- Estadio de la Cerámica\n城市: Villarreal
+ 北京时间）\n\n比分: 比利亚雷亚尔 0 - 0 埃尔切\n\n主场: 
+ 比利亚雷亚尔\n客场: 埃尔切\n比分: 比利亚雷亚尔 0 - 0 
+ 埃尔切\n场馆: Estadio de la Cerámica\n城市: Villarreal
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882846@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261018T003000
+DTEND;TZID=Asia/Shanghai:20261018T013000
+SUMMARY:西甲赛程 · 西甲 · 巴塞罗那 @ 皇家贝蒂斯
+DESCRIPTION:巴塞罗那 作客 皇家贝蒂斯（西甲 2026-27 赛季，
+ 北京时间）\n\n比分: 皇家贝蒂斯 2 - 5 巴塞罗那\n\n主场: 
+ 皇家贝蒂斯\n客场: 巴塞罗那\n比分: 皇家贝蒂斯 2 - 5 巴
+ 塞罗那\n场馆: Estadio La Cartuja\n城市: Sevilla
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882838@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261018T030000
+DTEND;TZID=Asia/Shanghai:20261018T040000
+SUMMARY:西甲赛程 · 西甲 · 毕尔巴鄂竞技 @ 瓦伦西亚
+DESCRIPTION:毕尔巴鄂竞技 作客 瓦伦西亚（西甲 2026-27 赛季
+ ，北京时间）\n\n比分: 瓦伦西亚 0 - 0 毕尔巴鄂竞技\n\n主
+ 场: 瓦伦西亚\n客场: 毕尔巴鄂竞技\n比分: 瓦伦西亚 0 - 0 
+ 毕尔巴鄂竞技\n场馆: Mestalla Stadium\n城市: Manises
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882840@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261018T200000
+DTEND;TZID=Asia/Shanghai:20261018T210000
+SUMMARY:西甲赛程 · 西甲 · 桑坦德竞技 @ 奥萨苏纳
+DESCRIPTION:桑坦德竞技 作客 奥萨苏纳（西甲 2026-27 赛季，
+ 北京时间）\n\n比分: 奥萨苏纳 2 - 0 桑坦德竞技\n\n主场: 
+ 奥萨苏纳\n客场: 桑坦德竞技\n比分: 奥萨苏纳 2 - 0 桑坦
+ 德竞技\n场馆: El Sadar\n城市: Pamplona
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882845@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261018T221500
+DTEND;TZID=Asia/Shanghai:20261018T231500
+SUMMARY:西甲赛程 · 西甲 · 阿拉维斯 @ 塞尔塔
+DESCRIPTION:阿拉维斯 作客 塞尔塔（西甲 2026-27 赛季，北京
+ 时间）\n\n比分: 塞尔塔 2 - 1 阿拉维斯\n\n主场: 塞尔塔\n
+ 客场: 阿拉维斯\n比分: 塞尔塔 2 - 1 阿拉维斯\n场馆: Balaid
+ os\n城市: Vigo
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882841@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261019T003000
+DTEND;TZID=Asia/Shanghai:20261019T013000
+SUMMARY:西甲赛程 · 西甲 · 皇家社会 @ 马拉加
+DESCRIPTION:皇家社会 作客 马拉加（西甲 2026-27 赛季，北京
+ 时间）\n\n比分: 马拉加 2 - 5 皇家社会\n\n主场: 马拉加\n
+ 客场: 皇家社会\n比分: 马拉加 2 - 5 皇家社会\n场馆: La Ros
+ aleda\n城市: Malaga
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882839@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261019T030000
+DTEND;TZID=Asia/Shanghai:20261019T040000
+SUMMARY:西甲赛程 · 西甲 · 塞维利亚 @ 皇家马德里
+DESCRIPTION:塞维利亚 作客 皇家马德里（西甲 2026-27 赛季，
+ 北京时间）\n\n比分: 皇家马德里 4 - 1 塞维利亚\n\n主场: 
+ 皇家马德里\n客场: 塞维利亚\n比分: 皇家马德里 4 - 1 塞
+ 维利亚\n场馆: Santiago Bernabéu\n城市: Madrid
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882842@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261020T030000
+DTEND;TZID=Asia/Shanghai:20261020T040000
+SUMMARY:西甲赛程 · 西甲 · 瓦列卡诺 @ 赫塔费
+DESCRIPTION:瓦列卡诺 作客 赫塔费（西甲 2026-27 赛季，北京
+ 时间）\n\n比分: 赫塔费 1 - 1 瓦列卡诺\n\n主场: 赫塔费\n
+ 客场: 瓦列卡诺\n比分: 赫塔费 1 - 1 瓦列卡诺\n场馆: Estadi
+ o Coliseum\n城市: Getafe
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882870@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261022T020000
+DTEND;TZID=Asia/Shanghai:20261022T030000
+SUMMARY:西甲赛程 · 西甲 · 毕尔巴鄂竞技 @ 莱万特
+DESCRIPTION:毕尔巴鄂竞技 作客 莱万特（西甲 2026-27 赛季，
+ 北京时间）\n\n比分: 莱万特 3 - 1 毕尔巴鄂竞技\n\n主场: 
+ 莱万特\n客场: 毕尔巴鄂竞技\n比分: 莱万特 3 - 1 毕尔巴
+ 鄂竞技\n场馆: Estadi Ciutat de València\n城市: Manises
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -291,83 +312,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882836@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261026T020000
-DTEND;TZID=Asia/Shanghai:20261026T030000
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261024T030000
+DTEND;TZID=Asia/Shanghai:20261024T040000
 SUMMARY:西甲赛程 · 西甲 · 马拉加 @ 阿拉维斯
 DESCRIPTION:马拉加 作客 阿拉维斯（西甲 2026-27 赛季，北京
- 时间）\n\n主场: 阿拉维斯\n客场: 马拉加\n场馆: Mendizorrotz
- a\n城市: Vitoria-Gasteiz
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882835@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261026T020000
-DTEND;TZID=Asia/Shanghai:20261026T030000
-SUMMARY:西甲赛程 · 西甲 · 赫塔费 @ 毕尔巴鄂竞技
-DESCRIPTION:赫塔费 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 毕尔巴鄂竞技\n客场: 赫塔费\n场馆: 
- San Mamés\n城市: Bilbao
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882834@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261026T020000
-DTEND;TZID=Asia/Shanghai:20261026T030000
-SUMMARY:西甲赛程 · 西甲 · 拉科鲁尼亚 @ 马竞
-DESCRIPTION:拉科鲁尼亚 作客 马竞（西甲 2026-27 赛季，北京
- 时间）\n\n主场: 马竞\n客场: 拉科鲁尼亚\n场馆: Riyadh Air M
- etropolitano\n城市: Madrid
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882832@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261026T020000
-DTEND;TZID=Asia/Shanghai:20261026T030000
-SUMMARY:西甲赛程 · 西甲 · 皇家马德里 @ 巴塞罗那
-DESCRIPTION:皇家马德里 作客 巴塞罗那（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 巴塞罗那\n客场: 皇家马德里\n场馆: 
- Spotify Camp Nou\n城市: Barcelona
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882833@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261026T020000
-DTEND;TZID=Asia/Shanghai:20261026T030000
-SUMMARY:西甲赛程 · 西甲 · 皇家贝蒂斯 @ 塞尔塔
-DESCRIPTION:皇家贝蒂斯 作客 塞尔塔（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 塞尔塔\n客场: 皇家贝蒂斯\n场馆: Balaid
- os\n城市: Vigo
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882831@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261026T020000
-DTEND;TZID=Asia/Shanghai:20261026T030000
-SUMMARY:西甲赛程 · 西甲 · 西班牙人 @ 桑坦德竞技
-DESCRIPTION:西班牙人 作客 桑坦德竞技（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 桑坦德竞技\n客场: 西班牙人\n场馆: 
- El Sardineros\n城市: Santander
+ 时间）\n\n比分: 阿拉维斯 1 - 1 马拉加\n\n主场: 阿拉维斯\
+ n客场: 马拉加\n比分: 阿拉维斯 1 - 1 马拉加\n场馆: Mendizor
+ rotza\n城市: Vitoria-Gasteiz
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -375,41 +327,29 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882830@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261026T020000
-DTEND;TZID=Asia/Shanghai:20261026T030000
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261024T200000
+DTEND;TZID=Asia/Shanghai:20261024T210000
 SUMMARY:西甲赛程 · 西甲 · 埃尔切 @ 瓦列卡诺
 DESCRIPTION:埃尔切 作客 瓦列卡诺（西甲 2026-27 赛季，北京
- 时间）\n\n主场: 瓦列卡诺\n客场: 埃尔切\n场馆: Estadio de V
- allecas\n城市: Madrid
+ 时间）\n\n比分: 瓦列卡诺 0 - 3 埃尔切\n\n主场: 瓦列卡诺\
+ n客场: 埃尔切\n比分: 瓦列卡诺 0 - 3 埃尔切\n场馆: Estadio 
+ de Vallecas\n城市: Madrid
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-laliga-2026-401882829@koyomi.cast
+UID:laliga-laliga-2026-401882831@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261026T020000
-DTEND;TZID=Asia/Shanghai:20261026T030000
-SUMMARY:西甲赛程 · 西甲 · 莱万特 @ 皇家社会
-DESCRIPTION:莱万特 作客 皇家社会（西甲 2026-27 赛季，北京
- 时间）\n\n主场: 皇家社会\n客场: 莱万特\n场馆: Reale Arena\
- n城市: San Sebastian
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882828@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261026T020000
-DTEND;TZID=Asia/Shanghai:20261026T030000
-SUMMARY:西甲赛程 · 西甲 · 奥萨苏纳 @ 塞维利亚
-DESCRIPTION:奥萨苏纳 作客 塞维利亚（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 塞维利亚\n客场: 奥萨苏纳\n场馆: Ramón
-  Sánchez Pizjuán Stadium\n城市: Sevilla
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261024T221500
+DTEND;TZID=Asia/Shanghai:20261024T231500
+SUMMARY:西甲赛程 · 西甲 · 西班牙人 @ 桑坦德竞技
+DESCRIPTION:西班牙人 作客 桑坦德竞技（西甲 2026-27 赛季，
+ 北京时间）\n\n比分: 桑坦德竞技 2 - 1 西班牙人\n\n主场: 
+ 桑坦德竞技\n客场: 西班牙人\n比分: 桑坦德竞技 2 - 1 西
+ 班牙人\n场馆: El Sardineros\n城市: Santander
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -417,139 +357,104 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882827@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261026T020000
-DTEND;TZID=Asia/Shanghai:20261026T030000
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261025T003000
+DTEND;TZID=Asia/Shanghai:20261025T013000
 SUMMARY:西甲赛程 · 西甲 · 比利亚雷亚尔 @ 瓦伦西亚
 DESCRIPTION:比利亚雷亚尔 作客 瓦伦西亚（西甲 2026-27 赛季
- ，北京时间）\n\n主场: 瓦伦西亚\n客场: 比利亚雷亚尔\n
- 场馆: Mestalla Stadium\n城市: Manises
+ ，北京时间）\n\n比分: 瓦伦西亚 1 - 2 比利亚雷亚尔\n\n主
+ 场: 瓦伦西亚\n客场: 比利亚雷亚尔\n比分: 瓦伦西亚 1 - 2 
+ 比利亚雷亚尔\n场馆: Mestalla Stadium\n城市: Manises
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-laliga-2026-401882826@koyomi.cast
+UID:laliga-laliga-2026-401882834@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261102T040000
-DTEND;TZID=Asia/Shanghai:20261102T050000
-SUMMARY:西甲赛程 · 西甲 · 皇家社会 @ 毕尔巴鄂竞技
-DESCRIPTION:皇家社会 作客 毕尔巴鄂竞技（西甲 2026-27 赛季
- ，北京时间）\n\n主场: 毕尔巴鄂竞技\n客场: 皇家社会\n
- 场馆: San Mamés\n城市: Bilbao
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261025T030000
+DTEND;TZID=Asia/Shanghai:20261025T040000
+SUMMARY:西甲赛程 · 西甲 · 拉科鲁尼亚 @ 马竞
+DESCRIPTION:拉科鲁尼亚 作客 马竞（西甲 2026-27 赛季，北京
+ 时间）\n\n比分: 马竞 1 - 0 拉科鲁尼亚\n\n主场: 马竞\n客
+ 场: 拉科鲁尼亚\n比分: 马竞 1 - 0 拉科鲁尼亚\n场馆: Riyadh
+  Air Metropolitano\n城市: Madrid
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-laliga-2026-401882822@koyomi.cast
+UID:laliga-laliga-2026-401882835@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261102T040000
-DTEND;TZID=Asia/Shanghai:20261102T050000
-SUMMARY:西甲赛程 · 西甲 · 阿拉维斯 @ 巴塞罗那
-DESCRIPTION:阿拉维斯 作客 巴塞罗那（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 巴塞罗那\n客场: 阿拉维斯\n场馆: Spotif
- y Camp Nou\n城市: Barcelona
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261025T210000
+DTEND;TZID=Asia/Shanghai:20261025T220000
+SUMMARY:西甲赛程 · 西甲 · 赫塔费 @ 毕尔巴鄂竞技
+DESCRIPTION:赫塔费 作客 毕尔巴鄂竞技（西甲 2026-27 赛季，
+ 北京时间）\n\n比分: 毕尔巴鄂竞技 4 - 0 赫塔费\n\n主场: 
+ 毕尔巴鄂竞技\n客场: 赫塔费\n比分: 毕尔巴鄂竞技 4 - 0 
+ 赫塔费\n场馆: San Mamés\n城市: Bilbao
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-laliga-2026-401882824@koyomi.cast
+UID:laliga-laliga-2026-401882833@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261102T040000
-DTEND;TZID=Asia/Shanghai:20261102T050000
-SUMMARY:西甲赛程 · 西甲 · 奥萨苏纳 @ 拉科鲁尼亚
-DESCRIPTION:奥萨苏纳 作客 拉科鲁尼亚（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 拉科鲁尼亚\n客场: 奥萨苏纳\n场馆: 
- Riazor\n城市: La Coruña
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261025T231500
+DTEND;TZID=Asia/Shanghai:20261026T001500
+SUMMARY:西甲赛程 · 西甲 · 皇家贝蒂斯 @ 塞尔塔
+DESCRIPTION:皇家贝蒂斯 作客 塞尔塔（西甲 2026-27 赛季，北
+ 京时间）\n\n比分: 塞尔塔 0 - 0 皇家贝蒂斯\n\n主场: 塞尔
+ 塔\n客场: 皇家贝蒂斯\n比分: 塞尔塔 0 - 0 皇家贝蒂斯\n场
+ 馆: Balaidos\n城市: Vigo
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-laliga-2026-401882823@koyomi.cast
+UID:laliga-laliga-2026-401882829@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261102T040000
-DTEND;TZID=Asia/Shanghai:20261102T050000
-SUMMARY:西甲赛程 · 西甲 · 瓦伦西亚 @ 埃尔切
-DESCRIPTION:瓦伦西亚 作客 埃尔切（西甲 2026-27 赛季，北京
- 时间）\n\n主场: 埃尔切\n客场: 瓦伦西亚\n场馆: Estadio Mart
- ínez Valero\n城市: Elche
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261026T013000
+DTEND;TZID=Asia/Shanghai:20261026T023000
+SUMMARY:西甲赛程 · 西甲 · 莱万特 @ 皇家社会
+DESCRIPTION:莱万特 作客 皇家社会（西甲 2026-27 赛季，北京
+ 时间）\n\n比分: 皇家社会 2 - 1 莱万特\n\n主场: 皇家社会\
+ n客场: 莱万特\n比分: 皇家社会 2 - 1 莱万特\n场馆: Reale Ar
+ ena\n城市: San Sebastian
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-laliga-2026-401882821@koyomi.cast
+UID:laliga-laliga-2026-401882832@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261102T040000
-DTEND;TZID=Asia/Shanghai:20261102T050000
-SUMMARY:西甲赛程 · 西甲 · 塞维利亚 @ 赫塔费
-DESCRIPTION:塞维利亚 作客 赫塔费（西甲 2026-27 赛季，北京
- 时间）\n\n主场: 赫塔费\n客场: 塞维利亚\n场馆: Estadio Coli
- seum\n城市: Getafe
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261026T040000
+DTEND;TZID=Asia/Shanghai:20261026T050000
+SUMMARY:西甲赛程 · 西甲 · 皇家马德里 @ 巴塞罗那
+DESCRIPTION:皇家马德里 作客 巴塞罗那（西甲 2026-27 赛季，
+ 北京时间）\n\n比分: 巴塞罗那 1 - 2 皇家马德里\n\n主场: 
+ 巴塞罗那\n客场: 皇家马德里\n比分: 巴塞罗那 1 - 2 皇家
+ 马德里\n场馆: Spotify Camp Nou\n城市: Barcelona
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-laliga-2026-401882820@koyomi.cast
+UID:laliga-laliga-2026-401882828@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261102T040000
-DTEND;TZID=Asia/Shanghai:20261102T050000
-SUMMARY:西甲赛程 · 西甲 · 马竞 @ 莱万特
-DESCRIPTION:马竞 作客 莱万特（西甲 2026-27 赛季，北京时间
- ）\n\n主场: 莱万特\n客场: 马竞\n场馆: Estadi Ciutat de Valènc
- ia\n城市: Manises
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882819@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261102T040000
-DTEND;TZID=Asia/Shanghai:20261102T050000
-SUMMARY:西甲赛程 · 西甲 · 皇家马德里 @ 桑坦德竞技
-DESCRIPTION:皇家马德里 作客 桑坦德竞技（西甲 2026-27 赛季
- ，北京时间）\n\n主场: 桑坦德竞技\n客场: 皇家马德里\n
- 场馆: El Sardineros\n城市: Santander
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882818@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261102T040000
-DTEND;TZID=Asia/Shanghai:20261102T050000
-SUMMARY:西甲赛程 · 西甲 · 塞尔塔 @ 瓦列卡诺
-DESCRIPTION:塞尔塔 作客 瓦列卡诺（西甲 2026-27 赛季，北京
- 时间）\n\n主场: 瓦列卡诺\n客场: 塞尔塔\n场馆: Estadio de V
- allecas\n城市: Madrid
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882825@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261102T040000
-DTEND;TZID=Asia/Shanghai:20261102T050000
-SUMMARY:西甲赛程 · 西甲 · 马拉加 @ 皇家贝蒂斯
-DESCRIPTION:马拉加 作客 皇家贝蒂斯（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 皇家贝蒂斯\n客场: 马拉加\n场馆: Estadi
- o La Cartuja\n城市: Sevilla
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261027T040000
+DTEND;TZID=Asia/Shanghai:20261027T050000
+SUMMARY:西甲赛程 · 西甲 · 奥萨苏纳 @ 塞维利亚
+DESCRIPTION:奥萨苏纳 作客 塞维利亚（西甲 2026-27 赛季，北
+ 京时间）\n\n比分: 塞维利亚 2 - 0 奥萨苏纳\n\n主场: 塞维
+ 利亚\n客场: 奥萨苏纳\n比分: 塞维利亚 2 - 0 奥萨苏纳\n场
+ 馆: Ramón Sánchez Pizjuán Stadium\n城市: Sevilla
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -557,13 +462,275 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882817@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261102T040000
-DTEND;TZID=Asia/Shanghai:20261102T050000
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261031T040000
+DTEND;TZID=Asia/Shanghai:20261031T050000
 SUMMARY:西甲赛程 · 西甲 · 西班牙人 @ 比利亚雷亚尔
 DESCRIPTION:西班牙人 作客 比利亚雷亚尔（西甲 2026-27 赛季
- ，北京时间）\n\n主场: 比利亚雷亚尔\n客场: 西班牙人\n
- 场馆: Estadio de la Cerámica\n城市: Villarreal
+ ，北京时间）\n\n比分: 比利亚雷亚尔 0 - 1 西班牙人\n\n主
+ 场: 比利亚雷亚尔\n客场: 西班牙人\n比分: 比利亚雷亚尔 
+ 0 - 1 西班牙人\n场馆: Estadio de la Cerámica\n城市: Villarreal
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882820@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261031T210000
+DTEND;TZID=Asia/Shanghai:20261031T220000
+SUMMARY:西甲赛程 · 西甲 · 马竞 @ 莱万特
+DESCRIPTION:马竞 作客 莱万特（西甲 2026-27 赛季，北京时间
+ ）\n\n比分: 莱万特 0 - 2 马竞\n\n主场: 莱万特\n客场: 马竞
+ \n比分: 莱万特 0 - 2 马竞\n场馆: Estadi Ciutat de València\n城
+ 市: Manises
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882818@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261031T231500
+DTEND;TZID=Asia/Shanghai:20261101T001500
+SUMMARY:西甲赛程 · 西甲 · 塞尔塔 @ 瓦列卡诺
+DESCRIPTION:塞尔塔 作客 瓦列卡诺（西甲 2026-27 赛季，北京
+ 时间）\n\n比分: 瓦列卡诺 3 - 0 塞尔塔\n\n主场: 瓦列卡诺\
+ n客场: 塞尔塔\n比分: 瓦列卡诺 3 - 0 塞尔塔\n场馆: Estadio 
+ de Vallecas\n城市: Madrid
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882825@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261101T013000
+DTEND;TZID=Asia/Shanghai:20261101T023000
+SUMMARY:西甲赛程 · 西甲 · 马拉加 @ 皇家贝蒂斯
+DESCRIPTION:马拉加 作客 皇家贝蒂斯（西甲 2026-27 赛季，北
+ 京时间）\n\n比分: 皇家贝蒂斯 2 - 1 马拉加\n\n主场: 皇家
+ 贝蒂斯\n客场: 马拉加\n比分: 皇家贝蒂斯 2 - 1 马拉加\n场
+ 馆: Estadio La Cartuja\n城市: Sevilla
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882822@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261101T040000
+DTEND;TZID=Asia/Shanghai:20261101T050000
+SUMMARY:西甲赛程 · 西甲 · 阿拉维斯 @ 巴塞罗那
+DESCRIPTION:阿拉维斯 作客 巴塞罗那（西甲 2026-27 赛季，北
+ 京时间）\n\n比分: 巴塞罗那 6 - 1 阿拉维斯\n\n主场: 巴塞
+ 罗那\n客场: 阿拉维斯\n比分: 巴塞罗那 6 - 1 阿拉维斯\n场
+ 馆: Spotify Camp Nou\n城市: Barcelona
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882821@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261101T210000
+DTEND;TZID=Asia/Shanghai:20261101T220000
+SUMMARY:西甲赛程 · 西甲 · 塞维利亚 @ 赫塔费
+DESCRIPTION:塞维利亚 作客 赫塔费（西甲 2026-27 赛季，北京
+ 时间）\n\n比分: 赫塔费 3 - 1 塞维利亚\n\n主场: 赫塔费\n
+ 客场: 塞维利亚\n比分: 赫塔费 3 - 1 塞维利亚\n场馆: Estadi
+ o Coliseum\n城市: Getafe
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882819@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261101T231500
+DTEND;TZID=Asia/Shanghai:20261102T001500
+SUMMARY:西甲赛程 · 西甲 · 皇家马德里 @ 桑坦德竞技
+DESCRIPTION:皇家马德里 作客 桑坦德竞技（西甲 2026-27 赛季
+ ，北京时间）\n\n比分: 桑坦德竞技 0 - 3 皇家马德里\n\n主
+ 场: 桑坦德竞技\n客场: 皇家马德里\n比分: 桑坦德竞技 0 -
+  3 皇家马德里\n场馆: El Sardineros\n城市: Santander
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882823@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261102T013000
+DTEND;TZID=Asia/Shanghai:20261102T023000
+SUMMARY:西甲赛程 · 西甲 · 瓦伦西亚 @ 埃尔切
+DESCRIPTION:瓦伦西亚 作客 埃尔切（西甲 2026-27 赛季，北京
+ 时间）\n\n比分: 埃尔切 0 - 1 瓦伦西亚\n\n主场: 埃尔切\n
+ 客场: 瓦伦西亚\n比分: 埃尔切 0 - 1 瓦伦西亚\n场馆: Estadi
+ o Martínez Valero\n城市: Elche
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882826@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261102T040000
+DTEND;TZID=Asia/Shanghai:20261102T050000
+SUMMARY:西甲赛程 · 西甲 · 皇家社会 @ 毕尔巴鄂竞技
+DESCRIPTION:皇家社会 作客 毕尔巴鄂竞技（西甲 2026-27 赛季
+ ，北京时间）\n\n比分: 毕尔巴鄂竞技 2 - 1 皇家社会\n\n主
+ 场: 毕尔巴鄂竞技\n客场: 皇家社会\n比分: 毕尔巴鄂竞技 
+ 2 - 1 皇家社会\n场馆: San Mamés\n城市: Bilbao
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882824@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261103T040000
+DTEND;TZID=Asia/Shanghai:20261103T050000
+SUMMARY:西甲赛程 · 西甲 · 奥萨苏纳 @ 拉科鲁尼亚
+DESCRIPTION:奥萨苏纳 作客 拉科鲁尼亚（西甲 2026-27 赛季，
+ 北京时间）\n\n比分: 拉科鲁尼亚 2 - 1 奥萨苏纳\n\n主场: 
+ 拉科鲁尼亚\n客场: 奥萨苏纳\n比分: 拉科鲁尼亚 2 - 1 奥
+ 萨苏纳\n场馆: Riazor\n城市: La Coruña
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882809@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261107T040000
+DTEND;TZID=Asia/Shanghai:20261107T050000
+SUMMARY:西甲赛程 · 西甲 · 阿拉维斯 @ 塞维利亚
+DESCRIPTION:阿拉维斯 作客 塞维利亚（西甲 2026-27 赛季，北
+ 京时间）\n\n主场: 塞维利亚\n客场: 阿拉维斯\n场馆: Ramón
+  Sánchez Pizjuán Stadium\n城市: Sevilla
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882812@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261107T210000
+DTEND;TZID=Asia/Shanghai:20261107T220000
+SUMMARY:西甲赛程 · 西甲 · 桑坦德竞技 @ 马拉加
+DESCRIPTION:桑坦德竞技 作客 马拉加（西甲 2026-27 赛季，北
+ 京时间）\n\n主场: 马拉加\n客场: 桑坦德竞技\n场馆: La Ros
+ aleda\n城市: Malaga
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882813@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261107T231500
+DTEND;TZID=Asia/Shanghai:20261108T001500
+SUMMARY:西甲赛程 · 西甲 · 拉科鲁尼亚 @ 西班牙人
+DESCRIPTION:拉科鲁尼亚 作客 西班牙人（西甲 2026-27 赛季，
+ 北京时间）\n\n主场: 西班牙人\n客场: 拉科鲁尼亚\n场馆: 
+ RCDE Stadium\n城市: Barcelona
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882811@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261108T013000
+DTEND;TZID=Asia/Shanghai:20261108T023000
+SUMMARY:西甲赛程 · 西甲 · 毕尔巴鄂竞技 @ 奥萨苏纳
+DESCRIPTION:毕尔巴鄂竞技 作客 奥萨苏纳（西甲 2026-27 赛季
+ ，北京时间）\n\n主场: 奥萨苏纳\n客场: 毕尔巴鄂竞技\n
+ 场馆: El Sadar\n城市: Pamplona
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882808@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261108T040000
+DTEND;TZID=Asia/Shanghai:20261108T050000
+SUMMARY:西甲赛程 · 西甲 · 皇家马德里 @ 瓦伦西亚
+DESCRIPTION:皇家马德里 作客 瓦伦西亚（西甲 2026-27 赛季，
+ 北京时间）\n\n主场: 瓦伦西亚\n客场: 皇家马德里\n场馆: 
+ Mestalla Stadium\n城市: Manises
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882814@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261108T210000
+DTEND;TZID=Asia/Shanghai:20261108T220000
+SUMMARY:西甲赛程 · 西甲 · 皇家贝蒂斯 @ 埃尔切
+DESCRIPTION:皇家贝蒂斯 作客 埃尔切（西甲 2026-27 赛季，北
+ 京时间）\n\n主场: 埃尔切\n客场: 皇家贝蒂斯\n场馆: Estadi
+ o Martínez Valero\n城市: Elche
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882810@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261108T231500
+DTEND;TZID=Asia/Shanghai:20261109T001500
+SUMMARY:西甲赛程 · 西甲 · 瓦列卡诺 @ 皇家社会
+DESCRIPTION:瓦列卡诺 作客 皇家社会（西甲 2026-27 赛季，北
+ 京时间）\n\n主场: 皇家社会\n客场: 瓦列卡诺\n场馆: Reale 
+ Arena\n城市: San Sebastian
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882815@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261109T013000
+DTEND;TZID=Asia/Shanghai:20261109T023000
+SUMMARY:西甲赛程 · 西甲 · 莱万特 @ 塞尔塔
+DESCRIPTION:莱万特 作客 塞尔塔（西甲 2026-27 赛季，北京时
+ 间）\n\n主场: 塞尔塔\n客场: 莱万特\n场馆: Balaidos\n城市: 
+ Vigo
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882807@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261109T013000
+DTEND;TZID=Asia/Shanghai:20261109T023000
+SUMMARY:西甲赛程 · 西甲 · 赫塔费 @ 比利亚雷亚尔
+DESCRIPTION:赫塔费 作客 比利亚雷亚尔（西甲 2026-27 赛季，
+ 北京时间）\n\n主场: 比利亚雷亚尔\n客场: 赫塔费\n场馆: 
+ Estadio de la Cerámica\n城市: Villarreal
 CATEGORIES:西甲赛程
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -571,7 +738,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882816@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261109T040000
 DTEND;TZID=Asia/Shanghai:20261109T050000
 SUMMARY:西甲赛程 · 西甲 · 巴塞罗那 @ 马竞
@@ -583,151 +750,11 @@ URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-laliga-2026-401882815@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261109T040000
-DTEND;TZID=Asia/Shanghai:20261109T050000
-SUMMARY:西甲赛程 · 西甲 · 莱万特 @ 塞尔塔
-DESCRIPTION:莱万特 作客 塞尔塔（西甲 2026-27 赛季，北京时
- 间）\n\n主场: 塞尔塔\n客场: 莱万特\n场馆: Balaidos\n城市: 
- Vigo
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882814@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261109T040000
-DTEND;TZID=Asia/Shanghai:20261109T050000
-SUMMARY:西甲赛程 · 西甲 · 皇家贝蒂斯 @ 埃尔切
-DESCRIPTION:皇家贝蒂斯 作客 埃尔切（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 埃尔切\n客场: 皇家贝蒂斯\n场馆: Estadi
- o Martínez Valero\n城市: Elche
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882813@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261109T040000
-DTEND;TZID=Asia/Shanghai:20261109T050000
-SUMMARY:西甲赛程 · 西甲 · 拉科鲁尼亚 @ 西班牙人
-DESCRIPTION:拉科鲁尼亚 作客 西班牙人（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 西班牙人\n客场: 拉科鲁尼亚\n场馆: 
- RCDE Stadium\n城市: Barcelona
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882812@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261109T040000
-DTEND;TZID=Asia/Shanghai:20261109T050000
-SUMMARY:西甲赛程 · 西甲 · 桑坦德竞技 @ 马拉加
-DESCRIPTION:桑坦德竞技 作客 马拉加（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 马拉加\n客场: 桑坦德竞技\n场馆: La Ros
- aleda\n城市: Malaga
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882811@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261109T040000
-DTEND;TZID=Asia/Shanghai:20261109T050000
-SUMMARY:西甲赛程 · 西甲 · 毕尔巴鄂竞技 @ 奥萨苏纳
-DESCRIPTION:毕尔巴鄂竞技 作客 奥萨苏纳（西甲 2026-27 赛季
- ，北京时间）\n\n主场: 奥萨苏纳\n客场: 毕尔巴鄂竞技\n
- 场馆: El Sadar\n城市: Pamplona
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882810@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261109T040000
-DTEND;TZID=Asia/Shanghai:20261109T050000
-SUMMARY:西甲赛程 · 西甲 · 瓦列卡诺 @ 皇家社会
-DESCRIPTION:瓦列卡诺 作客 皇家社会（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 皇家社会\n客场: 瓦列卡诺\n场馆: Reale 
- Arena\n城市: San Sebastian
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882809@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261109T040000
-DTEND;TZID=Asia/Shanghai:20261109T050000
-SUMMARY:西甲赛程 · 西甲 · 阿拉维斯 @ 塞维利亚
-DESCRIPTION:阿拉维斯 作客 塞维利亚（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 塞维利亚\n客场: 阿拉维斯\n场馆: Ramón
-  Sánchez Pizjuán Stadium\n城市: Sevilla
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882808@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261109T040000
-DTEND;TZID=Asia/Shanghai:20261109T050000
-SUMMARY:西甲赛程 · 西甲 · 皇家马德里 @ 瓦伦西亚
-DESCRIPTION:皇家马德里 作客 瓦伦西亚（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 瓦伦西亚\n客场: 皇家马德里\n场馆: 
- Mestalla Stadium\n城市: Manises
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882807@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261109T040000
-DTEND;TZID=Asia/Shanghai:20261109T050000
-SUMMARY:西甲赛程 · 西甲 · 赫塔费 @ 比利亚雷亚尔
-DESCRIPTION:赫塔费 作客 比利亚雷亚尔（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 比利亚雷亚尔\n客场: 赫塔费\n场馆: 
- Estadio de la Cerámica\n城市: Villarreal
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882806@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261123T040000
-DTEND;TZID=Asia/Shanghai:20261123T050000
-SUMMARY:西甲赛程 · 西甲 · 拉科鲁尼亚 @ 阿拉维斯
-DESCRIPTION:拉科鲁尼亚 作客 阿拉维斯（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 阿拉维斯\n客场: 拉科鲁尼亚\n场馆: 
- Mendizorrotza\n城市: Vitoria-Gasteiz
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:laliga-laliga-2026-401882805@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261123T040000
-DTEND;TZID=Asia/Shanghai:20261123T050000
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261121T040000
+DTEND;TZID=Asia/Shanghai:20261121T050000
 SUMMARY:西甲赛程 · 西甲 · 西班牙人 @ 毕尔巴鄂竞技
 DESCRIPTION:西班牙人 作客 毕尔巴鄂竞技（西甲 2026-27 赛季
  ，北京时间）\n\n主场: 毕尔巴鄂竞技\n客场: 西班牙人\n
@@ -737,11 +764,67 @@ URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:laliga-laliga-2026-401882806@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261121T210000
+DTEND;TZID=Asia/Shanghai:20261121T220000
+SUMMARY:西甲赛程 · 西甲 · 拉科鲁尼亚 @ 阿拉维斯
+DESCRIPTION:拉科鲁尼亚 作客 阿拉维斯（西甲 2026-27 赛季，
+ 北京时间）\n\n主场: 阿拉维斯\n客场: 拉科鲁尼亚\n场馆: 
+ Mendizorrotza\n城市: Vitoria-Gasteiz
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882799@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261121T231500
+DTEND;TZID=Asia/Shanghai:20261122T001500
+SUMMARY:西甲赛程 · 西甲 · 瓦伦西亚 @ 瓦列卡诺
+DESCRIPTION:瓦伦西亚 作客 瓦列卡诺（西甲 2026-27 赛季，北
+ 京时间）\n\n主场: 瓦列卡诺\n客场: 瓦伦西亚\n场馆: Estadi
+ o de Vallecas\n城市: Madrid
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882797@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261122T013000
+DTEND;TZID=Asia/Shanghai:20261122T023000
+SUMMARY:西甲赛程 · 西甲 · 皇家贝蒂斯 @ 塞维利亚
+DESCRIPTION:皇家贝蒂斯 作客 塞维利亚（西甲 2026-27 赛季，
+ 北京时间）\n\n主场: 塞维利亚\n客场: 皇家贝蒂斯\n场馆: 
+ Ramón Sánchez Pizjuán Stadium\n城市: Sevilla
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882798@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261122T040000
+DTEND;TZID=Asia/Shanghai:20261122T050000
+SUMMARY:西甲赛程 · 西甲 · 塞尔塔 @ 皇家马德里
+DESCRIPTION:塞尔塔 作客 皇家马德里（西甲 2026-27 赛季，北
+ 京时间）\n\n主场: 皇家马德里\n客场: 塞尔塔\n场馆: Santia
+ go Bernabéu\n城市: Madrid
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:laliga-laliga-2026-401882804@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261123T040000
-DTEND;TZID=Asia/Shanghai:20261123T050000
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261122T210000
+DTEND;TZID=Asia/Shanghai:20261122T220000
 SUMMARY:西甲赛程 · 西甲 · 比利亚雷亚尔 @ 巴塞罗那
 DESCRIPTION:比利亚雷亚尔 作客 巴塞罗那（西甲 2026-27 赛季
  ，北京时间）\n\n主场: 巴塞罗那\n客场: 比利亚雷亚尔\n
@@ -751,9 +834,37 @@ URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:laliga-laliga-2026-401882800@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261122T231500
+DTEND;TZID=Asia/Shanghai:20261123T001500
+SUMMARY:西甲赛程 · 西甲 · 皇家社会 @ 桑坦德竞技
+DESCRIPTION:皇家社会 作客 桑坦德竞技（西甲 2026-27 赛季，
+ 北京时间）\n\n主场: 桑坦德竞技\n客场: 皇家社会\n场馆: 
+ El Sardineros\n城市: Santander
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-laliga-2026-401882801@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261123T013000
+DTEND;TZID=Asia/Shanghai:20261123T023000
+SUMMARY:西甲赛程 · 西甲 · 马拉加 @ 奥萨苏纳
+DESCRIPTION:马拉加 作客 奥萨苏纳（西甲 2026-27 赛季，北京
+ 时间）\n\n主场: 奥萨苏纳\n客场: 马拉加\n场馆: El Sadar\n
+ 城市: Pamplona
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:laliga-laliga-2026-401882803@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261123T040000
 DTEND;TZID=Asia/Shanghai:20261123T050000
 SUMMARY:西甲赛程 · 西甲 · 马竞 @ 赫塔费
@@ -767,9 +878,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882802@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261123T040000
-DTEND;TZID=Asia/Shanghai:20261123T050000
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261124T040000
+DTEND;TZID=Asia/Shanghai:20261124T050000
 SUMMARY:西甲赛程 · 西甲 · 埃尔切 @ 莱万特
 DESCRIPTION:埃尔切 作客 莱万特（西甲 2026-27 赛季，北京时
  间）\n\n主场: 莱万特\n客场: 埃尔切\n场馆: Estadi Ciutat de V
@@ -779,79 +890,9 @@ URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-laliga-2026-401882801@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261123T040000
-DTEND;TZID=Asia/Shanghai:20261123T050000
-SUMMARY:西甲赛程 · 西甲 · 马拉加 @ 奥萨苏纳
-DESCRIPTION:马拉加 作客 奥萨苏纳（西甲 2026-27 赛季，北京
- 时间）\n\n主场: 奥萨苏纳\n客场: 马拉加\n场馆: El Sadar\n
- 城市: Pamplona
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882800@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261123T040000
-DTEND;TZID=Asia/Shanghai:20261123T050000
-SUMMARY:西甲赛程 · 西甲 · 皇家社会 @ 桑坦德竞技
-DESCRIPTION:皇家社会 作客 桑坦德竞技（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 桑坦德竞技\n客场: 皇家社会\n场馆: 
- El Sardineros\n城市: Santander
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882799@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261123T040000
-DTEND;TZID=Asia/Shanghai:20261123T050000
-SUMMARY:西甲赛程 · 西甲 · 瓦伦西亚 @ 瓦列卡诺
-DESCRIPTION:瓦伦西亚 作客 瓦列卡诺（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 瓦列卡诺\n客场: 瓦伦西亚\n场馆: Estadi
- o de Vallecas\n城市: Madrid
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882798@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261123T040000
-DTEND;TZID=Asia/Shanghai:20261123T050000
-SUMMARY:西甲赛程 · 西甲 · 塞尔塔 @ 皇家马德里
-DESCRIPTION:塞尔塔 作客 皇家马德里（西甲 2026-27 赛季，北
- 京时间）\n\n主场: 皇家马德里\n客场: 塞尔塔\n场馆: Santia
- go Bernabéu\n城市: Madrid
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-laliga-2026-401882797@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260915T000000
-DTSTART;TZID=Asia/Shanghai:20261123T040000
-DTEND;TZID=Asia/Shanghai:20261123T050000
-SUMMARY:西甲赛程 · 西甲 · 皇家贝蒂斯 @ 塞维利亚
-DESCRIPTION:皇家贝蒂斯 作客 塞维利亚（西甲 2026-27 赛季，
- 北京时间）\n\n主场: 塞维利亚\n客场: 皇家贝蒂斯\n场馆: 
- Ramón Sánchez Pizjuán Stadium\n城市: Sevilla
-CATEGORIES:西甲赛程
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:laliga-laliga-2026-401882795@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261130T040000
 DTEND;TZID=Asia/Shanghai:20261130T050000
 SUMMARY:西甲赛程 · 西甲 · 比利亚雷亚尔 @ 塞尔塔
@@ -865,7 +906,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882794@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261130T040000
 DTEND;TZID=Asia/Shanghai:20261130T050000
 SUMMARY:西甲赛程 · 西甲 · 巴塞罗那 @ 拉科鲁尼亚
@@ -879,7 +920,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882793@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261130T040000
 DTEND;TZID=Asia/Shanghai:20261130T050000
 SUMMARY:西甲赛程 · 西甲 · 马竞 @ 埃尔切
@@ -893,7 +934,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882792@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261130T040000
 DTEND;TZID=Asia/Shanghai:20261130T050000
 SUMMARY:西甲赛程 · 西甲 · 赫塔费 @ 西班牙人
@@ -907,7 +948,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882791@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261130T040000
 DTEND;TZID=Asia/Shanghai:20261130T050000
 SUMMARY:西甲赛程 · 西甲 · 桑坦德竞技 @ 莱万特
@@ -921,7 +962,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882790@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261130T040000
 DTEND;TZID=Asia/Shanghai:20261130T050000
 SUMMARY:西甲赛程 · 西甲 · 毕尔巴鄂竞技 @ 马拉加
@@ -935,7 +976,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882796@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261130T040000
 DTEND;TZID=Asia/Shanghai:20261130T050000
 SUMMARY:西甲赛程 · 西甲 · 瓦列卡诺 @ 皇家贝蒂斯
@@ -949,7 +990,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882789@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261130T040000
 DTEND;TZID=Asia/Shanghai:20261130T050000
 SUMMARY:西甲赛程 · 西甲 · 阿拉维斯 @ 皇家马德里
@@ -963,7 +1004,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882788@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261130T040000
 DTEND;TZID=Asia/Shanghai:20261130T050000
 SUMMARY:西甲赛程 · 西甲 · 塞维利亚 @ 皇家社会
@@ -977,7 +1018,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882787@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261130T040000
 DTEND;TZID=Asia/Shanghai:20261130T050000
 SUMMARY:西甲赛程 · 西甲 · 奥萨苏纳 @ 瓦伦西亚
@@ -991,7 +1032,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882786@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261207T040000
 DTEND;TZID=Asia/Shanghai:20261207T050000
 SUMMARY:西甲赛程 · 西甲 · 西班牙人 @ 阿拉维斯
@@ -1005,7 +1046,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882785@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261207T040000
 DTEND;TZID=Asia/Shanghai:20261207T050000
 SUMMARY:西甲赛程 · 西甲 · 皇家马德里 @ 毕尔巴鄂竞技
@@ -1019,7 +1060,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882784@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261207T040000
 DTEND;TZID=Asia/Shanghai:20261207T050000
 SUMMARY:西甲赛程 · 西甲 · 皇家贝蒂斯 @ 马竞
@@ -1033,7 +1074,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882783@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261207T040000
 DTEND;TZID=Asia/Shanghai:20261207T050000
 SUMMARY:西甲赛程 · 西甲 · 塞尔塔 @ 巴塞罗那
@@ -1047,7 +1088,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882782@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261207T040000
 DTEND;TZID=Asia/Shanghai:20261207T050000
 SUMMARY:西甲赛程 · 西甲 · 瓦伦西亚 @ 赫塔费
@@ -1061,7 +1102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882781@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261207T040000
 DTEND;TZID=Asia/Shanghai:20261207T050000
 SUMMARY:西甲赛程 · 西甲 · 埃尔切 @ 奥萨苏纳
@@ -1075,7 +1116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882780@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261207T040000
 DTEND;TZID=Asia/Shanghai:20261207T050000
 SUMMARY:西甲赛程 · 西甲 · 拉科鲁尼亚 @ 桑坦德竞技
@@ -1089,7 +1130,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882779@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261207T040000
 DTEND;TZID=Asia/Shanghai:20261207T050000
 SUMMARY:西甲赛程 · 西甲 · 莱万特 @ 瓦列卡诺
@@ -1103,7 +1144,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882778@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261207T040000
 DTEND;TZID=Asia/Shanghai:20261207T050000
 SUMMARY:西甲赛程 · 西甲 · 马拉加 @ 塞维利亚
@@ -1117,7 +1158,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882777@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261207T040000
 DTEND;TZID=Asia/Shanghai:20261207T050000
 SUMMARY:西甲赛程 · 西甲 · 皇家社会 @ 比利亚雷亚尔
@@ -1129,9 +1170,23 @@ URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:laliga-laliga-2026-401882849@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261210T030000
+DTEND;TZID=Asia/Shanghai:20261210T040000
+SUMMARY:西甲赛程 · 西甲 · 毕尔巴鄂竞技 @ 瓦列卡诺
+DESCRIPTION:毕尔巴鄂竞技 作客 瓦列卡诺（西甲 2026-27 赛季
+ ，北京时间）\n\n主场: 瓦列卡诺\n客场: 毕尔巴鄂竞技\n
+ 场馆: Estadio de Vallecas\n城市: Madrid
+CATEGORIES:西甲赛程
+URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:laliga-laliga-2026-401882776@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261214T040000
 DTEND;TZID=Asia/Shanghai:20261214T050000
 SUMMARY:西甲赛程 · 西甲 · 瓦伦西亚 @ 马竞
@@ -1145,7 +1200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882774@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261214T040000
 DTEND;TZID=Asia/Shanghai:20261214T050000
 SUMMARY:西甲赛程 · 西甲 · 毕尔巴鄂竞技 @ 拉科鲁尼亚
@@ -1159,7 +1214,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882773@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261214T040000
 DTEND;TZID=Asia/Shanghai:20261214T050000
 SUMMARY:西甲赛程 · 西甲 · 塞维利亚 @ 埃尔切
@@ -1173,7 +1228,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882772@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261214T040000
 DTEND;TZID=Asia/Shanghai:20261214T050000
 SUMMARY:西甲赛程 · 西甲 · 塞尔塔 @ 西班牙人
@@ -1187,7 +1242,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882771@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261214T040000
 DTEND;TZID=Asia/Shanghai:20261214T050000
 SUMMARY:西甲赛程 · 西甲 · 阿拉维斯 @ 莱万特
@@ -1201,7 +1256,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882770@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261214T040000
 DTEND;TZID=Asia/Shanghai:20261214T050000
 SUMMARY:西甲赛程 · 西甲 · 巴塞罗那 @ 马拉加
@@ -1215,7 +1270,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882775@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261214T040000
 DTEND;TZID=Asia/Shanghai:20261214T050000
 SUMMARY:西甲赛程 · 西甲 · 桑坦德竞技 @ 皇家贝蒂斯
@@ -1229,7 +1284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882769@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261214T040000
 DTEND;TZID=Asia/Shanghai:20261214T050000
 SUMMARY:西甲赛程 · 西甲 · 奥萨苏纳 @ 皇家马德里
@@ -1243,7 +1298,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882768@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261214T040000
 DTEND;TZID=Asia/Shanghai:20261214T050000
 SUMMARY:西甲赛程 · 西甲 · 赫塔费 @ 皇家社会
@@ -1257,7 +1312,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882767@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261214T040000
 DTEND;TZID=Asia/Shanghai:20261214T050000
 SUMMARY:西甲赛程 · 西甲 · 瓦列卡诺 @ 比利亚雷亚尔
@@ -1271,7 +1326,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882766@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261221T040000
 DTEND;TZID=Asia/Shanghai:20261221T050000
 SUMMARY:西甲赛程 · 西甲 · 埃尔切 @ 阿拉维斯
@@ -1285,7 +1340,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882765@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261221T040000
 DTEND;TZID=Asia/Shanghai:20261221T050000
 SUMMARY:西甲赛程 · 西甲 · 皇家贝蒂斯 @ 毕尔巴鄂竞技
@@ -1299,7 +1354,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882762@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261221T040000
 DTEND;TZID=Asia/Shanghai:20261221T050000
 SUMMARY:西甲赛程 · 西甲 · 皇家社会 @ 巴塞罗那
@@ -1313,7 +1368,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882764@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261221T040000
 DTEND;TZID=Asia/Shanghai:20261221T050000
 SUMMARY:西甲赛程 · 西甲 · 马竞 @ 塞尔塔
@@ -1326,7 +1381,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882763@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261221T040000
 DTEND;TZID=Asia/Shanghai:20261221T050000
 SUMMARY:西甲赛程 · 西甲 · 皇家马德里 @ 拉科鲁尼亚
@@ -1340,7 +1395,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882761@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261221T040000
 DTEND;TZID=Asia/Shanghai:20261221T050000
 SUMMARY:西甲赛程 · 西甲 · 莱万特 @ 赫塔费
@@ -1354,7 +1409,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882760@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261221T040000
 DTEND;TZID=Asia/Shanghai:20261221T050000
 SUMMARY:西甲赛程 · 西甲 · 比利亚雷亚尔 @ 奥萨苏纳
@@ -1368,7 +1423,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882759@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261221T040000
 DTEND;TZID=Asia/Shanghai:20261221T050000
 SUMMARY:西甲赛程 · 西甲 · 马拉加 @ 瓦列卡诺
@@ -1382,7 +1437,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882758@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261221T040000
 DTEND;TZID=Asia/Shanghai:20261221T050000
 SUMMARY:西甲赛程 · 西甲 · 桑坦德竞技 @ 塞维利亚
@@ -1396,7 +1451,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882757@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261221T040000
 DTEND;TZID=Asia/Shanghai:20261221T050000
 SUMMARY:西甲赛程 · 西甲 · 西班牙人 @ 瓦伦西亚
@@ -1410,7 +1465,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882755@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270104T040000
 DTEND;TZID=Asia/Shanghai:20270104T050000
 SUMMARY:西甲赛程 · 西甲 · 拉科鲁尼亚 @ 塞尔塔
@@ -1424,7 +1479,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882754@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270104T040000
 DTEND;TZID=Asia/Shanghai:20270104T050000
 SUMMARY:西甲赛程 · 西甲 · 巴塞罗那 @ 西班牙人
@@ -1438,7 +1493,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882753@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270104T040000
 DTEND;TZID=Asia/Shanghai:20270104T050000
 SUMMARY:西甲赛程 · 西甲 · 瓦伦西亚 @ 莱万特
@@ -1452,7 +1507,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882752@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270104T040000
 DTEND;TZID=Asia/Shanghai:20270104T050000
 SUMMARY:西甲赛程 · 西甲 · 埃尔切 @ 马拉加
@@ -1466,7 +1521,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882751@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270104T040000
 DTEND;TZID=Asia/Shanghai:20270104T050000
 SUMMARY:西甲赛程 · 西甲 · 毕尔巴鄂竞技 @ 桑坦德竞技
@@ -1480,7 +1535,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882750@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270104T040000
 DTEND;TZID=Asia/Shanghai:20270104T050000
 SUMMARY:西甲赛程 · 西甲 · 马竞 @ 瓦列卡诺
@@ -1494,7 +1549,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882756@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270104T040000
 DTEND;TZID=Asia/Shanghai:20270104T050000
 SUMMARY:西甲赛程 · 西甲 · 阿拉维斯 @ 皇家贝蒂斯
@@ -1508,7 +1563,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882749@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270104T040000
 DTEND;TZID=Asia/Shanghai:20270104T050000
 SUMMARY:西甲赛程 · 西甲 · 赫塔费 @ 皇家马德里
@@ -1522,7 +1577,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882748@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270104T040000
 DTEND;TZID=Asia/Shanghai:20270104T050000
 SUMMARY:西甲赛程 · 西甲 · 奥萨苏纳 @ 皇家社会
@@ -1536,7 +1591,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882747@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270104T040000
 DTEND;TZID=Asia/Shanghai:20270104T050000
 SUMMARY:西甲赛程 · 西甲 · 塞维利亚 @ 比利亚雷亚尔
@@ -1550,7 +1605,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882746@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270111T040000
 DTEND;TZID=Asia/Shanghai:20270111T050000
 SUMMARY:西甲赛程 · 西甲 · 皇家社会 @ 阿拉维斯
@@ -1564,7 +1619,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882745@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270111T040000
 DTEND;TZID=Asia/Shanghai:20270111T050000
 SUMMARY:西甲赛程 · 西甲 · 比利亚雷亚尔 @ 毕尔巴鄂竞技
@@ -1578,7 +1633,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882744@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270111T040000
 DTEND;TZID=Asia/Shanghai:20270111T050000
 SUMMARY:西甲赛程 · 西甲 · 桑坦德竞技 @ 马竞
@@ -1592,7 +1647,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882743@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270111T040000
 DTEND;TZID=Asia/Shanghai:20270111T050000
 SUMMARY:西甲赛程 · 西甲 · 瓦列卡诺 @ 拉科鲁尼亚
@@ -1606,7 +1661,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882742@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270111T040000
 DTEND;TZID=Asia/Shanghai:20270111T050000
 SUMMARY:西甲赛程 · 西甲 · 赫塔费 @ 埃尔切
@@ -1620,7 +1675,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882741@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270111T040000
 DTEND;TZID=Asia/Shanghai:20270111T050000
 SUMMARY:西甲赛程 · 西甲 · 皇家贝蒂斯 @ 西班牙人
@@ -1634,7 +1689,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882740@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270111T040000
 DTEND;TZID=Asia/Shanghai:20270111T050000
 SUMMARY:西甲赛程 · 西甲 · 巴塞罗那 @ 奥萨苏纳
@@ -1648,7 +1703,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882739@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270111T040000
 DTEND;TZID=Asia/Shanghai:20270111T050000
 SUMMARY:西甲赛程 · 西甲 · 莱万特 @ 皇家马德里
@@ -1662,7 +1717,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882738@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270111T040000
 DTEND;TZID=Asia/Shanghai:20270111T050000
 SUMMARY:西甲赛程 · 西甲 · 塞尔塔 @ 塞维利亚
@@ -1676,7 +1731,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882737@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270111T040000
 DTEND;TZID=Asia/Shanghai:20270111T050000
 SUMMARY:西甲赛程 · 西甲 · 马拉加 @ 瓦伦西亚
@@ -1690,7 +1745,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882736@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270118T040000
 DTEND;TZID=Asia/Shanghai:20270118T050000
 SUMMARY:西甲赛程 · 西甲 · 皇家社会 @ 马竞
@@ -1704,7 +1759,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882733@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270118T040000
 DTEND;TZID=Asia/Shanghai:20270118T050000
 SUMMARY:西甲赛程 · 西甲 · 埃尔切 @ 巴塞罗那
@@ -1718,7 +1773,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882734@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270118T040000
 DTEND;TZID=Asia/Shanghai:20270118T050000
 SUMMARY:西甲赛程 · 西甲 · 瓦伦西亚 @ 塞尔塔
@@ -1732,7 +1787,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882732@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270118T040000
 DTEND;TZID=Asia/Shanghai:20270118T050000
 SUMMARY:西甲赛程 · 西甲 · 毕尔巴鄂竞技 @ 赫塔费
@@ -1746,7 +1801,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882731@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270118T040000
 DTEND;TZID=Asia/Shanghai:20270118T050000
 SUMMARY:西甲赛程 · 西甲 · 西班牙人 @ 莱万特
@@ -1760,7 +1815,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882730@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270118T040000
 DTEND;TZID=Asia/Shanghai:20270118T050000
 SUMMARY:西甲赛程 · 西甲 · 皇家马德里 @ 马拉加
@@ -1774,7 +1829,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882729@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270118T040000
 DTEND;TZID=Asia/Shanghai:20270118T050000
 SUMMARY:西甲赛程 · 西甲 · 奥萨苏纳 @ 桑坦德竞技
@@ -1788,7 +1843,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882728@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270118T040000
 DTEND;TZID=Asia/Shanghai:20270118T050000
 SUMMARY:西甲赛程 · 西甲 · 塞维利亚 @ 瓦列卡诺
@@ -1802,7 +1857,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882735@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270118T040000
 DTEND;TZID=Asia/Shanghai:20270118T050000
 SUMMARY:西甲赛程 · 西甲 · 拉科鲁尼亚 @ 皇家贝蒂斯
@@ -1816,7 +1871,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882727@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270118T040000
 DTEND;TZID=Asia/Shanghai:20270118T050000
 SUMMARY:西甲赛程 · 西甲 · 阿拉维斯 @ 比利亚雷亚尔
@@ -1830,7 +1885,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882726@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270125T040000
 DTEND;TZID=Asia/Shanghai:20270125T050000
 SUMMARY:西甲赛程 · 西甲 · 巴塞罗那 @ 阿拉维斯
@@ -1844,7 +1899,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882725@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270125T040000
 DTEND;TZID=Asia/Shanghai:20270125T050000
 SUMMARY:西甲赛程 · 西甲 · 莱万特 @ 毕尔巴鄂竞技
@@ -1858,7 +1913,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882724@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270125T040000
 DTEND;TZID=Asia/Shanghai:20270125T050000
 SUMMARY:西甲赛程 · 西甲 · 马竞 @ 拉科鲁尼亚
@@ -1872,7 +1927,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882723@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270125T040000
 DTEND;TZID=Asia/Shanghai:20270125T050000
 SUMMARY:西甲赛程 · 西甲 · 瓦列卡诺 @ 埃尔切
@@ -1886,7 +1941,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882722@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270125T040000
 DTEND;TZID=Asia/Shanghai:20270125T050000
 SUMMARY:西甲赛程 · 西甲 · 比利亚雷亚尔 @ 西班牙人
@@ -1900,7 +1955,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882721@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270125T040000
 DTEND;TZID=Asia/Shanghai:20270125T050000
 SUMMARY:西甲赛程 · 西甲 · 奥萨苏纳 @ 赫塔费
@@ -1914,7 +1969,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882720@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270125T040000
 DTEND;TZID=Asia/Shanghai:20270125T050000
 SUMMARY:西甲赛程 · 西甲 · 塞尔塔 @ 桑坦德竞技
@@ -1928,7 +1983,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882719@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270125T040000
 DTEND;TZID=Asia/Shanghai:20270125T050000
 SUMMARY:西甲赛程 · 西甲 · 皇家贝蒂斯 @ 皇家马德里
@@ -1942,7 +1997,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882718@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270125T040000
 DTEND;TZID=Asia/Shanghai:20270125T050000
 SUMMARY:西甲赛程 · 西甲 · 马拉加 @ 皇家社会
@@ -1956,7 +2011,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882717@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270125T040000
 DTEND;TZID=Asia/Shanghai:20270125T050000
 SUMMARY:西甲赛程 · 西甲 · 塞维利亚 @ 瓦伦西亚
@@ -1970,7 +2025,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882716@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270201T040000
 DTEND;TZID=Asia/Shanghai:20270201T050000
 SUMMARY:西甲赛程 · 西甲 · 西班牙人 @ 马竞
@@ -1984,7 +2039,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882713@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270201T040000
 DTEND;TZID=Asia/Shanghai:20270201T050000
 SUMMARY:西甲赛程 · 西甲 · 瓦伦西亚 @ 巴塞罗那
@@ -1998,7 +2053,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882714@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270201T040000
 DTEND;TZID=Asia/Shanghai:20270201T050000
 SUMMARY:西甲赛程 · 西甲 · 赫塔费 @ 塞尔塔
@@ -2012,7 +2067,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882712@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270201T040000
 DTEND;TZID=Asia/Shanghai:20270201T050000
 SUMMARY:西甲赛程 · 西甲 · 皇家社会 @ 莱万特
@@ -2026,7 +2081,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882711@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270201T040000
 DTEND;TZID=Asia/Shanghai:20270201T050000
 SUMMARY:西甲赛程 · 西甲 · 阿拉维斯 @ 马拉加
@@ -2040,7 +2095,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882710@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270201T040000
 DTEND;TZID=Asia/Shanghai:20270201T050000
 SUMMARY:西甲赛程 · 西甲 · 拉科鲁尼亚 @ 奥萨苏纳
@@ -2054,7 +2109,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882709@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270201T040000
 DTEND;TZID=Asia/Shanghai:20270201T050000
 SUMMARY:西甲赛程 · 西甲 · 皇家马德里 @ 瓦列卡诺
@@ -2068,7 +2123,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882715@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270201T040000
 DTEND;TZID=Asia/Shanghai:20270201T050000
 SUMMARY:西甲赛程 · 西甲 · 埃尔切 @ 皇家贝蒂斯
@@ -2082,7 +2137,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882708@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270201T040000
 DTEND;TZID=Asia/Shanghai:20270201T050000
 SUMMARY:西甲赛程 · 西甲 · 毕尔巴鄂竞技 @ 塞维利亚
@@ -2096,7 +2151,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882707@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270201T040000
 DTEND;TZID=Asia/Shanghai:20270201T050000
 SUMMARY:西甲赛程 · 西甲 · 桑坦德竞技 @ 比利亚雷亚尔
@@ -2110,7 +2165,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882706@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270208T040000
 DTEND;TZID=Asia/Shanghai:20270208T050000
 SUMMARY:西甲赛程 · 西甲 · 塞尔塔 @ 阿拉维斯
@@ -2124,7 +2179,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882705@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270208T040000
 DTEND;TZID=Asia/Shanghai:20270208T050000
 SUMMARY:西甲赛程 · 西甲 · 奥萨苏纳 @ 毕尔巴鄂竞技
@@ -2138,7 +2193,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882700@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270208T040000
 DTEND;TZID=Asia/Shanghai:20270208T050000
 SUMMARY:西甲赛程 · 西甲 · 马竞 @ 巴塞罗那
@@ -2152,7 +2207,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882703@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270208T040000
 DTEND;TZID=Asia/Shanghai:20270208T050000
 SUMMARY:西甲赛程 · 西甲 · 马拉加 @ 拉科鲁尼亚
@@ -2166,7 +2221,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882702@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270208T040000
 DTEND;TZID=Asia/Shanghai:20270208T050000
 SUMMARY:西甲赛程 · 西甲 · 莱万特 @ 埃尔切
@@ -2180,7 +2235,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882701@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270208T040000
 DTEND;TZID=Asia/Shanghai:20270208T050000
 SUMMARY:西甲赛程 · 西甲 · 瓦列卡诺 @ 西班牙人
@@ -2194,7 +2249,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882699@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270208T040000
 DTEND;TZID=Asia/Shanghai:20270208T050000
 SUMMARY:西甲赛程 · 西甲 · 比利亚雷亚尔 @ 赫塔费
@@ -2208,7 +2263,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882704@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270208T040000
 DTEND;TZID=Asia/Shanghai:20270208T050000
 SUMMARY:西甲赛程 · 西甲 · 塞维利亚 @ 皇家贝蒂斯
@@ -2222,7 +2277,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882698@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270208T040000
 DTEND;TZID=Asia/Shanghai:20270208T050000
 SUMMARY:西甲赛程 · 西甲 · 皇家马德里 @ 皇家社会
@@ -2236,7 +2291,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882697@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270208T040000
 DTEND;TZID=Asia/Shanghai:20270208T050000
 SUMMARY:西甲赛程 · 西甲 · 桑坦德竞技 @ 瓦伦西亚
@@ -2250,7 +2305,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882696@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270215T040000
 DTEND;TZID=Asia/Shanghai:20270215T050000
 SUMMARY:西甲赛程 · 西甲 · 瓦列卡诺 @ 塞尔塔
@@ -2264,7 +2319,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882695@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270215T040000
 DTEND;TZID=Asia/Shanghai:20270215T050000
 SUMMARY:西甲赛程 · 西甲 · 拉科鲁尼亚 @ 埃尔切
@@ -2278,7 +2333,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882694@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270215T040000
 DTEND;TZID=Asia/Shanghai:20270215T050000
 SUMMARY:西甲赛程 · 西甲 · 马拉加 @ 莱万特
@@ -2292,7 +2347,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882693@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270215T040000
 DTEND;TZID=Asia/Shanghai:20270215T050000
 SUMMARY:西甲赛程 · 西甲 · 马竞 @ 奥萨苏纳
@@ -2306,7 +2361,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882692@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270215T040000
 DTEND;TZID=Asia/Shanghai:20270215T050000
 SUMMARY:西甲赛程 · 西甲 · 赫塔费 @ 桑坦德竞技
@@ -2320,7 +2375,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882691@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270215T040000
 DTEND;TZID=Asia/Shanghai:20270215T050000
 SUMMARY:西甲赛程 · 西甲 · 毕尔巴鄂竞技 @ 皇家马德里
@@ -2334,7 +2389,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882690@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270215T040000
 DTEND;TZID=Asia/Shanghai:20270215T050000
 SUMMARY:西甲赛程 · 西甲 · 皇家贝蒂斯 @ 皇家社会
@@ -2348,7 +2403,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882689@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270215T040000
 DTEND;TZID=Asia/Shanghai:20270215T050000
 SUMMARY:西甲赛程 · 西甲 · 西班牙人 @ 塞维利亚
@@ -2362,7 +2417,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882688@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270215T040000
 DTEND;TZID=Asia/Shanghai:20270215T050000
 SUMMARY:西甲赛程 · 西甲 · 阿拉维斯 @ 瓦伦西亚
@@ -2376,7 +2431,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882687@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270215T040000
 DTEND;TZID=Asia/Shanghai:20270215T050000
 SUMMARY:西甲赛程 · 西甲 · 巴塞罗那 @ 比利亚雷亚尔
@@ -2390,7 +2445,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882686@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270222T040000
 DTEND;TZID=Asia/Shanghai:20270222T050000
 SUMMARY:西甲赛程 · 西甲 · 桑坦德竞技 @ 阿拉维斯
@@ -2404,7 +2459,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882685@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270222T040000
 DTEND;TZID=Asia/Shanghai:20270222T050000
 SUMMARY:西甲赛程 · 西甲 · 塞尔塔 @ 毕尔巴鄂竞技
@@ -2418,7 +2473,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882684@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270222T040000
 DTEND;TZID=Asia/Shanghai:20270222T050000
 SUMMARY:西甲赛程 · 西甲 · 埃尔切 @ 马竞
@@ -2432,7 +2487,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882681@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270222T040000
 DTEND;TZID=Asia/Shanghai:20270222T050000
 SUMMARY:西甲赛程 · 西甲 · 莱万特 @ 巴塞罗那
@@ -2446,7 +2501,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882683@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270222T040000
 DTEND;TZID=Asia/Shanghai:20270222T050000
 SUMMARY:西甲赛程 · 西甲 · 皇家社会 @ 拉科鲁尼亚
@@ -2460,7 +2515,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882682@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270222T040000
 DTEND;TZID=Asia/Shanghai:20270222T050000
 SUMMARY:西甲赛程 · 西甲 · 奥萨苏纳 @ 西班牙人
@@ -2474,7 +2529,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882680@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270222T040000
 DTEND;TZID=Asia/Shanghai:20270222T050000
 SUMMARY:西甲赛程 · 西甲 · 皇家贝蒂斯 @ 马拉加
@@ -2488,7 +2543,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882679@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270222T040000
 DTEND;TZID=Asia/Shanghai:20270222T050000
 SUMMARY:西甲赛程 · 西甲 · 赫塔费 @ 瓦列卡诺
@@ -2502,7 +2557,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882678@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270222T040000
 DTEND;TZID=Asia/Shanghai:20270222T050000
 SUMMARY:西甲赛程 · 西甲 · 皇家马德里 @ 塞维利亚
@@ -2516,7 +2571,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882677@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270222T040000
 DTEND;TZID=Asia/Shanghai:20270222T050000
 SUMMARY:西甲赛程 · 西甲 · 瓦伦西亚 @ 比利亚雷亚尔
@@ -2530,7 +2585,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882676@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270301T040000
 DTEND;TZID=Asia/Shanghai:20270301T050000
 SUMMARY:西甲赛程 · 西甲 · 巴塞罗那 @ 毕尔巴鄂竞技
@@ -2544,7 +2599,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882674@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270301T040000
 DTEND;TZID=Asia/Shanghai:20270301T050000
 SUMMARY:西甲赛程 · 西甲 · 西班牙人 @ 塞尔塔
@@ -2558,7 +2613,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882673@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270301T040000
 DTEND;TZID=Asia/Shanghai:20270301T050000
 SUMMARY:西甲赛程 · 西甲 · 阿拉维斯 @ 赫塔费
@@ -2572,7 +2627,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882672@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270301T040000
 DTEND;TZID=Asia/Shanghai:20270301T050000
 SUMMARY:西甲赛程 · 西甲 · 拉科鲁尼亚 @ 莱万特
@@ -2586,7 +2641,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882671@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270301T040000
 DTEND;TZID=Asia/Shanghai:20270301T050000
 SUMMARY:西甲赛程 · 西甲 · 马竞 @ 马拉加
@@ -2600,7 +2655,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882670@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270301T040000
 DTEND;TZID=Asia/Shanghai:20270301T050000
 SUMMARY:西甲赛程 · 西甲 · 塞维利亚 @ 奥萨苏纳
@@ -2614,7 +2669,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882669@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270301T040000
 DTEND;TZID=Asia/Shanghai:20270301T050000
 SUMMARY:西甲赛程 · 西甲 · 瓦列卡诺 @ 桑坦德竞技
@@ -2628,7 +2683,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882675@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270301T040000
 DTEND;TZID=Asia/Shanghai:20270301T050000
 SUMMARY:西甲赛程 · 西甲 · 比利亚雷亚尔 @ 皇家贝蒂斯
@@ -2642,7 +2697,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882668@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270301T040000
 DTEND;TZID=Asia/Shanghai:20270301T050000
 SUMMARY:西甲赛程 · 西甲 · 瓦伦西亚 @ 皇家马德里
@@ -2656,7 +2711,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882667@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270301T040000
 DTEND;TZID=Asia/Shanghai:20270301T050000
 SUMMARY:西甲赛程 · 西甲 · 埃尔切 @ 皇家社会
@@ -2670,7 +2725,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882666@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270308T040000
 DTEND;TZID=Asia/Shanghai:20270308T050000
 SUMMARY:西甲赛程 · 西甲 · 毕尔巴鄂竞技 @ 阿拉维斯
@@ -2684,7 +2739,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882665@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270308T040000
 DTEND;TZID=Asia/Shanghai:20270308T050000
 SUMMARY:西甲赛程 · 西甲 · 塞尔塔 @ 马竞
@@ -2698,7 +2753,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882661@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270308T040000
 DTEND;TZID=Asia/Shanghai:20270308T050000
 SUMMARY:西甲赛程 · 西甲 · 皇家贝蒂斯 @ 巴塞罗那
@@ -2712,7 +2767,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882664@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270308T040000
 DTEND;TZID=Asia/Shanghai:20270308T050000
 SUMMARY:西甲赛程 · 西甲 · 赫塔费 @ 拉科鲁尼亚
@@ -2726,7 +2781,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882663@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270308T040000
 DTEND;TZID=Asia/Shanghai:20270308T050000
 SUMMARY:西甲赛程 · 西甲 · 马拉加 @ 埃尔切
@@ -2740,7 +2795,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882662@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270308T040000
 DTEND;TZID=Asia/Shanghai:20270308T050000
 SUMMARY:西甲赛程 · 西甲 · 桑坦德竞技 @ 西班牙人
@@ -2754,7 +2809,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882660@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270308T040000
 DTEND;TZID=Asia/Shanghai:20270308T050000
 SUMMARY:西甲赛程 · 西甲 · 奥萨苏纳 @ 瓦列卡诺
@@ -2768,7 +2823,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882659@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270308T040000
 DTEND;TZID=Asia/Shanghai:20270308T050000
 SUMMARY:西甲赛程 · 西甲 · 皇家社会 @ 塞维利亚
@@ -2782,7 +2837,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882658@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270308T040000
 DTEND;TZID=Asia/Shanghai:20270308T050000
 SUMMARY:西甲赛程 · 西甲 · 莱万特 @ 瓦伦西亚
@@ -2796,7 +2851,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882657@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270308T040000
 DTEND;TZID=Asia/Shanghai:20270308T050000
 SUMMARY:西甲赛程 · 西甲 · 皇家马德里 @ 比利亚雷亚尔
@@ -2810,7 +2865,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882656@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270315T020000
 DTEND;TZID=Asia/Shanghai:20270315T030000
 SUMMARY:西甲赛程 · 西甲 · 塞维利亚 @ 阿拉维斯
@@ -2824,7 +2879,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882655@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270315T020000
 DTEND;TZID=Asia/Shanghai:20270315T030000
 SUMMARY:西甲赛程 · 西甲 · 瓦伦西亚 @ 毕尔巴鄂竞技
@@ -2838,7 +2893,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882652@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270315T020000
 DTEND;TZID=Asia/Shanghai:20270315T030000
 SUMMARY:西甲赛程 · 西甲 · 拉科鲁尼亚 @ 巴塞罗那
@@ -2852,7 +2907,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882653@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270315T020000
 DTEND;TZID=Asia/Shanghai:20270315T030000
 SUMMARY:西甲赛程 · 西甲 · 比利亚雷亚尔 @ 埃尔切
@@ -2866,7 +2921,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882651@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270315T020000
 DTEND;TZID=Asia/Shanghai:20270315T030000
 SUMMARY:西甲赛程 · 西甲 · 皇家社会 @ 赫塔费
@@ -2880,7 +2935,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882650@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270315T020000
 DTEND;TZID=Asia/Shanghai:20270315T030000
 SUMMARY:西甲赛程 · 西甲 · 瓦列卡诺 @ 马拉加
@@ -2894,7 +2949,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882649@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270315T020000
 DTEND;TZID=Asia/Shanghai:20270315T030000
 SUMMARY:西甲赛程 · 西甲 · 塞尔塔 @ 奥萨苏纳
@@ -2908,7 +2963,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882648@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270315T020000
 DTEND;TZID=Asia/Shanghai:20270315T030000
 SUMMARY:西甲赛程 · 西甲 · 马竞 @ 桑坦德竞技
@@ -2922,7 +2977,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882654@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270315T020000
 DTEND;TZID=Asia/Shanghai:20270315T030000
 SUMMARY:西甲赛程 · 西甲 · 莱万特 @ 皇家贝蒂斯
@@ -2936,7 +2991,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882647@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270315T020000
 DTEND;TZID=Asia/Shanghai:20270315T030000
 SUMMARY:西甲赛程 · 西甲 · 西班牙人 @ 皇家马德里
@@ -2950,7 +3005,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882646@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270322T020000
 DTEND;TZID=Asia/Shanghai:20270322T030000
 SUMMARY:西甲赛程 · 西甲 · 赫塔费 @ 马竞
@@ -2964,7 +3019,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882645@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270322T020000
 DTEND;TZID=Asia/Shanghai:20270322T030000
 SUMMARY:西甲赛程 · 西甲 · 皇家马德里 @ 塞尔塔
@@ -2978,7 +3033,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882644@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270322T020000
 DTEND;TZID=Asia/Shanghai:20270322T030000
 SUMMARY:西甲赛程 · 西甲 · 毕尔巴鄂竞技 @ 西班牙人
@@ -2992,7 +3047,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882643@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270322T020000
 DTEND;TZID=Asia/Shanghai:20270322T030000
 SUMMARY:西甲赛程 · 西甲 · 奥萨苏纳 @ 莱万特
@@ -3006,7 +3061,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882642@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270322T020000
 DTEND;TZID=Asia/Shanghai:20270322T030000
 SUMMARY:西甲赛程 · 西甲 · 皇家贝蒂斯 @ 桑坦德竞技
@@ -3020,7 +3075,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882641@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270322T020000
 DTEND;TZID=Asia/Shanghai:20270322T030000
 SUMMARY:西甲赛程 · 西甲 · 巴塞罗那 @ 瓦列卡诺
@@ -3034,7 +3089,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882640@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270322T020000
 DTEND;TZID=Asia/Shanghai:20270322T030000
 SUMMARY:西甲赛程 · 西甲 · 阿拉维斯 @ 皇家社会
@@ -3048,7 +3103,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882639@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270322T020000
 DTEND;TZID=Asia/Shanghai:20270322T030000
 SUMMARY:西甲赛程 · 西甲 · 埃尔切 @ 塞维利亚
@@ -3062,7 +3117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882638@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270322T020000
 DTEND;TZID=Asia/Shanghai:20270322T030000
 SUMMARY:西甲赛程 · 西甲 · 拉科鲁尼亚 @ 瓦伦西亚
@@ -3076,7 +3131,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882637@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270322T020000
 DTEND;TZID=Asia/Shanghai:20270322T030000
 SUMMARY:西甲赛程 · 西甲 · 马拉加 @ 比利亚雷亚尔
@@ -3090,7 +3145,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882636@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270405T020000
 DTEND;TZID=Asia/Shanghai:20270405T030000
 SUMMARY:西甲赛程 · 西甲 · 桑坦德竞技 @ 毕尔巴鄂竞技
@@ -3104,7 +3159,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882632@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270405T020000
 DTEND;TZID=Asia/Shanghai:20270405T030000
 SUMMARY:西甲赛程 · 西甲 · 塞维利亚 @ 巴塞罗那
@@ -3118,7 +3173,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882634@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270405T020000
 DTEND;TZID=Asia/Shanghai:20270405T030000
 SUMMARY:西甲赛程 · 西甲 · 比利亚雷亚尔 @ 拉科鲁尼亚
@@ -3132,7 +3187,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882633@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270405T020000
 DTEND;TZID=Asia/Shanghai:20270405T030000
 SUMMARY:西甲赛程 · 西甲 · 阿拉维斯 @ 埃尔切
@@ -3146,7 +3201,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882631@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270405T020000
 DTEND;TZID=Asia/Shanghai:20270405T030000
 SUMMARY:西甲赛程 · 西甲 · 西班牙人 @ 赫塔费
@@ -3160,7 +3215,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882630@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270405T020000
 DTEND;TZID=Asia/Shanghai:20270405T030000
 SUMMARY:西甲赛程 · 西甲 · 瓦列卡诺 @ 莱万特
@@ -3174,7 +3229,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882629@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270405T020000
 DTEND;TZID=Asia/Shanghai:20270405T030000
 SUMMARY:西甲赛程 · 西甲 · 奥萨苏纳 @ 马拉加
@@ -3188,7 +3243,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882635@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270405T020000
 DTEND;TZID=Asia/Shanghai:20270405T030000
 SUMMARY:西甲赛程 · 西甲 · 塞尔塔 @ 皇家贝蒂斯
@@ -3202,7 +3257,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882628@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270405T020000
 DTEND;TZID=Asia/Shanghai:20270405T030000
 SUMMARY:西甲赛程 · 西甲 · 马竞 @ 皇家马德里
@@ -3216,7 +3271,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882627@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270405T020000
 DTEND;TZID=Asia/Shanghai:20270405T030000
 SUMMARY:西甲赛程 · 西甲 · 瓦伦西亚 @ 皇家社会
@@ -3230,7 +3285,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882626@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270412T020000
 DTEND;TZID=Asia/Shanghai:20270412T030000
 SUMMARY:西甲赛程 · 西甲 · 皇家贝蒂斯 @ 阿拉维斯
@@ -3244,7 +3299,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882625@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270412T020000
 DTEND;TZID=Asia/Shanghai:20270412T030000
 SUMMARY:西甲赛程 · 西甲 · 莱万特 @ 马竞
@@ -3258,7 +3313,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882624@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270412T020000
 DTEND;TZID=Asia/Shanghai:20270412T030000
 SUMMARY:西甲赛程 · 西甲 · 埃尔切 @ 塞尔塔
@@ -3272,7 +3327,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882623@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270412T020000
 DTEND;TZID=Asia/Shanghai:20270412T030000
 SUMMARY:西甲赛程 · 西甲 · 马拉加 @ 西班牙人
@@ -3286,7 +3341,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882622@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270412T020000
 DTEND;TZID=Asia/Shanghai:20270412T030000
 SUMMARY:西甲赛程 · 西甲 · 皇家马德里 @ 奥萨苏纳
@@ -3300,7 +3355,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882621@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270412T020000
 DTEND;TZID=Asia/Shanghai:20270412T030000
 SUMMARY:西甲赛程 · 西甲 · 巴塞罗那 @ 桑坦德竞技
@@ -3314,7 +3369,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882620@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270412T020000
 DTEND;TZID=Asia/Shanghai:20270412T030000
 SUMMARY:西甲赛程 · 西甲 · 皇家社会 @ 瓦列卡诺
@@ -3328,7 +3383,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882619@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270412T020000
 DTEND;TZID=Asia/Shanghai:20270412T030000
 SUMMARY:西甲赛程 · 西甲 · 拉科鲁尼亚 @ 塞维利亚
@@ -3342,7 +3397,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882618@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270412T020000
 DTEND;TZID=Asia/Shanghai:20270412T030000
 SUMMARY:西甲赛程 · 西甲 · 赫塔费 @ 瓦伦西亚
@@ -3356,7 +3411,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882617@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270412T020000
 DTEND;TZID=Asia/Shanghai:20270412T030000
 SUMMARY:西甲赛程 · 西甲 · 毕尔巴鄂竞技 @ 比利亚雷亚尔
@@ -3370,7 +3425,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882616@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270419T020000
 DTEND;TZID=Asia/Shanghai:20270419T030000
 SUMMARY:西甲赛程 · 西甲 · 瓦列卡诺 @ 阿拉维斯
@@ -3384,7 +3439,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882615@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270419T020000
 DTEND;TZID=Asia/Shanghai:20270419T030000
 SUMMARY:西甲赛程 · 西甲 · 塞维利亚 @ 马竞
@@ -3398,7 +3453,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882611@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270419T020000
 DTEND;TZID=Asia/Shanghai:20270419T030000
 SUMMARY:西甲赛程 · 西甲 · 西班牙人 @ 巴塞罗那
@@ -3412,7 +3467,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882613@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270419T020000
 DTEND;TZID=Asia/Shanghai:20270419T030000
 SUMMARY:西甲赛程 · 西甲 · 塞尔塔 @ 拉科鲁尼亚
@@ -3426,7 +3481,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882612@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270419T020000
 DTEND;TZID=Asia/Shanghai:20270419T030000
 SUMMARY:西甲赛程 · 西甲 · 奥萨苏纳 @ 埃尔切
@@ -3440,7 +3495,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882610@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270419T020000
 DTEND;TZID=Asia/Shanghai:20270419T030000
 SUMMARY:西甲赛程 · 西甲 · 皇家马德里 @ 赫塔费
@@ -3454,7 +3509,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882609@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270419T020000
 DTEND;TZID=Asia/Shanghai:20270419T030000
 SUMMARY:西甲赛程 · 西甲 · 比利亚雷亚尔 @ 莱万特
@@ -3468,7 +3523,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882608@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270419T020000
 DTEND;TZID=Asia/Shanghai:20270419T030000
 SUMMARY:西甲赛程 · 西甲 · 瓦伦西亚 @ 马拉加
@@ -3482,7 +3537,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882614@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270419T020000
 DTEND;TZID=Asia/Shanghai:20270419T030000
 SUMMARY:西甲赛程 · 西甲 · 毕尔巴鄂竞技 @ 皇家贝蒂斯
@@ -3496,7 +3551,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882607@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270419T020000
 DTEND;TZID=Asia/Shanghai:20270419T030000
 SUMMARY:西甲赛程 · 西甲 · 桑坦德竞技 @ 皇家社会
@@ -3510,7 +3565,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882606@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270422T020000
 DTEND;TZID=Asia/Shanghai:20270422T030000
 SUMMARY:西甲赛程 · 西甲 · 拉科鲁尼亚 @ 毕尔巴鄂竞技
@@ -3524,7 +3579,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882605@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270422T020000
 DTEND;TZID=Asia/Shanghai:20270422T030000
 SUMMARY:西甲赛程 · 西甲 · 巴塞罗那 @ 塞尔塔
@@ -3538,7 +3593,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882604@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270422T020000
 DTEND;TZID=Asia/Shanghai:20270422T030000
 SUMMARY:西甲赛程 · 西甲 · 皇家社会 @ 西班牙人
@@ -3552,7 +3607,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882603@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270422T020000
 DTEND;TZID=Asia/Shanghai:20270422T030000
 SUMMARY:西甲赛程 · 西甲 · 皇家贝蒂斯 @ 赫塔费
@@ -3566,7 +3621,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882602@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270422T020000
 DTEND;TZID=Asia/Shanghai:20270422T030000
 SUMMARY:西甲赛程 · 西甲 · 阿拉维斯 @ 奥萨苏纳
@@ -3580,7 +3635,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882601@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270422T020000
 DTEND;TZID=Asia/Shanghai:20270422T030000
 SUMMARY:西甲赛程 · 西甲 · 马拉加 @ 桑坦德竞技
@@ -3594,7 +3649,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882600@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270422T020000
 DTEND;TZID=Asia/Shanghai:20270422T030000
 SUMMARY:西甲赛程 · 西甲 · 埃尔切 @ 皇家马德里
@@ -3608,7 +3663,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882599@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270422T020000
 DTEND;TZID=Asia/Shanghai:20270422T030000
 SUMMARY:西甲赛程 · 西甲 · 莱万特 @ 塞维利亚
@@ -3622,7 +3677,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882598@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270422T020000
 DTEND;TZID=Asia/Shanghai:20270422T030000
 SUMMARY:西甲赛程 · 西甲 · 瓦列卡诺 @ 瓦伦西亚
@@ -3636,7 +3691,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882597@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270422T020000
 DTEND;TZID=Asia/Shanghai:20270422T030000
 SUMMARY:西甲赛程 · 西甲 · 马竞 @ 比利亚雷亚尔
@@ -3650,7 +3705,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882596@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270503T020000
 DTEND;TZID=Asia/Shanghai:20270503T030000
 SUMMARY:西甲赛程 · 西甲 · 阿拉维斯 @ 马竞
@@ -3664,7 +3719,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882591@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270503T020000
 DTEND;TZID=Asia/Shanghai:20270503T030000
 SUMMARY:西甲赛程 · 西甲 · 奥萨苏纳 @ 巴塞罗那
@@ -3678,7 +3733,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882594@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270503T020000
 DTEND;TZID=Asia/Shanghai:20270503T030000
 SUMMARY:西甲赛程 · 西甲 · 塞维利亚 @ 塞尔塔
@@ -3692,7 +3747,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882593@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270503T020000
 DTEND;TZID=Asia/Shanghai:20270503T030000
 SUMMARY:西甲赛程 · 西甲 · 桑坦德竞技 @ 拉科鲁尼亚
@@ -3706,7 +3761,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882592@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270503T020000
 DTEND;TZID=Asia/Shanghai:20270503T030000
 SUMMARY:西甲赛程 · 西甲 · 西班牙人 @ 埃尔切
@@ -3720,7 +3775,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882590@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270503T020000
 DTEND;TZID=Asia/Shanghai:20270503T030000
 SUMMARY:西甲赛程 · 西甲 · 皇家马德里 @ 莱万特
@@ -3734,7 +3789,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882589@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270503T020000
 DTEND;TZID=Asia/Shanghai:20270503T030000
 SUMMARY:西甲赛程 · 西甲 · 赫塔费 @ 马拉加
@@ -3748,7 +3803,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882588@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270503T020000
 DTEND;TZID=Asia/Shanghai:20270503T030000
 SUMMARY:西甲赛程 · 西甲 · 比利亚雷亚尔 @ 瓦列卡诺
@@ -3762,7 +3817,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882595@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270503T020000
 DTEND;TZID=Asia/Shanghai:20270503T030000
 SUMMARY:西甲赛程 · 西甲 · 瓦伦西亚 @ 皇家贝蒂斯
@@ -3776,7 +3831,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882587@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270503T020000
 DTEND;TZID=Asia/Shanghai:20270503T030000
 SUMMARY:西甲赛程 · 西甲 · 毕尔巴鄂竞技 @ 皇家社会
@@ -3790,7 +3845,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882586@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270510T020000
 DTEND;TZID=Asia/Shanghai:20270510T030000
 SUMMARY:西甲赛程 · 西甲 · 莱万特 @ 阿拉维斯
@@ -3804,7 +3859,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882585@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270510T020000
 DTEND;TZID=Asia/Shanghai:20270510T030000
 SUMMARY:西甲赛程 · 西甲 · 马拉加 @ 毕尔巴鄂竞技
@@ -3818,7 +3873,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882583@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270510T020000
 DTEND;TZID=Asia/Shanghai:20270510T030000
 SUMMARY:西甲赛程 · 西甲 · 埃尔切 @ 赫塔费
@@ -3832,7 +3887,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882582@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270510T020000
 DTEND;TZID=Asia/Shanghai:20270510T030000
 SUMMARY:西甲赛程 · 西甲 · 皇家社会 @ 奥萨苏纳
@@ -3846,7 +3901,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882581@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270510T020000
 DTEND;TZID=Asia/Shanghai:20270510T030000
 SUMMARY:西甲赛程 · 西甲 · 塞维利亚 @ 桑坦德竞技
@@ -3860,7 +3915,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882580@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270510T020000
 DTEND;TZID=Asia/Shanghai:20270510T030000
 SUMMARY:西甲赛程 · 西甲 · 拉科鲁尼亚 @ 瓦列卡诺
@@ -3874,7 +3929,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882584@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270510T020000
 DTEND;TZID=Asia/Shanghai:20270510T030000
 SUMMARY:西甲赛程 · 西甲 · 西班牙人 @ 皇家贝蒂斯
@@ -3888,7 +3943,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882579@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270510T020000
 DTEND;TZID=Asia/Shanghai:20270510T030000
 SUMMARY:西甲赛程 · 西甲 · 巴塞罗那 @ 皇家马德里
@@ -3902,7 +3957,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882578@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270510T020000
 DTEND;TZID=Asia/Shanghai:20270510T030000
 SUMMARY:西甲赛程 · 西甲 · 马竞 @ 瓦伦西亚
@@ -3916,7 +3971,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882577@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270510T020000
 DTEND;TZID=Asia/Shanghai:20270510T030000
 SUMMARY:西甲赛程 · 西甲 · 塞尔塔 @ 比利亚雷亚尔
@@ -3930,7 +3985,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882576@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270517T020000
 DTEND;TZID=Asia/Shanghai:20270517T030000
 SUMMARY:西甲赛程 · 西甲 · 瓦列卡诺 @ 马竞
@@ -3944,7 +3999,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882575@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270517T020000
 DTEND;TZID=Asia/Shanghai:20270517T030000
 SUMMARY:西甲赛程 · 西甲 · 阿拉维斯 @ 拉科鲁尼亚
@@ -3958,7 +4013,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882574@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270517T020000
 DTEND;TZID=Asia/Shanghai:20270517T030000
 SUMMARY:西甲赛程 · 西甲 · 毕尔巴鄂竞技 @ 埃尔切
@@ -3972,7 +4027,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882573@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270517T020000
 DTEND;TZID=Asia/Shanghai:20270517T030000
 SUMMARY:西甲赛程 · 西甲 · 瓦伦西亚 @ 西班牙人
@@ -3986,7 +4041,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882572@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270517T020000
 DTEND;TZID=Asia/Shanghai:20270517T030000
 SUMMARY:西甲赛程 · 西甲 · 赫塔费 @ 莱万特
@@ -4000,7 +4055,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882571@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270517T020000
 DTEND;TZID=Asia/Shanghai:20270517T030000
 SUMMARY:西甲赛程 · 西甲 · 塞尔塔 @ 马拉加
@@ -4014,7 +4069,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882570@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270517T020000
 DTEND;TZID=Asia/Shanghai:20270517T030000
 SUMMARY:西甲赛程 · 西甲 · 皇家贝蒂斯 @ 奥萨苏纳
@@ -4028,7 +4083,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882569@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270517T020000
 DTEND;TZID=Asia/Shanghai:20270517T030000
 SUMMARY:西甲赛程 · 西甲 · 桑坦德竞技 @ 皇家马德里
@@ -4042,7 +4097,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882568@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270517T020000
 DTEND;TZID=Asia/Shanghai:20270517T030000
 SUMMARY:西甲赛程 · 西甲 · 巴塞罗那 @ 皇家社会
@@ -4056,7 +4111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882567@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270517T020000
 DTEND;TZID=Asia/Shanghai:20270517T030000
 SUMMARY:西甲赛程 · 西甲 · 比利亚雷亚尔 @ 塞维利亚
@@ -4070,7 +4125,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882566@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270524T020000
 DTEND;TZID=Asia/Shanghai:20270524T030000
 SUMMARY:西甲赛程 · 西甲 · 皇家马德里 @ 阿拉维斯
@@ -4084,7 +4139,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882565@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270524T020000
 DTEND;TZID=Asia/Shanghai:20270524T030000
 SUMMARY:西甲赛程 · 西甲 · 毕尔巴鄂竞技 @ 马竞
@@ -4098,7 +4153,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882562@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270524T020000
 DTEND;TZID=Asia/Shanghai:20270524T030000
 SUMMARY:西甲赛程 · 西甲 · 马拉加 @ 巴塞罗那
@@ -4112,7 +4167,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882564@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270524T020000
 DTEND;TZID=Asia/Shanghai:20270524T030000
 SUMMARY:西甲赛程 · 西甲 · 皇家社会 @ 塞尔塔
@@ -4126,7 +4181,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882563@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270524T020000
 DTEND;TZID=Asia/Shanghai:20270524T030000
 SUMMARY:西甲赛程 · 西甲 · 西班牙人 @ 拉科鲁尼亚
@@ -4140,7 +4195,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882561@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270524T020000
 DTEND;TZID=Asia/Shanghai:20270524T030000
 SUMMARY:西甲赛程 · 西甲 · 莱万特 @ 桑坦德竞技
@@ -4154,7 +4209,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882560@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270524T020000
 DTEND;TZID=Asia/Shanghai:20270524T030000
 SUMMARY:西甲赛程 · 西甲 · 皇家贝蒂斯 @ 瓦列卡诺
@@ -4168,7 +4223,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882559@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270524T020000
 DTEND;TZID=Asia/Shanghai:20270524T030000
 SUMMARY:西甲赛程 · 西甲 · 赫塔费 @ 塞维利亚
@@ -4182,7 +4237,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882558@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270524T020000
 DTEND;TZID=Asia/Shanghai:20270524T030000
 SUMMARY:西甲赛程 · 西甲 · 埃尔切 @ 瓦伦西亚
@@ -4196,7 +4251,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882557@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270524T020000
 DTEND;TZID=Asia/Shanghai:20270524T030000
 SUMMARY:西甲赛程 · 西甲 · 奥萨苏纳 @ 比利亚雷亚尔
@@ -4210,7 +4265,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882556@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270531T020000
 DTEND;TZID=Asia/Shanghai:20270531T030000
 SUMMARY:西甲赛程 · 西甲 · 瓦列卡诺 @ 毕尔巴鄂竞技
@@ -4224,7 +4279,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882554@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270531T020000
 DTEND;TZID=Asia/Shanghai:20270531T030000
 SUMMARY:西甲赛程 · 西甲 · 桑坦德竞技 @ 埃尔切
@@ -4238,7 +4293,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882553@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270531T020000
 DTEND;TZID=Asia/Shanghai:20270531T030000
 SUMMARY:西甲赛程 · 西甲 · 阿拉维斯 @ 西班牙人
@@ -4252,7 +4307,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882552@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270531T020000
 DTEND;TZID=Asia/Shanghai:20270531T030000
 SUMMARY:西甲赛程 · 西甲 · 巴塞罗那 @ 赫塔费
@@ -4266,7 +4321,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882551@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270531T020000
 DTEND;TZID=Asia/Shanghai:20270531T030000
 SUMMARY:西甲赛程 · 西甲 · 塞尔塔 @ 莱万特
@@ -4280,7 +4335,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882550@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270531T020000
 DTEND;TZID=Asia/Shanghai:20270531T030000
 SUMMARY:西甲赛程 · 西甲 · 塞维利亚 @ 马拉加
@@ -4294,7 +4349,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882549@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270531T020000
 DTEND;TZID=Asia/Shanghai:20270531T030000
 SUMMARY:西甲赛程 · 西甲 · 瓦伦西亚 @ 奥萨苏纳
@@ -4308,7 +4363,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882555@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270531T020000
 DTEND;TZID=Asia/Shanghai:20270531T030000
 SUMMARY:西甲赛程 · 西甲 · 马竞 @ 皇家贝蒂斯
@@ -4322,7 +4377,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882548@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270531T020000
 DTEND;TZID=Asia/Shanghai:20270531T030000
 SUMMARY:西甲赛程 · 西甲 · 拉科鲁尼亚 @ 皇家马德里
@@ -4336,7 +4391,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-laliga-2026-401882547@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260915T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270531T020000
 DTEND;TZID=Asia/Shanghai:20270531T030000
 SUMMARY:西甲赛程 · 西甲 · 比利亚雷亚尔 @ 皇家社会

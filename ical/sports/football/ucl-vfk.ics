@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Koyomi Cast//ucl-vik//EN
+PRODID:-//Koyomi Cast//ucl-vfk//EN
 URL:https://koyomi.cast/sources/ucl
 NAME:维京赛程
 X-WR-CALNAME:维京赛程
@@ -9,37 +9,39 @@ X-WR-CALDESC:维京在欧冠赛程中的比赛日程，自动同步更新
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-UID:ucl-vik-ucl-2026-401915411@koyomi.cast
+UID:ucl-vfk-ucl-2026-401915411@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260911T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261014T030000
 DTEND;TZID=Asia/Shanghai:20261014T040000
 SUMMARY:维京赛程 · 联赛阶段 · 维京 vs 拜仁慕尼黑
 DESCRIPTION:拜仁慕尼黑 作客 维京（欧冠 2026-27 赛季 联赛
- 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 维京\n客场: 
- 拜仁慕尼黑\n场馆: Viking Stadion\n城市: Stavanger
+ 阶段，北京时间）\n\n比分: 维京 3 - 3 拜仁慕尼黑\n\n阶段
+ : 联赛阶段\n主场: 维京\n客场: 拜仁慕尼黑\n比分: 维京 3 
+ - 3 拜仁慕尼黑\n场馆: Viking Stadion\n城市: Stavanger
 CATEGORIES:维京赛程
 URL;VALUE=URI:https://www.uefa.com/uefachampionsleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ucl-vik-ucl-2026-401915394@koyomi.cast
+UID:ucl-vfk-ucl-2026-401915394@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260911T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261022T030000
 DTEND;TZID=Asia/Shanghai:20261022T040000
 SUMMARY:维京赛程 · 联赛阶段 · 维京 @ 阿斯顿维拉
 DESCRIPTION:维京 作客 阿斯顿维拉（欧冠 2026-27 赛季 联赛
- 阶段，北京时间）\n\n阶段: 联赛阶段\n主场: 阿斯顿维拉\
- n客场: 维京\n场馆: Villa Park\n城市: Birmingham
+ 阶段，北京时间）\n\n比分: 阿斯顿维拉 3 - 1 维京\n\n阶段
+ : 联赛阶段\n主场: 阿斯顿维拉\n客场: 维京\n比分: 阿斯顿
+ 维拉 3 - 1 维京\n场馆: Villa Park\n城市: Birmingham
 CATEGORIES:维京赛程
 URL;VALUE=URI:https://www.uefa.com/uefachampionsleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ucl-vik-ucl-2026-401915302@koyomi.cast
+UID:ucl-vfk-ucl-2026-401915302@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260911T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261105T040000
 DTEND;TZID=Asia/Shanghai:20261105T050000
 SUMMARY:维京赛程 · 联赛阶段 · 维京 vs 萨巴伊尔
@@ -51,9 +53,9 @@ URL;VALUE=URI:https://www.uefa.com/uefachampionsleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ucl-vik-ucl-2026-401915291@koyomi.cast
+UID:ucl-vfk-ucl-2026-401915291@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260911T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261126T040000
 DTEND;TZID=Asia/Shanghai:20261126T050000
 SUMMARY:维京赛程 · 联赛阶段 · 维京 @ 马竞
@@ -65,9 +67,9 @@ URL;VALUE=URI:https://www.uefa.com/uefachampionsleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ucl-vik-ucl-2026-401915290@koyomi.cast
+UID:ucl-vfk-ucl-2026-401915290@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260911T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261209T014500
 DTEND;TZID=Asia/Shanghai:20261209T024500
 SUMMARY:维京赛程 · 联赛阶段 · 维京 vs 费耶诺德
@@ -79,9 +81,9 @@ URL;VALUE=URI:https://www.uefa.com/uefachampionsleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ucl-vik-ucl-2026-401915272@koyomi.cast
+UID:ucl-vfk-ucl-2026-401915272@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260911T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270121T040000
 DTEND;TZID=Asia/Shanghai:20270121T050000
 SUMMARY:维京赛程 · 联赛阶段 · 维京 vs 埃因霍温
@@ -93,9 +95,9 @@ URL;VALUE=URI:https://www.uefa.com/uefachampionsleague/fixtures-results/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ucl-vik-ucl-2026-401915268@koyomi.cast
+UID:ucl-vfk-ucl-2026-401915268@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260911T000000
+DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20270128T040000
 DTEND;TZID=Asia/Shanghai:20270128T050000
 SUMMARY:维京赛程 · 联赛阶段 · 维京 @ 那不勒斯

@@ -94,53 +94,49 @@
     },
     "bundesliga": {
       "category": "sports",
-      "checked_at": "2026-09-15",
-      "outcome": "failed",
-      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?limit=200&dates=20270401-20270731"
+      "checked_at": "2026-11-04",
+      "outcome": "updated"
     },
     "cba": {
       "category": "sports",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-04",
       "outcome": "unchanged"
     },
     "csl": {
       "category": "sports",
       "checked_at": "2026-11-03",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://api.cfl-china.cn/frontweb/api/tournaments?competition_code=CSL (fetch failed)"
     },
     "epl": {
       "category": "sports",
-      "checked_at": "2026-09-15",
-      "outcome": "failed",
-      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?limit=200&dates=20260801-20261231"
+      "checked_at": "2026-11-04",
+      "outcome": "updated"
     },
     "f1": {
       "category": "sports",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-04",
       "outcome": "unchanged"
     },
     "laliga": {
       "category": "sports",
-      "checked_at": "2026-09-15",
-      "outcome": "failed",
-      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?limit=200&dates=20270101-20270331"
+      "checked_at": "2026-11-04",
+      "outcome": "updated"
     },
     "ligue1": {
       "category": "sports",
-      "checked_at": "2026-09-15",
-      "outcome": "failed",
-      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/scoreboard?limit=200&dates=20260801-20261231"
+      "checked_at": "2026-11-04",
+      "outcome": "updated"
     },
     "nba": {
       "category": "sports",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-04",
       "outcome": "unchanged"
     },
     "seriea": {
       "category": "sports",
-      "checked_at": "2026-09-15",
-      "outcome": "failed",
-      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?limit=200&dates=20270101-20270331"
+      "checked_at": "2026-11-04",
+      "outcome": "updated"
     },
     "australian-open": {
       "category": "sports",
@@ -164,25 +160,22 @@
     },
     "ucl": {
       "category": "sports",
-      "checked_at": "2026-09-15",
-      "outcome": "failed",
-      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?limit=200&dates=20270101-20270331"
+      "checked_at": "2026-11-04",
+      "outcome": "updated"
     },
     "uecl": {
       "category": "sports",
-      "checked_at": "2026-09-15",
-      "outcome": "failed",
-      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.europa.conf/scoreboard?limit=200&dates=20270101-20270331"
+      "checked_at": "2026-11-04",
+      "outcome": "updated"
     },
     "uel": {
       "category": "sports",
-      "checked_at": "2026-09-15",
-      "outcome": "failed",
-      "last_error": "HTTP 400: https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.europa/scoreboard?limit=200&dates=20260801-20261231"
+      "checked_at": "2026-11-04",
+      "outcome": "updated"
     },
     "worldcup": {
       "category": "sports",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-04",
       "outcome": "unchanged"
     },
     "arknights": {
