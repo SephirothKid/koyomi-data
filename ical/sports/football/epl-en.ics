@@ -1586,21 +1586,6 @@ URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:epl-epl-2026-401879198@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261104T000000
-DTSTART;TZID=Asia/Shanghai:20261219T230000
-DTEND;TZID=Asia/Shanghai:20261220T000000
-SUMMARY:Premier League Schedule · Premier League · Everton @ Nottingham 
- Forest
-DESCRIPTION:Everton at Nottingham Forest (Premier League 2026-27\, Beijing
-  time)\n\n主场: 诺丁汉森林\n客场: 埃弗顿\n场馆: The City Gro
- und\n城市: Nottingham
-CATEGORIES:Premier League Schedule
-URL;VALUE=URI:https://www.premierleague.com/fixtures
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:epl-epl-2026-401879200@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261104T000000
@@ -1626,6 +1611,21 @@ SUMMARY:Premier League Schedule · Premier League · Ipswich Town @ Bright
 DESCRIPTION:Ipswich Town at Brighton & Hove Albion (Premier League 2026-27
  \, Beijing time)\n\n主场: 布莱顿\n客场: 伊普斯维奇\n场馆: Am
  erican Express Stadium\n城市: Falmer
+CATEGORIES:Premier League Schedule
+URL;VALUE=URI:https://www.premierleague.com/fixtures
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-epl-2026-401879198@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261220T220000
+DTEND;TZID=Asia/Shanghai:20261220T230000
+SUMMARY:Premier League Schedule · Premier League · Everton @ Nottingham 
+ Forest
+DESCRIPTION:Everton at Nottingham Forest (Premier League 2026-27\, Beijing
+  time)\n\n主场: 诺丁汉森林\n客场: 埃弗顿\n场馆: The City Gro
+ und\n城市: Nottingham
 CATEGORIES:Premier League Schedule
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED

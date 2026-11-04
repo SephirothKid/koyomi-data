@@ -1500,20 +1500,6 @@ URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:epl-epl-2026-401879198@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261104T000000
-DTSTART;TZID=Asia/Shanghai:20261219T230000
-DTEND;TZID=Asia/Shanghai:20261220T000000
-SUMMARY:英超赛程 · 英超 · 埃弗顿 @ 诺丁汉森林
-DESCRIPTION:埃弗顿 作客 诺丁汉森林（英超 2026-27 赛季，北
- 京时间）\n\n主场: 诺丁汉森林\n客场: 埃弗顿\n场馆: The Ci
- ty Ground\n城市: Nottingham
-CATEGORIES:英超赛程
-URL;VALUE=URI:https://www.premierleague.com/fixtures
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:epl-epl-2026-401879200@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261104T000000
@@ -1537,6 +1523,20 @@ SUMMARY:英超赛程 · 英超 · 伊普斯维奇 @ 布莱顿
 DESCRIPTION:伊普斯维奇 作客 布莱顿（英超 2026-27 赛季，北
  京时间）\n\n主场: 布莱顿\n客场: 伊普斯维奇\n场馆: Americ
  an Express Stadium\n城市: Falmer
+CATEGORIES:英超赛程
+URL;VALUE=URI:https://www.premierleague.com/fixtures
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-epl-2026-401879198@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261104T000000
+DTSTART;TZID=Asia/Shanghai:20261220T220000
+DTEND;TZID=Asia/Shanghai:20261220T230000
+SUMMARY:英超赛程 · 英超 · 埃弗顿 @ 诺丁汉森林
+DESCRIPTION:埃弗顿 作客 诺丁汉森林（英超 2026-27 赛季，北
+ 京时间）\n\n主场: 诺丁汉森林\n客场: 埃弗顿\n场馆: The Ci
+ ty Ground\n城市: Nottingham
 CATEGORIES:英超赛程
 URL;VALUE=URI:https://www.premierleague.com/fixtures
 STATUS:CONFIRMED
