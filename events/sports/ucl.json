@@ -11125,7 +11125,7 @@
       "description": "皇家马德里 作客 雅典AEK（欧冠 2026-27 赛季 联赛阶段，北京时间）",
       "description_en": "Real Madrid at AEK Athens (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-04",
       "verified_by": "auto",
       "teams": {
@@ -11146,8 +11146,15 @@
         "阶段": "联赛阶段",
         "主场": "雅典AEK",
         "客场": "皇家马德里",
+        "比分": "雅典AEK 2 - 3 皇家马德里",
         "场馆": "OPAP Arena",
         "城市": "Athens"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -11162,7 +11169,7 @@
       "description": "利物浦 作客 费内巴切（欧冠 2026-27 赛季 联赛阶段，北京时间）",
       "description_en": "Liverpool at Fenerbahce (UEFA Champions League 2026-27 League Phase, Beijing time)",
       "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-04",
       "verified_by": "auto",
       "teams": {
@@ -11183,8 +11190,15 @@
         "阶段": "联赛阶段",
         "主场": "费内巴切",
         "客场": "利物浦",
+        "比分": "费内巴切 3 - 2 利物浦",
         "场馆": "Şükrü Saracoğlu Stadium",
         "城市": "Istanbul"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 2,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
