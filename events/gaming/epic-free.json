@@ -21,7 +21,7 @@
   "subscriber_count": 30160,
   "rating": 4.4,
   "rating_count": 460,
-  "last_updated": "2026-11-04",
+  "last_updated": "2026-11-05",
   "events": [
     {
       "id": "epic-free-2026-w21",
@@ -929,8 +929,8 @@
       "description": "本周免费游戏：《Idle Champions of the Forgotten Realms》、浮游世界",
       "description_en": "This week's free games: Idle Champions of the Forgotten Realms, Flotsam",
       "url": "https://store.epicgames.com/zh-CN/free-games",
-      "status": "confirmed",
-      "last_verified": "2026-11-04",
+      "status": "active",
+      "last_verified": "2026-11-05",
       "verified_by": "auto",
       "details": {
         "领取方式": "Epic Games Store 客户端/网页",
@@ -961,6 +961,43 @@
         "Catalogue source": "https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions?locale=zh-CN&country=CN&allowCountries=CN",
         "English title sources": "https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions?locale=en-US&country=CN&allowCountries=CN"
       }
+    },
+    {
+      "id": "epic-free-2026-w46",
+      "name": "斗阵骑士 Knightica",
+      "name_en": "Knightica",
+      "date": "2026-11-13",
+      "time": "23:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "本周免费游戏：斗阵骑士 Knightica",
+      "description_en": "This week's free games: Knightica",
+      "url": "https://store.epicgames.com/zh-CN/free-games",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "details": {
+        "领取方式": "Epic Games Store 客户端/网页",
+        "领取条件": "免费注册账号即可",
+        "注意事项": "每周四 23:00 更新，领取后永久拥有",
+        "本周游戏": "斗阵骑士 Knightica"
+      },
+      "details_en": {
+        "Catalogue source": "https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions?locale=zh-CN&country=CN&allowCountries=CN",
+        "English title sources": "https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions?locale=en-US&country=CN&allowCountries=CN"
+      },
+      "games": [
+        {
+          "title": "斗阵骑士 Knightica",
+          "title_en": "Knightica",
+          "description": "在这款类Rogue自走棋游戏中，征招强大单位，悉心排兵布阵，调整策略，充分发掘军队的协同效果！\n 在《Knightica》中，你将指挥一整支战团，跨越重重挑战，最后解放王国。\n 优化组合方案，巧用附魔法术，迎战危险怪物，最终带领你的军队走向胜利！",
+          "description_en": "Recruit units, place them strategically, and find the synergies in this Roguelike AutoBattler!\nKnightica lets you guide a warband through challenges to free the Kingdoms.\nDiscover combinations, weave powerful enchants, face dangerous monsters, and lead your army to victory!",
+          "cover_url": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1xc3d.png",
+          "original_price": "¥47.00",
+          "store_url": "https://store.epicgames.com/zh-CN/p/72b46f5d95624fd5b7e7d81b7dcaead1"
+        }
+      ]
     },
     {
       "id": "epic-free-2026-w50",

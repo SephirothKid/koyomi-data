@@ -15,7 +15,7 @@
     "fgo": {
       "category": "gaming",
       "checked_at": "2026-11-05",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "tw-public-holidays": {
       "category": "holidays",
@@ -190,7 +190,7 @@
     "epic-free": {
       "category": "gaming",
       "checked_at": "2026-11-05",
-      "outcome": "unchanged"
+      "outcome": "updated"
     },
     "kpl": {
       "category": "gaming",
@@ -199,9 +199,8 @@
     },
     "lpl": {
       "category": "gaming",
-      "checked_at": "2026-11-03",
-      "outcome": "skipped",
-      "last_error": "HTTP 429: https://api.pandascore.co/lol/matches?filter%5Bleague_id%5D=294&range%5Bbegin_at%5D=2026-01-01%2C2099-12-31&page%5Bnumber%5D=1&page%5Bsize%5D=100&sort=begin_at"
+      "checked_at": "2026-11-05",
+      "outcome": "updated"
     },
     "console-showcases": {
       "category": "gaming",
@@ -210,15 +209,13 @@
     },
     "genshin-impact": {
       "category": "gaming",
-      "checked_at": "2026-11-04",
-      "outcome": "skipped",
-      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/16471662a82d418a/getContentList?iAppId=43&iChanId=721&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed)"
+      "checked_at": "2026-11-05",
+      "outcome": "updated"
     },
     "honkai-star-rail": {
       "category": "gaming",
-      "checked_at": "2026-11-04",
-      "outcome": "skipped",
-      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/1963de8dc19e461c/getContentList?iChanId=255&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed)"
+      "checked_at": "2026-11-05",
+      "outcome": "unchanged"
     },
     "zenless-zone-zero": {
       "category": "gaming",
@@ -409,17 +406,17 @@
     "dota2-esports": {
       "category": "gaming",
       "checked_at": "2026-11-05",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "lol-international": {
       "category": "gaming",
       "checked_at": "2026-11-05",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "valorant-esports": {
       "category": "gaming",
       "checked_at": "2026-11-05",
-      "outcome": "updated"
+      "outcome": "unchanged"
     }
   }
 }
