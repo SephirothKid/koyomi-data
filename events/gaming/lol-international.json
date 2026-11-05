@@ -21,7 +21,4070 @@
   "attribution": "Match schedule and results provided by PandaScore.",
   "cycle_kind": "season",
   "season_basis": "calendar-year",
-  "hidden": true,
-  "disabled_reason": "等待首次可验证数据抓取。",
-  "events": []
+  "events": [
+    {
+      "id": "lol-international-2026-m1384017",
+      "name": "Group A · Bilibili Gaming vs BNK FEARX",
+      "name_en": "Group A · Bilibili Gaming vs BNK FEARX",
+      "date": "2026-03-16",
+      "time": "21:11",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Bilibili Gaming vs BNK FEARX",
+      "description_en": "2026 · Bilibili Gaming vs BNK FEARX",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "bilibili-gaming",
+          "code": "BLG",
+          "name": "Bilibili Gaming",
+          "name_en": "Bilibili Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+        },
+        "home": {
+          "id": "fearx",
+          "code": "BFX",
+          "name": "BNK FEARX",
+          "name_en": "BNK FEARX",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/134115/663px_fear_x_icon_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 2,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "First Stand",
+        "赛季": "2026",
+        "阶段": "Group A",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "First Stand",
+        "Series": "2026",
+        "Stage": "Group A",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1384018",
+      "name": "Group A · G2 Esports vs Team Secret Whales",
+      "name_en": "Group A · G2 Esports vs Team Secret Whales",
+      "date": "2026-03-17",
+      "time": "01:20",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · G2 Esports vs Team Secret Whales",
+      "description_en": "2026 · G2 Esports vs Team Secret Whales",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "g2-esports",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
+        },
+        "home": {
+          "id": "team-secret-whales",
+          "code": "TSW",
+          "name": "Team Secret Whales",
+          "name_en": "Team Secret Whales",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/136073/1200px_secret_whales_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "First Stand",
+        "赛季": "2026",
+        "阶段": "Group A",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "First Stand",
+        "Series": "2026",
+        "Stage": "Group A",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1384019",
+      "name": "Group B · Gen.G vs JD Gaming",
+      "name_en": "Group B · Gen.G vs JD Gaming",
+      "date": "2026-03-17",
+      "time": "21:04",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Gen.G vs JD Gaming",
+      "description_en": "2026 · Gen.G vs JD Gaming",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "geng",
+          "code": "GEN",
+          "name": "Gen.G",
+          "name_en": "Gen.G",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
+        },
+        "home": {
+          "id": "qg-reapers",
+          "code": "JDG",
+          "name": "JD Gaming",
+          "name_en": "JD Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "First Stand",
+        "赛季": "2026",
+        "阶段": "Group B",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "First Stand",
+        "Series": "2026",
+        "Stage": "Group B",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1384020",
+      "name": "Group B · LYON vs LOUD",
+      "name_en": "Group B · LYON vs LOUD",
+      "date": "2026-03-17",
+      "time": "23:32",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · LYON vs LOUD",
+      "description_en": "2026 · LYON vs LOUD",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "lyon",
+          "code": "LY",
+          "name": "LYON",
+          "name_en": "LYON",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/136066/lyon__25282024_american_team_2529logo_square.png"
+        },
+        "home": {
+          "id": "loud",
+          "code": "LLL",
+          "name": "LOUD",
+          "name_en": "LOUD",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128313/lou_dlogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 2,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "First Stand",
+        "赛季": "2026",
+        "阶段": "Group B",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "First Stand",
+        "Series": "2026",
+        "Stage": "Group B",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1384022",
+      "name": "Group A · Bilibili Gaming vs G2 Esports",
+      "name_en": "Group A · Bilibili Gaming vs G2 Esports",
+      "date": "2026-03-18",
+      "time": "21:05",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Bilibili Gaming vs G2 Esports",
+      "description_en": "2026 · Bilibili Gaming vs G2 Esports",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "bilibili-gaming",
+          "code": "BLG",
+          "name": "Bilibili Gaming",
+          "name_en": "Bilibili Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+        },
+        "home": {
+          "id": "g2-esports",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "First Stand",
+        "赛季": "2026",
+        "阶段": "Group A",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "First Stand",
+        "Series": "2026",
+        "Stage": "Group A",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1384024",
+      "name": "Group A · BNK FEARX vs Team Secret Whales",
+      "name_en": "Group A · BNK FEARX vs Team Secret Whales",
+      "date": "2026-03-18",
+      "time": "23:44",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · BNK FEARX vs Team Secret Whales",
+      "description_en": "2026 · BNK FEARX vs Team Secret Whales",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "fearx",
+          "code": "BFX",
+          "name": "BNK FEARX",
+          "name_en": "BNK FEARX",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/134115/663px_fear_x_icon_lightmode.png"
+        },
+        "home": {
+          "id": "team-secret-whales",
+          "code": "TSW",
+          "name": "Team Secret Whales",
+          "name_en": "Team Secret Whales",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/136073/1200px_secret_whales_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "First Stand",
+        "赛季": "2026",
+        "阶段": "Group A",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "First Stand",
+        "Series": "2026",
+        "Stage": "Group A",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1384021",
+      "name": "Group B · Gen.G vs LYON",
+      "name_en": "Group B · Gen.G vs LYON",
+      "date": "2026-03-19",
+      "time": "21:04",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Gen.G vs LYON",
+      "description_en": "2026 · Gen.G vs LYON",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "geng",
+          "code": "GEN",
+          "name": "Gen.G",
+          "name_en": "Gen.G",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
+        },
+        "home": {
+          "id": "lyon",
+          "code": "LY",
+          "name": "LYON",
+          "name_en": "LYON",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/136066/lyon__25282024_american_team_2529logo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "First Stand",
+        "赛季": "2026",
+        "阶段": "Group B",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "First Stand",
+        "Series": "2026",
+        "Stage": "Group B",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1384023",
+      "name": "Group B · JD Gaming vs LOUD",
+      "name_en": "Group B · JD Gaming vs LOUD",
+      "date": "2026-03-19",
+      "time": "23:29",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · JD Gaming vs LOUD",
+      "description_en": "2026 · JD Gaming vs LOUD",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "qg-reapers",
+          "code": "JDG",
+          "name": "JD Gaming",
+          "name_en": "JD Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
+        },
+        "home": {
+          "id": "loud",
+          "code": "LLL",
+          "name": "LOUD",
+          "name_en": "LOUD",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128313/lou_dlogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "First Stand",
+        "赛季": "2026",
+        "阶段": "Group B",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "First Stand",
+        "Series": "2026",
+        "Stage": "Group B",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1384026",
+      "name": "Group A · G2 Esports vs BNK FEARX",
+      "name_en": "Group A · G2 Esports vs BNK FEARX",
+      "date": "2026-03-20",
+      "time": "21:04",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · G2 Esports vs BNK FEARX",
+      "description_en": "2026 · G2 Esports vs BNK FEARX",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "g2-esports",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
+        },
+        "home": {
+          "id": "fearx",
+          "code": "BFX",
+          "name": "BNK FEARX",
+          "name_en": "BNK FEARX",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/134115/663px_fear_x_icon_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "First Stand",
+        "赛季": "2026",
+        "阶段": "Group A",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "First Stand",
+        "Series": "2026",
+        "Stage": "Group A",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1384025",
+      "name": "Group B · LYON vs JD Gaming",
+      "name_en": "Group B · LYON vs JD Gaming",
+      "date": "2026-03-20",
+      "time": "23:49",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · LYON vs JD Gaming",
+      "description_en": "2026 · LYON vs JD Gaming",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "lyon",
+          "code": "LY",
+          "name": "LYON",
+          "name_en": "LYON",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/136066/lyon__25282024_american_team_2529logo_square.png"
+        },
+        "home": {
+          "id": "qg-reapers",
+          "code": "JDG",
+          "name": "JD Gaming",
+          "name_en": "JD Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 3,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "First Stand",
+        "赛季": "2026",
+        "阶段": "Group B",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "First Stand",
+        "Series": "2026",
+        "Stage": "Group B",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1384014",
+      "name": "季后赛 · Gen.G vs G2 Esports",
+      "name_en": "Playoffs · Gen.G vs G2 Esports",
+      "date": "2026-03-21",
+      "time": "21:05",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Gen.G vs G2 Esports",
+      "description_en": "2026 · Gen.G vs G2 Esports",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "geng",
+          "code": "GEN",
+          "name": "Gen.G",
+          "name_en": "Gen.G",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
+        },
+        "home": {
+          "id": "g2-esports",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 3,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "First Stand",
+        "赛季": "2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "First Stand",
+        "Series": "2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1384015",
+      "name": "季后赛 · Bilibili Gaming vs JD Gaming",
+      "name_en": "Playoffs · Bilibili Gaming vs JD Gaming",
+      "date": "2026-03-21",
+      "time": "23:47",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Bilibili Gaming vs JD Gaming",
+      "description_en": "2026 · Bilibili Gaming vs JD Gaming",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "bilibili-gaming",
+          "code": "BLG",
+          "name": "Bilibili Gaming",
+          "name_en": "Bilibili Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+        },
+        "home": {
+          "id": "qg-reapers",
+          "code": "JDG",
+          "name": "JD Gaming",
+          "name_en": "JD Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "First Stand",
+        "赛季": "2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "First Stand",
+        "Series": "2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1384016",
+      "name": "季后赛 · G2 Esports vs Bilibili Gaming",
+      "name_en": "Playoffs · G2 Esports vs Bilibili Gaming",
+      "date": "2026-03-22",
+      "time": "21:07",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · G2 Esports vs Bilibili Gaming",
+      "description_en": "2026 · G2 Esports vs Bilibili Gaming",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "g2-esports",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
+        },
+        "home": {
+          "id": "bilibili-gaming",
+          "code": "BLG",
+          "name": "Bilibili Gaming",
+          "name_en": "Bilibili Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 3,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "First Stand",
+        "赛季": "2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "First Stand",
+        "Series": "2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1524755",
+      "name": "入围赛 · T1 vs Team Liquid",
+      "name_en": "Play-In · T1 vs Team Liquid",
+      "date": "2026-06-28",
+      "time": "11:12",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · T1 vs Team Liquid",
+      "description_en": "2026 · T1 vs Team Liquid",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "t1",
+          "code": "T1",
+          "name": "T1",
+          "name_en": "T1",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
+        },
+        "home": {
+          "id": "liquid",
+          "code": "TL",
+          "name": "Team Liquid",
+          "name_en": "Team Liquid",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/390/ezgif_1497965c786bdb14.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Mid-Season Invitational",
+        "赛季": "2026",
+        "阶段": "Play-In",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Mid-Season Invitational",
+        "Series": "2026",
+        "Stage": "Play-In",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1524754",
+      "name": "入围赛 · Karmine Corp vs Deep Cross Gaming",
+      "name_en": "Play-In · Karmine Corp vs Deep Cross Gaming",
+      "date": "2026-06-28",
+      "time": "13:56",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Karmine Corp vs Deep Cross Gaming",
+      "description_en": "2026 · Karmine Corp vs Deep Cross Gaming",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "karmine-corp-academy",
+          "code": "KC",
+          "name": "Karmine Corp",
+          "name_en": "Karmine Corp",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
+        },
+        "home": {
+          "id": "deep-cross-gaming",
+          "code": "DCG",
+          "name": "Deep Cross Gaming",
+          "name_en": "Deep Cross Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/130356/800px_deep_cross_gaming_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Mid-Season Invitational",
+        "赛季": "2026",
+        "阶段": "Play-In",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Mid-Season Invitational",
+        "Series": "2026",
+        "Stage": "Play-In",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1524756",
+      "name": "入围赛 · T1 vs Karmine Corp",
+      "name_en": "Play-In · T1 vs Karmine Corp",
+      "date": "2026-06-29",
+      "time": "11:03",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · T1 vs Karmine Corp",
+      "description_en": "2026 · T1 vs Karmine Corp",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "t1",
+          "code": "T1",
+          "name": "T1",
+          "name_en": "T1",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
+        },
+        "home": {
+          "id": "karmine-corp-academy",
+          "code": "KC",
+          "name": "Karmine Corp",
+          "name_en": "Karmine Corp",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Mid-Season Invitational",
+        "赛季": "2026",
+        "阶段": "Play-In",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Mid-Season Invitational",
+        "Series": "2026",
+        "Stage": "Play-In",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1524758",
+      "name": "入围赛 · Deep Cross Gaming vs Team Liquid",
+      "name_en": "Play-In · Deep Cross Gaming vs Team Liquid",
+      "date": "2026-06-29",
+      "time": "13:42",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Deep Cross Gaming vs Team Liquid",
+      "description_en": "2026 · Deep Cross Gaming vs Team Liquid",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "deep-cross-gaming",
+          "code": "DCG",
+          "name": "Deep Cross Gaming",
+          "name_en": "Deep Cross Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/130356/800px_deep_cross_gaming_lightmode.png"
+        },
+        "home": {
+          "id": "liquid",
+          "code": "TL",
+          "name": "Team Liquid",
+          "name_en": "Team Liquid",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/390/ezgif_1497965c786bdb14.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 3,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Mid-Season Invitational",
+        "赛季": "2026",
+        "阶段": "Play-In",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Mid-Season Invitational",
+        "Series": "2026",
+        "Stage": "Play-In",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1524759",
+      "name": "入围赛 · Karmine Corp vs Team Liquid",
+      "name_en": "Play-In · Karmine Corp vs Team Liquid",
+      "date": "2026-06-30",
+      "time": "16:03",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Karmine Corp vs Team Liquid",
+      "description_en": "2026 · Karmine Corp vs Team Liquid",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "karmine-corp-academy",
+          "code": "KC",
+          "name": "Karmine Corp",
+          "name_en": "Karmine Corp",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
+        },
+        "home": {
+          "id": "liquid",
+          "code": "TL",
+          "name": "Team Liquid",
+          "name_en": "Team Liquid",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/390/ezgif_1497965c786bdb14.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 3,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Mid-Season Invitational",
+        "赛季": "2026",
+        "阶段": "Play-In",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Mid-Season Invitational",
+        "Series": "2026",
+        "Stage": "Play-In",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1524757",
+      "name": "入围赛 · T1 vs Team Liquid",
+      "name_en": "Play-In · T1 vs Team Liquid",
+      "date": "2026-07-01",
+      "time": "16:03",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · T1 vs Team Liquid",
+      "description_en": "2026 · T1 vs Team Liquid",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "t1",
+          "code": "T1",
+          "name": "T1",
+          "name_en": "T1",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
+        },
+        "home": {
+          "id": "liquid",
+          "code": "TL",
+          "name": "Team Liquid",
+          "name_en": "Team Liquid",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/390/ezgif_1497965c786bdb14.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Mid-Season Invitational",
+        "赛季": "2026",
+        "阶段": "Play-In",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Mid-Season Invitational",
+        "Series": "2026",
+        "Stage": "Play-In",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1524760",
+      "name": "季后赛 · Hanwha Life Esports vs Team Secret Whales",
+      "name_en": "Playoffs · Hanwha Life Esports vs Team Secret Whales",
+      "date": "2026-07-03",
+      "time": "11:07",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Hanwha Life Esports vs Team Secret Whales",
+      "description_en": "2026 · Hanwha Life Esports vs Team Secret Whales",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "hanwha-life-esports",
+          "code": "HLE",
+          "name": "Hanwha Life Esports",
+          "name_en": "Hanwha Life Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
+        },
+        "home": {
+          "id": "team-secret-whales",
+          "code": "TSW",
+          "name": "Team Secret Whales",
+          "name_en": "Team Secret Whales",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/136073/1200px_secret_whales_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Mid-Season Invitational",
+        "赛季": "2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Mid-Season Invitational",
+        "Series": "2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1524763",
+      "name": "季后赛 · G2 Esports vs Top Esports",
+      "name_en": "Playoffs · G2 Esports vs Top Esports",
+      "date": "2026-07-03",
+      "time": "13:44",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · G2 Esports vs Top Esports",
+      "description_en": "2026 · G2 Esports vs Top Esports",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "g2-esports",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
+        },
+        "home": {
+          "id": "top-esports",
+          "code": "TES",
+          "name": "Top Esports",
+          "name_en": "Top Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 2,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Mid-Season Invitational",
+        "赛季": "2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Mid-Season Invitational",
+        "Series": "2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1524762",
+      "name": "季后赛 · LYON vs FURIA Esports",
+      "name_en": "Playoffs · LYON vs FURIA Esports",
+      "date": "2026-07-04",
+      "time": "11:09",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · LYON vs FURIA Esports",
+      "description_en": "2026 · LYON vs FURIA Esports",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "lyon",
+          "code": "LY",
+          "name": "LYON",
+          "name_en": "LYON",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/136066/lyon__25282024_american_team_2529logo_square.png"
+        },
+        "home": {
+          "id": "furia-uppercut",
+          "code": "FUR",
+          "name": "FURIA Esports",
+          "name_en": "FURIA Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126688/220px_furia_uppercutlogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Mid-Season Invitational",
+        "赛季": "2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Mid-Season Invitational",
+        "Series": "2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1524761",
+      "name": "季后赛 · Bilibili Gaming vs T1",
+      "name_en": "Playoffs · Bilibili Gaming vs T1",
+      "date": "2026-07-04",
+      "time": "14:08",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Bilibili Gaming vs T1",
+      "description_en": "2026 · Bilibili Gaming vs T1",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "bilibili-gaming",
+          "code": "BLG",
+          "name": "Bilibili Gaming",
+          "name_en": "Bilibili Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+        },
+        "home": {
+          "id": "t1",
+          "code": "T1",
+          "name": "T1",
+          "name_en": "T1",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 2,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Mid-Season Invitational",
+        "赛季": "2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Mid-Season Invitational",
+        "Series": "2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1541774",
+      "name": "季后赛 · Team Secret Whales vs Top Esports",
+      "name_en": "Playoffs · Team Secret Whales vs Top Esports",
+      "date": "2026-07-05",
+      "time": "11:05",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Team Secret Whales vs Top Esports",
+      "description_en": "2026 · Team Secret Whales vs Top Esports",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "team-secret-whales",
+          "code": "TSW",
+          "name": "Team Secret Whales",
+          "name_en": "Team Secret Whales",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/136073/1200px_secret_whales_lightmode.png"
+        },
+        "home": {
+          "id": "top-esports",
+          "code": "TES",
+          "name": "Top Esports",
+          "name_en": "Top Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Mid-Season Invitational",
+        "赛季": "2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Mid-Season Invitational",
+        "Series": "2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1541770",
+      "name": "季后赛 · Hanwha Life Esports vs G2 Esports",
+      "name_en": "Playoffs · Hanwha Life Esports vs G2 Esports",
+      "date": "2026-07-05",
+      "time": "14:45",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Hanwha Life Esports vs G2 Esports",
+      "description_en": "2026 · Hanwha Life Esports vs G2 Esports",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "hanwha-life-esports",
+          "code": "HLE",
+          "name": "Hanwha Life Esports",
+          "name_en": "Hanwha Life Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
+        },
+        "home": {
+          "id": "g2-esports",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Mid-Season Invitational",
+        "赛季": "2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Mid-Season Invitational",
+        "Series": "2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1541771",
+      "name": "季后赛 · Bilibili Gaming vs LYON",
+      "name_en": "Playoffs · Bilibili Gaming vs LYON",
+      "date": "2026-07-06",
+      "time": "11:05",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Bilibili Gaming vs LYON",
+      "description_en": "2026 · Bilibili Gaming vs LYON",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "bilibili-gaming",
+          "code": "BLG",
+          "name": "Bilibili Gaming",
+          "name_en": "Bilibili Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+        },
+        "home": {
+          "id": "lyon",
+          "code": "LY",
+          "name": "LYON",
+          "name_en": "LYON",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/136066/lyon__25282024_american_team_2529logo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Mid-Season Invitational",
+        "赛季": "2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Mid-Season Invitational",
+        "Series": "2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1541775",
+      "name": "季后赛 · T1 vs FURIA Esports",
+      "name_en": "Playoffs · T1 vs FURIA Esports",
+      "date": "2026-07-06",
+      "time": "13:53",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · T1 vs FURIA Esports",
+      "description_en": "2026 · T1 vs FURIA Esports",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "t1",
+          "code": "T1",
+          "name": "T1",
+          "name_en": "T1",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
+        },
+        "home": {
+          "id": "furia-uppercut",
+          "code": "FUR",
+          "name": "FURIA Esports",
+          "name_en": "FURIA Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126688/220px_furia_uppercutlogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Mid-Season Invitational",
+        "赛季": "2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Mid-Season Invitational",
+        "Series": "2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1541776",
+      "name": "季后赛 · LYON vs Team Secret Whales",
+      "name_en": "Playoffs · LYON vs Team Secret Whales",
+      "date": "2026-07-08",
+      "time": "11:07",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · LYON vs Team Secret Whales",
+      "description_en": "2026 · LYON vs Team Secret Whales",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "lyon",
+          "code": "LY",
+          "name": "LYON",
+          "name_en": "LYON",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/136066/lyon__25282024_american_team_2529logo_square.png"
+        },
+        "home": {
+          "id": "team-secret-whales",
+          "code": "TSW",
+          "name": "Team Secret Whales",
+          "name_en": "Team Secret Whales",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/136073/1200px_secret_whales_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Mid-Season Invitational",
+        "赛季": "2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Mid-Season Invitational",
+        "Series": "2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1541777",
+      "name": "季后赛 · G2 Esports vs T1",
+      "name_en": "Playoffs · G2 Esports vs T1",
+      "date": "2026-07-08",
+      "time": "13:46",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · G2 Esports vs T1",
+      "description_en": "2026 · G2 Esports vs T1",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "g2-esports",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
+        },
+        "home": {
+          "id": "t1",
+          "code": "T1",
+          "name": "T1",
+          "name_en": "T1",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Mid-Season Invitational",
+        "赛季": "2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Mid-Season Invitational",
+        "Series": "2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1541772",
+      "name": "季后赛 · Bilibili Gaming vs Hanwha Life Esports",
+      "name_en": "Playoffs · Bilibili Gaming vs Hanwha Life Esports",
+      "date": "2026-07-09",
+      "time": "16:06",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Bilibili Gaming vs Hanwha Life Esports",
+      "description_en": "2026 · Bilibili Gaming vs Hanwha Life Esports",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "bilibili-gaming",
+          "code": "BLG",
+          "name": "Bilibili Gaming",
+          "name_en": "Bilibili Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+        },
+        "home": {
+          "id": "hanwha-life-esports",
+          "code": "HLE",
+          "name": "Hanwha Life Esports",
+          "name_en": "Hanwha Life Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Mid-Season Invitational",
+        "赛季": "2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Mid-Season Invitational",
+        "Series": "2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1541778",
+      "name": "季后赛 · G2 Esports vs LYON",
+      "name_en": "Playoffs · G2 Esports vs LYON",
+      "date": "2026-07-10",
+      "time": "16:05",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · G2 Esports vs LYON",
+      "description_en": "2026 · G2 Esports vs LYON",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "g2-esports",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
+        },
+        "home": {
+          "id": "lyon",
+          "code": "LY",
+          "name": "LYON",
+          "name_en": "LYON",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/136066/lyon__25282024_american_team_2529logo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 3,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Mid-Season Invitational",
+        "赛季": "2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Mid-Season Invitational",
+        "Series": "2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1541779",
+      "name": "季后赛 · Hanwha Life Esports vs LYON",
+      "name_en": "Playoffs · Hanwha Life Esports vs LYON",
+      "date": "2026-07-11",
+      "time": "16:08",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Hanwha Life Esports vs LYON",
+      "description_en": "2026 · Hanwha Life Esports vs LYON",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "hanwha-life-esports",
+          "code": "HLE",
+          "name": "Hanwha Life Esports",
+          "name_en": "Hanwha Life Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
+        },
+        "home": {
+          "id": "lyon",
+          "code": "LY",
+          "name": "LYON",
+          "name_en": "LYON",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/136066/lyon__25282024_american_team_2529logo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 2,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Mid-Season Invitational",
+        "赛季": "2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Mid-Season Invitational",
+        "Series": "2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1541773",
+      "name": "季后赛 · Bilibili Gaming vs Hanwha Life Esports",
+      "name_en": "Playoffs · Bilibili Gaming vs Hanwha Life Esports",
+      "date": "2026-07-12",
+      "time": "15:32",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Bilibili Gaming vs Hanwha Life Esports",
+      "description_en": "2026 · Bilibili Gaming vs Hanwha Life Esports",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "bilibili-gaming",
+          "code": "BLG",
+          "name": "Bilibili Gaming",
+          "name_en": "Bilibili Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+        },
+        "home": {
+          "id": "hanwha-life-esports",
+          "code": "HLE",
+          "name": "Hanwha Life Esports",
+          "name_en": "Hanwha Life Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 3,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Mid-Season Invitational",
+        "赛季": "2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Mid-Season Invitational",
+        "Series": "2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710927",
+      "name": "入围赛 · Cloud9 vs Karmine Corp",
+      "name_en": "Play-In · Cloud9 vs Karmine Corp",
+      "date": "2026-10-16",
+      "time": "02:20",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Cloud9 vs Karmine Corp",
+      "description_en": "2026 · Cloud9 vs Karmine Corp",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "cloud9",
+          "code": "C9",
+          "name": "Cloud9",
+          "name_en": "Cloud9",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/1097/cloud9-gnd9b0gn.png"
+        },
+        "home": {
+          "id": "karmine-corp-academy",
+          "code": "KC",
+          "name": "Karmine Corp",
+          "name_en": "Karmine Corp",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 3,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Play-In",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Play-In",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710926",
+      "name": "入围赛 · FURIA Esports vs MVK Esports",
+      "name_en": "Play-In · FURIA Esports vs MVK Esports",
+      "date": "2026-10-16",
+      "time": "07:06",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · FURIA Esports vs MVK Esports",
+      "description_en": "2026 · FURIA Esports vs MVK Esports",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "furia-uppercut",
+          "code": "FUR",
+          "name": "FURIA Esports",
+          "name_en": "FURIA Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126688/220px_furia_uppercutlogo_square.png"
+        },
+        "home": {
+          "id": "mvk-esports",
+          "code": "MVK",
+          "name": "MVK Esports",
+          "name_en": "MVK Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/137803/mvk_esportslogo_profile.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 3,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Play-In",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Play-In",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710930",
+      "name": "入围赛 · MVK Esports vs Karmine Corp",
+      "name_en": "Play-In · MVK Esports vs Karmine Corp",
+      "date": "2026-10-17",
+      "time": "02:06",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · MVK Esports vs Karmine Corp",
+      "description_en": "2026 · MVK Esports vs Karmine Corp",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "mvk-esports",
+          "code": "MVK",
+          "name": "MVK Esports",
+          "name_en": "MVK Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/137803/mvk_esportslogo_profile.png"
+        },
+        "home": {
+          "id": "karmine-corp-academy",
+          "code": "KC",
+          "name": "Karmine Corp",
+          "name_en": "Karmine Corp",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 3,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Play-In",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Play-In",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710928",
+      "name": "入围赛 · FURIA Esports vs Cloud9",
+      "name_en": "Play-In · FURIA Esports vs Cloud9",
+      "date": "2026-10-17",
+      "time": "04:50",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · FURIA Esports vs Cloud9",
+      "description_en": "2026 · FURIA Esports vs Cloud9",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "furia-uppercut",
+          "code": "FUR",
+          "name": "FURIA Esports",
+          "name_en": "FURIA Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126688/220px_furia_uppercutlogo_square.png"
+        },
+        "home": {
+          "id": "cloud9",
+          "code": "C9",
+          "name": "Cloud9",
+          "name_en": "Cloud9",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/1097/cloud9-gnd9b0gn.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Play-In",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Play-In",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710929",
+      "name": "入围赛 · MVK Esports vs FURIA Esports",
+      "name_en": "Play-In · MVK Esports vs FURIA Esports",
+      "date": "2026-10-18",
+      "time": "02:06",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · MVK Esports vs FURIA Esports",
+      "description_en": "2026 · MVK Esports vs FURIA Esports",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "mvk-esports",
+          "code": "MVK",
+          "name": "MVK Esports",
+          "name_en": "MVK Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/137803/mvk_esportslogo_profile.png"
+        },
+        "home": {
+          "id": "furia-uppercut",
+          "code": "FUR",
+          "name": "FURIA Esports",
+          "name_en": "FURIA Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126688/220px_furia_uppercutlogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Play-In",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Play-In",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710931",
+      "name": "入围赛 · Karmine Corp vs MVK Esports",
+      "name_en": "Play-In · Karmine Corp vs MVK Esports",
+      "date": "2026-10-19",
+      "time": "02:07",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Karmine Corp vs MVK Esports",
+      "description_en": "2026 · Karmine Corp vs MVK Esports",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "karmine-corp-academy",
+          "code": "KC",
+          "name": "Karmine Corp",
+          "name_en": "Karmine Corp",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
+        },
+        "home": {
+          "id": "mvk-esports",
+          "code": "MVK",
+          "name": "MVK Esports",
+          "name_en": "MVK Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/137803/mvk_esportslogo_profile.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Play-In",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Play-In",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710932",
+      "name": "Group Stage · Gen.G vs Invictus Gaming",
+      "name_en": "Group Stage · Gen.G vs Invictus Gaming",
+      "date": "2026-10-24",
+      "time": "01:07",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Gen.G vs Invictus Gaming",
+      "description_en": "2026 · Gen.G vs Invictus Gaming",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "geng",
+          "code": "GEN",
+          "name": "Gen.G",
+          "name_en": "Gen.G",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
+        },
+        "home": {
+          "id": "invictus-gaming",
+          "code": "IG",
+          "name": "Invictus Gaming",
+          "name_en": "Invictus Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO1",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO1",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710936",
+      "name": "Group Stage · Hanwha Life Esports vs Top Esports",
+      "name_en": "Group Stage · Hanwha Life Esports vs Top Esports",
+      "date": "2026-10-24",
+      "time": "02:17",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Hanwha Life Esports vs Top Esports",
+      "description_en": "2026 · Hanwha Life Esports vs Top Esports",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "hanwha-life-esports",
+          "code": "HLE",
+          "name": "Hanwha Life Esports",
+          "name_en": "Hanwha Life Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
+        },
+        "home": {
+          "id": "top-esports",
+          "code": "TES",
+          "name": "Top Esports",
+          "name_en": "Top Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO1",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO1",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710939",
+      "name": "Group Stage · Bilibili Gaming vs Movistar KOI",
+      "name_en": "Group Stage · Bilibili Gaming vs Movistar KOI",
+      "date": "2026-10-24",
+      "time": "03:07",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Bilibili Gaming vs Movistar KOI",
+      "description_en": "2026 · Bilibili Gaming vs Movistar KOI",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "bilibili-gaming",
+          "code": "BLG",
+          "name": "Bilibili Gaming",
+          "name_en": "Bilibili Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+        },
+        "home": {
+          "id": "mad-lions-league-of-legends",
+          "code": "MKOI",
+          "name": "Movistar KOI",
+          "name_en": "Movistar KOI",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 1,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO1",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO1",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710934",
+      "name": "Group Stage · Anyone's Legend vs Karmine Corp",
+      "name_en": "Group Stage · Anyone's Legend vs Karmine Corp",
+      "date": "2026-10-24",
+      "time": "04:11",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Anyone's Legend vs Karmine Corp",
+      "description_en": "2026 · Anyone's Legend vs Karmine Corp",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "anyone-s-legend",
+          "code": "AL",
+          "name": "Anyone's Legend",
+          "name_en": "Anyone's Legend",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
+        },
+        "home": {
+          "id": "karmine-corp-academy",
+          "code": "KC",
+          "name": "Karmine Corp",
+          "name_en": "Karmine Corp",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 1,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO1",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO1",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710935",
+      "name": "Group Stage · G2 Esports vs Dplus KIA",
+      "name_en": "Group Stage · G2 Esports vs Dplus KIA",
+      "date": "2026-10-24",
+      "time": "05:10",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · G2 Esports vs Dplus KIA",
+      "description_en": "2026 · G2 Esports vs Dplus KIA",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "g2-esports",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
+        },
+        "home": {
+          "id": "dplus-kia",
+          "code": "DK",
+          "name": "Dplus KIA",
+          "name_en": "Dplus KIA",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 1,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO1",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO1",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710933",
+      "name": "Group Stage · Team Liquid vs CTBC Flying Oyster",
+      "name_en": "Group Stage · Team Liquid vs CTBC Flying Oyster",
+      "date": "2026-10-24",
+      "time": "06:10",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Team Liquid vs CTBC Flying Oyster",
+      "description_en": "2026 · Team Liquid vs CTBC Flying Oyster",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "liquid",
+          "code": "TL",
+          "name": "Team Liquid",
+          "name_en": "Team Liquid",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/390/ezgif_1497965c786bdb14.png"
+        },
+        "home": {
+          "id": "ctbc-flying-oyster",
+          "code": "CFO",
+          "name": "CTBC Flying Oyster",
+          "name_en": "CTBC Flying Oyster",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/130355/ctbc_flying_oysterlogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 1,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO1",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO1",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710937",
+      "name": "Group Stage · LOS vs T1",
+      "name_en": "Group Stage · LOS vs T1",
+      "date": "2026-10-24",
+      "time": "07:15",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · LOS vs T1",
+      "description_en": "2026 · LOS vs T1",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "los",
+          "code": "LOS",
+          "name": "LOS",
+          "name_en": "LOS",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/133796/1199px_los_full_allmode.png"
+        },
+        "home": {
+          "id": "t1",
+          "code": "T1",
+          "name": "T1",
+          "name_en": "T1",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 1,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO1",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO1",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710938",
+      "name": "Group Stage · Team Secret Whales vs LYON",
+      "name_en": "Group Stage · Team Secret Whales vs LYON",
+      "date": "2026-10-24",
+      "time": "08:07",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Team Secret Whales vs LYON",
+      "description_en": "2026 · Team Secret Whales vs LYON",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "team-secret-whales",
+          "code": "TSW",
+          "name": "Team Secret Whales",
+          "name_en": "Team Secret Whales",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/136073/1200px_secret_whales_lightmode.png"
+        },
+        "home": {
+          "id": "lyon",
+          "code": "LY",
+          "name": "LYON",
+          "name_en": "LYON",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/136066/lyon__25282024_american_team_2529logo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 1,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO1",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO1",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710946",
+      "name": "Group Stage · Top Esports vs Anyone's Legend",
+      "name_en": "Group Stage · Top Esports vs Anyone's Legend",
+      "date": "2026-10-25",
+      "time": "01:05",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Top Esports vs Anyone's Legend",
+      "description_en": "2026 · Top Esports vs Anyone's Legend",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "top-esports",
+          "code": "TES",
+          "name": "Top Esports",
+          "name_en": "Top Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
+        },
+        "home": {
+          "id": "anyone-s-legend",
+          "code": "AL",
+          "name": "Anyone's Legend",
+          "name_en": "Anyone's Legend",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO1",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO1",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710941",
+      "name": "Group Stage · CTBC Flying Oyster vs Movistar KOI",
+      "name_en": "Group Stage · CTBC Flying Oyster vs Movistar KOI",
+      "date": "2026-10-25",
+      "time": "02:01",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · CTBC Flying Oyster vs Movistar KOI",
+      "description_en": "2026 · CTBC Flying Oyster vs Movistar KOI",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "ctbc-flying-oyster",
+          "code": "CFO",
+          "name": "CTBC Flying Oyster",
+          "name_en": "CTBC Flying Oyster",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/130355/ctbc_flying_oysterlogo_square.png"
+        },
+        "home": {
+          "id": "mad-lions-league-of-legends",
+          "code": "MKOI",
+          "name": "Movistar KOI",
+          "name_en": "Movistar KOI",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 1,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO1",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO1",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710944",
+      "name": "Group Stage · G2 Esports vs LOS",
+      "name_en": "Group Stage · G2 Esports vs LOS",
+      "date": "2026-10-25",
+      "time": "03:01",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · G2 Esports vs LOS",
+      "description_en": "2026 · G2 Esports vs LOS",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "g2-esports",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
+        },
+        "home": {
+          "id": "los",
+          "code": "LOS",
+          "name": "LOS",
+          "name_en": "LOS",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/133796/1199px_los_full_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO1",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO1",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710943",
+      "name": "Group Stage · LYON vs Karmine Corp",
+      "name_en": "Group Stage · LYON vs Karmine Corp",
+      "date": "2026-10-25",
+      "time": "04:07",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · LYON vs Karmine Corp",
+      "description_en": "2026 · LYON vs Karmine Corp",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "lyon",
+          "code": "LY",
+          "name": "LYON",
+          "name_en": "LYON",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/136066/lyon__25282024_american_team_2529logo_square.png"
+        },
+        "home": {
+          "id": "karmine-corp-academy",
+          "code": "KC",
+          "name": "Karmine Corp",
+          "name_en": "Karmine Corp",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO1",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO1",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710945",
+      "name": "Group Stage · Invictus Gaming vs Team Secret Whales",
+      "name_en": "Group Stage · Invictus Gaming vs Team Secret Whales",
+      "date": "2026-10-25",
+      "time": "05:11",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Invictus Gaming vs Team Secret Whales",
+      "description_en": "2026 · Invictus Gaming vs Team Secret Whales",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "invictus-gaming",
+          "code": "IG",
+          "name": "Invictus Gaming",
+          "name_en": "Invictus Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
+        },
+        "home": {
+          "id": "team-secret-whales",
+          "code": "TSW",
+          "name": "Team Secret Whales",
+          "name_en": "Team Secret Whales",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/136073/1200px_secret_whales_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO1",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO1",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710942",
+      "name": "Group Stage · Hanwha Life Esports vs Gen.G",
+      "name_en": "Group Stage · Hanwha Life Esports vs Gen.G",
+      "date": "2026-10-25",
+      "time": "06:10",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Hanwha Life Esports vs Gen.G",
+      "description_en": "2026 · Hanwha Life Esports vs Gen.G",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "hanwha-life-esports",
+          "code": "HLE",
+          "name": "Hanwha Life Esports",
+          "name_en": "Hanwha Life Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
+        },
+        "home": {
+          "id": "geng",
+          "code": "GEN",
+          "name": "Gen.G",
+          "name_en": "Gen.G",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 1,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO1",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO1",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710940",
+      "name": "Group Stage · Dplus KIA vs T1",
+      "name_en": "Group Stage · Dplus KIA vs T1",
+      "date": "2026-10-25",
+      "time": "07:14",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Dplus KIA vs T1",
+      "description_en": "2026 · Dplus KIA vs T1",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "dplus-kia",
+          "code": "DK",
+          "name": "Dplus KIA",
+          "name_en": "Dplus KIA",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
+        },
+        "home": {
+          "id": "t1",
+          "code": "T1",
+          "name": "T1",
+          "name_en": "T1",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO1",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO1",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710947",
+      "name": "Group Stage · Team Liquid vs Bilibili Gaming",
+      "name_en": "Group Stage · Team Liquid vs Bilibili Gaming",
+      "date": "2026-10-25",
+      "time": "08:21",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Team Liquid vs Bilibili Gaming",
+      "description_en": "2026 · Team Liquid vs Bilibili Gaming",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "liquid",
+          "code": "TL",
+          "name": "Team Liquid",
+          "name_en": "Team Liquid",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/390/ezgif_1497965c786bdb14.png"
+        },
+        "home": {
+          "id": "bilibili-gaming",
+          "code": "BLG",
+          "name": "Bilibili Gaming",
+          "name_en": "Bilibili Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 1,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO1",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO1",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710954",
+      "name": "Group Stage · Hanwha Life Esports vs Invictus Gaming",
+      "name_en": "Group Stage · Hanwha Life Esports vs Invictus Gaming",
+      "date": "2026-10-26",
+      "time": "01:05",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Hanwha Life Esports vs Invictus Gaming",
+      "description_en": "2026 · Hanwha Life Esports vs Invictus Gaming",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "hanwha-life-esports",
+          "code": "HLE",
+          "name": "Hanwha Life Esports",
+          "name_en": "Hanwha Life Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
+        },
+        "home": {
+          "id": "invictus-gaming",
+          "code": "IG",
+          "name": "Invictus Gaming",
+          "name_en": "Invictus Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 1,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO1",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO1",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710953",
+      "name": "Group Stage · Top Esports vs G2 Esports",
+      "name_en": "Group Stage · Top Esports vs G2 Esports",
+      "date": "2026-10-26",
+      "time": "02:06",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Top Esports vs G2 Esports",
+      "description_en": "2026 · Top Esports vs G2 Esports",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "top-esports",
+          "code": "TES",
+          "name": "Top Esports",
+          "name_en": "Top Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
+        },
+        "home": {
+          "id": "g2-esports",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO1",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO1",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710956",
+      "name": "Group Stage · Dplus KIA vs Movistar KOI",
+      "name_en": "Group Stage · Dplus KIA vs Movistar KOI",
+      "date": "2026-10-26",
+      "time": "03:06",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Dplus KIA vs Movistar KOI",
+      "description_en": "2026 · Dplus KIA vs Movistar KOI",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "dplus-kia",
+          "code": "DK",
+          "name": "Dplus KIA",
+          "name_en": "Dplus KIA",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
+        },
+        "home": {
+          "id": "mad-lions-league-of-legends",
+          "code": "MKOI",
+          "name": "Movistar KOI",
+          "name_en": "Movistar KOI",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710955",
+      "name": "Group Stage · Gen.G vs LYON",
+      "name_en": "Group Stage · Gen.G vs LYON",
+      "date": "2026-10-26",
+      "time": "04:53",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Gen.G vs LYON",
+      "description_en": "2026 · Gen.G vs LYON",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "geng",
+          "code": "GEN",
+          "name": "Gen.G",
+          "name_en": "Gen.G",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
+        },
+        "home": {
+          "id": "lyon",
+          "code": "LY",
+          "name": "LYON",
+          "name_en": "LYON",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/136066/lyon__25282024_american_team_2529logo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710998",
+      "name": "Group Stage · T1 vs CTBC Flying Oyster",
+      "name_en": "Group Stage · T1 vs CTBC Flying Oyster",
+      "date": "2026-10-27",
+      "time": "01:06",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · T1 vs CTBC Flying Oyster",
+      "description_en": "2026 · T1 vs CTBC Flying Oyster",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "t1",
+          "code": "T1",
+          "name": "T1",
+          "name_en": "T1",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
+        },
+        "home": {
+          "id": "ctbc-flying-oyster",
+          "code": "CFO",
+          "name": "CTBC Flying Oyster",
+          "name_en": "CTBC Flying Oyster",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/130355/ctbc_flying_oysterlogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO1",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO1",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710997",
+      "name": "Group Stage · Karmine Corp vs Bilibili Gaming",
+      "name_en": "Group Stage · Karmine Corp vs Bilibili Gaming",
+      "date": "2026-10-27",
+      "time": "01:57",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Karmine Corp vs Bilibili Gaming",
+      "description_en": "2026 · Karmine Corp vs Bilibili Gaming",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "karmine-corp-academy",
+          "code": "KC",
+          "name": "Karmine Corp",
+          "name_en": "Karmine Corp",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
+        },
+        "home": {
+          "id": "bilibili-gaming",
+          "code": "BLG",
+          "name": "Bilibili Gaming",
+          "name_en": "Bilibili Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 1,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO1",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO1",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1710999",
+      "name": "Group Stage · LOS vs Team Secret Whales",
+      "name_en": "Group Stage · LOS vs Team Secret Whales",
+      "date": "2026-10-27",
+      "time": "02:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · LOS vs Team Secret Whales",
+      "description_en": "2026 · LOS vs Team Secret Whales",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "los",
+          "code": "LOS",
+          "name": "LOS",
+          "name_en": "LOS",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/133796/1199px_los_full_allmode.png"
+        },
+        "home": {
+          "id": "team-secret-whales",
+          "code": "TSW",
+          "name": "Team Secret Whales",
+          "name_en": "Team Secret Whales",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/136073/1200px_secret_whales_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1711000",
+      "name": "Group Stage · Team Liquid vs Anyone's Legend",
+      "name_en": "Group Stage · Team Liquid vs Anyone's Legend",
+      "date": "2026-10-27",
+      "time": "04:58",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Team Liquid vs Anyone's Legend",
+      "description_en": "2026 · Team Liquid vs Anyone's Legend",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "liquid",
+          "code": "TL",
+          "name": "Team Liquid",
+          "name_en": "Team Liquid",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/390/ezgif_1497965c786bdb14.png"
+        },
+        "home": {
+          "id": "anyone-s-legend",
+          "code": "AL",
+          "name": "Anyone's Legend",
+          "name_en": "Anyone's Legend",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/129971/1083px_anyone_s_legend_full_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1711003",
+      "name": "Group Stage · Movistar KOI vs T1",
+      "name_en": "Group Stage · Movistar KOI vs T1",
+      "date": "2026-10-29",
+      "time": "04:06",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Movistar KOI vs T1",
+      "description_en": "2026 · Movistar KOI vs T1",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "mad-lions-league-of-legends",
+          "code": "MKOI",
+          "name": "Movistar KOI",
+          "name_en": "Movistar KOI",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
+        },
+        "home": {
+          "id": "t1",
+          "code": "T1",
+          "name": "T1",
+          "name_en": "T1",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1711002",
+      "name": "Group Stage · Invictus Gaming vs LYON",
+      "name_en": "Group Stage · Invictus Gaming vs LYON",
+      "date": "2026-10-29",
+      "time": "05:56",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Invictus Gaming vs LYON",
+      "description_en": "2026 · Invictus Gaming vs LYON",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "invictus-gaming",
+          "code": "IG",
+          "name": "Invictus Gaming",
+          "name_en": "Invictus Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
+        },
+        "home": {
+          "id": "lyon",
+          "code": "LY",
+          "name": "LYON",
+          "name_en": "LYON",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/136066/lyon__25282024_american_team_2529logo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1711004",
+      "name": "Group Stage · Karmine Corp vs CTBC Flying Oyster",
+      "name_en": "Group Stage · Karmine Corp vs CTBC Flying Oyster",
+      "date": "2026-10-30",
+      "time": "04:05",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Karmine Corp vs CTBC Flying Oyster",
+      "description_en": "2026 · Karmine Corp vs CTBC Flying Oyster",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "karmine-corp-academy",
+          "code": "KC",
+          "name": "Karmine Corp",
+          "name_en": "Karmine Corp",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
+        },
+        "home": {
+          "id": "ctbc-flying-oyster",
+          "code": "CFO",
+          "name": "CTBC Flying Oyster",
+          "name_en": "CTBC Flying Oyster",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/130355/ctbc_flying_oysterlogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1711001",
+      "name": "Group Stage · Top Esports vs Bilibili Gaming",
+      "name_en": "Group Stage · Top Esports vs Bilibili Gaming",
+      "date": "2026-10-30",
+      "time": "06:32",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Top Esports vs Bilibili Gaming",
+      "description_en": "2026 · Top Esports vs Bilibili Gaming",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "top-esports",
+          "code": "TES",
+          "name": "Top Esports",
+          "name_en": "Top Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
+        },
+        "home": {
+          "id": "bilibili-gaming",
+          "code": "BLG",
+          "name": "Bilibili Gaming",
+          "name_en": "Bilibili Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1711005",
+      "name": "Group Stage · Team Liquid vs LOS",
+      "name_en": "Group Stage · Team Liquid vs LOS",
+      "date": "2026-10-31",
+      "time": "04:13",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Team Liquid vs LOS",
+      "description_en": "2026 · Team Liquid vs LOS",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "liquid",
+          "code": "TL",
+          "name": "Team Liquid",
+          "name_en": "Team Liquid",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/390/ezgif_1497965c786bdb14.png"
+        },
+        "home": {
+          "id": "los",
+          "code": "LOS",
+          "name": "LOS",
+          "name_en": "LOS",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/133796/1199px_los_full_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1711006",
+      "name": "Group Stage · Hanwha Life Esports vs G2 Esports",
+      "name_en": "Group Stage · Hanwha Life Esports vs G2 Esports",
+      "date": "2026-10-31",
+      "time": "07:16",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Hanwha Life Esports vs G2 Esports",
+      "description_en": "2026 · Hanwha Life Esports vs G2 Esports",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "hanwha-life-esports",
+          "code": "HLE",
+          "name": "Hanwha Life Esports",
+          "name_en": "Hanwha Life Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
+        },
+        "home": {
+          "id": "g2-esports",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/88/g2-esports.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1711009",
+      "name": "Group Stage · Karmine Corp vs Movistar KOI",
+      "name_en": "Group Stage · Karmine Corp vs Movistar KOI",
+      "date": "2026-11-01",
+      "time": "01:11",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Karmine Corp vs Movistar KOI",
+      "description_en": "2026 · Karmine Corp vs Movistar KOI",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "karmine-corp-academy",
+          "code": "KC",
+          "name": "Karmine Corp",
+          "name_en": "Karmine Corp",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
+        },
+        "home": {
+          "id": "mad-lions-league-of-legends",
+          "code": "MKOI",
+          "name": "Movistar KOI",
+          "name_en": "Movistar KOI",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126536/movistar_ko_ilogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1711008",
+      "name": "Group Stage · LOS vs LYON",
+      "name_en": "Group Stage · LOS vs LYON",
+      "date": "2026-11-01",
+      "time": "03:01",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · LOS vs LYON",
+      "description_en": "2026 · LOS vs LYON",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "los",
+          "code": "LOS",
+          "name": "LOS",
+          "name_en": "LOS",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/133796/1199px_los_full_allmode.png"
+        },
+        "home": {
+          "id": "lyon",
+          "code": "LY",
+          "name": "LYON",
+          "name_en": "LYON",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/136066/lyon__25282024_american_team_2529logo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1711010",
+      "name": "Group Stage · Hanwha Life Esports vs Bilibili Gaming",
+      "name_en": "Group Stage · Hanwha Life Esports vs Bilibili Gaming",
+      "date": "2026-11-01",
+      "time": "06:04",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Hanwha Life Esports vs Bilibili Gaming",
+      "description_en": "2026 · Hanwha Life Esports vs Bilibili Gaming",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "hanwha-life-esports",
+          "code": "HLE",
+          "name": "Hanwha Life Esports",
+          "name_en": "Hanwha Life Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/2883/hanwha-life-esports-1s04vbu0.png"
+        },
+        "home": {
+          "id": "bilibili-gaming",
+          "code": "BLG",
+          "name": "Bilibili Gaming",
+          "name_en": "Bilibili Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1711018",
+      "name": "季后赛 · Top Esports vs Invictus Gaming",
+      "name_en": "Playoffs · Top Esports vs Invictus Gaming",
+      "date": "2026-11-04",
+      "time": "06:09",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Top Esports vs Invictus Gaming",
+      "description_en": "2026 · Top Esports vs Invictus Gaming",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "top-esports",
+          "code": "TES",
+          "name": "Top Esports",
+          "name_en": "Top Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126059/top_esportslogo_square.png"
+        },
+        "home": {
+          "id": "invictus-gaming",
+          "code": "IG",
+          "name": "Invictus Gaming",
+          "name_en": "Invictus Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 3,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1711017",
+      "name": "季后赛 · Gen.G vs LYON",
+      "name_en": "Playoffs · Gen.G vs LYON",
+      "date": "2026-11-05",
+      "time": "06:15",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Gen.G vs LYON",
+      "description_en": "2026 · Gen.G vs LYON",
+      "url": "https://lolesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "geng",
+          "code": "GEN",
+          "name": "Gen.G",
+          "name_en": "Gen.G",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
+        },
+        "home": {
+          "id": "lyon",
+          "code": "LY",
+          "name": "LYON",
+          "name_en": "LYON",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/136066/lyon__25282024_american_team_2529logo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1711013",
+      "name": "季后赛 · Dplus KIA vs Bilibili Gaming",
+      "name_en": "Playoffs · Dplus KIA vs Bilibili Gaming",
+      "date": "2026-11-06",
+      "time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Dplus KIA vs Bilibili Gaming",
+      "description_en": "2026 · Dplus KIA vs Bilibili Gaming",
+      "url": "https://lolesports.com/",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "dplus-kia",
+          "code": "DK",
+          "name": "Dplus KIA",
+          "name_en": "Dplus KIA",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png"
+        },
+        "home": {
+          "id": "bilibili-gaming",
+          "code": "BLG",
+          "name": "Bilibili Gaming",
+          "name_en": "Bilibili Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/1566/qw_yi_qu_j.png"
+        }
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1711016",
+      "name": "季后赛 · Karmine Corp vs T1",
+      "name_en": "Playoffs · Karmine Corp vs T1",
+      "date": "2026-11-07",
+      "time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Karmine Corp vs T1",
+      "description_en": "2026 · Karmine Corp vs T1",
+      "url": "https://lolesports.com/",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "karmine-corp-academy",
+          "code": "KC",
+          "name": "Karmine Corp",
+          "name_en": "Karmine Corp",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png"
+        },
+        "home": {
+          "id": "t1",
+          "code": "T1",
+          "name": "T1",
+          "name_en": "T1",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126061/t_oscq04.png"
+        }
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "lol-international-2026-m1711020",
+      "name": "季后赛 · Invictus Gaming vs Gen.G",
+      "name_en": "Playoffs · Invictus Gaming vs Gen.G",
+      "date": "2026-11-08",
+      "time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "2026 · Invictus Gaming vs Gen.G",
+      "description_en": "2026 · Invictus Gaming vs Gen.G",
+      "url": "https://lolesports.com/",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "invictus-gaming",
+          "code": "IG",
+          "name": "Invictus Gaming",
+          "name_en": "Invictus Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/411/invictus_gaminglogo_square.png"
+        },
+        "home": {
+          "id": "geng",
+          "code": "GEN",
+          "name": "Gen.G",
+          "name_en": "Gen.G",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/2882/699px_gen.g_esports_2026_allmode.png"
+        }
+      },
+      "details": {
+        "赛事": "Worlds",
+        "赛季": "2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "Worlds",
+        "Series": "2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    }
+  ],
+  "last_updated": "2026-11-05"
 }
