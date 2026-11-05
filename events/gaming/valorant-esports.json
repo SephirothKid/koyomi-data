@@ -21,7 +21,4353 @@
   "attribution": "Match schedule and results provided by PandaScore.",
   "cycle_kind": "season",
   "season_basis": "calendar-year",
-  "hidden": true,
-  "disabled_reason": "等待首次可验证数据抓取。",
-  "events": []
+  "events": [
+    {
+      "id": "valorant-esports-2026-m1367374",
+      "name": "VCT · Group Stage · Gentle Mates vs EDward Gaming",
+      "name_en": "VCT · Group Stage · Gentle Mates vs EDward Gaming",
+      "date": "2026-03-01",
+      "time": "01:07",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters Santiago 2026 · Gentle Mates vs EDward Gaming",
+      "description_en": "VCT · Masters Santiago 2026 · Gentle Mates vs EDward Gaming",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "gentle-mates",
+          "code": "M8",
+          "name": "Gentle Mates",
+          "name_en": "Gentle Mates",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/133115/621px_gentle_mates_2024_lightmode.png"
+        },
+        "home": {
+          "id": "edward-gaming-valorant",
+          "code": "EDG",
+          "name": "EDward Gaming",
+          "name_en": "EDward Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters Santiago 2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters Santiago 2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1367377",
+      "name": "VCT · Group Stage · XLG Gaming vs NRG",
+      "name_en": "VCT · Group Stage · XLG Gaming vs NRG",
+      "date": "2026-03-01",
+      "time": "03:38",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters Santiago 2026 · XLG Gaming vs NRG",
+      "description_en": "VCT · Masters Santiago 2026 · XLG Gaming vs NRG",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "zy-gaming",
+          "code": "XLG",
+          "name": "XLG Gaming",
+          "name_en": "XLG Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
+        },
+        "home": {
+          "id": "nrg-valorant",
+          "code": "NRG",
+          "name": "NRG",
+          "name_en": "NRG",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128471/nrg_2020.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters Santiago 2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters Santiago 2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1367376",
+      "name": "VCT · Group Stage · G2 Esports vs Paper Rex",
+      "name_en": "VCT · Group Stage · G2 Esports vs Paper Rex",
+      "date": "2026-03-02",
+      "time": "01:07",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters Santiago 2026 · G2 Esports vs Paper Rex",
+      "description_en": "VCT · Masters Santiago 2026 · G2 Esports vs Paper Rex",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "g2-esports-valorant",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128538/900px_g2_esports_2019.png"
+        },
+        "home": {
+          "id": "paper-rex-valorant",
+          "code": "PR",
+          "name": "Paper Rex",
+          "name_en": "Paper Rex",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters Santiago 2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters Santiago 2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1367375",
+      "name": "VCT · Group Stage · T1 vs Team Liquid",
+      "name_en": "VCT · Group Stage · T1 vs Team Liquid",
+      "date": "2026-03-02",
+      "time": "03:11",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters Santiago 2026 · T1 vs Team Liquid",
+      "description_en": "VCT · Masters Santiago 2026 · T1 vs Team Liquid",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "t1-valorant",
+          "code": "T1",
+          "name": "T1",
+          "name_en": "T1",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
+        },
+        "home": {
+          "id": "team-liquid-valorant",
+          "code": "TL",
+          "name": "Team Liquid",
+          "name_en": "Team Liquid",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters Santiago 2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters Santiago 2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1381503",
+      "name": "VCT · Group Stage · Paper Rex vs NRG",
+      "name_en": "VCT · Group Stage · Paper Rex vs NRG",
+      "date": "2026-03-03",
+      "time": "02:06",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters Santiago 2026 · Paper Rex vs NRG",
+      "description_en": "VCT · Masters Santiago 2026 · Paper Rex vs NRG",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "paper-rex-valorant",
+          "code": "PR",
+          "name": "Paper Rex",
+          "name_en": "Paper Rex",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
+        },
+        "home": {
+          "id": "nrg-valorant",
+          "code": "NRG",
+          "name": "NRG",
+          "name_en": "NRG",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128471/nrg_2020.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters Santiago 2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters Santiago 2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1381504",
+      "name": "VCT · Group Stage · Team Liquid vs Gentle Mates",
+      "name_en": "VCT · Group Stage · Team Liquid vs Gentle Mates",
+      "date": "2026-03-03",
+      "time": "05:32",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters Santiago 2026 · Team Liquid vs Gentle Mates",
+      "description_en": "VCT · Masters Santiago 2026 · Team Liquid vs Gentle Mates",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "team-liquid-valorant",
+          "code": "TL",
+          "name": "Team Liquid",
+          "name_en": "Team Liquid",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
+        },
+        "home": {
+          "id": "gentle-mates",
+          "code": "M8",
+          "name": "Gentle Mates",
+          "name_en": "Gentle Mates",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/133115/621px_gentle_mates_2024_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters Santiago 2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters Santiago 2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1381505",
+      "name": "VCT · Group Stage · T1 vs EDward Gaming",
+      "name_en": "VCT · Group Stage · T1 vs EDward Gaming",
+      "date": "2026-03-04",
+      "time": "02:06",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters Santiago 2026 · T1 vs EDward Gaming",
+      "description_en": "VCT · Masters Santiago 2026 · T1 vs EDward Gaming",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "t1-valorant",
+          "code": "T1",
+          "name": "T1",
+          "name_en": "T1",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
+        },
+        "home": {
+          "id": "edward-gaming-valorant",
+          "code": "EDG",
+          "name": "EDward Gaming",
+          "name_en": "EDward Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters Santiago 2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters Santiago 2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1381506",
+      "name": "VCT · Group Stage · G2 Esports vs XLG Gaming",
+      "name_en": "VCT · Group Stage · G2 Esports vs XLG Gaming",
+      "date": "2026-03-04",
+      "time": "04:08",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters Santiago 2026 · G2 Esports vs XLG Gaming",
+      "description_en": "VCT · Masters Santiago 2026 · G2 Esports vs XLG Gaming",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "g2-esports-valorant",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128538/900px_g2_esports_2019.png"
+        },
+        "home": {
+          "id": "zy-gaming",
+          "code": "XLG",
+          "name": "XLG Gaming",
+          "name_en": "XLG Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters Santiago 2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters Santiago 2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1368478",
+      "name": "VCT · Group Stage · NRG vs Team Liquid",
+      "name_en": "VCT · Group Stage · NRG vs Team Liquid",
+      "date": "2026-03-05",
+      "time": "02:07",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters Santiago 2026 · NRG vs Team Liquid",
+      "description_en": "VCT · Masters Santiago 2026 · NRG vs Team Liquid",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "nrg-valorant",
+          "code": "NRG",
+          "name": "NRG",
+          "name_en": "NRG",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128471/nrg_2020.png"
+        },
+        "home": {
+          "id": "team-liquid-valorant",
+          "code": "TL",
+          "name": "Team Liquid",
+          "name_en": "Team Liquid",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters Santiago 2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters Santiago 2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1368479",
+      "name": "VCT · Group Stage · G2 Esports vs T1",
+      "name_en": "VCT · Group Stage · G2 Esports vs T1",
+      "date": "2026-03-05",
+      "time": "04:18",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters Santiago 2026 · G2 Esports vs T1",
+      "description_en": "VCT · Masters Santiago 2026 · G2 Esports vs T1",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "g2-esports-valorant",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128538/900px_g2_esports_2019.png"
+        },
+        "home": {
+          "id": "t1-valorant",
+          "code": "T1",
+          "name": "T1",
+          "name_en": "T1",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters Santiago 2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters Santiago 2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1368482",
+      "name": "VCT · 季后赛 · FURIA Esports vs Paper Rex",
+      "name_en": "VCT · Playoffs · FURIA Esports vs Paper Rex",
+      "date": "2026-03-07",
+      "time": "02:07",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters Santiago 2026 · FURIA Esports vs Paper Rex",
+      "description_en": "VCT · Masters Santiago 2026 · FURIA Esports vs Paper Rex",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "furia-esports-valorant",
+          "code": "FUR",
+          "name": "FURIA Esports",
+          "name_en": "FURIA Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128477/616px_furia_esports_allmode.png"
+        },
+        "home": {
+          "id": "paper-rex-valorant",
+          "code": "PR",
+          "name": "Paper Rex",
+          "name_en": "Paper Rex",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters Santiago 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters Santiago 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1368480",
+      "name": "VCT · 季后赛 · Nongshim RedForce vs Gentle Mates",
+      "name_en": "VCT · Playoffs · Nongshim RedForce vs Gentle Mates",
+      "date": "2026-03-07",
+      "time": "05:05",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters Santiago 2026 · Nongshim RedForce vs Gentle Mates",
+      "description_en": "VCT · Masters Santiago 2026 · Nongshim RedForce vs Gentle Mates",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "nongshim-redforce",
+          "code": "NS",
+          "name": "Nongshim RedForce",
+          "name_en": "Nongshim RedForce",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
+        },
+        "home": {
+          "id": "gentle-mates",
+          "code": "M8",
+          "name": "Gentle Mates",
+          "name_en": "Gentle Mates",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/133115/621px_gentle_mates_2024_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters Santiago 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters Santiago 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1368483",
+      "name": "VCT · 季后赛 · BBL Esports vs NRG",
+      "name_en": "VCT · Playoffs · BBL Esports vs NRG",
+      "date": "2026-03-08",
+      "time": "01:07",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters Santiago 2026 · BBL Esports vs NRG",
+      "description_en": "VCT · Masters Santiago 2026 · BBL Esports vs NRG",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "bbl-esports",
+          "code": "BBL",
+          "name": "BBL Esports",
+          "name_en": "BBL Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128577/600px_bbl_esports_2022_full_lightmode.png"
+        },
+        "home": {
+          "id": "nrg-valorant",
+          "code": "NRG",
+          "name": "NRG",
+          "name_en": "NRG",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128471/nrg_2020.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters Santiago 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters Santiago 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1368481",
+      "name": "VCT · 季后赛 · All Gamers vs G2 Esports",
+      "name_en": "VCT · Playoffs · All Gamers vs G2 Esports",
+      "date": "2026-03-08",
+      "time": "04:39",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters Santiago 2026 · All Gamers vs G2 Esports",
+      "description_en": "VCT · Masters Santiago 2026 · All Gamers vs G2 Esports",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "all-gamers",
+          "code": "AG",
+          "name": "All Gamers",
+          "name_en": "All Gamers",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
+        },
+        "home": {
+          "id": "g2-esports-valorant",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128538/900px_g2_esports_2019.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters Santiago 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters Santiago 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1368493",
+      "name": "VCT · 季后赛 · FURIA Esports vs BBL Esports",
+      "name_en": "VCT · Playoffs · FURIA Esports vs BBL Esports",
+      "date": "2026-03-09",
+      "time": "01:08",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters Santiago 2026 · FURIA Esports vs BBL Esports",
+      "description_en": "VCT · Masters Santiago 2026 · FURIA Esports vs BBL Esports",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "furia-esports-valorant",
+          "code": "FUR",
+          "name": "FURIA Esports",
+          "name_en": "FURIA Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128477/616px_furia_esports_allmode.png"
+        },
+        "home": {
+          "id": "bbl-esports",
+          "code": "BBL",
+          "name": "BBL Esports",
+          "name_en": "BBL Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128577/600px_bbl_esports_2022_full_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters Santiago 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters Santiago 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1368492",
+      "name": "VCT · 季后赛 · Gentle Mates vs All Gamers",
+      "name_en": "VCT · Playoffs · Gentle Mates vs All Gamers",
+      "date": "2026-03-09",
+      "time": "04:35",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters Santiago 2026 · Gentle Mates vs All Gamers",
+      "description_en": "VCT · Masters Santiago 2026 · Gentle Mates vs All Gamers",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "gentle-mates",
+          "code": "M8",
+          "name": "Gentle Mates",
+          "name_en": "Gentle Mates",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/133115/621px_gentle_mates_2024_lightmode.png"
+        },
+        "home": {
+          "id": "all-gamers",
+          "code": "AG",
+          "name": "All Gamers",
+          "name_en": "All Gamers",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters Santiago 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters Santiago 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1368484",
+      "name": "VCT · 季后赛 · Nongshim RedForce vs G2 Esports",
+      "name_en": "VCT · Playoffs · Nongshim RedForce vs G2 Esports",
+      "date": "2026-03-10",
+      "time": "02:06",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters Santiago 2026 · Nongshim RedForce vs G2 Esports",
+      "description_en": "VCT · Masters Santiago 2026 · Nongshim RedForce vs G2 Esports",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "nongshim-redforce",
+          "code": "NS",
+          "name": "Nongshim RedForce",
+          "name_en": "Nongshim RedForce",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
+        },
+        "home": {
+          "id": "g2-esports-valorant",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128538/900px_g2_esports_2019.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters Santiago 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters Santiago 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1368485",
+      "name": "VCT · 季后赛 · Paper Rex vs NRG",
+      "name_en": "VCT · Playoffs · Paper Rex vs NRG",
+      "date": "2026-03-10",
+      "time": "05:20",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters Santiago 2026 · Paper Rex vs NRG",
+      "description_en": "VCT · Masters Santiago 2026 · Paper Rex vs NRG",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "paper-rex-valorant",
+          "code": "PR",
+          "name": "Paper Rex",
+          "name_en": "Paper Rex",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
+        },
+        "home": {
+          "id": "nrg-valorant",
+          "code": "NRG",
+          "name": "NRG",
+          "name_en": "NRG",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128471/nrg_2020.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters Santiago 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters Santiago 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1368491",
+      "name": "VCT · 季后赛 · G2 Esports vs BBL Esports",
+      "name_en": "VCT · Playoffs · G2 Esports vs BBL Esports",
+      "date": "2026-03-11",
+      "time": "02:08",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters Santiago 2026 · G2 Esports vs BBL Esports",
+      "description_en": "VCT · Masters Santiago 2026 · G2 Esports vs BBL Esports",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "g2-esports-valorant",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128538/900px_g2_esports_2019.png"
+        },
+        "home": {
+          "id": "bbl-esports",
+          "code": "BBL",
+          "name": "BBL Esports",
+          "name_en": "BBL Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128577/600px_bbl_esports_2022_full_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters Santiago 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters Santiago 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1368490",
+      "name": "VCT · 季后赛 · Paper Rex vs All Gamers",
+      "name_en": "VCT · Playoffs · Paper Rex vs All Gamers",
+      "date": "2026-03-11",
+      "time": "04:12",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters Santiago 2026 · Paper Rex vs All Gamers",
+      "description_en": "VCT · Masters Santiago 2026 · Paper Rex vs All Gamers",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "paper-rex-valorant",
+          "code": "PR",
+          "name": "Paper Rex",
+          "name_en": "Paper Rex",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
+        },
+        "home": {
+          "id": "all-gamers",
+          "code": "AG",
+          "name": "All Gamers",
+          "name_en": "All Gamers",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128974/all_gamers_full_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters Santiago 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters Santiago 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1368486",
+      "name": "VCT · 季后赛 · Nongshim RedForce vs NRG",
+      "name_en": "VCT · Playoffs · Nongshim RedForce vs NRG",
+      "date": "2026-03-14",
+      "time": "01:06",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters Santiago 2026 · Nongshim RedForce vs NRG",
+      "description_en": "VCT · Masters Santiago 2026 · Nongshim RedForce vs NRG",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "nongshim-redforce",
+          "code": "NS",
+          "name": "Nongshim RedForce",
+          "name_en": "Nongshim RedForce",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
+        },
+        "home": {
+          "id": "nrg-valorant",
+          "code": "NRG",
+          "name": "NRG",
+          "name_en": "NRG",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128471/nrg_2020.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters Santiago 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters Santiago 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1368489",
+      "name": "VCT · 季后赛 · Paper Rex vs G2 Esports",
+      "name_en": "VCT · Playoffs · Paper Rex vs G2 Esports",
+      "date": "2026-03-14",
+      "time": "03:30",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters Santiago 2026 · Paper Rex vs G2 Esports",
+      "description_en": "VCT · Masters Santiago 2026 · Paper Rex vs G2 Esports",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "paper-rex-valorant",
+          "code": "PR",
+          "name": "Paper Rex",
+          "name_en": "Paper Rex",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
+        },
+        "home": {
+          "id": "g2-esports-valorant",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128538/900px_g2_esports_2019.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters Santiago 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters Santiago 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1368488",
+      "name": "VCT · 季后赛 · NRG vs Paper Rex",
+      "name_en": "VCT · Playoffs · NRG vs Paper Rex",
+      "date": "2026-03-15",
+      "time": "01:06",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters Santiago 2026 · NRG vs Paper Rex",
+      "description_en": "VCT · Masters Santiago 2026 · NRG vs Paper Rex",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "nrg-valorant",
+          "code": "NRG",
+          "name": "NRG",
+          "name_en": "NRG",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128471/nrg_2020.png"
+        },
+        "home": {
+          "id": "paper-rex-valorant",
+          "code": "PR",
+          "name": "Paper Rex",
+          "name_en": "Paper Rex",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 3,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters Santiago 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters Santiago 2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1368487",
+      "name": "VCT · 季后赛 · Nongshim RedForce vs Paper Rex",
+      "name_en": "VCT · Playoffs · Nongshim RedForce vs Paper Rex",
+      "date": "2026-03-16",
+      "time": "02:20",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters Santiago 2026 · Nongshim RedForce vs Paper Rex",
+      "description_en": "VCT · Masters Santiago 2026 · Nongshim RedForce vs Paper Rex",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "nongshim-redforce",
+          "code": "NS",
+          "name": "Nongshim RedForce",
+          "name_en": "Nongshim RedForce",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
+        },
+        "home": {
+          "id": "paper-rex-valorant",
+          "code": "PR",
+          "name": "Paper Rex",
+          "name_en": "Paper Rex",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters Santiago 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters Santiago 2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1510127",
+      "name": "VCT · Group Stage · XLG Gaming vs NRG",
+      "name_en": "VCT · Group Stage · XLG Gaming vs NRG",
+      "date": "2026-06-06",
+      "time": "22:11",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters London 2026 · XLG Gaming vs NRG",
+      "description_en": "VCT · Masters London 2026 · XLG Gaming vs NRG",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "zy-gaming",
+          "code": "XLG",
+          "name": "XLG Gaming",
+          "name_en": "XLG Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
+        },
+        "home": {
+          "id": "nrg-valorant",
+          "code": "NRG",
+          "name": "NRG",
+          "name_en": "NRG",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128471/nrg_2020.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters London 2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters London 2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1510128",
+      "name": "VCT · Group Stage · Team Vitality vs Dragon Ranger Gaming",
+      "name_en": "VCT · Group Stage · Team Vitality vs Dragon Ranger Gaming",
+      "date": "2026-06-07",
+      "time": "00:33",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters London 2026 · Team Vitality vs Dragon Ranger Gaming",
+      "description_en": "VCT · Masters London 2026 · Team Vitality vs Dragon Ranger Gaming",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "team-vitality-valorant",
+          "code": "VIT",
+          "name": "Team Vitality",
+          "name_en": "Team Vitality",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
+        },
+        "home": {
+          "id": "dragon-ranger-gaming-valorant",
+          "code": "DRG",
+          "name": "Dragon Ranger Gaming",
+          "name_en": "Dragon Ranger Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters London 2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters London 2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1510129",
+      "name": "VCT · Group Stage · FULL SENSE vs FUT Esports",
+      "name_en": "VCT · Group Stage · FULL SENSE vs FUT Esports",
+      "date": "2026-06-07",
+      "time": "22:08",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters London 2026 · FULL SENSE vs FUT Esports",
+      "description_en": "VCT · Masters London 2026 · FULL SENSE vs FUT Esports",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "full-sense",
+          "code": "FS",
+          "name": "FULL SENSE",
+          "name_en": "FULL SENSE",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128912/285px_fullsense_logo_icon_allmode.png"
+        },
+        "home": {
+          "id": "futbolist",
+          "code": "FUT",
+          "name": "FUT Esports",
+          "name_en": "FUT Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters London 2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters London 2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1510130",
+      "name": "VCT · Group Stage · Leviatán Esports vs Global Esports",
+      "name_en": "VCT · Group Stage · Leviatán Esports vs Global Esports",
+      "date": "2026-06-08",
+      "time": "00:03",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters London 2026 · Leviatán Esports vs Global Esports",
+      "description_en": "VCT · Masters London 2026 · Leviatán Esports vs Global Esports",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "leviatan-esports-valorant",
+          "code": "LEV",
+          "name": "Leviatán Esports",
+          "name_en": "Leviatán Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128990/600px_leviatan_full_allmode.png"
+        },
+        "home": {
+          "id": "global-esports-valorant",
+          "code": "GE",
+          "name": "Global Esports",
+          "name_en": "Global Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/129660/global_esports_2020_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters London 2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters London 2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1510131",
+      "name": "VCT · Group Stage · Team Vitality vs FUT Esports",
+      "name_en": "VCT · Group Stage · Team Vitality vs FUT Esports",
+      "date": "2026-06-08",
+      "time": "22:09",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters London 2026 · Team Vitality vs FUT Esports",
+      "description_en": "VCT · Masters London 2026 · Team Vitality vs FUT Esports",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "team-vitality-valorant",
+          "code": "VIT",
+          "name": "Team Vitality",
+          "name_en": "Team Vitality",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
+        },
+        "home": {
+          "id": "futbolist",
+          "code": "FUT",
+          "name": "FUT Esports",
+          "name_en": "FUT Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters London 2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters London 2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1510132",
+      "name": "VCT · Group Stage · NRG vs Leviatán Esports",
+      "name_en": "VCT · Group Stage · NRG vs Leviatán Esports",
+      "date": "2026-06-09",
+      "time": "01:16",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters London 2026 · NRG vs Leviatán Esports",
+      "description_en": "VCT · Masters London 2026 · NRG vs Leviatán Esports",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "nrg-valorant",
+          "code": "NRG",
+          "name": "NRG",
+          "name_en": "NRG",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128471/nrg_2020.png"
+        },
+        "home": {
+          "id": "leviatan-esports-valorant",
+          "code": "LEV",
+          "name": "Leviatán Esports",
+          "name_en": "Leviatán Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128990/600px_leviatan_full_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters London 2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters London 2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1510133",
+      "name": "VCT · Group Stage · Dragon Ranger Gaming vs XLG Gaming",
+      "name_en": "VCT · Group Stage · Dragon Ranger Gaming vs XLG Gaming",
+      "date": "2026-06-09",
+      "time": "22:09",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters London 2026 · Dragon Ranger Gaming vs XLG Gaming",
+      "description_en": "VCT · Masters London 2026 · Dragon Ranger Gaming vs XLG Gaming",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "dragon-ranger-gaming-valorant",
+          "code": "DRG",
+          "name": "Dragon Ranger Gaming",
+          "name_en": "Dragon Ranger Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/133279/168px_dragon_ranger_gaming_logo_without_text_allmode.png"
+        },
+        "home": {
+          "id": "zy-gaming",
+          "code": "XLG",
+          "name": "XLG Gaming",
+          "name_en": "XLG Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters London 2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters London 2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1510134",
+      "name": "VCT · Group Stage · Global Esports vs FULL SENSE",
+      "name_en": "VCT · Group Stage · Global Esports vs FULL SENSE",
+      "date": "2026-06-10",
+      "time": "01:20",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters London 2026 · Global Esports vs FULL SENSE",
+      "description_en": "VCT · Masters London 2026 · Global Esports vs FULL SENSE",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "global-esports-valorant",
+          "code": "GE",
+          "name": "Global Esports",
+          "name_en": "Global Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/129660/global_esports_2020_allmode.png"
+        },
+        "home": {
+          "id": "full-sense",
+          "code": "FS",
+          "name": "FULL SENSE",
+          "name_en": "FULL SENSE",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128912/285px_fullsense_logo_icon_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters London 2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters London 2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1510135",
+      "name": "VCT · Group Stage · FUT Esports vs NRG",
+      "name_en": "VCT · Group Stage · FUT Esports vs NRG",
+      "date": "2026-06-10",
+      "time": "22:06",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters London 2026 · FUT Esports vs NRG",
+      "description_en": "VCT · Masters London 2026 · FUT Esports vs NRG",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "futbolist",
+          "code": "FUT",
+          "name": "FUT Esports",
+          "name_en": "FUT Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
+        },
+        "home": {
+          "id": "nrg-valorant",
+          "code": "NRG",
+          "name": "NRG",
+          "name_en": "NRG",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128471/nrg_2020.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters London 2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters London 2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1510136",
+      "name": "VCT · Group Stage · Global Esports vs XLG Gaming",
+      "name_en": "VCT · Group Stage · Global Esports vs XLG Gaming",
+      "date": "2026-06-11",
+      "time": "01:38",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters London 2026 · Global Esports vs XLG Gaming",
+      "description_en": "VCT · Masters London 2026 · Global Esports vs XLG Gaming",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "global-esports-valorant",
+          "code": "GE",
+          "name": "Global Esports",
+          "name_en": "Global Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/129660/global_esports_2020_allmode.png"
+        },
+        "home": {
+          "id": "zy-gaming",
+          "code": "XLG",
+          "name": "XLG Gaming",
+          "name_en": "XLG Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters London 2026",
+        "阶段": "Group Stage",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters London 2026",
+        "Stage": "Group Stage",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1510137",
+      "name": "VCT · 季后赛 · Paper Rex vs Leviatán Esports",
+      "name_en": "VCT · Playoffs · Paper Rex vs Leviatán Esports",
+      "date": "2026-06-12",
+      "time": "22:06",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters London 2026 · Paper Rex vs Leviatán Esports",
+      "description_en": "VCT · Masters London 2026 · Paper Rex vs Leviatán Esports",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "paper-rex-valorant",
+          "code": "PR",
+          "name": "Paper Rex",
+          "name_en": "Paper Rex",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
+        },
+        "home": {
+          "id": "leviatan-esports-valorant",
+          "code": "LEV",
+          "name": "Leviatán Esports",
+          "name_en": "Leviatán Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128990/600px_leviatan_full_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters London 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters London 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1510140",
+      "name": "VCT · 季后赛 · Team Heretics vs Team Vitality",
+      "name_en": "VCT · Playoffs · Team Heretics vs Team Vitality",
+      "date": "2026-06-13",
+      "time": "00:05",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters London 2026 · Team Heretics vs Team Vitality",
+      "description_en": "VCT · Masters London 2026 · Team Heretics vs Team Vitality",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "team-heretic",
+          "code": "TH",
+          "name": "Team Heretics",
+          "name_en": "Team Heretics",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128622/600px_team_heretics_2020_infobox.png"
+        },
+        "home": {
+          "id": "team-vitality-valorant",
+          "code": "VIT",
+          "name": "Team Vitality",
+          "name_en": "Team Vitality",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters London 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters London 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1510139",
+      "name": "VCT · 季后赛 · EDward Gaming vs FUT Esports",
+      "name_en": "VCT · Playoffs · EDward Gaming vs FUT Esports",
+      "date": "2026-06-13",
+      "time": "22:09",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters London 2026 · EDward Gaming vs FUT Esports",
+      "description_en": "VCT · Masters London 2026 · EDward Gaming vs FUT Esports",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "edward-gaming-valorant",
+          "code": "EDG",
+          "name": "EDward Gaming",
+          "name_en": "EDward Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
+        },
+        "home": {
+          "id": "futbolist",
+          "code": "FUT",
+          "name": "FUT Esports",
+          "name_en": "FUT Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters London 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters London 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1510138",
+      "name": "VCT · 季后赛 · G2 Esports vs XLG Gaming",
+      "name_en": "VCT · Playoffs · G2 Esports vs XLG Gaming",
+      "date": "2026-06-14",
+      "time": "01:01",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters London 2026 · G2 Esports vs XLG Gaming",
+      "description_en": "VCT · Masters London 2026 · G2 Esports vs XLG Gaming",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "g2-esports-valorant",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128538/900px_g2_esports_2019.png"
+        },
+        "home": {
+          "id": "zy-gaming",
+          "code": "XLG",
+          "name": "XLG Gaming",
+          "name_en": "XLG Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters London 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters London 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1510150",
+      "name": "VCT · 季后赛 · Leviatán Esports vs Team Heretics",
+      "name_en": "VCT · Playoffs · Leviatán Esports vs Team Heretics",
+      "date": "2026-06-14",
+      "time": "22:10",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters London 2026 · Leviatán Esports vs Team Heretics",
+      "description_en": "VCT · Masters London 2026 · Leviatán Esports vs Team Heretics",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "leviatan-esports-valorant",
+          "code": "LEV",
+          "name": "Leviatán Esports",
+          "name_en": "Leviatán Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128990/600px_leviatan_full_allmode.png"
+        },
+        "home": {
+          "id": "team-heretic",
+          "code": "TH",
+          "name": "Team Heretics",
+          "name_en": "Team Heretics",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128622/600px_team_heretics_2020_infobox.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters London 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters London 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1510149",
+      "name": "VCT · 季后赛 · G2 Esports vs FUT Esports",
+      "name_en": "VCT · Playoffs · G2 Esports vs FUT Esports",
+      "date": "2026-06-15",
+      "time": "01:02",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters London 2026 · G2 Esports vs FUT Esports",
+      "description_en": "VCT · Masters London 2026 · G2 Esports vs FUT Esports",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "g2-esports-valorant",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128538/900px_g2_esports_2019.png"
+        },
+        "home": {
+          "id": "futbolist",
+          "code": "FUT",
+          "name": "FUT Esports",
+          "name_en": "FUT Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters London 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters London 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1510141",
+      "name": "VCT · 季后赛 · XLG Gaming vs EDward Gaming",
+      "name_en": "VCT · Playoffs · XLG Gaming vs EDward Gaming",
+      "date": "2026-06-15",
+      "time": "22:07",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters London 2026 · XLG Gaming vs EDward Gaming",
+      "description_en": "VCT · Masters London 2026 · XLG Gaming vs EDward Gaming",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "zy-gaming",
+          "code": "XLG",
+          "name": "XLG Gaming",
+          "name_en": "XLG Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
+        },
+        "home": {
+          "id": "edward-gaming-valorant",
+          "code": "EDG",
+          "name": "EDward Gaming",
+          "name_en": "EDward Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters London 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters London 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1510142",
+      "name": "VCT · 季后赛 · Paper Rex vs Team Vitality",
+      "name_en": "VCT · Playoffs · Paper Rex vs Team Vitality",
+      "date": "2026-06-16",
+      "time": "01:17",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters London 2026 · Paper Rex vs Team Vitality",
+      "description_en": "VCT · Masters London 2026 · Paper Rex vs Team Vitality",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "paper-rex-valorant",
+          "code": "PR",
+          "name": "Paper Rex",
+          "name_en": "Paper Rex",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
+        },
+        "home": {
+          "id": "team-vitality-valorant",
+          "code": "VIT",
+          "name": "Team Vitality",
+          "name_en": "Team Vitality",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters London 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters London 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1510148",
+      "name": "VCT · 季后赛 · XLG Gaming vs Leviatán Esports",
+      "name_en": "VCT · Playoffs · XLG Gaming vs Leviatán Esports",
+      "date": "2026-06-16",
+      "time": "22:08",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters London 2026 · XLG Gaming vs Leviatán Esports",
+      "description_en": "VCT · Masters London 2026 · XLG Gaming vs Leviatán Esports",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "zy-gaming",
+          "code": "XLG",
+          "name": "XLG Gaming",
+          "name_en": "XLG Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
+        },
+        "home": {
+          "id": "leviatan-esports-valorant",
+          "code": "LEV",
+          "name": "Leviatán Esports",
+          "name_en": "Leviatán Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128990/600px_leviatan_full_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters London 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters London 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1510147",
+      "name": "VCT · 季后赛 · Team Vitality vs FUT Esports",
+      "name_en": "VCT · Playoffs · Team Vitality vs FUT Esports",
+      "date": "2026-06-17",
+      "time": "00:04",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters London 2026 · Team Vitality vs FUT Esports",
+      "description_en": "VCT · Masters London 2026 · Team Vitality vs FUT Esports",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "team-vitality-valorant",
+          "code": "VIT",
+          "name": "Team Vitality",
+          "name_en": "Team Vitality",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
+        },
+        "home": {
+          "id": "futbolist",
+          "code": "FUT",
+          "name": "FUT Esports",
+          "name_en": "FUT Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters London 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters London 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1510143",
+      "name": "VCT · 季后赛 · EDward Gaming vs Paper Rex",
+      "name_en": "VCT · Playoffs · EDward Gaming vs Paper Rex",
+      "date": "2026-06-19",
+      "time": "21:07",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters London 2026 · EDward Gaming vs Paper Rex",
+      "description_en": "VCT · Masters London 2026 · EDward Gaming vs Paper Rex",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "edward-gaming-valorant",
+          "code": "EDG",
+          "name": "EDward Gaming",
+          "name_en": "EDward Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
+        },
+        "home": {
+          "id": "paper-rex-valorant",
+          "code": "PR",
+          "name": "Paper Rex",
+          "name_en": "Paper Rex",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters London 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters London 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1510146",
+      "name": "VCT · 季后赛 · Team Vitality vs Leviatán Esports",
+      "name_en": "VCT · Playoffs · Team Vitality vs Leviatán Esports",
+      "date": "2026-06-20",
+      "time": "00:35",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters London 2026 · Team Vitality vs Leviatán Esports",
+      "description_en": "VCT · Masters London 2026 · Team Vitality vs Leviatán Esports",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "team-vitality-valorant",
+          "code": "VIT",
+          "name": "Team Vitality",
+          "name_en": "Team Vitality",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
+        },
+        "home": {
+          "id": "leviatan-esports-valorant",
+          "code": "LEV",
+          "name": "Leviatán Esports",
+          "name_en": "Leviatán Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128990/600px_leviatan_full_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters London 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters London 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1510145",
+      "name": "VCT · 季后赛 · EDward Gaming vs Leviatán Esports",
+      "name_en": "VCT · Playoffs · EDward Gaming vs Leviatán Esports",
+      "date": "2026-06-20",
+      "time": "21:08",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters London 2026 · EDward Gaming vs Leviatán Esports",
+      "description_en": "VCT · Masters London 2026 · EDward Gaming vs Leviatán Esports",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "edward-gaming-valorant",
+          "code": "EDG",
+          "name": "EDward Gaming",
+          "name_en": "EDward Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
+        },
+        "home": {
+          "id": "leviatan-esports-valorant",
+          "code": "LEV",
+          "name": "Leviatán Esports",
+          "name_en": "Leviatán Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128990/600px_leviatan_full_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 3,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters London 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters London 2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1510144",
+      "name": "VCT · 季后赛 · Paper Rex vs Leviatán Esports",
+      "name_en": "VCT · Playoffs · Paper Rex vs Leviatán Esports",
+      "date": "2026-06-21",
+      "time": "22:32",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Masters London 2026 · Paper Rex vs Leviatán Esports",
+      "description_en": "VCT · Masters London 2026 · Paper Rex vs Leviatán Esports",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "paper-rex-valorant",
+          "code": "PR",
+          "name": "Paper Rex",
+          "name_en": "Paper Rex",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
+        },
+        "home": {
+          "id": "leviatan-esports-valorant",
+          "code": "LEV",
+          "name": "Leviatán Esports",
+          "name_en": "Leviatán Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128990/600px_leviatan_full_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 3,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Masters London 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Masters London 2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1682152",
+      "name": "VCT · Group C · Team Liquid vs Paper Rex",
+      "name_en": "VCT · Group C · Team Liquid vs Paper Rex",
+      "date": "2026-09-24",
+      "time": "17:21",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · Team Liquid vs Paper Rex",
+      "description_en": "VCT · Champions 2026 · Team Liquid vs Paper Rex",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "team-liquid-valorant",
+          "code": "TL",
+          "name": "Team Liquid",
+          "name_en": "Team Liquid",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
+        },
+        "home": {
+          "id": "paper-rex-valorant",
+          "code": "PR",
+          "name": "Paper Rex",
+          "name_en": "Paper Rex",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Group C",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Group C",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1682153",
+      "name": "VCT · Group C · TYLOO vs G2 Esports",
+      "name_en": "VCT · Group C · TYLOO vs G2 Esports",
+      "date": "2026-09-24",
+      "time": "20:27",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · TYLOO vs G2 Esports",
+      "description_en": "VCT · Champions 2026 · TYLOO vs G2 Esports",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "tyloo-valorant",
+          "code": "TYLOO",
+          "name": "TYLOO",
+          "name_en": "TYLOO",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
+        },
+        "home": {
+          "id": "g2-esports-valorant",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128538/900px_g2_esports_2019.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Group C",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Group C",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1682154",
+      "name": "VCT · Group D · Nongshim RedForce vs NRG",
+      "name_en": "VCT · Group D · Nongshim RedForce vs NRG",
+      "date": "2026-09-25",
+      "time": "17:09",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · Nongshim RedForce vs NRG",
+      "description_en": "VCT · Champions 2026 · Nongshim RedForce vs NRG",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "nongshim-redforce",
+          "code": "NS",
+          "name": "Nongshim RedForce",
+          "name_en": "Nongshim RedForce",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
+        },
+        "home": {
+          "id": "nrg-valorant",
+          "code": "NRG",
+          "name": "NRG",
+          "name_en": "NRG",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128471/nrg_2020.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Group D",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Group D",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1682155",
+      "name": "VCT · Group D · Karmine Corp vs XLG Gaming",
+      "name_en": "VCT · Group D · Karmine Corp vs XLG Gaming",
+      "date": "2026-09-25",
+      "time": "19:30",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · Karmine Corp vs XLG Gaming",
+      "description_en": "VCT · Champions 2026 · Karmine Corp vs XLG Gaming",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "karmine-corp-valorant",
+          "code": "KC",
+          "name": "Karmine Corp",
+          "name_en": "Karmine Corp",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/130922/600px_karmine_corp_lightmode_full.png"
+        },
+        "home": {
+          "id": "zy-gaming",
+          "code": "XLG",
+          "name": "XLG Gaming",
+          "name_en": "XLG Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Group D",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Group D",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1682150",
+      "name": "VCT · Group B · Global Esports vs Team Vitality",
+      "name_en": "VCT · Group B · Global Esports vs Team Vitality",
+      "date": "2026-09-26",
+      "time": "17:09",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · Global Esports vs Team Vitality",
+      "description_en": "VCT · Champions 2026 · Global Esports vs Team Vitality",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "global-esports-valorant",
+          "code": "GE",
+          "name": "Global Esports",
+          "name_en": "Global Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/129660/global_esports_2020_allmode.png"
+        },
+        "home": {
+          "id": "team-vitality-valorant",
+          "code": "VIT",
+          "name": "Team Vitality",
+          "name_en": "Team Vitality",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Group B",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Group B",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1682151",
+      "name": "VCT · Group B · LOUD vs EDward Gaming",
+      "name_en": "VCT · Group B · LOUD vs EDward Gaming",
+      "date": "2026-09-26",
+      "time": "20:33",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · LOUD vs EDward Gaming",
+      "description_en": "VCT · Champions 2026 · LOUD vs EDward Gaming",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "loud-valorant",
+          "code": "LOUD",
+          "name": "LOUD",
+          "name_en": "LOUD",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/130338/900px_loud_allmode.png"
+        },
+        "home": {
+          "id": "edward-gaming-valorant",
+          "code": "EDG",
+          "name": "EDward Gaming",
+          "name_en": "EDward Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Group B",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Group B",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1682148",
+      "name": "VCT · Group A · 100 Thieves vs T1",
+      "name_en": "VCT · Group A · 100 Thieves vs T1",
+      "date": "2026-09-27",
+      "time": "17:11",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · 100 Thieves vs T1",
+      "description_en": "VCT · Champions 2026 · 100 Thieves vs T1",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "100-thieves-valorant",
+          "code": "100T",
+          "name": "100 Thieves",
+          "name_en": "100 Thieves",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128605/764px_100_thieves_lightmode.png"
+        },
+        "home": {
+          "id": "t1-valorant",
+          "code": "T1",
+          "name": "T1",
+          "name_en": "T1",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Group A",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Group A",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1682149",
+      "name": "VCT · Group A · JD Gaming vs FUT Esports",
+      "name_en": "VCT · Group A · JD Gaming vs FUT Esports",
+      "date": "2026-09-27",
+      "time": "19:36",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · JD Gaming vs FUT Esports",
+      "description_en": "VCT · Champions 2026 · JD Gaming vs FUT Esports",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "jd-gaming-valorant",
+          "code": "JDG",
+          "name": "JD Gaming",
+          "name_en": "JD Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/134454/600px_jd_gaming_2021_full_allmode.png"
+        },
+        "home": {
+          "id": "futbolist",
+          "code": "FUT",
+          "name": "FUT Esports",
+          "name_en": "FUT Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Group A",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Group A",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1685230",
+      "name": "VCT · Group C · G2 Esports vs Paper Rex",
+      "name_en": "VCT · Group C · G2 Esports vs Paper Rex",
+      "date": "2026-09-29",
+      "time": "17:09",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · G2 Esports vs Paper Rex",
+      "description_en": "VCT · Champions 2026 · G2 Esports vs Paper Rex",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "g2-esports-valorant",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128538/900px_g2_esports_2019.png"
+        },
+        "home": {
+          "id": "paper-rex-valorant",
+          "code": "PR",
+          "name": "Paper Rex",
+          "name_en": "Paper Rex",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Group C",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Group C",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1685233",
+      "name": "VCT · Group D · Karmine Corp vs NRG",
+      "name_en": "VCT · Group D · Karmine Corp vs NRG",
+      "date": "2026-09-29",
+      "time": "20:36",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · Karmine Corp vs NRG",
+      "description_en": "VCT · Champions 2026 · Karmine Corp vs NRG",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "karmine-corp-valorant",
+          "code": "KC",
+          "name": "Karmine Corp",
+          "name_en": "Karmine Corp",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/130922/600px_karmine_corp_lightmode_full.png"
+        },
+        "home": {
+          "id": "nrg-valorant",
+          "code": "NRG",
+          "name": "NRG",
+          "name_en": "NRG",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128471/nrg_2020.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Group D",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Group D",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1685223",
+      "name": "VCT · Group B · Team Vitality vs LOUD",
+      "name_en": "VCT · Group B · Team Vitality vs LOUD",
+      "date": "2026-09-30",
+      "time": "17:08",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · Team Vitality vs LOUD",
+      "description_en": "VCT · Champions 2026 · Team Vitality vs LOUD",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "team-vitality-valorant",
+          "code": "VIT",
+          "name": "Team Vitality",
+          "name_en": "Team Vitality",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
+        },
+        "home": {
+          "id": "loud-valorant",
+          "code": "LOUD",
+          "name": "LOUD",
+          "name_en": "LOUD",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/130338/900px_loud_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Group B",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Group B",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1685218",
+      "name": "VCT · Group A · 100 Thieves vs FUT Esports",
+      "name_en": "VCT · Group A · 100 Thieves vs FUT Esports",
+      "date": "2026-09-30",
+      "time": "19:57",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · 100 Thieves vs FUT Esports",
+      "description_en": "VCT · Champions 2026 · 100 Thieves vs FUT Esports",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "100-thieves-valorant",
+          "code": "100T",
+          "name": "100 Thieves",
+          "name_en": "100 Thieves",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128605/764px_100_thieves_lightmode.png"
+        },
+        "home": {
+          "id": "futbolist",
+          "code": "FUT",
+          "name": "FUT Esports",
+          "name_en": "FUT Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Group A",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Group A",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1685231",
+      "name": "VCT · Group C · TYLOO vs Team Liquid",
+      "name_en": "VCT · Group C · TYLOO vs Team Liquid",
+      "date": "2026-10-01",
+      "time": "17:06",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · TYLOO vs Team Liquid",
+      "description_en": "VCT · Champions 2026 · TYLOO vs Team Liquid",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "tyloo-valorant",
+          "code": "TYLOO",
+          "name": "TYLOO",
+          "name_en": "TYLOO",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png"
+        },
+        "home": {
+          "id": "team-liquid-valorant",
+          "code": "TL",
+          "name": "Team Liquid",
+          "name_en": "Team Liquid",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Group C",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Group C",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1685234",
+      "name": "VCT · Group D · XLG Gaming vs Nongshim RedForce",
+      "name_en": "VCT · Group D · XLG Gaming vs Nongshim RedForce",
+      "date": "2026-10-01",
+      "time": "20:11",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · XLG Gaming vs Nongshim RedForce",
+      "description_en": "VCT · Champions 2026 · XLG Gaming vs Nongshim RedForce",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "zy-gaming",
+          "code": "XLG",
+          "name": "XLG Gaming",
+          "name_en": "XLG Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png"
+        },
+        "home": {
+          "id": "nongshim-redforce",
+          "code": "NS",
+          "name": "Nongshim RedForce",
+          "name_en": "Nongshim RedForce",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Group D",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Group D",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1685224",
+      "name": "VCT · Group B · Global Esports vs EDward Gaming",
+      "name_en": "VCT · Group B · Global Esports vs EDward Gaming",
+      "date": "2026-10-02",
+      "time": "17:06",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · Global Esports vs EDward Gaming",
+      "description_en": "VCT · Champions 2026 · Global Esports vs EDward Gaming",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "global-esports-valorant",
+          "code": "GE",
+          "name": "Global Esports",
+          "name_en": "Global Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/129660/global_esports_2020_allmode.png"
+        },
+        "home": {
+          "id": "edward-gaming-valorant",
+          "code": "EDG",
+          "name": "EDward Gaming",
+          "name_en": "EDward Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Group B",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Group B",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1685219",
+      "name": "VCT · Group A · T1 vs JD Gaming",
+      "name_en": "VCT · Group A · T1 vs JD Gaming",
+      "date": "2026-10-02",
+      "time": "19:09",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · T1 vs JD Gaming",
+      "description_en": "VCT · Champions 2026 · T1 vs JD Gaming",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "t1-valorant",
+          "code": "T1",
+          "name": "T1",
+          "name_en": "T1",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
+        },
+        "home": {
+          "id": "jd-gaming-valorant",
+          "code": "JDG",
+          "name": "JD Gaming",
+          "name_en": "JD Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/134454/600px_jd_gaming_2021_full_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Group A",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Group A",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1685232",
+      "name": "VCT · Group C · G2 Esports vs Team Liquid",
+      "name_en": "VCT · Group C · G2 Esports vs Team Liquid",
+      "date": "2026-10-03",
+      "time": "17:07",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · G2 Esports vs Team Liquid",
+      "description_en": "VCT · Champions 2026 · G2 Esports vs Team Liquid",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "g2-esports-valorant",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128538/900px_g2_esports_2019.png"
+        },
+        "home": {
+          "id": "team-liquid-valorant",
+          "code": "TL",
+          "name": "Team Liquid",
+          "name_en": "Team Liquid",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Group C",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Group C",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1685235",
+      "name": "VCT · Group D · Karmine Corp vs Nongshim RedForce",
+      "name_en": "VCT · Group D · Karmine Corp vs Nongshim RedForce",
+      "date": "2026-10-03",
+      "time": "19:30",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · Karmine Corp vs Nongshim RedForce",
+      "description_en": "VCT · Champions 2026 · Karmine Corp vs Nongshim RedForce",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "karmine-corp-valorant",
+          "code": "KC",
+          "name": "Karmine Corp",
+          "name_en": "Karmine Corp",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/130922/600px_karmine_corp_lightmode_full.png"
+        },
+        "home": {
+          "id": "nongshim-redforce",
+          "code": "NS",
+          "name": "Nongshim RedForce",
+          "name_en": "Nongshim RedForce",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Group D",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Group D",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1685225",
+      "name": "VCT · Group B · LOUD vs Global Esports",
+      "name_en": "VCT · Group B · LOUD vs Global Esports",
+      "date": "2026-10-04",
+      "time": "17:07",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · LOUD vs Global Esports",
+      "description_en": "VCT · Champions 2026 · LOUD vs Global Esports",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "loud-valorant",
+          "code": "LOUD",
+          "name": "LOUD",
+          "name_en": "LOUD",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/130338/900px_loud_allmode.png"
+        },
+        "home": {
+          "id": "global-esports-valorant",
+          "code": "GE",
+          "name": "Global Esports",
+          "name_en": "Global Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/129660/global_esports_2020_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Group B",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Group B",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1685220",
+      "name": "VCT · Group A · FUT Esports vs T1",
+      "name_en": "VCT · Group A · FUT Esports vs T1",
+      "date": "2026-10-04",
+      "time": "19:28",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · FUT Esports vs T1",
+      "description_en": "VCT · Champions 2026 · FUT Esports vs T1",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "futbolist",
+          "code": "FUT",
+          "name": "FUT Esports",
+          "name_en": "FUT Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png"
+        },
+        "home": {
+          "id": "t1-valorant",
+          "code": "T1",
+          "name": "T1",
+          "name_en": "T1",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Group A",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Group A",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1685236",
+      "name": "VCT · 季后赛 · NRG vs T1",
+      "name_en": "VCT · Playoffs · NRG vs T1",
+      "date": "2026-10-07",
+      "time": "17:06",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · NRG vs T1",
+      "description_en": "VCT · Champions 2026 · NRG vs T1",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "nrg-valorant",
+          "code": "NRG",
+          "name": "NRG",
+          "name_en": "NRG",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128471/nrg_2020.png"
+        },
+        "home": {
+          "id": "t1-valorant",
+          "code": "T1",
+          "name": "T1",
+          "name_en": "T1",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1685237",
+      "name": "VCT · 季后赛 · Paper Rex vs LOUD",
+      "name_en": "VCT · Playoffs · Paper Rex vs LOUD",
+      "date": "2026-10-07",
+      "time": "19:32",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · Paper Rex vs LOUD",
+      "description_en": "VCT · Champions 2026 · Paper Rex vs LOUD",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "paper-rex-valorant",
+          "code": "PR",
+          "name": "Paper Rex",
+          "name_en": "Paper Rex",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
+        },
+        "home": {
+          "id": "loud-valorant",
+          "code": "LOUD",
+          "name": "LOUD",
+          "name_en": "LOUD",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/130338/900px_loud_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1685238",
+      "name": "VCT · 季后赛 · 100 Thieves vs G2 Esports",
+      "name_en": "VCT · Playoffs · 100 Thieves vs G2 Esports",
+      "date": "2026-10-08",
+      "time": "17:06",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · 100 Thieves vs G2 Esports",
+      "description_en": "VCT · Champions 2026 · 100 Thieves vs G2 Esports",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "100-thieves-valorant",
+          "code": "100T",
+          "name": "100 Thieves",
+          "name_en": "100 Thieves",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128605/764px_100_thieves_lightmode.png"
+        },
+        "home": {
+          "id": "g2-esports-valorant",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128538/900px_g2_esports_2019.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1685239",
+      "name": "VCT · 季后赛 · Team Vitality vs Nongshim RedForce",
+      "name_en": "VCT · Playoffs · Team Vitality vs Nongshim RedForce",
+      "date": "2026-10-08",
+      "time": "19:21",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · Team Vitality vs Nongshim RedForce",
+      "description_en": "VCT · Champions 2026 · Team Vitality vs Nongshim RedForce",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "team-vitality-valorant",
+          "code": "VIT",
+          "name": "Team Vitality",
+          "name_en": "Team Vitality",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
+        },
+        "home": {
+          "id": "nongshim-redforce",
+          "code": "NS",
+          "name": "Nongshim RedForce",
+          "name_en": "Nongshim RedForce",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1685244",
+      "name": "VCT · 季后赛 · T1 vs Paper Rex",
+      "name_en": "VCT · Playoffs · T1 vs Paper Rex",
+      "date": "2026-10-09",
+      "time": "17:07",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · T1 vs Paper Rex",
+      "description_en": "VCT · Champions 2026 · T1 vs Paper Rex",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "t1-valorant",
+          "code": "T1",
+          "name": "T1",
+          "name_en": "T1",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
+        },
+        "home": {
+          "id": "paper-rex-valorant",
+          "code": "PR",
+          "name": "Paper Rex",
+          "name_en": "Paper Rex",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1685243",
+      "name": "VCT · 季后赛 · 100 Thieves vs Nongshim RedForce",
+      "name_en": "VCT · Playoffs · 100 Thieves vs Nongshim RedForce",
+      "date": "2026-10-09",
+      "time": "20:18",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · 100 Thieves vs Nongshim RedForce",
+      "description_en": "VCT · Champions 2026 · 100 Thieves vs Nongshim RedForce",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "100-thieves-valorant",
+          "code": "100T",
+          "name": "100 Thieves",
+          "name_en": "100 Thieves",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128605/764px_100_thieves_lightmode.png"
+        },
+        "home": {
+          "id": "nongshim-redforce",
+          "code": "NS",
+          "name": "Nongshim RedForce",
+          "name_en": "Nongshim RedForce",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1685241",
+      "name": "VCT · 季后赛 · NRG vs LOUD",
+      "name_en": "VCT · Playoffs · NRG vs LOUD",
+      "date": "2026-10-10",
+      "time": "17:06",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · NRG vs LOUD",
+      "description_en": "VCT · Champions 2026 · NRG vs LOUD",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "nrg-valorant",
+          "code": "NRG",
+          "name": "NRG",
+          "name_en": "NRG",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128471/nrg_2020.png"
+        },
+        "home": {
+          "id": "loud-valorant",
+          "code": "LOUD",
+          "name": "LOUD",
+          "name_en": "LOUD",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/130338/900px_loud_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1685240",
+      "name": "VCT · 季后赛 · G2 Esports vs Team Vitality",
+      "name_en": "VCT · Playoffs · G2 Esports vs Team Vitality",
+      "date": "2026-10-10",
+      "time": "20:09",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · G2 Esports vs Team Vitality",
+      "description_en": "VCT · Champions 2026 · G2 Esports vs Team Vitality",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "g2-esports-valorant",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128538/900px_g2_esports_2019.png"
+        },
+        "home": {
+          "id": "team-vitality-valorant",
+          "code": "VIT",
+          "name": "Team Vitality",
+          "name_en": "Team Vitality",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
+        }
+      },
+      "result": {
+        "away_score": 0,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1685245",
+      "name": "VCT · 季后赛 · 100 Thieves vs NRG",
+      "name_en": "VCT · Playoffs · 100 Thieves vs NRG",
+      "date": "2026-10-11",
+      "time": "17:07",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · 100 Thieves vs NRG",
+      "description_en": "VCT · Champions 2026 · 100 Thieves vs NRG",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "100-thieves-valorant",
+          "code": "100T",
+          "name": "100 Thieves",
+          "name_en": "100 Thieves",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128605/764px_100_thieves_lightmode.png"
+        },
+        "home": {
+          "id": "nrg-valorant",
+          "code": "NRG",
+          "name": "NRG",
+          "name_en": "NRG",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128471/nrg_2020.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1685246",
+      "name": "VCT · 季后赛 · G2 Esports vs T1",
+      "name_en": "VCT · Playoffs · G2 Esports vs T1",
+      "date": "2026-10-11",
+      "time": "19:16",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · G2 Esports vs T1",
+      "description_en": "VCT · Champions 2026 · G2 Esports vs T1",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "g2-esports-valorant",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128538/900px_g2_esports_2019.png"
+        },
+        "home": {
+          "id": "t1-valorant",
+          "code": "T1",
+          "name": "T1",
+          "name_en": "T1",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1685242",
+      "name": "VCT · 季后赛 · Team Vitality vs LOUD",
+      "name_en": "VCT · Playoffs · Team Vitality vs LOUD",
+      "date": "2026-10-16",
+      "time": "14:07",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · Team Vitality vs LOUD",
+      "description_en": "VCT · Champions 2026 · Team Vitality vs LOUD",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "team-vitality-valorant",
+          "code": "VIT",
+          "name": "Team Vitality",
+          "name_en": "Team Vitality",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
+        },
+        "home": {
+          "id": "loud-valorant",
+          "code": "LOUD",
+          "name": "LOUD",
+          "name_en": "LOUD",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/130338/900px_loud_allmode.png"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1685247",
+      "name": "VCT · 季后赛 · 100 Thieves vs G2 Esports",
+      "name_en": "VCT · Playoffs · 100 Thieves vs G2 Esports",
+      "date": "2026-10-16",
+      "time": "18:11",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · 100 Thieves vs G2 Esports",
+      "description_en": "VCT · Champions 2026 · 100 Thieves vs G2 Esports",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "100-thieves-valorant",
+          "code": "100T",
+          "name": "100 Thieves",
+          "name_en": "100 Thieves",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128605/764px_100_thieves_lightmode.png"
+        },
+        "home": {
+          "id": "g2-esports-valorant",
+          "code": "G2",
+          "name": "G2 Esports",
+          "name_en": "G2 Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128538/900px_g2_esports_2019.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Playoffs",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1685248",
+      "name": "VCT · 季后赛 · Team Vitality vs 100 Thieves",
+      "name_en": "VCT · Playoffs · Team Vitality vs 100 Thieves",
+      "date": "2026-10-17",
+      "time": "15:19",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · Team Vitality vs 100 Thieves",
+      "description_en": "VCT · Champions 2026 · Team Vitality vs 100 Thieves",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "team-vitality-valorant",
+          "code": "VIT",
+          "name": "Team Vitality",
+          "name_en": "Team Vitality",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
+        },
+        "home": {
+          "id": "100-thieves-valorant",
+          "code": "100T",
+          "name": "100 Thieves",
+          "name_en": "100 Thieves",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128605/764px_100_thieves_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "valorant-esports-2026-m1685249",
+      "name": "VCT · 季后赛 · LOUD vs Team Vitality",
+      "name_en": "VCT · Playoffs · LOUD vs Team Vitality",
+      "date": "2026-10-18",
+      "time": "14:42",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "VCT · Champions 2026 · LOUD vs Team Vitality",
+      "description_en": "VCT · Champions 2026 · LOUD vs Team Vitality",
+      "url": "https://valorantesports.com/",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "loud-valorant",
+          "code": "LOUD",
+          "name": "LOUD",
+          "name_en": "LOUD",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/130338/900px_loud_allmode.png"
+        },
+        "home": {
+          "id": "team-vitality-valorant",
+          "code": "VIT",
+          "name": "Team Vitality",
+          "name_en": "Team Vitality",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png"
+        }
+      },
+      "result": {
+        "away_score": 3,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "VCT",
+        "赛季": "VCT · Champions 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO5",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "VCT",
+        "Series": "VCT · Champions 2026",
+        "Stage": "Playoffs",
+        "Format": "BO5",
+        "Source": "PandaScore"
+      }
+    }
+  ],
+  "last_updated": "2026-11-05"
 }
