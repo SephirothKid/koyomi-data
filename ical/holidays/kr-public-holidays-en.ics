@@ -11,14 +11,14 @@ X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2026-hangul-day-10-09-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261012T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:South Korea Public Holidays · Hangul Day
-DESCRIPTION:Hangul Day (South Korea Public Holidays)\n\n假期类型: Publ
- ic\n固定日期: 否\n全国通用: 是
+DESCRIPTION:Hangul Day (South Korea Public Holidays)\n\nHoliday types: Pub
+ lic\nFixed date: No\nNationwide: Yes
 CATEGORIES:South Korea Public Holidays
 URL;VALUE=URI:https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardList
  .do?bbsId=BBSMSTR_000000000015
@@ -28,14 +28,14 @@ BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2026-christmas-day-12-25-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20261012T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:South Korea Public Holidays · Christmas Day
-DESCRIPTION:Christmas Day (South Korea Public Holidays)\n\n假期类型: P
- ublic\n固定日期: 否\n全国通用: 是
+DESCRIPTION:Christmas Day (South Korea Public Holidays)\n\nHoliday types: 
+ Public\nFixed date: No\nNationwide: Yes
 CATEGORIES:South Korea Public Holidays
 URL;VALUE=URI:https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardList
  .do?bbsId=BBSMSTR_000000000015
@@ -45,284 +45,404 @@ BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-new-years-day-01-01-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20261012T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:South Korea Public Holidays · New Year's Day
-DESCRIPTION:New Year's Day (South Korea Public Holidays)\n\n假期类型: 
- Public\n固定日期: 否\n全国通用: 是
+DESCRIPTION:New Year's Day (South Korea Public Holidays)\n\nHoliday types:
+  Public\nNationwide: Yes
 CATEGORIES:South Korea Public Holidays
-URL;VALUE=URI:https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardList
- .do?bbsId=BBSMSTR_000000000015
+URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
+ ew.do?plcyBrfNo=431
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-lunar-new-year-02-06-public@koyomi.
  cast
 SEQUENCE:0
-DTSTAMP:20261012T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:South Korea Public Holidays · Lunar New Year
-DESCRIPTION:Lunar New Year (South Korea Public Holidays)\n\n假期类型: 
- Public\n固定日期: 否\n全国通用: 是
+DESCRIPTION:Lunar New Year (South Korea Public Holidays)\n\nHoliday types:
+  Public\nNationwide: Yes
 CATEGORIES:South Korea Public Holidays
-URL;VALUE=URI:https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardList
- .do?bbsId=BBSMSTR_000000000015
+URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
+ ew.do?plcyBrfNo=431
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-public-holidays-kr-holiday-2027-lunar-new-year-02-07-public@koyomi.
+ cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:South Korea Public Holidays · Lunar New Year
+DESCRIPTION:Lunar New Year (South Korea Public Holidays)\n\nHoliday types:
+  Public\nNationwide: Yes
+CATEGORIES:South Korea Public Holidays
+URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
+ ew.do?plcyBrfNo=431
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-lunar-new-year-02-08-public@koyomi.
  cast
 SEQUENCE:0
-DTSTAMP:20261012T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:South Korea Public Holidays · Lunar New Year
-DESCRIPTION:Lunar New Year (South Korea Public Holidays)\n\n假期类型: 
- Public\n固定日期: 否\n全国通用: 是
+DESCRIPTION:Lunar New Year (South Korea Public Holidays)\n\nHoliday types:
+  Public\nNationwide: Yes
 CATEGORIES:South Korea Public Holidays
-URL;VALUE=URI:https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardList
- .do?bbsId=BBSMSTR_000000000015
+URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
+ ew.do?plcyBrfNo=431
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:kr-public-holidays-kr-holiday-2027-lunar-new-year-02-09-public@koyomi.
- cast
+UID:kr-public-holidays-kr-holiday-2027-lunar-new-year-substitute-holiday-0
+ 2-09-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261012T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:South Korea Public Holidays · Lunar New Year
-DESCRIPTION:Lunar New Year (South Korea Public Holidays)\n\n假期类型: 
- Public\n固定日期: 否\n全国通用: 是
+SUMMARY:South Korea Public Holidays · Lunar New Year substitute holiday
+DESCRIPTION:Lunar New Year substitute holiday (South Korea Public Holidays
+ )\n\nHoliday types: Public\nNationwide: Yes
 CATEGORIES:South Korea Public Holidays
-URL;VALUE=URI:https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardList
- .do?bbsId=BBSMSTR_000000000015
+URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
+ ew.do?plcyBrfNo=431
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-independence-movement-day-03-01-pub
  lic@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261012T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:South Korea Public Holidays · Independence Movement Day
-DESCRIPTION:Independence Movement Day (South Korea Public Holidays)\n\n假
- 期类型: Public\n固定日期: 否\n全国通用: 是
+DESCRIPTION:Independence Movement Day (South Korea Public Holidays)\n\nHol
+ iday types: Public\nNationwide: Yes
 CATEGORIES:South Korea Public Holidays
-URL;VALUE=URI:https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardList
- .do?bbsId=BBSMSTR_000000000015
+URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
+ ew.do?plcyBrfNo=431
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:kr-public-holidays-kr-holiday-2027-labour-day-05-03-public@koyomi.cast
+UID:kr-public-holidays-kr-holiday-2027-labour-day-05-01-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261012T000000
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:South Korea Public Holidays · Labour Day
+DESCRIPTION:Labour Day (South Korea Public Holidays)\n\nHoliday types: Pub
+ lic\nNationwide: Yes
+CATEGORIES:South Korea Public Holidays
+URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
+ ew.do?plcyBrfNo=431
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-public-holidays-kr-holiday-2027-labour-day-substitute-holiday-05-03
+ -public@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270503
 DTEND;VALUE=DATE:20270504
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:South Korea Public Holidays · Labour Day
-DESCRIPTION:Labour Day (South Korea Public Holidays)\n\n假期类型: Publ
- ic\n固定日期: 否\n全国通用: 是
+SUMMARY:South Korea Public Holidays · Labour Day substitute holiday
+DESCRIPTION:Labour Day substitute holiday (South Korea Public Holidays)\n\
+ nHoliday types: Public\nNationwide: Yes
 CATEGORIES:South Korea Public Holidays
-URL;VALUE=URI:https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardList
- .do?bbsId=BBSMSTR_000000000015
+URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
+ ew.do?plcyBrfNo=431
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-childrens-day-05-05-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20261012T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:South Korea Public Holidays · Children's Day
-DESCRIPTION:Children's Day (South Korea Public Holidays)\n\n假期类型: 
- Public\n固定日期: 否\n全国通用: 是
+DESCRIPTION:Children's Day (South Korea Public Holidays)\n\nHoliday types:
+  Public\nNationwide: Yes
 CATEGORIES:South Korea Public Holidays
-URL;VALUE=URI:https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardList
- .do?bbsId=BBSMSTR_000000000015
+URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
+ ew.do?plcyBrfNo=431
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-buddhas-birthday-05-13-public@koyom
  i.cast
 SEQUENCE:0
-DTSTAMP:20261012T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:South Korea Public Holidays · Buddha's Birthday
-DESCRIPTION:Buddha's Birthday (South Korea Public Holidays)\n\n假期类
- 型: Public\n固定日期: 否\n全国通用: 是
+DESCRIPTION:Buddha's Birthday (South Korea Public Holidays)\n\nHoliday typ
+ es: Public\nNationwide: Yes
 CATEGORIES:South Korea Public Holidays
-URL;VALUE=URI:https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardList
- .do?bbsId=BBSMSTR_000000000015
+URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
+ ew.do?plcyBrfNo=431
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-memorial-day-06-06-public@koyomi.ca
  st
 SEQUENCE:0
-DTSTAMP:20261012T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:South Korea Public Holidays · Memorial Day
-DESCRIPTION:Memorial Day (South Korea Public Holidays)\n\n假期类型: Pu
- blic\n固定日期: 否\n全国通用: 是
+DESCRIPTION:Memorial Day (South Korea Public Holidays)\n\nHoliday types: P
+ ublic\nNationwide: Yes
 CATEGORIES:South Korea Public Holidays
-URL;VALUE=URI:https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardList
- .do?bbsId=BBSMSTR_000000000015
+URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
+ ew.do?plcyBrfNo=431
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:kr-public-holidays-kr-holiday-2027-constitution-day-07-19-public@koyom
+UID:kr-public-holidays-kr-holiday-2027-constitution-day-07-17-public@koyom
  i.cast
 SEQUENCE:0
-DTSTAMP:20261012T000000
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:South Korea Public Holidays · Constitution Day
+DESCRIPTION:Constitution Day (South Korea Public Holidays)\n\nHoliday type
+ s: Public\nNationwide: Yes
+CATEGORIES:South Korea Public Holidays
+URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
+ ew.do?plcyBrfNo=431
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-public-holidays-kr-holiday-2027-constitution-day-substitute-holiday
+ -07-19-public@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270719
 DTEND;VALUE=DATE:20270720
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:South Korea Public Holidays · Constitution Day
-DESCRIPTION:Constitution Day (South Korea Public Holidays)\n\n假期类型
- : Public\n固定日期: 否\n全国通用: 是
+SUMMARY:South Korea Public Holidays · Constitution Day substitute holiday
+DESCRIPTION:Constitution Day substitute holiday (South Korea Public Holida
+ ys)\n\nHoliday types: Public\nNationwide: Yes
 CATEGORIES:South Korea Public Holidays
-URL;VALUE=URI:https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardList
- .do?bbsId=BBSMSTR_000000000015
+URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
+ ew.do?plcyBrfNo=431
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:kr-public-holidays-kr-holiday-2027-liberation-day-08-16-public@koyomi.
+UID:kr-public-holidays-kr-holiday-2027-liberation-day-08-15-public@koyomi.
  cast
 SEQUENCE:0
-DTSTAMP:20261012T000000
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:South Korea Public Holidays · Liberation Day
+DESCRIPTION:Liberation Day (South Korea Public Holidays)\n\nHoliday types:
+  Public\nNationwide: Yes
+CATEGORIES:South Korea Public Holidays
+URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
+ ew.do?plcyBrfNo=431
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-public-holidays-kr-holiday-2027-liberation-day-substitute-holiday-0
+ 8-16-public@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270816
 DTEND;VALUE=DATE:20270817
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:South Korea Public Holidays · Liberation Day
-DESCRIPTION:Liberation Day (South Korea Public Holidays)\n\n假期类型: 
- Public\n固定日期: 否\n全国通用: 是
+SUMMARY:South Korea Public Holidays · Liberation Day substitute holiday
+DESCRIPTION:Liberation Day substitute holiday (South Korea Public Holidays
+ )\n\nHoliday types: Public\nNationwide: Yes
 CATEGORIES:South Korea Public Holidays
-URL;VALUE=URI:https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardList
- .do?bbsId=BBSMSTR_000000000015
+URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
+ ew.do?plcyBrfNo=431
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-chuseok-09-14-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261012T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270914
 DTEND;VALUE=DATE:20270915
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:South Korea Public Holidays · Chuseok
-DESCRIPTION:Chuseok (South Korea Public Holidays)\n\n假期类型: Public\
- n固定日期: 否\n全国通用: 是
+DESCRIPTION:Chuseok (South Korea Public Holidays)\n\nHoliday types: Public
+ \nNationwide: Yes
 CATEGORIES:South Korea Public Holidays
-URL;VALUE=URI:https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardList
- .do?bbsId=BBSMSTR_000000000015
+URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
+ ew.do?plcyBrfNo=431
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-chuseok-09-15-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261012T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:South Korea Public Holidays · Chuseok
-DESCRIPTION:Chuseok (South Korea Public Holidays)\n\n假期类型: Public\
- n固定日期: 否\n全国通用: 是
+DESCRIPTION:Chuseok (South Korea Public Holidays)\n\nHoliday types: Public
+ \nNationwide: Yes
 CATEGORIES:South Korea Public Holidays
-URL;VALUE=URI:https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardList
- .do?bbsId=BBSMSTR_000000000015
+URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
+ ew.do?plcyBrfNo=431
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-chuseok-09-16-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261012T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270916
 DTEND;VALUE=DATE:20270917
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:South Korea Public Holidays · Chuseok
-DESCRIPTION:Chuseok (South Korea Public Holidays)\n\n假期类型: Public\
- n固定日期: 否\n全国通用: 是
+DESCRIPTION:Chuseok (South Korea Public Holidays)\n\nHoliday types: Public
+ \nNationwide: Yes
 CATEGORIES:South Korea Public Holidays
-URL;VALUE=URI:https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardList
- .do?bbsId=BBSMSTR_000000000015
+URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
+ ew.do?plcyBrfNo=431
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:kr-public-holidays-kr-holiday-2027-national-foundation-day-10-04-publi
+UID:kr-public-holidays-kr-holiday-2027-national-foundation-day-10-03-publi
  c@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261012T000000
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271004
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:South Korea Public Holidays · National Foundation Day
+DESCRIPTION:National Foundation Day (South Korea Public Holidays)\n\nHolid
+ ay types: Public\nNationwide: Yes
+CATEGORIES:South Korea Public Holidays
+URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
+ ew.do?plcyBrfNo=431
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-public-holidays-kr-holiday-2027-national-foundation-day-substitute-
+ holiday-10-04-public@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20271004
 DTEND;VALUE=DATE:20271005
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:South Korea Public Holidays · National Foundation Day
-DESCRIPTION:National Foundation Day (South Korea Public Holidays)\n\n假
- 期类型: Public\n固定日期: 否\n全国通用: 是
+SUMMARY:South Korea Public Holidays · National Foundation Day substitute 
+ holiday
+DESCRIPTION:National Foundation Day substitute holiday (South Korea Public
+  Holidays)\n\nHoliday types: Public\nNationwide: Yes
 CATEGORIES:South Korea Public Holidays
-URL;VALUE=URI:https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardList
- .do?bbsId=BBSMSTR_000000000015
+URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
+ ew.do?plcyBrfNo=431
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:kr-public-holidays-kr-holiday-2027-hangul-day-10-11-public@koyomi.cast
+UID:kr-public-holidays-kr-holiday-2027-hangul-day-10-09-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261012T000000
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:South Korea Public Holidays · Hangul Day
+DESCRIPTION:Hangul Day (South Korea Public Holidays)\n\nHoliday types: Pub
+ lic\nNationwide: Yes
+CATEGORIES:South Korea Public Holidays
+URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
+ ew.do?plcyBrfNo=431
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-public-holidays-kr-holiday-2027-hangul-day-substitute-holiday-10-11
+ -public@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20271011
 DTEND;VALUE=DATE:20271012
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:South Korea Public Holidays · Hangul Day
-DESCRIPTION:Hangul Day (South Korea Public Holidays)\n\n假期类型: Publ
- ic\n固定日期: 否\n全国通用: 是
+SUMMARY:South Korea Public Holidays · Hangul Day substitute holiday
+DESCRIPTION:Hangul Day substitute holiday (South Korea Public Holidays)\n\
+ nHoliday types: Public\nNationwide: Yes
 CATEGORIES:South Korea Public Holidays
-URL;VALUE=URI:https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardList
- .do?bbsId=BBSMSTR_000000000015
+URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
+ ew.do?plcyBrfNo=431
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-christmas-day-12-25-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20261012T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20271225
 DTEND;VALUE=DATE:20271226
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:South Korea Public Holidays · Christmas Day
-DESCRIPTION:Christmas Day (South Korea Public Holidays)\n\n假期类型: P
- ublic\n固定日期: 否\n全国通用: 是
+DESCRIPTION:Christmas Day (South Korea Public Holidays)\n\nHoliday types: 
+ Public\nNationwide: Yes
 CATEGORIES:South Korea Public Holidays
-URL;VALUE=URI:https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardList
- .do?bbsId=BBSMSTR_000000000015
+URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
+ ew.do?plcyBrfNo=431
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-public-holidays-kr-holiday-2027-christmas-day-substitute-holiday-12
+ -27-public@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20271227
+DTEND;VALUE=DATE:20271228
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:South Korea Public Holidays · Christmas Day substitute holiday
+DESCRIPTION:Christmas Day substitute holiday (South Korea Public Holidays)
+ \n\nHoliday types: Public\nNationwide: Yes
+CATEGORIES:South Korea Public Holidays
+URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
+ ew.do?plcyBrfNo=431
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

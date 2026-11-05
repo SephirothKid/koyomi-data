@@ -12,7 +12,7 @@ BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2026-christmas-day-12-25-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20260824T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -28,129 +28,456 @@ BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-new-years-day-01-01-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20260824T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:印度尼西亚公众假期 · Tahun Baru Masehi
 DESCRIPTION:Tahun Baru Masehi（印度尼西亚公众假期）\n\n假期
- 类型: Public\n固定日期: 否\n全国通用: 是
+ 类型: Public\n全国通用: 是
 CATEGORIES:印度尼西亚公众假期
-URL;VALUE=URI:https://www.kemenkopmk.go.id/
+URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
+ bur-nasional-dan-8-cuti-bersama-tahun-2027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:id-public-holidays-id-holiday-2027-isra-and-miraj-01-05-public@koyomi.
+ cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:印度尼西亚公众假期 · Isra Mikraj Nabi Muhammad SAW
+DESCRIPTION:Isra Mikraj Nabi Muhammad SAW（印度尼西亚公众假期）
+ \n\n假期类型: Public\n全国通用: 是
+CATEGORIES:印度尼西亚公众假期
+URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
+ bur-nasional-dan-8-cuti-bersama-tahun-2027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:id-public-holidays-id-holiday-2027-chinese-new-year-collective-leave-0
+ 2-05-optional@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:印度尼西亚公众假期 · Cuti Bersama Tahun Baru Imlek
+DESCRIPTION:Cuti Bersama Tahun Baru Imlek（印度尼西亚公众假期）
+ \n\n假期类型: Optional\n全国通用: 是\n适用说明: Collective le
+ ave applies to civil servants\; private-sector implementation is determine
+ d by the employer.
+CATEGORIES:印度尼西亚公众假期
+URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
+ bur-nasional-dan-8-cuti-bersama-tahun-2027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:id-public-holidays-id-holiday-2027-chinese-new-year-02-06-public@koyom
+ i.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:印度尼西亚公众假期 · Tahun Baru Imlek
+DESCRIPTION:Tahun Baru Imlek（印度尼西亚公众假期）\n\n假期类
+ 型: Public\n全国通用: 是
+CATEGORIES:印度尼西亚公众假期
+URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
+ bur-nasional-dan-8-cuti-bersama-tahun-2027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:id-public-holidays-id-holiday-2027-day-of-silence-03-08-public@koyomi.
+ cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:印度尼西亚公众假期 · Hari Suci Nyepi
+DESCRIPTION:Hari Suci Nyepi（印度尼西亚公众假期）\n\n假期类
+ 型: Public\n全国通用: 是
+CATEGORIES:印度尼西亚公众假期
+URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
+ bur-nasional-dan-8-cuti-bersama-tahun-2027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:id-public-holidays-id-holiday-2027-eid-al-fitr-collective-leave-03-09-
+ optional@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:印度尼西亚公众假期 · Cuti Bersama Idul Fitri
+DESCRIPTION:Cuti Bersama Idul Fitri（印度尼西亚公众假期）\n\n
+ 假期类型: Optional\n全国通用: 是\n适用说明: Collective leave 
+ applies to civil servants\; private-sector implementation is determined by
+  the employer.
+CATEGORIES:印度尼西亚公众假期
+URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
+ bur-nasional-dan-8-cuti-bersama-tahun-2027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:id-public-holidays-id-holiday-2027-eid-al-fitr-03-10-public@koyomi.cas
+ t
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:印度尼西亚公众假期 · Idul Fitri
+DESCRIPTION:Idul Fitri（印度尼西亚公众假期）\n\n假期类型: P
+ ublic\n全国通用: 是
+CATEGORIES:印度尼西亚公众假期
+URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
+ bur-nasional-dan-8-cuti-bersama-tahun-2027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:id-public-holidays-id-holiday-2027-eid-al-fitr-03-11-public@koyomi.cas
+ t
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:印度尼西亚公众假期 · Idul Fitri
+DESCRIPTION:Idul Fitri（印度尼西亚公众假期）\n\n假期类型: P
+ ublic\n全国通用: 是
+CATEGORIES:印度尼西亚公众假期
+URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
+ bur-nasional-dan-8-cuti-bersama-tahun-2027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:id-public-holidays-id-holiday-2027-eid-al-fitr-collective-leave-03-12-
+ optional@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:印度尼西亚公众假期 · Cuti Bersama Idul Fitri
+DESCRIPTION:Cuti Bersama Idul Fitri（印度尼西亚公众假期）\n\n
+ 假期类型: Optional\n全国通用: 是\n适用说明: Collective leave 
+ applies to civil servants\; private-sector implementation is determined by
+  the employer.
+CATEGORIES:印度尼西亚公众假期
+URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
+ bur-nasional-dan-8-cuti-bersama-tahun-2027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:id-public-holidays-id-holiday-2027-eid-al-fitr-collective-leave-03-15-
+ optional@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:印度尼西亚公众假期 · Cuti Bersama Idul Fitri
+DESCRIPTION:Cuti Bersama Idul Fitri（印度尼西亚公众假期）\n\n
+ 假期类型: Optional\n全国通用: 是\n适用说明: Collective leave 
+ applies to civil servants\; private-sector implementation is determined by
+  the employer.
+CATEGORIES:印度尼西亚公众假期
+URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
+ bur-nasional-dan-8-cuti-bersama-tahun-2027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:id-public-holidays-id-holiday-2027-good-friday-collective-leave-03-25-
+ optional@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:印度尼西亚公众假期 · Cuti Bersama Wafat Yesus Kristus
+DESCRIPTION:Cuti Bersama Wafat Yesus Kristus（印度尼西亚公众假期
+ ）\n\n假期类型: Optional\n全国通用: 是\n适用说明: Collective
+  leave applies to civil servants\; private-sector implementation is determ
+ ined by the employer.
+CATEGORIES:印度尼西亚公众假期
+URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
+ bur-nasional-dan-8-cuti-bersama-tahun-2027
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-good-friday-03-26-public@koyomi.cas
  t
 SEQUENCE:0
-DTSTAMP:20260824T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:印度尼西亚公众假期 · Wafat Isa Almasih
-DESCRIPTION:Wafat Isa Almasih（印度尼西亚公众假期）\n\n假期
- 类型: Public\n固定日期: 否\n全国通用: 是
+SUMMARY:印度尼西亚公众假期 · Wafat Yesus Kristus
+DESCRIPTION:Wafat Yesus Kristus（印度尼西亚公众假期）\n\n假期
+ 类型: Public\n全国通用: 是
 CATEGORIES:印度尼西亚公众假期
-URL;VALUE=URI:https://www.kemenkopmk.go.id/
+URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
+ bur-nasional-dan-8-cuti-bersama-tahun-2027
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-easter-sunday-03-28-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20260824T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:印度尼西亚公众假期 · Paskah
 DESCRIPTION:Paskah（印度尼西亚公众假期）\n\n假期类型: Publi
- c\n固定日期: 否\n全国通用: 是
+ c\n全国通用: 是
 CATEGORIES:印度尼西亚公众假期
-URL;VALUE=URI:https://www.kemenkopmk.go.id/
+URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
+ bur-nasional-dan-8-cuti-bersama-tahun-2027
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-labour-day-05-01-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260824T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:印度尼西亚公众假期 · Hari Buruh Internasional
 DESCRIPTION:Hari Buruh Internasional（印度尼西亚公众假期）\n\n
- 假期类型: Public\n固定日期: 否\n全国通用: 是
+ 假期类型: Public\n全国通用: 是
 CATEGORIES:印度尼西亚公众假期
-URL;VALUE=URI:https://www.kemenkopmk.go.id/
+URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
+ bur-nasional-dan-8-cuti-bersama-tahun-2027
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-ascension-day-05-06-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20260824T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:印度尼西亚公众假期 · Kenaikan Isa Almasih
-DESCRIPTION:Kenaikan Isa Almasih（印度尼西亚公众假期）\n\n假
- 期类型: Public\n固定日期: 否\n全国通用: 是
+SUMMARY:印度尼西亚公众假期 · Kenaikan Yesus Kristus
+DESCRIPTION:Kenaikan Yesus Kristus（印度尼西亚公众假期）\n\n假
+ 期类型: Public\n全国通用: 是
 CATEGORIES:印度尼西亚公众假期
-URL;VALUE=URI:https://www.kemenkopmk.go.id/
+URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
+ bur-nasional-dan-8-cuti-bersama-tahun-2027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:id-public-holidays-id-holiday-2027-eid-al-adha-05-17-public@koyomi.cas
+ t
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:印度尼西亚公众假期 · Idul Adha
+DESCRIPTION:Idul Adha（印度尼西亚公众假期）\n\n假期类型: Pu
+ blic\n全国通用: 是
+CATEGORIES:印度尼西亚公众假期
+URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
+ bur-nasional-dan-8-cuti-bersama-tahun-2027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:id-public-holidays-id-holiday-2027-eid-al-adha-collective-leave-05-18-
+ optional@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:印度尼西亚公众假期 · Cuti Bersama Idul Adha
+DESCRIPTION:Cuti Bersama Idul Adha（印度尼西亚公众假期）\n\n假
+ 期类型: Optional\n全国通用: 是\n适用说明: Collective leave app
+ lies to civil servants\; private-sector implementation is determined by th
+ e employer.
+CATEGORIES:印度尼西亚公众假期
+URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
+ bur-nasional-dan-8-cuti-bersama-tahun-2027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:id-public-holidays-id-holiday-2027-vesak-day-collective-leave-05-19-op
+ tional@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:印度尼西亚公众假期 · Cuti Bersama Waisak
+DESCRIPTION:Cuti Bersama Waisak（印度尼西亚公众假期）\n\n假期
+ 类型: Optional\n全国通用: 是\n适用说明: Collective leave applie
+ s to civil servants\; private-sector implementation is determined by the e
+ mployer.
+CATEGORIES:印度尼西亚公众假期
+URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
+ bur-nasional-dan-8-cuti-bersama-tahun-2027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:id-public-holidays-id-holiday-2027-vesak-day-05-20-public@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:印度尼西亚公众假期 · Hari Raya Waisak
+DESCRIPTION:Hari Raya Waisak（印度尼西亚公众假期）\n\n假期类
+ 型: Public\n全国通用: 是
+CATEGORIES:印度尼西亚公众假期
+URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
+ bur-nasional-dan-8-cuti-bersama-tahun-2027
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-pancasila-day-06-01-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20260824T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270602
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:印度尼西亚公众假期 · Hari Lahir Pancasila
 DESCRIPTION:Hari Lahir Pancasila（印度尼西亚公众假期）\n\n假
- 期类型: Public\n固定日期: 否\n全国通用: 是
+ 期类型: Public\n全国通用: 是
 CATEGORIES:印度尼西亚公众假期
-URL;VALUE=URI:https://www.kemenkopmk.go.id/
+URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
+ bur-nasional-dan-8-cuti-bersama-tahun-2027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:id-public-holidays-id-holiday-2027-islamic-new-year-06-06-public@koyom
+ i.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:印度尼西亚公众假期 · Tahun Baru Islam
+DESCRIPTION:Tahun Baru Islam（印度尼西亚公众假期）\n\n假期类
+ 型: Public\n全国通用: 是
+CATEGORIES:印度尼西亚公众假期
+URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
+ bur-nasional-dan-8-cuti-bersama-tahun-2027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:id-public-holidays-id-holiday-2027-prophet-muhammads-birthday-08-15-pu
+ blic@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:印度尼西亚公众假期 · Maulid Nabi Muhammad SAW
+DESCRIPTION:Maulid Nabi Muhammad SAW（印度尼西亚公众假期）\n\n
+ 假期类型: Public\n全国通用: 是
+CATEGORIES:印度尼西亚公众假期
+URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
+ bur-nasional-dan-8-cuti-bersama-tahun-2027
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-independence-day-08-17-public@koyom
  i.cast
 SEQUENCE:0
-DTSTAMP:20260824T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270817
 DTEND;VALUE=DATE:20270818
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:印度尼西亚公众假期 · Hari Ulang Tahun Kemerdekaan Republ
- ik Indonesia
-DESCRIPTION:Hari Ulang Tahun Kemerdekaan Republik Indonesia（印度尼西
- 亚公众假期）\n\n假期类型: Public\n固定日期: 否\n全国通
- 用: 是
+SUMMARY:印度尼西亚公众假期 · Proklamasi Kemerdekaan
+DESCRIPTION:Proklamasi Kemerdekaan（印度尼西亚公众假期）\n\n假
+ 期类型: Public\n全国通用: 是
 CATEGORIES:印度尼西亚公众假期
-URL;VALUE=URI:https://www.kemenkopmk.go.id/
+URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
+ bur-nasional-dan-8-cuti-bersama-tahun-2027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:id-public-holidays-id-holiday-2027-christmas-collective-leave-12-24-op
+ tional@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20271225
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:印度尼西亚公众假期 · Cuti Bersama Natal
+DESCRIPTION:Cuti Bersama Natal（印度尼西亚公众假期）\n\n假期
+ 类型: Optional\n全国通用: 是\n适用说明: Collective leave applie
+ s to civil servants\; private-sector implementation is determined by the e
+ mployer.
+CATEGORIES:印度尼西亚公众假期
+URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
+ bur-nasional-dan-8-cuti-bersama-tahun-2027
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-christmas-day-12-25-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20260824T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20271225
 DTEND;VALUE=DATE:20271226
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:印度尼西亚公众假期 · Hari Raya Natal
-DESCRIPTION:Hari Raya Natal（印度尼西亚公众假期）\n\n假期类
- 型: Public\n固定日期: 否\n全国通用: 是
+SUMMARY:印度尼西亚公众假期 · Kelahiran Yesus Kristus
+DESCRIPTION:Kelahiran Yesus Kristus（印度尼西亚公众假期）\n\n
+ 假期类型: Public\n全国通用: 是
 CATEGORIES:印度尼西亚公众假期
-URL;VALUE=URI:https://www.kemenkopmk.go.id/
+URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
+ bur-nasional-dan-8-cuti-bersama-tahun-2027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:id-public-holidays-id-holiday-2027-isra-and-miraj-12-26-public@koyomi.
+ cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20271226
+DTEND;VALUE=DATE:20271227
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:印度尼西亚公众假期 · Isra Mikraj Nabi Muhammad SAW
+DESCRIPTION:Isra Mikraj Nabi Muhammad SAW（印度尼西亚公众假期）
+ \n\n假期类型: Public\n全国通用: 是
+CATEGORIES:印度尼西亚公众假期
+URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
+ bur-nasional-dan-8-cuti-bersama-tahun-2027
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -11,7 +11,7 @@ X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jp-public-holidays-jp-holiday-2026-sports-day-10-12-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261019T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 UID:jp-public-holidays-jp-holiday-2026-culture-day-11-03-public@koyomi.cas
  t
 SEQUENCE:0
-DTSTAMP:20261019T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 UID:jp-public-holidays-jp-holiday-2026-labour-thanksgiving-day-11-23-publi
  c@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261019T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -59,253 +59,269 @@ BEGIN:VEVENT
 UID:jp-public-holidays-jp-holiday-2027-new-years-day-01-01-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20261019T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:日本公众假期 · 元日
-DESCRIPTION:元日（日本公众假期）\n\n假期类型: Public\n固定
- 日期: 否\n全国通用: 是
+DESCRIPTION:元日（日本公众假期）\n\n假期类型: Public\n全国
+ 通用: 是
 CATEGORIES:日本公众假期
-URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html
+URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jp-public-holidays-jp-holiday-2027-coming-of-age-day-01-11-public@koyo
  mi.cast
 SEQUENCE:0
-DTSTAMP:20261019T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:日本公众假期 · 成人の日
 DESCRIPTION:成人の日（日本公众假期）\n\n假期类型: Public\n
- 固定日期: 否\n全国通用: 是
+ 全国通用: 是
 CATEGORIES:日本公众假期
-URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html
+URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jp-public-holidays-jp-holiday-2027-foundation-day-02-11-public@koyomi.
  cast
 SEQUENCE:0
-DTSTAMP:20261019T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:日本公众假期 · 建国記念の日
 DESCRIPTION:建国記念の日（日本公众假期）\n\n假期类型: Pu
- blic\n固定日期: 否\n全国通用: 是
+ blic\n全国通用: 是
 CATEGORIES:日本公众假期
-URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html
+URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jp-public-holidays-jp-holiday-2027-the-emperors-birthday-02-23-public@
  koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261019T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:日本公众假期 · 天皇誕生日
 DESCRIPTION:天皇誕生日（日本公众假期）\n\n假期类型: Publi
- c\n固定日期: 否\n全国通用: 是
+ c\n全国通用: 是
 CATEGORIES:日本公众假期
-URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html
+URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jp-public-holidays-jp-holiday-2027-vernal-equinox-day-03-21-public@koy
  omi.cast
 SEQUENCE:0
-DTSTAMP:20261019T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:日本公众假期 · 春分の日
 DESCRIPTION:春分の日（日本公众假期）\n\n假期类型: Public\n
- 固定日期: 否\n全国通用: 是
+ 全国通用: 是
 CATEGORIES:日本公众假期
-URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html
+URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jp-public-holidays-jp-holiday-2027-public-holiday-03-22-public@koyomi.
+ cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:日本公众假期 · 休日
+DESCRIPTION:休日（日本公众假期）\n\n假期类型: Public\n全国
+ 通用: 是
+CATEGORIES:日本公众假期
+URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jp-public-holidays-jp-holiday-2027-shwa-day-04-29-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261019T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270429
 DTEND;VALUE=DATE:20270430
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:日本公众假期 · 昭和の日
 DESCRIPTION:昭和の日（日本公众假期）\n\n假期类型: Public\n
- 固定日期: 否\n全国通用: 是
+ 全国通用: 是
 CATEGORIES:日本公众假期
-URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html
+URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jp-public-holidays-jp-holiday-2027-constitution-memorial-day-05-03-pub
  lic@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261019T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270503
 DTEND;VALUE=DATE:20270504
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:日本公众假期 · 憲法記念日
 DESCRIPTION:憲法記念日（日本公众假期）\n\n假期类型: Publi
- c\n固定日期: 否\n全国通用: 是
+ c\n全国通用: 是
 CATEGORIES:日本公众假期
-URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html
+URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jp-public-holidays-jp-holiday-2027-greenery-day-05-04-public@koyomi.ca
  st
 SEQUENCE:0
-DTSTAMP:20261019T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:日本公众假期 · みどりの日
 DESCRIPTION:みどりの日（日本公众假期）\n\n假期类型: Publi
- c\n固定日期: 否\n全国通用: 是
+ c\n全国通用: 是
 CATEGORIES:日本公众假期
-URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html
+URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jp-public-holidays-jp-holiday-2027-childrens-day-05-05-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20261019T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:日本公众假期 · こどもの日
 DESCRIPTION:こどもの日（日本公众假期）\n\n假期类型: Publi
- c\n固定日期: 否\n全国通用: 是
+ c\n全国通用: 是
 CATEGORIES:日本公众假期
-URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html
+URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jp-public-holidays-jp-holiday-2027-marine-day-07-19-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261019T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270719
 DTEND;VALUE=DATE:20270720
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:日本公众假期 · 海の日
-DESCRIPTION:海の日（日本公众假期）\n\n假期类型: Public\n固
- 定日期: 否\n全国通用: 是
+DESCRIPTION:海の日（日本公众假期）\n\n假期类型: Public\n全
+ 国通用: 是
 CATEGORIES:日本公众假期
-URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html
+URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jp-public-holidays-jp-holiday-2027-mountain-day-08-11-public@koyomi.ca
  st
 SEQUENCE:0
-DTSTAMP:20261019T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270812
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:日本公众假期 · 山の日
-DESCRIPTION:山の日（日本公众假期）\n\n假期类型: Public\n固
- 定日期: 否\n全国通用: 是
+DESCRIPTION:山の日（日本公众假期）\n\n假期类型: Public\n全
+ 国通用: 是
 CATEGORIES:日本公众假期
-URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html
+URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jp-public-holidays-jp-holiday-2027-respect-for-the-aged-day-09-20-publ
  ic@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261019T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270920
 DTEND;VALUE=DATE:20270921
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:日本公众假期 · 敬老の日
 DESCRIPTION:敬老の日（日本公众假期）\n\n假期类型: Public\n
- 固定日期: 否\n全国通用: 是
+ 全国通用: 是
 CATEGORIES:日本公众假期
-URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html
+URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jp-public-holidays-jp-holiday-2027-autumnal-equinox-day-09-23-public@k
  oyomi.cast
 SEQUENCE:0
-DTSTAMP:20261019T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270923
 DTEND;VALUE=DATE:20270924
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:日本公众假期 · 秋分の日
 DESCRIPTION:秋分の日（日本公众假期）\n\n假期类型: Public\n
- 固定日期: 否\n全国通用: 是
+ 全国通用: 是
 CATEGORIES:日本公众假期
-URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html
+URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jp-public-holidays-jp-holiday-2027-sports-day-10-11-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261019T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20271011
 DTEND;VALUE=DATE:20271012
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:日本公众假期 · スポーツの日
 DESCRIPTION:スポーツの日（日本公众假期）\n\n假期类型: Pu
- blic\n固定日期: 否\n全国通用: 是
+ blic\n全国通用: 是
 CATEGORIES:日本公众假期
-URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html
+URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jp-public-holidays-jp-holiday-2027-culture-day-11-03-public@koyomi.cas
  t
 SEQUENCE:0
-DTSTAMP:20261019T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20271103
 DTEND;VALUE=DATE:20271104
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:日本公众假期 · 文化の日
 DESCRIPTION:文化の日（日本公众假期）\n\n假期类型: Public\n
- 固定日期: 否\n全国通用: 是
+ 全国通用: 是
 CATEGORIES:日本公众假期
-URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html
+URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jp-public-holidays-jp-holiday-2027-labour-thanksgiving-day-11-23-publi
  c@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261019T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20271123
 DTEND;VALUE=DATE:20271124
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:日本公众假期 · 勤労感謝の日
 DESCRIPTION:勤労感謝の日（日本公众假期）\n\n假期类型: Pu
- blic\n固定日期: 否\n全国通用: 是
+ blic\n全国通用: 是
 CATEGORIES:日本公众假期
-URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html
+URL;VALUE=URI:https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

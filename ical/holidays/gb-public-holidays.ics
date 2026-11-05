@@ -12,7 +12,7 @@ BEGIN:VEVENT
 UID:gb-public-holidays-gb-holiday-2026-saint-andrews-day-11-30-sct@koyomi.
  cast
 SEQUENCE:0
-DTSTAMP:20260907T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 UID:gb-public-holidays-gb-holiday-2026-christmas-day-12-25-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20260907T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -44,7 +44,7 @@ BEGIN:VEVENT
 UID:gb-public-holidays-gb-holiday-2026-st-stephens-day-12-28-public@koyomi
  .cast
 SEQUENCE:0
-DTSTAMP:20260907T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -57,211 +57,208 @@ URL;VALUE=URI:https://www.gov.uk/bank-holidays
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:gb-public-holidays-gb-holiday-2027-new-years-day-01-01-eng@koyomi.cast
+UID:gb-public-holidays-gb-holiday-2027-new-years-day-01-01-public@koyomi.c
+ ast
 SEQUENCE:0
-DTSTAMP:20260907T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:英国银行假日 · New Year's Day
 DESCRIPTION:New Year's Day（英国银行假日）\n\n假期类型: Public
- \n固定日期: 否\n全国通用: 否\n适用地区: GB-ENG\, GB-NIR\, GB
- -SCT\, GB-WLS
+ \n全国通用: 是
 CATEGORIES:英国银行假日
-URL;VALUE=URI:https://www.gov.uk/bank-holidays
+URL;VALUE=URI:https://www.gov.uk/bank-holidays.json
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:gb-public-holidays-gb-holiday-2027-2-january-01-02-sct@koyomi.cast
+UID:gb-public-holidays-gb-holiday-2027-2-january-01-04-sct@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260907T000000
-DTSTART;VALUE=DATE:20270102
-DTEND;VALUE=DATE:20270103
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:英国银行假日 · 2 January
-DESCRIPTION:2 January（英国银行假日）\n\n假期类型: Public\n固
- 定日期: 否\n全国通用: 否\n适用地区: GB-SCT
+DESCRIPTION:2 January（英国银行假日）\n\n假期类型: Public\n全
+ 国通用: 否\n适用地区: GB-SCT\n适用说明: Substitute day
 CATEGORIES:英国银行假日
-URL;VALUE=URI:https://www.gov.uk/bank-holidays
+URL;VALUE=URI:https://www.gov.uk/bank-holidays.json
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-public-holidays-gb-holiday-2027-saint-patricks-day-03-17-nir@koyomi
  .cast
 SEQUENCE:0
-DTSTAMP:20260907T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:英国银行假日 · Saint Patrick's Day
 DESCRIPTION:Saint Patrick's Day（英国银行假日）\n\n假期类型: P
- ublic\n固定日期: 否\n全国通用: 否\n适用地区: GB-NIR
+ ublic\n全国通用: 否\n适用地区: GB-NIR
 CATEGORIES:英国银行假日
-URL;VALUE=URI:https://www.gov.uk/bank-holidays
+URL;VALUE=URI:https://www.gov.uk/bank-holidays.json
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-public-holidays-gb-holiday-2027-good-friday-03-26-public@koyomi.cas
  t
 SEQUENCE:0
-DTSTAMP:20260907T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:英国银行假日 · Good Friday
 DESCRIPTION:Good Friday（英国银行假日）\n\n假期类型: Public\n
- 固定日期: 否\n全国通用: 是
+ 全国通用: 是
 CATEGORIES:英国银行假日
-URL;VALUE=URI:https://www.gov.uk/bank-holidays
+URL;VALUE=URI:https://www.gov.uk/bank-holidays.json
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-public-holidays-gb-holiday-2027-easter-monday-03-29-eng@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260907T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:英国银行假日 · Easter Monday
 DESCRIPTION:Easter Monday（英国银行假日）\n\n假期类型: Public\
- n固定日期: 否\n全国通用: 否\n适用地区: GB-ENG\, GB-WLS\, GB-
- NIR
+ n全国通用: 否\n适用地区: GB-ENG\, GB-WLS\, GB-NIR
 CATEGORIES:英国银行假日
-URL;VALUE=URI:https://www.gov.uk/bank-holidays
+URL;VALUE=URI:https://www.gov.uk/bank-holidays.json
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-public-holidays-gb-holiday-2027-early-may-bank-holiday-05-03-public
  @koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260907T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270503
 DTEND;VALUE=DATE:20270504
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:英国银行假日 · Early May Bank Holiday
 DESCRIPTION:Early May Bank Holiday（英国银行假日）\n\n假期类型
- : Public\n固定日期: 否\n全国通用: 是
+ : Public\n全国通用: 是
 CATEGORIES:英国银行假日
-URL;VALUE=URI:https://www.gov.uk/bank-holidays
+URL;VALUE=URI:https://www.gov.uk/bank-holidays.json
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-public-holidays-gb-holiday-2027-spring-bank-holiday-05-31-public@ko
  yomi.cast
 SEQUENCE:0
-DTSTAMP:20260907T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270601
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:英国银行假日 · Spring Bank Holiday
 DESCRIPTION:Spring Bank Holiday（英国银行假日）\n\n假期类型: P
- ublic\n固定日期: 否\n全国通用: 是
+ ublic\n全国通用: 是
 CATEGORIES:英国银行假日
-URL;VALUE=URI:https://www.gov.uk/bank-holidays
+URL;VALUE=URI:https://www.gov.uk/bank-holidays.json
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-public-holidays-gb-holiday-2027-battle-of-the-boyne-07-12-nir@koyom
  i.cast
 SEQUENCE:0
-DTSTAMP:20260907T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270712
 DTEND;VALUE=DATE:20270713
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:英国银行假日 · Battle of the Boyne
 DESCRIPTION:Battle of the Boyne（英国银行假日）\n\n假期类型: P
- ublic\n固定日期: 否\n全国通用: 否\n适用地区: GB-NIR
+ ublic\n全国通用: 否\n适用地区: GB-NIR
 CATEGORIES:英国银行假日
-URL;VALUE=URI:https://www.gov.uk/bank-holidays
+URL;VALUE=URI:https://www.gov.uk/bank-holidays.json
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-public-holidays-gb-holiday-2027-summer-bank-holiday-08-02-sct@koyom
  i.cast
 SEQUENCE:0
-DTSTAMP:20260907T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270802
 DTEND;VALUE=DATE:20270803
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:英国银行假日 · Summer Bank Holiday
 DESCRIPTION:Summer Bank Holiday（英国银行假日）\n\n假期类型: P
- ublic\n固定日期: 否\n全国通用: 否\n适用地区: GB-SCT
+ ublic\n全国通用: 否\n适用地区: GB-SCT
 CATEGORIES:英国银行假日
-URL;VALUE=URI:https://www.gov.uk/bank-holidays
+URL;VALUE=URI:https://www.gov.uk/bank-holidays.json
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-public-holidays-gb-holiday-2027-summer-bank-holiday-08-30-eng@koyom
  i.cast
 SEQUENCE:0
-DTSTAMP:20260907T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270830
 DTEND;VALUE=DATE:20270831
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:英国银行假日 · Summer Bank Holiday
 DESCRIPTION:Summer Bank Holiday（英国银行假日）\n\n假期类型: P
- ublic\n固定日期: 否\n全国通用: 否\n适用地区: GB-ENG\, GB-WLS
- \, GB-NIR
+ ublic\n全国通用: 否\n适用地区: GB-ENG\, GB-WLS\, GB-NIR
 CATEGORIES:英国银行假日
-URL;VALUE=URI:https://www.gov.uk/bank-holidays
+URL;VALUE=URI:https://www.gov.uk/bank-holidays.json
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-public-holidays-gb-holiday-2027-saint-andrews-day-11-30-sct@koyomi.
  cast
 SEQUENCE:0
-DTSTAMP:20260907T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20271130
 DTEND;VALUE=DATE:20271201
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:英国银行假日 · Saint Andrew's Day
 DESCRIPTION:Saint Andrew's Day（英国银行假日）\n\n假期类型: Pu
- blic\n固定日期: 否\n全国通用: 否\n适用地区: GB-SCT
+ blic\n全国通用: 否\n适用地区: GB-SCT
 CATEGORIES:英国银行假日
-URL;VALUE=URI:https://www.gov.uk/bank-holidays
+URL;VALUE=URI:https://www.gov.uk/bank-holidays.json
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-public-holidays-gb-holiday-2027-christmas-day-12-27-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20260907T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20271227
 DTEND;VALUE=DATE:20271228
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:英国银行假日 · Christmas Day
 DESCRIPTION:Christmas Day（英国银行假日）\n\n假期类型: Public\
- n固定日期: 否\n全国通用: 是
+ n全国通用: 是\n适用说明: Substitute day
 CATEGORIES:英国银行假日
-URL;VALUE=URI:https://www.gov.uk/bank-holidays
+URL;VALUE=URI:https://www.gov.uk/bank-holidays.json
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:gb-public-holidays-gb-holiday-2027-st-stephens-day-12-28-public@koyomi
- .cast
+UID:gb-public-holidays-gb-holiday-2027-boxing-day-12-28-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260907T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20271228
 DTEND;VALUE=DATE:20271229
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:英国银行假日 · Boxing Day
 DESCRIPTION:Boxing Day（英国银行假日）\n\n假期类型: Public\n
- 固定日期: 否\n全国通用: 是
+ 全国通用: 是\n适用说明: Substitute day
 CATEGORIES:英国银行假日
-URL;VALUE=URI:https://www.gov.uk/bank-holidays
+URL;VALUE=URI:https://www.gov.uk/bank-holidays.json
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

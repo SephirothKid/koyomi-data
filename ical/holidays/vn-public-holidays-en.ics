@@ -12,63 +12,132 @@ BEGIN:VEVENT
 UID:vn-public-holidays-vn-holiday-2027-new-years-day-01-01-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20260907T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Vietnam Public Holidays · New Year's Day
-DESCRIPTION:New Year's Day (Vietnam Public Holidays)\n\n假期类型: Publ
- ic\n固定日期: 否\n全国通用: 是
+DESCRIPTION:New Year's Day (Vietnam Public Holidays)\n\nHoliday types: Pub
+ lic\nNationwide: Yes\nNotes: Public-sector calendar for a Saturday/Sunday 
+ weekend. Private employers choose their Tet and National Day arrangements 
+ under the Labour Code.
 CATEGORIES:Vietnam Public Holidays
-URL;VALUE=URI:https://www.molisa.gov.vn/
+URL;VALUE=URI:https://xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-ngh
+ i-tet-nguyen-dan-2027-tet-dinh-mui-11926080513033257.htm
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:vn-public-holidays-vn-holiday-2027-vietnamese-new-year-02-04-public@ko
+ yomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270211
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Vietnam Public Holidays · Vietnamese New Year
+DESCRIPTION:Vietnamese New Year (Vietnam Public Holidays)\n\nHoliday types
+ : Public\nNationwide: Yes\nNotes: Public-sector calendar for a Saturday/Su
+ nday weekend. Private employers choose their Tet and National Day arrangem
+ ents under the Labour Code.
+CATEGORIES:Vietnam Public Holidays
+URL;VALUE=URI:https://xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-ngh
+ i-tet-nguyen-dan-2027-tet-dinh-mui-11926080513033257.htm
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:vn-public-holidays-vn-holiday-2027-hung-kings-commemoration-day-04-16-
+ public@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Vietnam Public Holidays · Hung Kings Commemoration Day
+DESCRIPTION:Hung Kings Commemoration Day (Vietnam Public Holidays)\n\nHoli
+ day types: Public\nNationwide: Yes\nNotes: Public-sector calendar for a Sa
+ turday/Sunday weekend. Private employers choose their Tet and National Day
+  arrangements under the Labour Code.
+CATEGORIES:Vietnam Public Holidays
+URL;VALUE=URI:https://bvhttdl.gov.vn/to-chuc-chuoi-hoat-dong-van-hoa-nghe-
+ thuat-dip-gio-to-hung-vuong-nam-2027-20260228171220680.htm
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:vn-public-holidays-vn-holiday-2027-reunification-day-04-30-public@koyo
  mi.cast
 SEQUENCE:0
-DTSTAMP:20260907T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Vietnam Public Holidays · Reunification Day
-DESCRIPTION:Reunification Day (Vietnam Public Holidays)\n\n假期类型: P
- ublic\n固定日期: 否\n全国通用: 是
+DESCRIPTION:Reunification Day (Vietnam Public Holidays)\n\nHoliday types: 
+ Public\nNationwide: Yes\nNotes: Public-sector calendar for a Saturday/Sund
+ ay weekend. Private employers choose their Tet and National Day arrangemen
+ ts under the Labour Code.
 CATEGORIES:Vietnam Public Holidays
-URL;VALUE=URI:https://www.molisa.gov.vn/
+URL;VALUE=URI:https://xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-ngh
+ i-tet-nguyen-dan-2027-tet-dinh-mui-11926080513033257.htm
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:vn-public-holidays-vn-holiday-2027-labour-day-05-01-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260907T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Vietnam Public Holidays · Labour Day
-DESCRIPTION:Labour Day (Vietnam Public Holidays)\n\n假期类型: Public\n
- 固定日期: 否\n全国通用: 是
+DESCRIPTION:Labour Day (Vietnam Public Holidays)\n\nHoliday types: Public\
+ nNationwide: Yes\nNotes: Public-sector calendar for a Saturday/Sunday week
+ end. Private employers choose their Tet and National Day arrangements unde
+ r the Labour Code.
 CATEGORIES:Vietnam Public Holidays
-URL;VALUE=URI:https://www.molisa.gov.vn/
+URL;VALUE=URI:https://xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-ngh
+ i-tet-nguyen-dan-2027-tet-dinh-mui-11926080513033257.htm
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:vn-public-holidays-vn-holiday-2027-labour-day-substitute-holiday-05-03
+ -public@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Vietnam Public Holidays · Labour Day substitute holiday
+DESCRIPTION:Labour Day substitute holiday (Vietnam Public Holidays)\n\nHol
+ iday types: Public\nNationwide: Yes\nNotes: Public-sector calendar for a S
+ aturday/Sunday weekend. Private employers choose their Tet and National Da
+ y arrangements under the Labour Code.
+CATEGORIES:Vietnam Public Holidays
+URL;VALUE=URI:https://xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-ngh
+ i-tet-nguyen-dan-2027-tet-dinh-mui-11926080513033257.htm
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:vn-public-holidays-vn-holiday-2027-national-day-09-02-public@koyomi.ca
  st
 SEQUENCE:0
-DTSTAMP:20260907T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270902
-DTEND;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270906
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Vietnam Public Holidays · National Day
-DESCRIPTION:National Day (Vietnam Public Holidays)\n\n假期类型: Public
- \n固定日期: 否\n全国通用: 是
+DESCRIPTION:National Day (Vietnam Public Holidays)\n\nHoliday types: Publi
+ c\nNationwide: Yes\nNotes: Public-sector calendar for a Saturday/Sunday we
+ ekend. Private employers choose their Tet and National Day arrangements un
+ der the Labour Code.
 CATEGORIES:Vietnam Public Holidays
-URL;VALUE=URI:https://www.molisa.gov.vn/
+URL;VALUE=URI:https://xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-ngh
+ i-tet-nguyen-dan-2027-tet-dinh-mui-11926080513033257.htm
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -11,7 +11,7 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:cn-public-holidays-cn-holiday-2026-national-day@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261012T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261008
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -19,7 +19,113 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Mainland China Public Holidays · National Day
 DESCRIPTION:7-day public holiday in mainland China
 CATEGORIES:Mainland China Public Holidays
-URL;VALUE=URI:https://www.gov.cn/
+URL;VALUE=URI:https://www.gov.cn/zhengce/zhengceku/202511/content_7047091.
+ htm
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-public-holidays-cn-holiday-2027-new-year@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270104
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Mainland China Public Holidays · New Year's Day
+DESCRIPTION:3-day public holiday in mainland China
+CATEGORIES:Mainland China Public Holidays
+URL;VALUE=URI:https://www.gov.cn/zhengce/zhengceku/202611/content_7085102.
+ htm
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-public-holidays-cn-holiday-2027-spring-festival@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270214
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Mainland China Public Holidays · Spring Festival
+DESCRIPTION:9-day public holiday in mainland China
+CATEGORIES:Mainland China Public Holidays
+URL;VALUE=URI:https://www.gov.cn/zhengce/zhengceku/202611/content_7085102.
+ htm
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-public-holidays-cn-holiday-2027-qingming@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270406
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Mainland China Public Holidays · Qingming Festival
+DESCRIPTION:3-day public holiday in mainland China
+CATEGORIES:Mainland China Public Holidays
+URL;VALUE=URI:https://www.gov.cn/zhengce/zhengceku/202611/content_7085102.
+ htm
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-public-holidays-cn-holiday-2027-labor-day@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270506
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Mainland China Public Holidays · Labour Day
+DESCRIPTION:5-day public holiday in mainland China
+CATEGORIES:Mainland China Public Holidays
+URL;VALUE=URI:https://www.gov.cn/zhengce/zhengceku/202611/content_7085102.
+ htm
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-public-holidays-cn-holiday-2027-dragon-boat@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Mainland China Public Holidays · Dragon Boat Festival
+DESCRIPTION:1-day public holiday in mainland China
+CATEGORIES:Mainland China Public Holidays
+URL;VALUE=URI:https://www.gov.cn/zhengce/zhengceku/202611/content_7085102.
+ htm
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-public-holidays-cn-holiday-2027-mid-autumn@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Mainland China Public Holidays · Mid-Autumn Festival
+DESCRIPTION:1-day public holiday in mainland China
+CATEGORIES:Mainland China Public Holidays
+URL;VALUE=URI:https://www.gov.cn/zhengce/zhengceku/202611/content_7085102.
+ htm
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cn-public-holidays-cn-holiday-2027-national-day@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271008
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Mainland China Public Holidays · National Day
+DESCRIPTION:7-day public holiday in mainland China
+CATEGORIES:Mainland China Public Holidays
+URL;VALUE=URI:https://www.gov.cn/zhengce/zhengceku/202611/content_7085102.
+ htm
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

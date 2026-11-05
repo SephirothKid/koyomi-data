@@ -12,23 +12,64 @@ BEGIN:VEVENT
 UID:vn-public-holidays-vn-holiday-2027-new-years-day-01-01-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20260907T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:越南公众假期 · Tết dương lịch
 DESCRIPTION:Tết dương lịch（越南公众假期）\n\n假期类型: 
- Public\n固定日期: 否\n全国通用: 是
+ Public\n全国通用: 是\n适用说明: Public-sector calendar for a Satu
+ rday/Sunday weekend. Private employers choose their Tet and National Day a
+ rrangements under the Labour Code.
 CATEGORIES:越南公众假期
-URL;VALUE=URI:https://www.molisa.gov.vn/
+URL;VALUE=URI:https://xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-ngh
+ i-tet-nguyen-dan-2027-tet-dinh-mui-11926080513033257.htm
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:vn-public-holidays-vn-holiday-2027-vietnamese-new-year-02-04-public@ko
+ yomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270211
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:越南公众假期 · Tết Nguyên đán
+DESCRIPTION:Tết Nguyên đán（越南公众假期）\n\n假期类型: P
+ ublic\n全国通用: 是\n适用说明: Public-sector calendar for a Satur
+ day/Sunday weekend. Private employers choose their Tet and National Day ar
+ rangements under the Labour Code.
+CATEGORIES:越南公众假期
+URL;VALUE=URI:https://xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-ngh
+ i-tet-nguyen-dan-2027-tet-dinh-mui-11926080513033257.htm
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:vn-public-holidays-vn-holiday-2027-hung-kings-commemoration-day-04-16-
+ public@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:越南公众假期 · Giỗ Tổ Hùng Vương
+DESCRIPTION:Giỗ Tổ Hùng Vương（越南公众假期）\n\n假期类
+ 型: Public\n全国通用: 是\n适用说明: Public-sector calendar for a
+  Saturday/Sunday weekend. Private employers choose their Tet and National 
+ Day arrangements under the Labour Code.
+CATEGORIES:越南公众假期
+URL;VALUE=URI:https://bvhttdl.gov.vn/to-chuc-chuoi-hoat-dong-van-hoa-nghe-
+ thuat-dip-gio-to-hung-vuong-nam-2027-20260228171220680.htm
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:vn-public-holidays-vn-holiday-2027-reunification-day-04-30-public@koyo
  mi.cast
 SEQUENCE:0
-DTSTAMP:20260907T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -36,41 +77,69 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:越南公众假期 · Ngày Giải phóng miền Nam\, thống nh
  ất đất nước
 DESCRIPTION:Ngày Giải phóng miền Nam\, thống nhất đất nước
- （越南公众假期）\n\n假期类型: Public\n固定日期: 否\n全
- 国通用: 是
+ （越南公众假期）\n\n假期类型: Public\n全国通用: 是\n适
+ 用说明: Public-sector calendar for a Saturday/Sunday weekend. Private e
+ mployers choose their Tet and National Day arrangements under the Labour C
+ ode.
 CATEGORIES:越南公众假期
-URL;VALUE=URI:https://www.molisa.gov.vn/
+URL;VALUE=URI:https://xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-ngh
+ i-tet-nguyen-dan-2027-tet-dinh-mui-11926080513033257.htm
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:vn-public-holidays-vn-holiday-2027-labour-day-05-01-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20260907T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:越南公众假期 · Ngày Quốc tế lao động
 DESCRIPTION:Ngày Quốc tế lao động（越南公众假期）\n\n假
- 期类型: Public\n固定日期: 否\n全国通用: 是
+ 期类型: Public\n全国通用: 是\n适用说明: Public-sector calendar
+  for a Saturday/Sunday weekend. Private employers choose their Tet and Nat
+ ional Day arrangements under the Labour Code.
 CATEGORIES:越南公众假期
-URL;VALUE=URI:https://www.molisa.gov.vn/
+URL;VALUE=URI:https://xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-ngh
+ i-tet-nguyen-dan-2027-tet-dinh-mui-11926080513033257.htm
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:vn-public-holidays-vn-holiday-2027-labour-day-substitute-holiday-05-03
+ -public@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:越南公众假期 · Nghỉ bù Ngày Quốc tế lao động
+DESCRIPTION:Nghỉ bù Ngày Quốc tế lao động（越南公众假期
+ ）\n\n假期类型: Public\n全国通用: 是\n适用说明: Public-secto
+ r calendar for a Saturday/Sunday weekend. Private employers choose their T
+ et and National Day arrangements under the Labour Code.
+CATEGORIES:越南公众假期
+URL;VALUE=URI:https://xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-ngh
+ i-tet-nguyen-dan-2027-tet-dinh-mui-11926080513033257.htm
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:vn-public-holidays-vn-holiday-2027-national-day-09-02-public@koyomi.ca
  st
 SEQUENCE:0
-DTSTAMP:20260907T000000
+DTSTAMP:20261105T000000
 DTSTART;VALUE=DATE:20270902
-DTEND;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270906
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:越南公众假期 · Quốc khánh
 DESCRIPTION:Quốc khánh（越南公众假期）\n\n假期类型: Public\
- n固定日期: 否\n全国通用: 是
+ n全国通用: 是\n适用说明: Public-sector calendar for a Saturday/Su
+ nday weekend. Private employers choose their Tet and National Day arrangem
+ ents under the Labour Code.
 CATEGORIES:越南公众假期
-URL;VALUE=URI:https://www.molisa.gov.vn/
+URL;VALUE=URI:https://xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-ngh
+ i-tet-nguyen-dan-2027-tet-dinh-mui-11926080513033257.htm
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
