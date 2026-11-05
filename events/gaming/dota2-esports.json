@@ -1,0 +1,27 @@
+{
+  "id": "dota2-esports",
+  "name": "Dota 2 国际赛事",
+  "category": "gaming",
+  "name_en": "Dota 2 International Events",
+  "subcategory": "电竞",
+  "subcategory_en": "Esports",
+  "icon": "gamepad-2",
+  "description": "TI、ESL One、DreamLeague、PGL Wallachia 与 BLAST Slam 等国际主赛事逐场赛程。",
+  "description_en": "Main-event matches for The International, ESL One, DreamLeague, PGL Wallachia and BLAST Slam.",
+  "tags": [
+    "电竞",
+    "Dota 2 国际赛事"
+  ],
+  "tags_en": [
+    "Esports",
+    "Dota 2 International Events"
+  ],
+  "maintainer": "community",
+  "source_url": "https://www.dota2.com/esports",
+  "attribution": "Match schedule and results provided by PandaScore.",
+  "cycle_kind": "season",
+  "season_basis": "calendar-year",
+  "hidden": true,
+  "disabled_reason": "等待首次可验证数据抓取。",
+  "events": []
+}

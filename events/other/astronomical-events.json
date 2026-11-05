@@ -1,0 +1,1059 @@
+{
+  "id": "astronomical-events",
+  "name": "天象日历",
+  "category": "other",
+  "name_en": "Astronomical Events",
+  "subcategory": "天文",
+  "subcategory_en": "Astronomy",
+  "icon": "telescope",
+  "description": "流星雨观测夜、日月食与行星冲日／大距，来自 IMO、日本国立天文台及香港天文台。观测条件随地区而异。",
+  "description_en": "Meteor shower observing nights, eclipses, planetary oppositions and elongations from IMO, NAOJ and HKO. Visibility depends on location.",
+  "tags": [
+    "天文",
+    "流星雨",
+    "日食",
+    "月食"
+  ],
+  "tags_en": [
+    "Astronomy",
+    "Meteor showers",
+    "Eclipses"
+  ],
+  "maintainer": "official",
+  "source_url": "https://www.imo.net/calendar/",
+  "attribution": "International Meteor Organization; National Astronomical Observatory of Japan; Hong Kong Observatory",
+  "events": [
+    {
+      "id": "astronomical-events-2026-jupiter-opposition-01-10",
+      "name": "木星冲日",
+      "name_en": "Jupiter Opposition",
+      "date": "2026-01-10",
+      "time": "16:42",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "日本国立天文台公布的行星天象；原表时区为 UTC+8。观测条件随所在地而异。",
+      "description_en": "Planetary phenomenon published by NAOJ in UTC+8. Observability depends on location.",
+      "url": "https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.cgi?year=2026&lst=8",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "原表时间": "16:42 (UTC+8)"
+      },
+      "details_en": {
+        "Published time": "16:42 (UTC+8)"
+      }
+    },
+    {
+      "id": "astronomical-events-2026-eclipse-02-17",
+      "name": "日环食",
+      "name_en": "Annular solar eclipse",
+      "date": "2026-02-17",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2026,
+      "description": "香港天文台年历列出的全球日月食日期。并非所有事件都能在香港或中国大陆看到；可见地区及接触时刻请查看原公告。",
+      "description_en": "Global eclipse date listed in the Hong Kong Observatory almanac. Visibility is regional; consult the original bulletin for visible areas and local contact times.",
+      "url": "https://www.hko.gov.hk/en/gts/astron2026/files/2026eclipses.pdf",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "适用地区": "全球天象；可见性需按地区确认",
+        "时间精度": "官方年历日期"
+      },
+      "details_en": {
+        "Visibility": "Global event; local visibility must be checked",
+        "Precision": "Almanac date"
+      }
+    },
+    {
+      "id": "astronomical-events-2026-mercury-greatest-elongation-east-02-20",
+      "name": "水星东大距",
+      "name_en": "Mercury Greatest Elongation East",
+      "date": "2026-02-20",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2026,
+      "description": "日本国立天文台公布的行星天象；原表时区为 UTC+8。原表仅精确到小时，日历只标记日期。观测条件随所在地而异。",
+      "description_en": "Planetary phenomenon published by NAOJ in UTC+8. The source gives only hour precision; this calendar marks the date only. Observability depends on location.",
+      "url": "https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.cgi?year=2026&lst=8",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "原表时间": "02 h (UTC+8)"
+      },
+      "details_en": {
+        "Published time": "02 h (UTC+8)"
+      }
+    },
+    {
+      "id": "astronomical-events-2026-eclipse-03-03",
+      "name": "月全食",
+      "name_en": "Total lunar eclipse",
+      "date": "2026-03-03",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2026,
+      "description": "香港天文台年历列出的全球日月食日期。并非所有事件都能在香港或中国大陆看到；可见地区及接触时刻请查看原公告。",
+      "description_en": "Global eclipse date listed in the Hong Kong Observatory almanac. Visibility is regional; consult the original bulletin for visible areas and local contact times.",
+      "url": "https://www.hko.gov.hk/en/gts/astron2026/files/2026eclipses.pdf",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "适用地区": "全球天象；可见性需按地区确认",
+        "时间精度": "官方年历日期"
+      },
+      "details_en": {
+        "Visibility": "Global event; local visibility must be checked",
+        "Precision": "Almanac date"
+      }
+    },
+    {
+      "id": "astronomical-events-2026-mercury-greatest-elongation-west-04-04",
+      "name": "水星西大距",
+      "name_en": "Mercury Greatest Elongation West",
+      "date": "2026-04-04",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2026,
+      "description": "日本国立天文台公布的行星天象；原表时区为 UTC+8。原表仅精确到小时，日历只标记日期。观测条件随所在地而异。",
+      "description_en": "Planetary phenomenon published by NAOJ in UTC+8. The source gives only hour precision; this calendar marks the date only. Observability depends on location.",
+      "url": "https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.cgi?year=2026&lst=8",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "原表时间": "06 h (UTC+8)"
+      },
+      "details_en": {
+        "Published time": "06 h (UTC+8)"
+      }
+    },
+    {
+      "id": "astronomical-events-2026-mercury-greatest-elongation-east-06-16",
+      "name": "水星东大距",
+      "name_en": "Mercury Greatest Elongation East",
+      "date": "2026-06-16",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2026,
+      "description": "日本国立天文台公布的行星天象；原表时区为 UTC+8。原表仅精确到小时，日历只标记日期。观测条件随所在地而异。",
+      "description_en": "Planetary phenomenon published by NAOJ in UTC+8. The source gives only hour precision; this calendar marks the date only. Observability depends on location.",
+      "url": "https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.cgi?year=2026&lst=8",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "原表时间": "04 h (UTC+8)"
+      },
+      "details_en": {
+        "Published time": "04 h (UTC+8)"
+      }
+    },
+    {
+      "id": "astronomical-events-2026-mercury-greatest-elongation-west-08-02",
+      "name": "水星西大距",
+      "name_en": "Mercury Greatest Elongation West",
+      "date": "2026-08-02",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2026,
+      "description": "日本国立天文台公布的行星天象；原表时区为 UTC+8。原表仅精确到小时，日历只标记日期。观测条件随所在地而异。",
+      "description_en": "Planetary phenomenon published by NAOJ in UTC+8. The source gives only hour precision; this calendar marks the date only. Observability depends on location.",
+      "url": "https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.cgi?year=2026&lst=8",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "原表时间": "16 h (UTC+8)"
+      },
+      "details_en": {
+        "Published time": "16 h (UTC+8)"
+      }
+    },
+    {
+      "id": "astronomical-events-2026-eclipse-08-12",
+      "name": "日全食",
+      "name_en": "Total solar eclipse",
+      "date": "2026-08-12",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2026,
+      "description": "香港天文台年历列出的全球日月食日期。并非所有事件都能在香港或中国大陆看到；可见地区及接触时刻请查看原公告。",
+      "description_en": "Global eclipse date listed in the Hong Kong Observatory almanac. Visibility is regional; consult the original bulletin for visible areas and local contact times.",
+      "url": "https://www.hko.gov.hk/en/gts/astron2026/files/2026eclipses.pdf",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "适用地区": "全球天象；可见性需按地区确认",
+        "时间精度": "官方年历日期"
+      },
+      "details_en": {
+        "Visibility": "Global event; local visibility must be checked",
+        "Precision": "Almanac date"
+      }
+    },
+    {
+      "id": "astronomical-events-2026-venus-greatest-elongation-east-08-15",
+      "name": "金星东大距",
+      "name_en": "Venus Greatest Elongation East",
+      "date": "2026-08-15",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2026,
+      "description": "日本国立天文台公布的行星天象；原表时区为 UTC+8。原表仅精确到小时，日历只标记日期。观测条件随所在地而异。",
+      "description_en": "Planetary phenomenon published by NAOJ in UTC+8. The source gives only hour precision; this calendar marks the date only. Observability depends on location.",
+      "url": "https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.cgi?year=2026&lst=8",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "原表时间": "14 h (UTC+8)"
+      },
+      "details_en": {
+        "Published time": "14 h (UTC+8)"
+      }
+    },
+    {
+      "id": "astronomical-events-2026-eclipse-08-28",
+      "name": "月偏食",
+      "name_en": "Partial lunar eclipse",
+      "date": "2026-08-28",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2026,
+      "description": "香港天文台年历列出的全球日月食日期。并非所有事件都能在香港或中国大陆看到；可见地区及接触时刻请查看原公告。",
+      "description_en": "Global eclipse date listed in the Hong Kong Observatory almanac. Visibility is regional; consult the original bulletin for visible areas and local contact times.",
+      "url": "https://www.hko.gov.hk/en/gts/astron2026/files/2026eclipses.pdf",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "适用地区": "全球天象；可见性需按地区确认",
+        "时间精度": "官方年历日期"
+      },
+      "details_en": {
+        "Visibility": "Global event; local visibility must be checked",
+        "Precision": "Almanac date"
+      }
+    },
+    {
+      "id": "astronomical-events-2026-neptune-opposition-09-26",
+      "name": "海王星冲日",
+      "name_en": "Neptune Opposition",
+      "date": "2026-09-26",
+      "time": "09:36",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "日本国立天文台公布的行星天象；原表时区为 UTC+8。观测条件随所在地而异。",
+      "description_en": "Planetary phenomenon published by NAOJ in UTC+8. Observability depends on location.",
+      "url": "https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.cgi?year=2026&lst=8",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "原表时间": "09:36 (UTC+8)"
+      },
+      "details_en": {
+        "Published time": "09:36 (UTC+8)"
+      }
+    },
+    {
+      "id": "astronomical-events-2026-saturn-opposition-10-04",
+      "name": "土星冲日",
+      "name_en": "Saturn Opposition",
+      "date": "2026-10-04",
+      "time": "20:29",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "日本国立天文台公布的行星天象；原表时区为 UTC+8。观测条件随所在地而异。",
+      "description_en": "Planetary phenomenon published by NAOJ in UTC+8. Observability depends on location.",
+      "url": "https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.cgi?year=2026&lst=8",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "原表时间": "20:29 (UTC+8)"
+      },
+      "details_en": {
+        "Published time": "20:29 (UTC+8)"
+      }
+    },
+    {
+      "id": "astronomical-events-2026-mercury-greatest-elongation-east-10-12",
+      "name": "水星东大距",
+      "name_en": "Mercury Greatest Elongation East",
+      "date": "2026-10-12",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2026,
+      "description": "日本国立天文台公布的行星天象；原表时区为 UTC+8。原表仅精确到小时，日历只标记日期。观测条件随所在地而异。",
+      "description_en": "Planetary phenomenon published by NAOJ in UTC+8. The source gives only hour precision; this calendar marks the date only. Observability depends on location.",
+      "url": "https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.cgi?year=2026&lst=8",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "原表时间": "18 h (UTC+8)"
+      },
+      "details_en": {
+        "Published time": "18 h (UTC+8)"
+      }
+    },
+    {
+      "id": "astronomical-events-2026-meteor-orionids",
+      "name": "猎户座流星雨观测夜",
+      "name_en": "Orionids peak observing night",
+      "date": "2026-10-21",
+      "end_date": "2026-10-22",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "IMO 发布的流星雨观测夜窗口，非精确极大时刻。当地是否适宜观测取决于辐射点高度、月光与天气。",
+      "description_en": "IMO peak observing-night window, not a precise maximum instant. Local visibility depends on radiant altitude, moonlight and weather.",
+      "url": "https://www.imo.net/calendar/#orionids",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "数据来源": "International Meteor Organization",
+        "时间精度": "观测夜日期区间"
+      },
+      "details_en": {
+        "Source": "International Meteor Organization",
+        "Precision": "Observing-night date window"
+      }
+    },
+    {
+      "id": "astronomical-events-2026-meteor-southern-taurids",
+      "name": "金牛座南流星雨观测夜",
+      "name_en": "Southern Taurids peak observing night",
+      "date": "2026-11-04",
+      "end_date": "2026-11-05",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "IMO 发布的流星雨观测夜窗口，非精确极大时刻。当地是否适宜观测取决于辐射点高度、月光与天气。",
+      "description_en": "IMO peak observing-night window, not a precise maximum instant. Local visibility depends on radiant altitude, moonlight and weather.",
+      "url": "https://www.imo.net/calendar/#southern-taurids",
+      "status": "active",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "数据来源": "International Meteor Organization",
+        "时间精度": "观测夜日期区间"
+      },
+      "details_en": {
+        "Source": "International Meteor Organization",
+        "Precision": "Observing-night date window"
+      }
+    },
+    {
+      "id": "astronomical-events-2026-meteor-northern-taurids",
+      "name": "金牛座北流星雨观测夜",
+      "name_en": "Northern Taurids peak observing night",
+      "date": "2026-11-11",
+      "end_date": "2026-11-12",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "IMO 发布的流星雨观测夜窗口，非精确极大时刻。当地是否适宜观测取决于辐射点高度、月光与天气。",
+      "description_en": "IMO peak observing-night window, not a precise maximum instant. Local visibility depends on radiant altitude, moonlight and weather.",
+      "url": "https://www.imo.net/calendar/#northern-taurids",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "数据来源": "International Meteor Organization",
+        "时间精度": "观测夜日期区间"
+      },
+      "details_en": {
+        "Source": "International Meteor Organization",
+        "Precision": "Observing-night date window"
+      }
+    },
+    {
+      "id": "astronomical-events-2026-meteor-leonids",
+      "name": "狮子座流星雨观测夜",
+      "name_en": "Leonids peak observing night",
+      "date": "2026-11-16",
+      "end_date": "2026-11-17",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "IMO 发布的流星雨观测夜窗口，非精确极大时刻。当地是否适宜观测取决于辐射点高度、月光与天气。",
+      "description_en": "IMO peak observing-night window, not a precise maximum instant. Local visibility depends on radiant altitude, moonlight and weather.",
+      "url": "https://www.imo.net/calendar/#leonids",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "数据来源": "International Meteor Organization",
+        "时间精度": "观测夜日期区间"
+      },
+      "details_en": {
+        "Source": "International Meteor Organization",
+        "Precision": "Observing-night date window"
+      }
+    },
+    {
+      "id": "astronomical-events-2026-mercury-greatest-elongation-west-11-21",
+      "name": "水星西大距",
+      "name_en": "Mercury Greatest Elongation West",
+      "date": "2026-11-21",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2026,
+      "description": "日本国立天文台公布的行星天象；原表时区为 UTC+8。原表仅精确到小时，日历只标记日期。观测条件随所在地而异。",
+      "description_en": "Planetary phenomenon published by NAOJ in UTC+8. The source gives only hour precision; this calendar marks the date only. Observability depends on location.",
+      "url": "https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.cgi?year=2026&lst=8",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "原表时间": "07 h (UTC+8)"
+      },
+      "details_en": {
+        "Published time": "07 h (UTC+8)"
+      }
+    },
+    {
+      "id": "astronomical-events-2026-uranus-opposition-11-26",
+      "name": "天王星冲日",
+      "name_en": "Uranus Opposition",
+      "date": "2026-11-26",
+      "time": "06:41",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "日本国立天文台公布的行星天象；原表时区为 UTC+8。观测条件随所在地而异。",
+      "description_en": "Planetary phenomenon published by NAOJ in UTC+8. Observability depends on location.",
+      "url": "https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.cgi?year=2026&lst=8",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "原表时间": "06:41 (UTC+8)"
+      },
+      "details_en": {
+        "Published time": "06:41 (UTC+8)"
+      }
+    },
+    {
+      "id": "astronomical-events-2026-meteor-geminids",
+      "name": "双子座流星雨观测夜",
+      "name_en": "Geminids peak observing night",
+      "date": "2026-12-13",
+      "end_date": "2026-12-14",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "IMO 发布的流星雨观测夜窗口，非精确极大时刻。当地是否适宜观测取决于辐射点高度、月光与天气。",
+      "description_en": "IMO peak observing-night window, not a precise maximum instant. Local visibility depends on radiant altitude, moonlight and weather.",
+      "url": "https://www.imo.net/calendar/#geminids",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "数据来源": "International Meteor Organization",
+        "时间精度": "观测夜日期区间"
+      },
+      "details_en": {
+        "Source": "International Meteor Organization",
+        "Precision": "Observing-night date window"
+      }
+    },
+    {
+      "id": "astronomical-events-2026-meteor-ursids",
+      "name": "小熊座流星雨观测夜",
+      "name_en": "Ursids peak observing night",
+      "date": "2026-12-21",
+      "end_date": "2026-12-22",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "IMO 发布的流星雨观测夜窗口，非精确极大时刻。当地是否适宜观测取决于辐射点高度、月光与天气。",
+      "description_en": "IMO peak observing-night window, not a precise maximum instant. Local visibility depends on radiant altitude, moonlight and weather.",
+      "url": "https://www.imo.net/calendar/#ursids",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "数据来源": "International Meteor Organization",
+        "时间精度": "观测夜日期区间"
+      },
+      "details_en": {
+        "Source": "International Meteor Organization",
+        "Precision": "Observing-night date window"
+      }
+    },
+    {
+      "id": "astronomical-events-2027-meteor-quadrantids",
+      "name": "象限仪座流星雨观测夜",
+      "name_en": "Quadrantids peak observing night",
+      "date": "2027-01-03",
+      "end_date": "2027-01-04",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2027,
+      "description": "IMO 发布的流星雨观测夜窗口，非精确极大时刻。当地是否适宜观测取决于辐射点高度、月光与天气。",
+      "description_en": "IMO peak observing-night window, not a precise maximum instant. Local visibility depends on radiant altitude, moonlight and weather.",
+      "url": "https://www.imo.net/calendar/#quadrantids",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "数据来源": "International Meteor Organization",
+        "时间精度": "观测夜日期区间"
+      },
+      "details_en": {
+        "Source": "International Meteor Organization",
+        "Precision": "Observing-night date window"
+      }
+    },
+    {
+      "id": "astronomical-events-2027-venus-greatest-elongation-west-01-04",
+      "name": "金星西大距",
+      "name_en": "Venus Greatest Elongation West",
+      "date": "2027-01-04",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2027,
+      "description": "日本国立天文台公布的行星天象；原表时区为 UTC+8。原表仅精确到小时，日历只标记日期。观测条件随所在地而异。",
+      "description_en": "Planetary phenomenon published by NAOJ in UTC+8. The source gives only hour precision; this calendar marks the date only. Observability depends on location.",
+      "url": "https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.cgi?year=2027&lst=8",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "原表时间": "02 h (UTC+8)"
+      },
+      "details_en": {
+        "Published time": "02 h (UTC+8)"
+      }
+    },
+    {
+      "id": "astronomical-events-2027-mercury-greatest-elongation-east-02-03",
+      "name": "水星东大距",
+      "name_en": "Mercury Greatest Elongation East",
+      "date": "2027-02-03",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2027,
+      "description": "日本国立天文台公布的行星天象；原表时区为 UTC+8。原表仅精确到小时，日历只标记日期。观测条件随所在地而异。",
+      "description_en": "Planetary phenomenon published by NAOJ in UTC+8. The source gives only hour precision; this calendar marks the date only. Observability depends on location.",
+      "url": "https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.cgi?year=2027&lst=8",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "原表时间": "14 h (UTC+8)"
+      },
+      "details_en": {
+        "Published time": "14 h (UTC+8)"
+      }
+    },
+    {
+      "id": "astronomical-events-2027-eclipse-02-06",
+      "name": "日环食",
+      "name_en": "Annular solar eclipse",
+      "date": "2027-02-06",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2027,
+      "description": "香港天文台年历列出的全球日月食日期。并非所有事件都能在香港或中国大陆看到；可见地区及接触时刻请查看原公告。",
+      "description_en": "Global eclipse date listed in the Hong Kong Observatory almanac. Visibility is regional; consult the original bulletin for visible areas and local contact times.",
+      "url": "https://www.hko.gov.hk/en/gts/astron2027/files/2027eclipses.pdf",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "适用地区": "全球天象；可见性需按地区确认",
+        "时间精度": "官方年历日期"
+      },
+      "details_en": {
+        "Visibility": "Global event; local visibility must be checked",
+        "Precision": "Almanac date"
+      }
+    },
+    {
+      "id": "astronomical-events-2027-jupiter-opposition-02-11",
+      "name": "木星冲日",
+      "name_en": "Jupiter Opposition",
+      "date": "2027-02-11",
+      "time": "08:29",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2027,
+      "description": "日本国立天文台公布的行星天象；原表时区为 UTC+8。观测条件随所在地而异。",
+      "description_en": "Planetary phenomenon published by NAOJ in UTC+8. Observability depends on location.",
+      "url": "https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.cgi?year=2027&lst=8",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "原表时间": "08:29 (UTC+8)"
+      },
+      "details_en": {
+        "Published time": "08:29 (UTC+8)"
+      }
+    },
+    {
+      "id": "astronomical-events-2027-mars-opposition-02-19",
+      "name": "火星冲日",
+      "name_en": "Mars Opposition",
+      "date": "2027-02-19",
+      "time": "23:51",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2027,
+      "description": "日本国立天文台公布的行星天象；原表时区为 UTC+8。观测条件随所在地而异。",
+      "description_en": "Planetary phenomenon published by NAOJ in UTC+8. Observability depends on location.",
+      "url": "https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.cgi?year=2027&lst=8",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "原表时间": "23:51 (UTC+8)"
+      },
+      "details_en": {
+        "Published time": "23:51 (UTC+8)"
+      }
+    },
+    {
+      "id": "astronomical-events-2027-eclipse-02-21",
+      "name": "半影月食",
+      "name_en": "Penumbral lunar eclipse",
+      "date": "2027-02-21",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2027,
+      "description": "香港天文台年历列出的全球日月食日期。并非所有事件都能在香港或中国大陆看到；可见地区及接触时刻请查看原公告。",
+      "description_en": "Global eclipse date listed in the Hong Kong Observatory almanac. Visibility is regional; consult the original bulletin for visible areas and local contact times.",
+      "url": "https://www.hko.gov.hk/en/gts/astron2027/files/2027eclipses.pdf",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "适用地区": "全球天象；可见性需按地区确认",
+        "时间精度": "官方年历日期"
+      },
+      "details_en": {
+        "Visibility": "Global event; local visibility must be checked",
+        "Precision": "Almanac date"
+      }
+    },
+    {
+      "id": "astronomical-events-2027-mercury-greatest-elongation-west-03-17",
+      "name": "水星西大距",
+      "name_en": "Mercury Greatest Elongation West",
+      "date": "2027-03-17",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2027,
+      "description": "日本国立天文台公布的行星天象；原表时区为 UTC+8。原表仅精确到小时，日历只标记日期。观测条件随所在地而异。",
+      "description_en": "Planetary phenomenon published by NAOJ in UTC+8. The source gives only hour precision; this calendar marks the date only. Observability depends on location.",
+      "url": "https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.cgi?year=2027&lst=8",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "原表时间": "15 h (UTC+8)"
+      },
+      "details_en": {
+        "Published time": "15 h (UTC+8)"
+      }
+    },
+    {
+      "id": "astronomical-events-2027-meteor-lyrids",
+      "name": "天琴座流星雨观测夜",
+      "name_en": "Lyrids peak observing night",
+      "date": "2027-04-21",
+      "end_date": "2027-04-22",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2027,
+      "description": "IMO 发布的流星雨观测夜窗口，非精确极大时刻。当地是否适宜观测取决于辐射点高度、月光与天气。",
+      "description_en": "IMO peak observing-night window, not a precise maximum instant. Local visibility depends on radiant altitude, moonlight and weather.",
+      "url": "https://www.imo.net/calendar/#lyrids",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "数据来源": "International Meteor Organization",
+        "时间精度": "观测夜日期区间"
+      },
+      "details_en": {
+        "Source": "International Meteor Organization",
+        "Precision": "Observing-night date window"
+      }
+    },
+    {
+      "id": "astronomical-events-2027-meteor-eta-aquariids",
+      "name": "宝瓶座η流星雨观测夜",
+      "name_en": "Eta Aquariids peak observing night",
+      "date": "2027-05-05",
+      "end_date": "2027-05-06",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2027,
+      "description": "IMO 发布的流星雨观测夜窗口，非精确极大时刻。当地是否适宜观测取决于辐射点高度、月光与天气。",
+      "description_en": "IMO peak observing-night window, not a precise maximum instant. Local visibility depends on radiant altitude, moonlight and weather.",
+      "url": "https://www.imo.net/calendar/#eta-aquariids",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "数据来源": "International Meteor Organization",
+        "时间精度": "观测夜日期区间"
+      },
+      "details_en": {
+        "Source": "International Meteor Organization",
+        "Precision": "Observing-night date window"
+      }
+    },
+    {
+      "id": "astronomical-events-2027-mercury-greatest-elongation-east-05-28",
+      "name": "水星东大距",
+      "name_en": "Mercury Greatest Elongation East",
+      "date": "2027-05-28",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2027,
+      "description": "日本国立天文台公布的行星天象；原表时区为 UTC+8。原表仅精确到小时，日历只标记日期。观测条件随所在地而异。",
+      "description_en": "Planetary phenomenon published by NAOJ in UTC+8. The source gives only hour precision; this calendar marks the date only. Observability depends on location.",
+      "url": "https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.cgi?year=2027&lst=8",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "原表时间": "18 h (UTC+8)"
+      },
+      "details_en": {
+        "Published time": "18 h (UTC+8)"
+      }
+    },
+    {
+      "id": "astronomical-events-2027-mercury-greatest-elongation-west-07-16",
+      "name": "水星西大距",
+      "name_en": "Mercury Greatest Elongation West",
+      "date": "2027-07-16",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2027,
+      "description": "日本国立天文台公布的行星天象；原表时区为 UTC+8。原表仅精确到小时，日历只标记日期。观测条件随所在地而异。",
+      "description_en": "Planetary phenomenon published by NAOJ in UTC+8. The source gives only hour precision; this calendar marks the date only. Observability depends on location.",
+      "url": "https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.cgi?year=2027&lst=8",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "原表时间": "03 h (UTC+8)"
+      },
+      "details_en": {
+        "Published time": "03 h (UTC+8)"
+      }
+    },
+    {
+      "id": "astronomical-events-2027-eclipse-07-18",
+      "name": "半影月食",
+      "name_en": "Penumbral lunar eclipse",
+      "date": "2027-07-18",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2027,
+      "description": "香港天文台年历列出的全球日月食日期。并非所有事件都能在香港或中国大陆看到；可见地区及接触时刻请查看原公告。",
+      "description_en": "Global eclipse date listed in the Hong Kong Observatory almanac. Visibility is regional; consult the original bulletin for visible areas and local contact times.",
+      "url": "https://www.hko.gov.hk/en/gts/astron2027/files/2027eclipses.pdf",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "适用地区": "全球天象；可见性需按地区确认",
+        "时间精度": "官方年历日期"
+      },
+      "details_en": {
+        "Visibility": "Global event; local visibility must be checked",
+        "Precision": "Almanac date"
+      }
+    },
+    {
+      "id": "astronomical-events-2027-meteor-southern-delta-aquariids",
+      "name": "宝瓶座δ南流星雨观测夜",
+      "name_en": "Southern Delta Aquariids peak observing night",
+      "date": "2027-07-30",
+      "end_date": "2027-07-31",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2027,
+      "description": "IMO 发布的流星雨观测夜窗口，非精确极大时刻。当地是否适宜观测取决于辐射点高度、月光与天气。",
+      "description_en": "IMO peak observing-night window, not a precise maximum instant. Local visibility depends on radiant altitude, moonlight and weather.",
+      "url": "https://www.imo.net/calendar/#southern-delta-aquariids",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "数据来源": "International Meteor Organization",
+        "时间精度": "观测夜日期区间"
+      },
+      "details_en": {
+        "Source": "International Meteor Organization",
+        "Precision": "Observing-night date window"
+      }
+    },
+    {
+      "id": "astronomical-events-2027-meteor-alpha-capricornids",
+      "name": "摩羯座α流星雨观测夜",
+      "name_en": "Alpha Capricornids peak observing night",
+      "date": "2027-07-30",
+      "end_date": "2027-07-31",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2027,
+      "description": "IMO 发布的流星雨观测夜窗口，非精确极大时刻。当地是否适宜观测取决于辐射点高度、月光与天气。",
+      "description_en": "IMO peak observing-night window, not a precise maximum instant. Local visibility depends on radiant altitude, moonlight and weather.",
+      "url": "https://www.imo.net/calendar/#alpha-capricornids",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "数据来源": "International Meteor Organization",
+        "时间精度": "观测夜日期区间"
+      },
+      "details_en": {
+        "Source": "International Meteor Organization",
+        "Precision": "Observing-night date window"
+      }
+    },
+    {
+      "id": "astronomical-events-2027-eclipse-08-02",
+      "name": "日全食",
+      "name_en": "Total solar eclipse",
+      "date": "2027-08-02",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2027,
+      "description": "香港天文台年历列出的全球日月食日期。并非所有事件都能在香港或中国大陆看到；可见地区及接触时刻请查看原公告。",
+      "description_en": "Global eclipse date listed in the Hong Kong Observatory almanac. Visibility is regional; consult the original bulletin for visible areas and local contact times.",
+      "url": "https://www.hko.gov.hk/en/gts/astron2027/files/2027eclipses.pdf",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "适用地区": "全球天象；可见性需按地区确认",
+        "时间精度": "官方年历日期"
+      },
+      "details_en": {
+        "Visibility": "Global event; local visibility must be checked",
+        "Precision": "Almanac date"
+      }
+    },
+    {
+      "id": "astronomical-events-2027-meteor-perseids",
+      "name": "英仙座流星雨观测夜",
+      "name_en": "Perseids peak observing night",
+      "date": "2027-08-12",
+      "end_date": "2027-08-13",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2027,
+      "description": "IMO 发布的流星雨观测夜窗口，非精确极大时刻。当地是否适宜观测取决于辐射点高度、月光与天气。",
+      "description_en": "IMO peak observing-night window, not a precise maximum instant. Local visibility depends on radiant altitude, moonlight and weather.",
+      "url": "https://www.imo.net/calendar/#perseids",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "数据来源": "International Meteor Organization",
+        "时间精度": "观测夜日期区间"
+      },
+      "details_en": {
+        "Source": "International Meteor Organization",
+        "Precision": "Observing-night date window"
+      }
+    },
+    {
+      "id": "astronomical-events-2027-eclipse-08-17",
+      "name": "半影月食",
+      "name_en": "Penumbral lunar eclipse",
+      "date": "2027-08-17",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2027,
+      "description": "香港天文台年历列出的全球日月食日期。并非所有事件都能在香港或中国大陆看到；可见地区及接触时刻请查看原公告。",
+      "description_en": "Global eclipse date listed in the Hong Kong Observatory almanac. Visibility is regional; consult the original bulletin for visible areas and local contact times.",
+      "url": "https://www.hko.gov.hk/en/gts/astron2027/files/2027eclipses.pdf",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "适用地区": "全球天象；可见性需按地区确认",
+        "时间精度": "官方年历日期"
+      },
+      "details_en": {
+        "Visibility": "Global event; local visibility must be checked",
+        "Precision": "Almanac date"
+      }
+    },
+    {
+      "id": "astronomical-events-2027-mercury-greatest-elongation-east-09-25",
+      "name": "水星东大距",
+      "name_en": "Mercury Greatest Elongation East",
+      "date": "2027-09-25",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2027,
+      "description": "日本国立天文台公布的行星天象；原表时区为 UTC+8。原表仅精确到小时，日历只标记日期。观测条件随所在地而异。",
+      "description_en": "Planetary phenomenon published by NAOJ in UTC+8. The source gives only hour precision; this calendar marks the date only. Observability depends on location.",
+      "url": "https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.cgi?year=2027&lst=8",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "原表时间": "06 h (UTC+8)"
+      },
+      "details_en": {
+        "Published time": "06 h (UTC+8)"
+      }
+    },
+    {
+      "id": "astronomical-events-2027-neptune-opposition-09-28",
+      "name": "海王星冲日",
+      "name_en": "Neptune Opposition",
+      "date": "2027-09-28",
+      "time": "22:19",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2027,
+      "description": "日本国立天文台公布的行星天象；原表时区为 UTC+8。观测条件随所在地而异。",
+      "description_en": "Planetary phenomenon published by NAOJ in UTC+8. Observability depends on location.",
+      "url": "https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.cgi?year=2027&lst=8",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "原表时间": "22:19 (UTC+8)"
+      },
+      "details_en": {
+        "Published time": "22:19 (UTC+8)"
+      }
+    },
+    {
+      "id": "astronomical-events-2027-saturn-opposition-10-18",
+      "name": "土星冲日",
+      "name_en": "Saturn Opposition",
+      "date": "2027-10-18",
+      "time": "08:36",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2027,
+      "description": "日本国立天文台公布的行星天象；原表时区为 UTC+8。观测条件随所在地而异。",
+      "description_en": "Planetary phenomenon published by NAOJ in UTC+8. Observability depends on location.",
+      "url": "https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.cgi?year=2027&lst=8",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "原表时间": "08:36 (UTC+8)"
+      },
+      "details_en": {
+        "Published time": "08:36 (UTC+8)"
+      }
+    },
+    {
+      "id": "astronomical-events-2027-mercury-greatest-elongation-west-11-04",
+      "name": "水星西大距",
+      "name_en": "Mercury Greatest Elongation West",
+      "date": "2027-11-04",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2027,
+      "description": "日本国立天文台公布的行星天象；原表时区为 UTC+8。原表仅精确到小时，日历只标记日期。观测条件随所在地而异。",
+      "description_en": "Planetary phenomenon published by NAOJ in UTC+8. The source gives only hour precision; this calendar marks the date only. Observability depends on location.",
+      "url": "https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.cgi?year=2027&lst=8",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "原表时间": "17 h (UTC+8)"
+      },
+      "details_en": {
+        "Published time": "17 h (UTC+8)"
+      }
+    },
+    {
+      "id": "astronomical-events-2027-uranus-opposition-11-30",
+      "name": "天王星冲日",
+      "name_en": "Uranus Opposition",
+      "date": "2027-11-30",
+      "time": "17:22",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2027,
+      "description": "日本国立天文台公布的行星天象；原表时区为 UTC+8。观测条件随所在地而异。",
+      "description_en": "Planetary phenomenon published by NAOJ in UTC+8. Observability depends on location.",
+      "url": "https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.cgi?year=2027&lst=8",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "原表时间": "17:22 (UTC+8)"
+      },
+      "details_en": {
+        "Published time": "17:22 (UTC+8)"
+      }
+    }
+  ],
+  "last_updated": "2026-11-05"
+}

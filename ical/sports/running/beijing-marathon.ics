@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//beijing-marathon//EN
+URL:https://koyomi.cast/sources/beijing-marathon
+NAME:北京马拉松
+X-WR-CALNAME:北京马拉松
+X-WR-CALDESC:北京马拉松报名、抽签、缴费、领物及比赛日
+ 程，持续同步已公布的官方节点。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:beijing-marathon-beijing-marathon-2026-pickup-10-15@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;TZID=Asia/Shanghai:20261015T100000
+DTEND;TZID=Asia/Shanghai:20261015T170000
+SUMMARY:北京马拉松 · 北京马拉松领物
+DESCRIPTION:北京马拉松领物，以组委会最新公告为准。
+CATEGORIES:北京马拉松
+URL;VALUE=URI:https://en.beijing-marathon.com/p-a-c-k-a-g-e-p-i-c-k-u-p.ht
+ ml
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:beijing-marathon-beijing-marathon-2026-pickup-10-16@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;TZID=Asia/Shanghai:20261016T100000
+DTEND;TZID=Asia/Shanghai:20261016T200000
+SUMMARY:北京马拉松 · 北京马拉松领物
+DESCRIPTION:北京马拉松领物，以组委会最新公告为准。
+CATEGORIES:北京马拉松
+URL;VALUE=URI:https://en.beijing-marathon.com/p-a-c-k-a-g-e-p-i-c-k-u-p.ht
+ ml
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:beijing-marathon-beijing-marathon-2026-pickup-10-17@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;TZID=Asia/Shanghai:20261017T100000
+DTEND;TZID=Asia/Shanghai:20261017T210000
+SUMMARY:北京马拉松 · 北京马拉松领物
+DESCRIPTION:北京马拉松领物，以组委会最新公告为准。
+CATEGORIES:北京马拉松
+URL;VALUE=URI:https://en.beijing-marathon.com/p-a-c-k-a-g-e-p-i-c-k-u-p.ht
+ ml
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:beijing-marathon-beijing-marathon-2026-race@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;TZID=Asia/Shanghai:20261018T073000
+DTEND;TZID=Asia/Shanghai:20261018T083000
+SUMMARY:北京马拉松 · 北京马拉松比赛
+DESCRIPTION:北京马拉松比赛，以组委会最新公告为准。
+CATEGORIES:北京马拉松
+URL;VALUE=URI:https://en.beijing-marathon.com/registration-guidelines.html
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

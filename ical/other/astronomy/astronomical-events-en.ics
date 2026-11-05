@@ -1,0 +1,568 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//astronomical-events//EN
+URL:https://koyomi.cast/sources/astronomical-events
+NAME:Astronomical Events
+X-WR-CALNAME:Astronomical Events
+X-WR-CALDESC:Meteor shower observing nights, eclipses, planetary oppositio
+ ns and elongations from IMO, NAOJ and HKO. Visibility depends on location.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2026-mercury-greatest-elongati
+ on-east-10-12@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Astronomical Events · Mercury Greatest Elongation East
+DESCRIPTION:Planetary phenomenon published by NAOJ in UTC+8. The source gi
+ ves only hour precision\; this calendar marks the date only. Observability
+  depends on location.\n\nPublished time: 18 h (UTC+8)
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2026&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2026-meteor-orionids@koyomi.ca
+ st
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261023
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Astronomical Events · Orionids peak observing night
+DESCRIPTION:IMO peak observing-night window\, not a precise maximum instan
+ t. Local visibility depends on radiant altitude\, moonlight and weather.\n
+ \nSource: International Meteor Organization\nPrecision: Observing-night da
+ te window
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://www.imo.net/calendar/#orionids
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2026-meteor-southern-taurids@k
+ oyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261106
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Astronomical Events · Southern Taurids peak observing night
+DESCRIPTION:IMO peak observing-night window\, not a precise maximum instan
+ t. Local visibility depends on radiant altitude\, moonlight and weather.\n
+ \nSource: International Meteor Organization\nPrecision: Observing-night da
+ te window
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://www.imo.net/calendar/#southern-taurids
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2026-meteor-northern-taurids@k
+ oyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261113
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Astronomical Events · Northern Taurids peak observing night
+DESCRIPTION:IMO peak observing-night window\, not a precise maximum instan
+ t. Local visibility depends on radiant altitude\, moonlight and weather.\n
+ \nSource: International Meteor Organization\nPrecision: Observing-night da
+ te window
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://www.imo.net/calendar/#northern-taurids
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2026-meteor-leonids@koyomi.cas
+ t
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261118
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Astronomical Events · Leonids peak observing night
+DESCRIPTION:IMO peak observing-night window\, not a precise maximum instan
+ t. Local visibility depends on radiant altitude\, moonlight and weather.\n
+ \nSource: International Meteor Organization\nPrecision: Observing-night da
+ te window
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://www.imo.net/calendar/#leonids
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2026-mercury-greatest-elongati
+ on-west-11-21@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Astronomical Events · Mercury Greatest Elongation West
+DESCRIPTION:Planetary phenomenon published by NAOJ in UTC+8. The source gi
+ ves only hour precision\; this calendar marks the date only. Observability
+  depends on location.\n\nPublished time: 07 h (UTC+8)
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2026&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2026-uranus-opposition-11-26@k
+ oyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;TZID=Asia/Shanghai:20261126T064100
+DTEND;TZID=Asia/Shanghai:20261126T074100
+SUMMARY:Astronomical Events · Uranus Opposition
+DESCRIPTION:Planetary phenomenon published by NAOJ in UTC+8. Observability
+  depends on location.\n\nPublished time: 06:41 (UTC+8)
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2026&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2026-meteor-geminids@koyomi.ca
+ st
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261215
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Astronomical Events · Geminids peak observing night
+DESCRIPTION:IMO peak observing-night window\, not a precise maximum instan
+ t. Local visibility depends on radiant altitude\, moonlight and weather.\n
+ \nSource: International Meteor Organization\nPrecision: Observing-night da
+ te window
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://www.imo.net/calendar/#geminids
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2026-meteor-ursids@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261223
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Astronomical Events · Ursids peak observing night
+DESCRIPTION:IMO peak observing-night window\, not a precise maximum instan
+ t. Local visibility depends on radiant altitude\, moonlight and weather.\n
+ \nSource: International Meteor Organization\nPrecision: Observing-night da
+ te window
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://www.imo.net/calendar/#ursids
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-meteor-quadrantids@koyomi
+ .cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270105
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Astronomical Events · Quadrantids peak observing night
+DESCRIPTION:IMO peak observing-night window\, not a precise maximum instan
+ t. Local visibility depends on radiant altitude\, moonlight and weather.\n
+ \nSource: International Meteor Organization\nPrecision: Observing-night da
+ te window
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://www.imo.net/calendar/#quadrantids
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-venus-greatest-elongation
+ -west-01-04@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Astronomical Events · Venus Greatest Elongation West
+DESCRIPTION:Planetary phenomenon published by NAOJ in UTC+8. The source gi
+ ves only hour precision\; this calendar marks the date only. Observability
+  depends on location.\n\nPublished time: 02 h (UTC+8)
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2027&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-mercury-greatest-elongati
+ on-east-02-03@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Astronomical Events · Mercury Greatest Elongation East
+DESCRIPTION:Planetary phenomenon published by NAOJ in UTC+8. The source gi
+ ves only hour precision\; this calendar marks the date only. Observability
+  depends on location.\n\nPublished time: 14 h (UTC+8)
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2027&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-eclipse-02-06@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Astronomical Events · Annular solar eclipse
+DESCRIPTION:Global eclipse date listed in the Hong Kong Observatory almana
+ c. Visibility is regional\; consult the original bulletin for visible area
+ s and local contact times.\n\nVisibility: Global event\; local visibility 
+ must be checked\nPrecision: Almanac date
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://www.hko.gov.hk/en/gts/astron2027/files/2027eclipses.
+ pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-jupiter-opposition-02-11@
+ koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;TZID=Asia/Shanghai:20270211T082900
+DTEND;TZID=Asia/Shanghai:20270211T092900
+SUMMARY:Astronomical Events · Jupiter Opposition
+DESCRIPTION:Planetary phenomenon published by NAOJ in UTC+8. Observability
+  depends on location.\n\nPublished time: 08:29 (UTC+8)
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2027&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-mars-opposition-02-19@koy
+ omi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;TZID=Asia/Shanghai:20270219T235100
+DTEND;TZID=Asia/Shanghai:20270220T005100
+SUMMARY:Astronomical Events · Mars Opposition
+DESCRIPTION:Planetary phenomenon published by NAOJ in UTC+8. Observability
+  depends on location.\n\nPublished time: 23:51 (UTC+8)
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2027&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-eclipse-02-21@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Astronomical Events · Penumbral lunar eclipse
+DESCRIPTION:Global eclipse date listed in the Hong Kong Observatory almana
+ c. Visibility is regional\; consult the original bulletin for visible area
+ s and local contact times.\n\nVisibility: Global event\; local visibility 
+ must be checked\nPrecision: Almanac date
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://www.hko.gov.hk/en/gts/astron2027/files/2027eclipses.
+ pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-mercury-greatest-elongati
+ on-west-03-17@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Astronomical Events · Mercury Greatest Elongation West
+DESCRIPTION:Planetary phenomenon published by NAOJ in UTC+8. The source gi
+ ves only hour precision\; this calendar marks the date only. Observability
+  depends on location.\n\nPublished time: 15 h (UTC+8)
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2027&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-meteor-lyrids@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270423
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Astronomical Events · Lyrids peak observing night
+DESCRIPTION:IMO peak observing-night window\, not a precise maximum instan
+ t. Local visibility depends on radiant altitude\, moonlight and weather.\n
+ \nSource: International Meteor Organization\nPrecision: Observing-night da
+ te window
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://www.imo.net/calendar/#lyrids
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-meteor-eta-aquariids@koyo
+ mi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270507
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Astronomical Events · Eta Aquariids peak observing night
+DESCRIPTION:IMO peak observing-night window\, not a precise maximum instan
+ t. Local visibility depends on radiant altitude\, moonlight and weather.\n
+ \nSource: International Meteor Organization\nPrecision: Observing-night da
+ te window
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://www.imo.net/calendar/#eta-aquariids
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-mercury-greatest-elongati
+ on-east-05-28@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Astronomical Events · Mercury Greatest Elongation East
+DESCRIPTION:Planetary phenomenon published by NAOJ in UTC+8. The source gi
+ ves only hour precision\; this calendar marks the date only. Observability
+  depends on location.\n\nPublished time: 18 h (UTC+8)
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2027&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-mercury-greatest-elongati
+ on-west-07-16@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Astronomical Events · Mercury Greatest Elongation West
+DESCRIPTION:Planetary phenomenon published by NAOJ in UTC+8. The source gi
+ ves only hour precision\; this calendar marks the date only. Observability
+  depends on location.\n\nPublished time: 03 h (UTC+8)
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2027&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-eclipse-07-18@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Astronomical Events · Penumbral lunar eclipse
+DESCRIPTION:Global eclipse date listed in the Hong Kong Observatory almana
+ c. Visibility is regional\; consult the original bulletin for visible area
+ s and local contact times.\n\nVisibility: Global event\; local visibility 
+ must be checked\nPrecision: Almanac date
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://www.hko.gov.hk/en/gts/astron2027/files/2027eclipses.
+ pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-meteor-southern-delta-aqu
+ ariids@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270801
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Astronomical Events · Southern Delta Aquariids peak observing nig
+ ht
+DESCRIPTION:IMO peak observing-night window\, not a precise maximum instan
+ t. Local visibility depends on radiant altitude\, moonlight and weather.\n
+ \nSource: International Meteor Organization\nPrecision: Observing-night da
+ te window
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://www.imo.net/calendar/#southern-delta-aquariids
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-meteor-alpha-capricornids
+ @koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270801
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Astronomical Events · Alpha Capricornids peak observing night
+DESCRIPTION:IMO peak observing-night window\, not a precise maximum instan
+ t. Local visibility depends on radiant altitude\, moonlight and weather.\n
+ \nSource: International Meteor Organization\nPrecision: Observing-night da
+ te window
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://www.imo.net/calendar/#alpha-capricornids
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-eclipse-08-02@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Astronomical Events · Total solar eclipse
+DESCRIPTION:Global eclipse date listed in the Hong Kong Observatory almana
+ c. Visibility is regional\; consult the original bulletin for visible area
+ s and local contact times.\n\nVisibility: Global event\; local visibility 
+ must be checked\nPrecision: Almanac date
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://www.hko.gov.hk/en/gts/astron2027/files/2027eclipses.
+ pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-meteor-perseids@koyomi.ca
+ st
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270814
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Astronomical Events · Perseids peak observing night
+DESCRIPTION:IMO peak observing-night window\, not a precise maximum instan
+ t. Local visibility depends on radiant altitude\, moonlight and weather.\n
+ \nSource: International Meteor Organization\nPrecision: Observing-night da
+ te window
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://www.imo.net/calendar/#perseids
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-eclipse-08-17@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Astronomical Events · Penumbral lunar eclipse
+DESCRIPTION:Global eclipse date listed in the Hong Kong Observatory almana
+ c. Visibility is regional\; consult the original bulletin for visible area
+ s and local contact times.\n\nVisibility: Global event\; local visibility 
+ must be checked\nPrecision: Almanac date
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://www.hko.gov.hk/en/gts/astron2027/files/2027eclipses.
+ pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-mercury-greatest-elongati
+ on-east-09-25@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Astronomical Events · Mercury Greatest Elongation East
+DESCRIPTION:Planetary phenomenon published by NAOJ in UTC+8. The source gi
+ ves only hour precision\; this calendar marks the date only. Observability
+  depends on location.\n\nPublished time: 06 h (UTC+8)
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2027&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-neptune-opposition-09-28@
+ koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;TZID=Asia/Shanghai:20270928T221900
+DTEND;TZID=Asia/Shanghai:20270928T231900
+SUMMARY:Astronomical Events · Neptune Opposition
+DESCRIPTION:Planetary phenomenon published by NAOJ in UTC+8. Observability
+  depends on location.\n\nPublished time: 22:19 (UTC+8)
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2027&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-saturn-opposition-10-18@k
+ oyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;TZID=Asia/Shanghai:20271018T083600
+DTEND;TZID=Asia/Shanghai:20271018T093600
+SUMMARY:Astronomical Events · Saturn Opposition
+DESCRIPTION:Planetary phenomenon published by NAOJ in UTC+8. Observability
+  depends on location.\n\nPublished time: 08:36 (UTC+8)
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2027&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-mercury-greatest-elongati
+ on-west-11-04@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20271104
+DTEND;VALUE=DATE:20271105
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Astronomical Events · Mercury Greatest Elongation West
+DESCRIPTION:Planetary phenomenon published by NAOJ in UTC+8. The source gi
+ ves only hour precision\; this calendar marks the date only. Observability
+  depends on location.\n\nPublished time: 17 h (UTC+8)
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2027&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-uranus-opposition-11-30@k
+ oyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;TZID=Asia/Shanghai:20271130T172200
+DTEND;TZID=Asia/Shanghai:20271130T182200
+SUMMARY:Astronomical Events · Uranus Opposition
+DESCRIPTION:Planetary phenomenon published by NAOJ in UTC+8. Observability
+  depends on location.\n\nPublished time: 17:22 (UTC+8)
+CATEGORIES:Astronomical Events
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2027&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

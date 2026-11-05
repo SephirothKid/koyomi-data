@@ -1,0 +1,27 @@
+{
+  "id": "lol-international",
+  "name": "英雄联盟国际赛",
+  "category": "gaming",
+  "name_en": "LoL International Events",
+  "subcategory": "电竞",
+  "subcategory_en": "Esports",
+  "icon": "gamepad-2",
+  "description": "季中冠军赛、全球总决赛及 First Stand 国际赛逐场对阵。",
+  "description_en": "Match schedules for MSI, Worlds and First Stand.",
+  "tags": [
+    "电竞",
+    "英雄联盟国际赛"
+  ],
+  "tags_en": [
+    "Esports",
+    "LoL International Events"
+  ],
+  "maintainer": "community",
+  "source_url": "https://lolesports.com/",
+  "attribution": "Match schedule and results provided by PandaScore.",
+  "cycle_kind": "season",
+  "season_basis": "calendar-year",
+  "hidden": true,
+  "disabled_reason": "等待首次可验证数据抓取。",
+  "events": []
+}

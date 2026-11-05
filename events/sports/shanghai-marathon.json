@@ -1,0 +1,113 @@
+{
+  "id": "shanghai-marathon",
+  "name": "上海马拉松",
+  "category": "sports",
+  "name_en": "Shanghai Marathon",
+  "subcategory": "马拉松",
+  "subcategory_en": "Marathon",
+  "icon": "footprints",
+  "description": "上海马拉松报名、抽签、缴费、领物及比赛日程，持续同步已公布的官方节点。",
+  "description_en": "Shanghai Marathon registration, lottery, payment, packet pickup and race milestones, where announced by the organizer.",
+  "tags": [
+    "马拉松",
+    "上海马拉松"
+  ],
+  "tags_en": [
+    "Marathon",
+    "Shanghai Marathon"
+  ],
+  "maintainer": "official",
+  "source_url": "https://static.shang-ma.com/web/index.html",
+  "events": [
+    {
+      "id": "shanghai-marathon-2026-registration-open",
+      "name": "上海马拉松报名开始",
+      "name_en": "Shanghai Marathon registration opens",
+      "date": "2026-04-29",
+      "time": "15:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "上海马拉松报名开始，以组委会最新公告为准。",
+      "description_en": "Shanghai Marathon registration opens; refer to the organizer's latest announcement.",
+      "url": "https://static.shang-ma.com/web/match.html?eventId=232",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official"
+    },
+    {
+      "id": "shanghai-marathon-2026-registration-deadline",
+      "name": "上海马拉松报名截止",
+      "name_en": "Shanghai Marathon registration deadline",
+      "date": "2026-05-29",
+      "time": "12:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "deadline",
+      "year": 2026,
+      "description": "上海马拉松报名截止，以组委会最新公告为准。",
+      "description_en": "Shanghai Marathon registration deadline; refer to the organizer's latest announcement.",
+      "url": "https://static.shang-ma.com/web/match.html?eventId=232",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official"
+    },
+    {
+      "id": "shanghai-marathon-2026-lottery",
+      "name": "上海马拉松抽签结果公布",
+      "name_en": "Shanghai Marathon lottery results",
+      "date": "2026-06-30",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2026,
+      "description": "上海马拉松抽签结果公布，以组委会最新公告为准。",
+      "description_en": "Shanghai Marathon lottery results; refer to the organizer's latest announcement.",
+      "url": "https://static.shang-ma.com/web/match.html?eventId=232",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official"
+    },
+    {
+      "id": "shanghai-marathon-2026-payment-deadline",
+      "name": "上海马拉松缴费截止",
+      "name_en": "Shanghai Marathon payment deadline",
+      "date": "2026-08-04",
+      "time": "17:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "deadline",
+      "year": 2026,
+      "description": "上海马拉松缴费截止，以组委会最新公告为准。",
+      "description_en": "Shanghai Marathon payment deadline; refer to the organizer's latest announcement.",
+      "url": "https://static.shang-ma.com/web/match.html?eventId=232",
+      "status": "completed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official"
+    },
+    {
+      "id": "shanghai-marathon-2026-race",
+      "name": "上海马拉松比赛日",
+      "name_en": "Shanghai Marathon race day",
+      "date": "2026-12-06",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2026,
+      "description": "上海马拉松比赛日，以组委会最新公告为准。",
+      "description_en": "Shanghai Marathon race day; refer to the organizer's latest announcement.",
+      "url": "https://static.shang-ma.com/web/match.html?eventId=232",
+      "status": "confirmed",
+      "last_verified": "2026-11-05",
+      "verified_by": "official",
+      "details": {
+        "时间说明": "各项目起跑时间不同，请查看组委会竞赛规程。"
+      },
+      "details_en": {
+        "Timing": "Start times differ by category; consult the competition regulations."
+      }
+    }
+  ],
+  "last_updated": "2026-11-05"
+}

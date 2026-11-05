@@ -39,10 +39,18 @@ const SUBCATEGORY_MAP = {
   'us-open': 'tennis',
   // motorsport
   f1: 'motorsport',
+  // running
+  'beijing-marathon': 'running',
+  'shanghai-marathon': 'running',
   // esports (gaming)
   'cs2-tournaments': 'esports',
   lpl: 'esports',
   kpl: 'esports',
+  'lol-international': 'esports',
+  'dota2-esports': 'esports',
+  'valorant-esports': 'esports',
+  // astronomy (other)
+  'astronomical-events': 'astronomy',
   // gacha (gaming)
   'genshin-impact': 'gacha',
   'honkai-star-rail': 'gacha',

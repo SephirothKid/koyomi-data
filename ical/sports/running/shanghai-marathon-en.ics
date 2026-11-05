@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//shanghai-marathon//EN
+URL:https://koyomi.cast/sources/shanghai-marathon
+NAME:Shanghai Marathon
+X-WR-CALNAME:Shanghai Marathon
+X-WR-CALDESC:Shanghai Marathon registration, lottery, payment, packet pick
+ up and race milestones, where announced by the organizer.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:shanghai-marathon-shanghai-marathon-2026-race@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Shanghai Marathon · Shanghai Marathon race day
+DESCRIPTION:Shanghai Marathon race day\; refer to the organizer's latest a
+ nnouncement.\n\nTiming: Start times differ by category\; consult the compe
+ tition regulations.
+CATEGORIES:Shanghai Marathon
+URL;VALUE=URI:https://static.shang-ma.com/web/match.html?eventId=232
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

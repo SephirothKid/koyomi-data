@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//beijing-marathon//EN
+URL:https://koyomi.cast/sources/beijing-marathon
+NAME:Beijing Marathon
+X-WR-CALNAME:Beijing Marathon
+X-WR-CALDESC:Beijing Marathon registration, lottery, payment, packet picku
+ p and race milestones, where announced by the organizer.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:beijing-marathon-beijing-marathon-2026-pickup-10-15@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;TZID=Asia/Shanghai:20261015T100000
+DTEND;TZID=Asia/Shanghai:20261015T170000
+SUMMARY:Beijing Marathon · Beijing Marathon race packet pickup
+DESCRIPTION:Beijing Marathon race packet pickup\; refer to the organizer's
+  latest announcement.
+CATEGORIES:Beijing Marathon
+URL;VALUE=URI:https://en.beijing-marathon.com/p-a-c-k-a-g-e-p-i-c-k-u-p.ht
+ ml
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:beijing-marathon-beijing-marathon-2026-pickup-10-16@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;TZID=Asia/Shanghai:20261016T100000
+DTEND;TZID=Asia/Shanghai:20261016T200000
+SUMMARY:Beijing Marathon · Beijing Marathon race packet pickup
+DESCRIPTION:Beijing Marathon race packet pickup\; refer to the organizer's
+  latest announcement.
+CATEGORIES:Beijing Marathon
+URL;VALUE=URI:https://en.beijing-marathon.com/p-a-c-k-a-g-e-p-i-c-k-u-p.ht
+ ml
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:beijing-marathon-beijing-marathon-2026-pickup-10-17@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;TZID=Asia/Shanghai:20261017T100000
+DTEND;TZID=Asia/Shanghai:20261017T210000
+SUMMARY:Beijing Marathon · Beijing Marathon race packet pickup
+DESCRIPTION:Beijing Marathon race packet pickup\; refer to the organizer's
+  latest announcement.
+CATEGORIES:Beijing Marathon
+URL;VALUE=URI:https://en.beijing-marathon.com/p-a-c-k-a-g-e-p-i-c-k-u-p.ht
+ ml
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:beijing-marathon-beijing-marathon-2026-race@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;TZID=Asia/Shanghai:20261018T073000
+DTEND;TZID=Asia/Shanghai:20261018T083000
+SUMMARY:Beijing Marathon · Beijing Marathon race
+DESCRIPTION:Beijing Marathon race\; refer to the organizer's latest announ
+ cement.
+CATEGORIES:Beijing Marathon
+URL;VALUE=URI:https://en.beijing-marathon.com/registration-guidelines.html
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

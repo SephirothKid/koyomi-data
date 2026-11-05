@@ -1,0 +1,568 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//astronomical-events//EN
+URL:https://koyomi.cast/sources/astronomical-events
+NAME:天象日历
+X-WR-CALNAME:天象日历
+X-WR-CALDESC:流星雨观测夜、日月食与行星冲日／大距，来
+ 自 IMO、日本国立天文台及香港天文台。观测条件随地区
+ 而异。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2026-mercury-greatest-elongati
+ on-east-10-12@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:天象日历 · 水星东大距
+DESCRIPTION:日本国立天文台公布的行星天象；原表时区为 U
+ TC+8。原表仅精确到小时，日历只标记日期。观测条件随
+ 所在地而异。\n\n原表时间: 18 h (UTC+8)
+CATEGORIES:天象日历
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2026&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2026-meteor-orionids@koyomi.ca
+ st
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261023
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:天象日历 · 猎户座流星雨观测夜
+DESCRIPTION:IMO 发布的流星雨观测夜窗口，非精确极大时刻
+ 。当地是否适宜观测取决于辐射点高度、月光与天气。\n
+ \n数据来源: International Meteor Organization\n时间精度: 观测夜
+ 日期区间
+CATEGORIES:天象日历
+URL;VALUE=URI:https://www.imo.net/calendar/#orionids
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2026-meteor-southern-taurids@k
+ oyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261106
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:天象日历 · 金牛座南流星雨观测夜
+DESCRIPTION:IMO 发布的流星雨观测夜窗口，非精确极大时刻
+ 。当地是否适宜观测取决于辐射点高度、月光与天气。\n
+ \n数据来源: International Meteor Organization\n时间精度: 观测夜
+ 日期区间
+CATEGORIES:天象日历
+URL;VALUE=URI:https://www.imo.net/calendar/#southern-taurids
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2026-meteor-northern-taurids@k
+ oyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261113
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:天象日历 · 金牛座北流星雨观测夜
+DESCRIPTION:IMO 发布的流星雨观测夜窗口，非精确极大时刻
+ 。当地是否适宜观测取决于辐射点高度、月光与天气。\n
+ \n数据来源: International Meteor Organization\n时间精度: 观测夜
+ 日期区间
+CATEGORIES:天象日历
+URL;VALUE=URI:https://www.imo.net/calendar/#northern-taurids
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2026-meteor-leonids@koyomi.cas
+ t
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261118
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:天象日历 · 狮子座流星雨观测夜
+DESCRIPTION:IMO 发布的流星雨观测夜窗口，非精确极大时刻
+ 。当地是否适宜观测取决于辐射点高度、月光与天气。\n
+ \n数据来源: International Meteor Organization\n时间精度: 观测夜
+ 日期区间
+CATEGORIES:天象日历
+URL;VALUE=URI:https://www.imo.net/calendar/#leonids
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2026-mercury-greatest-elongati
+ on-west-11-21@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:天象日历 · 水星西大距
+DESCRIPTION:日本国立天文台公布的行星天象；原表时区为 U
+ TC+8。原表仅精确到小时，日历只标记日期。观测条件随
+ 所在地而异。\n\n原表时间: 07 h (UTC+8)
+CATEGORIES:天象日历
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2026&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2026-uranus-opposition-11-26@k
+ oyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;TZID=Asia/Shanghai:20261126T064100
+DTEND;TZID=Asia/Shanghai:20261126T074100
+SUMMARY:天象日历 · 天王星冲日
+DESCRIPTION:日本国立天文台公布的行星天象；原表时区为 U
+ TC+8。观测条件随所在地而异。\n\n原表时间: 06:41 (UTC+8)
+CATEGORIES:天象日历
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2026&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2026-meteor-geminids@koyomi.ca
+ st
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261215
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:天象日历 · 双子座流星雨观测夜
+DESCRIPTION:IMO 发布的流星雨观测夜窗口，非精确极大时刻
+ 。当地是否适宜观测取决于辐射点高度、月光与天气。\n
+ \n数据来源: International Meteor Organization\n时间精度: 观测夜
+ 日期区间
+CATEGORIES:天象日历
+URL;VALUE=URI:https://www.imo.net/calendar/#geminids
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2026-meteor-ursids@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261223
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:天象日历 · 小熊座流星雨观测夜
+DESCRIPTION:IMO 发布的流星雨观测夜窗口，非精确极大时刻
+ 。当地是否适宜观测取决于辐射点高度、月光与天气。\n
+ \n数据来源: International Meteor Organization\n时间精度: 观测夜
+ 日期区间
+CATEGORIES:天象日历
+URL;VALUE=URI:https://www.imo.net/calendar/#ursids
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-meteor-quadrantids@koyomi
+ .cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270105
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:天象日历 · 象限仪座流星雨观测夜
+DESCRIPTION:IMO 发布的流星雨观测夜窗口，非精确极大时刻
+ 。当地是否适宜观测取决于辐射点高度、月光与天气。\n
+ \n数据来源: International Meteor Organization\n时间精度: 观测夜
+ 日期区间
+CATEGORIES:天象日历
+URL;VALUE=URI:https://www.imo.net/calendar/#quadrantids
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-venus-greatest-elongation
+ -west-01-04@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:天象日历 · 金星西大距
+DESCRIPTION:日本国立天文台公布的行星天象；原表时区为 U
+ TC+8。原表仅精确到小时，日历只标记日期。观测条件随
+ 所在地而异。\n\n原表时间: 02 h (UTC+8)
+CATEGORIES:天象日历
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2027&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-mercury-greatest-elongati
+ on-east-02-03@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:天象日历 · 水星东大距
+DESCRIPTION:日本国立天文台公布的行星天象；原表时区为 U
+ TC+8。原表仅精确到小时，日历只标记日期。观测条件随
+ 所在地而异。\n\n原表时间: 14 h (UTC+8)
+CATEGORIES:天象日历
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2027&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-eclipse-02-06@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:天象日历 · 日环食
+DESCRIPTION:香港天文台年历列出的全球日月食日期。并非
+ 所有事件都能在香港或中国大陆看到；可见地区及接触
+ 时刻请查看原公告。\n\n适用地区: 全球天象；可见性需
+ 按地区确认\n时间精度: 官方年历日期
+CATEGORIES:天象日历
+URL;VALUE=URI:https://www.hko.gov.hk/en/gts/astron2027/files/2027eclipses.
+ pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-jupiter-opposition-02-11@
+ koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;TZID=Asia/Shanghai:20270211T082900
+DTEND;TZID=Asia/Shanghai:20270211T092900
+SUMMARY:天象日历 · 木星冲日
+DESCRIPTION:日本国立天文台公布的行星天象；原表时区为 U
+ TC+8。观测条件随所在地而异。\n\n原表时间: 08:29 (UTC+8)
+CATEGORIES:天象日历
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2027&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-mars-opposition-02-19@koy
+ omi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;TZID=Asia/Shanghai:20270219T235100
+DTEND;TZID=Asia/Shanghai:20270220T005100
+SUMMARY:天象日历 · 火星冲日
+DESCRIPTION:日本国立天文台公布的行星天象；原表时区为 U
+ TC+8。观测条件随所在地而异。\n\n原表时间: 23:51 (UTC+8)
+CATEGORIES:天象日历
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2027&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-eclipse-02-21@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:天象日历 · 半影月食
+DESCRIPTION:香港天文台年历列出的全球日月食日期。并非
+ 所有事件都能在香港或中国大陆看到；可见地区及接触
+ 时刻请查看原公告。\n\n适用地区: 全球天象；可见性需
+ 按地区确认\n时间精度: 官方年历日期
+CATEGORIES:天象日历
+URL;VALUE=URI:https://www.hko.gov.hk/en/gts/astron2027/files/2027eclipses.
+ pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-mercury-greatest-elongati
+ on-west-03-17@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:天象日历 · 水星西大距
+DESCRIPTION:日本国立天文台公布的行星天象；原表时区为 U
+ TC+8。原表仅精确到小时，日历只标记日期。观测条件随
+ 所在地而异。\n\n原表时间: 15 h (UTC+8)
+CATEGORIES:天象日历
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2027&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-meteor-lyrids@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270423
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:天象日历 · 天琴座流星雨观测夜
+DESCRIPTION:IMO 发布的流星雨观测夜窗口，非精确极大时刻
+ 。当地是否适宜观测取决于辐射点高度、月光与天气。\n
+ \n数据来源: International Meteor Organization\n时间精度: 观测夜
+ 日期区间
+CATEGORIES:天象日历
+URL;VALUE=URI:https://www.imo.net/calendar/#lyrids
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-meteor-eta-aquariids@koyo
+ mi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270507
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:天象日历 · 宝瓶座η流星雨观测夜
+DESCRIPTION:IMO 发布的流星雨观测夜窗口，非精确极大时刻
+ 。当地是否适宜观测取决于辐射点高度、月光与天气。\n
+ \n数据来源: International Meteor Organization\n时间精度: 观测夜
+ 日期区间
+CATEGORIES:天象日历
+URL;VALUE=URI:https://www.imo.net/calendar/#eta-aquariids
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-mercury-greatest-elongati
+ on-east-05-28@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:天象日历 · 水星东大距
+DESCRIPTION:日本国立天文台公布的行星天象；原表时区为 U
+ TC+8。原表仅精确到小时，日历只标记日期。观测条件随
+ 所在地而异。\n\n原表时间: 18 h (UTC+8)
+CATEGORIES:天象日历
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2027&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-mercury-greatest-elongati
+ on-west-07-16@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:天象日历 · 水星西大距
+DESCRIPTION:日本国立天文台公布的行星天象；原表时区为 U
+ TC+8。原表仅精确到小时，日历只标记日期。观测条件随
+ 所在地而异。\n\n原表时间: 03 h (UTC+8)
+CATEGORIES:天象日历
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2027&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-eclipse-07-18@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:天象日历 · 半影月食
+DESCRIPTION:香港天文台年历列出的全球日月食日期。并非
+ 所有事件都能在香港或中国大陆看到；可见地区及接触
+ 时刻请查看原公告。\n\n适用地区: 全球天象；可见性需
+ 按地区确认\n时间精度: 官方年历日期
+CATEGORIES:天象日历
+URL;VALUE=URI:https://www.hko.gov.hk/en/gts/astron2027/files/2027eclipses.
+ pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-meteor-southern-delta-aqu
+ ariids@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270801
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:天象日历 · 宝瓶座δ南流星雨观测夜
+DESCRIPTION:IMO 发布的流星雨观测夜窗口，非精确极大时刻
+ 。当地是否适宜观测取决于辐射点高度、月光与天气。\n
+ \n数据来源: International Meteor Organization\n时间精度: 观测夜
+ 日期区间
+CATEGORIES:天象日历
+URL;VALUE=URI:https://www.imo.net/calendar/#southern-delta-aquariids
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-meteor-alpha-capricornids
+ @koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270801
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:天象日历 · 摩羯座α流星雨观测夜
+DESCRIPTION:IMO 发布的流星雨观测夜窗口，非精确极大时刻
+ 。当地是否适宜观测取决于辐射点高度、月光与天气。\n
+ \n数据来源: International Meteor Organization\n时间精度: 观测夜
+ 日期区间
+CATEGORIES:天象日历
+URL;VALUE=URI:https://www.imo.net/calendar/#alpha-capricornids
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-eclipse-08-02@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:天象日历 · 日全食
+DESCRIPTION:香港天文台年历列出的全球日月食日期。并非
+ 所有事件都能在香港或中国大陆看到；可见地区及接触
+ 时刻请查看原公告。\n\n适用地区: 全球天象；可见性需
+ 按地区确认\n时间精度: 官方年历日期
+CATEGORIES:天象日历
+URL;VALUE=URI:https://www.hko.gov.hk/en/gts/astron2027/files/2027eclipses.
+ pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-meteor-perseids@koyomi.ca
+ st
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270814
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:天象日历 · 英仙座流星雨观测夜
+DESCRIPTION:IMO 发布的流星雨观测夜窗口，非精确极大时刻
+ 。当地是否适宜观测取决于辐射点高度、月光与天气。\n
+ \n数据来源: International Meteor Organization\n时间精度: 观测夜
+ 日期区间
+CATEGORIES:天象日历
+URL;VALUE=URI:https://www.imo.net/calendar/#perseids
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-eclipse-08-17@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:天象日历 · 半影月食
+DESCRIPTION:香港天文台年历列出的全球日月食日期。并非
+ 所有事件都能在香港或中国大陆看到；可见地区及接触
+ 时刻请查看原公告。\n\n适用地区: 全球天象；可见性需
+ 按地区确认\n时间精度: 官方年历日期
+CATEGORIES:天象日历
+URL;VALUE=URI:https://www.hko.gov.hk/en/gts/astron2027/files/2027eclipses.
+ pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-mercury-greatest-elongati
+ on-east-09-25@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:天象日历 · 水星东大距
+DESCRIPTION:日本国立天文台公布的行星天象；原表时区为 U
+ TC+8。原表仅精确到小时，日历只标记日期。观测条件随
+ 所在地而异。\n\n原表时间: 06 h (UTC+8)
+CATEGORIES:天象日历
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2027&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-neptune-opposition-09-28@
+ koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;TZID=Asia/Shanghai:20270928T221900
+DTEND;TZID=Asia/Shanghai:20270928T231900
+SUMMARY:天象日历 · 海王星冲日
+DESCRIPTION:日本国立天文台公布的行星天象；原表时区为 U
+ TC+8。观测条件随所在地而异。\n\n原表时间: 22:19 (UTC+8)
+CATEGORIES:天象日历
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2027&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-saturn-opposition-10-18@k
+ oyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;TZID=Asia/Shanghai:20271018T083600
+DTEND;TZID=Asia/Shanghai:20271018T093600
+SUMMARY:天象日历 · 土星冲日
+DESCRIPTION:日本国立天文台公布的行星天象；原表时区为 U
+ TC+8。观测条件随所在地而异。\n\n原表时间: 08:36 (UTC+8)
+CATEGORIES:天象日历
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2027&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-mercury-greatest-elongati
+ on-west-11-04@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;VALUE=DATE:20271104
+DTEND;VALUE=DATE:20271105
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:天象日历 · 水星西大距
+DESCRIPTION:日本国立天文台公布的行星天象；原表时区为 U
+ TC+8。原表仅精确到小时，日历只标记日期。观测条件随
+ 所在地而异。\n\n原表时间: 17 h (UTC+8)
+CATEGORIES:天象日历
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2027&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomical-events-astronomical-events-2027-uranus-opposition-11-30@k
+ oyomi.cast
+SEQUENCE:0
+DTSTAMP:20261105T000000
+DTSTART;TZID=Asia/Shanghai:20271130T172200
+DTEND;TZID=Asia/Shanghai:20271130T182200
+SUMMARY:天象日历 · 天王星冲日
+DESCRIPTION:日本国立天文台公布的行星天象；原表时区为 U
+ TC+8。观测条件随所在地而异。\n\n原表时间: 17:22 (UTC+8)
+CATEGORIES:天象日历
+URL;VALUE=URI:https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenomena_en.
+ cgi?year=2027&lst=8
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
