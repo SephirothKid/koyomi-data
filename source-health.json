@@ -14,8 +14,8 @@
     },
     "fgo": {
       "category": "gaming",
-      "checked_at": "2026-11-05",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-06",
+      "outcome": "updated"
     },
     "tw-public-holidays": {
       "category": "holidays",
@@ -179,27 +179,27 @@
     },
     "arknights": {
       "category": "gaming",
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-06",
       "outcome": "unchanged"
     },
     "cs2-tournaments": {
       "category": "gaming",
-      "checked_at": "2026-11-05",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-06",
+      "outcome": "updated"
     },
     "epic-free": {
       "category": "gaming",
-      "checked_at": "2026-11-05",
-      "outcome": "updated"
+      "checked_at": "2026-11-06",
+      "outcome": "unchanged"
     },
     "kpl": {
       "category": "gaming",
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-06",
       "outcome": "updated"
     },
     "lpl": {
       "category": "gaming",
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-06",
       "outcome": "updated"
     },
     "console-showcases": {
@@ -210,33 +210,36 @@
     "genshin-impact": {
       "category": "gaming",
       "checked_at": "2026-11-05",
-      "outcome": "updated"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/16471662a82d418a/getContentList?iAppId=43&iChanId=721&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed)"
     },
     "honkai-star-rail": {
       "category": "gaming",
       "checked_at": "2026-11-05",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/1963de8dc19e461c/getContentList?iChanId=255&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed)"
     },
     "zenless-zone-zero": {
       "category": "gaming",
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-06",
       "outcome": "unchanged"
     },
     "rawg-releases": {
       "category": "gaming",
       "checked_at": "2026-11-02",
       "outcome": "skipped",
-      "last_error": "HTTP 522: https://api.rawg.io/api/games?key=***&dates=2026-11-05%2C2026-11-30&platforms=4%2C187%2C18%2C1%2C7%2C3%2C21&ordering=released&page_size=40&page=1"
+      "last_error": "HTTP 522: https://api.rawg.io/api/games?key=***&dates=2026-11-06%2C2026-11-30&platforms=4%2C187%2C18%2C1%2C7%2C3%2C21&ordering=released&page_size=40&page=1"
     },
     "steam-sales": {
       "category": "gaming",
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-06",
       "outcome": "unchanged"
     },
     "wuthering-waves": {
       "category": "gaming",
       "checked_at": "2026-11-05",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/zh/ArticleMenu.json (fetch failed)"
     },
     "accounting-qualification": {
       "category": "exam",
@@ -405,17 +408,17 @@
     },
     "dota2-esports": {
       "category": "gaming",
-      "checked_at": "2026-11-05",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-06",
+      "outcome": "updated"
     },
     "lol-international": {
       "category": "gaming",
-      "checked_at": "2026-11-05",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-06",
+      "outcome": "updated"
     },
     "valorant-esports": {
       "category": "gaming",
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-06",
       "outcome": "unchanged"
     }
   }
