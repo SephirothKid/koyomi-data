@@ -55050,7 +55050,7 @@
       "description": "PARIVISION vs Natus Vincere — IEM Beijing（北京时间）",
       "description_en": "PARIVISION vs Natus Vincere — IEM Beijing (CST)",
       "url": "https://www.youtube.com/watch?v=RHlyno8_9vI",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-11-06",
       "verified_by": "official",
       "teams": {
@@ -55058,6 +55058,86 @@
           "id": "133719",
           "code": "PARIVISION",
           "name": "PARIVISION"
+        },
+        "home": {
+          "id": "3216",
+          "code": "Natus Vincere",
+          "name": "Natus Vincere"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "IEM",
+        "赛季": "Beijing",
+        "阶段": "季后赛",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1781483",
+      "name": "IEM Beijing · 季后赛 · FURIA vs BetBoom Team",
+      "name_en": "IEM Beijing · Playoffs · FURIA vs BetBoom Team",
+      "date": "2026-11-06",
+      "time": "19:07",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "FURIA vs BetBoom Team — IEM Beijing（北京时间）",
+      "description_en": "FURIA vs BetBoom Team — IEM Beijing (CST)",
+      "url": "https://www.youtube.com/watch?v=2R190nKpdKw",
+      "status": "completed",
+      "last_verified": "2026-11-06",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "124530",
+          "code": "FURIA",
+          "name": "FURIA"
+        },
+        "home": {
+          "id": "133458",
+          "code": "BetBoom Team",
+          "name": "BetBoom Team"
+        }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "IEM",
+        "赛季": "Beijing",
+        "阶段": "季后赛",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1781484",
+      "name": "IEM Beijing · 季后赛 · TheMongolz vs Natus Vincere",
+      "name_en": "IEM Beijing · Playoffs · TheMongolz vs Natus Vincere",
+      "date": "2026-11-07",
+      "time": "14:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "TheMongolz vs Natus Vincere — IEM Beijing（北京时间）",
+      "description_en": "TheMongolz vs Natus Vincere — IEM Beijing (CST)",
+      "url": "https://www.twitch.tv/ESLCS",
+      "status": "confirmed",
+      "last_verified": "2026-11-06",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "3272",
+          "code": "TheMongolz",
+          "name": "TheMongolz"
         },
         "home": {
           "id": "3216",
@@ -55073,25 +55153,25 @@
       }
     },
     {
-      "id": "cs2-2026-m1781483",
-      "name": "IEM Beijing · 季后赛 · FURIA vs BetBoom Team",
-      "name_en": "IEM Beijing · Playoffs · FURIA vs BetBoom Team",
-      "date": "2026-11-06",
-      "time": "18:15",
+      "id": "cs2-2026-m1781485",
+      "name": "IEM Beijing · 季后赛 · MOUZ vs BetBoom Team",
+      "name_en": "IEM Beijing · Playoffs · MOUZ vs BetBoom Team",
+      "date": "2026-11-07",
+      "time": "17:45",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
-      "description": "FURIA vs BetBoom Team — IEM Beijing（北京时间）",
-      "description_en": "FURIA vs BetBoom Team — IEM Beijing (CST)",
+      "description": "MOUZ vs BetBoom Team — IEM Beijing（北京时间）",
+      "description_en": "MOUZ vs BetBoom Team — IEM Beijing (CST)",
       "url": "https://www.twitch.tv/ESLCS",
       "status": "confirmed",
       "last_verified": "2026-11-06",
       "verified_by": "official",
       "teams": {
         "away": {
-          "id": "124530",
-          "code": "FURIA",
-          "name": "FURIA"
+          "id": "3240",
+          "code": "MOUZ",
+          "name": "MOUZ"
         },
         "home": {
           "id": "133458",

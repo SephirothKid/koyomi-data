@@ -1243,11 +1243,37 @@ BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1781483@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261106T000000
-DTSTART;TZID=Asia/Shanghai:20261106T181500
-DTEND;TZID=Asia/Shanghai:20261106T191500
+DTSTART;TZID=Asia/Shanghai:20261106T190700
+DTEND;TZID=Asia/Shanghai:20261106T200700
 SUMMARY:CS2 · IEM Beijing · Playoffs · FURIA vs BetBoom Team
 DESCRIPTION:FURIA vs BetBoom Team — IEM Beijing (CST)\n\n赛事: IEM\n
  赛季: Beijing\n阶段: 季后赛\n赛制: BO3
+CATEGORIES:CS2
+URL;VALUE=URI:https://www.youtube.com/watch?v=2R190nKpdKw
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-cs2-2026-m1781484@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261106T000000
+DTSTART;TZID=Asia/Shanghai:20261107T143000
+DTEND;TZID=Asia/Shanghai:20261107T153000
+SUMMARY:CS2 · IEM Beijing · Playoffs · TheMongolz vs Natus Vincere
+DESCRIPTION:TheMongolz vs Natus Vincere — IEM Beijing (CST)\n\n赛事: I
+ EM\n赛季: Beijing\n阶段: 季后赛\n赛制: BO3
+CATEGORIES:CS2
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-cs2-2026-m1781485@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261106T000000
+DTSTART;TZID=Asia/Shanghai:20261107T174500
+DTEND;TZID=Asia/Shanghai:20261107T184500
+SUMMARY:CS2 · IEM Beijing · Playoffs · MOUZ vs BetBoom Team
+DESCRIPTION:MOUZ vs BetBoom Team — IEM Beijing (CST)\n\n赛事: IEM\n赛
+ 季: Beijing\n阶段: 季后赛\n赛制: BO3
 CATEGORIES:CS2
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 STATUS:CONFIRMED
