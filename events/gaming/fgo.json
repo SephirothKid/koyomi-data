@@ -9863,8 +9863,8 @@
       "name": "FGO 全世界1亿下载突破纪念活动",
       "date": "2026-11-07",
       "end_date": "2026-11-21",
-      "time": "21:00",
-      "end_time": "12:59",
+      "time": "20:00",
+      "end_time": "13:59",
       "timezone": "Asia/Shanghai",
       "time_kind": "datetime_range",
       "type": "range",
@@ -9886,6 +9886,78 @@
         "Event region": "CN",
         "English name status": "community translation"
       }
+    },
+    {
+      "id": "fgo-2026-全世界1亿下载纪念推荐召唤-banner",
+      "name": "FGO 全世界1亿下载纪念推荐召唤",
+      "name_en": "FGO CN summoning campaign — 2026-11-07",
+      "date": "2026-11-07",
+      "end_date": "2026-11-21",
+      "time": "20:00",
+      "end_time": "13:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "FGO召唤「全世界1亿下载纪念推荐召唤」。",
+      "description_en": "FGO CN summoning campaign — 2026-11-07. Event details are available in the original Chinese announcement.",
+      "url": "https://game.bilibili.com/fgo/news.html",
+      "status": "active",
+      "last_verified": "2026-11-07",
+      "verified_by": "community",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "unavailable"
+      },
+      "game": {
+        "game_id": "fgo",
+        "provider": "bilibili",
+        "source_kind": "banner",
+        "version": "全世界1亿下载纪念推荐召唤"
+      },
+      "banners": [
+        {
+          "name": "全世界1亿下载纪念推荐召唤",
+          "name_en": "CN summoning campaign — 2026-11-07",
+          "type": "character"
+        }
+      ]
+    },
+    {
+      "id": "fgo-2026-全世界1億DL記念召喚-banner",
+      "name": "FGO 全世界1億DL記念ピックアップ召喚 召唤",
+      "name_en": "FGO CN summoning campaign — 2026-11-07",
+      "date": "2026-11-07",
+      "end_date": "2026-11-21",
+      "time": "21:00",
+      "end_time": "12:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "FGO召唤「全世界1億DL記念ピックアップ召喚」。",
+      "description_en": "FGO CN summoning campaign — 2026-11-07. Event details are available in the original Chinese announcement.",
+      "url": "https://game.bilibili.com/fgo/news.html",
+      "status": "active",
+      "last_verified": "2026-11-07",
+      "verified_by": "community",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "unavailable"
+      },
+      "game": {
+        "game_id": "fgo",
+        "provider": "bilibili",
+        "source_kind": "banner",
+        "version": "全世界1億DL記念ピックアップ召喚"
+      },
+      "banners": [
+        {
+          "name": "全世界1億DL記念ピックアップ召喚",
+          "name_en": "CN summoning campaign — 2026-11-07",
+          "type": "character"
+        }
+      ]
     },
     {
       "id": "fgo-2026-FateGrandOrderRoadto-banner",

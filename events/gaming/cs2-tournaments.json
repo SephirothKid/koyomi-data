@@ -55163,14 +55163,14 @@
       "name": "IEM Beijing · 季后赛 · MOUZ vs BetBoom Team",
       "name_en": "IEM Beijing · Playoffs · MOUZ vs BetBoom Team",
       "date": "2026-11-07",
-      "time": "17:45",
+      "time": "17:50",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "MOUZ vs BetBoom Team — IEM Beijing（北京时间）",
       "description_en": "MOUZ vs BetBoom Team — IEM Beijing (CST)",
       "url": "https://www.twitch.tv/dachcs",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-07",
       "verified_by": "official",
       "teams": {
@@ -55185,11 +55185,85 @@
           "name": "BetBoom Team"
         }
       },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
       "details": {
         "赛事": "IEM",
         "赛季": "Beijing",
         "阶段": "季后赛",
         "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1781487",
+      "name": "IEM Beijing · 季后赛 · Natus Vincere vs BetBoom Team",
+      "name_en": "IEM Beijing · Playoffs · Natus Vincere vs BetBoom Team",
+      "date": "2026-11-08",
+      "time": "12:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Natus Vincere vs BetBoom Team — IEM Beijing（北京时间）",
+      "description_en": "Natus Vincere vs BetBoom Team — IEM Beijing (CST)",
+      "url": "https://www.twitch.tv/ESLCS",
+      "status": "confirmed",
+      "last_verified": "2026-11-07",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "3216",
+          "code": "Natus Vincere",
+          "name": "Natus Vincere"
+        },
+        "home": {
+          "id": "133458",
+          "code": "BetBoom Team",
+          "name": "BetBoom Team"
+        }
+      },
+      "details": {
+        "赛事": "IEM",
+        "赛季": "Beijing",
+        "阶段": "季后赛",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1781486",
+      "name": "IEM Beijing · 季后赛 · TheMongolz vs MOUZ",
+      "name_en": "IEM Beijing · Playoffs · TheMongolz vs MOUZ",
+      "date": "2026-11-08",
+      "time": "15:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "TheMongolz vs MOUZ — IEM Beijing（北京时间）",
+      "description_en": "TheMongolz vs MOUZ — IEM Beijing (CST)",
+      "url": "https://www.twitch.tv/ESLCS",
+      "status": "confirmed",
+      "last_verified": "2026-11-07",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "3272",
+          "code": "TheMongolz",
+          "name": "TheMongolz"
+        },
+        "home": {
+          "id": "3240",
+          "code": "MOUZ",
+          "name": "MOUZ"
+        }
+      },
+      "details": {
+        "赛事": "IEM",
+        "赛季": "Beijing",
+        "阶段": "季后赛",
+        "赛制": "BO5"
       }
     },
     {

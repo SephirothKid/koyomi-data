@@ -571,12 +571,44 @@ UID:fgo-fgo-2026-全世界1亿下载突破纪念活动-activity@koyomi.cas
  t
 SEQUENCE:0
 DTSTAMP:20261107T000000
-DTSTART;TZID=Asia/Shanghai:20261107T210000
-DTEND;TZID=Asia/Shanghai:20261121T125900
+DTSTART;TZID=Asia/Shanghai:20261107T200000
+DTEND;TZID=Asia/Shanghai:20261121T135900
 SUMMARY:Fate/Grand Order Event Calendar · FGO 100 Million Worldwide Downl
  oads Celebration Campaign
 DESCRIPTION:FGO 100 Million Worldwide Downloads Celebration Campaign.\n\nV
  ersion: 全世界1亿下载突破纪念活动\nType: announcement
+CATEGORIES:Fate/Grand Order Event Calendar
+URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fgo-fgo-2026-全世界1亿下载纪念推荐召唤-banner@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261107T000000
+DTSTART;TZID=Asia/Shanghai:20261107T200000
+DTEND;TZID=Asia/Shanghai:20261121T135900
+SUMMARY:Fate/Grand Order Event Calendar · FGO CN summoning campaign — 2
+ 026-11-07
+DESCRIPTION:FGO CN summoning campaign — 2026-11-07. Event details are av
+ ailable in the original Chinese announcement.\n\nVersion: 全世界1亿下
+ 载纪念推荐召唤\nType: banner\n\nBanners:\n1. 全世界1亿下载纪
+ 念推荐召唤（Character）
+CATEGORIES:Fate/Grand Order Event Calendar
+URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fgo-fgo-2026-全世界1億DL記念召喚-banner@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261107T000000
+DTSTART;TZID=Asia/Shanghai:20261107T210000
+DTEND;TZID=Asia/Shanghai:20261121T125900
+SUMMARY:Fate/Grand Order Event Calendar · FGO CN summoning campaign — 2
+ 026-11-07
+DESCRIPTION:FGO CN summoning campaign — 2026-11-07. Event details are av
+ ailable in the original Chinese announcement.\n\nVersion: 全世界1億DL
+ 記念ピックアップ召喚\nType: banner\n\nBanners:\n1. 全世界1億
+ DL記念ピックアップ召喚（Character）
 CATEGORIES:Fate/Grand Order Event Calendar
 URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
 STATUS:CONFIRMED

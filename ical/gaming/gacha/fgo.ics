@@ -575,11 +575,41 @@ UID:fgo-fgo-2026-全世界1亿下载突破纪念活动-activity@koyomi.cas
  t
 SEQUENCE:0
 DTSTAMP:20261107T000000
-DTSTART;TZID=Asia/Shanghai:20261107T210000
-DTEND;TZID=Asia/Shanghai:20261121T125900
+DTSTART;TZID=Asia/Shanghai:20261107T200000
+DTEND;TZID=Asia/Shanghai:20261121T135900
 SUMMARY:FGO 活动日历 · FGO 全世界1亿下载突破纪念活动
 DESCRIPTION:FGO活动「全世界1亿下载突破纪念活动」。\n\n版
  本: 全世界1亿下载突破纪念活动\n类型: announcement
+CATEGORIES:FGO 活动日历
+URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fgo-fgo-2026-全世界1亿下载纪念推荐召唤-banner@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261107T000000
+DTSTART;TZID=Asia/Shanghai:20261107T200000
+DTEND;TZID=Asia/Shanghai:20261121T135900
+SUMMARY:FGO 活动日历 · FGO 全世界1亿下载纪念推荐召唤
+DESCRIPTION:FGO召唤「全世界1亿下载纪念推荐召唤」。\n\n版
+ 本: 全世界1亿下载纪念推荐召唤\n类型: banner\n\n卡池信息
+ ：\n1. 全世界1亿下载纪念推荐召唤（角色）
+CATEGORIES:FGO 活动日历
+URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fgo-fgo-2026-全世界1億DL記念召喚-banner@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261107T000000
+DTSTART;TZID=Asia/Shanghai:20261107T210000
+DTEND;TZID=Asia/Shanghai:20261121T125900
+SUMMARY:FGO 活动日历 · FGO 全世界1億DL記念ピックアップ召
+ 喚 召唤
+DESCRIPTION:FGO召唤「全世界1億DL記念ピックアップ召喚」
+ 。\n\n版本: 全世界1億DL記念ピックアップ召喚\n类型: bann
+ er\n\n卡池信息：\n1. 全世界1億DL記念ピックアップ召喚（
+ 角色）
 CATEGORIES:FGO 活动日历
 URL;VALUE=URI:https://game.bilibili.com/fgo/news.html
 STATUS:CONFIRMED
