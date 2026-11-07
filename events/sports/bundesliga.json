@@ -16505,7 +16505,7 @@
       "description": "不来梅 作客 斯图加特（德甲 2026-27 赛季，北京时间）",
       "description_en": "Werder Bremen at VfB Stuttgart (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-07",
       "verified_by": "auto",
       "teams": {
@@ -16525,8 +16525,15 @@
       "details": {
         "主场": "斯图加特",
         "客场": "不来梅",
+        "比分": "斯图加特 1 - 0 不来梅",
         "场馆": "MHPArena",
         "城市": "Stuttgart"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {

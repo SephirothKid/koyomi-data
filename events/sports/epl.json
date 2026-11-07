@@ -20418,7 +20418,7 @@
       "description": "曼城 作客 诺丁汉森林（英超 2026-27 赛季，北京时间）",
       "description_en": "Manchester City at Nottingham Forest (Premier League 2026-27, Beijing time)",
       "url": "https://www.premierleague.com/fixtures",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-07",
       "verified_by": "auto",
       "teams": {
@@ -20438,8 +20438,15 @@
       "details": {
         "主场": "诺丁汉森林",
         "客场": "曼城",
+        "比分": "诺丁汉森林 3 - 1 曼城",
         "场馆": "The City Ground",
         "城市": "Nottingham"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {

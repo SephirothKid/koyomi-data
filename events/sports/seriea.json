@@ -20805,7 +20805,7 @@
       "description": "博洛尼亚 作客 帕尔马（意甲 2026-27 赛季，北京时间）",
       "description_en": "Bologna at Parma (Serie A 2026-27, Beijing time)",
       "url": "https://www.legaseriea.it/en/serie-a/fixture-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-07",
       "verified_by": "auto",
       "teams": {
@@ -20825,8 +20825,15 @@
       "details": {
         "主场": "帕尔马",
         "客场": "博洛尼亚",
+        "比分": "帕尔马 1 - 2 博洛尼亚",
         "场馆": "Ennio Tardini",
         "城市": "Parma"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -20841,7 +20848,7 @@
       "description": "萨索洛 作客 罗马（意甲 2026-27 赛季，北京时间）",
       "description_en": "Sassuolo at AS Roma (Serie A 2026-27, Beijing time)",
       "url": "https://www.legaseriea.it/en/serie-a/fixture-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-07",
       "verified_by": "auto",
       "teams": {
@@ -20861,8 +20868,15 @@
       "details": {
         "主场": "罗马",
         "客场": "萨索洛",
+        "比分": "罗马 3 - 0 萨索洛",
         "场馆": "Olimpico",
         "城市": "Roma"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
