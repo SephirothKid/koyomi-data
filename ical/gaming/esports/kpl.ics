@@ -474,14 +474,28 @@ BEGIN:VEVENT
 UID:kpl-kpl-2026-m1766483@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261108T000000
-DTSTART;TZID=Asia/Shanghai:20261108T180000
-DTEND;TZID=Asia/Shanghai:20261108T190000
+DTSTART;TZID=Asia/Shanghai:20261108T181100
+DTEND;TZID=Asia/Shanghai:20261108T191100
 SUMMARY:KPL · 季后赛 · WB vs TTG
 DESCRIPTION:Weibo Gaming vs Talent Gaming — Playoffs（北京时间）\n
  \n赛事: King Pro League\n赛季: Grand Finals 2026\n阶段: Playoffs\n
  赛制: BO7
 CATEGORIES:KPL
 URL;VALUE=URI:https://www.youtube.com/watch?v=N7SUhprtmdc
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kpl-kpl-2026-m1766484@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261108T000000
+DTSTART;TZID=Asia/Shanghai:20261114T173000
+DTEND;TZID=Asia/Shanghai:20261114T183000
+SUMMARY:KPL · 季后赛 · JDG vs WB
+DESCRIPTION:JD Gaming vs Weibo Gaming — Playoffs（北京时间）\n\n
+ 赛事: King Pro League\n赛季: Grand Finals 2026\n阶段: Playoffs\n赛
+ 制: BO7
+CATEGORIES:KPL
+URL;VALUE=URI:https://www.youtube.com/@Hok_KPL/streams
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

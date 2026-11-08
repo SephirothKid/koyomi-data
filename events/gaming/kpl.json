@@ -16022,7 +16022,7 @@
       "name_en": "Playoffs · WB vs TTG",
       "name_zh": "季后赛 · WB vs TTG",
       "date": "2026-11-08",
-      "time": "18:00",
+      "time": "18:11",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -16030,7 +16030,7 @@
       "description_en": "Weibo Gaming vs Talent Gaming — Playoffs (CST)",
       "description_zh": "Weibo Gaming vs Talent Gaming — Playoffs（北京时间）",
       "url": "https://www.youtube.com/watch?v=N7SUhprtmdc",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-08",
       "verified_by": "official",
       "teams": {
@@ -16048,6 +16048,12 @@
           "name_en": "Talent Gaming",
           "image_url": "https://cdn-api.pandascore.co/images/team/image/129041/190px_talent_gaming_logo.png"
         }
+      },
+      "result": {
+        "away_score": 4,
+        "home_score": 3,
+        "winner": "away",
+        "status": "completed"
       },
       "details": {
         "赛事": "King Pro League",
@@ -16072,6 +16078,67 @@
           },
           {
             "panda_match_id": "1766482",
+            "type": "winner"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kpl-2026-m1766484",
+      "name": "季后赛 · JDG vs WB",
+      "name_en": "Playoffs · JDG vs WB",
+      "name_zh": "季后赛 · JDG vs WB",
+      "date": "2026-11-14",
+      "time": "17:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "JD Gaming vs Weibo Gaming — Playoffs（北京时间）",
+      "description_en": "JD Gaming vs Weibo Gaming — Playoffs (CST)",
+      "description_zh": "JD Gaming vs Weibo Gaming — Playoffs（北京时间）",
+      "url": "https://www.youtube.com/@Hok_KPL/streams",
+      "status": "confirmed",
+      "last_verified": "2026-11-08",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "jd-gaming-kog",
+          "code": "JDG",
+          "name": "JD Gaming",
+          "name_en": "JD Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/135058/600px_jd_gaming_2021_allmode.png"
+        },
+        "home": {
+          "id": "weibo-gaming",
+          "code": "WB",
+          "name": "Weibo Gaming",
+          "name_en": "Weibo Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/129046/190px_weibo_gaming_logo.png"
+        }
+      },
+      "details": {
+        "赛事": "King Pro League",
+        "赛季": "Grand Finals 2026",
+        "阶段": "Playoffs",
+        "赛制": "BO7"
+      },
+      "bracket": {
+        "tournament_id": "22285",
+        "panda_match_id": "1766484",
+        "lane": "grand",
+        "round_key": "grand_final",
+        "round_order": 0,
+        "slot_index": 0,
+        "label": "总决赛",
+        "label_en": "Grand Final",
+        "label_zh": "总决赛",
+        "previous_matches": [
+          {
+            "panda_match_id": "1766481",
+            "type": "winner"
+          },
+          {
+            "panda_match_id": "1766483",
             "type": "winner"
           }
         ]
