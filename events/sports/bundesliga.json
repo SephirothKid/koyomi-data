@@ -16591,7 +16591,7 @@
       "description": "柏林联合 作客 弗莱堡（德甲 2026-27 赛季，北京时间）",
       "description_en": "1. FC Union Berlin at SC Freiburg (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-08",
       "verified_by": "auto",
       "teams": {
@@ -16611,8 +16611,15 @@
       "details": {
         "主场": "弗莱堡",
         "客场": "柏林联合",
+        "比分": "弗莱堡 2 - 0 柏林联合",
         "场馆": "Europa-Park Stadion",
         "城市": "Freiburg im Breisgau"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -16627,7 +16634,7 @@
       "description": "沙尔克04 作客 霍芬海姆（德甲 2026-27 赛季，北京时间）",
       "description_en": "Schalke 04 at TSG Hoffenheim (Bundesliga 2026-27, Beijing time)",
       "url": "https://www.bundesliga.com/en/bundesliga/matchday",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-08",
       "verified_by": "auto",
       "teams": {
@@ -16647,8 +16654,15 @@
       "details": {
         "主场": "霍芬海姆",
         "客场": "沙尔克04",
+        "比分": "霍芬海姆 2 - 1 沙尔克04",
         "场馆": "PreZero Arena",
         "城市": "Sinsheim"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {

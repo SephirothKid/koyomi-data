@@ -16842,7 +16842,7 @@
       "description": "尼斯 作客 昂热（法甲 2026-27 赛季，北京时间）",
       "description_en": "Nice at Angers (Ligue 1 2026-27, Beijing time)",
       "url": "https://www.ligue1.com/fixtures-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-08",
       "verified_by": "auto",
       "teams": {
@@ -16862,8 +16862,15 @@
       "details": {
         "主场": "昂热",
         "客场": "尼斯",
+        "比分": "昂热 0 - 2 尼斯",
         "场馆": "Stade Raymond Kopa",
         "城市": "Angers"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -16921,7 +16928,7 @@
       "description": "洛里昂 作客 勒阿弗尔（法甲 2026-27 赛季，北京时间）",
       "description_en": "Lorient at Le Havre AC (Ligue 1 2026-27, Beijing time)",
       "url": "https://www.ligue1.com/fixtures-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-08",
       "verified_by": "auto",
       "teams": {
@@ -16941,8 +16948,15 @@
       "details": {
         "主场": "勒阿弗尔",
         "客场": "洛里昂",
+        "比分": "勒阿弗尔 0 - 2 洛里昂",
         "场馆": "Stade Océane",
         "城市": "Le Havre"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -16957,7 +16971,7 @@
       "description": "摩纳哥 作客 勒芒（法甲 2026-27 赛季，北京时间）",
       "description_en": "AS Monaco at Le Mans (Ligue 1 2026-27, Beijing time)",
       "url": "https://www.ligue1.com/fixtures-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-08",
       "verified_by": "auto",
       "teams": {
@@ -16977,8 +16991,15 @@
       "details": {
         "主场": "勒芒",
         "客场": "摩纳哥",
+        "比分": "勒芒 1 - 1 摩纳哥",
         "场馆": "Stade Marie-Marvingt",
         "城市": "Le Mans"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -16993,7 +17014,7 @@
       "description": "马赛 作客 朗斯（法甲 2026-27 赛季，北京时间）",
       "description_en": "Marseille at Lens (Ligue 1 2026-27, Beijing time)",
       "url": "https://www.ligue1.com/fixtures-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-08",
       "verified_by": "auto",
       "teams": {
@@ -17013,8 +17034,15 @@
       "details": {
         "主场": "朗斯",
         "客场": "马赛",
+        "比分": "朗斯 1 - 2 马赛",
         "场馆": "Stade Bollaert-Delelis",
         "城市": "Lens"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {

@@ -21020,7 +21020,7 @@
       "description": "科莫 作客 国际米兰（意甲 2026-27 赛季，北京时间）",
       "description_en": "Como at Internazionale (Serie A 2026-27, Beijing time)",
       "url": "https://www.legaseriea.it/en/serie-a/fixture-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-08",
       "verified_by": "auto",
       "teams": {
@@ -21040,8 +21040,15 @@
       "details": {
         "主场": "国际米兰",
         "客场": "科莫",
+        "比分": "国际米兰 2 - 0 科莫",
         "场馆": "San Siro",
         "城市": "Milano"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -21056,7 +21063,7 @@
       "description": "尤文图斯 作客 佛罗伦萨（意甲 2026-27 赛季，北京时间）",
       "description_en": "Juventus at Fiorentina (Serie A 2026-27, Beijing time)",
       "url": "https://www.legaseriea.it/en/serie-a/fixture-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-08",
       "verified_by": "auto",
       "teams": {
@@ -21076,8 +21083,15 @@
       "details": {
         "主场": "佛罗伦萨",
         "客场": "尤文图斯",
+        "比分": "佛罗伦萨 2 - 2 尤文图斯",
         "场馆": "Stadio Artemio Franchi",
         "城市": "Firenze"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 2,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {

@@ -20633,7 +20633,7 @@
       "description": "阿斯顿维拉 作客 曼联（英超 2026-27 赛季，北京时间）",
       "description_en": "Aston Villa at Manchester United (Premier League 2026-27, Beijing time)",
       "url": "https://www.premierleague.com/fixtures",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-08",
       "verified_by": "auto",
       "teams": {
@@ -20653,8 +20653,15 @@
       "details": {
         "主场": "曼联",
         "客场": "阿斯顿维拉",
+        "比分": "曼联 4 - 4 阿斯顿维拉",
         "场馆": "Old Trafford",
         "城市": "Manchester"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 4,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {

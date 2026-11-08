@@ -21364,7 +21364,7 @@
       "description": "莱万特 作客 塞尔塔（西甲 2026-27 赛季，北京时间）",
       "description_en": "Levante at Celta Vigo (La Liga 2026-27, Beijing time)",
       "url": "https://www.laliga.com/laliga-ea-sports",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-08",
       "verified_by": "auto",
       "teams": {
@@ -21384,8 +21384,15 @@
       "details": {
         "主场": "塞尔塔",
         "客场": "莱万特",
+        "比分": "塞尔塔 0 - 0 莱万特",
         "场馆": "Balaidos",
         "城市": "Vigo"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 0,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -21400,7 +21407,7 @@
       "description": "赫塔费 作客 比利亚雷亚尔（西甲 2026-27 赛季，北京时间）",
       "description_en": "Getafe at Villarreal (La Liga 2026-27, Beijing time)",
       "url": "https://www.laliga.com/laliga-ea-sports",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-08",
       "verified_by": "auto",
       "teams": {
@@ -21420,8 +21427,15 @@
       "details": {
         "主场": "比利亚雷亚尔",
         "客场": "赫塔费",
+        "比分": "比利亚雷亚尔 2 - 0 赫塔费",
         "场馆": "Estadio de la Cerámica",
         "城市": "Villarreal"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -21436,7 +21450,7 @@
       "description": "巴塞罗那 作客 马竞（西甲 2026-27 赛季，北京时间）",
       "description_en": "Barcelona at Atlético Madrid (La Liga 2026-27, Beijing time)",
       "url": "https://www.laliga.com/laliga-ea-sports",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-08",
       "verified_by": "auto",
       "teams": {
@@ -21456,8 +21470,15 @@
       "details": {
         "主场": "马竞",
         "客场": "巴塞罗那",
+        "比分": "马竞 1 - 2 巴塞罗那",
         "场馆": "Riyadh Air Metropolitano",
         "城市": "Madrid"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
