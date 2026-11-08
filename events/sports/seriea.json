@@ -20934,7 +20934,7 @@
       "description": "AC米兰 作客 热那亚（意甲 2026-27 赛季，北京时间）",
       "description_en": "AC Milan at Genoa (Serie A 2026-27, Beijing time)",
       "url": "https://www.legaseriea.it/en/serie-a/fixture-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-08",
       "verified_by": "auto",
       "teams": {
@@ -20954,8 +20954,15 @@
       "details": {
         "主场": "热那亚",
         "客场": "AC米兰",
+        "比分": "热那亚 1 - 2 AC米兰",
         "场馆": "Stadio Luigi Ferraris",
         "城市": "Genova"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -20970,7 +20977,7 @@
       "description": "亚特兰大 作客 蒙扎（意甲 2026-27 赛季，北京时间）",
       "description_en": "Atalanta at Monza (Serie A 2026-27, Beijing time)",
       "url": "https://www.legaseriea.it/en/serie-a/fixture-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-08",
       "verified_by": "auto",
       "teams": {
@@ -20990,8 +20997,15 @@
       "details": {
         "主场": "蒙扎",
         "客场": "亚特兰大",
+        "比分": "蒙扎 0 - 1 亚特兰大",
         "场馆": "U-Power Stadium",
         "城市": "Monza"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
