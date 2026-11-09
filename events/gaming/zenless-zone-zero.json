@@ -536,7 +536,7 @@
       "description": "绝区零官方活动调频（第二期）",
       "url": "https://zzz.mihoyo.com/news/detail/165152",
       "status": "completed",
-      "last_verified": "2026-11-04",
+      "last_verified": "2026-11-09",
       "verified_by": "official",
       "details": {
         "official_time": "2026/07/08 12:00~ 2026/07/28 14:59",
@@ -642,7 +642,7 @@
       "description": "绝区零 官方版本维护更新。",
       "url": "https://zzz.mihoyo.com/news/detail/165415",
       "status": "completed",
-      "last_verified": "2026-11-04",
+      "last_verified": "2026-11-09",
       "verified_by": "official",
       "details": {
         "official_time": "2026/07/29 06:00 预计5个小时"
@@ -682,7 +682,7 @@
       "description": "绝区零官方活动调频（第二期）",
       "url": "https://zzz.mihoyo.com/news/detail/165758",
       "status": "completed",
-      "last_verified": "2026-11-04",
+      "last_verified": "2026-11-09",
       "verified_by": "official",
       "details": {
         "official_time": "2026/08/19 12:00 ~ 2026/09/08 14:59",
@@ -778,7 +778,7 @@
       "description": "绝区零 官方版本维护更新。",
       "url": "https://zzz.mihoyo.com/news/detail/166026",
       "status": "completed",
-      "last_verified": "2026-11-04",
+      "last_verified": "2026-11-09",
       "verified_by": "official",
       "details": {
         "official_time": "2026/09/09 06:00 预计5个小时"
@@ -818,7 +818,7 @@
       "description": "绝区零官方活动调频（第二期）",
       "url": "https://zzz.mihoyo.com/news/detail/166512",
       "status": "completed",
-      "last_verified": "2026-11-04",
+      "last_verified": "2026-11-09",
       "verified_by": "official",
       "details": {
         "official_time": "2026-09-30 12:00~2026-10-20 14:59",
@@ -924,7 +924,7 @@
       "description": "绝区零 官方版本维护更新。",
       "url": "https://zzz.mihoyo.com/news/detail/166989",
       "status": "completed",
-      "last_verified": "2026-11-04",
+      "last_verified": "2026-11-09",
       "verified_by": "official",
       "details": {
         "official_time": "2026/10/21 06:00 预计5个小时"
@@ -949,7 +949,90 @@
         "English original title": "Version 3.3 \"Journey to the Sky\" Update Announcement",
         "English name status": "official announcement; mainland timing preserved"
       }
+    },
+    {
+      "id": "zenless-zone-zero-2026-167288-banners",
+      "name": "绝区零 3.3 第二期调频：赛维里安 / 诺姆 / 禁罪囚笼 / 首席跟班",
+      "name_en": "Zenless Zone Zero · V3.3 Limited-Time Channels (Phase II)",
+      "date": "2026-11-11",
+      "end_date": "2026-12-01",
+      "time": "12:00",
+      "end_time": "14:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "绝区零官方活动调频（第二期）",
+      "description_en": "V3.3 Limited-Time Channels (Phase II)",
+      "url": "https://zzz.mihoyo.com/news/detail/167288",
+      "status": "confirmed",
+      "last_verified": "2026-11-09",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/11/11 12:00 ~ 2026/12/01 14:59",
+        "代理人「代理人频段」5★": "赛维里安 / 诺姆",
+        "音擎「音擎频段」5★": "禁罪囚笼 / 首席跟班",
+        "official_notice": "3.3版本限时频段（下期）"
+      },
+      "details_en": {
+        "official_time": "2026-11-11 12:00 – 2026-12-01 14:59",
+        "official_notice": "V3.3 Limited-Time Channels (Phase II)",
+        "English source": "https://zenless.hoyoverse.com/en-us/news/167269",
+        "English source ID": "167269",
+        "English original title": "V3.3 Limited-Time Channels (Phase II)",
+        "English name status": "official announcement; mainland timing preserved"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "banner",
+        "source_content_id": "167288",
+        "source_title": "3.3版本限时频段（下期）",
+        "source_url": "https://zzz.mihoyo.com/news/detail/167288",
+        "version": "3.3",
+        "phase": "phase2"
+      },
+      "banners": [
+        {
+          "name": "代理人频段",
+          "name_en": "Agent Channel",
+          "type": "agent",
+          "featured_5": [
+            {
+              "name": "赛维里安",
+              "type": "agent",
+              "rarity": 5
+            },
+            {
+              "name": "诺姆",
+              "type": "agent",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [],
+          "phase": "phase2"
+        },
+        {
+          "name": "音擎频段",
+          "name_en": "W-Engine Channel",
+          "type": "w_engine",
+          "featured_5": [
+            {
+              "name": "禁罪囚笼",
+              "type": "w_engine",
+              "rarity": 5
+            },
+            {
+              "name": "首席跟班",
+              "type": "w_engine",
+              "rarity": 5
+            }
+          ],
+          "featured_4": [],
+          "phase": "phase2"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-04"
+  "last_updated": "2026-11-09"
 }

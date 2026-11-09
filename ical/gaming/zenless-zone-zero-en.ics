@@ -11,7 +11,7 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:zenless-zone-zero-zenless-zone-zero-2026-166512-banners@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261109T000000
 DTSTART;TZID=Asia/Shanghai:20260930T120000
 DTEND;TZID=Asia/Shanghai:20261020T145900
 SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero · V3.2 Li
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 UID:zenless-zone-zero-zenless-zone-zero-2026-166989-maintenance@koyomi.cas
  t
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261109T000000
 DTSTART;TZID=Asia/Shanghai:20261021T060000
 DTEND;TZID=Asia/Shanghai:20261021T110000
 SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero · Version
@@ -49,6 +49,27 @@ DESCRIPTION:Version 3.3 "Journey to the Sky" Update Announcement\n\nVersio
   timing preserved
 CATEGORIES:Zenless Zone Zero Version Calendar
 URL;VALUE=URI:https://zzz.mihoyo.com/news/detail/166989
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:zenless-zone-zero-zenless-zone-zero-2026-167288-banners@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261109T000000
+DTSTART;TZID=Asia/Shanghai:20261111T120000
+DTEND;TZID=Asia/Shanghai:20261201T145900
+SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero · V3.3 Li
+ mited-Time Channels (Phase II)
+DESCRIPTION:V3.3 Limited-Time Channels (Phase II)\n\nVersion: 3.3\nPhase: 
+ phase2\nType: banner\nOfficial source: 3.3版本限时频段（下期）\n
+ \nBanners:\n1. 代理人频段（Banner）\n5-star rate-up: 赛维里安 /
+  诺姆\n2. 音擎频段（W-Engine）\n5-star rate-up: 禁罪囚笼 / 首
+ 席跟班\n\nofficial_time: 2026-11-11 12:00 – 2026-12-01 14:59\nofficia
+ l_notice: V3.3 Limited-Time Channels (Phase II)\nEnglish source: https://z
+ enless.hoyoverse.com/en-us/news/167269\nEnglish source ID: 167269\nEnglish
+  original title: V3.3 Limited-Time Channels (Phase II)\nEnglish name statu
+ s: official announcement\; mainland timing preserved
+CATEGORIES:Zenless Zone Zero Version Calendar
+URL;VALUE=URI:https://zzz.mihoyo.com/news/detail/167288
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
