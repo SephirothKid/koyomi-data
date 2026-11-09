@@ -8,4 +8,19 @@ X-WR-CALDESC:Honkai: Star Rail versions, warps, and events parsed from off
  icial announcements only.
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:honkai-star-rail-honkai-star-rail-2026-167296-maintenance@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261109T000000
+DTSTART;TZID=Asia/Shanghai:20261111T060000
+DTEND;TZID=Asia/Shanghai:20261111T070000
+SUMMARY:Honkai: Star Rail Version Calendar · Honkai: Star Rail v4.7 Maint
+ enance Update
+DESCRIPTION:Honkai: Star Rail Official Maintenance Update.\n\nVersion: 4.7
+ \nType: maintenance\nOfficial source: 4.7版本更新维护预告\n\noffic
+ ial_time: 2026-11-11 06:00
+CATEGORIES:Honkai: Star Rail Version Calendar
+URL;VALUE=URI:https://sr.mihoyo.com/news/detail/167296
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
