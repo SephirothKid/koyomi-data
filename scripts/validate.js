@@ -79,7 +79,9 @@ function validateTimeSemantics(data) {
     if ((kind === 'date_range' || kind === 'datetime_range') && !event.end_date) {
       issues.push(`${event.id} 是范围事件，但缺少 end_date`)
     }
-    if (event.end_time && !event.time) {
+    const relativeStart = kind === 'date_range' && event.end_date
+      && ['版本更新后', '官方未注明开始时刻'].includes(event.details?.start_time)
+    if (event.end_time && !event.time && !relativeStart) {
       issues.push(`${event.id} 设置了 end_time，但缺少 time`)
     }
     if (event.date && !isValidCalendarDate(datePart(event.date))) {

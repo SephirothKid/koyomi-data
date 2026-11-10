@@ -385,15 +385,23 @@ function rawgReleaseSummary(event, isEn = false) {
     : `${firstTitle} 等 ${games.length} 款发售`
 }
 
-function bannerItemLabel(item) {
-  const base = item.title ? `${item.title}·${item.name}` : item.name
-  const meta = [item.path, item.element, item.weapon_type].filter(Boolean).join('·')
+function englishCopy(value) {
+  return typeof value === 'string' && value.trim() && !/[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Hangul}]/u.test(value) ? value.trim() : undefined
+}
+
+function bannerItemLabel(item, isEn = false) {
+  const name = isEn ? englishCopy(item.name_en) ?? englishCopy(item.name) : item.name
+  if (!name) return ''
+  const title = isEn ? englishCopy(item.title) : item.title
+  const base = title ? `${title}·${name}` : name
+  const meta = [item.path, item.element, item.weapon_type].filter(value => value && (!isEn || englishCopy(value))).join('·')
   return meta ? `${base}（${meta}）` : base
 }
 
 function bannerTypeLabel(type, isEn = false) {
   const labels = {
     character: isEn ? 'Character' : '角色',
+    agent: isEn ? 'Agent' : '代理人',
     weapon: isEn ? 'Weapon' : '武器',
     w_engine: isEn ? 'W-Engine' : '音擎',
     light_cone: isEn ? 'Light Cone' : '光锥',
@@ -412,20 +420,26 @@ function bannerDescription(event, isEn = false) {
   return banners.map((banner, index) => {
     const primaryItems = banner.featured_5 ?? banner.featured_s ?? []
     const secondaryItems = banner.featured_4 ?? banner.featured_a ?? []
-    const primaryLabel = banner.featured_s
-      ? (isEn ? 'S-rank rate-up' : 'S级 UP')
-      : (isEn ? '5-star rate-up' : '5星 UP')
-    const secondaryLabel = banner.featured_a
-      ? (isEn ? 'A-rank rate-up' : 'A级 UP')
-      : (isEn ? '4-star rate-up' : '4星 UP')
-    const bannerName = banner.name ?? bannerTypeLabel(banner.type, isEn)
-    const lines = [`${index + 1}. ${bannerName}（${bannerTypeLabel(banner.type, isEn)}）`]
-    if (primaryItems.length) {
-      lines.push(`${primaryLabel}: ${primaryItems.map(bannerItemLabel).join(' / ')}`)
+    const bannerName = (isEn ? englishCopy(banner.name_en) ?? englishCopy(banner.name) : banner.name) ?? bannerTypeLabel(banner.type, isEn)
+    const type = event.game?.game_id === 'arknights' ? (isEn ? 'Operator' : '干员') : bannerTypeLabel(banner.type, isEn)
+    const lines = [`${index + 1}. ${bannerName}${isEn ? ' (' : '（'}${type}${isEn ? ')' : '）'}`]
+    const appendItems = (items, fallback) => {
+      const groups = new Map()
+      for (const item of items) {
+        const name = bannerItemLabel(item, isEn)
+        if (!name) continue
+        let rarity = item.rarity ?? fallback
+        if (event.game?.game_id === 'zenless-zone-zero') rarity = Number(rarity) === 5 || rarity === 'S' ? 'S' : 'A'
+        groups.set(rarity, [...(groups.get(rarity) ?? []), name])
+      }
+      for (const [rarity, names] of groups) {
+        const rank = /^[SAB]$/.test(String(rarity))
+        const label = isEn ? `${rarity}-${rank ? 'rank' : 'star'} rate-up` : `${rarity}${rank ? '级' : '星'} UP`
+        lines.push(`${label}: ${names.join(' / ')}`)
+      }
     }
-    if (secondaryItems.length) {
-      lines.push(`${secondaryLabel}: ${secondaryItems.map(bannerItemLabel).join(' / ')}`)
-    }
+    appendItems(primaryItems, banner.featured_s ? 'S' : 5)
+    appendItems(secondaryItems, banner.featured_a ? 'A' : 4)
     return lines.join('\n')
   }).join('\n')
 }
@@ -437,10 +451,11 @@ function gameMetaDescription(event, isEn = false) {
     ? { version: 'Version', phase: 'Phase', sourceKind: 'Type', source: 'Official source' }
     : { version: '版本', phase: '阶段', sourceKind: '类型', source: '官方来源' }
   const lines = []
-  if (event.game.version) lines.push(`${labels.version}: ${event.game.version}`)
+  if (event.game.version && (!isEn || englishCopy(event.game.version))) lines.push(`${labels.version}: ${event.game.version}`)
   if (event.game.phase) lines.push(`${labels.phase}: ${event.game.phase}`)
   if (event.game.source_kind) lines.push(`${labels.sourceKind}: ${event.game.source_kind}`)
-  if (event.game.source_title) lines.push(`${labels.source}: ${event.game.source_title}`)
+  const sourceTitle = isEn ? englishCopy(event.details_en?.official_notice) ?? englishCopy(event.game.source_title) : event.game.source_title
+  if (sourceTitle) lines.push(`${labels.source}: ${sourceTitle}`)
   return lines.join('\n')
 }
 
@@ -469,9 +484,14 @@ function createCalendar(source, events, options = {}) {
 
   for (const event of events) {
     const tz = eventTimezone(event)
-    const hasTime = isTimedEvent(event)
     const endDateStr = event.end_date ?? event.endDate ?? event.date
     const endTimeStr = event.end_time ?? event.endTime ?? event.time
+    // Retain the date-only period and add a precise deadline when the update
+    // start has no known hour. Never substitute estimated maintenance completion.
+    const deadlineOnly = !event.time && Boolean(event.end_time ?? event.endTime)
+      && ['版本更新后', '官方未注明开始时刻'].includes(event.details?.start_time)
+      && ['banner', 'activity'].includes(event.game?.source_kind)
+    const hasTime = isTimedEvent(event)
 
     const start = wallClockDateTime(event.date, event.time)
     let end
@@ -543,11 +563,14 @@ function createCalendar(source, events, options = {}) {
     if (event.details) {
       const detailsForLocale = isEn ? (event.details_en ?? event.details) : event.details
       descParts.push(
-        Object.entries(detailsForLocale).map(([k, v]) => `${k}: ${v}`).join('\n')
+        Object.entries(detailsForLocale).filter(([key, value]) => !isEn || (englishCopy(key) && englishCopy(String(value)))).map(([k, v]) => `${k}: ${v}`).join('\n')
       )
     }
 
-    cal.createEvent({
+    const sourceLink = event.game?.source_url ?? event.url ?? source.source_url
+    if (sourceLink) descParts.push(`${isEn ? 'Source' : '来源'}: ${new URL(sourceLink).href}`)
+
+    const calendarEvent = {
       id: `${options.productId ?? source.id}-${options.eventIdForUid?.(event) ?? event.id}@koyomi.cast`,
       start,
       end,
@@ -559,7 +582,20 @@ function createCalendar(source, events, options = {}) {
       url: event.url ?? source.source_url ?? `https://koyomi.cast/sources/${source.id}`,
       status: event.status === 'cancelled' ? 'CANCELLED' : 'CONFIRMED',
       categories: [{ name: options.calendarName ?? sourceName(source, isEn) }],
-    })
+    }
+    cal.createEvent(calendarEvent)
+    if (deadlineOnly) {
+      const deadline = wallClockDateTime(endDateStr, endTimeStr)
+      cal.createEvent({
+        ...calendarEvent,
+        id: calendarEvent.id.replace('@koyomi.cast', '-deadline@koyomi.cast'),
+        start: deadline,
+        end: deadline.addMinutes(1),
+        allDay: false,
+        timezone: tz !== 'UTC' ? tz : null,
+        summary: `${summary}${isEn ? ' — Ends' : ' 截止'}`,
+      })
+    }
   }
 
   return cal

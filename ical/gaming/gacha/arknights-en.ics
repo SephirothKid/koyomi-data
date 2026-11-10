@@ -2,10 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Koyomi Cast//arknights//EN
 URL:https://koyomi.cast/sources/arknights
-NAME:Arknights Version Calendar
-X-WR-CALNAME:Arknights Version Calendar
-X-WR-CALDESC:Arknights headhunting banners, version updates, and event dea
- dlines. Data sourced from PRTS Wiki community.
+NAME:Arknights Headhunting Calendar
+X-WR-CALNAME:Arknights Headhunting Calendar
+X-WR-CALDESC:Arknights headhunting periods. Data sourced from the PRTS Wik
+ i community.
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
@@ -14,11 +14,12 @@ SEQUENCE:0
 DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20260929T160000
 DTEND;TZID=Asia/Shanghai:20261013T035900
-SUMMARY:Arknights Version Calendar · Arknights Directional Selection 08 H
- eadhunting
-DESCRIPTION:Arknights Directional Selection 08 Headhunting.\n\nVersion: 
- 定向甄选08\nType: banner\n\nBanners:\n1. 定向甄选08（Character）
-CATEGORIES:Arknights Version Calendar
+SUMMARY:Arknights Headhunting Calendar · Arknights Directional Selection 
+ 08 Headhunting
+DESCRIPTION:Arknights Directional Selection 08 Headhunting.\n\nType: banne
+ r\n\nBanners:\n1. Directional Selection 08 (Operator)\n\nSource: https://p
+ rts.wiki/w/%E5%AE%9A%E5%90%91%E7%94%84%E9%80%8908
+CATEGORIES:Arknights Headhunting Calendar
 URL;VALUE=URI:https://prts.wiki/w/%E5%AE%9A%E5%90%91%E7%94%84%E9%80%8908
 STATUS:CONFIRMED
 END:VEVENT
@@ -28,12 +29,13 @@ SEQUENCE:0
 DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261009T120000
 DTEND;TZID=Asia/Shanghai:20261023T035900
-SUMMARY:Arknights Version Calendar · Arknights Voyage Through the Abyss H
- eadhunting
-DESCRIPTION:Arknights Voyage Through the Abyss Headhunting.\n\nVersion: 
- 海渊巡游\nType: banner\n\nBanners:\n1. 海渊巡游（Character）\n5-
- star rate-up: 克莱门莎\n4-star rate-up: 火哨 / 德·托莱多
-CATEGORIES:Arknights Version Calendar
+SUMMARY:Arknights Headhunting Calendar · Arknights Voyage Through the Aby
+ ss Headhunting
+DESCRIPTION:Arknights Voyage Through the Abyss Headhunting.\n\nType: banne
+ r\n\nBanners:\n1. Voyage Through the Abyss (Operator)\n5-star rate-up: Fir
+ ewhistle\n\nSource: https://prts.wiki/w/%E6%B5%B7%E6%B8%8A%E5%B7%A1%E6%B8%
+ B8
+CATEGORIES:Arknights Headhunting Calendar
 URL;VALUE=URI:https://prts.wiki/w/%E6%B5%B7%E6%B8%8A%E5%B7%A1%E6%B8%B8
 STATUS:CONFIRMED
 END:VEVENT
@@ -44,13 +46,14 @@ SEQUENCE:0
 DTSTAMP:20261104T000000
 DTSTART;TZID=Asia/Shanghai:20261101T120000
 DTEND;TZID=Asia/Shanghai:20261115T035900
-SUMMARY:Arknights Version Calendar · Arknights Limited Headhunting: Celeb
- ration — Cast Snow into Fire
+SUMMARY:Arknights Headhunting Calendar · Arknights Limited Headhunting: C
+ elebration — Cast Snow into Fire
 DESCRIPTION:Arknights Limited Headhunting: Celebration — Cast Snow into 
- Fire.\n\nVersion: 【限定寻访·庆典】将雪投火\nType: banner\n\n
- Banners:\n1. 【限定寻访·庆典】将雪投火（Collaboration）\n5-
- star rate-up: 塔露拉 / 冻河\n4-star rate-up: 奥尔佳
-CATEGORIES:Arknights Version Calendar
+ Fire.\n\nType: banner\n\nBanners:\n1. Limited Headhunting: Celebration —
+  Cast Snow into Fire (Operator)\n\nSource: https://prts.wiki/w/%E3%80%90%E
+ 9%99%90%E5%AE%9A%E5%AF%BB%E8%AE%BF%C2%B7%E5%BA%86%E5%85%B8%E3%80%91%E5%B0%
+ 86%E9%9B%AA%E6%8A%95%E7%81%AB
+CATEGORIES:Arknights Headhunting Calendar
 URL;VALUE=URI:https://prts.wiki/w/%E3%80%90%E9%99%90%E5%AE%9A%E5%AF%BB%E8%
  AE%BF%C2%B7%E5%BA%86%E5%85%B8%E3%80%91%E5%B0%86%E9%9B%AA%E6%8A%95%E7%81%AB
 STATUS:CONFIRMED
