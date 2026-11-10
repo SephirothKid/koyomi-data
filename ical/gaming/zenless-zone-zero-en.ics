@@ -4,8 +4,8 @@ PRODID:-//Koyomi Cast//zenless-zone-zero//EN
 URL:https://koyomi.cast/sources/zenless-zone-zero
 NAME:Zenless Zone Zero Version Calendar
 X-WR-CALNAME:Zenless Zone Zero Version Calendar
-X-WR-CALDESC:Zenless Zone Zero versions, signal searches, and events parse
- d from official announcements.
+X-WR-CALDESC:Zenless Zone Zero versions and signal-search windows parsed f
+ rom official announcements only.
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
@@ -236,6 +236,27 @@ URL;VALUE=URI:https://zzz.mihoyo.com/news/166512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:zenless-zone-zero-zenless-zone-zero-2026-166512-banners@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261110T000000
+DTSTART;TZID=Asia/Shanghai:20260930T120000
+DTEND;TZID=Asia/Shanghai:20261020T145900
+SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero · V3.2 Li
+ mited-Time Channels (Phase II)
+DESCRIPTION:V3.2 Limited-Time Channels (Phase II)\n\nVersion: 3.2\nPhase: 
+ phase2\nType: banner\nOfficial source: V3.2 Limited-Time Channels (Phase I
+ I)\n\nBanners:\n1. Agent Channel (Agent)\n2. W-Engine Channel (W-Engine)\n
+ \nofficial_time: 2026-09-30 12:00 – 2026-10-20 14:59\nofficial_notice: V
+ 3.2 Limited-Time Channels (Phase II)\nEnglish source: https://zenless.hoyo
+ verse.com/en-us/news/166475\nEnglish source ID: 166475\nEnglish original t
+ itle: V3.2 Limited-Time Channels (Phase II)\nEnglish name status: official
+  announcement\; mainland timing preserved\n\nSource: https://zzz.mihoyo.co
+ m/news/detail/166512
+CATEGORIES:Zenless Zone Zero Version Calendar
+URL;VALUE=URI:https://zzz.mihoyo.com/news/detail/166512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:zenless-zone-zero-zenless-zone-zero-2026-166570-activity-34a7abf23b9e@
  koyomi.cast
 SEQUENCE:0
@@ -271,6 +292,27 @@ DESCRIPTION:绝区零 数据悬赏-实战模拟\n\nVersion: 3.2\nType: act
  s\n\nSource: https://zzz.mihoyo.com/news/166677
 CATEGORIES:Zenless Zone Zero Version Calendar
 URL;VALUE=URI:https://zzz.mihoyo.com/news/166677
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:zenless-zone-zero-zenless-zone-zero-2026-166989-maintenance@koyomi.cas
+ t
+SEQUENCE:0
+DTSTAMP:20261110T000000
+DTSTART;TZID=Asia/Shanghai:20261021T060000
+DTEND;TZID=Asia/Shanghai:20261021T110000
+SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero · Version
+  3.3 "Journey to the Sky" Update Announcement
+DESCRIPTION:Version 3.3 "Journey to the Sky" Update Announcement\n\nVersio
+ n: 3.3\nType: maintenance\nOfficial source: Version 3.3 "Journey to the Sk
+ y" Update Announcement\n\nofficial_time: 2026-10-21 06:00 – 2026-10-21 1
+ 1:00\nofficial_notice: Version 3.3 "Journey to the Sky" Update Announcemen
+ t\nEnglish source: https://zenless.hoyoverse.com/en-us/news/166963\nEnglis
+ h source ID: 166963\nEnglish original title: Version 3.3 "Journey to the S
+ ky" Update Announcement\nEnglish name status: official announcement\; main
+ land timing preserved\n\nSource: https://zzz.mihoyo.com/news/detail/166989
+CATEGORIES:Zenless Zone Zero Version Calendar
+URL;VALUE=URI:https://zzz.mihoyo.com/news/detail/166989
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -413,22 +455,6 @@ DESCRIPTION:绝区零 3.3 版本周期\n\nVersion: 3.3\nType: version\n\no
  fficial_time: 2026-10-21 – 2026-12-02 06:00\nstart_time: After the versi
  on update\nend_time: 2026-12-02 06:00\n\nSource: https://zzz.mihoyo.com/ne
  ws/166989
-CATEGORIES:Zenless Zone Zero Version Calendar
-URL;VALUE=URI:https://zzz.mihoyo.com/news/166989
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:zenless-zone-zero-zenless-zone-zero-2026-166989-maintenance@koyomi.cas
- t
-SEQUENCE:0
-DTSTAMP:20261110T000000
-DTSTART;TZID=Asia/Shanghai:20261021T060000
-DTEND;TZID=Asia/Shanghai:20261021T110000
-SUMMARY:Zenless Zone Zero Version Calendar · Zenless Zone Zero v3.3 Maint
- enance Update
-DESCRIPTION:绝区零 3.3 维护更新\n\nVersion: 3.3\nType: maintenance\
- n\nofficial_time: 2026-10-21 06:00 – 2026-10-21 11:00\n\nSource: https:/
- /zzz.mihoyo.com/news/166989
 CATEGORIES:Zenless Zone Zero Version Calendar
 URL;VALUE=URI:https://zzz.mihoyo.com/news/166989
 STATUS:CONFIRMED

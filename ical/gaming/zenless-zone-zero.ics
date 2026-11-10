@@ -4,8 +4,8 @@ PRODID:-//Koyomi Cast//zenless-zone-zero//EN
 URL:https://koyomi.cast/sources/zenless-zone-zero
 NAME:绝区零版本日历
 X-WR-CALNAME:绝区零版本日历
-X-WR-CALDESC:绝区零版本、调频和活动日程，仅收录官方公
- 告中可解析的日期。
+X-WR-CALDESC:绝区零版本和调频节点，仅收录官方公告中可
+ 解析的日期。
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
@@ -301,6 +301,29 @@ URL;VALUE=URI:https://zzz.mihoyo.com/news/166512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:zenless-zone-zero-zenless-zone-zero-2026-166512-banners@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261110T000000
+DTSTART;TZID=Asia/Shanghai:20260930T120000
+DTEND;TZID=Asia/Shanghai:20261020T145900
+SUMMARY:绝区零版本日历 · 绝区零 3.2 第二期调频：洛克茜
+  / 普罗米娅 / 绯月银棺 / 朔月裁霜
+DESCRIPTION:绝区零官方活动调频（第二期）\n\n版本: 3.2\n阶
+ 段: phase2\n类型: banner\n官方来源: 3.2版本限时频段（下期
+ ）\n\n卡池信息：\n1. 代理人频段（代理人）\nS级 UP: 洛克
+ 茜 / 普罗米娅\nA级 UP: 可琳 / 比利\n2. 音擎频段（音擎）\
+ nS级 UP: 绯月银棺 / 朔月裁霜\nA级 UP: 家政员 / 仿制星徽
+ 引擎\n\nofficial_time: 2026-09-30 12:00~2026-10-20 14:59\n代理人「
+ 代理人频段」5★: 洛克茜 / 普罗米娅\n代理人「代理人频
+ 段」4★: 可琳 / 比利\n音擎「音擎频段」5★: 绯月银棺 / 
+ 朔月裁霜\n音擎「音擎频段」4★: 家政员 / 仿制星徽引擎
+ \nofficial_notice: 3.2版本限时频段（下期）\n\n来源: https://zz
+ z.mihoyo.com/news/detail/166512
+CATEGORIES:绝区零版本日历
+URL;VALUE=URI:https://zzz.mihoyo.com/news/detail/166512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:zenless-zone-zero-zenless-zone-zero-2026-166570-activity-34a7abf23b9e@
  koyomi.cast
 SEQUENCE:0
@@ -346,6 +369,22 @@ DESCRIPTION:绝区零 数据悬赏-实战模拟\n\n版本: 3.2\n类型: ac
  /news/166677
 CATEGORIES:绝区零版本日历
 URL;VALUE=URI:https://zzz.mihoyo.com/news/166677
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:zenless-zone-zero-zenless-zone-zero-2026-166989-maintenance@koyomi.cas
+ t
+SEQUENCE:0
+DTSTAMP:20261110T000000
+DTSTART;TZID=Asia/Shanghai:20261021T060000
+DTEND;TZID=Asia/Shanghai:20261021T110000
+SUMMARY:绝区零版本日历 · 绝区零 3.3 版本维护更新
+DESCRIPTION:绝区零 官方版本维护更新。\n\n版本: 3.3\n类型: 
+ maintenance\n官方来源: 3.3版本「重返天空的旅程」更新公
+ 告\n\nofficial_time: 2026/10/21 06:00 预计5个小时\n\n来源: https:/
+ /zzz.mihoyo.com/news/detail/166989
+CATEGORIES:绝区零版本日历
+URL;VALUE=URI:https://zzz.mihoyo.com/news/detail/166989
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -514,22 +553,6 @@ DESCRIPTION:绝区零 3.3 版本周期\n\n版本: 3.3\n类型: version\n
  _time: 2026-10-21 版本更新后 ~ 2026/12/02 06:00\nstart_time: 版本
  更新后\nend_time: 2026-12-02 06:00\n\n来源: https://zzz.mihoyo.com/ne
  ws/166989
-CATEGORIES:绝区零版本日历
-URL;VALUE=URI:https://zzz.mihoyo.com/news/166989
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:zenless-zone-zero-zenless-zone-zero-2026-166989-maintenance@koyomi.cas
- t
-SEQUENCE:0
-DTSTAMP:20261110T000000
-DTSTART;TZID=Asia/Shanghai:20261021T060000
-DTEND;TZID=Asia/Shanghai:20261021T110000
-SUMMARY:绝区零版本日历 · 绝区零 3.3 维护更新
-DESCRIPTION:绝区零 3.3 维护更新\n\n版本: 3.3\n类型: maintenance
- \n官方来源: 3.3版本「重返天空的旅程」更新公告\n\noffici
- al_time: 2026/10/21 06:00 预计5个小时\n\n来源: https://zzz.mihoyo.c
- om/news/166989
 CATEGORIES:绝区零版本日历
 URL;VALUE=URI:https://zzz.mihoyo.com/news/166989
 STATUS:CONFIRMED

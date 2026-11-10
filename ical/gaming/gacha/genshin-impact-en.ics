@@ -134,6 +134,27 @@ URL;VALUE=URI:https://ys.mihoyo.com/main/news/detail/167159
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:genshin-impact-genshin-impact-2026-167205-maintenance@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261110T000000
+DTSTART;TZID=Asia/Shanghai:20261104T060000
+DTEND;TZID=Asia/Shanghai:20261104T110000
+SUMMARY:Genshin Impact Version Calendar · Genshin Impact · "Hour of Ruin
+ " Version 7.2 Update Details
+DESCRIPTION:Below are the details of the Version 7.2 update "Hour of Ruin"
+  and the update compensation.\n\nVersion: 7.2\nType: maintenance\nOfficial
+  source: "Hour of Ruin" Version 7.2 Update Details\n\nofficial_time: 2026-
+ 11-04 06:00 – 2026-11-04 11:00\nofficial_notice: "Hour of Ruin" Version 
+ 7.2 Update Details\nEnglish source: https://genshin.hoyoverse.com/en/news/
+ detail/167187\nEnglish source ID: 167187\nEnglish original title: "Hour of
+  Ruin" Version 7.2 Update Details\nEnglish name status: official announcem
+ ent\; mainland timing preserved\n\nSource: https://ys.mihoyo.com/main/news
+ /detail/167205
+CATEGORIES:Genshin Impact Version Calendar
+URL;VALUE=URI:https://ys.mihoyo.com/main/news/detail/167205
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:genshin-impact-genshin-impact-2026-167191-banner-1f50da55ecdc@koyomi.c
  ast
 SEQUENCE:0
@@ -261,21 +282,6 @@ DESCRIPTION:原神 武器活动祈愿：秘星典谕 / 静水流涌之辉\
  s://ys.mihoyo.com/main/news/detail/167191
 CATEGORIES:Genshin Impact Version Calendar
 URL;VALUE=URI:https://ys.mihoyo.com/main/news/detail/167191
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:genshin-impact-genshin-impact-2026-167205-maintenance@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261106T000000
-DTSTART;TZID=Asia/Shanghai:20261104T060000
-DTEND;TZID=Asia/Shanghai:20261104T110000
-SUMMARY:Genshin Impact Version Calendar · Genshin Impact v7.2 Maintenance
-  Update
-DESCRIPTION:原神 7.2 维护更新\n\nVersion: 7.2\nType: maintenance\n\n
- official_time: 2026-11-04 06:00 – 2026-11-04 11:00\n\nSource: https://ys
- .mihoyo.com/main/news/detail/167205
-CATEGORIES:Genshin Impact Version Calendar
-URL;VALUE=URI:https://ys.mihoyo.com/main/news/detail/167205
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

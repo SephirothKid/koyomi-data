@@ -634,6 +634,21 @@ URL;VALUE=URI:https://sr.mihoyo.com/news/166489
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:honkai-star-rail-honkai-star-rail-2026-167296-maintenance@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261110T000000
+DTSTART;TZID=Asia/Shanghai:20261111T060000
+DTEND;TZID=Asia/Shanghai:20261111T070000
+SUMMARY:Honkai: Star Rail Version Calendar · Honkai: Star Rail v4.7 Maint
+ enance Update
+DESCRIPTION:Honkai: Star Rail Official Maintenance Update.\n\nVersion: 4.7
+ \nType: maintenance\n\nofficial_time: 2026-11-11 06:00\n\nSource: https://
+ sr.mihoyo.com/news/detail/167296
+CATEGORIES:Honkai: Star Rail Version Calendar
+URL;VALUE=URI:https://sr.mihoyo.com/news/detail/167296
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:honkai-star-rail-honkai-star-rail-2026-167101-activity-530a9c928609@ko
  yomi.cast
 SEQUENCE:0
@@ -709,21 +724,6 @@ DESCRIPTION:Official limited-time event. See the source announcement for p
   mainland timing preserved\n\nSource: https://sr.mihoyo.com/news/167107
 CATEGORIES:Honkai: Star Rail Version Calendar
 URL;VALUE=URI:https://sr.mihoyo.com/news/167107
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:honkai-star-rail-honkai-star-rail-2026-167296-maintenance@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261109T000000
-DTSTART;TZID=Asia/Shanghai:20261111T060000
-DTEND;TZID=Asia/Shanghai:20261111T070000
-SUMMARY:Honkai: Star Rail Version Calendar · Honkai: Star Rail v4.7 Maint
- enance Update
-DESCRIPTION:Honkai: Star Rail Official Maintenance Update.\n\nVersion: 4.7
- \nType: maintenance\n\nofficial_time: 2026-11-11 06:00\n\nSource: https://
- sr.mihoyo.com/news/detail/167296
-CATEGORIES:Honkai: Star Rail Version Calendar
-URL;VALUE=URI:https://sr.mihoyo.com/news/detail/167296
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
