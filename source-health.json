@@ -106,7 +106,8 @@
     "csl": {
       "category": "sports",
       "checked_at": "2026-11-10",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://api.cfl-china.cn/frontweb/api/tournaments?competition_code=CSL (fetch failed)"
     },
     "epl": {
       "category": "sports",
@@ -116,7 +117,7 @@
     "f1": {
       "category": "sports",
       "checked_at": "2026-11-10",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "laliga": {
       "category": "sports",
@@ -131,7 +132,7 @@
     "nba": {
       "category": "sports",
       "checked_at": "2026-11-10",
-      "outcome": "unchanged"
+      "outcome": "updated"
     },
     "seriea": {
       "category": "sports",
