@@ -9,36 +9,6 @@ X-WR-CALDESC:中国台湾公众假期，按逐日公告数据自动同步
 TIMEZONE-ID:Asia/Taipei
 X-WR-TIMEZONE:Asia/Taipei
 BEGIN:VEVENT
-UID:tw-public-holidays-tw-holiday-2026-make-up-holiday-10-09@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261105T000000
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:中国台湾公众假期 · 補假
-DESCRIPTION:補假，日期来自逐日假期公告数据。\n\ndata_sourc
- e: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar
-CATEGORIES:中国台湾公众假期
-URL;VALUE=URI:https://www.moi.gov.tw/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:tw-public-holidays-tw-holiday-2026-national-day-10-10@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261105T000000
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:中国台湾公众假期 · 國慶日
-DESCRIPTION:國慶日，日期来自逐日假期公告数据。\n\ndata_so
- urce: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar
-CATEGORIES:中国台湾公众假期
-URL;VALUE=URI:https://www.moi.gov.tw/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:tw-public-holidays-tw-holiday-2026-retrocession-day-10-25@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261105T000000
@@ -50,7 +20,7 @@ SUMMARY:中国台湾公众假期 · 臺灣光復暨金門古寧頭大捷
  紀念日
 DESCRIPTION:臺灣光復暨金門古寧頭大捷紀念日，日期来自
  逐日假期公告数据。\n\ndata_source: TaiwanCalendar\nsource_url: ht
- tps://github.com/ruyut/TaiwanCalendar
+ tps://github.com/ruyut/TaiwanCalendar\n\n来源: https://www.moi.gov.tw/
 CATEGORIES:中国台湾公众假期
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -65,7 +35,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:中国台湾公众假期 · 補假
 DESCRIPTION:補假，日期来自逐日假期公告数据。\n\ndata_sourc
- e: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar
+ e: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar\n\n
+ 来源: https://www.moi.gov.tw/
 CATEGORIES:中国台湾公众假期
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -81,7 +52,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:中国台湾公众假期 · 行憲紀念日
 DESCRIPTION:行憲紀念日，日期来自逐日假期公告数据。\n\nd
  ata_source: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCal
- endar
+ endar\n\n来源: https://www.moi.gov.tw/
 CATEGORIES:中国台湾公众假期
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -97,7 +68,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:中国台湾公众假期 · 開國紀念日
 DESCRIPTION:開國紀念日，日期来自逐日假期公告数据。\n\nd
  ata_source: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCal
- endar
+ endar\n\n来源: https://www.moi.gov.tw/
 CATEGORIES:中国台湾公众假期
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -113,7 +84,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:中国台湾公众假期 · 小年夜
 DESCRIPTION:小年夜，日期来自逐日假期公告数据。\n\ndata_so
- urce: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar
+ urce: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar\
+ n\n来源: https://www.moi.gov.tw/
 CATEGORIES:中国台湾公众假期
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -130,7 +102,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:中国台湾公众假期 · 農曆除夕
 DESCRIPTION:農曆除夕，日期来自逐日假期公告数据。\n\ndata
  _source: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalend
- ar
+ ar\n\n来源: https://www.moi.gov.tw/
 CATEGORIES:中国台湾公众假期
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -145,7 +117,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:中国台湾公众假期 · 春節
 DESCRIPTION:春節，日期来自逐日假期公告数据。\n\ndata_sourc
- e: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar
+ e: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar\n\n
+ 来源: https://www.moi.gov.tw/
 CATEGORIES:中国台湾公众假期
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -160,7 +133,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:中国台湾公众假期 · 補假
 DESCRIPTION:補假，日期来自逐日假期公告数据。\n\ndata_sourc
- e: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar
+ e: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar\n\n
+ 来源: https://www.moi.gov.tw/
 CATEGORIES:中国台湾公众假期
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -177,7 +151,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:中国台湾公众假期 · 和平紀念日
 DESCRIPTION:和平紀念日，日期来自逐日假期公告数据。\n\nd
  ata_source: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCal
- endar
+ endar\n\n来源: https://www.moi.gov.tw/
 CATEGORIES:中国台湾公众假期
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -192,7 +166,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:中国台湾公众假期 · 補假
 DESCRIPTION:補假，日期来自逐日假期公告数据。\n\ndata_sourc
- e: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar
+ e: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar\n\n
+ 来源: https://www.moi.gov.tw/
 CATEGORIES:中国台湾公众假期
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -207,7 +182,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:中国台湾公众假期 · 兒童節
 DESCRIPTION:兒童節，日期来自逐日假期公告数据。\n\ndata_so
- urce: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar
+ urce: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar\
+ n\n来源: https://www.moi.gov.tw/
 CATEGORIES:中国台湾公众假期
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -222,7 +198,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:中国台湾公众假期 · 清明節
 DESCRIPTION:清明節，日期来自逐日假期公告数据。\n\ndata_so
- urce: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar
+ urce: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar\
+ n\n来源: https://www.moi.gov.tw/
 CATEGORIES:中国台湾公众假期
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -237,7 +214,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:中国台湾公众假期 · 補假
 DESCRIPTION:補假，日期来自逐日假期公告数据。\n\ndata_sourc
- e: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar
+ e: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar\n\n
+ 来源: https://www.moi.gov.tw/
 CATEGORIES:中国台湾公众假期
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -252,7 +230,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:中国台湾公众假期 · 補假
 DESCRIPTION:補假，日期来自逐日假期公告数据。\n\ndata_sourc
- e: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar
+ e: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar\n\n
+ 来源: https://www.moi.gov.tw/
 CATEGORIES:中国台湾公众假期
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -267,7 +246,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:中国台湾公众假期 · 勞動節
 DESCRIPTION:勞動節，日期来自逐日假期公告数据。\n\ndata_so
- urce: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar
+ urce: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar\
+ n\n来源: https://www.moi.gov.tw/
 CATEGORIES:中国台湾公众假期
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -282,7 +262,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:中国台湾公众假期 · 端午節
 DESCRIPTION:端午節，日期来自逐日假期公告数据。\n\ndata_so
- urce: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar
+ urce: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar\
+ n\n来源: https://www.moi.gov.tw/
 CATEGORIES:中国台湾公众假期
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -297,7 +278,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:中国台湾公众假期 · 中秋節
 DESCRIPTION:中秋節，日期来自逐日假期公告数据。\n\ndata_so
- urce: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar
+ urce: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar\
+ n\n来源: https://www.moi.gov.tw/
 CATEGORIES:中国台湾公众假期
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -313,7 +295,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:中国台湾公众假期 · 孔子誕辰紀念日/教師節
 DESCRIPTION:孔子誕辰紀念日/教師節，日期来自逐日假期公
  告数据。\n\ndata_source: TaiwanCalendar\nsource_url: https://github.co
- m/ruyut/TaiwanCalendar
+ m/ruyut/TaiwanCalendar\n\n来源: https://www.moi.gov.tw/
 CATEGORIES:中国台湾公众假期
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -328,7 +310,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:中国台湾公众假期 · 國慶日
 DESCRIPTION:國慶日，日期来自逐日假期公告数据。\n\ndata_so
- urce: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar
+ urce: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar\
+ n\n来源: https://www.moi.gov.tw/
 CATEGORIES:中国台湾公众假期
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -343,7 +326,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:中国台湾公众假期 · 補假
 DESCRIPTION:補假，日期来自逐日假期公告数据。\n\ndata_sourc
- e: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar
+ e: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar\n\n
+ 来源: https://www.moi.gov.tw/
 CATEGORIES:中国台湾公众假期
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -360,7 +344,7 @@ SUMMARY:中国台湾公众假期 · 臺灣光復暨金門古寧頭大捷
  紀念日
 DESCRIPTION:臺灣光復暨金門古寧頭大捷紀念日，日期来自
  逐日假期公告数据。\n\ndata_source: TaiwanCalendar\nsource_url: ht
- tps://github.com/ruyut/TaiwanCalendar
+ tps://github.com/ruyut/TaiwanCalendar\n\n来源: https://www.moi.gov.tw/
 CATEGORIES:中国台湾公众假期
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -375,7 +359,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:中国台湾公众假期 · 補假
 DESCRIPTION:補假，日期来自逐日假期公告数据。\n\ndata_sourc
- e: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar
+ e: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar\n\n
+ 来源: https://www.moi.gov.tw/
 CATEGORIES:中国台湾公众假期
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -391,7 +376,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:中国台湾公众假期 · 行憲紀念日
 DESCRIPTION:行憲紀念日，日期来自逐日假期公告数据。\n\nd
  ata_source: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCal
- endar
+ endar\n\n来源: https://www.moi.gov.tw/
 CATEGORIES:中国台湾公众假期
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -406,7 +391,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:中国台湾公众假期 · 補假
 DESCRIPTION:補假，日期来自逐日假期公告数据。\n\ndata_sourc
- e: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar
+ e: TaiwanCalendar\nsource_url: https://github.com/ruyut/TaiwanCalendar\n\n
+ 来源: https://www.moi.gov.tw/
 CATEGORIES:中国台湾公众假期
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED

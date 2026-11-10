@@ -8,36 +8,6 @@ X-WR-CALDESC:Beijing Ducks schedule in CBA League Schedule, auto-synced.
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-UID:cba-29115-cba-2027-100110427@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261103T000000
-DTSTART;TZID=Asia/Shanghai:20261009T193000
-DTEND;TZID=Asia/Shanghai:20261009T203000
-SUMMARY:Beijing Ducks Schedule · Beijing Ducks vs Ningbo Rockets
-DESCRIPTION:Ningbo Rockets at Beijing Ducks (CBA 2026-27 season\, Beijing 
- time)\n\nScore: 北京首钢 95 - 82 宁波町渥\n\n阶段: 季前赛\n
- 场序: 0\n主场: 北京首钢\n客场: 宁波町渥\n比分: 北京首
- 钢 95 - 82 宁波町渥
-CATEGORIES:Beijing Ducks Schedule
-URL;VALUE=URI:https://www.cbaleague.com/data/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:cba-29115-cba-2027-100110430@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261103T000000
-DTSTART;TZID=Asia/Shanghai:20261010T193000
-DTEND;TZID=Asia/Shanghai:20261010T203000
-SUMMARY:Beijing Ducks Schedule · Beijing Ducks vs Zhejiang Golden Bulls
-DESCRIPTION:Zhejiang Golden Bulls at Beijing Ducks (CBA 2026-27 season\, B
- eijing time)\n\nScore: 北京首钢 97 - 96 浙江稠州金租\n\n阶段: 
- 季前赛\n场序: 0\n主场: 北京首钢\n客场: 浙江稠州金租\n
- 比分: 北京首钢 97 - 96 浙江稠州金租
-CATEGORIES:Beijing Ducks Schedule
-URL;VALUE=URI:https://www.cbaleague.com/data/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:cba-29115-cba-2027-100110436@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261103T000000
@@ -45,9 +15,8 @@ DTSTART;TZID=Asia/Shanghai:20261011T193000
 DTEND;TZID=Asia/Shanghai:20261011T203000
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks @ Jiangsu Dragons
 DESCRIPTION:Beijing Ducks at Jiangsu Dragons (CBA 2026-27 season\, Beijing
-  time)\n\nScore: 江苏肯帝亚 83 - 86 北京首钢\n\n阶段: 季前赛
- \n场序: 0\n主场: 江苏肯帝亚\n客场: 北京首钢\n比分: 江苏
- 肯帝亚 83 - 86 北京首钢
+  time)\n\nScore: 江苏肯帝亚 83 - 86 北京首钢\n\nSource: https://w
+ ww.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -60,9 +29,8 @@ DTSTART;TZID=Asia/Shanghai:20261018T193500
 DTEND;TZID=Asia/Shanghai:20261018T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks @ Jilin Northeast Tigers
 DESCRIPTION:Beijing Ducks at Jilin Northeast Tigers (CBA 2026-27 season\, 
- Beijing time)\n\nScore: 长白山恩都里 82 - 84 北京首钢\n\n阶段:
-  常规赛第1轮\n轮次: 第 1 轮\n场序: 10\n主场: 长白山恩都
- 里\n客场: 北京首钢\n比分: 长白山恩都里 82 - 84 北京首钢
+ Beijing time)\n\nScore: 长白山恩都里 82 - 84 北京首钢\n\nSource:
+  https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -76,9 +44,8 @@ DTEND;TZID=Asia/Shanghai:20261020T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks vs Guangdong Southern Tige
  rs
 DESCRIPTION:Guangdong Southern Tigers at Beijing Ducks (CBA 2026-27 season
- \, Beijing time)\n\nScore: 北京首钢 96 - 78 广东东阳光\n\n阶段:
-  常规赛第2轮\n轮次: 第 2 轮\n场序: 17\n主场: 北京首钢\n
- 客场: 广东东阳光\n比分: 北京首钢 96 - 78 广东东阳光
+ \, Beijing time)\n\nScore: 北京首钢 96 - 78 广东东阳光\n\nSource:
+  https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -91,9 +58,8 @@ DTSTART;TZID=Asia/Shanghai:20261022T193500
 DTEND;TZID=Asia/Shanghai:20261022T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks vs Shenzhen Leopards
 DESCRIPTION:Shenzhen Leopards at Beijing Ducks (CBA 2026-27 season\, Beiji
- ng time)\n\nScore: 北京首钢 120 - 62 深圳马可波罗\n\n阶段: 常
- 规赛第3轮\n轮次: 第 3 轮\n场序: 25\n主场: 北京首钢\n客场
- : 深圳马可波罗\n比分: 北京首钢 120 - 62 深圳马可波罗
+ ng time)\n\nScore: 北京首钢 120 - 62 深圳马可波罗\n\nSource: htt
+ ps://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -106,10 +72,8 @@ DTSTART;TZID=Asia/Shanghai:20261025T193500
 DTEND;TZID=Asia/Shanghai:20261025T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks vs Guangzhou Loong Lions
 DESCRIPTION:Guangzhou Loong Lions at Beijing Ducks (CBA 2026-27 season\, B
- eijing time)\n\nScore: 北京首钢 117 - 73 广州智都集团\n\n阶段:
-  常规赛第4轮\n轮次: 第 4 轮\n场序: 39\n主场: 北京首钢\n
- 客场: 广州智都集团\n比分: 北京首钢 117 - 73 广州智都集
- 团
+ eijing time)\n\nScore: 北京首钢 117 - 73 广州智都集团\n\nSource:
+  https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -122,9 +86,8 @@ DTSTART;TZID=Asia/Shanghai:20261027T193500
 DTEND;TZID=Asia/Shanghai:20261027T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks @ Shandong Hi-Speed Kirin
 DESCRIPTION:Beijing Ducks at Shandong Hi-Speed Kirin (CBA 2026-27 season\,
-  Beijing time)\n\nScore: 山东高速 92 - 103 北京首钢\n\n阶段: 常
- 规赛第5轮\n轮次: 第 5 轮\n场序: 46\n主场: 山东高速\n客场
- : 北京首钢\n比分: 山东高速 92 - 103 北京首钢
+  Beijing time)\n\nScore: 山东高速 92 - 103 北京首钢\n\nSource: htt
+ ps://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -137,9 +100,8 @@ DTSTART;TZID=Asia/Shanghai:20261029T193500
 DTEND;TZID=Asia/Shanghai:20261029T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks @ Qingdao Eagles
 DESCRIPTION:Beijing Ducks at Qingdao Eagles (CBA 2026-27 season\, Beijing 
- time)\n\nScore: 青岛崂山啤酒 86 - 105 北京首钢\n\n阶段: 常规
- 赛第6轮\n轮次: 第 6 轮\n场序: 54\n主场: 青岛崂山啤酒\n客
- 场: 北京首钢\n比分: 青岛崂山啤酒 86 - 105 北京首钢
+ time)\n\nScore: 青岛崂山啤酒 86 - 105 北京首钢\n\nSource: https:
+ //www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -152,10 +114,8 @@ DTSTART;TZID=Asia/Shanghai:20261101T193500
 DTEND;TZID=Asia/Shanghai:20261101T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks vs Zhejiang Guangsha Lions
 DESCRIPTION:Zhejiang Guangsha Lions at Beijing Ducks (CBA 2026-27 season\,
-  Beijing time)\n\nScore: 北京首钢 114 - 76 浙江浙商证券\n\n阶
- 段: 常规赛第7轮\n轮次: 第 7 轮\n场序: 68\n主场: 北京首钢
- \n客场: 浙江浙商证券\n比分: 北京首钢 114 - 76 浙江浙商
- 证券
+  Beijing time)\n\nScore: 北京首钢 114 - 76 浙江浙商证券\n\nSourc
+ e: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -168,9 +128,8 @@ DTSTART;TZID=Asia/Shanghai:20261103T193500
 DTEND;TZID=Asia/Shanghai:20261103T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks vs Ningbo Rockets
 DESCRIPTION:Ningbo Rockets at Beijing Ducks (CBA 2026-27 season\, Beijing 
- time)\n\nScore: 北京首钢 120 - 88 宁波町渥\n\n阶段: 常规赛第
- 8轮\n轮次: 第 8 轮\n场序: 78\n主场: 北京首钢\n客场: 宁波
- 町渥\n比分: 北京首钢 120 - 88 宁波町渥
+ time)\n\nScore: 北京首钢 120 - 88 宁波町渥\n\nSource: https://www.
+ cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -183,8 +142,7 @@ DTSTART;TZID=Asia/Shanghai:20261205T193500
 DTEND;TZID=Asia/Shanghai:20261205T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks @ Beijing Royal Fighters
 DESCRIPTION:Beijing Ducks at Beijing Royal Fighters (CBA 2026-27 season\, 
- Beijing time)\n\n阶段: 常规赛第9轮\n轮次: 第 9 轮\n场序: 88\n
- 主场: 北京控股\n客场: 北京首钢
+ Beijing time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -197,8 +155,7 @@ DTSTART;TZID=Asia/Shanghai:20261207T193500
 DTEND;TZID=Asia/Shanghai:20261207T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks @ Shanxi Loongs
 DESCRIPTION:Beijing Ducks at Shanxi Loongs (CBA 2026-27 season\, Beijing t
- ime)\n\n阶段: 常规赛第10轮\n轮次: 第 10 轮\n场序: 98\n主场:
-  山西汾酒\n客场: 北京首钢
+ ime)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -211,8 +168,7 @@ DTSTART;TZID=Asia/Shanghai:20261210T193500
 DTEND;TZID=Asia/Shanghai:20261210T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks vs Jilin Northeast Tigers
 DESCRIPTION:Jilin Northeast Tigers at Beijing Ducks (CBA 2026-27 season\, 
- Beijing time)\n\n阶段: 常规赛第11轮\n轮次: 第 11 轮\n场序: 10
- 9\n主场: 北京首钢\n客场: 长白山恩都里
+ Beijing time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -225,8 +181,7 @@ DTSTART;TZID=Asia/Shanghai:20261212T193500
 DTEND;TZID=Asia/Shanghai:20261212T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks vs Tianjin Pioneers
 DESCRIPTION:Tianjin Pioneers at Beijing Ducks (CBA 2026-27 season\, Beijin
- g time)\n\n阶段: 常规赛第12轮\n轮次: 第 12 轮\n场序: 119\n主
- 场: 北京首钢\n客场: 天津先行者
+ g time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -239,8 +194,7 @@ DTSTART;TZID=Asia/Shanghai:20261214T193500
 DTEND;TZID=Asia/Shanghai:20261214T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks vs Fujian Sturgeons
 DESCRIPTION:Fujian Sturgeons at Beijing Ducks (CBA 2026-27 season\, Beijin
- g time)\n\n阶段: 常规赛第13轮\n轮次: 第 13 轮\n场序: 129\n主
- 场: 北京首钢\n客场: 福建晋江文旅
+ g time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -253,8 +207,7 @@ DTSTART;TZID=Asia/Shanghai:20261216T193500
 DTEND;TZID=Asia/Shanghai:20261216T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks @ Liaoning Flying Leopards
 DESCRIPTION:Beijing Ducks at Liaoning Flying Leopards (CBA 2026-27 season\
- , Beijing time)\n\n阶段: 常规赛第14轮\n轮次: 第 14 轮\n场序: 
- 134\n主场: 辽宁本钢\n客场: 北京首钢
+ , Beijing time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -267,8 +220,7 @@ DTSTART;TZID=Asia/Shanghai:20261218T193500
 DTEND;TZID=Asia/Shanghai:20261218T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks @ Tianjin Pioneers
 DESCRIPTION:Beijing Ducks at Tianjin Pioneers (CBA 2026-27 season\, Beijin
- g time)\n\n阶段: 常规赛第15轮\n轮次: 第 15 轮\n场序: 146\n主
- 场: 天津先行者\n客场: 北京首钢
+ g time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -282,8 +234,7 @@ DTEND;TZID=Asia/Shanghai:20261220T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks vs Liaoning Flying Leopard
  s
 DESCRIPTION:Liaoning Flying Leopards at Beijing Ducks (CBA 2026-27 season\
- , Beijing time)\n\n阶段: 常规赛第16轮\n轮次: 第 16 轮\n场序: 
- 154\n主场: 北京首钢\n客场: 辽宁本钢
+ , Beijing time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -296,8 +247,7 @@ DTSTART;TZID=Asia/Shanghai:20261222T193500
 DTEND;TZID=Asia/Shanghai:20261222T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks vs Jiangsu Dragons
 DESCRIPTION:Jiangsu Dragons at Beijing Ducks (CBA 2026-27 season\, Beijing
-  time)\n\n阶段: 常规赛第17轮\n轮次: 第 17 轮\n场序: 162\n主
- 场: 北京首钢\n客场: 江苏肯帝亚
+  time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -311,8 +261,7 @@ DTEND;TZID=Asia/Shanghai:20261226T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks vs Guangdong Southern Tige
  rs
 DESCRIPTION:Guangdong Southern Tigers at Beijing Ducks (CBA 2026-27 season
- \, Beijing time)\n\n阶段: 常规赛第18轮\n轮次: 第 18 轮\n场序:
-  180\n主场: 北京首钢\n客场: 广东东阳光
+ \, Beijing time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -325,8 +274,7 @@ DTSTART;TZID=Asia/Shanghai:20261228T193500
 DTEND;TZID=Asia/Shanghai:20261228T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks @ Sichuan Blue Whales
 DESCRIPTION:Beijing Ducks at Sichuan Blue Whales (CBA 2026-27 season\, Bei
- jing time)\n\n阶段: 常规赛第19轮\n轮次: 第 19 轮\n场序: 186\n
- 主场: 四川锦城\n客场: 北京首钢
+ jing time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -339,8 +287,7 @@ DTSTART;TZID=Asia/Shanghai:20261230T193500
 DTEND;TZID=Asia/Shanghai:20261230T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks @ Guangzhou Loong Lions
 DESCRIPTION:Beijing Ducks at Guangzhou Loong Lions (CBA 2026-27 season\, B
- eijing time)\n\n阶段: 常规赛第20轮\n轮次: 第 20 轮\n场序: 194
- \n主场: 广州智都集团\n客场: 北京首钢
+ eijing time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -353,8 +300,7 @@ DTSTART;TZID=Asia/Shanghai:20270101T193500
 DTEND;TZID=Asia/Shanghai:20270101T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks @ Shanghai Sharks
 DESCRIPTION:Beijing Ducks at Shanghai Sharks (CBA 2026-27 season\, Beijing
-  time)\n\n阶段: 常规赛第21轮\n轮次: 第 21 轮\n场序: 205\n主
- 场: 上海久事\n客场: 北京首钢
+  time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -367,8 +313,7 @@ DTSTART;TZID=Asia/Shanghai:20270103T193500
 DTEND;TZID=Asia/Shanghai:20270103T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks vs Sichuan Blue Whales
 DESCRIPTION:Sichuan Blue Whales at Beijing Ducks (CBA 2026-27 season\, Bei
- jing time)\n\n阶段: 常规赛第22轮\n轮次: 第 22 轮\n场序: 214\n
- 主场: 北京首钢\n客场: 四川锦城
+ jing time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -381,8 +326,7 @@ DTSTART;TZID=Asia/Shanghai:20270105T193500
 DTEND;TZID=Asia/Shanghai:20270105T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks vs Guangzhou Loong Lions
 DESCRIPTION:Guangzhou Loong Lions at Beijing Ducks (CBA 2026-27 season\, B
- eijing time)\n\n阶段: 常规赛第23轮\n轮次: 第 23 轮\n场序: 221
- \n主场: 北京首钢\n客场: 广州智都集团
+ eijing time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -395,8 +339,7 @@ DTSTART;TZID=Asia/Shanghai:20270109T193500
 DTEND;TZID=Asia/Shanghai:20270109T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks vs Shanghai Sharks
 DESCRIPTION:Shanghai Sharks at Beijing Ducks (CBA 2026-27 season\, Beijing
-  time)\n\n阶段: 常规赛第24轮\n轮次: 第 24 轮\n场序: 239\n主
- 场: 北京首钢\n客场: 上海久事
+  time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -409,8 +352,7 @@ DTSTART;TZID=Asia/Shanghai:20270111T193500
 DTEND;TZID=Asia/Shanghai:20270111T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks @ Sichuan Blue Whales
 DESCRIPTION:Beijing Ducks at Sichuan Blue Whales (CBA 2026-27 season\, Bei
- jing time)\n\n阶段: 常规赛第25轮\n轮次: 第 25 轮\n场序: 249\n
- 主场: 四川锦城\n客场: 北京首钢
+ jing time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -423,8 +365,7 @@ DTSTART;TZID=Asia/Shanghai:20270113T193500
 DTEND;TZID=Asia/Shanghai:20270113T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks @ Nanjing Monkey Kings
 DESCRIPTION:Beijing Ducks at Nanjing Monkey Kings (CBA 2026-27 season\, Be
- ijing time)\n\n阶段: 常规赛第26轮\n轮次: 第 26 轮\n场序: 256\
- n主场: 南京同曦宙光\n客场: 北京首钢
+ ijing time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -437,8 +378,7 @@ DTSTART;TZID=Asia/Shanghai:20270115T193500
 DTEND;TZID=Asia/Shanghai:20270115T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks @ Jiangsu Dragons
 DESCRIPTION:Beijing Ducks at Jiangsu Dragons (CBA 2026-27 season\, Beijing
-  time)\n\n阶段: 常规赛第27轮\n轮次: 第 27 轮\n场序: 262\n主
- 场: 江苏肯帝亚\n客场: 北京首钢
+  time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -451,8 +391,7 @@ DTSTART;TZID=Asia/Shanghai:20270117T193500
 DTEND;TZID=Asia/Shanghai:20270117T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks vs Shanxi Loongs
 DESCRIPTION:Shanxi Loongs at Beijing Ducks (CBA 2026-27 season\, Beijing t
- ime)\n\n阶段: 常规赛第28轮\n轮次: 第 28 轮\n场序: 272\n主场
- : 北京首钢\n客场: 山西汾酒
+ ime)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -465,8 +404,7 @@ DTSTART;TZID=Asia/Shanghai:20270119T193500
 DTEND;TZID=Asia/Shanghai:20270119T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks vs Beijing Royal Fighters
 DESCRIPTION:Beijing Royal Fighters at Beijing Ducks (CBA 2026-27 season\, 
- Beijing time)\n\n阶段: 常规赛第29轮\n轮次: 第 29 轮\n场序: 28
- 2\n主场: 北京首钢\n客场: 北京控股
+ Beijing time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -479,8 +417,7 @@ DTSTART;TZID=Asia/Shanghai:20270122T193500
 DTEND;TZID=Asia/Shanghai:20270122T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks @ Zhejiang Golden Bulls
 DESCRIPTION:Beijing Ducks at Zhejiang Golden Bulls (CBA 2026-27 season\, B
- eijing time)\n\n阶段: 常规赛第30轮\n轮次: 第 30 轮\n场序: 295
- \n主场: 浙江稠州金租\n客场: 北京首钢
+ eijing time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -493,8 +430,7 @@ DTSTART;TZID=Asia/Shanghai:20270124T193500
 DTEND;TZID=Asia/Shanghai:20270124T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks @ Beijing Royal Fighters
 DESCRIPTION:Beijing Ducks at Beijing Royal Fighters (CBA 2026-27 season\, 
- Beijing time)\n\n阶段: 常规赛第31轮\n轮次: 第 31 轮\n场序: 30
- 1\n主场: 北京控股\n客场: 北京首钢
+ Beijing time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -507,8 +443,7 @@ DTSTART;TZID=Asia/Shanghai:20270127T193500
 DTEND;TZID=Asia/Shanghai:20270127T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks vs Sichuan Blue Whales
 DESCRIPTION:Sichuan Blue Whales at Beijing Ducks (CBA 2026-27 season\, Bei
- jing time)\n\n阶段: 常规赛第32轮\n轮次: 第 32 轮\n场序: 317\n
- 主场: 北京首钢\n客场: 四川锦城
+ jing time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -522,8 +457,7 @@ DTEND;TZID=Asia/Shanghai:20270129T210000
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks @ Guangdong Southern Tiger
  s
 DESCRIPTION:Beijing Ducks at Guangdong Southern Tigers (CBA 2026-27 season
- \, Beijing time)\n\n阶段: 常规赛第33轮\n轮次: 第 33 轮\n场序:
-  322\n主场: 广东东阳光\n客场: 北京首钢
+ \, Beijing time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -536,8 +470,7 @@ DTSTART;TZID=Asia/Shanghai:20270201T193500
 DTEND;TZID=Asia/Shanghai:20270201T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks @ Fujian Sturgeons
 DESCRIPTION:Beijing Ducks at Fujian Sturgeons (CBA 2026-27 season\, Beijin
- g time)\n\n阶段: 常规赛第34轮\n轮次: 第 34 轮\n场序: 334\n主
- 场: 福建晋江文旅\n客场: 北京首钢
+ g time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -550,8 +483,7 @@ DTSTART;TZID=Asia/Shanghai:20270310T193500
 DTEND;TZID=Asia/Shanghai:20270310T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks vs Nanjing Monkey Kings
 DESCRIPTION:Nanjing Monkey Kings at Beijing Ducks (CBA 2026-27 season\, Be
- ijing time)\n\n阶段: 常规赛第35轮\n轮次: 第 35 轮\n场序: 346\
- n主场: 北京首钢\n客场: 南京同曦宙光
+ ijing time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -564,8 +496,7 @@ DTSTART;TZID=Asia/Shanghai:20270312T200000
 DTEND;TZID=Asia/Shanghai:20270312T210000
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks @ Xinjiang Flying Tigers
 DESCRIPTION:Beijing Ducks at Xinjiang Flying Tigers (CBA 2026-27 season\, 
- Beijing time)\n\n阶段: 常规赛第36轮\n轮次: 第 36 轮\n场序: 35
- 3\n主场: 新疆广汇能源\n客场: 北京首钢
+ Beijing time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -578,8 +509,7 @@ DTSTART;TZID=Asia/Shanghai:20270314T193500
 DTEND;TZID=Asia/Shanghai:20270314T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks vs Beijing Royal Fighters
 DESCRIPTION:Beijing Royal Fighters at Beijing Ducks (CBA 2026-27 season\, 
- Beijing time)\n\n阶段: 常规赛第37轮\n轮次: 第 37 轮\n场序: 36
- 5\n主场: 北京首钢\n客场: 北京控股
+ Beijing time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -592,8 +522,7 @@ DTSTART;TZID=Asia/Shanghai:20270317T193500
 DTEND;TZID=Asia/Shanghai:20270317T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks vs Xinjiang Flying Tigers
 DESCRIPTION:Xinjiang Flying Tigers at Beijing Ducks (CBA 2026-27 season\, 
- Beijing time)\n\n阶段: 常规赛第38轮\n轮次: 第 38 轮\n场序: 37
- 7\n主场: 北京首钢\n客场: 新疆广汇能源
+ Beijing time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -607,8 +536,7 @@ DTEND;TZID=Asia/Shanghai:20270319T210000
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks @ Guangdong Southern Tiger
  s
 DESCRIPTION:Beijing Ducks at Guangdong Southern Tigers (CBA 2026-27 season
- \, Beijing time)\n\n阶段: 常规赛第39轮\n轮次: 第 39 轮\n场序:
-  387\n主场: 广东东阳光\n客场: 北京首钢
+ \, Beijing time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -621,8 +549,7 @@ DTSTART;TZID=Asia/Shanghai:20270321T193500
 DTEND;TZID=Asia/Shanghai:20270321T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks @ Shenzhen Leopards
 DESCRIPTION:Beijing Ducks at Shenzhen Leopards (CBA 2026-27 season\, Beiji
- ng time)\n\n阶段: 常规赛第40轮\n轮次: 第 40 轮\n场序: 391\n
- 主场: 深圳马可波罗\n客场: 北京首钢
+ ng time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -635,8 +562,7 @@ DTSTART;TZID=Asia/Shanghai:20270324T193500
 DTEND;TZID=Asia/Shanghai:20270324T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks @ Guangzhou Loong Lions
 DESCRIPTION:Beijing Ducks at Guangzhou Loong Lions (CBA 2026-27 season\, B
- eijing time)\n\n阶段: 常规赛第41轮\n轮次: 第 41 轮\n场序: 404
- \n主场: 广州智都集团\n客场: 北京首钢
+ eijing time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -649,8 +575,7 @@ DTSTART;TZID=Asia/Shanghai:20270327T193500
 DTEND;TZID=Asia/Shanghai:20270327T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks vs Shandong Hi-Speed Kirin
 DESCRIPTION:Shandong Hi-Speed Kirin at Beijing Ducks (CBA 2026-27 season\,
-  Beijing time)\n\n阶段: 常规赛第42轮\n轮次: 第 42 轮\n场序: 4
- 19\n主场: 北京首钢\n客场: 山东高速
+  Beijing time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -663,8 +588,7 @@ DTSTART;TZID=Asia/Shanghai:20270329T193500
 DTEND;TZID=Asia/Shanghai:20270329T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks vs Qingdao Eagles
 DESCRIPTION:Qingdao Eagles at Beijing Ducks (CBA 2026-27 season\, Beijing 
- time)\n\n阶段: 常规赛第43轮\n轮次: 第 43 轮\n场序: 429\n主
- 场: 北京首钢\n客场: 青岛崂山啤酒
+ time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -677,8 +601,7 @@ DTSTART;TZID=Asia/Shanghai:20270331T193500
 DTEND;TZID=Asia/Shanghai:20270331T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks @ Zhejiang Guangsha Lions
 DESCRIPTION:Beijing Ducks at Zhejiang Guangsha Lions (CBA 2026-27 season\,
-  Beijing time)\n\n阶段: 常规赛第44轮\n轮次: 第 44 轮\n场序: 4
- 34\n主场: 浙江浙商证券\n客场: 北京首钢
+  Beijing time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -691,8 +614,7 @@ DTSTART;TZID=Asia/Shanghai:20270403T193500
 DTEND;TZID=Asia/Shanghai:20270403T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks @ Ningbo Rockets
 DESCRIPTION:Beijing Ducks at Ningbo Rockets (CBA 2026-27 season\, Beijing 
- time)\n\n阶段: 常规赛第45轮\n轮次: 第 45 轮\n场序: 448\n主
- 场: 宁波町渥\n客场: 北京首钢
+ time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -705,8 +627,7 @@ DTSTART;TZID=Asia/Shanghai:20270407T193500
 DTEND;TZID=Asia/Shanghai:20270407T203500
 SUMMARY:Beijing Ducks Schedule · Beijing Ducks vs Zhejiang Golden Bulls
 DESCRIPTION:Zhejiang Golden Bulls at Beijing Ducks (CBA 2026-27 season\, B
- eijing time)\n\n阶段: 常规赛第46轮\n轮次: 第 46 轮\n场序: 458
- \n主场: 北京首钢\n客场: 浙江稠州金租
+ eijing time)\n\nSource: https://www.cbaleague.com/data/
 CATEGORIES:Beijing Ducks Schedule
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED

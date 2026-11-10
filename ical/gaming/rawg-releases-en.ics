@@ -9,57 +9,6 @@ X-WR-CALDESC:Upcoming game release dates across PC, PlayStation, Xbox, Nin
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-UID:rawg-releases-rawg-releases-2026-10-06@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261006T000000
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Gears of War: E-Day + 1 more release
-DESCRIPTION:Releases this day: Gears of War: E-Day\, Star Wars: Galactic R
- acer.\n\nReleases this day:\n1. Gears of War: E-Day (PC)\n2. Star Wars: Ga
- lactic Racer (PC / PS5 / Xbox Series)\n\nGame count: 2\nGames: Gears of Wa
- r: E-Day\, Star Wars: Galactic Racer\nPlatforms: PC / PS5 / Xbox Series\nD
- ata source: RAWG
-CATEGORIES:Multi-Platform Game Releases
-URL;VALUE=URI:https://rawg.io/games
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:rawg-releases-rawg-releases-2026-10-07@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261007T000000
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Echo Weaver release
-DESCRIPTION:Echo Weaver releases on PC / macOS.\n\nReleases this day:\n1. 
- Echo Weaver (PC / macOS)\n\nGame count: 1\nGames: Echo Weaver\nPlatforms: 
- PC / macOS\nData source: RAWG
-CATEGORIES:Multi-Platform Game Releases
-URL;VALUE=URI:https://rawg.io/games/echo-weaver
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:rawg-releases-rawg-releases-2026-10-08@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261008T000000
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Clive Barker's Hellraiser: Revival release
-DESCRIPTION:Clive Barker's Hellraiser: Revival releases on PC / PS5 / Swit
- ch.\n\nReleases this day:\n1. Clive Barker's Hellraiser: Revival (PC / PS5
-  / Switch)\n\nGame count: 1\nGames: Clive Barker's Hellraiser: Revival\nPl
- atforms: PC / PS5 / Switch\nData source: RAWG
-CATEGORIES:Multi-Platform Game Releases
-URL;VALUE=URI:https://rawg.io/games/clive-barkers-hellraiser-revival
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-10-11@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261011T000000
@@ -70,7 +19,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Battleplan release
 DESCRIPTION:Battleplan releases on PC.\n\nReleases this day:\n1. Battlepla
  n (PC)\n\nGame count: 1\nGames: Battleplan\nPlatforms: PC\nData source: RA
- WG
+ WG\n\nSource: https://rawg.io/games/battleplan
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/battleplan
 STATUS:CONFIRMED
@@ -88,7 +37,7 @@ DESCRIPTION:Releases this day: FIRE AND ASHES\, Thank You Bus Driver\, Val
  or Mortis.\n\nReleases this day:\n1. FIRE AND ASHES (PC)\n2. Thank You Bus
   Driver (PC)\n3. Valor Mortis (PC / PS5)\n\nGame count: 3\nGames: FIRE AND
   ASHES\, Thank You Bus Driver\, Valor Mortis\nPlatforms: PC / PS5\nData so
- urce: RAWG
+ urce: RAWG\n\nSource: https://rawg.io/games
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games
 STATUS:CONFIRMED
@@ -105,7 +54,7 @@ SUMMARY:Odd Town + 1 more release
 DESCRIPTION:Releases this day: Odd Town\, Warhammer 40\,000: Boltgun 2.\n\
  nReleases this day:\n1. Odd Town (PC)\n2. Warhammer 40\,000: Boltgun 2 (PC
  )\n\nGame count: 2\nGames: Odd Town\, Warhammer 40\,000: Boltgun 2\nPlatfo
- rms: PC\nData source: RAWG
+ rms: PC\nData source: RAWG\n\nSource: https://rawg.io/games
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games
 STATUS:CONFIRMED
@@ -126,7 +75,7 @@ DESCRIPTION:Releases this day: Castlevania: Belmont's Curse\, Disney/Pixar
  n3. Enshrouded (PC · RAWG 3.69)\n4. Penguin Colony (PC)\n\nGame count: 4\
  nGames: Castlevania: Belmont's Curse\, Disney/Pixar Toy Story 3 Complete E
  dition\, Enshrouded\, Penguin Colony\nPlatforms: PC / PS4 / PS5 / Switch /
-  Xbox Series\nData source: RAWG
+  Xbox Series\nData source: RAWG\n\nSource: https://rawg.io/games
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games
 STATUS:CONFIRMED
@@ -142,7 +91,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Tenebris Somnia release
 DESCRIPTION:Tenebris Somnia releases on PC.\n\nReleases this day:\n1. Tene
  bris Somnia (PC)\n\nGame count: 1\nGames: Tenebris Somnia\nPlatforms: PC\n
- Data source: RAWG
+ Data source: RAWG\n\nSource: https://rawg.io/games/tenebris-somnia-demo
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/tenebris-somnia-demo
 STATUS:CONFIRMED
@@ -157,7 +106,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Mycopunk release
 DESCRIPTION:Mycopunk releases on PC.\n\nReleases this day:\n1. Mycopunk (P
- C)\n\nGame count: 1\nGames: Mycopunk\nPlatforms: PC\nData source: RAWG
+ C)\n\nGame count: 1\nGames: Mycopunk\nPlatforms: PC\nData source: RAWG\n\n
+ Source: https://rawg.io/games/mycopunk
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/mycopunk
 STATUS:CONFIRMED
@@ -173,7 +123,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Stupid Never Dies release
 DESCRIPTION:Stupid Never Dies releases on PC.\n\nReleases this day:\n1. St
  upid Never Dies (PC)\n\nGame count: 1\nGames: Stupid Never Dies\nPlatforms
- : PC\nData source: RAWG
+ : PC\nData source: RAWG\n\nSource: https://rawg.io/games/stupid-never-dies
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/stupid-never-dies
 STATUS:CONFIRMED
@@ -190,7 +140,7 @@ SUMMARY:Final Fantasy Resonance release
 DESCRIPTION:Final Fantasy Resonance releases on PC / PS5 / Switch.\n\nRele
  ases this day:\n1. Final Fantasy Resonance (PC / PS5 / Switch)\n\nGame cou
  nt: 1\nGames: Final Fantasy Resonance\nPlatforms: PC / PS5 / Switch\nData 
- source: RAWG
+ source: RAWG\n\nSource: https://rawg.io/games/final-fantasy-resonance
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/final-fantasy-resonance
 STATUS:CONFIRMED
@@ -205,7 +155,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Ecstatica release
 DESCRIPTION:Ecstatica releases on PC.\n\nReleases this day:\n1. Ecstatica 
- (PC)\n\nGame count: 1\nGames: Ecstatica\nPlatforms: PC\nData source: RAWG
+ (PC)\n\nGame count: 1\nGames: Ecstatica\nPlatforms: PC\nData source: RAWG\
+ n\nSource: https://rawg.io/games/ecstatica
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/ecstatica
 STATUS:CONFIRMED
@@ -223,7 +174,7 @@ DESCRIPTION:Releases this day: Remothered: Red Nun's Legacy\, The Boss Gan
  gster: Criminal Empire.\n\nReleases this day:\n1. Remothered: Red Nun's Le
  gacy (PC)\n2. The Boss Gangster: Criminal Empire (PC)\n\nGame count: 2\nGa
  mes: Remothered: Red Nun's Legacy\, The Boss Gangster: Criminal Empire\nPl
- atforms: PC\nData source: RAWG
+ atforms: PC\nData source: RAWG\n\nSource: https://rawg.io/games
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games
 STATUS:CONFIRMED
@@ -238,7 +189,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Gennady release
 DESCRIPTION:Gennady releases on PC.\n\nReleases this day:\n1. Gennady (PC)
- \n\nGame count: 1\nGames: Gennady\nPlatforms: PC\nData source: RAWG
+ \n\nGame count: 1\nGames: Gennady\nPlatforms: PC\nData source: RAWG\n\nSou
+ rce: https://rawg.io/games/gennady
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/gennady
 STATUS:CONFIRMED
@@ -254,7 +206,8 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:COP BASTARD + 1 more release
 DESCRIPTION:Releases this day: COP BASTARD\, Sulfur.\n\nReleases this day:
  \n1. COP BASTARD (PC)\n2. Sulfur (PC · RAWG 3.17)\n\nGame count: 2\nGames
- : COP BASTARD\, Sulfur\nPlatforms: PC\nData source: RAWG
+ : COP BASTARD\, Sulfur\nPlatforms: PC\nData source: RAWG\n\nSource: https:
+ //rawg.io/games
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games
 STATUS:CONFIRMED
@@ -274,7 +227,7 @@ DESCRIPTION:Releases this day: Crimson Desert: Charting the Unknown\, Phan
  Zero (PC / PS5 · RAWG 3.33)\n3. Tavern Farkle GB (PC)\n4. The Golden Cara
  van (PC / macOS)\n\nGame count: 4\nGames: Crimson Desert: Charting the Unk
  nown\, Phantom Blade Zero\, Tavern Farkle GB\, The Golden Caravan\nPlatfor
- ms: PC / PS5 / macOS\nData source: RAWG
+ ms: PC / PS5 / macOS\nData source: RAWG\n\nSource: https://rawg.io/games
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games
 STATUS:CONFIRMED
@@ -290,7 +243,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Project Afterfall release
 DESCRIPTION:Project Afterfall releases on PC.\n\nReleases this day:\n1. Pr
  oject Afterfall (PC)\n\nGame count: 1\nGames: Project Afterfall\nPlatforms
- : PC\nData source: RAWG
+ : PC\nData source: RAWG\n\nSource: https://rawg.io/games/project-afterfall
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/project-afterfall
 STATUS:CONFIRMED
@@ -305,7 +258,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Abashed release
 DESCRIPTION:Abashed releases on PC.\n\nReleases this day:\n1. Abashed (PC)
- \n\nGame count: 1\nGames: Abashed\nPlatforms: PC\nData source: RAWG
+ \n\nGame count: 1\nGames: Abashed\nPlatforms: PC\nData source: RAWG\n\nSou
+ rce: https://rawg.io/games/abashed
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/abashed
 STATUS:CONFIRMED
@@ -320,7 +274,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Underkeep release
 DESCRIPTION:Underkeep releases on PC.\n\nReleases this day:\n1. Underkeep 
- (PC)\n\nGame count: 1\nGames: Underkeep\nPlatforms: PC\nData source: RAWG
+ (PC)\n\nGame count: 1\nGames: Underkeep\nPlatforms: PC\nData source: RAWG\
+ n\nSource: https://rawg.io/games/underkeep
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/underkeep
 STATUS:CONFIRMED
@@ -337,7 +292,8 @@ SUMMARY:The Legend of Zelda: Ocarina of Time release
 DESCRIPTION:The Legend of Zelda: Ocarina of Time releases on Switch.\n\nRe
  leases this day:\n1. The Legend of Zelda: Ocarina of Time (Switch)\n\nGame
   count: 1\nGames: The Legend of Zelda: Ocarina of Time\nPlatforms: Switch\
- nData source: RAWG
+ nData source: RAWG\n\nSource: https://rawg.io/games/the-legend-of-zelda-oc
+ arina-of-time-2
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/the-legend-of-zelda-ocarina-of-time-2
 STATUS:CONFIRMED
@@ -356,7 +312,7 @@ DESCRIPTION:Releases this day: After the Wane\, Vampire: The Masquerade -
  ane (PC / macOS / Linux)\n2. Vampire: The Masquerade - Oaths & Ashes (PC)\
  n3. Warhammer Survivors (PC)\n\nGame count: 3\nGames: After the Wane\, Vam
  pire: The Masquerade - Oaths & Ashes\, Warhammer Survivors\nPlatforms: Lin
- ux / PC / macOS\nData source: RAWG
+ ux / PC / macOS\nData source: RAWG\n\nSource: https://rawg.io/games
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games
 STATUS:CONFIRMED
@@ -372,7 +328,8 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Wall World Strategy release
 DESCRIPTION:Wall World Strategy releases on PC.\n\nReleases this day:\n1. 
  Wall World Strategy (PC)\n\nGame count: 1\nGames: Wall World Strategy\nPla
- tforms: PC\nData source: RAWG
+ tforms: PC\nData source: RAWG\n\nSource: https://rawg.io/games/wall-world-
+ strategy
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/wall-world-strategy
 STATUS:CONFIRMED
@@ -388,7 +345,8 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Space Station Designer release
 DESCRIPTION:Space Station Designer releases on PC.\n\nReleases this day:\n
  1. Space Station Designer (PC)\n\nGame count: 1\nGames: Space Station Desi
- gner\nPlatforms: PC\nData source: RAWG
+ gner\nPlatforms: PC\nData source: RAWG\n\nSource: https://rawg.io/games/sp
+ ace-station-designer
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/space-station-designer
 STATUS:CONFIRMED
@@ -404,7 +362,8 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Grand Theft Auto VI release
 DESCRIPTION:Grand Theft Auto VI releases on PS5.\n\nReleases this day:\n1.
   Grand Theft Auto VI (PS5 · RAWG 3.85)\n\nGame count: 1\nGames: Grand The
- ft Auto VI\nPlatforms: PS5\nData source: RAWG
+ ft Auto VI\nPlatforms: PS5\nData source: RAWG\n\nSource: https://rawg.io/g
+ ames/grand-theft-aito-vi
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/grand-theft-aito-vi
 STATUS:CONFIRMED
@@ -420,7 +379,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Beautiful Light release
 DESCRIPTION:Beautiful Light releases on PC.\n\nReleases this day:\n1. Beau
  tiful Light (PC)\n\nGame count: 1\nGames: Beautiful Light\nPlatforms: PC\n
- Data source: RAWG
+ Data source: RAWG\n\nSource: https://rawg.io/games/beautiful-light
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/beautiful-light
 STATUS:CONFIRMED
@@ -436,7 +395,8 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:SOMBRAS: negative frames release
 DESCRIPTION:SOMBRAS: negative frames releases on PC.\n\nReleases this day:
  \n1. SOMBRAS: negative frames (PC)\n\nGame count: 1\nGames: SOMBRAS: negat
- ive frames\nPlatforms: PC\nData source: RAWG
+ ive frames\nPlatforms: PC\nData source: RAWG\n\nSource: https://rawg.io/ga
+ mes/sombras-negative-frames
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/sombras-negative-frames
 STATUS:CONFIRMED
@@ -453,7 +413,8 @@ SUMMARY:Cronos: Lazarus + 1 more release
 DESCRIPTION:Releases this day: Cronos: Lazarus\, Rayman Legends Retold.\n\
  nReleases this day:\n1. Cronos: Lazarus (PC / PS5)\n2. Rayman Legends Reto
  ld (PC / PS5)\n\nGame count: 2\nGames: Cronos: Lazarus\, Rayman Legends Re
- told\nPlatforms: PC / PS5\nData source: RAWG
+ told\nPlatforms: PC / PS5\nData source: RAWG\n\nSource: https://rawg.io/ga
+ mes
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games
 STATUS:CONFIRMED
@@ -469,7 +430,8 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Guns of Eschaton release
 DESCRIPTION:Guns of Eschaton releases on PC / PS5.\n\nReleases this day:\n
  1. Guns of Eschaton (PC / PS5)\n\nGame count: 1\nGames: Guns of Eschaton\n
- Platforms: PC / PS5\nData source: RAWG
+ Platforms: PC / PS5\nData source: RAWG\n\nSource: https://rawg.io/games/gu
+ ns-of-eschaton
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/guns-of-eschaton
 STATUS:CONFIRMED
@@ -485,7 +447,8 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Path of Exile 2 release
 DESCRIPTION:Path of Exile 2 releases on PC.\n\nReleases this day:\n1. Path
   of Exile 2 (PC · RAWG 3.54)\n\nGame count: 1\nGames: Path of Exile 2\nPl
- atforms: PC\nData source: RAWG
+ atforms: PC\nData source: RAWG\n\nSource: https://rawg.io/games/path-of-ex
+ ile-2
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/path-of-exile-2
 STATUS:CONFIRMED
@@ -501,7 +464,8 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:They Come in Fives release
 DESCRIPTION:They Come in Fives releases on PC.\n\nReleases this day:\n1. T
  hey Come in Fives (PC)\n\nGame count: 1\nGames: They Come in Fives\nPlatfo
- rms: PC\nData source: RAWG
+ rms: PC\nData source: RAWG\n\nSource: https://rawg.io/games/they-come-in-f
+ ives
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/they-come-in-fives
 STATUS:CONFIRMED
@@ -517,7 +481,8 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:ananta release
 DESCRIPTION:ananta releases on Android / PC / PS5 / iOS.\n\nReleases this 
  day:\n1. ananta (PC / PS5 / iOS / Android)\n\nGame count: 1\nGames: ananta
- \nPlatforms: Android / PC / PS5 / iOS\nData source: RAWG
+ \nPlatforms: Android / PC / PS5 / iOS\nData source: RAWG\n\nSource: https:
+ //rawg.io/games/ananta
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/ananta
 STATUS:CONFIRMED
@@ -533,7 +498,8 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Titan Quest 2 release
 DESCRIPTION:Titan Quest 2 releases on PC / PS5.\n\nReleases this day:\n1. 
  Titan Quest 2 (PC / PS5 · RAWG 2.14)\n\nGame count: 1\nGames: Titan Quest
-  2\nPlatforms: PC / PS5\nData source: RAWG
+  2\nPlatforms: PC / PS5\nData source: RAWG\n\nSource: https://rawg.io/game
+ s/titan-quest-2
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/titan-quest-2
 STATUS:CONFIRMED
@@ -550,7 +516,7 @@ SUMMARY:Metroid Ravenous + 1 more release
 DESCRIPTION:Releases this day: Metroid Ravenous\, Until Dawn 2.\n\nRelease
  s this day:\n1. Metroid Ravenous (Switch)\n2. Until Dawn 2 (PS5)\n\nGame c
  ount: 2\nGames: Metroid Ravenous\, Until Dawn 2\nPlatforms: PS5 / Switch\n
- Data source: RAWG
+ Data source: RAWG\n\nSource: https://rawg.io/games
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games
 STATUS:CONFIRMED
@@ -566,7 +532,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Metro 2039 release
 DESCRIPTION:Metro 2039 releases on PC / PS5.\n\nReleases this day:\n1. Met
  ro 2039 (PC / PS5)\n\nGame count: 1\nGames: Metro 2039\nPlatforms: PC / PS
- 5\nData source: RAWG
+ 5\nData source: RAWG\n\nSource: https://rawg.io/games/metro-2039
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/metro-2039
 STATUS:CONFIRMED
@@ -583,7 +549,8 @@ SUMMARY:Tomb Raider: Legacy of Atlantis release
 DESCRIPTION:Tomb Raider: Legacy of Atlantis releases on PC / PS5.\n\nRelea
  ses this day:\n1. Tomb Raider: Legacy of Atlantis (PC / PS5 · RAWG 4.33)\
  n\nGame count: 1\nGames: Tomb Raider: Legacy of Atlantis\nPlatforms: PC / 
- PS5\nData source: RAWG
+ PS5\nData source: RAWG\n\nSource: https://rawg.io/games/tomb-raider-legacy
+ -of-atlantis
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/tomb-raider-legacy-of-atlantis
 STATUS:CONFIRMED
@@ -599,7 +566,8 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:God of War Laufey release
 DESCRIPTION:God of War Laufey releases on PS5.\n\nReleases this day:\n1. G
  od of War Laufey (PS5)\n\nGame count: 1\nGames: God of War Laufey\nPlatfor
- ms: PS5\nData source: RAWG
+ ms: PS5\nData source: RAWG\n\nSource: https://rawg.io/games/god-of-war-lau
+ fey
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/god-of-war-laufey
 STATUS:CONFIRMED
@@ -615,7 +583,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Fable release
 DESCRIPTION:Fable releases on PC / PS5.\n\nReleases this day:\n1. Fable (P
  C / PS5 · RAWG 3.53)\n\nGame count: 1\nGames: Fable\nPlatforms: PC / PS5\
- nData source: RAWG
+ nData source: RAWG\n\nSource: https://rawg.io/games/fable2020
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/fable2020
 STATUS:CONFIRMED
@@ -632,7 +600,8 @@ SUMMARY:Trine 6: Together in Time release
 DESCRIPTION:Trine 6: Together in Time releases on PC / PS5 / Switch.\n\nRe
  leases this day:\n1. Trine 6: Together in Time (PC / PS5 / Switch)\n\nGame
   count: 1\nGames: Trine 6: Together in Time\nPlatforms: PC / PS5 / Switch\
- nData source: RAWG
+ nData source: RAWG\n\nSource: https://rawg.io/games/trine-6-together-in-ti
+ me
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/trine-6-together-in-time
 STATUS:CONFIRMED
@@ -648,7 +617,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Trainwatch release
 DESCRIPTION:Trainwatch releases on PC.\n\nReleases this day:\n1. Trainwatc
  h (PC)\n\nGame count: 1\nGames: Trainwatch\nPlatforms: PC\nData source: RA
- WG
+ WG\n\nSource: https://rawg.io/games/trainwatch
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/trainwatch
 STATUS:CONFIRMED
@@ -666,7 +635,7 @@ DESCRIPTION:Releases this day: Lords of the Fallen 2\, No Rest for the Wic
  ked.\n\nReleases this day:\n1. Lords of the Fallen 2 (PC / PS5)\n2. No Res
  t for the Wicked (PC / PS5 · RAWG 3.95)\n\nGame count: 2\nGames: Lords of
   the Fallen 2\, No Rest for the Wicked\nPlatforms: PC / PS5\nData source: 
- RAWG
+ RAWG\n\nSource: https://rawg.io/games
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games
 STATUS:CONFIRMED
@@ -683,7 +652,8 @@ SUMMARY:Exodus (Archetype Entertainment) release
 DESCRIPTION:Exodus (Archetype Entertainment) releases on PC / PS5.\n\nRele
  ases this day:\n1. Exodus (Archetype Entertainment) (PC / PS5)\n\nGame cou
  nt: 1\nGames: Exodus (Archetype Entertainment)\nPlatforms: PC / PS5\nData 
- source: RAWG
+ source: RAWG\n\nSource: https://rawg.io/games/exodus-archetype-entertainme
+ nt
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/exodus-archetype-entertainment
 STATUS:CONFIRMED
@@ -700,7 +670,8 @@ SUMMARY:Final Fantasy VII: Revelation release
 DESCRIPTION:Final Fantasy VII: Revelation releases on PC / PS5 / Switch.\n
  \nReleases this day:\n1. Final Fantasy VII: Revelation (PC / PS5 / Switch)
  \n\nGame count: 1\nGames: Final Fantasy VII: Revelation\nPlatforms: PC / P
- S5 / Switch\nData source: RAWG
+ S5 / Switch\nData source: RAWG\n\nSource: https://rawg.io/games/final-fant
+ asy-vii-revelations
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/final-fantasy-vii-revelations
 STATUS:CONFIRMED
@@ -717,7 +688,8 @@ SUMMARY:Clutch (2027) + 1 more release
 DESCRIPTION:Releases this day: Clutch (2027)\, Daba: Land of Water Scar.\n
  \nReleases this day:\n1. Clutch (2027) (PC / PS5)\n2. Daba: Land of Water 
  Scar (PC / PS5)\n\nGame count: 2\nGames: Clutch (2027)\, Daba: Land of Wat
- er Scar\nPlatforms: PC / PS5\nData source: RAWG
+ er Scar\nPlatforms: PC / PS5\nData source: RAWG\n\nSource: https://rawg.io
+ /games
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games
 STATUS:CONFIRMED
@@ -733,7 +705,8 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Parking in Tight Spaces release
 DESCRIPTION:Parking in Tight Spaces releases on PC.\n\nReleases this day:\
  n1. Parking in Tight Spaces (PC)\n\nGame count: 1\nGames: Parking in Tight
-  Spaces\nPlatforms: PC\nData source: RAWG
+  Spaces\nPlatforms: PC\nData source: RAWG\n\nSource: https://rawg.io/games
+ /parking-in-tight-spaces
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/parking-in-tight-spaces
 STATUS:CONFIRMED
@@ -750,7 +723,8 @@ SUMMARY:Unknown Carnivores Dinosaur Hunt Sequel release
 DESCRIPTION:Unknown Carnivores Dinosaur Hunt Sequel releases on PC.\n\nRel
  eases this day:\n1. Unknown Carnivores Dinosaur Hunt Sequel (PC)\n\nGame c
  ount: 1\nGames: Unknown Carnivores Dinosaur Hunt Sequel\nPlatforms: PC\nDa
- ta source: RAWG
+ ta source: RAWG\n\nSource: https://rawg.io/games/unknown-carnivores-dinosa
+ ur-hunt-sequel
 CATEGORIES:Multi-Platform Game Releases
 URL;VALUE=URI:https://rawg.io/games/unknown-carnivores-dinosaur-hunt-seque
  l

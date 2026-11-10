@@ -8,29 +8,14 @@ X-WR-CALDESC:Lens schedule in Ligue 1 Schedule, auto-synced.
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-UID:ligue1-rcl-ligue1-2026-401876447@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261104T000000
-DTSTART;TZID=Asia/Shanghai:20261010T024500
-DTEND;TZID=Asia/Shanghai:20261010T034500
-SUMMARY:Lens Schedule · Lens vs Lyon
-DESCRIPTION:Lyon at Lens (Ligue 1 2026-27\, Beijing time)\n\nScore: 朗斯
-  2 - 1 里昂\n\n主场: 朗斯\n客场: 里昂\n比分: 朗斯 2 - 1 里
- 昂\n场馆: Stade Bollaert-Delelis\n城市: Lens
-CATEGORIES:Lens Schedule
-URL;VALUE=URI:https://www.ligue1.com/fixtures-results
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876431@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261018T024500
 DTEND;TZID=Asia/Shanghai:20261018T034500
 SUMMARY:Lens Schedule · Lens @ Troyes
 DESCRIPTION:Lens at Troyes (Ligue 1 2026-27\, Beijing time)\n\nScore: 特
- 鲁瓦 1 - 3 朗斯\n\n主场: 特鲁瓦\n客场: 朗斯\n比分: 特鲁
- 瓦 1 - 3 朗斯\n场馆: Stade de l'Aube\n城市: Paris
+ 鲁瓦 1 - 3 朗斯\n\nSource: https://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -38,13 +23,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876427@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261025T024500
 DTEND;TZID=Asia/Shanghai:20261025T034500
 SUMMARY:Lens Schedule · Lens vs Paris FC
 DESCRIPTION:Paris FC at Lens (Ligue 1 2026-27\, Beijing time)\n\nScore: 
- 朗斯 2 - 1 巴黎FC\n\n主场: 朗斯\n客场: 巴黎FC\n比分: 朗斯 
- 2 - 1 巴黎FC\n场馆: Stade Bollaert-Delelis\n城市: Lens
+ 朗斯 2 - 1 巴黎FC\n\nSource: https://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -52,13 +36,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876420@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261031T040500
 DTEND;TZID=Asia/Shanghai:20261031T050500
 SUMMARY:Lens Schedule · Lens @ Lille
 DESCRIPTION:Lens at Lille (Ligue 1 2026-27\, Beijing time)\n\nScore: 里
- 尔 1 - 0 朗斯\n\n主场: 里尔\n客场: 朗斯\n比分: 里尔 1 - 0 
- 朗斯\n场馆: Decathlon Arena - Stade Pierre-Mauroy\n城市: Lille
+ 尔 1 - 0 朗斯\n\nSource: https://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -66,12 +49,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876404@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261109T034500
 DTEND;TZID=Asia/Shanghai:20261109T044500
 SUMMARY:Lens Schedule · Lens vs Marseille
-DESCRIPTION:Marseille at Lens (Ligue 1 2026-27\, Beijing time)\n\n主场: 
- 朗斯\n客场: 马赛\n场馆: Stade Bollaert-Delelis\n城市: Lens
+DESCRIPTION:Marseille at Lens (Ligue 1 2026-27\, Beijing time)\n\nScore: 
+ 朗斯 1 - 2 马赛\n\nSource: https://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -79,12 +62,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876403@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261122T034500
 DTEND;TZID=Asia/Shanghai:20261122T044500
 SUMMARY:Lens Schedule · Lens vs Toulouse
-DESCRIPTION:Toulouse at Lens (Ligue 1 2026-27\, Beijing time)\n\n主场: 
- 朗斯\n客场: 图卢兹\n场馆: Stade Bollaert-Delelis\n城市: Lens
+DESCRIPTION:Toulouse at Lens (Ligue 1 2026-27\, Beijing time)\n\nSource: h
+ ttps://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -92,12 +75,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876394@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261129T001500
 DTEND;TZID=Asia/Shanghai:20261129T011500
 SUMMARY:Lens Schedule · Lens @ Angers
-DESCRIPTION:Lens at Angers (Ligue 1 2026-27\, Beijing time)\n\n主场: 昂
- 热\n客场: 朗斯\n场馆: Stade Raymond Kopa\n城市: Angers
+DESCRIPTION:Lens at Angers (Ligue 1 2026-27\, Beijing time)\n\nSource: htt
+ ps://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -105,13 +88,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876385@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261206T034500
 DTEND;TZID=Asia/Shanghai:20261206T044500
 SUMMARY:Lens Schedule · Lens vs Le Havre AC
-DESCRIPTION:Le Havre AC at Lens (Ligue 1 2026-27\, Beijing time)\n\n主场
- : 朗斯\n客场: 勒阿弗尔\n场馆: Stade Bollaert-Delelis\n城市: Le
- ns
+DESCRIPTION:Le Havre AC at Lens (Ligue 1 2026-27\, Beijing time)\n\nSource
+ : https://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -119,12 +101,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876371@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261213T034500
 DTEND;TZID=Asia/Shanghai:20261213T044500
 SUMMARY:Lens Schedule · Lens @ Nice
-DESCRIPTION:Lens at Nice (Ligue 1 2026-27\, Beijing time)\n\n主场: 尼
- 斯\n客场: 朗斯\n场馆: Allianz Riviera\n城市: Nice
+DESCRIPTION:Lens at Nice (Ligue 1 2026-27\, Beijing time)\n\nSource: https
+ ://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -132,13 +114,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876359@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270104T034500
 DTEND;TZID=Asia/Shanghai:20270104T044500
 SUMMARY:Lens Schedule · Lens vs Paris Saint-Germain
 DESCRIPTION:Paris Saint-Germain at Lens (Ligue 1 2026-27\, Beijing time)\n
- \n主场: 朗斯\n客场: 巴黎圣日耳曼\n场馆: Stade Bollaert-Delel
- is\n城市: Lens
+ \nSource: https://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -146,12 +127,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876351@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270117T034500
 DTEND;TZID=Asia/Shanghai:20270117T044500
 SUMMARY:Lens Schedule · Lens @ Stade Rennais
-DESCRIPTION:Lens at Stade Rennais (Ligue 1 2026-27\, Beijing time)\n\n主
- 场: 雷恩\n客场: 朗斯\n场馆: Roazhon Park\n城市: Rennes
+DESCRIPTION:Lens at Stade Rennais (Ligue 1 2026-27\, Beijing time)\n\nSour
+ ce: https://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -159,12 +140,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876347@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270124T034500
 DTEND;TZID=Asia/Shanghai:20270124T044500
 SUMMARY:Lens Schedule · Lens vs Brest
-DESCRIPTION:Brest at Lens (Ligue 1 2026-27\, Beijing time)\n\n主场: 朗
- 斯\n客场: 布雷斯特\n场馆: Stade Bollaert-Delelis\n城市: Lens
+DESCRIPTION:Brest at Lens (Ligue 1 2026-27\, Beijing time)\n\nSource: http
+ s://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -172,13 +153,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876332@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270131T034500
 DTEND;TZID=Asia/Shanghai:20270131T044500
 SUMMARY:Lens Schedule · Lens @ Toulouse
-DESCRIPTION:Lens at Toulouse (Ligue 1 2026-27\, Beijing time)\n\n主场: 
- 图卢兹\n客场: 朗斯\n场馆: Stadium Municipal de Toulouse\n城市: 
- Toulouse
+DESCRIPTION:Lens at Toulouse (Ligue 1 2026-27\, Beijing time)\n\nSource: h
+ ttps://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -186,12 +166,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876329@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270207T040000
 DTEND;TZID=Asia/Shanghai:20270207T050000
 SUMMARY:Lens Schedule · Lens vs Angers
-DESCRIPTION:Angers at Lens (Ligue 1 2026-27\, Beijing time)\n\n主场: 朗
- 斯\n客场: 昂热\n场馆: Stade Bollaert-Delelis\n城市: Lens
+DESCRIPTION:Angers at Lens (Ligue 1 2026-27\, Beijing time)\n\nSource: htt
+ ps://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -199,12 +179,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876317@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270214T040000
 DTEND;TZID=Asia/Shanghai:20270214T050000
 SUMMARY:Lens Schedule · Lens @ Lyon
-DESCRIPTION:Lens at Lyon (Ligue 1 2026-27\, Beijing time)\n\n主场: 里
- 昂\n客场: 朗斯\n场馆: Groupama Stadium\n城市: Lyon
+DESCRIPTION:Lens at Lyon (Ligue 1 2026-27\, Beijing time)\n\nSource: https
+ ://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -212,12 +192,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876311@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270221T040000
 DTEND;TZID=Asia/Shanghai:20270221T050000
 SUMMARY:Lens Schedule · Lens vs Troyes
-DESCRIPTION:Troyes at Lens (Ligue 1 2026-27\, Beijing time)\n\n主场: 朗
- 斯\n客场: 特鲁瓦\n场馆: Stade Bollaert-Delelis\n城市: Lens
+DESCRIPTION:Troyes at Lens (Ligue 1 2026-27\, Beijing time)\n\nSource: htt
+ ps://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -225,13 +205,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876296@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270301T034500
 DTEND;TZID=Asia/Shanghai:20270301T044500
 SUMMARY:Lens Schedule · Lens @ Paris Saint-Germain
 DESCRIPTION:Lens at Paris Saint-Germain (Ligue 1 2026-27\, Beijing time)\n
- \n主场: 巴黎圣日耳曼\n客场: 朗斯\n场馆: Parc des Princes\n
- 城市: Paris
+ \nSource: https://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -239,13 +218,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876293@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270307T040000
 DTEND;TZID=Asia/Shanghai:20270307T050000
 SUMMARY:Lens Schedule · Lens vs Strasbourg
-DESCRIPTION:Strasbourg at Lens (Ligue 1 2026-27\, Beijing time)\n\n主场:
-  朗斯\n客场: 斯特拉斯堡\n场馆: Stade Bollaert-Delelis\n城市: 
- Lens
+DESCRIPTION:Strasbourg at Lens (Ligue 1 2026-27\, Beijing time)\n\nSource:
+  https://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -253,12 +231,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876284@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270314T040000
 DTEND;TZID=Asia/Shanghai:20270314T050000
 SUMMARY:Lens Schedule · Lens @ Le Havre AC
-DESCRIPTION:Lens at Le Havre AC (Ligue 1 2026-27\, Beijing time)\n\n主场
- : 勒阿弗尔\n客场: 朗斯\n场馆: Stade Océane\n城市: Le Havre
+DESCRIPTION:Lens at Le Havre AC (Ligue 1 2026-27\, Beijing time)\n\nSource
+ : https://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -266,12 +244,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876276@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270321T020000
 DTEND;TZID=Asia/Shanghai:20270321T030000
 SUMMARY:Lens Schedule · Lens vs Lille
-DESCRIPTION:Lille at Lens (Ligue 1 2026-27\, Beijing time)\n\n主场: 朗
- 斯\n客场: 里尔\n场馆: Stade Bollaert-Delelis\n城市: Lens
+DESCRIPTION:Lille at Lens (Ligue 1 2026-27\, Beijing time)\n\nSource: http
+ s://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -279,13 +257,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876267@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270404T020000
 DTEND;TZID=Asia/Shanghai:20270404T030000
 SUMMARY:Lens Schedule · Lens @ AJ Auxerre
-DESCRIPTION:Lens at AJ Auxerre (Ligue 1 2026-27\, Beijing time)\n\n主场:
-  欧塞尔\n客场: 朗斯\n场馆: Stade de l'Abbé-Deschamps\n城市: Au
- xerre
+DESCRIPTION:Lens at AJ Auxerre (Ligue 1 2026-27\, Beijing time)\n\nSource:
+  https://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -293,13 +270,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876257@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270411T020000
 DTEND;TZID=Asia/Shanghai:20270411T030000
 SUMMARY:Lens Schedule · Lens @ Lorient
-DESCRIPTION:Lens at Lorient (Ligue 1 2026-27\, Beijing time)\n\n主场: 
- 洛里昂\n客场: 朗斯\n场馆: Stade du Moustoir - Yves Allainmat\n城
- 市: Lorient
+DESCRIPTION:Lens at Lorient (Ligue 1 2026-27\, Beijing time)\n\nSource: ht
+ tps://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -307,12 +283,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876246@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270418T020000
 DTEND;TZID=Asia/Shanghai:20270418T030000
 SUMMARY:Lens Schedule · Lens vs Nice
-DESCRIPTION:Nice at Lens (Ligue 1 2026-27\, Beijing time)\n\n主场: 朗
- 斯\n客场: 尼斯\n场馆: Stade Bollaert-Delelis\n城市: Lens
+DESCRIPTION:Nice at Lens (Ligue 1 2026-27\, Beijing time)\n\nSource: https
+ ://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -320,12 +296,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876235@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270425T020000
 DTEND;TZID=Asia/Shanghai:20270425T030000
 SUMMARY:Lens Schedule · Lens @ Paris FC
-DESCRIPTION:Lens at Paris FC (Ligue 1 2026-27\, Beijing time)\n\n主场: 
- 巴黎FC\n客场: 朗斯\n场馆: Stade Jean Bouin\n城市: Paris
+DESCRIPTION:Lens at Paris FC (Ligue 1 2026-27\, Beijing time)\n\nSource: h
+ ttps://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -333,12 +309,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876230@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270502T020000
 DTEND;TZID=Asia/Shanghai:20270502T030000
 SUMMARY:Lens Schedule · Lens vs Le Mans
-DESCRIPTION:Le Mans at Lens (Ligue 1 2026-27\, Beijing time)\n\n主场: 
- 朗斯\n客场: 勒芒\n场馆: Stade Bollaert-Delelis\n城市: Lens
+DESCRIPTION:Le Mans at Lens (Ligue 1 2026-27\, Beijing time)\n\nSource: ht
+ tps://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -346,12 +322,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876220@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270509T020000
 DTEND;TZID=Asia/Shanghai:20270509T030000
 SUMMARY:Lens Schedule · Lens vs AS Monaco
-DESCRIPTION:AS Monaco at Lens (Ligue 1 2026-27\, Beijing time)\n\n主场: 
- 朗斯\n客场: 摩纳哥\n场馆: Stade Bollaert-Delelis\n城市: Lens
+DESCRIPTION:AS Monaco at Lens (Ligue 1 2026-27\, Beijing time)\n\nSource: 
+ https://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -359,12 +335,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876210@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270517T020000
 DTEND;TZID=Asia/Shanghai:20270517T030000
 SUMMARY:Lens Schedule · Lens @ Marseille
-DESCRIPTION:Lens at Marseille (Ligue 1 2026-27\, Beijing time)\n\n主场: 
- 马赛\n客场: 朗斯\n场馆: Stade Vélodrome\n城市: Marseille
+DESCRIPTION:Lens at Marseille (Ligue 1 2026-27\, Beijing time)\n\nSource: 
+ https://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -372,12 +348,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876202@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270523T020000
 DTEND;TZID=Asia/Shanghai:20270523T030000
 SUMMARY:Lens Schedule · Lens vs Stade Rennais
-DESCRIPTION:Stade Rennais at Lens (Ligue 1 2026-27\, Beijing time)\n\n主
- 场: 朗斯\n客场: 雷恩\n场馆: Stade Bollaert-Delelis\n城市: Lens
+DESCRIPTION:Stade Rennais at Lens (Ligue 1 2026-27\, Beijing time)\n\nSour
+ ce: https://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -385,12 +361,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-rcl-ligue1-2026-401876195@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270530T020000
 DTEND;TZID=Asia/Shanghai:20270530T030000
 SUMMARY:Lens Schedule · Lens @ Brest
-DESCRIPTION:Lens at Brest (Ligue 1 2026-27\, Beijing time)\n\n主场: 布
- 雷斯特\n客场: 朗斯\n场馆: Stade Francis-Le Blé\n城市: Brest
+DESCRIPTION:Lens at Brest (Ligue 1 2026-27\, Beijing time)\n\nSource: http
+ s://www.ligue1.com/fixtures-results
 CATEGORIES:Lens Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED

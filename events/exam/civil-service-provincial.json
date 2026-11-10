@@ -166,9 +166,64 @@
       "details": {
         "考试科目": "行政职业能力测验、申论；部分岗位含专业科目"
       }
+    },
+    {
+      "id": "civil-service-provincial-2027-early-announcement",
+      "name": "2027年度提前批次省考公告发布",
+      "name_en": "2027 Early-Batch Provincial Civil Service Exam Announcements",
+      "date": "2026-11-05",
+      "end_date": "2026-11-05",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2027,
+      "description": "2027年提前批次省考公告集中发布期（北京、上海、江苏、浙江、山东、广东、四川、天津、西藏）。",
+      "description_en": "Announcement release period for early-batch provincial civil service exams (Beijing, Shanghai, Jiangsu, Zhejiang, Shandong, Guangdong, Sichuan, Tianjin, Xizang).",
+      "url": "https://m.gwy.com/dfgwy/415402.html",
+      "status": "completed",
+      "last_verified": "2026-11-07",
+      "verified_by": "community",
+      "details": {
+        "_provinces": "{\"浙江\":{\"batch\":\"early\",\"announcementDate\":\"2026-11-05\",\"registrationStart\":null,\"registrationEnd\":null,\"writtenExamDate\":\"2026-12-06\",\"writtenExamEndDate\":\"2026-12-06\"}}",
+        "_provinceList": "北京、天津、河北、山西、内蒙古、辽宁、吉林、黑龙江、上海、江苏、浙江、安徽、福建、江西、山东、河南、湖北、湖南、广东、广西、海南、重庆、四川、贵州、云南、西藏、陕西、甘肃、青海、宁夏、新疆、新疆兵团"
+      }
+    },
+    {
+      "id": "civil-service-provincial-2027-early-admission-ticket",
+      "name": "2027年度提前批次省考准考证打印",
+      "name_en": "2027 Early-Batch Provincial Civil Service Exam Admission Ticket Release",
+      "date": "2026-11-29",
+      "end_date": "2026-12-06",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2027,
+      "description": "2027年提前批次准考证打印窗口。",
+      "description_en": "Admission ticket printing window for early-batch provincial civil service exams.",
+      "url": "https://m.gwy.com/dfgwy/415402.html",
+      "status": "planned",
+      "last_verified": "2026-11-07",
+      "verified_by": "community"
+    },
+    {
+      "id": "civil-service-provincial-2027-early-written-exam",
+      "name": "2027年度提前批次省考笔试",
+      "name_en": "2027 Early-Batch Provincial Civil Service Exam Written Exam",
+      "date": "2026-12-06",
+      "end_date": "2026-12-06",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2027,
+      "description": "2027年提前批次省考笔试（北京、上海、江苏、浙江、山东、广东、四川、天津、西藏）。",
+      "description_en": "Written exams for early-batch provinces (Beijing, Shanghai, Jiangsu, Zhejiang, Shandong, Guangdong, Sichuan, Tianjin, Xizang).",
+      "url": "https://m.gwy.com/dfgwy/415402.html",
+      "status": "planned",
+      "last_verified": "2026-11-07",
+      "verified_by": "community",
+      "details": {
+        "考试科目": "行政职业能力测验、申论；部分岗位含专业科目"
+      }
     }
   ],
-  "last_updated": "2026-09-04",
+  "last_updated": "2026-11-07",
   "subcategory_en": "Civil Service",
   "attribution": "时间汇总来自上岸鸭公考（Gwy.com）；事件原文链接保留在每个事件中。"
 }

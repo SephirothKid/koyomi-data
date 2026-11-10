@@ -8,30 +8,15 @@ X-WR-CALDESC:Espanyol schedule in LaLiga Schedule, auto-synced.
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-UID:laliga-esp-laliga-2026-401882851@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261104T000000
-DTSTART;TZID=Asia/Shanghai:20261010T030000
-DTEND;TZID=Asia/Shanghai:20261010T040000
-SUMMARY:Espanyol Schedule · Espanyol @ Málaga
-DESCRIPTION:Espanyol at Málaga (La Liga 2026-27\, Beijing time)\n\nScore:
-  马拉加 1 - 1 西班牙人\n\n主场: 马拉加\n客场: 西班牙人\n
- 比分: 马拉加 1 - 1 西班牙人\n场馆: La Rosaleda\n城市: Malaga
-CATEGORIES:Espanyol Schedule
-URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882843@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261017T200000
 DTEND;TZID=Asia/Shanghai:20261017T210000
 SUMMARY:Espanyol Schedule · Espanyol vs Atlético Madrid
 DESCRIPTION:Atlético Madrid at Espanyol (La Liga 2026-27\, Beijing time)\
- n\nScore: 西班牙人 0 - 1 马竞\n\n主场: 西班牙人\n客场: 马
- 竞\n比分: 西班牙人 0 - 1 马竞\n场馆: RCDE Stadium\n城市: Barc
- elona
+ n\nScore: 西班牙人 0 - 1 马竞\n\nSource: https://www.laliga.com/lali
+ ga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -39,14 +24,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882831@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261024T221500
 DTEND;TZID=Asia/Shanghai:20261024T231500
 SUMMARY:Espanyol Schedule · Espanyol @ Racing Santander
 DESCRIPTION:Espanyol at Racing Santander (La Liga 2026-27\, Beijing time)\
- n\nScore: 桑坦德竞技 2 - 1 西班牙人\n\n主场: 桑坦德竞技\n
- 客场: 西班牙人\n比分: 桑坦德竞技 2 - 1 西班牙人\n场馆: 
- El Sardineros\n城市: Santander
+ n\nScore: 桑坦德竞技 2 - 1 西班牙人\n\nSource: https://www.laliga
+ .com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -54,14 +38,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882817@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261031T040000
 DTEND;TZID=Asia/Shanghai:20261031T050000
 SUMMARY:Espanyol Schedule · Espanyol @ Villarreal
 DESCRIPTION:Espanyol at Villarreal (La Liga 2026-27\, Beijing time)\n\nSco
- re: 比利亚雷亚尔 0 - 1 西班牙人\n\n主场: 比利亚雷亚尔\n
- 客场: 西班牙人\n比分: 比利亚雷亚尔 0 - 1 西班牙人\n场
- 馆: Estadio de la Cerámica\n城市: Villarreal
+ re: 比利亚雷亚尔 0 - 1 西班牙人\n\nSource: https://www.laliga.co
+ m/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -69,13 +52,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882813@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261107T231500
 DTEND;TZID=Asia/Shanghai:20261108T001500
 SUMMARY:Espanyol Schedule · Espanyol vs Deportivo
-DESCRIPTION:Deportivo at Espanyol (La Liga 2026-27\, Beijing time)\n\n主
- 场: 西班牙人\n客场: 拉科鲁尼亚\n场馆: RCDE Stadium\n城市: 
- Barcelona
+DESCRIPTION:Deportivo at Espanyol (La Liga 2026-27\, Beijing time)\n\nScor
+ e: 西班牙人 0 - 0 拉科鲁尼亚\n\nSource: https://www.laliga.com/la
+ liga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -83,13 +66,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882805@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261121T040000
 DTEND;TZID=Asia/Shanghai:20261121T050000
 SUMMARY:Espanyol Schedule · Espanyol @ Athletic Club
 DESCRIPTION:Espanyol at Athletic Club (La Liga 2026-27\, Beijing time)\n\n
- 主场: 毕尔巴鄂竞技\n客场: 西班牙人\n场馆: San Mamés\n城
- 市: Bilbao
+ Source: https://www.laliga.com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -97,12 +79,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882792@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
-DTSTART;TZID=Asia/Shanghai:20261130T040000
-DTEND;TZID=Asia/Shanghai:20261130T050000
+DTSTAMP:20261108T000000
+DTSTART;TZID=Asia/Shanghai:20261201T040000
+DTEND;TZID=Asia/Shanghai:20261201T050000
 SUMMARY:Espanyol Schedule · Espanyol vs Getafe
-DESCRIPTION:Getafe at Espanyol (La Liga 2026-27\, Beijing time)\n\n主场:
-  西班牙人\n客场: 赫塔费\n场馆: RCDE Stadium\n城市: Barcelona
+DESCRIPTION:Getafe at Espanyol (La Liga 2026-27\, Beijing time)\n\nSource:
+  https://www.laliga.com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -110,13 +92,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882786@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261207T040000
 DTEND;TZID=Asia/Shanghai:20261207T050000
 SUMMARY:Espanyol Schedule · Espanyol @ Alavés
-DESCRIPTION:Espanyol at Alavés (La Liga 2026-27\, Beijing time)\n\n主场
- : 阿拉维斯\n客场: 西班牙人\n场馆: Mendizorrotza\n城市: Vitor
- ia-Gasteiz
+DESCRIPTION:Espanyol at Alavés (La Liga 2026-27\, Beijing time)\n\nSource
+ : https://www.laliga.com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -124,13 +105,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882772@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261214T040000
 DTEND;TZID=Asia/Shanghai:20261214T050000
 SUMMARY:Espanyol Schedule · Espanyol vs Celta Vigo
-DESCRIPTION:Celta Vigo at Espanyol (La Liga 2026-27\, Beijing time)\n\n主
- 场: 西班牙人\n客场: 塞尔塔\n场馆: RCDE Stadium\n城市: Barcel
- ona
+DESCRIPTION:Celta Vigo at Espanyol (La Liga 2026-27\, Beijing time)\n\nSou
+ rce: https://www.laliga.com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -138,13 +118,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882757@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261221T040000
 DTEND;TZID=Asia/Shanghai:20261221T050000
 SUMMARY:Espanyol Schedule · Espanyol @ Valencia
-DESCRIPTION:Espanyol at Valencia (La Liga 2026-27\, Beijing time)\n\n主
- 场: 瓦伦西亚\n客场: 西班牙人\n场馆: Mestalla Stadium\n城市:
-  Manises
+DESCRIPTION:Espanyol at Valencia (La Liga 2026-27\, Beijing time)\n\nSourc
+ e: https://www.laliga.com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -152,13 +131,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882754@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270104T040000
 DTEND;TZID=Asia/Shanghai:20270104T050000
 SUMMARY:Espanyol Schedule · Espanyol vs Barcelona
-DESCRIPTION:Barcelona at Espanyol (La Liga 2026-27\, Beijing time)\n\n主
- 场: 西班牙人\n客场: 巴塞罗那\n场馆: RCDE Stadium\n城市: Bar
- celona
+DESCRIPTION:Barcelona at Espanyol (La Liga 2026-27\, Beijing time)\n\nSour
+ ce: https://www.laliga.com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -166,13 +144,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882741@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270111T040000
 DTEND;TZID=Asia/Shanghai:20270111T050000
 SUMMARY:Espanyol Schedule · Espanyol vs Real Betis
-DESCRIPTION:Real Betis at Espanyol (La Liga 2026-27\, Beijing time)\n\n主
- 场: 西班牙人\n客场: 皇家贝蒂斯\n场馆: RCDE Stadium\n城市: 
- Barcelona
+DESCRIPTION:Real Betis at Espanyol (La Liga 2026-27\, Beijing time)\n\nSou
+ rce: https://www.laliga.com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -180,13 +157,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882731@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270118T040000
 DTEND;TZID=Asia/Shanghai:20270118T050000
 SUMMARY:Espanyol Schedule · Espanyol @ Levante
-DESCRIPTION:Espanyol at Levante (La Liga 2026-27\, Beijing time)\n\n主场
- : 莱万特\n客场: 西班牙人\n场馆: Estadi Ciutat de València\n城
- 市: Manises
+DESCRIPTION:Espanyol at Levante (La Liga 2026-27\, Beijing time)\n\nSource
+ : https://www.laliga.com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -194,13 +170,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882722@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270125T040000
 DTEND;TZID=Asia/Shanghai:20270125T050000
 SUMMARY:Espanyol Schedule · Espanyol vs Villarreal
-DESCRIPTION:Villarreal at Espanyol (La Liga 2026-27\, Beijing time)\n\n主
- 场: 西班牙人\n客场: 比利亚雷亚尔\n场馆: RCDE Stadium\n城
- 市: Barcelona
+DESCRIPTION:Villarreal at Espanyol (La Liga 2026-27\, Beijing time)\n\nSou
+ rce: https://www.laliga.com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -208,13 +183,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882716@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270201T040000
 DTEND;TZID=Asia/Shanghai:20270201T050000
 SUMMARY:Espanyol Schedule · Espanyol @ Atlético Madrid
 DESCRIPTION:Espanyol at Atlético Madrid (La Liga 2026-27\, Beijing time)\
- n\n主场: 马竞\n客场: 西班牙人\n场馆: Riyadh Air Metropolitano\
- n城市: Madrid
+ n\nSource: https://www.laliga.com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -222,13 +196,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882701@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270208T040000
 DTEND;TZID=Asia/Shanghai:20270208T050000
 SUMMARY:Espanyol Schedule · Espanyol vs Rayo Vallecano
 DESCRIPTION:Rayo Vallecano at Espanyol (La Liga 2026-27\, Beijing time)\n\
- n主场: 西班牙人\n客场: 瓦列卡诺\n场馆: RCDE Stadium\n城市:
-  Barcelona
+ nSource: https://www.laliga.com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -236,13 +209,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882689@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270215T040000
 DTEND;TZID=Asia/Shanghai:20270215T050000
 SUMMARY:Espanyol Schedule · Espanyol @ Sevilla
-DESCRIPTION:Espanyol at Sevilla (La Liga 2026-27\, Beijing time)\n\n主场
- : 塞维利亚\n客场: 西班牙人\n场馆: Ramón Sánchez Pizjuán Sta
- dium\n城市: Sevilla
+DESCRIPTION:Espanyol at Sevilla (La Liga 2026-27\, Beijing time)\n\nSource
+ : https://www.laliga.com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -250,13 +222,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882682@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270222T040000
 DTEND;TZID=Asia/Shanghai:20270222T050000
 SUMMARY:Espanyol Schedule · Espanyol vs Osasuna
-DESCRIPTION:Osasuna at Espanyol (La Liga 2026-27\, Beijing time)\n\n主场
- : 西班牙人\n客场: 奥萨苏纳\n场馆: RCDE Stadium\n城市: Barcel
- ona
+DESCRIPTION:Osasuna at Espanyol (La Liga 2026-27\, Beijing time)\n\nSource
+ : https://www.laliga.com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -264,12 +235,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882674@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270301T040000
 DTEND;TZID=Asia/Shanghai:20270301T050000
 SUMMARY:Espanyol Schedule · Espanyol @ Celta Vigo
-DESCRIPTION:Espanyol at Celta Vigo (La Liga 2026-27\, Beijing time)\n\n主
- 场: 塞尔塔\n客场: 西班牙人\n场馆: Balaidos\n城市: Vigo
+DESCRIPTION:Espanyol at Celta Vigo (La Liga 2026-27\, Beijing time)\n\nSou
+ rce: https://www.laliga.com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -277,13 +248,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882662@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270308T040000
 DTEND;TZID=Asia/Shanghai:20270308T050000
 SUMMARY:Espanyol Schedule · Espanyol vs Racing Santander
 DESCRIPTION:Racing Santander at Espanyol (La Liga 2026-27\, Beijing time)\
- n\n主场: 西班牙人\n客场: 桑坦德竞技\n场馆: RCDE Stadium\n
- 城市: Barcelona
+ n\nSource: https://www.laliga.com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -291,13 +261,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882647@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270315T020000
 DTEND;TZID=Asia/Shanghai:20270315T030000
 SUMMARY:Espanyol Schedule · Espanyol @ Real Madrid
-DESCRIPTION:Espanyol at Real Madrid (La Liga 2026-27\, Beijing time)\n\n
- 主场: 皇家马德里\n客场: 西班牙人\n场馆: Santiago Bernabéu\
- n城市: Madrid
+DESCRIPTION:Espanyol at Real Madrid (La Liga 2026-27\, Beijing time)\n\nSo
+ urce: https://www.laliga.com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -305,13 +274,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882644@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270322T020000
 DTEND;TZID=Asia/Shanghai:20270322T030000
 SUMMARY:Espanyol Schedule · Espanyol vs Athletic Club
 DESCRIPTION:Athletic Club at Espanyol (La Liga 2026-27\, Beijing time)\n\n
- 主场: 西班牙人\n客场: 毕尔巴鄂竞技\n场馆: RCDE Stadium\n
- 城市: Barcelona
+ Source: https://www.laliga.com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -319,12 +287,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882631@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270405T020000
 DTEND;TZID=Asia/Shanghai:20270405T030000
 SUMMARY:Espanyol Schedule · Espanyol @ Getafe
-DESCRIPTION:Espanyol at Getafe (La Liga 2026-27\, Beijing time)\n\n主场:
-  赫塔费\n客场: 西班牙人\n场馆: Estadio Coliseum\n城市: Getafe
+DESCRIPTION:Espanyol at Getafe (La Liga 2026-27\, Beijing time)\n\nSource:
+  https://www.laliga.com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -332,12 +300,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882623@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270412T020000
 DTEND;TZID=Asia/Shanghai:20270412T030000
 SUMMARY:Espanyol Schedule · Espanyol vs Málaga
-DESCRIPTION:Málaga at Espanyol (La Liga 2026-27\, Beijing time)\n\n主场
- : 西班牙人\n客场: 马拉加\n场馆: RCDE Stadium\n城市: Barcelona
+DESCRIPTION:Málaga at Espanyol (La Liga 2026-27\, Beijing time)\n\nSource
+ : https://www.laliga.com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -345,13 +313,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882611@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270419T020000
 DTEND;TZID=Asia/Shanghai:20270419T030000
 SUMMARY:Espanyol Schedule · Espanyol @ Barcelona
-DESCRIPTION:Espanyol at Barcelona (La Liga 2026-27\, Beijing time)\n\n主
- 场: 巴塞罗那\n客场: 西班牙人\n场馆: Spotify Camp Nou\n城市:
-  Barcelona
+DESCRIPTION:Espanyol at Barcelona (La Liga 2026-27\, Beijing time)\n\nSour
+ ce: https://www.laliga.com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -359,13 +326,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882604@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270422T020000
 DTEND;TZID=Asia/Shanghai:20270422T030000
 SUMMARY:Espanyol Schedule · Espanyol vs Real Sociedad
 DESCRIPTION:Real Sociedad at Espanyol (La Liga 2026-27\, Beijing time)\n\n
- 主场: 西班牙人\n客场: 皇家社会\n场馆: RCDE Stadium\n城市: 
- Barcelona
+ Source: https://www.laliga.com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -373,13 +339,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882592@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270503T020000
 DTEND;TZID=Asia/Shanghai:20270503T030000
 SUMMARY:Espanyol Schedule · Espanyol @ Elche
-DESCRIPTION:Espanyol at Elche (La Liga 2026-27\, Beijing time)\n\n主场: 
- 埃尔切\n客场: 西班牙人\n场馆: Estadio Martínez Valero\n城市:
-  Elche
+DESCRIPTION:Espanyol at Elche (La Liga 2026-27\, Beijing time)\n\nSource: 
+ https://www.laliga.com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -387,13 +352,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882584@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270510T020000
 DTEND;TZID=Asia/Shanghai:20270510T030000
 SUMMARY:Espanyol Schedule · Espanyol @ Real Betis
-DESCRIPTION:Espanyol at Real Betis (La Liga 2026-27\, Beijing time)\n\n主
- 场: 皇家贝蒂斯\n客场: 西班牙人\n场馆: Estadio La Cartuja\n
- 城市: Sevilla
+DESCRIPTION:Espanyol at Real Betis (La Liga 2026-27\, Beijing time)\n\nSou
+ rce: https://www.laliga.com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -401,13 +365,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882573@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270517T020000
 DTEND;TZID=Asia/Shanghai:20270517T030000
 SUMMARY:Espanyol Schedule · Espanyol vs Valencia
-DESCRIPTION:Valencia at Espanyol (La Liga 2026-27\, Beijing time)\n\n主
- 场: 西班牙人\n客场: 瓦伦西亚\n场馆: RCDE Stadium\n城市: Bar
- celona
+DESCRIPTION:Valencia at Espanyol (La Liga 2026-27\, Beijing time)\n\nSourc
+ e: https://www.laliga.com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -415,13 +378,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882563@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270524T020000
 DTEND;TZID=Asia/Shanghai:20270524T030000
 SUMMARY:Espanyol Schedule · Espanyol @ Deportivo
-DESCRIPTION:Espanyol at Deportivo (La Liga 2026-27\, Beijing time)\n\n主
- 场: 拉科鲁尼亚\n客场: 西班牙人\n场馆: Riazor\n城市: La Cor
- uña
+DESCRIPTION:Espanyol at Deportivo (La Liga 2026-27\, Beijing time)\n\nSour
+ ce: https://www.laliga.com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED
@@ -429,13 +391,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laliga-esp-laliga-2026-401882553@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270531T020000
 DTEND;TZID=Asia/Shanghai:20270531T030000
 SUMMARY:Espanyol Schedule · Espanyol vs Alavés
-DESCRIPTION:Alavés at Espanyol (La Liga 2026-27\, Beijing time)\n\n主场
- : 西班牙人\n客场: 阿拉维斯\n场馆: RCDE Stadium\n城市: Barcel
- ona
+DESCRIPTION:Alavés at Espanyol (La Liga 2026-27\, Beijing time)\n\nSource
+ : https://www.laliga.com/laliga-ea-sports
 CATEGORIES:Espanyol Schedule
 URL;VALUE=URI:https://www.laliga.com/laliga-ea-sports
 STATUS:CONFIRMED

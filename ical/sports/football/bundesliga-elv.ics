@@ -9,25 +9,9 @@ X-WR-CALDESC:埃尔弗斯贝格在德甲赛程中的比赛日程，自动
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-UID:bundesliga-elv-bundesliga-2026-401884775@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261105T000000
-DTSTART;TZID=Asia/Shanghai:20261010T213000
-DTEND;TZID=Asia/Shanghai:20261010T223000
-SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 @ 柏林联合
-DESCRIPTION:埃尔弗斯贝格 作客 柏林联合（德甲 2026-27 赛季
- ，北京时间）\n\n比分: 柏林联合 1 - 0 埃尔弗斯贝格\n\n主
- 场: 柏林联合\n客场: 埃尔弗斯贝格\n比分: 柏林联合 1 - 0 
- 埃尔弗斯贝格\n场馆: Stadion An der Alten Försterei\n城市: Berli
- n
-CATEGORIES:埃尔弗斯贝格赛程
-URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884764@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261017T213000
 DTEND;TZID=Asia/Shanghai:20261017T223000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 vs 奥格斯堡
@@ -35,7 +19,8 @@ DESCRIPTION:奥格斯堡 作客 埃尔弗斯贝格（德甲 2026-27 赛季
  ，北京时间）\n\n比分: 埃尔弗斯贝格 4 - 3 奥格斯堡\n\n主
  场: 埃尔弗斯贝格\n客场: 奥格斯堡\n比分: 埃尔弗斯贝格 
  4 - 3 奥格斯堡\n场馆: URSAPHARM-Arena an der Kaiserlinde\n城市: Sp
- iesen-Elversberg
+ iesen-Elversberg\n\n来源: https://www.bundesliga.com/en/bundesliga/match
+ day
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -43,14 +28,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884762@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261024T213000
 DTEND;TZID=Asia/Shanghai:20261024T223000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 @ 莱比锡
 DESCRIPTION:埃尔弗斯贝格 作客 莱比锡（德甲 2026-27 赛季，
  北京时间）\n\n比分: 莱比锡 4 - 0 埃尔弗斯贝格\n\n主场: 
  莱比锡\n客场: 埃尔弗斯贝格\n比分: 莱比锡 4 - 0 埃尔弗
- 斯贝格\n场馆: Red Bull Arena\n城市: Leipzig
+ 斯贝格\n场馆: Red Bull Arena\n城市: Leipzig\n\n来源: https://www.
+ bundesliga.com/en/bundesliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -58,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884746@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261031T033000
 DTEND;TZID=Asia/Shanghai:20261031T043000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 vs 美因茨
@@ -66,7 +52,7 @@ DESCRIPTION:美因茨 作客 埃尔弗斯贝格（德甲 2026-27 赛季，
  北京时间）\n\n比分: 埃尔弗斯贝格 4 - 1 美因茨\n\n主场: 
  埃尔弗斯贝格\n客场: 美因茨\n比分: 埃尔弗斯贝格 4 - 1 
  美因茨\n场馆: URSAPHARM-Arena an der Kaiserlinde\n城市: Spiesen-Elv
- ersberg
+ ersberg\n\n来源: https://www.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -74,13 +60,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884745@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261107T223000
 DTEND;TZID=Asia/Shanghai:20261107T233000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 @ 多特蒙德
 DESCRIPTION:埃尔弗斯贝格 作客 多特蒙德（德甲 2026-27 赛季
- ，北京时间）\n\n主场: 多特蒙德\n客场: 埃尔弗斯贝格\n
- 场馆: Signal Iduna Park\n城市: Aue
+ ，北京时间）\n\n比分: 多特蒙德 2 - 1 埃尔弗斯贝格\n\n主
+ 场: 多特蒙德\n客场: 埃尔弗斯贝格\n比分: 多特蒙德 2 - 1 
+ 埃尔弗斯贝格\n场馆: Signal Iduna Park\n城市: Aue\n\n来源: http
+ s://www.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -88,13 +76,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884728@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261121T223000
 DTEND;TZID=Asia/Shanghai:20261121T233000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 vs 弗莱堡
 DESCRIPTION:弗莱堡 作客 埃尔弗斯贝格（德甲 2026-27 赛季，
  北京时间）\n\n主场: 埃尔弗斯贝格\n客场: 弗莱堡\n场馆: 
- URSAPHARM-Arena an der Kaiserlinde\n城市: Spiesen-Elversberg
+ URSAPHARM-Arena an der Kaiserlinde\n城市: Spiesen-Elversberg\n\n来源: 
+ https://www.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -102,13 +91,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884721@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261128T223000
 DTEND;TZID=Asia/Shanghai:20261128T233000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 @ 科隆
 DESCRIPTION:埃尔弗斯贝格 作客 科隆（德甲 2026-27 赛季，北
  京时间）\n\n主场: 科隆\n客场: 埃尔弗斯贝格\n场馆: RheinE
- nergieStadion\n城市: Cologne
+ nergieStadion\n城市: Cologne\n\n来源: https://www.bundesliga.com/en/bu
+ ndesliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -116,13 +106,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884710@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261207T003000
 DTEND;TZID=Asia/Shanghai:20261207T013000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 vs 斯图加特
 DESCRIPTION:斯图加特 作客 埃尔弗斯贝格（德甲 2026-27 赛季
  ，北京时间）\n\n主场: 埃尔弗斯贝格\n客场: 斯图加特\n
- 场馆: URSAPHARM-Arena an der Kaiserlinde\n城市: Spiesen-Elversberg
+ 场馆: URSAPHARM-Arena an der Kaiserlinde\n城市: Spiesen-Elversberg\n\n
+ 来源: https://www.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -130,13 +121,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884701@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261212T223000
 DTEND;TZID=Asia/Shanghai:20261212T233000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 @ 帕德博恩
 DESCRIPTION:埃尔弗斯贝格 作客 帕德博恩（德甲 2026-27 赛季
  ，北京时间）\n\n主场: 帕德博恩\n客场: 埃尔弗斯贝格\n
- 场馆: Home Deluxe Arena\n城市: Paderborn
+ 场馆: Home Deluxe Arena\n城市: Paderborn\n\n来源: https://www.bundes
+ liga.com/en/bundesliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -144,13 +136,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884692@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261219T223000
 DTEND;TZID=Asia/Shanghai:20261219T233000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 vs 汉堡
 DESCRIPTION:汉堡 作客 埃尔弗斯贝格（德甲 2026-27 赛季，北
  京时间）\n\n主场: 埃尔弗斯贝格\n客场: 汉堡\n场馆: URSAPH
- ARM-Arena an der Kaiserlinde\n城市: Spiesen-Elversberg
+ ARM-Arena an der Kaiserlinde\n城市: Spiesen-Elversberg\n\n来源: https:
+ //www.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -158,13 +151,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884689@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270109T223000
 DTEND;TZID=Asia/Shanghai:20270109T233000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 @ 霍芬海姆
 DESCRIPTION:埃尔弗斯贝格 作客 霍芬海姆（德甲 2026-27 赛季
  ，北京时间）\n\n主场: 霍芬海姆\n客场: 埃尔弗斯贝格\n
- 场馆: PreZero Arena\n城市: Sinsheim
+ 场馆: PreZero Arena\n城市: Sinsheim\n\n来源: https://www.bundesliga.
+ com/en/bundesliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -172,13 +166,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884674@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270114T013000
 DTEND;TZID=Asia/Shanghai:20270114T023000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 vs 法兰克福
 DESCRIPTION:法兰克福 作客 埃尔弗斯贝格（德甲 2026-27 赛季
  ，北京时间）\n\n主场: 埃尔弗斯贝格\n客场: 法兰克福\n
- 场馆: URSAPHARM-Arena an der Kaiserlinde\n城市: Spiesen-Elversberg
+ 场馆: URSAPHARM-Arena an der Kaiserlinde\n城市: Spiesen-Elversberg\n\n
+ 来源: https://www.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -186,13 +181,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884666@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270117T223000
 DTEND;TZID=Asia/Shanghai:20270117T233000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 @ 不来梅
 DESCRIPTION:埃尔弗斯贝格 作客 不来梅（德甲 2026-27 赛季，
  北京时间）\n\n主场: 不来梅\n客场: 埃尔弗斯贝格\n场馆: 
- Weserstadion\n城市: Bremen
+ Weserstadion\n城市: Bremen\n\n来源: https://www.bundesliga.com/en/bund
+ esliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -200,13 +196,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884662@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270125T003000
 DTEND;TZID=Asia/Shanghai:20270125T013000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 @ 勒沃库森
 DESCRIPTION:埃尔弗斯贝格 作客 勒沃库森（德甲 2026-27 赛季
  ，北京时间）\n\n主场: 勒沃库森\n客场: 埃尔弗斯贝格\n
- 场馆: BayArena\n城市: Leverkusen
+ 场馆: BayArena\n城市: Leverkusen\n\n来源: https://www.bundesliga.com
+ /en/bundesliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -214,7 +211,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884647@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270131T040000
 DTEND;TZID=Asia/Shanghai:20270131T050000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 vs 门兴格拉德
@@ -222,7 +219,7 @@ SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 vs 门兴格拉德
 DESCRIPTION:门兴格拉德巴赫 作客 埃尔弗斯贝格（德甲 2026-
  27 赛季，北京时间）\n\n主场: 埃尔弗斯贝格\n客场: 门兴
  格拉德巴赫\n场馆: URSAPHARM-Arena an der Kaiserlinde\n城市: Spies
- en-Elversberg
+ en-Elversberg\n\n来源: https://www.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -230,13 +227,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884646@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270207T040000
 DTEND;TZID=Asia/Shanghai:20270207T050000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 @ 拜仁慕尼黑
 DESCRIPTION:埃尔弗斯贝格 作客 拜仁慕尼黑（德甲 2026-27 赛
  季，北京时间）\n\n主场: 拜仁慕尼黑\n客场: 埃尔弗斯贝
- 格\n场馆: Allianz Arena\n城市: München
+ 格\n场馆: Allianz Arena\n城市: München\n\n来源: https://www.bundes
+ liga.com/en/bundesliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -244,13 +242,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884629@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270214T040000
 DTEND;TZID=Asia/Shanghai:20270214T050000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 vs 沙尔克04
 DESCRIPTION:沙尔克04 作客 埃尔弗斯贝格（德甲 2026-27 赛季
  ，北京时间）\n\n主场: 埃尔弗斯贝格\n客场: 沙尔克04\n场
- 馆: URSAPHARM-Arena an der Kaiserlinde\n城市: Spiesen-Elversberg
+ 馆: URSAPHARM-Arena an der Kaiserlinde\n城市: Spiesen-Elversberg\n\n来
+ 源: https://www.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -258,13 +257,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884620@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270221T040000
 DTEND;TZID=Asia/Shanghai:20270221T050000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 vs 柏林联合
 DESCRIPTION:柏林联合 作客 埃尔弗斯贝格（德甲 2026-27 赛季
  ，北京时间）\n\n主场: 埃尔弗斯贝格\n客场: 柏林联合\n
- 场馆: URSAPHARM-Arena an der Kaiserlinde\n城市: Spiesen-Elversberg
+ 场馆: URSAPHARM-Arena an der Kaiserlinde\n城市: Spiesen-Elversberg\n\n
+ 来源: https://www.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -272,13 +272,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884614@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270228T040000
 DTEND;TZID=Asia/Shanghai:20270228T050000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 @ 奥格斯堡
 DESCRIPTION:埃尔弗斯贝格 作客 奥格斯堡（德甲 2026-27 赛季
  ，北京时间）\n\n主场: 奥格斯堡\n客场: 埃尔弗斯贝格\n
- 场馆: WWK Arena\n城市: Augsburg
+ 场馆: WWK Arena\n城市: Augsburg\n\n来源: https://www.bundesliga.com/
+ en/bundesliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -286,13 +287,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884602@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270304T040000
 DTEND;TZID=Asia/Shanghai:20270304T050000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 vs 莱比锡
 DESCRIPTION:莱比锡 作客 埃尔弗斯贝格（德甲 2026-27 赛季，
  北京时间）\n\n主场: 埃尔弗斯贝格\n客场: 莱比锡\n场馆: 
- URSAPHARM-Arena an der Kaiserlinde\n城市: Spiesen-Elversberg
+ URSAPHARM-Arena an der Kaiserlinde\n城市: Spiesen-Elversberg\n\n来源: 
+ https://www.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -300,13 +302,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884596@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270307T040000
 DTEND;TZID=Asia/Shanghai:20270307T050000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 @ 美因茨
 DESCRIPTION:埃尔弗斯贝格 作客 美因茨（德甲 2026-27 赛季，
  北京时间）\n\n主场: 美因茨\n客场: 埃尔弗斯贝格\n场馆: 
- MEWA ARENA\n城市: Mainz
+ MEWA ARENA\n城市: Mainz\n\n来源: https://www.bundesliga.com/en/bundesl
+ iga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -314,13 +317,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884584@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270314T040000
 DTEND;TZID=Asia/Shanghai:20270314T050000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 vs 多特蒙德
 DESCRIPTION:多特蒙德 作客 埃尔弗斯贝格（德甲 2026-27 赛季
  ，北京时间）\n\n主场: 埃尔弗斯贝格\n客场: 多特蒙德\n
- 场馆: URSAPHARM-Arena an der Kaiserlinde\n城市: Spiesen-Elversberg
+ 场馆: URSAPHARM-Arena an der Kaiserlinde\n城市: Spiesen-Elversberg\n\n
+ 来源: https://www.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -328,13 +332,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884579@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270321T020000
 DTEND;TZID=Asia/Shanghai:20270321T030000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 @ 弗莱堡
 DESCRIPTION:埃尔弗斯贝格 作客 弗莱堡（德甲 2026-27 赛季，
  北京时间）\n\n主场: 弗莱堡\n客场: 埃尔弗斯贝格\n场馆: 
- Europa-Park Stadion\n城市: Freiburg im Breisgau
+ Europa-Park Stadion\n城市: Freiburg im Breisgau\n\n来源: https://www.b
+ undesliga.com/en/bundesliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -342,13 +347,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884566@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270404T020000
 DTEND;TZID=Asia/Shanghai:20270404T030000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 vs 科隆
 DESCRIPTION:科隆 作客 埃尔弗斯贝格（德甲 2026-27 赛季，北
  京时间）\n\n主场: 埃尔弗斯贝格\n客场: 科隆\n场馆: URSAPH
- ARM-Arena an der Kaiserlinde\n城市: Spiesen-Elversberg
+ ARM-Arena an der Kaiserlinde\n城市: Spiesen-Elversberg\n\n来源: https:
+ //www.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -356,13 +362,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884564@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270411T020000
 DTEND;TZID=Asia/Shanghai:20270411T030000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 @ 斯图加特
 DESCRIPTION:埃尔弗斯贝格 作客 斯图加特（德甲 2026-27 赛季
  ，北京时间）\n\n主场: 斯图加特\n客场: 埃尔弗斯贝格\n
- 场馆: MHPArena\n城市: Stuttgart
+ 场馆: MHPArena\n城市: Stuttgart\n\n来源: https://www.bundesliga.com/
+ en/bundesliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -370,13 +377,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884548@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270418T020000
 DTEND;TZID=Asia/Shanghai:20270418T030000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 vs 帕德博恩
 DESCRIPTION:帕德博恩 作客 埃尔弗斯贝格（德甲 2026-27 赛季
  ，北京时间）\n\n主场: 埃尔弗斯贝格\n客场: 帕德博恩\n
- 场馆: URSAPHARM-Arena an der Kaiserlinde\n城市: Spiesen-Elversberg
+ 场馆: URSAPHARM-Arena an der Kaiserlinde\n城市: Spiesen-Elversberg\n\n
+ 来源: https://www.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -384,13 +392,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884542@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270425T020000
 DTEND;TZID=Asia/Shanghai:20270425T030000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 @ 汉堡
 DESCRIPTION:埃尔弗斯贝格 作客 汉堡（德甲 2026-27 赛季，北
  京时间）\n\n主场: 汉堡\n客场: 埃尔弗斯贝格\n场馆: Volksp
- arkstadion\n城市: Hamburg Norderstedt
+ arkstadion\n城市: Hamburg Norderstedt\n\n来源: https://www.bundesliga.
+ com/en/bundesliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -398,13 +407,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884530@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270509T020000
 DTEND;TZID=Asia/Shanghai:20270509T030000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 vs 霍芬海姆
 DESCRIPTION:霍芬海姆 作客 埃尔弗斯贝格（德甲 2026-27 赛季
  ，北京时间）\n\n主场: 埃尔弗斯贝格\n客场: 霍芬海姆\n
- 场馆: URSAPHARM-Arena an der Kaiserlinde\n城市: Spiesen-Elversberg
+ 场馆: URSAPHARM-Arena an der Kaiserlinde\n城市: Spiesen-Elversberg\n\n
+ 来源: https://www.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -412,13 +422,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884525@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270516T020000
 DTEND;TZID=Asia/Shanghai:20270516T030000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 @ 法兰克福
 DESCRIPTION:埃尔弗斯贝格 作客 法兰克福（德甲 2026-27 赛季
  ，北京时间）\n\n主场: 法兰克福\n客场: 埃尔弗斯贝格\n
- 场馆: Deutsche Bank Park\n城市: Frankfurt
+ 场馆: Deutsche Bank Park\n城市: Frankfurt\n\n来源: https://www.bunde
+ sliga.com/en/bundesliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -426,13 +437,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-elv-bundesliga-2026-401884492@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270522T213000
 DTEND;TZID=Asia/Shanghai:20270522T223000
 SUMMARY:埃尔弗斯贝格赛程 · 埃尔弗斯贝格 vs 不来梅
 DESCRIPTION:不来梅 作客 埃尔弗斯贝格（德甲 2026-27 赛季，
  北京时间）\n\n主场: 埃尔弗斯贝格\n客场: 不来梅\n场馆: 
- URSAPHARM-Arena an der Kaiserlinde\n城市: Spiesen-Elversberg
+ URSAPHARM-Arena an der Kaiserlinde\n城市: Spiesen-Elversberg\n\n来源: 
+ https://www.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:埃尔弗斯贝格赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED

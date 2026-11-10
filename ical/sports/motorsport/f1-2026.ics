@@ -10,43 +10,15 @@ X-WR-CALDESC:F1 全年分站赛程，持续更新当前及未来赛季，
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-UID:f1-2026-f1-2026-r17-quali@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261103T000000
-DTSTART;TZID=Asia/Shanghai:20261010T210000
-DTEND;TZID=Asia/Shanghai:20261010T220000
-SUMMARY:F1 赛季赛程 · Singapore GP 排位赛
-DESCRIPTION:Singapore Grand Prix（北京时间）\n\ncircuit: Marina Bay 
- Street Circuit\nlocation: Marina Bay\, Singapore\nround: 第 17 站，共 
- 23 站
-CATEGORIES:F1 赛季赛程
-URL;VALUE=URI:https://www.formula1.com/en/racing/2026
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:f1-2026-f1-2026-r17-sprint@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261103T000000
-DTSTART;TZID=Asia/Shanghai:20261010T170000
-DTEND;TZID=Asia/Shanghai:20261010T180000
-SUMMARY:F1 赛季赛程 · Singapore GP 冲刺赛
-DESCRIPTION:Singapore Grand Prix（北京时间）\n\ncircuit: Marina Bay 
- Street Circuit\nlocation: Marina Bay\, Singapore\nround: 第 17 站，共 
- 23 站
-CATEGORIES:F1 赛季赛程
-URL;VALUE=URI:https://www.formula1.com/en/racing/2026
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:f1-2026-f1-2026-r17-race@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261110T000000
 DTSTART;TZID=Asia/Shanghai:20261011T200000
 DTEND;TZID=Asia/Shanghai:20261011T210000
 SUMMARY:F1 赛季赛程 · Singapore GP 正赛
 DESCRIPTION:Singapore Grand Prix（北京时间）\n\ncircuit: Marina Bay 
  Street Circuit\nlocation: Marina Bay\, Singapore\nround: 第 17 站，共 
- 23 站
+ 23 站\n\n来源: https://www.formula1.com/en/racing/2026
 CATEGORIES:F1 赛季赛程
 URL;VALUE=URI:https://www.formula1.com/en/racing/2026
 STATUS:CONFIRMED
@@ -54,12 +26,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-f1-2026-r18-quali@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261110T000000
 DTSTART;TZID=Asia/Shanghai:20261025T050000
 DTEND;TZID=Asia/Shanghai:20261025T060000
 SUMMARY:F1 赛季赛程 · United States GP 排位赛
 DESCRIPTION:United States Grand Prix（北京时间）\n\ncircuit: Circuit
-  of the Americas\nlocation: Austin\, USA\nround: 第 18 站，共 23 站
+  of the Americas\nlocation: Austin\, USA\nround: 第 18 站，共 23 站\n
+ \n来源: https://www.formula1.com/en/racing/2026
 CATEGORIES:F1 赛季赛程
 URL;VALUE=URI:https://www.formula1.com/en/racing/2026
 STATUS:CONFIRMED
@@ -67,12 +40,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-f1-2026-r18-race@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261110T000000
 DTSTART;TZID=Asia/Shanghai:20261026T040000
 DTEND;TZID=Asia/Shanghai:20261026T050000
 SUMMARY:F1 赛季赛程 · United States GP 正赛
 DESCRIPTION:United States Grand Prix（北京时间）\n\ncircuit: Circuit
-  of the Americas\nlocation: Austin\, USA\nround: 第 18 站，共 23 站
+  of the Americas\nlocation: Austin\, USA\nround: 第 18 站，共 23 站\n
+ \n来源: https://www.formula1.com/en/racing/2026
 CATEGORIES:F1 赛季赛程
 URL;VALUE=URI:https://www.formula1.com/en/racing/2026
 STATUS:CONFIRMED
@@ -80,13 +54,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-f1-2026-r19-quali@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261110T000000
 DTSTART;TZID=Asia/Shanghai:20261101T050000
 DTEND;TZID=Asia/Shanghai:20261101T060000
 SUMMARY:F1 赛季赛程 · Mexico City GP 排位赛
 DESCRIPTION:Mexico City Grand Prix（北京时间）\n\ncircuit: Autódrom
  o Hermanos Rodríguez\nlocation: Mexico City\, Mexico\nround: 第 19 站
- ，共 23 站
+ ，共 23 站\n\n来源: https://www.formula1.com/en/racing/2026
 CATEGORIES:F1 赛季赛程
 URL;VALUE=URI:https://www.formula1.com/en/racing/2026
 STATUS:CONFIRMED
@@ -94,13 +68,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-f1-2026-r19-race@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261110T000000
 DTSTART;TZID=Asia/Shanghai:20261102T040000
 DTEND;TZID=Asia/Shanghai:20261102T050000
 SUMMARY:F1 赛季赛程 · Mexico City GP 正赛
 DESCRIPTION:Mexico City Grand Prix（北京时间）\n\ncircuit: Autódrom
  o Hermanos Rodríguez\nlocation: Mexico City\, Mexico\nround: 第 19 站
- ，共 23 站
+ ，共 23 站\n\n来源: https://www.formula1.com/en/racing/2026
 CATEGORIES:F1 赛季赛程
 URL;VALUE=URI:https://www.formula1.com/en/racing/2026
 STATUS:CONFIRMED
@@ -108,13 +82,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-f1-2026-r20-quali@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261110T000000
 DTSTART;TZID=Asia/Shanghai:20261108T020000
 DTEND;TZID=Asia/Shanghai:20261108T030000
 SUMMARY:F1 赛季赛程 · Brazilian GP 排位赛
 DESCRIPTION:Brazilian Grand Prix（北京时间）\n\ncircuit: Autódromo 
  José Carlos Pace\nlocation: São Paulo\, Brazil\nround: 第 20 站，共 
- 23 站
+ 23 站\n\n来源: https://www.formula1.com/en/racing/2026
 CATEGORIES:F1 赛季赛程
 URL;VALUE=URI:https://www.formula1.com/en/racing/2026
 STATUS:CONFIRMED
@@ -122,13 +96,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-f1-2026-r20-race@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261110T000000
 DTSTART;TZID=Asia/Shanghai:20261109T010000
 DTEND;TZID=Asia/Shanghai:20261109T020000
 SUMMARY:F1 赛季赛程 · Brazilian GP 正赛
 DESCRIPTION:Brazilian Grand Prix（北京时间）\n\ncircuit: Autódromo 
  José Carlos Pace\nlocation: São Paulo\, Brazil\nround: 第 20 站，共 
- 23 站
+ 23 站\n\n来源: https://www.formula1.com/en/racing/2026
 CATEGORIES:F1 赛季赛程
 URL;VALUE=URI:https://www.formula1.com/en/racing/2026
 STATUS:CONFIRMED
@@ -136,13 +110,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-f1-2026-r21-quali@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261110T000000
 DTSTART;TZID=Asia/Shanghai:20261121T120000
 DTEND;TZID=Asia/Shanghai:20261121T130000
 SUMMARY:F1 赛季赛程 · Las Vegas GP 排位赛
 DESCRIPTION:Las Vegas Grand Prix（北京时间）\n\ncircuit: Las Vegas S
  trip Street Circuit\nlocation: Las Vegas\, USA\nround: 第 21 站，共 23
-  站
+  站\n\n来源: https://www.formula1.com/en/racing/2026
 CATEGORIES:F1 赛季赛程
 URL;VALUE=URI:https://www.formula1.com/en/racing/2026
 STATUS:CONFIRMED
@@ -150,13 +124,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-f1-2026-r21-race@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261110T000000
 DTSTART;TZID=Asia/Shanghai:20261122T120000
 DTEND;TZID=Asia/Shanghai:20261122T130000
 SUMMARY:F1 赛季赛程 · Las Vegas GP 正赛
 DESCRIPTION:Las Vegas Grand Prix（北京时间）\n\ncircuit: Las Vegas S
  trip Street Circuit\nlocation: Las Vegas\, USA\nround: 第 21 站，共 23
-  站
+  站\n\n来源: https://www.formula1.com/en/racing/2026
 CATEGORIES:F1 赛季赛程
 URL;VALUE=URI:https://www.formula1.com/en/racing/2026
 STATUS:CONFIRMED
@@ -164,12 +138,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-f1-2026-r22-quali@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261110T000000
 DTSTART;TZID=Asia/Shanghai:20261129T020000
 DTEND;TZID=Asia/Shanghai:20261129T030000
 SUMMARY:F1 赛季赛程 · Qatar GP 排位赛
 DESCRIPTION:Qatar Grand Prix（北京时间）\n\ncircuit: Lusail Internat
- ional Circuit\nlocation: Lusail\, Qatar\nround: 第 22 站，共 23 站
+ ional Circuit\nlocation: Lusail\, Qatar\nround: 第 22 站，共 23 站\n\
+ n来源: https://www.formula1.com/en/racing/2026
 CATEGORIES:F1 赛季赛程
 URL;VALUE=URI:https://www.formula1.com/en/racing/2026
 STATUS:CONFIRMED
@@ -177,12 +152,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-f1-2026-r22-race@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261110T000000
 DTSTART;TZID=Asia/Shanghai:20261130T000000
 DTEND;TZID=Asia/Shanghai:20261130T010000
 SUMMARY:F1 赛季赛程 · Qatar GP 正赛
 DESCRIPTION:Qatar Grand Prix（北京时间）\n\ncircuit: Lusail Internat
- ional Circuit\nlocation: Lusail\, Qatar\nround: 第 22 站，共 23 站
+ ional Circuit\nlocation: Lusail\, Qatar\nround: 第 22 站，共 23 站\n\
+ n来源: https://www.formula1.com/en/racing/2026
 CATEGORIES:F1 赛季赛程
 URL;VALUE=URI:https://www.formula1.com/en/racing/2026
 STATUS:CONFIRMED
@@ -190,12 +166,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-f1-2026-r23-quali@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261110T000000
 DTSTART;TZID=Asia/Shanghai:20261205T220000
 DTEND;TZID=Asia/Shanghai:20261205T230000
 SUMMARY:F1 赛季赛程 · Abu Dhabi GP 排位赛
 DESCRIPTION:Abu Dhabi Grand Prix（北京时间）\n\ncircuit: Yas Marina 
- Circuit\nlocation: Abu Dhabi\, UAE\nround: 第 23 站，共 23 站
+ Circuit\nlocation: Abu Dhabi\, UAE\nround: 第 23 站，共 23 站\n\n来
+ 源: https://www.formula1.com/en/racing/2026
 CATEGORIES:F1 赛季赛程
 URL;VALUE=URI:https://www.formula1.com/en/racing/2026
 STATUS:CONFIRMED
@@ -203,12 +180,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-f1-2026-r23-race@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261110T000000
 DTSTART;TZID=Asia/Shanghai:20261206T210000
 DTEND;TZID=Asia/Shanghai:20261206T220000
 SUMMARY:F1 赛季赛程 · Abu Dhabi GP 正赛
 DESCRIPTION:Abu Dhabi Grand Prix（北京时间）\n\ncircuit: Yas Marina 
- Circuit\nlocation: Abu Dhabi\, UAE\nround: 第 23 站，共 23 站
+ Circuit\nlocation: Abu Dhabi\, UAE\nround: 第 23 站，共 23 站\n\n来
+ 源: https://www.formula1.com/en/racing/2026
 CATEGORIES:F1 赛季赛程
 URL;VALUE=URI:https://www.formula1.com/en/racing/2026
 STATUS:CONFIRMED

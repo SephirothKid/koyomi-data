@@ -8,29 +8,14 @@ X-WR-CALDESC:Lyon schedule in Ligue 1 Schedule, auto-synced.
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-UID:ligue1-lyon-ligue1-2026-401876447@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261104T000000
-DTSTART;TZID=Asia/Shanghai:20261010T024500
-DTEND;TZID=Asia/Shanghai:20261010T034500
-SUMMARY:Lyon Schedule · Lyon @ Lens
-DESCRIPTION:Lyon at Lens (Ligue 1 2026-27\, Beijing time)\n\nScore: 朗斯
-  2 - 1 里昂\n\n主场: 朗斯\n客场: 里昂\n比分: 朗斯 2 - 1 里
- 昂\n场馆: Stade Bollaert-Delelis\n城市: Lens
-CATEGORIES:Lyon Schedule
-URL;VALUE=URI:https://www.ligue1.com/fixtures-results
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876434@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261019T024500
 DTEND;TZID=Asia/Shanghai:20261019T034500
 SUMMARY:Lyon Schedule · Lyon vs Nice
 DESCRIPTION:Nice at Lyon (Ligue 1 2026-27\, Beijing time)\n\nScore: 里昂
-  2 - 1 尼斯\n\n主场: 里昂\n客场: 尼斯\n比分: 里昂 2 - 1 尼
- 斯\n场馆: Groupama Stadium\n城市: Lyon
+  2 - 1 尼斯\n\nSource: https://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -38,14 +23,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876422@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261027T033000
 DTEND;TZID=Asia/Shanghai:20261027T043000
 SUMMARY:Lyon Schedule · Lyon @ Paris Saint-Germain
 DESCRIPTION:Lyon at Paris Saint-Germain (Ligue 1 2026-27\, Beijing time)\n
- \nScore: 巴黎圣日耳曼 2 - 0 里昂\n\n主场: 巴黎圣日耳曼\n
- 客场: 里昂\n比分: 巴黎圣日耳曼 2 - 0 里昂\n场馆: Parc des 
- Princes\n城市: Paris
+ \nScore: 巴黎圣日耳曼 2 - 0 里昂\n\nSource: https://www.ligue1.com
+ /fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -53,13 +37,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876418@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261102T001500
 DTEND;TZID=Asia/Shanghai:20261102T011500
 SUMMARY:Lyon Schedule · Lyon vs Angers
 DESCRIPTION:Angers at Lyon (Ligue 1 2026-27\, Beijing time)\n\nScore: 里
- 昂 2 - 0 昂热\n\n主场: 里昂\n客场: 昂热\n比分: 里昂 2 - 0 
- 昂热\n场馆: Groupama Stadium\n城市: Lyon
+ 昂 2 - 0 昂热\n\nSource: https://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -67,12 +50,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876410@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261109T001500
 DTEND;TZID=Asia/Shanghai:20261109T011500
 SUMMARY:Lyon Schedule · Lyon @ Brest
-DESCRIPTION:Lyon at Brest (Ligue 1 2026-27\, Beijing time)\n\n主场: 布
- 雷斯特\n客场: 里昂\n场馆: Stade Francis-Le Blé\n城市: Brest
+DESCRIPTION:Lyon at Brest (Ligue 1 2026-27\, Beijing time)\n\nScore: 布
+ 雷斯特 2 - 0 里昂\n\nSource: https://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -80,13 +63,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876402@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261122T034500
 DTEND;TZID=Asia/Shanghai:20261122T044500
 SUMMARY:Lyon Schedule · Lyon @ Lille
-DESCRIPTION:Lyon at Lille (Ligue 1 2026-27\, Beijing time)\n\n主场: 里
- 尔\n客场: 里昂\n场馆: Decathlon Arena - Stade Pierre-Mauroy\n城市
- : Lille
+DESCRIPTION:Lyon at Lille (Ligue 1 2026-27\, Beijing time)\n\nSource: http
+ s://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -94,12 +76,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876389@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261130T034500
 DTEND;TZID=Asia/Shanghai:20261130T044500
 SUMMARY:Lyon Schedule · Lyon vs AS Monaco
-DESCRIPTION:AS Monaco at Lyon (Ligue 1 2026-27\, Beijing time)\n\n主场: 
- 里昂\n客场: 摩纳哥\n场馆: Groupama Stadium\n城市: Lyon
+DESCRIPTION:AS Monaco at Lyon (Ligue 1 2026-27\, Beijing time)\n\nSource: 
+ https://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -107,12 +89,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876377@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261206T220000
 DTEND;TZID=Asia/Shanghai:20261206T230000
 SUMMARY:Lyon Schedule · Lyon @ Troyes
-DESCRIPTION:Lyon at Troyes (Ligue 1 2026-27\, Beijing time)\n\n主场: 特
- 鲁瓦\n客场: 里昂\n场馆: Stade de l'Aube\n城市: Paris
+DESCRIPTION:Lyon at Troyes (Ligue 1 2026-27\, Beijing time)\n\nSource: htt
+ ps://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -120,12 +102,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876368@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261214T034500
 DTEND;TZID=Asia/Shanghai:20261214T044500
 SUMMARY:Lyon Schedule · Lyon vs Marseille
-DESCRIPTION:Marseille at Lyon (Ligue 1 2026-27\, Beijing time)\n\n主场: 
- 里昂\n客场: 马赛\n场馆: Groupama Stadium\n城市: Lyon
+DESCRIPTION:Marseille at Lyon (Ligue 1 2026-27\, Beijing time)\n\nSource: 
+ https://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -133,12 +115,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876366@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270103T220000
 DTEND;TZID=Asia/Shanghai:20270103T230000
 SUMMARY:Lyon Schedule · Lyon @ Le Mans
-DESCRIPTION:Lyon at Le Mans (Ligue 1 2026-27\, Beijing time)\n\n主场: 
- 勒芒\n客场: 里昂\n场馆: Stade Marie-Marvingt\n城市: Le Mans
+DESCRIPTION:Lyon at Le Mans (Ligue 1 2026-27\, Beijing time)\n\nSource: ht
+ tps://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -146,12 +128,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876356@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270118T034500
 DTEND;TZID=Asia/Shanghai:20270118T044500
 SUMMARY:Lyon Schedule · Lyon vs Lorient
-DESCRIPTION:Lorient at Lyon (Ligue 1 2026-27\, Beijing time)\n\n主场: 
- 里昂\n客场: 洛里昂\n场馆: Groupama Stadium\n城市: Lyon
+DESCRIPTION:Lorient at Lyon (Ligue 1 2026-27\, Beijing time)\n\nSource: ht
+ tps://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -159,13 +141,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876343@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270125T034500
 DTEND;TZID=Asia/Shanghai:20270125T044500
 SUMMARY:Lyon Schedule · Lyon @ Strasbourg
-DESCRIPTION:Lyon at Strasbourg (Ligue 1 2026-27\, Beijing time)\n\n主场:
-  斯特拉斯堡\n客场: 里昂\n场馆: Stade de la Meinau\n城市: Stra
- sbourg
+DESCRIPTION:Lyon at Strasbourg (Ligue 1 2026-27\, Beijing time)\n\nSource:
+  https://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -173,12 +154,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876337@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270201T034500
 DTEND;TZID=Asia/Shanghai:20270201T044500
 SUMMARY:Lyon Schedule · Lyon vs Lille
-DESCRIPTION:Lille at Lyon (Ligue 1 2026-27\, Beijing time)\n\n主场: 里
- 昂\n客场: 里尔\n场馆: Groupama Stadium\n城市: Lyon
+DESCRIPTION:Lille at Lyon (Ligue 1 2026-27\, Beijing time)\n\nSource: http
+ s://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -186,12 +167,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876326@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270207T040000
 DTEND;TZID=Asia/Shanghai:20270207T050000
 SUMMARY:Lyon Schedule · Lyon @ Stade Rennais
-DESCRIPTION:Lyon at Stade Rennais (Ligue 1 2026-27\, Beijing time)\n\n主
- 场: 雷恩\n客场: 里昂\n场馆: Roazhon Park\n城市: Rennes
+DESCRIPTION:Lyon at Stade Rennais (Ligue 1 2026-27\, Beijing time)\n\nSour
+ ce: https://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -199,12 +180,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876317@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270214T040000
 DTEND;TZID=Asia/Shanghai:20270214T050000
 SUMMARY:Lyon Schedule · Lyon vs Lens
-DESCRIPTION:Lens at Lyon (Ligue 1 2026-27\, Beijing time)\n\n主场: 里
- 昂\n客场: 朗斯\n场馆: Groupama Stadium\n城市: Lyon
+DESCRIPTION:Lens at Lyon (Ligue 1 2026-27\, Beijing time)\n\nSource: https
+ ://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -212,12 +193,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876312@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270221T040000
 DTEND;TZID=Asia/Shanghai:20270221T050000
 SUMMARY:Lyon Schedule · Lyon @ Le Havre AC
-DESCRIPTION:Lyon at Le Havre AC (Ligue 1 2026-27\, Beijing time)\n\n主场
- : 勒阿弗尔\n客场: 里昂\n场馆: Stade Océane\n城市: Le Havre
+DESCRIPTION:Lyon at Le Havre AC (Ligue 1 2026-27\, Beijing time)\n\nSource
+ : https://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -225,12 +206,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876300@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270228T040000
 DTEND;TZID=Asia/Shanghai:20270228T050000
 SUMMARY:Lyon Schedule · Lyon vs Toulouse
-DESCRIPTION:Toulouse at Lyon (Ligue 1 2026-27\, Beijing time)\n\n主场: 
- 里昂\n客场: 图卢兹\n场馆: Groupama Stadium\n城市: Lyon
+DESCRIPTION:Toulouse at Lyon (Ligue 1 2026-27\, Beijing time)\n\nSource: h
+ ttps://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -238,12 +219,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876291@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270307T040000
 DTEND;TZID=Asia/Shanghai:20270307T050000
 SUMMARY:Lyon Schedule · Lyon @ AS Monaco
-DESCRIPTION:Lyon at AS Monaco (Ligue 1 2026-27\, Beijing time)\n\n主场: 
- 摩纳哥\n客场: 里昂\n场馆: Stade Louis II\n城市: Monaco
+DESCRIPTION:Lyon at AS Monaco (Ligue 1 2026-27\, Beijing time)\n\nSource: 
+ https://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -251,12 +232,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876282@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270314T040000
 DTEND;TZID=Asia/Shanghai:20270314T050000
 SUMMARY:Lyon Schedule · Lyon vs Troyes
-DESCRIPTION:Troyes at Lyon (Ligue 1 2026-27\, Beijing time)\n\n主场: 里
- 昂\n客场: 特鲁瓦\n场馆: Groupama Stadium\n城市: Lyon
+DESCRIPTION:Troyes at Lyon (Ligue 1 2026-27\, Beijing time)\n\nSource: htt
+ ps://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -264,12 +245,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876269@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270322T034500
 DTEND;TZID=Asia/Shanghai:20270322T044500
 SUMMARY:Lyon Schedule · Lyon @ Marseille
-DESCRIPTION:Lyon at Marseille (Ligue 1 2026-27\, Beijing time)\n\n主场: 
- 马赛\n客场: 里昂\n场馆: Stade Vélodrome\n城市: Marseille
+DESCRIPTION:Lyon at Marseille (Ligue 1 2026-27\, Beijing time)\n\nSource: 
+ https://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -277,12 +258,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876262@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270404T020000
 DTEND;TZID=Asia/Shanghai:20270404T030000
 SUMMARY:Lyon Schedule · Lyon @ Nice
-DESCRIPTION:Lyon at Nice (Ligue 1 2026-27\, Beijing time)\n\n主场: 尼
- 斯\n客场: 里昂\n场馆: Allianz Riviera\n城市: Nice
+DESCRIPTION:Lyon at Nice (Ligue 1 2026-27\, Beijing time)\n\nSource: https
+ ://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -290,12 +271,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876256@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270411T020000
 DTEND;TZID=Asia/Shanghai:20270411T030000
 SUMMARY:Lyon Schedule · Lyon vs Strasbourg
-DESCRIPTION:Strasbourg at Lyon (Ligue 1 2026-27\, Beijing time)\n\n主场:
-  里昂\n客场: 斯特拉斯堡\n场馆: Groupama Stadium\n城市: Lyon
+DESCRIPTION:Strasbourg at Lyon (Ligue 1 2026-27\, Beijing time)\n\nSource:
+  https://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -303,12 +284,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876250@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270418T020000
 DTEND;TZID=Asia/Shanghai:20270418T030000
 SUMMARY:Lyon Schedule · Lyon @ Angers
-DESCRIPTION:Lyon at Angers (Ligue 1 2026-27\, Beijing time)\n\n主场: 昂
- 热\n客场: 里昂\n场馆: Stade Raymond Kopa\n城市: Angers
+DESCRIPTION:Lyon at Angers (Ligue 1 2026-27\, Beijing time)\n\nSource: htt
+ ps://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -316,12 +297,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876238@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270425T020000
 DTEND;TZID=Asia/Shanghai:20270425T030000
 SUMMARY:Lyon Schedule · Lyon vs Brest
-DESCRIPTION:Brest at Lyon (Ligue 1 2026-27\, Beijing time)\n\n主场: 里
- 昂\n客场: 布雷斯特\n场馆: Groupama Stadium\n城市: Lyon
+DESCRIPTION:Brest at Lyon (Ligue 1 2026-27\, Beijing time)\n\nSource: http
+ s://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -329,13 +310,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876232@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270502T020000
 DTEND;TZID=Asia/Shanghai:20270502T030000
 SUMMARY:Lyon Schedule · Lyon @ AJ Auxerre
-DESCRIPTION:Lyon at AJ Auxerre (Ligue 1 2026-27\, Beijing time)\n\n主场:
-  欧塞尔\n客场: 里昂\n场馆: Stade de l'Abbé-Deschamps\n城市: Au
- xerre
+DESCRIPTION:Lyon at AJ Auxerre (Ligue 1 2026-27\, Beijing time)\n\nSource:
+  https://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -343,13 +323,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876215@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270510T024500
 DTEND;TZID=Asia/Shanghai:20270510T034500
 SUMMARY:Lyon Schedule · Lyon vs Paris Saint-Germain
 DESCRIPTION:Paris Saint-Germain at Lyon (Ligue 1 2026-27\, Beijing time)\n
- \n主场: 里昂\n客场: 巴黎圣日耳曼\n场馆: Groupama Stadium\n
- 城市: Lyon
+ \nSource: https://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -357,12 +336,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876211@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270517T020000
 DTEND;TZID=Asia/Shanghai:20270517T030000
 SUMMARY:Lyon Schedule · Lyon vs Le Mans
-DESCRIPTION:Le Mans at Lyon (Ligue 1 2026-27\, Beijing time)\n\n主场: 
- 里昂\n客场: 勒芒\n场馆: Groupama Stadium\n城市: Lyon
+DESCRIPTION:Le Mans at Lyon (Ligue 1 2026-27\, Beijing time)\n\nSource: ht
+ tps://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -370,13 +349,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876201@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270523T020000
 DTEND;TZID=Asia/Shanghai:20270523T030000
 SUMMARY:Lyon Schedule · Lyon @ Lorient
-DESCRIPTION:Lyon at Lorient (Ligue 1 2026-27\, Beijing time)\n\n主场: 
- 洛里昂\n客场: 里昂\n场馆: Stade du Moustoir - Yves Allainmat\n城
- 市: Lorient
+DESCRIPTION:Lyon at Lorient (Ligue 1 2026-27\, Beijing time)\n\nSource: ht
+ tps://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED
@@ -384,12 +362,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ligue1-lyon-ligue1-2026-401876193@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270530T020000
 DTEND;TZID=Asia/Shanghai:20270530T030000
 SUMMARY:Lyon Schedule · Lyon vs Paris FC
-DESCRIPTION:Paris FC at Lyon (Ligue 1 2026-27\, Beijing time)\n\n主场: 
- 里昂\n客场: 巴黎FC\n场馆: Groupama Stadium\n城市: Lyon
+DESCRIPTION:Paris FC at Lyon (Ligue 1 2026-27\, Beijing time)\n\nSource: h
+ ttps://www.ligue1.com/fixtures-results
 CATEGORIES:Lyon Schedule
 URL;VALUE=URI:https://www.ligue1.com/fixtures-results
 STATUS:CONFIRMED

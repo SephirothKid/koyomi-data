@@ -9,29 +9,10 @@ X-WR-CALDESC:青岛海牛在中超赛程中的比赛日程，自动同步
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-UID:csl-a3rgv4o76uowd2gxzx9pgf02d-csl-2026-8k0kkw9q7t35172sozekqth5g@koyom
- i.cast
-SEQUENCE:0
-DTSTAMP:20261024T000000
-DTSTART;TZID=Asia/Shanghai:20261009T193500
-DTEND;TZID=Asia/Shanghai:20261009T203500
-SUMMARY:青岛海牛赛程 · 联赛 · 青岛海牛 vs 北京国安
-DESCRIPTION:北京国安 作客 青岛海牛（中超 2026 赛季，北京
- 时间）\n\n比分: 青岛海牛 0 - 3 北京国安\n\n阶段: 联赛\n
- 轮次: 第 27 轮\n主场: 青岛海牛\n客场: 北京国安\n比分: 
- 青岛海牛 0 - 3 北京国安\n场馆: 青岛青春足球场
-CATEGORIES:青岛海牛赛程
-URL;VALUE=URI:https://www.cfl-china.cn/zh/fixtures/details.html?match_id=8
- k0kkw9q7t35172sozekqth5g&competition_code=CSL&local_date=2026-10-09&home_c
- ontestant_id=a3rgv4o76uowd2gxzx9pgf02d&away_contestant_id=exq7je02eprk5fcr
- e1uo9zwbi
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:csl-a3rgv4o76uowd2gxzx9pgf02d-csl-2026-8niq7sowro1rj00axvh8wuhw4@koyom
  i.cast
 SEQUENCE:0
-DTSTAMP:20261024T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261017T193500
 DTEND;TZID=Asia/Shanghai:20261017T203500
 SUMMARY:青岛海牛赛程 · 联赛 · 青岛海牛 vs 辽宁铁人楠波
@@ -40,7 +21,10 @@ DESCRIPTION:辽宁铁人楠波湾 作客 青岛海牛（中超 2026 赛季
  ，北京时间）\n\n比分: 青岛海牛 0 - 4 辽宁铁人楠波湾\n\n
  阶段: 联赛\n轮次: 第 28 轮\n主场: 青岛海牛\n客场: 辽宁
  铁人楠波湾\n比分: 青岛海牛 0 - 4 辽宁铁人楠波湾\n场馆:
-  青岛青春足球场
+  青岛青春足球场\n\n来源: https://www.cfl-china.cn/zh/fixtures/det
+ ails.html?match_id=8niq7sowro1rj00axvh8wuhw4&competition_code=CSL&local_da
+ te=2026-10-17&home_contestant_id=a3rgv4o76uowd2gxzx9pgf02d&away_contestant
+ _id=7u46yssnarhr1uyxsmv4q5x3q
 CATEGORIES:青岛海牛赛程
 URL;VALUE=URI:https://www.cfl-china.cn/zh/fixtures/details.html?match_id=8
  niq7sowro1rj00axvh8wuhw4&competition_code=CSL&local_date=2026-10-17&home_c
@@ -52,14 +36,18 @@ BEGIN:VEVENT
 UID:csl-a3rgv4o76uowd2gxzx9pgf02d-csl-2026-8v6m0bctz5blsq96salwi1lp0@koyom
  i.cast
 SEQUENCE:0
-DTSTAMP:20261024T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261024T153000
 DTEND;TZID=Asia/Shanghai:20261024T163000
 SUMMARY:青岛海牛赛程 · 联赛 · 青岛海牛 @ 重庆铜梁龙
 DESCRIPTION:青岛海牛 作客 重庆铜梁龙（中超 2026 赛季，北
  京时间）\n\n比分: 重庆铜梁龙 2 - 0 青岛海牛\n\n阶段: 联
  赛\n轮次: 第 29 轮\n主场: 重庆铜梁龙\n客场: 青岛海牛\n
- 比分: 重庆铜梁龙 2 - 0 青岛海牛\n场馆: 铜梁龙体育场
+ 比分: 重庆铜梁龙 2 - 0 青岛海牛\n场馆: 铜梁龙体育场\n\n
+ 来源: https://www.cfl-china.cn/zh/fixtures/details.html?match_id=8v6m0bc
+ tz5blsq96salwi1lp0&competition_code=CSL&local_date=2026-10-24&home_contest
+ ant_id=cjnb1ayk5mruxqpud9qmy4t1w&away_contestant_id=a3rgv4o76uowd2gxzx9pgf
+ 02d
 CATEGORIES:青岛海牛赛程
 URL;VALUE=URI:https://www.cfl-china.cn/zh/fixtures/details.html?match_id=8
  v6m0bctz5blsq96salwi1lp0&competition_code=CSL&local_date=2026-10-24&home_c
@@ -71,13 +59,18 @@ BEGIN:VEVENT
 UID:csl-a3rgv4o76uowd2gxzx9pgf02d-csl-2026-904dvradb9wz6k5csaexxajh0@koyom
  i.cast
 SEQUENCE:0
-DTSTAMP:20261024T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261108T153000
 DTEND;TZID=Asia/Shanghai:20261108T163000
 SUMMARY:青岛海牛赛程 · 联赛 · 青岛海牛 vs 深圳新鹏城
 DESCRIPTION:深圳新鹏城 作客 青岛海牛（中超 2026 赛季，北
- 京时间）\n\n阶段: 联赛\n轮次: 第 30 轮\n主场: 青岛海牛\n
- 客场: 深圳新鹏城\n场馆: 青岛青春足球场
+ 京时间）\n\n比分: 青岛海牛 2 - 2 深圳新鹏城\n\n阶段: 联
+ 赛\n轮次: 第 30 轮\n主场: 青岛海牛\n客场: 深圳新鹏城\n
+ 比分: 青岛海牛 2 - 2 深圳新鹏城\n场馆: 青岛青春足球场\
+ n\n来源: https://www.cfl-china.cn/zh/fixtures/details.html?match_id=904d
+ vradb9wz6k5csaexxajh0&competition_code=CSL&local_date=2026-11-08&home_cont
+ estant_id=a3rgv4o76uowd2gxzx9pgf02d&away_contestant_id=a1a0zo3jliehxemg6qp
+ a3lrva
 CATEGORIES:青岛海牛赛程
 URL;VALUE=URI:https://www.cfl-china.cn/zh/fixtures/details.html?match_id=9
  04dvradb9wz6k5csaexxajh0&competition_code=CSL&local_date=2026-11-08&home_c

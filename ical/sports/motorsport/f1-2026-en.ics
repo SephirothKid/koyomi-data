@@ -10,43 +10,15 @@ X-WR-CALDESC:Formula 1 season schedule, updated continuously for current a
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-UID:f1-2026-f1-2026-r17-quali@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261103T000000
-DTSTART;TZID=Asia/Shanghai:20261010T210000
-DTEND;TZID=Asia/Shanghai:20261010T220000
-SUMMARY:Formula 1 Season · Singapore Grand Prix Qualifying
-DESCRIPTION:Singapore Grand Prix Qualifying at Marina Bay Street Circuit (
- Beijing time)\n\ncircuit: Marina Bay Street Circuit\nlocation: Marina Bay\
- , Singapore\nround: 第 17 站，共 23 站
-CATEGORIES:Formula 1 Season
-URL;VALUE=URI:https://www.formula1.com/en/racing/2026
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:f1-2026-f1-2026-r17-sprint@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261103T000000
-DTSTART;TZID=Asia/Shanghai:20261010T170000
-DTEND;TZID=Asia/Shanghai:20261010T180000
-SUMMARY:Formula 1 Season · Singapore Grand Prix Sprint
-DESCRIPTION:Singapore Grand Prix Sprint at Marina Bay Street Circuit (Beij
- ing time)\n\ncircuit: Marina Bay Street Circuit\nlocation: Marina Bay\, Si
- ngapore\nround: 第 17 站，共 23 站
-CATEGORIES:Formula 1 Season
-URL;VALUE=URI:https://www.formula1.com/en/racing/2026
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:f1-2026-f1-2026-r17-race@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261110T000000
 DTSTART;TZID=Asia/Shanghai:20261011T200000
 DTEND;TZID=Asia/Shanghai:20261011T210000
 SUMMARY:Formula 1 Season · Singapore Grand Prix
 DESCRIPTION:Singapore Grand Prix at Marina Bay Street Circuit (Beijing tim
  e)\n\ncircuit: Marina Bay Street Circuit\nlocation: Marina Bay\, Singapore
- \nround: 第 17 站，共 23 站
+ \n\nSource: https://www.formula1.com/en/racing/2026
 CATEGORIES:Formula 1 Season
 URL;VALUE=URI:https://www.formula1.com/en/racing/2026
 STATUS:CONFIRMED
@@ -54,13 +26,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-f1-2026-r18-quali@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261110T000000
 DTSTART;TZID=Asia/Shanghai:20261025T050000
 DTEND;TZID=Asia/Shanghai:20261025T060000
 SUMMARY:Formula 1 Season · United States Grand Prix Qualifying
 DESCRIPTION:United States Grand Prix Qualifying at Circuit of the Americas
   (Beijing time)\n\ncircuit: Circuit of the Americas\nlocation: Austin\, US
- A\nround: 第 18 站，共 23 站
+ A\n\nSource: https://www.formula1.com/en/racing/2026
 CATEGORIES:Formula 1 Season
 URL;VALUE=URI:https://www.formula1.com/en/racing/2026
 STATUS:CONFIRMED
@@ -68,13 +40,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-f1-2026-r18-race@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261110T000000
 DTSTART;TZID=Asia/Shanghai:20261026T040000
 DTEND;TZID=Asia/Shanghai:20261026T050000
 SUMMARY:Formula 1 Season · United States Grand Prix
 DESCRIPTION:United States Grand Prix at Circuit of the Americas (Beijing t
- ime)\n\ncircuit: Circuit of the Americas\nlocation: Austin\, USA\nround: 
- 第 18 站，共 23 站
+ ime)\n\ncircuit: Circuit of the Americas\nlocation: Austin\, USA\n\nSource
+ : https://www.formula1.com/en/racing/2026
 CATEGORIES:Formula 1 Season
 URL;VALUE=URI:https://www.formula1.com/en/racing/2026
 STATUS:CONFIRMED
@@ -82,13 +54,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-f1-2026-r19-quali@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261110T000000
 DTSTART;TZID=Asia/Shanghai:20261101T050000
 DTEND;TZID=Asia/Shanghai:20261101T060000
 SUMMARY:Formula 1 Season · Mexico City Grand Prix Qualifying
 DESCRIPTION:Mexico City Grand Prix Qualifying at Autódromo Hermanos Rodr
  íguez (Beijing time)\n\ncircuit: Autódromo Hermanos Rodríguez\nlocation
- : Mexico City\, Mexico\nround: 第 19 站，共 23 站
+ : Mexico City\, Mexico\n\nSource: https://www.formula1.com/en/racing/2026
 CATEGORIES:Formula 1 Season
 URL;VALUE=URI:https://www.formula1.com/en/racing/2026
 STATUS:CONFIRMED
@@ -96,13 +68,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-f1-2026-r19-race@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261110T000000
 DTSTART;TZID=Asia/Shanghai:20261102T040000
 DTEND;TZID=Asia/Shanghai:20261102T050000
 SUMMARY:Formula 1 Season · Mexico City Grand Prix
 DESCRIPTION:Mexico City Grand Prix at Autódromo Hermanos Rodríguez (Beij
  ing time)\n\ncircuit: Autódromo Hermanos Rodríguez\nlocation: Mexico Cit
- y\, Mexico\nround: 第 19 站，共 23 站
+ y\, Mexico\n\nSource: https://www.formula1.com/en/racing/2026
 CATEGORIES:Formula 1 Season
 URL;VALUE=URI:https://www.formula1.com/en/racing/2026
 STATUS:CONFIRMED
@@ -110,13 +82,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-f1-2026-r20-quali@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261110T000000
 DTSTART;TZID=Asia/Shanghai:20261108T020000
 DTEND;TZID=Asia/Shanghai:20261108T030000
 SUMMARY:Formula 1 Season · Brazilian Grand Prix Qualifying
 DESCRIPTION:Brazilian Grand Prix Qualifying at Autódromo José Carlos Pac
  e (Beijing time)\n\ncircuit: Autódromo José Carlos Pace\nlocation: São 
- Paulo\, Brazil\nround: 第 20 站，共 23 站
+ Paulo\, Brazil\n\nSource: https://www.formula1.com/en/racing/2026
 CATEGORIES:Formula 1 Season
 URL;VALUE=URI:https://www.formula1.com/en/racing/2026
 STATUS:CONFIRMED
@@ -124,13 +96,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-f1-2026-r20-race@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261110T000000
 DTSTART;TZID=Asia/Shanghai:20261109T010000
 DTEND;TZID=Asia/Shanghai:20261109T020000
 SUMMARY:Formula 1 Season · Brazilian Grand Prix
 DESCRIPTION:Brazilian Grand Prix at Autódromo José Carlos Pace (Beijing 
  time)\n\ncircuit: Autódromo José Carlos Pace\nlocation: São Paulo\, Bra
- zil\nround: 第 20 站，共 23 站
+ zil\n\nSource: https://www.formula1.com/en/racing/2026
 CATEGORIES:Formula 1 Season
 URL;VALUE=URI:https://www.formula1.com/en/racing/2026
 STATUS:CONFIRMED
@@ -138,13 +110,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-f1-2026-r21-quali@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261110T000000
 DTSTART;TZID=Asia/Shanghai:20261121T120000
 DTEND;TZID=Asia/Shanghai:20261121T130000
 SUMMARY:Formula 1 Season · Las Vegas Grand Prix Qualifying
 DESCRIPTION:Las Vegas Grand Prix Qualifying at Las Vegas Strip Street Circ
  uit (Beijing time)\n\ncircuit: Las Vegas Strip Street Circuit\nlocation: L
- as Vegas\, USA\nround: 第 21 站，共 23 站
+ as Vegas\, USA\n\nSource: https://www.formula1.com/en/racing/2026
 CATEGORIES:Formula 1 Season
 URL;VALUE=URI:https://www.formula1.com/en/racing/2026
 STATUS:CONFIRMED
@@ -152,13 +124,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-f1-2026-r21-race@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261110T000000
 DTSTART;TZID=Asia/Shanghai:20261122T120000
 DTEND;TZID=Asia/Shanghai:20261122T130000
 SUMMARY:Formula 1 Season · Las Vegas Grand Prix
 DESCRIPTION:Las Vegas Grand Prix at Las Vegas Strip Street Circuit (Beijin
  g time)\n\ncircuit: Las Vegas Strip Street Circuit\nlocation: Las Vegas\, 
- USA\nround: 第 21 站，共 23 站
+ USA\n\nSource: https://www.formula1.com/en/racing/2026
 CATEGORIES:Formula 1 Season
 URL;VALUE=URI:https://www.formula1.com/en/racing/2026
 STATUS:CONFIRMED
@@ -166,13 +138,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-f1-2026-r22-quali@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261110T000000
 DTSTART;TZID=Asia/Shanghai:20261129T020000
 DTEND;TZID=Asia/Shanghai:20261129T030000
 SUMMARY:Formula 1 Season · Qatar Grand Prix Qualifying
 DESCRIPTION:Qatar Grand Prix Qualifying at Lusail International Circuit (B
  eijing time)\n\ncircuit: Lusail International Circuit\nlocation: Lusail\, 
- Qatar\nround: 第 22 站，共 23 站
+ Qatar\n\nSource: https://www.formula1.com/en/racing/2026
 CATEGORIES:Formula 1 Season
 URL;VALUE=URI:https://www.formula1.com/en/racing/2026
 STATUS:CONFIRMED
@@ -180,13 +152,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-f1-2026-r22-race@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261110T000000
 DTSTART;TZID=Asia/Shanghai:20261130T000000
 DTEND;TZID=Asia/Shanghai:20261130T010000
 SUMMARY:Formula 1 Season · Qatar Grand Prix
 DESCRIPTION:Qatar Grand Prix at Lusail International Circuit (Beijing time
- )\n\ncircuit: Lusail International Circuit\nlocation: Lusail\, Qatar\nroun
- d: 第 22 站，共 23 站
+ )\n\ncircuit: Lusail International Circuit\nlocation: Lusail\, Qatar\n\nSo
+ urce: https://www.formula1.com/en/racing/2026
 CATEGORIES:Formula 1 Season
 URL;VALUE=URI:https://www.formula1.com/en/racing/2026
 STATUS:CONFIRMED
@@ -194,13 +166,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-f1-2026-r23-quali@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261110T000000
 DTSTART;TZID=Asia/Shanghai:20261205T220000
 DTEND;TZID=Asia/Shanghai:20261205T230000
 SUMMARY:Formula 1 Season · Abu Dhabi Grand Prix Qualifying
 DESCRIPTION:Abu Dhabi Grand Prix Qualifying at Yas Marina Circuit (Beijing
-  time)\n\ncircuit: Yas Marina Circuit\nlocation: Abu Dhabi\, UAE\nround: 
- 第 23 站，共 23 站
+  time)\n\ncircuit: Yas Marina Circuit\nlocation: Abu Dhabi\, UAE\n\nSource
+ : https://www.formula1.com/en/racing/2026
 CATEGORIES:Formula 1 Season
 URL;VALUE=URI:https://www.formula1.com/en/racing/2026
 STATUS:CONFIRMED
@@ -208,13 +180,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-f1-2026-r23-race@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261103T000000
+DTSTAMP:20261110T000000
 DTSTART;TZID=Asia/Shanghai:20261206T210000
 DTEND;TZID=Asia/Shanghai:20261206T220000
 SUMMARY:Formula 1 Season · Abu Dhabi Grand Prix
 DESCRIPTION:Abu Dhabi Grand Prix at Yas Marina Circuit (Beijing time)\n\nc
- ircuit: Yas Marina Circuit\nlocation: Abu Dhabi\, UAE\nround: 第 23 站
- ，共 23 站
+ ircuit: Yas Marina Circuit\nlocation: Abu Dhabi\, UAE\n\nSource: https://w
+ ww.formula1.com/en/racing/2026
 CATEGORIES:Formula 1 Season
 URL;VALUE=URI:https://www.formula1.com/en/racing/2026
 STATUS:CONFIRMED

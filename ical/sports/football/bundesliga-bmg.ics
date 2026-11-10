@@ -11,14 +11,15 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884774@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261011T213000
 DTEND;TZID=Asia/Shanghai:20261011T223000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 @ 科隆
 DESCRIPTION:门兴格拉德巴赫 作客 科隆（德甲 2026-27 赛季，
  北京时间）\n\n比分: 科隆 2 - 1 门兴格拉德巴赫\n\n主场: 
  科隆\n客场: 门兴格拉德巴赫\n比分: 科隆 2 - 1 门兴格拉
- 德巴赫\n场馆: RheinEnergieStadion\n城市: Cologne
+ 德巴赫\n场馆: RheinEnergieStadion\n城市: Cologne\n\n来源: https:/
+ /www.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -26,7 +27,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884768@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261018T233000
 DTEND;TZID=Asia/Shanghai:20261019T003000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 vs 霍芬海
@@ -35,7 +36,7 @@ DESCRIPTION:霍芬海姆 作客 门兴格拉德巴赫（德甲 2026-27 赛
  季，北京时间）\n\n比分: 门兴格拉德巴赫 1 - 2 霍芬海姆\
  n\n主场: 门兴格拉德巴赫\n客场: 霍芬海姆\n比分: 门兴格
  拉德巴赫 1 - 2 霍芬海姆\n场馆: BORUSSIA-PARK\n城市: Mönchengl
- adbach
+ adbach\n\n来源: https://www.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -43,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884761@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261024T023000
 DTEND;TZID=Asia/Shanghai:20261024T033000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 @ 斯图加
@@ -51,7 +52,8 @@ SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 @ 斯图加
 DESCRIPTION:门兴格拉德巴赫 作客 斯图加特（德甲 2026-27 赛
  季，北京时间）\n\n比分: 斯图加特 2 - 3 门兴格拉德巴赫\
  n\n主场: 斯图加特\n客场: 门兴格拉德巴赫\n比分: 斯图加
- 特 2 - 3 门兴格拉德巴赫\n场馆: MHPArena\n城市: Stuttgart
+ 特 2 - 3 门兴格拉德巴赫\n场馆: MHPArena\n城市: Stuttgart\n\n
+ 来源: https://www.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -59,7 +61,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884749@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261031T223000
 DTEND;TZID=Asia/Shanghai:20261031T233000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 vs 帕德博
@@ -68,7 +70,7 @@ DESCRIPTION:帕德博恩 作客 门兴格拉德巴赫（德甲 2026-27 赛
  季，北京时间）\n\n比分: 门兴格拉德巴赫 0 - 0 帕德博恩\
  n\n主场: 门兴格拉德巴赫\n客场: 帕德博恩\n比分: 门兴格
  拉德巴赫 0 - 0 帕德博恩\n场馆: BORUSSIA-PARK\n城市: Mönchengl
- adbach
+ adbach\n\n来源: https://www.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -76,13 +78,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884739@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261107T033000
 DTEND;TZID=Asia/Shanghai:20261107T043000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 @ 汉堡
 DESCRIPTION:门兴格拉德巴赫 作客 汉堡（德甲 2026-27 赛季，
- 北京时间）\n\n主场: 汉堡\n客场: 门兴格拉德巴赫\n场馆: 
- Volksparkstadion\n城市: Hamburg Norderstedt
+ 北京时间）\n\n比分: 汉堡 3 - 1 门兴格拉德巴赫\n\n主场: 
+ 汉堡\n客场: 门兴格拉德巴赫\n比分: 汉堡 3 - 1 门兴格拉
+ 德巴赫\n场馆: Volksparkstadion\n城市: Hamburg Norderstedt\n\n来源
+ : https://www.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -90,14 +94,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884731@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261121T223000
 DTEND;TZID=Asia/Shanghai:20261121T233000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 vs 多特蒙
  德
 DESCRIPTION:多特蒙德 作客 门兴格拉德巴赫（德甲 2026-27 赛
  季，北京时间）\n\n主场: 门兴格拉德巴赫\n客场: 多特蒙
- 德\n场馆: BORUSSIA-PARK\n城市: Mönchengladbach
+ 德\n场馆: BORUSSIA-PARK\n城市: Mönchengladbach\n\n来源: https://ww
+ w.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -105,13 +110,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884720@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261128T033000
 DTEND;TZID=Asia/Shanghai:20261128T043000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 @ 不来梅
 DESCRIPTION:门兴格拉德巴赫 作客 不来梅（德甲 2026-27 赛季
  ，北京时间）\n\n主场: 不来梅\n客场: 门兴格拉德巴赫\n
- 场馆: Weserstadion\n城市: Bremen
+ 场馆: Weserstadion\n城市: Bremen\n\n来源: https://www.bundesliga.com
+ /en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -119,14 +125,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884716@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261205T223000
 DTEND;TZID=Asia/Shanghai:20261205T233000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 @ 勒沃库
  森
 DESCRIPTION:门兴格拉德巴赫 作客 勒沃库森（德甲 2026-27 赛
  季，北京时间）\n\n主场: 勒沃库森\n客场: 门兴格拉德巴
- 赫\n场馆: BayArena\n城市: Leverkusen
+ 赫\n场馆: BayArena\n城市: Leverkusen\n\n来源: https://www.bundeslig
+ a.com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -134,14 +141,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884705@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261213T013000
 DTEND;TZID=Asia/Shanghai:20261213T023000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 vs 法兰克
  福
 DESCRIPTION:法兰克福 作客 门兴格拉德巴赫（德甲 2026-27 赛
  季，北京时间）\n\n主场: 门兴格拉德巴赫\n客场: 法兰克
- 福\n场馆: BORUSSIA-PARK\n城市: Mönchengladbach
+ 福\n场馆: BORUSSIA-PARK\n城市: Mönchengladbach\n\n来源: https://ww
+ w.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -149,13 +157,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884693@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261221T023000
 DTEND;TZID=Asia/Shanghai:20261221T033000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 @ 沙尔克04
 DESCRIPTION:门兴格拉德巴赫 作客 沙尔克04（德甲 2026-27 赛
  季，北京时间）\n\n主场: 沙尔克04\n客场: 门兴格拉德巴
- 赫\n场馆: Veltins Arena\n城市: Gelsenkirchen
+ 赫\n场馆: Veltins Arena\n城市: Gelsenkirchen\n\n来源: https://www.b
+ undesliga.com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -163,14 +172,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884687@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270110T013000
 DTEND;TZID=Asia/Shanghai:20270110T023000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 vs 拜仁慕
  尼黑
 DESCRIPTION:拜仁慕尼黑 作客 门兴格拉德巴赫（德甲 2026-27 
  赛季，北京时间）\n\n主场: 门兴格拉德巴赫\n客场: 拜仁
- 慕尼黑\n场馆: BORUSSIA-PARK\n城市: Mönchengladbach
+ 慕尼黑\n场馆: BORUSSIA-PARK\n城市: Mönchengladbach\n\n来源: http
+ s://www.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -178,14 +188,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884679@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270113T033000
 DTEND;TZID=Asia/Shanghai:20270113T043000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 @ 奥格斯
  堡
 DESCRIPTION:门兴格拉德巴赫 作客 奥格斯堡（德甲 2026-27 赛
  季，北京时间）\n\n主场: 奥格斯堡\n客场: 门兴格拉德巴
- 赫\n场馆: WWK Arena\n城市: Augsburg
+ 赫\n场馆: WWK Arena\n城市: Augsburg\n\n来源: https://www.bundesliga
+ .com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -193,14 +204,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884668@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270116T223000
 DTEND;TZID=Asia/Shanghai:20270116T233000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 vs 柏林联
  合
 DESCRIPTION:柏林联合 作客 门兴格拉德巴赫（德甲 2026-27 赛
  季，北京时间）\n\n主场: 门兴格拉德巴赫\n客场: 柏林联
- 合\n场馆: BORUSSIA-PARK\n城市: Mönchengladbach
+ 合\n场馆: BORUSSIA-PARK\n城市: Mönchengladbach\n\n来源: https://ww
+ w.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -208,13 +220,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884660@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270123T223000
 DTEND;TZID=Asia/Shanghai:20270123T233000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 vs 莱比锡
 DESCRIPTION:莱比锡 作客 门兴格拉德巴赫（德甲 2026-27 赛季
  ，北京时间）\n\n主场: 门兴格拉德巴赫\n客场: 莱比锡\n
- 场馆: BORUSSIA-PARK\n城市: Mönchengladbach
+ 场馆: BORUSSIA-PARK\n城市: Mönchengladbach\n\n来源: https://www.bun
+ desliga.com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -222,7 +235,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884647@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270131T040000
 DTEND;TZID=Asia/Shanghai:20270131T050000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 @ 埃尔弗
@@ -230,7 +243,7 @@ SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 @ 埃尔弗
 DESCRIPTION:门兴格拉德巴赫 作客 埃尔弗斯贝格（德甲 2026-
  27 赛季，北京时间）\n\n主场: 埃尔弗斯贝格\n客场: 门兴
  格拉德巴赫\n场馆: URSAPHARM-Arena an der Kaiserlinde\n城市: Spies
- en-Elversberg
+ en-Elversberg\n\n来源: https://www.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -238,13 +251,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884642@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270207T040000
 DTEND;TZID=Asia/Shanghai:20270207T050000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 vs 弗莱堡
 DESCRIPTION:弗莱堡 作客 门兴格拉德巴赫（德甲 2026-27 赛季
  ，北京时间）\n\n主场: 门兴格拉德巴赫\n客场: 弗莱堡\n
- 场馆: BORUSSIA-PARK\n城市: Mönchengladbach
+ 场馆: BORUSSIA-PARK\n城市: Mönchengladbach\n\n来源: https://www.bun
+ desliga.com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -252,13 +266,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884632@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270214T040000
 DTEND;TZID=Asia/Shanghai:20270214T050000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 @ 美因茨
 DESCRIPTION:门兴格拉德巴赫 作客 美因茨（德甲 2026-27 赛季
  ，北京时间）\n\n主场: 美因茨\n客场: 门兴格拉德巴赫\n
- 场馆: MEWA ARENA\n城市: Mainz
+ 场馆: MEWA ARENA\n城市: Mainz\n\n来源: https://www.bundesliga.com/en
+ /bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -266,13 +281,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884624@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270221T040000
 DTEND;TZID=Asia/Shanghai:20270221T050000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 vs 科隆
 DESCRIPTION:科隆 作客 门兴格拉德巴赫（德甲 2026-27 赛季，
  北京时间）\n\n主场: 门兴格拉德巴赫\n客场: 科隆\n场馆: 
- BORUSSIA-PARK\n城市: Mönchengladbach
+ BORUSSIA-PARK\n城市: Mönchengladbach\n\n来源: https://www.bundesliga.
+ com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -280,14 +296,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884616@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270228T040000
 DTEND;TZID=Asia/Shanghai:20270228T050000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 @ 霍芬海
  姆
 DESCRIPTION:门兴格拉德巴赫 作客 霍芬海姆（德甲 2026-27 赛
  季，北京时间）\n\n主场: 霍芬海姆\n客场: 门兴格拉德巴
- 赫\n场馆: PreZero Arena\n城市: Sinsheim
+ 赫\n场馆: PreZero Arena\n城市: Sinsheim\n\n来源: https://www.bundes
+ liga.com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -295,14 +312,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884606@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270304T040000
 DTEND;TZID=Asia/Shanghai:20270304T050000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 vs 斯图加
  特
 DESCRIPTION:斯图加特 作客 门兴格拉德巴赫（德甲 2026-27 赛
  季，北京时间）\n\n主场: 门兴格拉德巴赫\n客场: 斯图加
- 特\n场馆: BORUSSIA-PARK\n城市: Mönchengladbach
+ 特\n场馆: BORUSSIA-PARK\n城市: Mönchengladbach\n\n来源: https://ww
+ w.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -310,14 +328,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884593@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270307T040000
 DTEND;TZID=Asia/Shanghai:20270307T050000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 @ 帕德博
  恩
 DESCRIPTION:门兴格拉德巴赫 作客 帕德博恩（德甲 2026-27 赛
  季，北京时间）\n\n主场: 帕德博恩\n客场: 门兴格拉德巴
- 赫\n场馆: Home Deluxe Arena\n城市: Paderborn
+ 赫\n场馆: Home Deluxe Arena\n城市: Paderborn\n\n来源: https://www.b
+ undesliga.com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -325,13 +344,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884587@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270314T040000
 DTEND;TZID=Asia/Shanghai:20270314T050000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 vs 汉堡
 DESCRIPTION:汉堡 作客 门兴格拉德巴赫（德甲 2026-27 赛季，
  北京时间）\n\n主场: 门兴格拉德巴赫\n客场: 汉堡\n场馆: 
- BORUSSIA-PARK\n城市: Mönchengladbach
+ BORUSSIA-PARK\n城市: Mönchengladbach\n\n来源: https://www.bundesliga.
+ com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -339,14 +359,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884583@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270321T020000
 DTEND;TZID=Asia/Shanghai:20270321T030000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 @ 多特蒙
  德
 DESCRIPTION:门兴格拉德巴赫 作客 多特蒙德（德甲 2026-27 赛
  季，北京时间）\n\n主场: 多特蒙德\n客场: 门兴格拉德巴
- 赫\n场馆: Signal Iduna Park\n城市: Aue
+ 赫\n场馆: Signal Iduna Park\n城市: Aue\n\n来源: https://www.bundesl
+ iga.com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -354,13 +375,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884568@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270404T020000
 DTEND;TZID=Asia/Shanghai:20270404T030000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 vs 不来梅
 DESCRIPTION:不来梅 作客 门兴格拉德巴赫（德甲 2026-27 赛季
  ，北京时间）\n\n主场: 门兴格拉德巴赫\n客场: 不来梅\n
- 场馆: BORUSSIA-PARK\n城市: Mönchengladbach
+ 场馆: BORUSSIA-PARK\n城市: Mönchengladbach\n\n来源: https://www.bun
+ desliga.com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -368,14 +390,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884561@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270411T020000
 DTEND;TZID=Asia/Shanghai:20270411T030000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 vs 勒沃库
  森
 DESCRIPTION:勒沃库森 作客 门兴格拉德巴赫（德甲 2026-27 赛
  季，北京时间）\n\n主场: 门兴格拉德巴赫\n客场: 勒沃库
- 森\n场馆: BORUSSIA-PARK\n城市: Mönchengladbach
+ 森\n场馆: BORUSSIA-PARK\n城市: Mönchengladbach\n\n来源: https://ww
+ w.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -383,14 +406,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884552@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270418T020000
 DTEND;TZID=Asia/Shanghai:20270418T030000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 @ 法兰克
  福
 DESCRIPTION:门兴格拉德巴赫 作客 法兰克福（德甲 2026-27 赛
  季，北京时间）\n\n主场: 法兰克福\n客场: 门兴格拉德巴
- 赫\n场馆: Deutsche Bank Park\n城市: Frankfurt
+ 赫\n场馆: Deutsche Bank Park\n城市: Frankfurt\n\n来源: https://www.
+ bundesliga.com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -398,14 +422,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884543@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270425T020000
 DTEND;TZID=Asia/Shanghai:20270425T030000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 vs 沙尔克0
  4
 DESCRIPTION:沙尔克04 作客 门兴格拉德巴赫（德甲 2026-27 赛
  季，北京时间）\n\n主场: 门兴格拉德巴赫\n客场: 沙尔克0
- 4\n场馆: BORUSSIA-PARK\n城市: Mönchengladbach
+ 4\n场馆: BORUSSIA-PARK\n城市: Mönchengladbach\n\n来源: https://www.
+ bundesliga.com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -413,14 +438,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884538@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270509T020000
 DTEND;TZID=Asia/Shanghai:20270509T030000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 @ 拜仁慕
  尼黑
 DESCRIPTION:门兴格拉德巴赫 作客 拜仁慕尼黑（德甲 2026-27 
  赛季，北京时间）\n\n主场: 拜仁慕尼黑\n客场: 门兴格拉
- 德巴赫\n场馆: Allianz Arena\n城市: München
+ 德巴赫\n场馆: Allianz Arena\n城市: München\n\n来源: https://www.
+ bundesliga.com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -428,14 +454,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884524@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270516T020000
 DTEND;TZID=Asia/Shanghai:20270516T030000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 vs 奥格斯
  堡
 DESCRIPTION:奥格斯堡 作客 门兴格拉德巴赫（德甲 2026-27 赛
  季，北京时间）\n\n主场: 门兴格拉德巴赫\n客场: 奥格斯
- 堡\n场馆: BORUSSIA-PARK\n城市: Mönchengladbach
+ 堡\n场馆: BORUSSIA-PARK\n城市: Mönchengladbach\n\n来源: https://ww
+ w.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED
@@ -443,14 +470,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-bmg-bundesliga-2026-401884495@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270522T213000
 DTEND;TZID=Asia/Shanghai:20270522T223000
 SUMMARY:门兴格拉德巴赫赛程 · 门兴格拉德巴赫 @ 柏林联
  合
 DESCRIPTION:门兴格拉德巴赫 作客 柏林联合（德甲 2026-27 赛
  季，北京时间）\n\n主场: 柏林联合\n客场: 门兴格拉德巴
- 赫\n场馆: Stadion An der Alten Försterei\n城市: Berlin
+ 赫\n场馆: Stadion An der Alten Försterei\n城市: Berlin\n\n来源: ht
+ tps://www.bundesliga.com/en/bundesliga/matchday
 CATEGORIES:门兴格拉德巴赫赛程
 URL;VALUE=URI:https://www.bundesliga.com/en/bundesliga/matchday
 STATUS:CONFIRMED

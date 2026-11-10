@@ -9,4 +9,58 @@ X-WR-CALDESC:聚合各省已发布的公务员考试公告、报名和笔
  com 的年度公告汇总，不采集预测日期。
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:civil-service-provincial-civil-service-provincial-2027-early-announcem
+ ent@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261107T000000
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:China Provincial Civil Service Exams · Early-Batch Provincial Civ
+ il Service Exam Announcements
+DESCRIPTION:Announcement release period for early-batch provincial civil s
+ ervice exams (Beijing\, Shanghai\, Jiangsu\, Zhejiang\, Shandong\, Guangdo
+ ng\, Sichuan\, Tianjin\, Xizang).\n\nSource: https://m.gwy.com/dfgwy/41540
+ 2.html
+CATEGORIES:China Provincial Civil Service Exams
+URL;VALUE=URI:https://m.gwy.com/dfgwy/415402.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-provincial-civil-service-provincial-2027-early-admission
+ -ticket@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261107T000000
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261207
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:China Provincial Civil Service Exams · Early-Batch Provincial Civ
+ il Service Exam Admission Ticket Release
+DESCRIPTION:Admission ticket printing window for early-batch provincial ci
+ vil service exams.\n\nSource: https://m.gwy.com/dfgwy/415402.html
+CATEGORIES:China Provincial Civil Service Exams
+URL;VALUE=URI:https://m.gwy.com/dfgwy/415402.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:civil-service-provincial-civil-service-provincial-2027-early-written-e
+ xam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261107T000000
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:China Provincial Civil Service Exams · Early-Batch Provincial Civ
+ il Service Exam Written Exam
+DESCRIPTION:Written exams for early-batch provinces (Beijing\, Shanghai\, 
+ Jiangsu\, Zhejiang\, Shandong\, Guangdong\, Sichuan\, Tianjin\, Xizang).\n
+ \nSource: https://m.gwy.com/dfgwy/415402.html
+CATEGORIES:China Provincial Civil Service Exams
+URL;VALUE=URI:https://m.gwy.com/dfgwy/415402.html
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR

@@ -9,38 +9,6 @@ X-WR-CALDESC:Taiwan public holidays synced from published daily calendar d
 TIMEZONE-ID:Asia/Taipei
 X-WR-TIMEZONE:Asia/Taipei
 BEGIN:VEVENT
-UID:tw-public-holidays-tw-holiday-2026-make-up-holiday-10-09@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261105T000000
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Taiwan\, China Public Holidays · Make-up Holiday
-DESCRIPTION:Make-up Holiday\; dates come from the published daily holiday 
- calendar.\n\ndata_source: TaiwanCalendar\nsource_url: https://github.com/r
- uyut/TaiwanCalendar
-CATEGORIES:Taiwan\, China Public Holidays
-URL;VALUE=URI:https://www.moi.gov.tw/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:tw-public-holidays-tw-holiday-2026-national-day-10-10@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261105T000000
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Taiwan\, China Public Holidays · National Day
-DESCRIPTION:National Day\; dates come from the published daily holiday cal
- endar.\n\ndata_source: TaiwanCalendar\nsource_url: https://github.com/ruyu
- t/TaiwanCalendar
-CATEGORIES:Taiwan\, China Public Holidays
-URL;VALUE=URI:https://www.moi.gov.tw/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:tw-public-holidays-tw-holiday-2026-retrocession-day-10-25@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261105T000000
@@ -51,7 +19,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Taiwan Retrocession Day
 DESCRIPTION:Taiwan Retrocession Day\; dates come from the published daily 
  holiday calendar.\n\ndata_source: TaiwanCalendar\nsource_url: https://gith
- ub.com/ruyut/TaiwanCalendar
+ ub.com/ruyut/TaiwanCalendar\n\nSource: https://www.moi.gov.tw/
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -67,7 +35,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Make-up Holiday
 DESCRIPTION:Make-up Holiday\; dates come from the published daily holiday 
  calendar.\n\ndata_source: TaiwanCalendar\nsource_url: https://github.com/r
- uyut/TaiwanCalendar
+ uyut/TaiwanCalendar\n\nSource: https://www.moi.gov.tw/
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -83,7 +51,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Constitution Day
 DESCRIPTION:Constitution Day\; dates come from the published daily holiday
   calendar.\n\ndata_source: TaiwanCalendar\nsource_url: https://github.com/
- ruyut/TaiwanCalendar
+ ruyut/TaiwanCalendar\n\nSource: https://www.moi.gov.tw/
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -99,7 +67,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · New Year's Day
 DESCRIPTION:New Year's Day\; dates come from the published daily holiday c
  alendar.\n\ndata_source: TaiwanCalendar\nsource_url: https://github.com/ru
- yut/TaiwanCalendar
+ yut/TaiwanCalendar\n\nSource: https://www.moi.gov.tw/
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -116,7 +84,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Lunar New Year Eve Eve
 DESCRIPTION:Lunar New Year Eve Eve\; dates come from the published daily h
  oliday calendar.\n\ndata_source: TaiwanCalendar\nsource_url: https://githu
- b.com/ruyut/TaiwanCalendar
+ b.com/ruyut/TaiwanCalendar\n\nSource: https://www.moi.gov.tw/
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -133,7 +101,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Lunar New Year Eve
 DESCRIPTION:Lunar New Year Eve\; dates come from the published daily holid
  ay calendar.\n\ndata_source: TaiwanCalendar\nsource_url: https://github.co
- m/ruyut/TaiwanCalendar
+ m/ruyut/TaiwanCalendar\n\nSource: https://www.moi.gov.tw/
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -149,7 +117,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Lunar New Year
 DESCRIPTION:Lunar New Year\; dates come from the published daily holiday c
  alendar.\n\ndata_source: TaiwanCalendar\nsource_url: https://github.com/ru
- yut/TaiwanCalendar
+ yut/TaiwanCalendar\n\nSource: https://www.moi.gov.tw/
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -165,7 +133,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Make-up Holiday
 DESCRIPTION:Make-up Holiday\; dates come from the published daily holiday 
  calendar.\n\ndata_source: TaiwanCalendar\nsource_url: https://github.com/r
- uyut/TaiwanCalendar
+ uyut/TaiwanCalendar\n\nSource: https://www.moi.gov.tw/
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -182,7 +150,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Peace Memorial Day
 DESCRIPTION:Peace Memorial Day\; dates come from the published daily holid
  ay calendar.\n\ndata_source: TaiwanCalendar\nsource_url: https://github.co
- m/ruyut/TaiwanCalendar
+ m/ruyut/TaiwanCalendar\n\nSource: https://www.moi.gov.tw/
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -198,7 +166,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Make-up Holiday
 DESCRIPTION:Make-up Holiday\; dates come from the published daily holiday 
  calendar.\n\ndata_source: TaiwanCalendar\nsource_url: https://github.com/r
- uyut/TaiwanCalendar
+ uyut/TaiwanCalendar\n\nSource: https://www.moi.gov.tw/
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -214,7 +182,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Children's Day
 DESCRIPTION:Children's Day\; dates come from the published daily holiday c
  alendar.\n\ndata_source: TaiwanCalendar\nsource_url: https://github.com/ru
- yut/TaiwanCalendar
+ yut/TaiwanCalendar\n\nSource: https://www.moi.gov.tw/
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -230,7 +198,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Qingming Festival
 DESCRIPTION:Qingming Festival\; dates come from the published daily holida
  y calendar.\n\ndata_source: TaiwanCalendar\nsource_url: https://github.com
- /ruyut/TaiwanCalendar
+ /ruyut/TaiwanCalendar\n\nSource: https://www.moi.gov.tw/
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -246,7 +214,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Make-up Holiday
 DESCRIPTION:Make-up Holiday\; dates come from the published daily holiday 
  calendar.\n\ndata_source: TaiwanCalendar\nsource_url: https://github.com/r
- uyut/TaiwanCalendar
+ uyut/TaiwanCalendar\n\nSource: https://www.moi.gov.tw/
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -262,7 +230,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Make-up Holiday
 DESCRIPTION:Make-up Holiday\; dates come from the published daily holiday 
  calendar.\n\ndata_source: TaiwanCalendar\nsource_url: https://github.com/r
- uyut/TaiwanCalendar
+ uyut/TaiwanCalendar\n\nSource: https://www.moi.gov.tw/
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -278,7 +246,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Labor Day
 DESCRIPTION:Labor Day\; dates come from the published daily holiday calend
  ar.\n\ndata_source: TaiwanCalendar\nsource_url: https://github.com/ruyut/T
- aiwanCalendar
+ aiwanCalendar\n\nSource: https://www.moi.gov.tw/
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -294,7 +262,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Dragon Boat Festival
 DESCRIPTION:Dragon Boat Festival\; dates come from the published daily hol
  iday calendar.\n\ndata_source: TaiwanCalendar\nsource_url: https://github.
- com/ruyut/TaiwanCalendar
+ com/ruyut/TaiwanCalendar\n\nSource: https://www.moi.gov.tw/
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -310,7 +278,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Mid-Autumn Festival
 DESCRIPTION:Mid-Autumn Festival\; dates come from the published daily holi
  day calendar.\n\ndata_source: TaiwanCalendar\nsource_url: https://github.c
- om/ruyut/TaiwanCalendar
+ om/ruyut/TaiwanCalendar\n\nSource: https://www.moi.gov.tw/
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -327,7 +295,7 @@ SUMMARY:Taiwan\, China Public Holidays · Confucius' Birthday / Teachers'
  Day
 DESCRIPTION:Confucius' Birthday / Teachers' Day\; dates come from the publ
  ished daily holiday calendar.\n\ndata_source: TaiwanCalendar\nsource_url: 
- https://github.com/ruyut/TaiwanCalendar
+ https://github.com/ruyut/TaiwanCalendar\n\nSource: https://www.moi.gov.tw/
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -343,7 +311,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · National Day
 DESCRIPTION:National Day\; dates come from the published daily holiday cal
  endar.\n\ndata_source: TaiwanCalendar\nsource_url: https://github.com/ruyu
- t/TaiwanCalendar
+ t/TaiwanCalendar\n\nSource: https://www.moi.gov.tw/
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -359,7 +327,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Make-up Holiday
 DESCRIPTION:Make-up Holiday\; dates come from the published daily holiday 
  calendar.\n\ndata_source: TaiwanCalendar\nsource_url: https://github.com/r
- uyut/TaiwanCalendar
+ uyut/TaiwanCalendar\n\nSource: https://www.moi.gov.tw/
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -375,7 +343,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Taiwan Retrocession Day
 DESCRIPTION:Taiwan Retrocession Day\; dates come from the published daily 
  holiday calendar.\n\ndata_source: TaiwanCalendar\nsource_url: https://gith
- ub.com/ruyut/TaiwanCalendar
+ ub.com/ruyut/TaiwanCalendar\n\nSource: https://www.moi.gov.tw/
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -391,7 +359,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Make-up Holiday
 DESCRIPTION:Make-up Holiday\; dates come from the published daily holiday 
  calendar.\n\ndata_source: TaiwanCalendar\nsource_url: https://github.com/r
- uyut/TaiwanCalendar
+ uyut/TaiwanCalendar\n\nSource: https://www.moi.gov.tw/
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -407,7 +375,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Constitution Day
 DESCRIPTION:Constitution Day\; dates come from the published daily holiday
   calendar.\n\ndata_source: TaiwanCalendar\nsource_url: https://github.com/
- ruyut/TaiwanCalendar
+ ruyut/TaiwanCalendar\n\nSource: https://www.moi.gov.tw/
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED
@@ -423,7 +391,7 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Taiwan\, China Public Holidays · Make-up Holiday
 DESCRIPTION:Make-up Holiday\; dates come from the published daily holiday 
  calendar.\n\ndata_source: TaiwanCalendar\nsource_url: https://github.com/r
- uyut/TaiwanCalendar
+ uyut/TaiwanCalendar\n\nSource: https://www.moi.gov.tw/
 CATEGORIES:Taiwan\, China Public Holidays
 URL;VALUE=URI:https://www.moi.gov.tw/
 STATUS:CONFIRMED

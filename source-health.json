@@ -9,132 +9,134 @@
     },
     "judicial-exam": {
       "category": "exam",
-      "checked_at": "2026-11-05",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-09",
+      "outcome": "skipped",
+      "last_error": "fetch failed: http://legalinfo.moj.gov.cn/zhpfsearch/es/getTrsNewsByParams?keyWords=2026%E5%B9%B4%E5%9B%BD%E5%AE%B6%E7%BB%9F%E4%B8%80%E6%B3%95%E5%BE%8B%E8%81%8C%E4%B8%9A%E8%B5%84%E6%A0%BC%E8%80%83%E8%AF%95&pageNum=1&pageSize=10 (fetch failed)"
     },
     "fgo": {
       "category": "gaming",
-      "checked_at": "2026-11-05",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-10",
+      "outcome": "updated"
     },
     "tw-public-holidays": {
       "category": "holidays",
-      "checked_at": "2026-11-05",
-      "outcome": "updated"
+      "checked_at": "2026-11-09",
+      "outcome": "unchanged"
     },
     "cn-public-holidays": {
       "category": "holidays",
-      "checked_at": "2026-11-05",
-      "outcome": "updated"
+      "checked_at": "2026-11-09",
+      "outcome": "unchanged"
     },
     "au-public-holidays": {
       "category": "holidays",
-      "checked_at": "2026-11-05",
-      "outcome": "updated"
+      "checked_at": "2026-11-09",
+      "outcome": "unchanged"
     },
     "br-public-holidays": {
       "category": "holidays",
-      "checked_at": "2026-11-05",
-      "outcome": "updated"
+      "checked_at": "2026-11-09",
+      "outcome": "unchanged"
     },
     "ca-public-holidays": {
       "category": "holidays",
-      "checked_at": "2026-11-05",
-      "outcome": "updated"
+      "checked_at": "2026-11-09",
+      "outcome": "unchanged"
     },
     "de-public-holidays": {
       "category": "holidays",
-      "checked_at": "2026-11-05",
-      "outcome": "updated"
+      "checked_at": "2026-11-09",
+      "outcome": "unchanged"
     },
     "fr-public-holidays": {
       "category": "holidays",
-      "checked_at": "2026-11-05",
-      "outcome": "updated"
+      "checked_at": "2026-11-09",
+      "outcome": "unchanged"
     },
     "gb-public-holidays": {
       "category": "holidays",
-      "checked_at": "2026-11-05",
-      "outcome": "updated"
+      "checked_at": "2026-11-09",
+      "outcome": "unchanged"
     },
     "hk-public-holidays": {
       "category": "holidays",
-      "checked_at": "2026-11-05",
-      "outcome": "updated"
+      "checked_at": "2026-11-09",
+      "outcome": "unchanged"
     },
     "id-public-holidays": {
       "category": "holidays",
-      "checked_at": "2026-11-05",
-      "outcome": "updated"
+      "checked_at": "2026-11-09",
+      "outcome": "unchanged"
     },
     "jp-public-holidays": {
       "category": "holidays",
-      "checked_at": "2026-11-05",
-      "outcome": "updated"
+      "checked_at": "2026-11-09",
+      "outcome": "unchanged"
     },
     "kr-public-holidays": {
       "category": "holidays",
-      "checked_at": "2026-11-05",
-      "outcome": "updated"
+      "checked_at": "2026-11-09",
+      "outcome": "unchanged"
     },
     "sg-public-holidays": {
       "category": "holidays",
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-09",
       "outcome": "updated"
     },
     "us-public-holidays": {
       "category": "holidays",
-      "checked_at": "2026-11-05",
-      "outcome": "updated"
+      "checked_at": "2026-11-09",
+      "outcome": "unchanged"
     },
     "vn-public-holidays": {
       "category": "holidays",
-      "checked_at": "2026-11-05",
-      "outcome": "updated"
+      "checked_at": "2026-11-09",
+      "outcome": "unchanged"
     },
     "bundesliga": {
       "category": "sports",
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-10",
       "outcome": "unchanged"
     },
     "cba": {
       "category": "sports",
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-10",
       "outcome": "unchanged"
     },
     "csl": {
       "category": "sports",
-      "checked_at": "2026-11-05",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-10",
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://api.cfl-china.cn/frontweb/api/tournaments?competition_code=CSL (fetch failed)"
     },
     "epl": {
       "category": "sports",
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-10",
       "outcome": "unchanged"
     },
     "f1": {
       "category": "sports",
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-10",
       "outcome": "unchanged"
     },
     "laliga": {
       "category": "sports",
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-10",
       "outcome": "unchanged"
     },
     "ligue1": {
       "category": "sports",
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-10",
       "outcome": "unchanged"
     },
     "nba": {
       "category": "sports",
-      "checked_at": "2026-11-05",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-10",
+      "outcome": "updated"
     },
     "seriea": {
       "category": "sports",
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-10",
       "outcome": "unchanged"
     },
     "australian-open": {
@@ -159,48 +161,50 @@
     },
     "ucl": {
       "category": "sports",
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-10",
       "outcome": "unchanged"
     },
     "uecl": {
       "category": "sports",
-      "checked_at": "2026-11-05",
-      "outcome": "updated"
+      "checked_at": "2026-11-10",
+      "outcome": "unchanged"
     },
     "uel": {
       "category": "sports",
-      "checked_at": "2026-11-05",
-      "outcome": "updated"
+      "checked_at": "2026-11-10",
+      "outcome": "unchanged"
     },
     "worldcup": {
       "category": "sports",
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-10",
       "outcome": "unchanged"
     },
     "arknights": {
       "category": "gaming",
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-10",
       "outcome": "unchanged"
     },
     "cs2-tournaments": {
       "category": "gaming",
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-10",
       "outcome": "unchanged"
     },
     "epic-free": {
       "category": "gaming",
-      "checked_at": "2026-11-05",
-      "outcome": "updated"
+      "checked_at": "2026-11-10",
+      "outcome": "unchanged"
     },
     "kpl": {
       "category": "gaming",
-      "checked_at": "2026-11-05",
-      "outcome": "updated"
+      "checked_at": "2026-11-08",
+      "outcome": "skipped",
+      "last_error": "HTTP 429: https://api.pandascore.co/kog/leagues?page%5Bnumber%5D=1&page%5Bsize%5D=100"
     },
     "lpl": {
       "category": "gaming",
-      "checked_at": "2026-11-05",
-      "outcome": "updated"
+      "checked_at": "2026-11-08",
+      "outcome": "skipped",
+      "last_error": "HTTP 429: https://api.pandascore.co/lol/matches?filter%5Bleague_id%5D=294&range%5Bbegin_at%5D=2026-01-01%2C2099-12-31&page%5Bnumber%5D=1&page%5Bsize%5D=100&sort=begin_at"
     },
     "console-showcases": {
       "category": "gaming",
@@ -209,33 +213,35 @@
     },
     "genshin-impact": {
       "category": "gaming",
-      "checked_at": "2026-11-05",
-      "outcome": "updated"
+      "checked_at": "2026-11-09",
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/16471662a82d418a/getContentList?iAppId=43&iChanId=721&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed)"
     },
     "honkai-star-rail": {
       "category": "gaming",
-      "checked_at": "2026-11-05",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-09",
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/1963de8dc19e461c/getContentList?iChanId=255&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed)"
     },
     "zenless-zone-zero": {
       "category": "gaming",
-      "checked_at": "2026-11-05",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-10",
+      "outcome": "updated"
     },
     "rawg-releases": {
       "category": "gaming",
       "checked_at": "2026-11-02",
       "outcome": "skipped",
-      "last_error": "HTTP 522: https://api.rawg.io/api/games?key=***&dates=2026-11-05%2C2026-11-30&platforms=4%2C187%2C18%2C1%2C7%2C3%2C21&ordering=released&page_size=40&page=1"
+      "last_error": "HTTP 522: https://api.rawg.io/api/games?key=***&dates=2026-11-10%2C2026-11-30&platforms=4%2C187%2C18%2C1%2C7%2C3%2C21&ordering=released&page_size=40&page=1"
     },
     "steam-sales": {
       "category": "gaming",
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-10",
       "outcome": "unchanged"
     },
     "wuthering-waves": {
       "category": "gaming",
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-10",
       "outcome": "unchanged"
     },
     "accounting-qualification": {
@@ -360,7 +366,7 @@
     },
     "civil-service-provincial": {
       "category": "exam",
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-10",
       "outcome": "unchanged"
     },
     "cet": {
@@ -390,33 +396,36 @@
     },
     "astronomical-events": {
       "category": "other",
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-09",
       "outcome": "updated"
     },
     "beijing-marathon": {
       "category": "sports",
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-10",
       "outcome": "unchanged"
     },
     "shanghai-marathon": {
       "category": "sports",
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-10",
       "outcome": "unchanged"
     },
     "dota2-esports": {
       "category": "gaming",
-      "checked_at": "2026-11-05",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-08",
+      "outcome": "skipped",
+      "last_error": "HTTP 429: PandaScore /dota2/matches"
     },
     "lol-international": {
       "category": "gaming",
-      "checked_at": "2026-11-05",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-08",
+      "outcome": "skipped",
+      "last_error": "HTTP 429: PandaScore /lol/leagues"
     },
     "valorant-esports": {
       "category": "gaming",
-      "checked_at": "2026-11-05",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-08",
+      "outcome": "skipped",
+      "last_error": "HTTP 429: PandaScore /valorant/leagues"
     }
   }
 }

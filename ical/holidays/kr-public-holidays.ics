@@ -9,22 +9,6 @@ X-WR-CALDESC:韩国政府公布的公休日安排，包含传统节日和
 TIMEZONE-ID:Asia/Seoul
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
-UID:kr-public-holidays-kr-holiday-2026-hangul-day-10-09-public@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261105T000000
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:韩国公众假期 · 한글날
-DESCRIPTION:한글날（韩国公众假期）\n\n假期类型: Public\n固
- 定日期: 否\n全国通用: 是
-CATEGORIES:韩国公众假期
-URL;VALUE=URI:https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardList
- .do?bbsId=BBSMSTR_000000000015
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2026-christmas-day-12-25-public@koyomi.c
  ast
 SEQUENCE:0
@@ -35,7 +19,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 크리스마스
 DESCRIPTION:크리스마스（韩国公众假期）\n\n假期类型: Publi
- c\n固定日期: 否\n全国通用: 是
+ c\n固定日期: 否\n全国通用: 是\n\n来源: https://www.mois.go.kr/
+ frt/bbs/type010/commonSelectBoardList.do?bbsId=BBSMSTR_000000000015
 CATEGORIES:韩国公众假期
 URL;VALUE=URI:https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardList
  .do?bbsId=BBSMSTR_000000000015
@@ -52,7 +37,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 새해
 DESCRIPTION:새해（韩国公众假期）\n\n假期类型: Public\n全国
- 通用: 是
+ 通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01
+ _01_04/view.do?plcyBrfNo=431
 CATEGORIES:韩国公众假期
 URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
  ew.do?plcyBrfNo=431
@@ -69,7 +55,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 설날 연휴
 DESCRIPTION:설날 연휴（韩国公众假期）\n\n假期类型: Public\
- n全国通用: 是
+ n全国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/ko
+ r/sub01_01_04/view.do?plcyBrfNo=431
 CATEGORIES:韩国公众假期
 URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
  ew.do?plcyBrfNo=431
@@ -86,7 +73,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 설날
 DESCRIPTION:설날（韩国公众假期）\n\n假期类型: Public\n全国
- 通用: 是
+ 通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01
+ _01_04/view.do?plcyBrfNo=431
 CATEGORIES:韩国公众假期
 URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
  ew.do?plcyBrfNo=431
@@ -103,7 +91,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 설날 연휴
 DESCRIPTION:설날 연휴（韩国公众假期）\n\n假期类型: Public\
- n全国通用: 是
+ n全国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/ko
+ r/sub01_01_04/view.do?plcyBrfNo=431
 CATEGORIES:韩国公众假期
 URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
  ew.do?plcyBrfNo=431
@@ -120,7 +109,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 대체공휴일(설날)
 DESCRIPTION:대체공휴일(설날)（韩国公众假期）\n\n假期类
- 型: Public\n全国通用: 是
+ 型: Public\n全国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcy
+ Brf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431
 CATEGORIES:韩国公众假期
 URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
  ew.do?plcyBrfNo=431
@@ -137,7 +127,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 3·1절
 DESCRIPTION:3·1절（韩国公众假期）\n\n假期类型: Public\n全
- 国通用: 是
+ 国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/kor/su
+ b01_01_04/view.do?plcyBrfNo=431
 CATEGORIES:韩国公众假期
 URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
  ew.do?plcyBrfNo=431
@@ -153,7 +144,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 노동절
 DESCRIPTION:노동절（韩国公众假期）\n\n假期类型: Public\n全
- 国通用: 是
+ 国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/kor/su
+ b01_01_04/view.do?plcyBrfNo=431
 CATEGORIES:韩国公众假期
 URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
  ew.do?plcyBrfNo=431
@@ -170,7 +162,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 대체공휴일(노동절)
 DESCRIPTION:대체공휴일(노동절)（韩国公众假期）\n\n假期
- 类型: Public\n全国通用: 是
+ 类型: Public\n全国通用: 是\n\n来源: https://www.kasa.go.kr/prog/p
+ lcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431
 CATEGORIES:韩国公众假期
 URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
  ew.do?plcyBrfNo=431
@@ -187,7 +180,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 어린이날
 DESCRIPTION:어린이날（韩国公众假期）\n\n假期类型: Public\n
- 全国通用: 是
+ 全国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/kor
+ /sub01_01_04/view.do?plcyBrfNo=431
 CATEGORIES:韩国公众假期
 URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
  ew.do?plcyBrfNo=431
@@ -204,7 +198,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 부처님 오신 날
 DESCRIPTION:부처님 오신 날（韩国公众假期）\n\n假期类型: 
- Public\n全国通用: 是
+ Public\n全国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/b
+ rief/kor/sub01_01_04/view.do?plcyBrfNo=431
 CATEGORIES:韩国公众假期
 URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
  ew.do?plcyBrfNo=431
@@ -221,7 +216,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 현충일
 DESCRIPTION:현충일（韩国公众假期）\n\n假期类型: Public\n全
- 国通用: 是
+ 国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/kor/su
+ b01_01_04/view.do?plcyBrfNo=431
 CATEGORIES:韩国公众假期
 URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
  ew.do?plcyBrfNo=431
@@ -238,7 +234,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 제헌절
 DESCRIPTION:제헌절（韩国公众假期）\n\n假期类型: Public\n全
- 国通用: 是
+ 国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/kor/su
+ b01_01_04/view.do?plcyBrfNo=431
 CATEGORIES:韩国公众假期
 URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
  ew.do?plcyBrfNo=431
@@ -255,7 +252,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 대체공휴일(제헌절)
 DESCRIPTION:대체공휴일(제헌절)（韩国公众假期）\n\n假期
- 类型: Public\n全国通用: 是
+ 类型: Public\n全国通用: 是\n\n来源: https://www.kasa.go.kr/prog/p
+ lcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431
 CATEGORIES:韩国公众假期
 URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
  ew.do?plcyBrfNo=431
@@ -272,7 +270,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 광복절
 DESCRIPTION:광복절（韩国公众假期）\n\n假期类型: Public\n全
- 国通用: 是
+ 国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/kor/su
+ b01_01_04/view.do?plcyBrfNo=431
 CATEGORIES:韩国公众假期
 URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
  ew.do?plcyBrfNo=431
@@ -289,7 +288,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 대체공휴일(광복절)
 DESCRIPTION:대체공휴일(광복절)（韩国公众假期）\n\n假期
- 类型: Public\n全国通用: 是
+ 类型: Public\n全国通用: 是\n\n来源: https://www.kasa.go.kr/prog/p
+ lcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431
 CATEGORIES:韩国公众假期
 URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
  ew.do?plcyBrfNo=431
@@ -305,7 +305,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 추석 연휴
 DESCRIPTION:추석 연휴（韩国公众假期）\n\n假期类型: Public\
- n全国通用: 是
+ n全国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/ko
+ r/sub01_01_04/view.do?plcyBrfNo=431
 CATEGORIES:韩国公众假期
 URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
  ew.do?plcyBrfNo=431
@@ -321,7 +322,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 추석
 DESCRIPTION:추석（韩国公众假期）\n\n假期类型: Public\n全国
- 通用: 是
+ 通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01
+ _01_04/view.do?plcyBrfNo=431
 CATEGORIES:韩国公众假期
 URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
  ew.do?plcyBrfNo=431
@@ -337,7 +339,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 추석 연휴
 DESCRIPTION:추석 연휴（韩国公众假期）\n\n假期类型: Public\
- n全国通用: 是
+ n全国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/ko
+ r/sub01_01_04/view.do?plcyBrfNo=431
 CATEGORIES:韩国公众假期
 URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
  ew.do?plcyBrfNo=431
@@ -354,7 +357,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 개천절
 DESCRIPTION:개천절（韩国公众假期）\n\n假期类型: Public\n全
- 国通用: 是
+ 国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/kor/su
+ b01_01_04/view.do?plcyBrfNo=431
 CATEGORIES:韩国公众假期
 URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
  ew.do?plcyBrfNo=431
@@ -371,7 +375,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 대체공휴일(개천절)
 DESCRIPTION:대체공휴일(개천절)（韩国公众假期）\n\n假期
- 类型: Public\n全国通用: 是
+ 类型: Public\n全国通用: 是\n\n来源: https://www.kasa.go.kr/prog/p
+ lcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431
 CATEGORIES:韩国公众假期
 URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
  ew.do?plcyBrfNo=431
@@ -387,7 +392,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 한글날
 DESCRIPTION:한글날（韩国公众假期）\n\n假期类型: Public\n全
- 国通用: 是
+ 国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/kor/su
+ b01_01_04/view.do?plcyBrfNo=431
 CATEGORIES:韩国公众假期
 URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
  ew.do?plcyBrfNo=431
@@ -404,7 +410,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 대체공휴일(한글날)
 DESCRIPTION:대체공휴일(한글날)（韩国公众假期）\n\n假期
- 类型: Public\n全国通用: 是
+ 类型: Public\n全国通用: 是\n\n来源: https://www.kasa.go.kr/prog/p
+ lcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431
 CATEGORIES:韩国公众假期
 URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
  ew.do?plcyBrfNo=431
@@ -421,7 +428,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 기독탄신일
 DESCRIPTION:기독탄신일（韩国公众假期）\n\n假期类型: Publi
- c\n全国通用: 是
+ c\n全国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/
+ kor/sub01_01_04/view.do?plcyBrfNo=431
 CATEGORIES:韩国公众假期
 URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
  ew.do?plcyBrfNo=431
@@ -438,7 +446,8 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 대체공휴일(기독탄신일)
 DESCRIPTION:대체공휴일(기독탄신일)（韩国公众假期）\n\n
- 假期类型: Public\n全国通用: 是
+ 假期类型: Public\n全国通用: 是\n\n来源: https://www.kasa.go.kr/
+ prog/plcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431
 CATEGORIES:韩国公众假期
 URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
  ew.do?plcyBrfNo=431

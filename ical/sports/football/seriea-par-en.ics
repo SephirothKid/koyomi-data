@@ -10,14 +10,13 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401875021@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261011T000000
 DTEND;TZID=Asia/Shanghai:20261011T010000
 SUMMARY:Parma Schedule · Parma @ Internazionale
 DESCRIPTION:Parma at Internazionale (Serie A 2026-27\, Beijing time)\n\nSc
- ore: 国际米兰 3 - 0 帕尔马\n\n主场: 国际米兰\n客场: 帕尔
- 马\n比分: 国际米兰 3 - 0 帕尔马\n场馆: San Siro\n城市: Milan
- o
+ ore: 国际米兰 3 - 0 帕尔马\n\nSource: https://www.legaseriea.it/en/
+ serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -25,13 +24,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401874784@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261020T024500
 DTEND;TZID=Asia/Shanghai:20261020T034500
 SUMMARY:Parma Schedule · Parma vs Torino
 DESCRIPTION:Torino at Parma (Serie A 2026-27\, Beijing time)\n\nScore: 帕
- 尔马 0 - 3 都灵\n\n主场: 帕尔马\n客场: 都灵\n比分: 帕尔
- 马 0 - 3 都灵\n场馆: Ennio Tardini\n城市: Parma
+ 尔马 0 - 3 都灵\n\nSource: https://www.legaseriea.it/en/serie-a/fixtur
+ e-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -39,13 +38,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401874955@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261025T024500
 DTEND;TZID=Asia/Shanghai:20261025T034500
 SUMMARY:Parma Schedule · Parma @ Lazio
 DESCRIPTION:Parma at Lazio (Serie A 2026-27\, Beijing time)\n\nScore: 拉
- 齐奥 2 - 1 帕尔马\n\n主场: 拉齐奥\n客场: 帕尔马\n比分: 
- 拉齐奥 2 - 1 帕尔马\n场馆: Olimpico\n城市: Roma
+ 齐奥 2 - 1 帕尔马\n\nSource: https://www.legaseriea.it/en/serie-a/fix
+ ture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -53,13 +52,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401874965@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261029T013000
 DTEND;TZID=Asia/Shanghai:20261029T023000
 SUMMARY:Parma Schedule · Parma vs Udinese
 DESCRIPTION:Udinese at Parma (Serie A 2026-27\, Beijing time)\n\nScore: 
- 帕尔马 0 - 0 乌迪内斯\n\n主场: 帕尔马\n客场: 乌迪内斯\n
- 比分: 帕尔马 0 - 0 乌迪内斯\n场馆: Ennio Tardini\n城市: Parma
+ 帕尔马 0 - 0 乌迪内斯\n\nSource: https://www.legaseriea.it/en/serie
+ -a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -67,14 +66,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401874971@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261103T034500
 DTEND;TZID=Asia/Shanghai:20261103T044500
 SUMMARY:Parma Schedule · Parma @ Atalanta
 DESCRIPTION:Parma at Atalanta (Serie A 2026-27\, Beijing time)\n\nScore: 
- 亚特兰大 0 - 3 帕尔马\n\n主场: 亚特兰大\n客场: 帕尔马\n
- 比分: 亚特兰大 0 - 3 帕尔马\n场馆: New Balance Arena\n城市: B
- ergamo
+ 亚特兰大 0 - 3 帕尔马\n\nSource: https://www.legaseriea.it/en/serie
+ -a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -82,12 +80,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401874974@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261108T010000
 DTEND;TZID=Asia/Shanghai:20261108T020000
 SUMMARY:Parma Schedule · Parma vs Bologna
-DESCRIPTION:Bologna at Parma (Serie A 2026-27\, Beijing time)\n\n主场: 
- 帕尔马\n客场: 博洛尼亚\n场馆: Ennio Tardini\n城市: Parma
+DESCRIPTION:Bologna at Parma (Serie A 2026-27\, Beijing time)\n\nScore: 
+ 帕尔马 1 - 2 博洛尼亚\n\nSource: https://www.legaseriea.it/en/serie
+ -a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -95,12 +94,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401874967@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261122T010000
 DTEND;TZID=Asia/Shanghai:20261122T020000
 SUMMARY:Parma Schedule · Parma vs AS Roma
-DESCRIPTION:AS Roma at Parma (Serie A 2026-27\, Beijing time)\n\n主场: 
- 帕尔马\n客场: 罗马\n场馆: Ennio Tardini\n城市: Parma
+DESCRIPTION:AS Roma at Parma (Serie A 2026-27\, Beijing time)\n\nSource: h
+ ttps://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -108,13 +107,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401875081@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261128T220000
 DTEND;TZID=Asia/Shanghai:20261128T230000
 SUMMARY:Parma Schedule · Parma @ Frosinone
-DESCRIPTION:Parma at Frosinone (Serie A 2026-27\, Beijing time)\n\n主场:
-  弗罗西诺内\n客场: 帕尔马\n场馆: Stadio Benito Stirpe\n城市:
-  Frosinone
+DESCRIPTION:Parma at Frosinone (Serie A 2026-27\, Beijing time)\n\nSource:
+  https://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -122,12 +120,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401874995@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261207T034500
 DTEND;TZID=Asia/Shanghai:20261207T044500
 SUMMARY:Parma Schedule · Parma @ AC Milan
-DESCRIPTION:Parma at AC Milan (Serie A 2026-27\, Beijing time)\n\n主场: 
- AC米兰\n客场: 帕尔马\n场馆: San Siro\n城市: Milano
+DESCRIPTION:Parma at AC Milan (Serie A 2026-27\, Beijing time)\n\nSource: 
+ https://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -135,12 +133,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401874761@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261214T010000
 DTEND;TZID=Asia/Shanghai:20261214T020000
 SUMMARY:Parma Schedule · Parma vs Fiorentina
-DESCRIPTION:Fiorentina at Parma (Serie A 2026-27\, Beijing time)\n\n主场
- : 帕尔马\n客场: 佛罗伦萨\n场馆: Ennio Tardini\n城市: Parma
+DESCRIPTION:Fiorentina at Parma (Serie A 2026-27\, Beijing time)\n\nSource
+ : https://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -148,12 +146,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401874973@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20261219T220000
 DTEND;TZID=Asia/Shanghai:20261219T230000
 SUMMARY:Parma Schedule · Parma @ Sassuolo
-DESCRIPTION:Parma at Sassuolo (Serie A 2026-27\, Beijing time)\n\n主场: 
- 萨索洛\n客场: 帕尔马\n场馆: Mapei Stadium\n城市: Reggio Emilia
+DESCRIPTION:Parma at Sassuolo (Serie A 2026-27\, Beijing time)\n\nSource: 
+ https://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -161,12 +159,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401875020@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270104T010000
 DTEND;TZID=Asia/Shanghai:20270104T020000
 SUMMARY:Parma Schedule · Parma vs Napoli
-DESCRIPTION:Napoli at Parma (Serie A 2026-27\, Beijing time)\n\n主场: 
- 帕尔马\n客场: 那不勒斯\n场馆: Ennio Tardini\n城市: Parma
+DESCRIPTION:Napoli at Parma (Serie A 2026-27\, Beijing time)\n\nSource: ht
+ tps://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -174,12 +172,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401875033@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270106T220000
 DTEND;TZID=Asia/Shanghai:20270106T230000
 SUMMARY:Parma Schedule · Parma @ Lecce
-DESCRIPTION:Parma at Lecce (Serie A 2026-27\, Beijing time)\n\n主场: 莱
- 切\n客场: 帕尔马\n场馆: Via Del Mare\n城市: Lecce
+DESCRIPTION:Parma at Lecce (Serie A 2026-27\, Beijing time)\n\nSource: htt
+ ps://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -187,12 +185,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401875079@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270110T220000
 DTEND;TZID=Asia/Shanghai:20270110T230000
 SUMMARY:Parma Schedule · Parma vs Venezia
-DESCRIPTION:Venezia at Parma (Serie A 2026-27\, Beijing time)\n\n主场: 
- 帕尔马\n客场: 威尼斯\n场馆: Ennio Tardini\n城市: Parma
+DESCRIPTION:Venezia at Parma (Serie A 2026-27\, Beijing time)\n\nSource: h
+ ttps://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -200,13 +198,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401875129@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270118T040000
 DTEND;TZID=Asia/Shanghai:20270118T050000
 SUMMARY:Parma Schedule · Parma vs Internazionale
-DESCRIPTION:Internazionale at Parma (Serie A 2026-27\, Beijing time)\n\n
- 主场: 帕尔马\n客场: 国际米兰\n场馆: Ennio Tardini\n城市: Pa
- rma
+DESCRIPTION:Internazionale at Parma (Serie A 2026-27\, Beijing time)\n\nSo
+ urce: https://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -214,12 +211,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401875135@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270125T040000
 DTEND;TZID=Asia/Shanghai:20270125T050000
 SUMMARY:Parma Schedule · Parma @ Genoa
-DESCRIPTION:Parma at Genoa (Serie A 2026-27\, Beijing time)\n\n主场: 热
- 那亚\n客场: 帕尔马\n场馆: Stadio Luigi Ferraris\n城市: Genova
+DESCRIPTION:Parma at Genoa (Serie A 2026-27\, Beijing time)\n\nSource: htt
+ ps://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -227,12 +224,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401875121@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270201T040000
 DTEND;TZID=Asia/Shanghai:20270201T050000
 SUMMARY:Parma Schedule · Parma @ Cagliari
-DESCRIPTION:Parma at Cagliari (Serie A 2026-27\, Beijing time)\n\n主场: 
- 卡利亚里\n客场: 帕尔马\n场馆: Unipol Domus\n城市: Cagliari
+DESCRIPTION:Parma at Cagliari (Serie A 2026-27\, Beijing time)\n\nSource: 
+ https://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -240,12 +237,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401875091@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270208T040000
 DTEND;TZID=Asia/Shanghai:20270208T050000
 SUMMARY:Parma Schedule · Parma vs Frosinone
-DESCRIPTION:Frosinone at Parma (Serie A 2026-27\, Beijing time)\n\n主场:
-  帕尔马\n客场: 弗罗西诺内\n场馆: Ennio Tardini\n城市: Parma
+DESCRIPTION:Frosinone at Parma (Serie A 2026-27\, Beijing time)\n\nSource:
+  https://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -253,12 +250,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401874998@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270215T040000
 DTEND;TZID=Asia/Shanghai:20270215T050000
 SUMMARY:Parma Schedule · Parma @ AS Roma
-DESCRIPTION:Parma at AS Roma (Serie A 2026-27\, Beijing time)\n\n主场: 
- 罗马\n客场: 帕尔马\n场馆: Olimpico\n城市: Roma
+DESCRIPTION:Parma at AS Roma (Serie A 2026-27\, Beijing time)\n\nSource: h
+ ttps://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -266,12 +263,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401875050@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270222T040000
 DTEND;TZID=Asia/Shanghai:20270222T050000
 SUMMARY:Parma Schedule · Parma @ Udinese
-DESCRIPTION:Parma at Udinese (Serie A 2026-27\, Beijing time)\n\n主场: 
- 乌迪内斯\n客场: 帕尔马\n场馆: Stadio Friuli\n城市: Udine
+DESCRIPTION:Parma at Udinese (Serie A 2026-27\, Beijing time)\n\nSource: h
+ ttps://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -279,12 +276,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401874852@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270301T040000
 DTEND;TZID=Asia/Shanghai:20270301T050000
 SUMMARY:Parma Schedule · Parma vs Sassuolo
-DESCRIPTION:Sassuolo at Parma (Serie A 2026-27\, Beijing time)\n\n主场: 
- 帕尔马\n客场: 萨索洛\n场馆: Ennio Tardini\n城市: Parma
+DESCRIPTION:Sassuolo at Parma (Serie A 2026-27\, Beijing time)\n\nSource: 
+ https://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -292,13 +289,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401875052@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270308T040000
 DTEND;TZID=Asia/Shanghai:20270308T050000
 SUMMARY:Parma Schedule · Parma @ Napoli
-DESCRIPTION:Parma at Napoli (Serie A 2026-27\, Beijing time)\n\n主场: 
- 那不勒斯\n客场: 帕尔马\n场馆: Stadio Diego Armando Maradona\n
- 城市: Napoli
+DESCRIPTION:Parma at Napoli (Serie A 2026-27\, Beijing time)\n\nSource: ht
+ tps://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -306,12 +302,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401874872@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270315T020000
 DTEND;TZID=Asia/Shanghai:20270315T030000
 SUMMARY:Parma Schedule · Parma vs Lecce
-DESCRIPTION:Lecce at Parma (Serie A 2026-27\, Beijing time)\n\n主场: 帕
- 尔马\n客场: 莱切\n场馆: Ennio Tardini\n城市: Parma
+DESCRIPTION:Lecce at Parma (Serie A 2026-27\, Beijing time)\n\nSource: htt
+ ps://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -319,12 +315,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401874807@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270322T020000
 DTEND;TZID=Asia/Shanghai:20270322T030000
 SUMMARY:Parma Schedule · Parma vs Lazio
-DESCRIPTION:Lazio at Parma (Serie A 2026-27\, Beijing time)\n\n主场: 帕
- 尔马\n客场: 拉齐奥\n场馆: Ennio Tardini\n城市: Parma
+DESCRIPTION:Lazio at Parma (Serie A 2026-27\, Beijing time)\n\nSource: htt
+ ps://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -332,13 +328,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401875063@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270405T020000
 DTEND;TZID=Asia/Shanghai:20270405T030000
 SUMMARY:Parma Schedule · Parma @ Venezia
-DESCRIPTION:Parma at Venezia (Serie A 2026-27\, Beijing time)\n\n主场: 
- 威尼斯\n客场: 帕尔马\n场馆: Stadio Pier Luigi Penzo\n城市: Ven
- ezia
+DESCRIPTION:Parma at Venezia (Serie A 2026-27\, Beijing time)\n\nSource: h
+ ttps://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -346,12 +341,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401875111@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270412T020000
 DTEND;TZID=Asia/Shanghai:20270412T030000
 SUMMARY:Parma Schedule · Parma vs Como
-DESCRIPTION:Como at Parma (Serie A 2026-27\, Beijing time)\n\n主场: 帕
- 尔马\n客场: 科莫\n场馆: Ennio Tardini\n城市: Parma
+DESCRIPTION:Como at Parma (Serie A 2026-27\, Beijing time)\n\nSource: http
+ s://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -359,13 +354,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401875152@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270419T020000
 DTEND;TZID=Asia/Shanghai:20270419T030000
 SUMMARY:Parma Schedule · Parma @ Fiorentina
-DESCRIPTION:Parma at Fiorentina (Serie A 2026-27\, Beijing time)\n\n主场
- : 佛罗伦萨\n客场: 帕尔马\n场馆: Stadio Artemio Franchi\n城市:
-  Firenze
+DESCRIPTION:Parma at Fiorentina (Serie A 2026-27\, Beijing time)\n\nSource
+ : https://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -373,12 +367,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401875124@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270426T020000
 DTEND;TZID=Asia/Shanghai:20270426T030000
 SUMMARY:Parma Schedule · Parma vs Atalanta
-DESCRIPTION:Atalanta at Parma (Serie A 2026-27\, Beijing time)\n\n主场: 
- 帕尔马\n客场: 亚特兰大\n场馆: Ennio Tardini\n城市: Parma
+DESCRIPTION:Atalanta at Parma (Serie A 2026-27\, Beijing time)\n\nSource: 
+ https://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -386,13 +380,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401875104@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270503T020000
 DTEND;TZID=Asia/Shanghai:20270503T030000
 SUMMARY:Parma Schedule · Parma @ Torino
-DESCRIPTION:Parma at Torino (Serie A 2026-27\, Beijing time)\n\n主场: 
- 都灵\n客场: 帕尔马\n场馆: Stadio Olimpico Grande Torino\n城市: 
- Torino
+DESCRIPTION:Parma at Torino (Serie A 2026-27\, Beijing time)\n\nSource: ht
+ tps://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -400,12 +393,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401875106@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270510T020000
 DTEND;TZID=Asia/Shanghai:20270510T030000
 SUMMARY:Parma Schedule · Parma vs AC Milan
-DESCRIPTION:AC Milan at Parma (Serie A 2026-27\, Beijing time)\n\n主场: 
- 帕尔马\n客场: AC米兰\n场馆: Ennio Tardini\n城市: Parma
+DESCRIPTION:AC Milan at Parma (Serie A 2026-27\, Beijing time)\n\nSource: 
+ https://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -413,12 +406,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401875097@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270517T020000
 DTEND;TZID=Asia/Shanghai:20270517T030000
 SUMMARY:Parma Schedule · Parma @ Monza
-DESCRIPTION:Parma at Monza (Serie A 2026-27\, Beijing time)\n\n主场: 蒙
- 扎\n客场: 帕尔马\n场馆: U-Power Stadium\n城市: Monza
+DESCRIPTION:Parma at Monza (Serie A 2026-27\, Beijing time)\n\nSource: htt
+ ps://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -426,12 +419,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401874847@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270524T020000
 DTEND;TZID=Asia/Shanghai:20270524T030000
 SUMMARY:Parma Schedule · Parma vs Juventus
-DESCRIPTION:Juventus at Parma (Serie A 2026-27\, Beijing time)\n\n主场: 
- 帕尔马\n客场: 尤文图斯\n场馆: Ennio Tardini\n城市: Parma
+DESCRIPTION:Juventus at Parma (Serie A 2026-27\, Beijing time)\n\nSource: 
+ https://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED
@@ -439,12 +432,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seriea-par-seriea-2026-401874878@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261108T000000
 DTSTART;TZID=Asia/Shanghai:20270531T020000
 DTEND;TZID=Asia/Shanghai:20270531T030000
 SUMMARY:Parma Schedule · Parma @ Bologna
-DESCRIPTION:Parma at Bologna (Serie A 2026-27\, Beijing time)\n\n主场: 
- 博洛尼亚\n客场: 帕尔马\n场馆: Renato Dall'Ara\n城市: Bologna
+DESCRIPTION:Parma at Bologna (Serie A 2026-27\, Beijing time)\n\nSource: h
+ ttps://www.legaseriea.it/en/serie-a/fixture-results
 CATEGORIES:Parma Schedule
 URL;VALUE=URI:https://www.legaseriea.it/en/serie-a/fixture-results
 STATUS:CONFIRMED

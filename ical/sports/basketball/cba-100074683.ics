@@ -9,36 +9,6 @@ X-WR-CALDESC:宁波町渥在CBA赛程中的比赛日程，自动同步更
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-UID:cba-100074683-cba-2027-100110427@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261103T000000
-DTSTART;TZID=Asia/Shanghai:20261009T193000
-DTEND;TZID=Asia/Shanghai:20261009T203000
-SUMMARY:宁波町渥赛程 · 季前赛 · 宁波町渥 @ 北京首钢
-DESCRIPTION:宁波町渥 作客 北京首钢（CBA 2026-27 赛季，北京
- 时间）\n\n比分: 北京首钢 95 - 82 宁波町渥\n\n阶段: 季前
- 赛\n场序: 0\n主场: 北京首钢\n客场: 宁波町渥\n比分: 北京
- 首钢 95 - 82 宁波町渥
-CATEGORIES:宁波町渥赛程
-URL;VALUE=URI:https://www.cbaleague.com/data/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:cba-100074683-cba-2027-100110429@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261103T000000
-DTSTART;TZID=Asia/Shanghai:20261010T150000
-DTEND;TZID=Asia/Shanghai:20261010T160000
-SUMMARY:宁波町渥赛程 · 季前赛 · 宁波町渥 vs 江苏肯帝亚
-DESCRIPTION:江苏肯帝亚 作客 宁波町渥（CBA 2026-27 赛季，北
- 京时间）\n\n比分: 宁波町渥 76 - 87 江苏肯帝亚\n\n阶段: 
- 季前赛\n场序: 0\n主场: 宁波町渥\n客场: 江苏肯帝亚\n比
- 分: 宁波町渥 76 - 87 江苏肯帝亚
-CATEGORIES:宁波町渥赛程
-URL;VALUE=URI:https://www.cbaleague.com/data/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:cba-100074683-cba-2027-100110434@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261103T000000
@@ -49,7 +19,8 @@ SUMMARY:宁波町渥赛程 · 季前赛 · 宁波町渥 vs 浙江稠州金
 DESCRIPTION:浙江稠州金租 作客 宁波町渥（CBA 2026-27 赛季，
  北京时间）\n\n比分: 宁波町渥 76 - 86 浙江稠州金租\n\n阶
  段: 季前赛\n场序: 0\n主场: 宁波町渥\n客场: 浙江稠州金
- 租\n比分: 宁波町渥 76 - 86 浙江稠州金租
+ 租\n比分: 宁波町渥 76 - 86 浙江稠州金租\n\n来源: https://ww
+ w.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -65,7 +36,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第1轮 · 宁波町渥 vs 北京
 DESCRIPTION:北京控股 作客 宁波町渥（CBA 2026-27 赛季，北京
  时间）\n\n比分: 宁波町渥 71 - 95 北京控股\n\n阶段: 常规
  赛第1轮\n轮次: 第 1 轮\n场序: 3\n主场: 宁波町渥\n客场: 
- 北京控股\n比分: 宁波町渥 71 - 95 北京控股
+ 北京控股\n比分: 宁波町渥 71 - 95 北京控股\n\n来源: https:/
+ /www.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -81,7 +53,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第2轮 · 宁波町渥 vs 山西
 DESCRIPTION:山西汾酒 作客 宁波町渥（CBA 2026-27 赛季，北京
  时间）\n\n比分: 宁波町渥 73 - 103 山西汾酒\n\n阶段: 常规
  赛第2轮\n轮次: 第 2 轮\n场序: 16\n主场: 宁波町渥\n客场: 
- 山西汾酒\n比分: 宁波町渥 73 - 103 山西汾酒
+ 山西汾酒\n比分: 宁波町渥 73 - 103 山西汾酒\n\n来源: https:
+ //www.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -98,7 +71,7 @@ DESCRIPTION:宁波町渥 作客 福建晋江文旅（CBA 2026-27 赛季，
  北京时间）\n\n比分: 福建晋江文旅 95 - 76 宁波町渥\n\n阶
  段: 常规赛第3轮\n轮次: 第 3 轮\n场序: 21\n主场: 福建晋江
  文旅\n客场: 宁波町渥\n比分: 福建晋江文旅 95 - 76 宁波町
- 渥
+ 渥\n\n来源: https://www.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -114,7 +87,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第4轮 · 宁波町渥 @ 广东东
 DESCRIPTION:宁波町渥 作客 广东东阳光（CBA 2026-27 赛季，北
  京时间）\n\n比分: 广东东阳光 86 - 77 宁波町渥\n\n阶段: 
  常规赛第4轮\n轮次: 第 4 轮\n场序: 31\n主场: 广东东阳光\n
- 客场: 宁波町渥\n比分: 广东东阳光 86 - 77 宁波町渥
+ 客场: 宁波町渥\n比分: 广东东阳光 86 - 77 宁波町渥\n\n来
+ 源: https://www.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -131,7 +105,7 @@ DESCRIPTION:长白山恩都里 作客 宁波町渥（CBA 2026-27 赛季，
  北京时间）\n\n比分: 宁波町渥 76 - 85 长白山恩都里\n\n阶
  段: 常规赛第5轮\n轮次: 第 5 轮\n场序: 41\n主场: 宁波町渥
  \n客场: 长白山恩都里\n比分: 宁波町渥 76 - 85 长白山恩都
- 里
+ 里\n\n来源: https://www.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -147,7 +121,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第6轮 · 宁波町渥 vs 辽宁
 DESCRIPTION:辽宁本钢 作客 宁波町渥（CBA 2026-27 赛季，北京
  时间）\n\n比分: 宁波町渥 91 - 107 辽宁本钢\n\n阶段: 常规
  赛第6轮\n轮次: 第 6 轮\n场序: 58\n主场: 宁波町渥\n客场: 
- 辽宁本钢\n比分: 宁波町渥 91 - 107 辽宁本钢
+ 辽宁本钢\n比分: 宁波町渥 91 - 107 辽宁本钢\n\n来源: https:
+ //www.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -163,7 +138,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第7轮 · 宁波町渥 @ 天津先
 DESCRIPTION:宁波町渥 作客 天津先行者（CBA 2026-27 赛季，北
  京时间）\n\n比分: 天津先行者 95 - 81 宁波町渥\n\n阶段: 
  常规赛第7轮\n轮次: 第 7 轮\n场序: 69\n主场: 天津先行者\n
- 客场: 宁波町渥\n比分: 天津先行者 95 - 81 宁波町渥
+ 客场: 宁波町渥\n比分: 天津先行者 95 - 81 宁波町渥\n\n来
+ 源: https://www.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -179,7 +155,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第8轮 · 宁波町渥 @ 北京首
 DESCRIPTION:宁波町渥 作客 北京首钢（CBA 2026-27 赛季，北京
  时间）\n\n比分: 北京首钢 120 - 88 宁波町渥\n\n阶段: 常规
  赛第8轮\n轮次: 第 8 轮\n场序: 78\n主场: 北京首钢\n客场: 
- 宁波町渥\n比分: 北京首钢 120 - 88 宁波町渥
+ 宁波町渥\n比分: 北京首钢 120 - 88 宁波町渥\n\n来源: https:
+ //www.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -194,7 +171,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第9轮 · 宁波町渥 vs 南京
  同曦宙光
 DESCRIPTION:南京同曦宙光 作客 宁波町渥（CBA 2026-27 赛季，
  北京时间）\n\n阶段: 常规赛第9轮\n轮次: 第 9 轮\n场序: 84
- \n主场: 宁波町渥\n客场: 南京同曦宙光
+ \n主场: 宁波町渥\n客场: 南京同曦宙光\n\n来源: https://www.
+ cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -209,7 +187,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第10轮 · 宁波町渥 @ 江苏
  肯帝亚
 DESCRIPTION:宁波町渥 作客 江苏肯帝亚（CBA 2026-27 赛季，北
  京时间）\n\n阶段: 常规赛第10轮\n轮次: 第 10 轮\n场序: 91\
- n主场: 江苏肯帝亚\n客场: 宁波町渥
+ n主场: 江苏肯帝亚\n客场: 宁波町渥\n\n来源: https://www.cbal
+ eague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -224,7 +203,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第11轮 · 宁波町渥 @ 浙江
  稠州金租
 DESCRIPTION:宁波町渥 作客 浙江稠州金租（CBA 2026-27 赛季，
  北京时间）\n\n阶段: 常规赛第11轮\n轮次: 第 11 轮\n场序: 
- 102\n主场: 浙江稠州金租\n客场: 宁波町渥
+ 102\n主场: 浙江稠州金租\n客场: 宁波町渥\n\n来源: https://w
+ ww.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -239,7 +219,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第12轮 · 宁波町渥 vs 江苏
  肯帝亚
 DESCRIPTION:江苏肯帝亚 作客 宁波町渥（CBA 2026-27 赛季，北
  京时间）\n\n阶段: 常规赛第12轮\n轮次: 第 12 轮\n场序: 113
- \n主场: 宁波町渥\n客场: 江苏肯帝亚
+ \n主场: 宁波町渥\n客场: 江苏肯帝亚\n\n来源: https://www.cba
+ league.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -254,7 +235,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第13轮 · 宁波町渥 vs 山东
  高速
 DESCRIPTION:山东高速 作客 宁波町渥（CBA 2026-27 赛季，北京
  时间）\n\n阶段: 常规赛第13轮\n轮次: 第 13 轮\n场序: 122\n
- 主场: 宁波町渥\n客场: 山东高速
+ 主场: 宁波町渥\n客场: 山东高速\n\n来源: https://www.cbaleagu
+ e.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -269,7 +251,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第14轮 · 宁波町渥 @ 上海
  久事
 DESCRIPTION:宁波町渥 作客 上海久事（CBA 2026-27 赛季，北京
  时间）\n\n阶段: 常规赛第14轮\n轮次: 第 14 轮\n场序: 136\n
- 主场: 上海久事\n客场: 宁波町渥
+ 主场: 上海久事\n客场: 宁波町渥\n\n来源: https://www.cbaleagu
+ e.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -284,7 +267,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第15轮 · 宁波町渥 @ 新疆
  广汇能源
 DESCRIPTION:宁波町渥 作客 新疆广汇能源（CBA 2026-27 赛季，
  北京时间）\n\n阶段: 常规赛第15轮\n轮次: 第 15 轮\n场序: 
- 147\n主场: 新疆广汇能源\n客场: 宁波町渥
+ 147\n主场: 新疆广汇能源\n客场: 宁波町渥\n\n来源: https://w
+ ww.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -299,7 +283,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第16轮 · 宁波町渥 @ 青岛
  崂山啤酒
 DESCRIPTION:宁波町渥 作客 青岛崂山啤酒（CBA 2026-27 赛季，
  北京时间）\n\n阶段: 常规赛第16轮\n轮次: 第 16 轮\n场序: 
- 152\n主场: 青岛崂山啤酒\n客场: 宁波町渥
+ 152\n主场: 青岛崂山啤酒\n客场: 宁波町渥\n\n来源: https://w
+ ww.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -314,7 +299,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第17轮 · 宁波町渥 vs 浙江
  稠州金租
 DESCRIPTION:浙江稠州金租 作客 宁波町渥（CBA 2026-27 赛季，
  北京时间）\n\n阶段: 常规赛第17轮\n轮次: 第 17 轮\n场序: 
- 166\n主场: 宁波町渥\n客场: 浙江稠州金租
+ 166\n主场: 宁波町渥\n客场: 浙江稠州金租\n\n来源: https://w
+ ww.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -329,7 +315,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第18轮 · 宁波町渥 vs 江苏
  肯帝亚
 DESCRIPTION:江苏肯帝亚 作客 宁波町渥（CBA 2026-27 赛季，北
  京时间）\n\n阶段: 常规赛第18轮\n轮次: 第 18 轮\n场序: 173
- \n主场: 宁波町渥\n客场: 江苏肯帝亚
+ \n主场: 宁波町渥\n客场: 江苏肯帝亚\n\n来源: https://www.cba
+ league.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -344,7 +331,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第19轮 · 宁波町渥 @ 浙江
  稠州金租
 DESCRIPTION:宁波町渥 作客 浙江稠州金租（CBA 2026-27 赛季，
  北京时间）\n\n阶段: 常规赛第19轮\n轮次: 第 19 轮\n场序: 
- 183\n主场: 浙江稠州金租\n客场: 宁波町渥
+ 183\n主场: 浙江稠州金租\n客场: 宁波町渥\n\n来源: https://w
+ ww.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -359,7 +347,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第20轮 · 宁波町渥 @ 深圳
  马可波罗
 DESCRIPTION:宁波町渥 作客 深圳马可波罗（CBA 2026-27 赛季，
  北京时间）\n\n阶段: 常规赛第20轮\n轮次: 第 20 轮\n场序: 
- 191\n主场: 深圳马可波罗\n客场: 宁波町渥
+ 191\n主场: 深圳马可波罗\n客场: 宁波町渥\n\n来源: https://w
+ ww.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -374,7 +363,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第21轮 · 宁波町渥 vs 新疆
  广汇能源
 DESCRIPTION:新疆广汇能源 作客 宁波町渥（CBA 2026-27 赛季，
  北京时间）\n\n阶段: 常规赛第21轮\n轮次: 第 21 轮\n场序: 
- 202\n主场: 宁波町渥\n客场: 新疆广汇能源
+ 202\n主场: 宁波町渥\n客场: 新疆广汇能源\n\n来源: https://w
+ ww.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -389,7 +379,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第22轮 · 宁波町渥 vs 深圳
  马可波罗
 DESCRIPTION:深圳马可波罗 作客 宁波町渥（CBA 2026-27 赛季，
  北京时间）\n\n阶段: 常规赛第22轮\n轮次: 第 22 轮\n场序: 
- 219\n主场: 宁波町渥\n客场: 深圳马可波罗
+ 219\n主场: 宁波町渥\n客场: 深圳马可波罗\n\n来源: https://w
+ ww.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -404,7 +395,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第23轮 · 宁波町渥 @ 江苏
  肯帝亚
 DESCRIPTION:宁波町渥 作客 江苏肯帝亚（CBA 2026-27 赛季，北
  京时间）\n\n阶段: 常规赛第23轮\n轮次: 第 23 轮\n场序: 225
- \n主场: 江苏肯帝亚\n客场: 宁波町渥
+ \n主场: 江苏肯帝亚\n客场: 宁波町渥\n\n来源: https://www.cba
+ league.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -419,7 +411,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第24轮 · 宁波町渥 vs 四川
  锦城
 DESCRIPTION:四川锦城 作客 宁波町渥（CBA 2026-27 赛季，北京
  时间）\n\n阶段: 常规赛第24轮\n轮次: 第 24 轮\n场序: 236\n
- 主场: 宁波町渥\n客场: 四川锦城
+ 主场: 宁波町渥\n客场: 四川锦城\n\n来源: https://www.cbaleagu
+ e.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -434,7 +427,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第25轮 · 宁波町渥 @ 广州
  智都集团
 DESCRIPTION:宁波町渥 作客 广州智都集团（CBA 2026-27 赛季，
  北京时间）\n\n阶段: 常规赛第25轮\n轮次: 第 25 轮\n场序: 
- 245\n主场: 广州智都集团\n客场: 宁波町渥
+ 245\n主场: 广州智都集团\n客场: 宁波町渥\n\n来源: https://w
+ ww.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -449,7 +443,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第26轮 · 宁波町渥 @ 福建
  晋江文旅
 DESCRIPTION:宁波町渥 作客 福建晋江文旅（CBA 2026-27 赛季，
  北京时间）\n\n阶段: 常规赛第26轮\n轮次: 第 26 轮\n场序: 
- 254\n主场: 福建晋江文旅\n客场: 宁波町渥
+ 254\n主场: 福建晋江文旅\n客场: 宁波町渥\n\n来源: https://w
+ ww.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -464,7 +459,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第27轮 · 宁波町渥 vs 浙江
  稠州金租
 DESCRIPTION:浙江稠州金租 作客 宁波町渥（CBA 2026-27 赛季，
  北京时间）\n\n阶段: 常规赛第27轮\n轮次: 第 27 轮\n场序: 
- 264\n主场: 宁波町渥\n客场: 浙江稠州金租
+ 264\n主场: 宁波町渥\n客场: 浙江稠州金租\n\n来源: https://w
+ ww.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -479,7 +475,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第28轮 · 宁波町渥 vs 浙江
  浙商证券
 DESCRIPTION:浙江浙商证券 作客 宁波町渥（CBA 2026-27 赛季，
  北京时间）\n\n阶段: 常规赛第28轮\n轮次: 第 28 轮\n场序: 
- 275\n主场: 宁波町渥\n客场: 浙江浙商证券
+ 275\n主场: 宁波町渥\n客场: 浙江浙商证券\n\n来源: https://w
+ ww.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -494,7 +491,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第29轮 · 宁波町渥 @ 深圳
  马可波罗
 DESCRIPTION:宁波町渥 作客 深圳马可波罗（CBA 2026-27 赛季，
  北京时间）\n\n阶段: 常规赛第29轮\n轮次: 第 29 轮\n场序: 
- 289\n主场: 深圳马可波罗\n客场: 宁波町渥
+ 289\n主场: 深圳马可波罗\n客场: 宁波町渥\n\n来源: https://w
+ ww.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -509,7 +507,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第30轮 · 宁波町渥 @ 山东
  高速
 DESCRIPTION:宁波町渥 作客 山东高速（CBA 2026-27 赛季，北京
  时间）\n\n阶段: 常规赛第30轮\n轮次: 第 30 轮\n场序: 298\n
- 主场: 山东高速\n客场: 宁波町渥
+ 主场: 山东高速\n客场: 宁波町渥\n\n来源: https://www.cbaleagu
+ e.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -524,7 +523,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第31轮 · 宁波町渥 @ 四川
  锦城
 DESCRIPTION:宁波町渥 作客 四川锦城（CBA 2026-27 赛季，北京
  时间）\n\n阶段: 常规赛第31轮\n轮次: 第 31 轮\n场序: 310\n
- 主场: 四川锦城\n客场: 宁波町渥
+ 主场: 四川锦城\n客场: 宁波町渥\n\n来源: https://www.cbaleagu
+ e.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -539,7 +539,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第32轮 · 宁波町渥 vs 广州
  智都集团
 DESCRIPTION:广州智都集团 作客 宁波町渥（CBA 2026-27 赛季，
  北京时间）\n\n阶段: 常规赛第32轮\n轮次: 第 32 轮\n场序: 
- 316\n主场: 宁波町渥\n客场: 广州智都集团
+ 316\n主场: 宁波町渥\n客场: 广州智都集团\n\n来源: https://w
+ ww.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -554,7 +555,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第33轮 · 宁波町渥 vs 福建
  晋江文旅
 DESCRIPTION:福建晋江文旅 作客 宁波町渥（CBA 2026-27 赛季，
  北京时间）\n\n阶段: 常规赛第33轮\n轮次: 第 33 轮\n场序: 
- 328\n主场: 宁波町渥\n客场: 福建晋江文旅
+ 328\n主场: 宁波町渥\n客场: 福建晋江文旅\n\n来源: https://w
+ ww.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -569,7 +571,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第34轮 · 宁波町渥 vs 青岛
  崂山啤酒
 DESCRIPTION:青岛崂山啤酒 作客 宁波町渥（CBA 2026-27 赛季，
  北京时间）\n\n阶段: 常规赛第34轮\n轮次: 第 34 轮\n场序: 
- 336\n主场: 宁波町渥\n客场: 青岛崂山啤酒
+ 336\n主场: 宁波町渥\n客场: 青岛崂山啤酒\n\n来源: https://w
+ ww.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -584,7 +587,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第35轮 · 宁波町渥 @ 浙江
  浙商证券
 DESCRIPTION:宁波町渥 作客 浙江浙商证券（CBA 2026-27 赛季，
  北京时间）\n\n阶段: 常规赛第35轮\n轮次: 第 35 轮\n场序: 
- 348\n主场: 浙江浙商证券\n客场: 宁波町渥
+ 348\n主场: 浙江浙商证券\n客场: 宁波町渥\n\n来源: https://w
+ ww.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -599,7 +603,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第36轮 · 宁波町渥 vs 深圳
  马可波罗
 DESCRIPTION:深圳马可波罗 作客 宁波町渥（CBA 2026-27 赛季，
  北京时间）\n\n阶段: 常规赛第36轮\n轮次: 第 36 轮\n场序: 
- 355\n主场: 宁波町渥\n客场: 深圳马可波罗
+ 355\n主场: 宁波町渥\n客场: 深圳马可波罗\n\n来源: https://w
+ ww.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -614,7 +619,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第37轮 · 宁波町渥 vs 上海
  久事
 DESCRIPTION:上海久事 作客 宁波町渥（CBA 2026-27 赛季，北京
  时间）\n\n阶段: 常规赛第37轮\n轮次: 第 37 轮\n场序: 363\n
- 主场: 宁波町渥\n客场: 上海久事
+ 主场: 宁波町渥\n客场: 上海久事\n\n来源: https://www.cbaleagu
+ e.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -629,7 +635,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第38轮 · 宁波町渥 @ 北京
  控股
 DESCRIPTION:宁波町渥 作客 北京控股（CBA 2026-27 赛季，北京
  时间）\n\n阶段: 常规赛第38轮\n轮次: 第 38 轮\n场序: 379\n
- 主场: 北京控股\n客场: 宁波町渥
+ 主场: 北京控股\n客场: 宁波町渥\n\n来源: https://www.cbaleagu
+ e.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -644,7 +651,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第39轮 · 宁波町渥 @ 山西
  汾酒
 DESCRIPTION:宁波町渥 作客 山西汾酒（CBA 2026-27 赛季，北京
  时间）\n\n阶段: 常规赛第39轮\n轮次: 第 39 轮\n场序: 389\n
- 主场: 山西汾酒\n客场: 宁波町渥
+ 主场: 山西汾酒\n客场: 宁波町渥\n\n来源: https://www.cbaleagu
+ e.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -659,7 +667,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第40轮 · 宁波町渥 vs 福建
  晋江文旅
 DESCRIPTION:福建晋江文旅 作客 宁波町渥（CBA 2026-27 赛季，
  北京时间）\n\n阶段: 常规赛第40轮\n轮次: 第 40 轮\n场序: 
- 397\n主场: 宁波町渥\n客场: 福建晋江文旅
+ 397\n主场: 宁波町渥\n客场: 福建晋江文旅\n\n来源: https://w
+ ww.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -674,7 +683,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第41轮 · 宁波町渥 vs 广东
  东阳光
 DESCRIPTION:广东东阳光 作客 宁波町渥（CBA 2026-27 赛季，北
  京时间）\n\n阶段: 常规赛第41轮\n轮次: 第 41 轮\n场序: 407
- \n主场: 宁波町渥\n客场: 广东东阳光
+ \n主场: 宁波町渥\n客场: 广东东阳光\n\n来源: https://www.cba
+ league.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -689,7 +699,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第42轮 · 宁波町渥 @ 长白
  山恩都里
 DESCRIPTION:宁波町渥 作客 长白山恩都里（CBA 2026-27 赛季，
  北京时间）\n\n阶段: 常规赛第42轮\n轮次: 第 42 轮\n场序: 
- 412\n主场: 长白山恩都里\n客场: 宁波町渥
+ 412\n主场: 长白山恩都里\n客场: 宁波町渥\n\n来源: https://w
+ ww.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -704,7 +715,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第43轮 · 宁波町渥 @ 辽宁
  本钢
 DESCRIPTION:宁波町渥 作客 辽宁本钢（CBA 2026-27 赛季，北京
  时间）\n\n阶段: 常规赛第43轮\n轮次: 第 43 轮\n场序: 421\n
- 主场: 辽宁本钢\n客场: 宁波町渥
+ 主场: 辽宁本钢\n客场: 宁波町渥\n\n来源: https://www.cbaleagu
+ e.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -719,7 +731,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第44轮 · 宁波町渥 vs 天津
  先行者
 DESCRIPTION:天津先行者 作客 宁波町渥（CBA 2026-27 赛季，北
  京时间）\n\n阶段: 常规赛第44轮\n轮次: 第 44 轮\n场序: 431
- \n主场: 宁波町渥\n客场: 天津先行者
+ \n主场: 宁波町渥\n客场: 天津先行者\n\n来源: https://www.cba
+ league.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -734,7 +747,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第45轮 · 宁波町渥 vs 北京
  首钢
 DESCRIPTION:北京首钢 作客 宁波町渥（CBA 2026-27 赛季，北京
  时间）\n\n阶段: 常规赛第45轮\n轮次: 第 45 轮\n场序: 448\n
- 主场: 宁波町渥\n客场: 北京首钢
+ 主场: 宁波町渥\n客场: 北京首钢\n\n来源: https://www.cbaleagu
+ e.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
@@ -749,7 +763,8 @@ SUMMARY:宁波町渥赛程 · 常规赛第46轮 · 宁波町渥 @ 南京
  同曦宙光
 DESCRIPTION:宁波町渥 作客 南京同曦宙光（CBA 2026-27 赛季，
  北京时间）\n\n阶段: 常规赛第46轮\n轮次: 第 46 轮\n场序: 
- 452\n主场: 南京同曦宙光\n客场: 宁波町渥
+ 452\n主场: 南京同曦宙光\n客场: 宁波町渥\n\n来源: https://w
+ ww.cbaleague.com/data/
 CATEGORIES:宁波町渥赛程
 URL;VALUE=URI:https://www.cbaleague.com/data/
 STATUS:CONFIRMED
