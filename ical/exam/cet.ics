@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cet//EN
+URL:https://koyomi.cast/sources/cet
+NAME:大学英语四六级
+X-WR-CALNAME:大学英语四六级
+X-WR-CALDESC:大学英语四、六级笔试与准考证打印时间。报
+ 名由所在学校安排；不包含口试。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cet-cet-2026-h2-admission-ticket@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261111T000000
+DTSTART;TZID=Asia/Shanghai:20261201T090000
+DTEND;TZID=Asia/Shanghai:20261201T100000
+SUMMARY:大学英语四六级 · 下半年笔试准考证打印开放
+DESCRIPTION:笔试准考证打印开放。报名时间由所在学校安
+ 排；本源不包含口试。\n\n来源: https://www.neea.edu.cn/html1/re
+ port/2609/1-1.htm
+CATEGORIES:大学英语四六级
+URL;VALUE=URI:https://www.neea.edu.cn/html1/report/2609/1-1.htm
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cet-cet-2026-h2-cet4-written-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261111T000000
+DTSTART;TZID=Asia/Shanghai:20261212T090000
+DTEND;TZID=Asia/Shanghai:20261212T112000
+SUMMARY:大学英语四六级 · 下半年英语四级笔试
+DESCRIPTION:下半年英语四级笔试，时间以所链接的官方公
+ 告为准。\n\n来源: https://www.neea.edu.cn/html1/report/2609/1-1.htm
+CATEGORIES:大学英语四六级
+URL;VALUE=URI:https://www.neea.edu.cn/html1/report/2609/1-1.htm
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cet-cet-2026-h2-cet6-written-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261111T000000
+DTSTART;TZID=Asia/Shanghai:20261212T150000
+DTEND;TZID=Asia/Shanghai:20261212T172500
+SUMMARY:大学英语四六级 · 下半年英语六级笔试
+DESCRIPTION:下半年英语六级笔试，时间以所链接的官方公
+ 告为准。\n\n来源: https://www.neea.edu.cn/html1/report/2609/1-1.htm
+CATEGORIES:大学英语四六级
+URL;VALUE=URI:https://www.neea.edu.cn/html1/report/2609/1-1.htm
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//tax-agent//EN
+URL:https://koyomi.cast/sources/tax-agent
+NAME:税务师
+X-WR-CALNAME:税务师
+X-WR-CALDESC:税务师报名、补报名、缴费截止、准考证打印
+ 及各科考试时间。成绩日期以另行发布的官方公告为准
+ 。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:tax-agent-tax-agent-2026-admission-ticket@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261111T000000
+DTSTART;TZID=Asia/Shanghai:20261109T100000
+DTEND;TZID=Asia/Shanghai:20261115T150000
+SUMMARY:税务师 · 税务师准考证打印
+DESCRIPTION:税务师准考证打印，时间以所链接的官方公告
+ 为准。\n\n来源: https://www.cctaa.cn/zxtz/202610/t20261029_1160128.ht
+ ml
+CATEGORIES:税务师
+URL;VALUE=URI:https://www.cctaa.cn/zxtz/202610/t20261029_1160128.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tax-agent-tax-agent-2026-exam-tax-law-1@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261111T000000
+DTSTART;TZID=Asia/Shanghai:20261114T090000
+DTEND;TZID=Asia/Shanghai:20261114T113000
+SUMMARY:税务师 · 税务师税法(一)
+DESCRIPTION:税务师税法(一)，时间以所链接的官方公告为准
+ 。\n\n来源: https://www.cctaa.cn/zxtz/202604/t20260429_1157571.html
+CATEGORIES:税务师
+URL;VALUE=URI:https://www.cctaa.cn/zxtz/202604/t20260429_1157571.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tax-agent-tax-agent-2026-exam-tax-law-2@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261111T000000
+DTSTART;TZID=Asia/Shanghai:20261114T130000
+DTEND;TZID=Asia/Shanghai:20261114T153000
+SUMMARY:税务师 · 税务师税法(二)
+DESCRIPTION:税务师税法(二)，时间以所链接的官方公告为准
+ 。\n\n来源: https://www.cctaa.cn/zxtz/202604/t20260429_1157571.html
+CATEGORIES:税务师
+URL;VALUE=URI:https://www.cctaa.cn/zxtz/202604/t20260429_1157571.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tax-agent-tax-agent-2026-exam-tax-related-law@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261111T000000
+DTSTART;TZID=Asia/Shanghai:20261114T163000
+DTEND;TZID=Asia/Shanghai:20261114T190000
+SUMMARY:税务师 · 税务师涉税服务相关法律
+DESCRIPTION:税务师涉税服务相关法律，时间以所链接的官
+ 方公告为准。\n\n来源: https://www.cctaa.cn/zxtz/202604/t20260429_1
+ 157571.html
+CATEGORIES:税务师
+URL;VALUE=URI:https://www.cctaa.cn/zxtz/202604/t20260429_1157571.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tax-agent-tax-agent-2026-exam-finance-accounting@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261111T000000
+DTSTART;TZID=Asia/Shanghai:20261115T090000
+DTEND;TZID=Asia/Shanghai:20261115T113000
+SUMMARY:税务师 · 税务师财务与会计
+DESCRIPTION:税务师财务与会计，时间以所链接的官方公告
+ 为准。\n\n来源: https://www.cctaa.cn/zxtz/202604/t20260429_1157571.ht
+ ml
+CATEGORIES:税务师
+URL;VALUE=URI:https://www.cctaa.cn/zxtz/202604/t20260429_1157571.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tax-agent-tax-agent-2026-exam-tax-practice@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261111T000000
+DTSTART;TZID=Asia/Shanghai:20261115T140000
+DTEND;TZID=Asia/Shanghai:20261115T163000
+SUMMARY:税务师 · 税务师涉税服务实务
+DESCRIPTION:税务师涉税服务实务，时间以所链接的官方公
+ 告为准。\n\n来源: https://www.cctaa.cn/zxtz/202604/t20260429_1157571
+ .html
+CATEGORIES:税务师
+URL;VALUE=URI:https://www.cctaa.cn/zxtz/202604/t20260429_1157571.html
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

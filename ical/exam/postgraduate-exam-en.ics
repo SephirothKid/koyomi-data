@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//postgraduate-exam//EN
+URL:https://koyomi.cast/sources/postgraduate-exam
+NAME:China Postgraduate Entrance Exam
+X-WR-CALNAME:China Postgraduate Entrance Exam
+X-WR-CALDESC:National postgraduate pre-registration, registration and init
+ ial examination dates, grouped by admissions cycle while retaining the act
+ ual calendar dates.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:postgraduate-exam-postgraduate-exam-2027-pre-register-close@koyomi.cas
+ t
+SEQUENCE:0
+DTSTAMP:20261111T000000
+DTSTART;TZID=Asia/Shanghai:20261012T220000
+DTEND;TZID=Asia/Shanghai:20261012T230000
+SUMMARY:China Postgraduate Entrance Exam · Pre-registration Closes
+DESCRIPTION:Pre-registration Closes. Dates and times follow the linked off
+ icial notice (Asia/Shanghai).\n\nSource: https://yz.chsi.com.cn/kyzx/jybzc
+ /202609/20260924/2293971511.html
+CATEGORIES:China Postgraduate Entrance Exam
+URL;VALUE=URI:https://yz.chsi.com.cn/kyzx/jybzc/202609/20260924/2293971511
+ .html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:postgraduate-exam-postgraduate-exam-2027-register-open@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261111T000000
+DTSTART;TZID=Asia/Shanghai:20261015T090000
+DTEND;TZID=Asia/Shanghai:20261015T100000
+SUMMARY:China Postgraduate Entrance Exam · Registration Opens
+DESCRIPTION:Registration Opens. Dates and times follow the linked official
+  notice (Asia/Shanghai).\n\nSource: https://yz.chsi.com.cn/kyzx/jybzc/2026
+ 09/20260924/2293971511.html
+CATEGORIES:China Postgraduate Entrance Exam
+URL;VALUE=URI:https://yz.chsi.com.cn/kyzx/jybzc/202609/20260924/2293971511
+ .html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:postgraduate-exam-postgraduate-exam-2027-register-close@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261111T000000
+DTSTART;TZID=Asia/Shanghai:20261024T220000
+DTEND;TZID=Asia/Shanghai:20261024T230000
+SUMMARY:China Postgraduate Entrance Exam · Registration Closes
+DESCRIPTION:Registration Closes. Dates and times follow the linked officia
+ l notice (Asia/Shanghai).\n\nSource: https://yz.chsi.com.cn/kyzx/jybzc/202
+ 609/20260924/2293971511.html
+CATEGORIES:China Postgraduate Entrance Exam
+URL;VALUE=URI:https://yz.chsi.com.cn/kyzx/jybzc/202609/20260924/2293971511
+ .html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:postgraduate-exam-postgraduate-exam-2027-initial-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261111T000000
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261221
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:China Postgraduate Entrance Exam · National Postgraduate Entrance
+  Examination
+DESCRIPTION:National initial test dates. Confirmation dates are set locall
+ y\; the approximate admission-ticket release window is not converted into 
+ an exact date.\n\nSource: https://yz.chsi.com.cn/kyzx/jybzc/202609/2026092
+ 4/2293971511.html
+CATEGORIES:China Postgraduate Entrance Exam
+URL;VALUE=URI:https://yz.chsi.com.cn/kyzx/jybzc/202609/20260924/2293971511
+ .html
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

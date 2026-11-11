@@ -4,24 +4,8 @@ PRODID:-//Koyomi Cast//cpa//EN
 URL:https://koyomi.cast/sources/cpa
 NAME:CPA Exam
 X-WR-CALNAME:CPA Exam
-X-WR-CALDESC:注册会计师全国统一考试，持续更新各年报名
- 、考试、成绩公布等关键时间节点。
+X-WR-CALDESC:China CPA examination dates, registration and admission ticke
+ t deadlines. Estimated results periods are retained as notes.
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
-BEGIN:VEVENT
-UID:cpa-cpa-2026-result@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20260831T000000
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261201
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:CPA Exam · Results Release
-DESCRIPTION:2026 Results Release\n\nSource: https://cpaexam.cicpa.org.cn/f
- iles/articlehtml/statichtml/01/0000019CDAB4F015B321D5725FC353DB.html
-CATEGORIES:CPA Exam
-URL;VALUE=URI:https://cpaexam.cicpa.org.cn/files/articlehtml/statichtml/01
- /0000019CDAB4F015B321D5725FC353DB.html
-STATUS:CONFIRMED
-END:VEVENT
 END:VCALENDAR

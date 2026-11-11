@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//cet//EN
+URL:https://koyomi.cast/sources/cet
+NAME:CET-4 and CET-6
+X-WR-CALNAME:CET-4 and CET-6
+X-WR-CALDESC:CET-4 and CET-6 written tests and admission-ticket release da
+ tes. Registration is arranged by each school; oral tests are excluded.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:cet-cet-2026-h2-admission-ticket@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261111T000000
+DTSTART;TZID=Asia/Shanghai:20261201T090000
+DTEND;TZID=Asia/Shanghai:20261201T100000
+SUMMARY:CET-4 and CET-6 · H2 Written Exam Admission Ticket Printing Opens
+DESCRIPTION:Written exam admission ticket printing opens. Registration dat
+ es are set by each school\; oral tests are outside this calendar.\n\nSourc
+ e: https://www.neea.edu.cn/html1/report/2609/1-1.htm
+CATEGORIES:CET-4 and CET-6
+URL;VALUE=URI:https://www.neea.edu.cn/html1/report/2609/1-1.htm
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cet-cet-2026-h2-cet4-written-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261111T000000
+DTSTART;TZID=Asia/Shanghai:20261212T090000
+DTEND;TZID=Asia/Shanghai:20261212T112000
+SUMMARY:CET-4 and CET-6 · H2 CET-4 Written Exam
+DESCRIPTION:H2 CET-4 Written Exam. Dates and times follow the linked offic
+ ial notice (Asia/Shanghai).\n\nSource: https://www.neea.edu.cn/html1/repor
+ t/2609/1-1.htm
+CATEGORIES:CET-4 and CET-6
+URL;VALUE=URI:https://www.neea.edu.cn/html1/report/2609/1-1.htm
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cet-cet-2026-h2-cet6-written-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261111T000000
+DTSTART;TZID=Asia/Shanghai:20261212T150000
+DTEND;TZID=Asia/Shanghai:20261212T172500
+SUMMARY:CET-4 and CET-6 · H2 CET-6 Written Exam
+DESCRIPTION:H2 CET-6 Written Exam. Dates and times follow the linked offic
+ ial notice (Asia/Shanghai).\n\nSource: https://www.neea.edu.cn/html1/repor
+ t/2609/1-1.htm
+CATEGORIES:CET-4 and CET-6
+URL;VALUE=URI:https://www.neea.edu.cn/html1/report/2609/1-1.htm
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

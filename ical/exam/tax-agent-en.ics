@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//tax-agent//EN
+URL:https://koyomi.cast/sources/tax-agent
+NAME:Tax Agent Qualification Exam
+X-WR-CALNAME:Tax Agent Qualification Exam
+X-WR-CALDESC:Tax agent registration, supplementary registration, payment d
+ eadlines, admission-ticket printing and individual exam sessions. Results 
+ dates require a separate official announcement.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:tax-agent-tax-agent-2026-admission-ticket@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261111T000000
+DTSTART;TZID=Asia/Shanghai:20261109T100000
+DTEND;TZID=Asia/Shanghai:20261115T150000
+SUMMARY:Tax Agent Qualification Exam · Tax Agent Admission Ticket Printin
+ g
+DESCRIPTION:Tax Agent Admission Ticket Printing. Dates and times follow th
+ e linked official notice (Asia/Shanghai).\n\nSource: https://www.cctaa.cn/
+ zxtz/202610/t20261029_1160128.html
+CATEGORIES:Tax Agent Qualification Exam
+URL;VALUE=URI:https://www.cctaa.cn/zxtz/202610/t20261029_1160128.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tax-agent-tax-agent-2026-exam-tax-law-1@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261111T000000
+DTSTART;TZID=Asia/Shanghai:20261114T090000
+DTEND;TZID=Asia/Shanghai:20261114T113000
+SUMMARY:Tax Agent Qualification Exam · Tax Agent Tax Law I
+DESCRIPTION:Tax Agent Tax Law I. Dates and times follow the linked officia
+ l notice (Asia/Shanghai).\n\nSource: https://www.cctaa.cn/zxtz/202604/t202
+ 60429_1157571.html
+CATEGORIES:Tax Agent Qualification Exam
+URL;VALUE=URI:https://www.cctaa.cn/zxtz/202604/t20260429_1157571.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tax-agent-tax-agent-2026-exam-tax-law-2@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261111T000000
+DTSTART;TZID=Asia/Shanghai:20261114T130000
+DTEND;TZID=Asia/Shanghai:20261114T153000
+SUMMARY:Tax Agent Qualification Exam · Tax Agent Tax Law II
+DESCRIPTION:Tax Agent Tax Law II. Dates and times follow the linked offici
+ al notice (Asia/Shanghai).\n\nSource: https://www.cctaa.cn/zxtz/202604/t20
+ 260429_1157571.html
+CATEGORIES:Tax Agent Qualification Exam
+URL;VALUE=URI:https://www.cctaa.cn/zxtz/202604/t20260429_1157571.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tax-agent-tax-agent-2026-exam-tax-related-law@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261111T000000
+DTSTART;TZID=Asia/Shanghai:20261114T163000
+DTEND;TZID=Asia/Shanghai:20261114T190000
+SUMMARY:Tax Agent Qualification Exam · Tax Agent Tax-related Service Law
+DESCRIPTION:Tax Agent Tax-related Service Law. Dates and times follow the 
+ linked official notice (Asia/Shanghai).\n\nSource: https://www.cctaa.cn/zx
+ tz/202604/t20260429_1157571.html
+CATEGORIES:Tax Agent Qualification Exam
+URL;VALUE=URI:https://www.cctaa.cn/zxtz/202604/t20260429_1157571.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tax-agent-tax-agent-2026-exam-finance-accounting@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261111T000000
+DTSTART;TZID=Asia/Shanghai:20261115T090000
+DTEND;TZID=Asia/Shanghai:20261115T113000
+SUMMARY:Tax Agent Qualification Exam · Tax Agent Finance and Accounting
+DESCRIPTION:Tax Agent Finance and Accounting. Dates and times follow the l
+ inked official notice (Asia/Shanghai).\n\nSource: https://www.cctaa.cn/zxt
+ z/202604/t20260429_1157571.html
+CATEGORIES:Tax Agent Qualification Exam
+URL;VALUE=URI:https://www.cctaa.cn/zxtz/202604/t20260429_1157571.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tax-agent-tax-agent-2026-exam-tax-practice@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261111T000000
+DTSTART;TZID=Asia/Shanghai:20261115T140000
+DTEND;TZID=Asia/Shanghai:20261115T163000
+SUMMARY:Tax Agent Qualification Exam · Tax Agent Tax-related Service Prac
+ tice
+DESCRIPTION:Tax Agent Tax-related Service Practice. Dates and times follow
+  the linked official notice (Asia/Shanghai).\n\nSource: https://www.cctaa.
+ cn/zxtz/202604/t20260429_1157571.html
+CATEGORIES:Tax Agent Qualification Exam
+URL;VALUE=URI:https://www.cctaa.cn/zxtz/202604/t20260429_1157571.html
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
