@@ -21,7 +21,7 @@
   "subscriber_count": 30160,
   "rating": 4.4,
   "rating_count": 460,
-  "last_updated": "2026-11-09",
+  "last_updated": "2026-11-11",
   "events": [
     {
       "id": "epic-free-2026-w21",
@@ -922,15 +922,15 @@
       "name": "《Idle Champions of the Forgotten Realms》、浮游世界",
       "name_en": "Idle Champions of the Forgotten Realms, Flotsam",
       "date": "2026-11-06",
-      "time": "23:00",
+      "time": "00:00",
       "timezone": "Asia/Shanghai",
-      "type": "event",
+      "type": "range",
       "year": 2026,
       "description": "本周免费游戏：《Idle Champions of the Forgotten Realms》、浮游世界",
       "description_en": "This week's free games: Idle Champions of the Forgotten Realms, Flotsam",
       "url": "https://store.epicgames.com/zh-CN/free-games",
-      "status": "completed",
-      "last_verified": "2026-11-09",
+      "status": "active",
+      "last_verified": "2026-11-11",
       "verified_by": "auto",
       "details": {
         "领取方式": "Epic Games Store 客户端/网页",
@@ -960,22 +960,25 @@
       "details_en": {
         "Catalogue source": "https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions?locale=zh-CN&country=CN&allowCountries=CN",
         "English title sources": "https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions?locale=en-US&country=CN&allowCountries=CN"
-      }
+      },
+      "end_date": "2026-11-13",
+      "end_time": "00:00",
+      "time_kind": "datetime_range"
     },
     {
       "id": "epic-free-2026-w46",
       "name": "斗阵骑士 Knightica",
       "name_en": "Knightica",
       "date": "2026-11-13",
-      "time": "23:00",
+      "time": "00:00",
       "timezone": "Asia/Shanghai",
-      "type": "event",
+      "type": "range",
       "year": 2026,
       "description": "本周免费游戏：斗阵骑士 Knightica",
       "description_en": "This week's free games: Knightica",
       "url": "https://store.epicgames.com/zh-CN/free-games",
       "status": "confirmed",
-      "last_verified": "2026-11-09",
+      "last_verified": "2026-11-11",
       "verified_by": "auto",
       "details": {
         "领取方式": "Epic Games Store 客户端/网页",
@@ -997,7 +1000,10 @@
           "original_price": "¥47.00",
           "store_url": "https://store.epicgames.com/zh-CN/p/72b46f5d95624fd5b7e7d81b7dcaead1"
         }
-      ]
+      ],
+      "end_date": "2026-11-20",
+      "end_time": "00:00",
+      "time_kind": "datetime_range"
     },
     {
       "id": "epic-free-2026-w50",

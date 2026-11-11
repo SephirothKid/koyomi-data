@@ -4,8 +4,8 @@
   "category": "gaming",
   "name_en": "Zenless Zone Zero Version Calendar",
   "subcategory": "游戏更新",
-  "description": "绝区零版本和调频节点，仅收录官方公告中可解析的日期。",
-  "description_en": "Zenless Zone Zero versions and signal-search windows parsed from official announcements only.",
+  "description": "绝区零版本、调频和活动日程，仅收录官方公告中可解析的日期。",
+  "description_en": "Zenless Zone Zero versions, signal searches, and events parsed from official announcements.",
   "icon": "/logos/zenless-zone-zero.jpg",
   "tags": [
     "绝区零",
@@ -24,38 +24,6 @@
   "rating_count": 0,
   "last_updated": "2026-11-11",
   "events": [
-    {
-      "id": "zenless-zone-zero-2026-162592-maintenance",
-      "name": "绝区零 2.6 版本维护更新",
-      "date": "2026-02-06",
-      "time": "06:00",
-      "timezone": "Asia/Shanghai",
-      "time_kind": "datetime",
-      "type": "event",
-      "year": 2026,
-      "description": "绝区零 官方版本维护更新。",
-      "url": "https://zzz.mihoyo.com/news/162592",
-      "status": "completed",
-      "last_verified": "2026-07-18",
-      "verified_by": "official",
-      "details": {
-        "official_time": "2026/02/06 06:00 前绳网等级≥4级的绳匠。 ※领取时间截至2.6"
-      },
-      "game": {
-        "game_id": "zenless-zone-zero",
-        "provider": "mihoyo",
-        "source_kind": "maintenance",
-        "source_content_id": "162592",
-        "source_title": "2.6版本「旧梦的安可曲」更新公告",
-        "source_url": "https://zzz.mihoyo.com/news/162592",
-        "version": "2.6"
-      },
-      "name_en": "Zenless Zone Zero v2.6 Maintenance Update",
-      "description_en": "Zenless Zone Zero Official Maintenance Update.",
-      "details_en": {
-        "official_time": "2026/02/06 06:00 前绳网等级≥4级的绳匠。 ※领取时间截至2.6"
-      }
-    },
     {
       "id": "zenless-zone-zero-2026-162537-banners",
       "name": "绝区零 2.6 上期调频：千夏 / 仪玄 / 思络成歌 / 青溟笼舍",
@@ -129,6 +97,38 @@
           "phase": "phase1"
         }
       ]
+    },
+    {
+      "id": "zenless-zone-zero-2026-162592-maintenance",
+      "name": "绝区零 2.6 版本维护更新",
+      "date": "2026-02-06",
+      "time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "绝区零 官方版本维护更新。",
+      "url": "https://zzz.mihoyo.com/news/162592",
+      "status": "completed",
+      "last_verified": "2026-07-18",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/02/06 06:00 前绳网等级≥4级的绳匠。 ※领取时间截至2.6"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "maintenance",
+        "source_content_id": "162592",
+        "source_title": "2.6版本「旧梦的安可曲」更新公告",
+        "source_url": "https://zzz.mihoyo.com/news/162592",
+        "version": "2.6"
+      },
+      "name_en": "Zenless Zone Zero v2.6 Maintenance Update",
+      "description_en": "Zenless Zone Zero Official Maintenance Update.",
+      "details_en": {
+        "official_time": "2026/02/06 06:00 前绳网等级≥4级的绳匠。 ※领取时间截至2.6"
+      }
     },
     {
       "id": "zenless-zone-zero-2026-162592-version",
@@ -351,39 +351,6 @@
       }
     },
     {
-      "id": "zenless-zone-zero-2026-163857-maintenance",
-      "name": "绝区零 2.8 维护更新",
-      "date": "2026-05-06",
-      "end_date": "2026-05-06",
-      "time": "06:00",
-      "end_time": "11:00",
-      "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
-      "type": "event",
-      "year": 2026,
-      "description": "绝区零 2.8 维护更新",
-      "url": "https://zzz.mihoyo.com/news/163857",
-      "status": "completed",
-      "last_verified": "2026-11-06",
-      "verified_by": "official",
-      "details": {
-        "official_time": "2026/05/06 06:00 预计5个小时"
-      },
-      "game": {
-        "game_id": "zenless-zone-zero",
-        "provider": "mihoyo",
-        "source_kind": "maintenance",
-        "source_content_id": "163857",
-        "source_title": "2.8版本「新·艾利都日落时」更新公告",
-        "source_url": "https://zzz.mihoyo.com/news/163857",
-        "version": "2.8"
-      },
-      "name_en": "Zenless Zone Zero v2.8 Maintenance Update",
-      "details_en": {
-        "official_time": "2026-05-06 06:00 – 2026-05-06 11:00"
-      }
-    },
-    {
       "id": "zenless-zone-zero-2026-163844-banners",
       "name": "绝区零 2.8 上期调频：普罗米娅 / 卢西娅 / 朔月裁霜 / 铸梦炉歌",
       "name_en": "Zenless Zone Zero 2.8 Phase 1 Signal Search",
@@ -458,43 +425,6 @@
       ]
     },
     {
-      "id": "zenless-zone-zero-2026-163857-version",
-      "name": "绝区零 2.8 版本周期",
-      "date": "2026-05-06",
-      "end_date": "2026-06-17",
-      "time": "11:00",
-      "end_time": "06:00",
-      "timezone": "Asia/Shanghai",
-      "time_kind": "date_range",
-      "type": "range",
-      "year": 2026,
-      "description": "绝区零 2.8 版本周期",
-      "url": "https://zzz.mihoyo.com/news/163857",
-      "status": "completed",
-      "last_verified": "2026-11-06",
-      "verified_by": "official",
-      "details": {
-        "official_time": "2026-05-06 版本更新后 ~ 2026/06/17 06:00",
-        "start_time": "版本更新后",
-        "end_time": "2026-06-17 06:00"
-      },
-      "game": {
-        "game_id": "zenless-zone-zero",
-        "provider": "mihoyo",
-        "source_kind": "version",
-        "source_content_id": "163857",
-        "source_title": "2.8版本「新·艾利都日落时」更新公告",
-        "source_url": "https://zzz.mihoyo.com/news/163857",
-        "version": "2.8"
-      },
-      "name_en": "Zenless Zone Zero v2.8 Version Period",
-      "details_en": {
-        "official_time": "2026-05-06 – 2026-06-17 06:00",
-        "start_time": "After the version update",
-        "end_time": "2026-06-17 06:00"
-      }
-    },
-    {
       "id": "zenless-zone-zero-2026-163857-activity-31f699918cda",
       "name": "绝区零 2.8 全新放送",
       "name_en": "Zenless Zone Zero v2.8 Event — 2026-05-06",
@@ -531,6 +461,76 @@
         "source_url": "https://zzz.mihoyo.com/news/163857",
         "version": "2.8",
         "activity_name": "全新放送"
+      }
+    },
+    {
+      "id": "zenless-zone-zero-2026-163857-maintenance",
+      "name": "绝区零 2.8 维护更新",
+      "date": "2026-05-06",
+      "end_date": "2026-05-06",
+      "time": "06:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "绝区零 2.8 维护更新",
+      "url": "https://zzz.mihoyo.com/news/163857",
+      "status": "completed",
+      "last_verified": "2026-11-06",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/05/06 06:00 预计5个小时"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "maintenance",
+        "source_content_id": "163857",
+        "source_title": "2.8版本「新·艾利都日落时」更新公告",
+        "source_url": "https://zzz.mihoyo.com/news/163857",
+        "version": "2.8"
+      },
+      "name_en": "Zenless Zone Zero v2.8 Maintenance Update",
+      "details_en": {
+        "official_time": "2026-05-06 06:00 – 2026-05-06 11:00"
+      }
+    },
+    {
+      "id": "zenless-zone-zero-2026-163857-version",
+      "name": "绝区零 2.8 版本周期",
+      "date": "2026-05-06",
+      "end_date": "2026-06-17",
+      "time": "11:00",
+      "end_time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "绝区零 2.8 版本周期",
+      "url": "https://zzz.mihoyo.com/news/163857",
+      "status": "completed",
+      "last_verified": "2026-11-06",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026-05-06 版本更新后 ~ 2026/06/17 06:00",
+        "start_time": "版本更新后",
+        "end_time": "2026-06-17 06:00"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "version",
+        "source_content_id": "163857",
+        "source_title": "2.8版本「新·艾利都日落时」更新公告",
+        "source_url": "https://zzz.mihoyo.com/news/163857",
+        "version": "2.8"
+      },
+      "name_en": "Zenless Zone Zero v2.8 Version Period",
+      "details_en": {
+        "official_time": "2026-05-06 – 2026-06-17 06:00",
+        "start_time": "After the version update",
+        "end_time": "2026-06-17 06:00"
       }
     },
     {
@@ -1000,8 +1000,7 @@
     },
     {
       "id": "zenless-zone-zero-2026-165100-activity-38f343993ddc",
-      "name": "绝区零 3.0 跛脚乌鸦奇闻录",
-      "name_en": "Zenless Zone Zero v3.0 Event — 2026-07-03",
+      "name": "绝区零 跛脚乌鸦奇闻录",
       "date": "2026-07-03",
       "end_date": "2026-07-20",
       "time": "10:00",
@@ -1013,15 +1012,11 @@
       "description": "绝区零 跛脚乌鸦奇闻录",
       "url": "https://zzz.mihoyo.com/news/165100",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "【活动时间】\n2026/07/03 10:00 ~ 2026/07/20 03:59\n【参与条件】\n绳网等级≥20级，完成主线第一章·幕间后即可参与。\n【活动说明】\n• 活动期间，绳匠将会与「跛脚乌鸦侦探社」的阿跛和科洛一起，为布亚斯特的居民们查清真相、排忧解难。\n• 活动包含「汪的反常」、「绝望主布」、「债务危机」、「亲子时差」、「限期特调」共5个委托事件，完成前一委托事件并达到指定时间后，即可解锁下一事件。\n• 完成活动委托，即可获得[菲林]、[邦布券]和各类养成材料奖励。\n—— 欢迎来到罗斯凯利法！——",
         "official_notice": "「跛脚乌鸦奇闻录」活动说明"
-      },
-      "details_en": {
-        "official_time": "2026-07-03 10:00 – 2026-07-20 03:59",
-        "English name status": "unavailable; original announcement retained"
       },
       "game": {
         "game_id": "zenless-zone-zero",
@@ -1030,44 +1025,12 @@
         "source_content_id": "165100",
         "source_title": "「跛脚乌鸦奇闻录」活动说明",
         "source_url": "https://zzz.mihoyo.com/news/165100",
-        "version": "3.0",
         "activity_name": "跛脚乌鸦奇闻录"
-      }
-    },
-    {
-      "id": "zenless-zone-zero-2026-165156-activity-011fb8c02dff",
-      "name": "绝区零 3.0 艺术就是邦布！",
-      "name_en": "Zenless Zone Zero v3.0 Event — 2026-07-08",
-      "date": "2026-07-08",
-      "end_date": "2026-07-27",
-      "time": "10:00",
-      "end_time": "03:59",
-      "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
-      "type": "range",
-      "year": 2026,
-      "description": "绝区零 艺术就是邦布！",
-      "url": "https://zzz.mihoyo.com/news/165156",
-      "status": "completed",
-      "last_verified": "2026-11-06",
-      "verified_by": "official",
-      "details": {
-        "official_time": "【活动时间】\n2026/07/08 10:00 ~ 2026/07/27 03:59\n【参与条件】\n绳网等级≥20级，完成主线第一章·幕间后即可参与。\n【活动说明】\n• 活动期间，绳匠可以前往琥珀馆前的邦布周边小摊处参与活动。\n• 活动中，邦布周边小摊总计可兑换14种「邦布周边」；绳匠每天登录游戏，即可免费领取其中1种；每日首次消耗电量可以获得1枚[黄金汽水瓶盖]，消耗1枚[黄金汽水瓶盖]可以再领取其中一种。\n• 获得「邦布周边」时，可以获得其所对应的[周边赠礼]，不同周边对应的[周边赠礼]也各不相同；赠礼的详细内容可以在活动界面左下角查看。\n• 领取[周边赠礼]，即可获得[菲林]、[邦布券]和各类养成材料奖励。\n—— 欢迎来到罗斯凯利法！——",
-        "official_notice": "「艺术就是邦布！」活动说明"
       },
+      "name_en": "Zenless Zone Zero Event — 2026-07-03",
       "details_en": {
-        "official_time": "2026-07-08 10:00 – 2026-07-27 03:59",
+        "official_time": "2026-07-03 10:00 – 2026-07-20 03:59",
         "English name status": "unavailable; original announcement retained"
-      },
-      "game": {
-        "game_id": "zenless-zone-zero",
-        "provider": "mihoyo",
-        "source_kind": "activity",
-        "source_content_id": "165156",
-        "source_title": "「艺术就是邦布！」活动说明",
-        "source_url": "https://zzz.mihoyo.com/news/165156",
-        "version": "3.0",
-        "activity_name": "艺术就是邦布！"
       }
     },
     {
@@ -1085,7 +1048,7 @@
       "description": "绝区零 代理人频段：诺姆 / 千夏",
       "url": "https://zzz.mihoyo.com/news/165152",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "亲爱的绳匠：\n本期代理人与音擎调频活动时间为：2026/07/08 12:00~ 2026/07/28 14:59，包含如下内容：\n活动期间，限定S级代理人[诺姆(火·击破)]、[千夏(物理·支援)]以及A级代理人[可琳(物理·强攻)]、[波可娜(物理·击破)]的调频获取概率将大幅提升！\n活动期间，限定S级音擎[首席跟班(击破)]、[思络成歌(支援)]以及A级音擎[家政员(强攻)]、[裁纸刀(击破)]的调频获取概率将大幅提升！\n※详情可前往游戏内公告及调频界面查看。\n—— 欢迎来到罗斯凯利法！——",
@@ -1153,7 +1116,7 @@
       "description": "绝区零 音擎频段：首席跟班 / 思络成歌",
       "url": "https://zzz.mihoyo.com/news/165152",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "亲爱的绳匠：\n本期代理人与音擎调频活动时间为：2026/07/08 12:00~ 2026/07/28 14:59，包含如下内容：\n活动期间，限定S级代理人[诺姆(火·击破)]、[千夏(物理·支援)]以及A级代理人[可琳(物理·强攻)]、[波可娜(物理·击破)]的调频获取概率将大幅提升！\n活动期间，限定S级音擎[首席跟班(击破)]、[思络成歌(支援)]以及A级音擎[家政员(强攻)]、[裁纸刀(击破)]的调频获取概率将大幅提升！\n※详情可前往游戏内公告及调频界面查看。\n—— 欢迎来到罗斯凯利法！——",
@@ -1207,111 +1170,46 @@
       ]
     },
     {
-      "id": "zenless-zone-zero-2026-165152-banners",
-      "name": "绝区零 3.0 第二期调频：诺姆 / 千夏 / 首席跟班 / 思络成歌",
-      "name_en": "Zenless Zone Zero v3.0 Phase 2 Signal Search",
+      "id": "zenless-zone-zero-2026-165156-activity-011fb8c02dff",
+      "name": "绝区零 艺术就是邦布！",
       "date": "2026-07-08",
-      "end_date": "2026-07-28",
-      "time": "12:00",
-      "end_time": "14:59",
+      "end_date": "2026-07-27",
+      "time": "10:00",
+      "end_time": "03:59",
       "timezone": "Asia/Shanghai",
       "time_kind": "datetime_range",
       "type": "range",
       "year": 2026,
-      "description": "绝区零官方活动调频（第二期）",
-      "description_en": "Zenless Zone Zero Official Signal Search (Phase 2)",
-      "url": "https://zzz.mihoyo.com/news/detail/165152",
+      "description": "绝区零 艺术就是邦布！",
+      "url": "https://zzz.mihoyo.com/news/165156",
       "status": "completed",
       "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
-        "official_time": "2026/07/08 12:00~ 2026/07/28 14:59",
-        "代理人「代理人频段」5★": "诺姆 / 千夏",
-        "代理人「代理人频段」4★": "可琳 / 波可娜",
-        "音擎「音擎频段」5★": "首席跟班 / 思络成歌",
-        "音擎「音擎频段」4★": "家政员 / 裁纸刀",
-        "official_notice": "3.0版本限时频段（下期）"
-      },
-      "details_en": {
-        "official_time": "2026-07-08 12:00 – 2026-07-28 14:59"
+        "official_time": "【活动时间】\n2026/07/08 10:00 ~ 2026/07/27 03:59\n【参与条件】\n绳网等级≥20级，完成主线第一章·幕间后即可参与。\n【活动说明】\n• 活动期间，绳匠可以前往琥珀馆前的邦布周边小摊处参与活动。\n• 活动中，邦布周边小摊总计可兑换14种「邦布周边」；绳匠每天登录游戏，即可免费领取其中1种；每日首次消耗电量可以获得1枚[黄金汽水瓶盖]，消耗1枚[黄金汽水瓶盖]可以再领取其中一种。\n• 获得「邦布周边」时，可以获得其所对应的[周边赠礼]，不同周边对应的[周边赠礼]也各不相同；赠礼的详细内容可以在活动界面左下角查看。\n• 领取[周边赠礼]，即可获得[菲林]、[邦布券]和各类养成材料奖励。\n—— 欢迎来到罗斯凯利法！——",
+        "official_notice": "「艺术就是邦布！」活动说明"
       },
       "game": {
         "game_id": "zenless-zone-zero",
         "provider": "mihoyo",
-        "source_kind": "banner",
-        "source_content_id": "165152",
-        "source_title": "3.0版本限时频段（下期）",
-        "source_url": "https://zzz.mihoyo.com/news/detail/165152",
-        "version": "3.0",
-        "phase": "phase2"
+        "source_kind": "activity",
+        "source_content_id": "165156",
+        "source_title": "「艺术就是邦布！」活动说明",
+        "source_url": "https://zzz.mihoyo.com/news/165156",
+        "activity_name": "艺术就是邦布！"
       },
-      "banners": [
-        {
-          "name": "代理人频段",
-          "name_en": "Agent Channel",
-          "type": "agent",
-          "featured_5": [
-            {
-              "name": "诺姆",
-              "type": "agent",
-              "rarity": 5
-            },
-            {
-              "name": "千夏",
-              "type": "agent",
-              "rarity": 5
-            }
-          ],
-          "featured_4": [
-            {
-              "name": "可琳",
-              "type": "agent",
-              "rarity": 4
-            },
-            {
-              "name": "波可娜",
-              "type": "agent",
-              "rarity": 4
-            }
-          ],
-          "phase": "phase2"
-        },
-        {
-          "name": "音擎频段",
-          "name_en": "W-Engine Channel",
-          "type": "w_engine",
-          "featured_5": [
-            {
-              "name": "首席跟班",
-              "type": "w_engine",
-              "rarity": 5
-            },
-            {
-              "name": "思络成歌",
-              "type": "w_engine",
-              "rarity": 5
-            }
-          ],
-          "featured_4": [
-            {
-              "name": "家政员",
-              "type": "w_engine",
-              "rarity": 4
-            },
-            {
-              "name": "裁纸刀",
-              "type": "w_engine",
-              "rarity": 4
-            }
-          ],
-          "phase": "phase2"
-        }
-      ]
+      "name_en": "Art Is Bangboo!",
+      "details_en": {
+        "official_time": "2026-07-08 10:00 – 2026-07-27 03:59",
+        "English name status": "official announcement; mainland timing preserved",
+        "English source": "https://zenless.hoyoverse.com/en-us/news/165147",
+        "English source ID": "165147",
+        "English original title": "\"Art Is Bangboo!\" Event Details"
+      }
     },
     {
       "id": "zenless-zone-zero-2026-165298-activity-dcba30d4cc23",
-      "name": "绝区零 3.0 数据悬赏-实战模拟",
-      "name_en": "Zenless Zone Zero v3.0 Event — 2026-07-22",
+      "name": "绝区零 数据悬赏-实战模拟",
       "date": "2026-07-22",
       "end_date": "2026-07-27",
       "time": "04:00",
@@ -1323,15 +1221,11 @@
       "description": "绝区零 数据悬赏-实战模拟",
       "url": "https://zzz.mihoyo.com/news/165298",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "【活动时间】 \n2026/07/22 04:00 ~ 2026/07/27 03:59 \n【参与条件】 \n在主线第一章「猫的失物」中解锁「实战模拟室」后即可参与。 \n【活动说明】 \n• 「数据悬赏-实战模拟」活动期间，绳匠进入「实战模拟室」，选择任意怪物卡并成功通过挑战，即可获得双倍奖励！ \n• 活动期间，每日可增益5张怪物卡，增益效果将在每日04:00重置。 \n—— 欢迎来到罗斯凯利法！——",
         "official_notice": "「数据悬赏-实战模拟」活动说明"
-      },
-      "details_en": {
-        "official_time": "2026-07-22 04:00 – 2026-07-27 03:59",
-        "English name status": "unavailable; original announcement retained"
       },
       "game": {
         "game_id": "zenless-zone-zero",
@@ -1340,47 +1234,15 @@
         "source_content_id": "165298",
         "source_title": "「数据悬赏-实战模拟」活动说明",
         "source_url": "https://zzz.mihoyo.com/news/165298",
-        "version": "3.0",
         "activity_name": "数据悬赏-实战模拟"
-      }
-    },
-    {
-      "id": "zenless-zone-zero-2026-165415-maintenance",
-      "name": "绝区零 3.1 版本维护更新",
-      "date": "2026-07-29",
-      "end_date": "2026-07-29",
-      "time": "06:00",
-      "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
-      "type": "event",
-      "year": 2026,
-      "description": "绝区零 官方版本维护更新。",
-      "url": "https://zzz.mihoyo.com/news/detail/165415",
-      "status": "completed",
-      "last_verified": "2026-11-11",
-      "verified_by": "official",
-      "details": {
-        "official_time": "2026/07/29 06:00 预计5个小时"
       },
-      "game": {
-        "game_id": "zenless-zone-zero",
-        "provider": "mihoyo",
-        "source_kind": "maintenance",
-        "source_content_id": "165415",
-        "source_title": "3.1版本「漫长的告别」更新公告",
-        "source_url": "https://zzz.mihoyo.com/news/detail/165415",
-        "version": "3.1"
-      },
-      "end_time": "11:00",
-      "name_en": "Zenless Zone Zero · Version 3.1 \"The Long Goodbye\" Update Announcement",
-      "description_en": "Version 3.1 \"The Long Goodbye\" Update Announcement",
+      "name_en": "Data Bounty: Combat Simulation",
       "details_en": {
-        "official_time": "2026-07-29 06:00 – 2026-07-29 11:00",
-        "official_notice": "Version 3.1 \"The Long Goodbye\" Update Announcement",
-        "English source": "https://zenless.hoyoverse.com/en-us/news/165414",
-        "English source ID": "165414",
-        "English original title": "Version 3.1 \"The Long Goodbye\" Update Announcement",
-        "English name status": "official announcement; mainland timing preserved"
+        "official_time": "2026-07-22 04:00 – 2026-07-27 03:59",
+        "English name status": "official announcement; mainland timing preserved",
+        "English source": "https://zenless.hoyoverse.com/en-us/news/165277",
+        "English source ID": "165277",
+        "English original title": "\"Data Bounty: Combat Simulation\" Event Details"
       }
     },
     {
@@ -1397,7 +1259,7 @@
       "description": "绝区零 音擎频段：空羽复归之诗 / 壳中之灵",
       "url": "https://zzz.mihoyo.com/news/165375",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "亲爱的绳匠：\n本期代理人与音擎调频活动包含如下内容：\n活动时间： 3.1版本更新后 ~ 2026/09/08 14:59 \n活动期间，限定S级代理 人[蕾米埃尔(流明·异常)]以及默认A级代理人[派派(物理·异常)]、[赛斯(电·防护)]的调频获取概率将大幅提升！ \n活动期间，限定S级音擎[空羽复归之诗(异常)]以及默认A级音擎[轰鸣座驾(异常)]、[维序者-特化型(防护)]的调频获取概率将大幅提升！\n活动时间：3.1版本更新后 ~ 2026/08/19 11:59\n活动期间，限定S级代理人[爱芮(以太·异常)]以及默认A级代理人[派派(物理·异常)]、[赛斯(电·防护)]的调频获取概率将大幅提升！\n活动期间，限定S级音擎[壳中之灵(异常)]以及默认A级音擎[轰鸣座驾(异常)]、[维序者-特化型(防护)]的调频获取概率将大幅提升！\n※详情可前往游戏内公告及调频界面查看。\n—— 欢迎来到罗斯凯利法！——",
@@ -1467,7 +1329,7 @@
       "description": "绝区零 代理人频段：爱芮",
       "url": "https://zzz.mihoyo.com/news/165375",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "亲爱的绳匠：\n本期代理人与音擎调频活动包含如下内容：\n活动时间： 3.1版本更新后 ~ 2026/09/08 14:59 \n活动期间，限定S级代理 人[蕾米埃尔(流明·异常)]以及默认A级代理人[派派(物理·异常)]、[赛斯(电·防护)]的调频获取概率将大幅提升！ \n活动期间，限定S级音擎[空羽复归之诗(异常)]以及默认A级音擎[轰鸣座驾(异常)]、[维序者-特化型(防护)]的调频获取概率将大幅提升！\n活动时间：3.1版本更新后 ~ 2026/08/19 11:59\n活动期间，限定S级代理人[爱芮(以太·异常)]以及默认A级代理人[派派(物理·异常)]、[赛斯(电·防护)]的调频获取概率将大幅提升！\n活动期间，限定S级音擎[壳中之灵(异常)]以及默认A级音擎[轰鸣座驾(异常)]、[维序者-特化型(防护)]的调频获取概率将大幅提升！\n※详情可前往游戏内公告及调频界面查看。\n—— 欢迎来到罗斯凯利法！——",
@@ -1521,7 +1383,7 @@
     {
       "id": "zenless-zone-zero-2026-165399-activity-dd1b26f1d5ff",
       "name": "绝区零 3.1 云端礼赠",
-      "name_en": "Zenless Zone Zero v3.1 Event — 2026-07-29",
+      "name_en": "Gift From the Clouds",
       "date": "2026-07-29",
       "end_date": "2026-09-08",
       "end_time": "03:59",
@@ -1532,7 +1394,7 @@
       "description": "绝区零 云端礼赠",
       "url": "https://zzz.mihoyo.com/news/165399",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "【活动时间】 \n3.1版本更新后 ~ 2026/09/08 03:59\n【参与条件】 \n绳网等级≥ 5 级，完成主线序章「兔与绳」并解锁 「活动」 功能后即可参与。\n【活动说明】 \n• 「云端礼赠」活动期间，累计登录7天即可获得[ 加密母带]*10 ！\n—— 欢迎来到罗斯凯利法！——",
@@ -1544,7 +1406,10 @@
         "official_time": "2026-07-29 – 2026-09-08 03:59",
         "start_time": "After the version update",
         "end_time": "2026-09-08 03:59",
-        "English name status": "unavailable; original announcement retained"
+        "English name status": "official announcement; mainland timing preserved",
+        "English source": "https://zenless.hoyoverse.com/en-us/news/165386",
+        "English source ID": "165386",
+        "English original title": "\"Gift From the Clouds\" Event Details"
       },
       "game": {
         "game_id": "zenless-zone-zero",
@@ -1560,7 +1425,7 @@
     {
       "id": "zenless-zone-zero-2026-165412-activity-a92727299b95",
       "name": "绝区零 3.1 恰浪花逐夏而至",
-      "name_en": "Zenless Zone Zero v3.1 Event — 2026-07-29",
+      "name_en": "Summer Waves Roll In",
       "date": "2026-07-29",
       "end_date": "2026-09-07",
       "end_time": "03:59",
@@ -1571,7 +1436,7 @@
       "description": "绝区零 恰浪花逐夏而至",
       "url": "https://zzz.mihoyo.com/news/165412",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "【活动时间】 \n3.1版本更新后 ~ 2026/09/07 03:59\n【参与条件】 \n绳网等级≥ 20 级，完成主线 第一章·幕间 后即可参与。\n【活动说明】 \n• 活动开启后，绳匠可以在录像店外接受再次前往绮梦度假村的邀请，之后与 希格莉德 、 露西 和 蕾米埃尔 一起，通过经营纪念品店铺的方式筹备篝火晚会。\n• 完成活动期间的限时奖励任务，即可获得 时装[露西·公主假日] 、 活动专属名片[夏焰未央] 、 [「仓鼠笼」访问器] 、 [菲林] 和各类养成材料奖励。 \n※推荐完成 主线第三季第一章「某个梦游者的自白」 后参与该活动，以获得最佳体验。 \n【活动常驻说明】\n• 包含 [丽都纪事] 标签的活动，在活动时限结束后将收录至 [活动] - [菲林进度] - [菲林指南] ，绳匠可于 [菲林指南] 中继续体验活动内容。\n• 活动结束后将无法领取限时奖励，请注意活动时限，及时领取。\n—— 欢迎来到罗斯凯利法！——",
@@ -1583,7 +1448,10 @@
         "official_time": "2026-07-29 – 2026-09-07 03:59",
         "start_time": "After the version update",
         "end_time": "2026-09-07 03:59",
-        "English name status": "unavailable; original announcement retained"
+        "English name status": "official announcement; mainland timing preserved",
+        "English source": "https://zenless.hoyoverse.com/en-us/news/165394",
+        "English source ID": "165394",
+        "English original title": "\"Summer Waves Roll In\" Event Details"
       },
       "game": {
         "game_id": "zenless-zone-zero",
@@ -1597,9 +1465,48 @@
       }
     },
     {
+      "id": "zenless-zone-zero-2026-165415-maintenance",
+      "name": "绝区零 3.1 维护更新",
+      "date": "2026-07-29",
+      "end_date": "2026-07-29",
+      "time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "绝区零 3.1 维护更新",
+      "url": "https://zzz.mihoyo.com/news/165415",
+      "status": "completed",
+      "last_verified": "2026-11-11",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/07/29 06:00 预计5个小时"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "maintenance",
+        "source_content_id": "165415",
+        "source_title": "3.1版本「漫长的告别」更新公告",
+        "source_url": "https://zzz.mihoyo.com/news/165415",
+        "version": "3.1"
+      },
+      "end_time": "11:00",
+      "name_en": "Zenless Zone Zero · Version 3.1 \"The Long Goodbye\" Update Announcement",
+      "details_en": {
+        "official_time": "2026-07-29 06:00 – 2026-07-29 11:00",
+        "official_notice": "Version 3.1 \"The Long Goodbye\" Update Announcement",
+        "English source": "https://zenless.hoyoverse.com/en-us/news/165414",
+        "English source ID": "165414",
+        "English original title": "Version 3.1 \"The Long Goodbye\" Update Announcement",
+        "English name status": "official announcement; mainland timing preserved"
+      },
+      "description_en": "Version 3.1 \"The Long Goodbye\" Update Announcement"
+    },
+    {
       "id": "zenless-zone-zero-2026-165415-version",
       "name": "绝区零 3.1 版本周期",
-      "name_en": "Zenless Zone Zero v3.1 Version Period",
+      "name_en": "Zenless Zone Zero · Version 3.1 \"The Long Goodbye\" Update Announcement",
       "date": "2026-07-29",
       "end_date": "2026-09-09",
       "end_time": "06:00",
@@ -1610,7 +1517,7 @@
       "description": "绝区零 3.1 版本周期",
       "url": "https://zzz.mihoyo.com/news/165415",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "2026-07-29 版本更新后 ~ 2026/09/09 06:00",
@@ -1620,7 +1527,12 @@
       "details_en": {
         "official_time": "2026-07-29 – 2026-09-09 06:00",
         "start_time": "After the version update",
-        "end_time": "2026-09-09 06:00"
+        "end_time": "2026-09-09 06:00",
+        "official_notice": "Version 3.1 \"The Long Goodbye\" Update Announcement",
+        "English source": "https://zenless.hoyoverse.com/en-us/news/165414",
+        "English source ID": "165414",
+        "English original title": "Version 3.1 \"The Long Goodbye\" Update Announcement",
+        "English name status": "official announcement; mainland timing preserved"
       },
       "game": {
         "game_id": "zenless-zone-zero",
@@ -1630,7 +1542,8 @@
         "source_title": "3.1版本「漫长的告别」更新公告",
         "source_url": "https://zzz.mihoyo.com/news/165415",
         "version": "3.1"
-      }
+      },
+      "description_en": "Version 3.1 \"The Long Goodbye\" Update Announcement"
     },
     {
       "id": "zenless-zone-zero-2026-165621-activity-b9e636b401bb",
@@ -1647,7 +1560,7 @@
       "description": "绝区零 深度巡防-三倍赏金",
       "url": "https://zzz.mihoyo.com/news/165621",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "【活动时间】\n2026/08/12 04:00~2026/08/17 03:59\n【参与条件】\n完成绳网声望晋升任务「绳之道I」，绳网等级≥21级，并解锁「区域巡防」后即可参与。\n【活动说明】\n• 「深度巡防-三倍赏金」活动期间，绳匠进入「区域巡防」，挑战并通过任意关卡即可获得3倍奖励！\n• 活动期间，每日可增益2场挑战，增益效果将在每日04:00重置。\n—— 欢迎来到罗斯凯利法！——",
@@ -1672,84 +1585,6 @@
       }
     },
     {
-      "id": "zenless-zone-zero-2026-165760-activity-522b037b2521",
-      "name": "绝区零 3.1 『嗯呢』大派送！",
-      "name_en": "The Great En-Nah Giveaway!",
-      "date": "2026-08-19",
-      "end_date": "2026-09-08",
-      "time": "10:00",
-      "end_time": "03:59",
-      "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
-      "type": "range",
-      "year": 2026,
-      "description": "绝区零 『嗯呢』大派送！",
-      "url": "https://zzz.mihoyo.com/news/165760",
-      "status": "completed",
-      "last_verified": "2026-11-06",
-      "verified_by": "official",
-      "details": {
-        "official_time": "【活动时间】\n2026/08/19 10:00~ 2026/09/08 03:59\n【参与条件】\n绳网等级≥5级，完成主线序章「兔与绳」并解锁「活动」功能后即可参与。\n【活动说明】\n• 「『嗯呢』大派送！」活动期间，累计登录7天即可获得[加密母带]*10、[邦布券]*10！\n—— 欢迎来到罗斯凯利法！——",
-        "official_notice": "「『嗯呢』大派送！」活动说明"
-      },
-      "details_en": {
-        "official_time": "2026-08-19 10:00 – 2026-09-08 03:59",
-        "English name status": "official announcement; mainland timing preserved",
-        "English source": "https://zenless.hoyoverse.com/en-us/news/165740",
-        "English source ID": "165740",
-        "English original title": "\"The Great En-Nah Giveaway!\" Event Details"
-      },
-      "game": {
-        "game_id": "zenless-zone-zero",
-        "provider": "mihoyo",
-        "source_kind": "activity",
-        "source_content_id": "165760",
-        "source_title": "「『嗯呢』大派送！」活动说明",
-        "source_url": "https://zzz.mihoyo.com/news/165760",
-        "version": "3.1",
-        "activity_name": "『嗯呢』大派送！"
-      }
-    },
-    {
-      "id": "zenless-zone-zero-2026-165762-activity-2962e53ecef8",
-      "name": "绝区零 3.1 咔滋酥脆出餐计划",
-      "name_en": "Crispy Meal Deployment Plan",
-      "date": "2026-08-19",
-      "end_date": "2026-09-07",
-      "time": "10:00",
-      "end_time": "03:59",
-      "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
-      "type": "range",
-      "year": 2026,
-      "description": "绝区零 咔滋酥脆出餐计划",
-      "url": "https://zzz.mihoyo.com/news/165762",
-      "status": "completed",
-      "last_verified": "2026-11-06",
-      "verified_by": "official",
-      "details": {
-        "official_time": "【活动时间】\n2026/08/19 10:00 ~ 2026/09/07 03:59\n【参与条件】\n绳网等级≥20级，完成主线第一章·幕间后即可参与。\n【活动说明】\n• 活动期间，绳匠可前往光映广场，和「妄想天使」成员们一起帮助「主包K」制作美味的餐品，振兴K记餐车。\n• 活动期间，活动委托将逐天解锁。\n• 完成活动委托，可获得绳匠配饰[妄想K节拍]、[菲林]、[邦布券]和各类养成材料奖励。\n—— 欢迎来到罗斯凯利法！——",
-        "official_notice": "「咔滋酥脆出餐计划」活动说明"
-      },
-      "details_en": {
-        "official_time": "2026-08-19 10:00 – 2026-09-07 03:59",
-        "English name status": "official announcement; mainland timing preserved",
-        "English source": "https://zenless.hoyoverse.com/en-us/news/165741",
-        "English source ID": "165741",
-        "English original title": "\"Crispy Meal Deployment Plan\" Event Details"
-      },
-      "game": {
-        "game_id": "zenless-zone-zero",
-        "provider": "mihoyo",
-        "source_kind": "activity",
-        "source_content_id": "165762",
-        "source_title": "「咔滋酥脆出餐计划」活动说明",
-        "source_url": "https://zzz.mihoyo.com/news/165762",
-        "version": "3.1",
-        "activity_name": "咔滋酥脆出餐计划"
-      }
-    },
-    {
       "id": "zenless-zone-zero-2026-165758-banner-c596510965d3",
       "name": "绝区零 3.1 代理人频段：希格莉德",
       "name_en": "Zenless Zone Zero v3.1 Event Banner — 2026-08-19",
@@ -1764,7 +1599,7 @@
       "description": "绝区零 代理人频段：希格莉德",
       "url": "https://zzz.mihoyo.com/news/165758",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "亲爱的绳匠：\n本期代理人与音擎调频活动时间为：2026/08/19 12:00 ~ 2026/09/08 14:59，包含如下内容：\n活动期间，限定S级代理人[希格莉德(冰·强攻)]以及默认A级代理人[苍角(冰·支援)]、[露西(火·支援)]的调频获取概率将大幅提升！\n活动期间，限定S级音擎[骁骑礼赞(强攻)]以及默认A级音擎[含羞恶面(支援)]、[好斗的阿炮(支援)]的调频获取概率将大幅提升！\n「独家重映」&「音擎回响」自选频段限时开启。调频活动时间为：2026/08/19 12:00 ~ 2026/09/08 14:59\n绳匠在独家重映频段获得的首次S级信号，必定为当前选定的限定S级代理人；在本期频段中，可自选的限定S级代理人包含：[琉音(物理·击破)]、[浮波柚叶(物理·支援)]、[浅羽悠真(电·强攻)]；绳匠可随时在调频页面切换页签更换UP的代理人。\n绳匠在音擎回响频段获得的首次S级信号，必定为当前选定的限定S级音擎；在本期频段中，可自选的限定S级音擎包含：[昨夜来电(击破)]、[狸法七变化(支援)]、[残心青囊(强攻)]；绳匠可随时在调频页面切换页签更换UP的音擎。\n※详情可前往游戏内公告及调频界面查看。\n—— 欢迎来到罗斯凯利法！——",
@@ -1827,7 +1662,7 @@
       "description": "绝区零 音擎频段：骁骑礼赞",
       "url": "https://zzz.mihoyo.com/news/165758",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "亲爱的绳匠：\n本期代理人与音擎调频活动时间为：2026/08/19 12:00 ~ 2026/09/08 14:59，包含如下内容：\n活动期间，限定S级代理人[希格莉德(冰·强攻)]以及默认A级代理人[苍角(冰·支援)]、[露西(火·支援)]的调频获取概率将大幅提升！\n活动期间，限定S级音擎[骁骑礼赞(强攻)]以及默认A级音擎[含羞恶面(支援)]、[好斗的阿炮(支援)]的调频获取概率将大幅提升！\n「独家重映」&「音擎回响」自选频段限时开启。调频活动时间为：2026/08/19 12:00 ~ 2026/09/08 14:59\n绳匠在独家重映频段获得的首次S级信号，必定为当前选定的限定S级代理人；在本期频段中，可自选的限定S级代理人包含：[琉音(物理·击破)]、[浮波柚叶(物理·支援)]、[浅羽悠真(电·强攻)]；绳匠可随时在调频页面切换页签更换UP的代理人。\n绳匠在音擎回响频段获得的首次S级信号，必定为当前选定的限定S级音擎；在本期频段中，可自选的限定S级音擎包含：[昨夜来电(击破)]、[狸法七变化(支援)]、[残心青囊(强攻)]；绳匠可随时在调频页面切换页签更换UP的音擎。\n※详情可前往游戏内公告及调频界面查看。\n—— 欢迎来到罗斯凯利法！——",
@@ -1876,101 +1711,82 @@
       ]
     },
     {
-      "id": "zenless-zone-zero-2026-165758-banners",
-      "name": "绝区零 3.1 第二期调频：希格莉德 / 骁骑礼赞",
-      "name_en": "Zenless Zone Zero · V3.1 Limited-Time Channels (Phase II)",
+      "id": "zenless-zone-zero-2026-165760-activity-522b037b2521",
+      "name": "绝区零 3.1 『嗯呢』大派送！",
+      "name_en": "The Great En-Nah Giveaway!",
       "date": "2026-08-19",
       "end_date": "2026-09-08",
-      "time": "12:00",
-      "end_time": "14:59",
+      "time": "10:00",
+      "end_time": "03:59",
       "timezone": "Asia/Shanghai",
       "time_kind": "datetime_range",
       "type": "range",
       "year": 2026,
-      "description": "绝区零官方活动调频（第二期）",
-      "description_en": "V3.1 Limited-Time Channels (Phase II)",
-      "url": "https://zzz.mihoyo.com/news/detail/165758",
+      "description": "绝区零 『嗯呢』大派送！",
+      "url": "https://zzz.mihoyo.com/news/165760",
       "status": "completed",
       "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
-        "official_time": "2026/08/19 12:00 ~ 2026/09/08 14:59",
-        "代理人「代理人频段」5★": "希格莉德",
-        "代理人「代理人频段」4★": "苍角 / 露西",
-        "音擎「音擎频段」5★": "骁骑礼赞",
-        "音擎「音擎频段」4★": "含羞恶面 / 好斗的阿炮",
-        "official_notice": "3.1版本限时频段（下期）"
+        "official_time": "【活动时间】\n2026/08/19 10:00~ 2026/09/08 03:59\n【参与条件】\n绳网等级≥5级，完成主线序章「兔与绳」并解锁「活动」功能后即可参与。\n【活动说明】\n• 「『嗯呢』大派送！」活动期间，累计登录7天即可获得[加密母带]*10、[邦布券]*10！\n—— 欢迎来到罗斯凯利法！——",
+        "official_notice": "「『嗯呢』大派送！」活动说明"
       },
       "details_en": {
-        "official_time": "2026-08-19 12:00 – 2026-09-08 14:59",
-        "official_notice": "V3.1 Limited-Time Channels (Phase II)",
-        "English source": "https://zenless.hoyoverse.com/en-us/news/165737",
-        "English source ID": "165737",
-        "English original title": "V3.1 Limited-Time Channels (Phase II)",
-        "English name status": "official announcement; mainland timing preserved"
+        "official_time": "2026-08-19 10:00 – 2026-09-08 03:59",
+        "English name status": "official announcement; mainland timing preserved",
+        "English source": "https://zenless.hoyoverse.com/en-us/news/165740",
+        "English source ID": "165740",
+        "English original title": "\"The Great En-Nah Giveaway!\" Event Details"
       },
       "game": {
         "game_id": "zenless-zone-zero",
         "provider": "mihoyo",
-        "source_kind": "banner",
-        "source_content_id": "165758",
-        "source_title": "3.1版本限时频段（下期）",
-        "source_url": "https://zzz.mihoyo.com/news/detail/165758",
+        "source_kind": "activity",
+        "source_content_id": "165760",
+        "source_title": "「『嗯呢』大派送！」活动说明",
+        "source_url": "https://zzz.mihoyo.com/news/165760",
         "version": "3.1",
-        "phase": "phase2"
+        "activity_name": "『嗯呢』大派送！"
+      }
+    },
+    {
+      "id": "zenless-zone-zero-2026-165762-activity-2962e53ecef8",
+      "name": "绝区零 3.1 咔滋酥脆出餐计划",
+      "name_en": "Crispy Meal Deployment Plan",
+      "date": "2026-08-19",
+      "end_date": "2026-09-07",
+      "time": "10:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "绝区零 咔滋酥脆出餐计划",
+      "url": "https://zzz.mihoyo.com/news/165762",
+      "status": "completed",
+      "last_verified": "2026-11-11",
+      "verified_by": "official",
+      "details": {
+        "official_time": "【活动时间】\n2026/08/19 10:00 ~ 2026/09/07 03:59\n【参与条件】\n绳网等级≥20级，完成主线第一章·幕间后即可参与。\n【活动说明】\n• 活动期间，绳匠可前往光映广场，和「妄想天使」成员们一起帮助「主包K」制作美味的餐品，振兴K记餐车。\n• 活动期间，活动委托将逐天解锁。\n• 完成活动委托，可获得绳匠配饰[妄想K节拍]、[菲林]、[邦布券]和各类养成材料奖励。\n—— 欢迎来到罗斯凯利法！——",
+        "official_notice": "「咔滋酥脆出餐计划」活动说明"
       },
-      "banners": [
-        {
-          "name": "代理人频段",
-          "name_en": "Agent Channel",
-          "type": "agent",
-          "featured_5": [
-            {
-              "name": "希格莉德",
-              "type": "agent",
-              "rarity": 5
-            }
-          ],
-          "featured_4": [
-            {
-              "name": "苍角",
-              "type": "agent",
-              "rarity": 4
-            },
-            {
-              "name": "露西",
-              "type": "agent",
-              "rarity": 4
-            }
-          ],
-          "phase": "phase2"
-        },
-        {
-          "name": "音擎频段",
-          "name_en": "W-Engine Channel",
-          "type": "w_engine",
-          "featured_5": [
-            {
-              "name": "骁骑礼赞",
-              "type": "w_engine",
-              "rarity": 5
-            }
-          ],
-          "featured_4": [
-            {
-              "name": "含羞恶面",
-              "type": "w_engine",
-              "rarity": 4
-            },
-            {
-              "name": "好斗的阿炮",
-              "type": "w_engine",
-              "rarity": 4
-            }
-          ],
-          "phase": "phase2"
-        }
-      ]
+      "details_en": {
+        "official_time": "2026-08-19 10:00 – 2026-09-07 03:59",
+        "English name status": "official announcement; mainland timing preserved",
+        "English source": "https://zenless.hoyoverse.com/en-us/news/165741",
+        "English source ID": "165741",
+        "English original title": "\"Crispy Meal Deployment Plan\" Event Details"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "activity",
+        "source_content_id": "165762",
+        "source_title": "「咔滋酥脆出餐计划」活动说明",
+        "source_url": "https://zzz.mihoyo.com/news/165762",
+        "version": "3.1",
+        "activity_name": "咔滋酥脆出餐计划"
+      }
     },
     {
       "id": "zenless-zone-zero-2026-165838-activity-bd455f297fe1",
@@ -1987,7 +1803,7 @@
       "description": "绝区零 极危通缉与悠游假期",
       "url": "https://zzz.mihoyo.com/news/165838",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "【活动时间】\n2026/08/24 10:00 ~ 2026/09/07 03:59\n【参与条件】\n绳网等级≥20级，完成主线第一章·幕间后即可参与。\n【活动说明】\n• 活动期间，绳匠可前往布亚斯特与事务专员对话，为她提供「通缉犯」的线索。\n• 活动期间，活动委托将逐天解锁。\n• 完成活动委托，可获得[菲林]、[邦布券]和各类养成材料奖励。\n—— 欢迎来到罗斯凯利法！——",
@@ -2026,7 +1842,7 @@
       "description": "绝区零 叮咚！见习邮差派件中",
       "url": "https://zzz.mihoyo.com/news/165890",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "【活动时间】\n2026/08/28 10:00 ~ 2026/09/14 03:59\n【参与条件】\n绳网等级≥20级，完成主线第一章·幕间后即可参与。\n【活动说明】\n• 活动期间，绳匠可前往布亚斯特与巴蒂对话，帮助小邦布们投递[心愿信笺]。\n• 活动期间，绳匠每日登录或每日首次消耗电量，均可获取1个[心愿信笺]；每日最多获取2个。\n• 绳匠每投递一定数量的[心愿信笺]，可获取[菲林]奖励。\n—— 欢迎来到罗斯凯利法！——",
@@ -2065,7 +1881,7 @@
       "description": "绝区零 实战特训-三倍悬赏",
       "url": "https://zzz.mihoyo.com/news/165945",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "【活动时间】\n2026/09/02 04:00 ~ 2026/09/07 03:59\n【参与条件】\n在主线第一章「猫的失物」中解锁「实战模拟室」后即可参与。\n【活动说明】\n• 「实战特训-三倍悬赏」活动期间，绳匠进入「实战模拟室」，选择任意怪物卡并成功通过挑战，即可获得3倍奖励！\n• 活动期间，每日可增益5张怪物卡，增益效果将在每日04:00重置。\n—— 欢迎来到罗斯凯利法！——",
@@ -2090,45 +1906,6 @@
       }
     },
     {
-      "id": "zenless-zone-zero-2026-166026-maintenance",
-      "name": "绝区零 3.2 版本维护更新",
-      "date": "2026-09-09",
-      "end_date": "2026-09-09",
-      "time": "06:00",
-      "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
-      "type": "event",
-      "year": 2026,
-      "description": "绝区零 官方版本维护更新。",
-      "url": "https://zzz.mihoyo.com/news/detail/166026",
-      "status": "completed",
-      "last_verified": "2026-11-11",
-      "verified_by": "official",
-      "details": {
-        "official_time": "2026/09/09 06:00 预计5个小时"
-      },
-      "game": {
-        "game_id": "zenless-zone-zero",
-        "provider": "mihoyo",
-        "source_kind": "maintenance",
-        "source_content_id": "166026",
-        "source_title": "3.2版本「她与她的隐秘往事」更新公告",
-        "source_url": "https://zzz.mihoyo.com/news/detail/166026",
-        "version": "3.2"
-      },
-      "end_time": "11:00",
-      "name_en": "Zenless Zone Zero · Version 3.2 \"Their Secret Histories\" Update Announcement",
-      "description_en": "Version 3.2 \"Their Secret Histories\" Update Announcement",
-      "details_en": {
-        "official_time": "2026-09-09 06:00 – 2026-09-09 11:00",
-        "official_notice": "Version 3.2 \"Their Secret Histories\" Update Announcement",
-        "English source": "https://zenless.hoyoverse.com/en-us/news/166000",
-        "English source ID": "166000",
-        "English original title": "Version 3.2 \"Their Secret Histories\" Update Announcement",
-        "English name status": "official announcement; mainland timing preserved"
-      }
-    },
-    {
       "id": "zenless-zone-zero-2026-165991-banner-23b3e48ff131",
       "name": "绝区零 3.2 代理人频段：克拉蕾 / 南宫羽",
       "name_en": "Zenless Zone Zero v3.2 Event Banner — 2026-09-09",
@@ -2142,7 +1919,7 @@
       "description": "绝区零 代理人频段：克拉蕾 / 南宫羽",
       "url": "https://zzz.mihoyo.com/news/165991",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "亲爱的绳匠：\n本期代理人与音擎调频活动时间为： 3.2版本更新后 ~ 2026/09/30 11:59 ，包含如下内容：\n活动期间，限定S级代理人[克拉蕾(电·锋御)]、[南宫羽(以太·击破)]以及默认A级代理人[安东(电·强攻)]、[妮可(以太·支援)]的调频获取概率将大幅提升！\n活动期间，限定S级音擎[猩红渴望(锋御)]、[霓虹妄想(击破)]以及默认A级音擎[旋钻机-赤轴(强攻)]、[聚宝箱(支援)]的调频获取概率将大幅提升！\n※详情可前往游戏内公告及调频界面查看。\n—— 欢迎来到罗斯凯利法！——",
@@ -2213,7 +1990,7 @@
       "description": "绝区零 音擎频段：猩红渴望 / 霓虹妄想",
       "url": "https://zzz.mihoyo.com/news/165991",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "亲爱的绳匠：\n本期代理人与音擎调频活动时间为： 3.2版本更新后 ~ 2026/09/30 11:59 ，包含如下内容：\n活动期间，限定S级代理人[克拉蕾(电·锋御)]、[南宫羽(以太·击破)]以及默认A级代理人[安东(电·强攻)]、[妮可(以太·支援)]的调频获取概率将大幅提升！\n活动期间，限定S级音擎[猩红渴望(锋御)]、[霓虹妄想(击破)]以及默认A级音擎[旋钻机-赤轴(强攻)]、[聚宝箱(支援)]的调频获取概率将大幅提升！\n※详情可前往游戏内公告及调频界面查看。\n—— 欢迎来到罗斯凯利法！——",
@@ -2284,7 +2061,7 @@
       "description": "绝区零 全新放送",
       "url": "https://zzz.mihoyo.com/news/166026",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "全新放送 \n活动期间，累计登录7天即可获赠[加密母带]*10！\n活动时间：3.2版本更新后 ~ 2026/10/20 03:59（服务器时间）\n参与条件：绳网等级≥5级，完成主线序章「兔与绳」并解锁「活动」功能后即可参与。",
@@ -2326,7 +2103,7 @@
       "description": "绝区零 天使应援大作战",
       "url": "https://zzz.mihoyo.com/news/166026",
       "status": "active",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "天使应援大作战 \n下一站——梦想家们的心动现场！\n参与版本活动可获取「妄想天使」限定时装～\n活动时间：3.2版本更新后 ~ 2026/11/30 03:59（服务器时间）\n参与条件：绳网等级≥20级，完成主线第一章·幕间后即可参与。",
@@ -2355,9 +2132,48 @@
       }
     },
     {
+      "id": "zenless-zone-zero-2026-166026-maintenance",
+      "name": "绝区零 3.2 维护更新",
+      "date": "2026-09-09",
+      "end_date": "2026-09-09",
+      "time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "绝区零 3.2 维护更新",
+      "url": "https://zzz.mihoyo.com/news/166026",
+      "status": "completed",
+      "last_verified": "2026-11-11",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/09/09 06:00 预计5个小时"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "maintenance",
+        "source_content_id": "166026",
+        "source_title": "3.2版本「她与她的隐秘往事」更新公告",
+        "source_url": "https://zzz.mihoyo.com/news/166026",
+        "version": "3.2"
+      },
+      "end_time": "11:00",
+      "name_en": "Zenless Zone Zero · Version 3.2 \"Their Secret Histories\" Update Announcement",
+      "details_en": {
+        "official_time": "2026-09-09 06:00 – 2026-09-09 11:00",
+        "official_notice": "Version 3.2 \"Their Secret Histories\" Update Announcement",
+        "English source": "https://zenless.hoyoverse.com/en-us/news/166000",
+        "English source ID": "166000",
+        "English original title": "Version 3.2 \"Their Secret Histories\" Update Announcement",
+        "English name status": "official announcement; mainland timing preserved"
+      },
+      "description_en": "Version 3.2 \"Their Secret Histories\" Update Announcement"
+    },
+    {
       "id": "zenless-zone-zero-2026-166026-version",
       "name": "绝区零 3.2 版本周期",
-      "name_en": "Zenless Zone Zero v3.2 Version Period",
+      "name_en": "Zenless Zone Zero · Version 3.2 \"Their Secret Histories\" Update Announcement",
       "date": "2026-09-09",
       "end_date": "2026-10-21",
       "end_time": "06:00",
@@ -2368,7 +2184,7 @@
       "description": "绝区零 3.2 版本周期",
       "url": "https://zzz.mihoyo.com/news/166026",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "2026-09-09 版本更新后 ~ 2026/10/21 06:00",
@@ -2378,7 +2194,12 @@
       "details_en": {
         "official_time": "2026-09-09 – 2026-10-21 06:00",
         "start_time": "After the version update",
-        "end_time": "2026-10-21 06:00"
+        "end_time": "2026-10-21 06:00",
+        "official_notice": "Version 3.2 \"Their Secret Histories\" Update Announcement",
+        "English source": "https://zenless.hoyoverse.com/en-us/news/166000",
+        "English source ID": "166000",
+        "English original title": "Version 3.2 \"Their Secret Histories\" Update Announcement",
+        "English name status": "official announcement; mainland timing preserved"
       },
       "game": {
         "game_id": "zenless-zone-zero",
@@ -2388,7 +2209,8 @@
         "source_title": "3.2版本「她与她的隐秘往事」更新公告",
         "source_url": "https://zzz.mihoyo.com/news/166026",
         "version": "3.2"
-      }
+      },
+      "description_en": "Version 3.2 \"Their Secret Histories\" Update Announcement"
     },
     {
       "id": "zenless-zone-zero-2026-166016-activity-6a38b73fdf4f",
@@ -2405,7 +2227,7 @@
       "description": "绝区零 『弹球勇者』哐哐当！",
       "url": "https://zzz.mihoyo.com/news/166016",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "【活动时间】 \n2026/09/10 10:00~ 2026/10/19 03:59\n【参与条件】 \n绳网等级≥2 0 级，完成主线 第一章·幕间 后即可参与。\n【活动说明】 \n• 活动开启后，绳匠可以前往 「布衣客」 和咔叽布对话，了解他的研究成果「弹球机」，和弹球勇者共同追求「美学」的真谛！\n• 活动期间，将逐步开放4个主题的「任务模式」；绳匠可使用不同的弹球，利用弹球桌的特殊机制，释放弹球的专属技能，击败敌人，保护基地，赢得胜利。\n• 完成「任务模式」关卡后，还将解锁对应的「挑战模式」关卡，绳匠可在战斗过程中获得专属词条加成，强化能力，击败强敌！\n• 推进活动委托、完成活动关卡，即可获得 活动专属绳匠配饰 「喵呜礼帽」、「格纹童话」、「银月之饰」&「星愿秘语」、「白夜信使」&「冒险手札」；还可获得 [「仓鼠笼」访问器] 、 [菲林] 和各类养成材料奖励。\n※推荐完成 主线第三季·第二章「漫长的告别」 后参与该活动，以获得最佳体验。\n—— 欢迎来到罗斯凯利法！——",
@@ -2444,7 +2266,7 @@
       "description": "绝区零 「弹球勇者」哐哐当！",
       "url": "https://zzz.mihoyo.com/news/166026",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "「弹球勇者」哐哐当！ \n荒芜世界里，「弹球勇者」们抗击命运，共寻美之真谛！\n注：游戏内测中，最终解释权归「布衣客」店长所有。\n活动时间：2026/09/10 10:00（服务器时间） ~ 2026/10/19 03:59（服务器时间）\n参与条件：绳网等级≥20级，完成主线第一章·幕间后即可参与。",
@@ -2483,7 +2305,7 @@
       "description": "绝区零 虚境逐影争锋",
       "url": "https://zzz.mihoyo.com/news/166108",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "【活动时间】 \n2026/09/16 10:00 ~ 2026/10/05 03:59\n【参与条件】 \n绳网等级≥ 20 级，完成主线 第一章·幕间 后即可参与。\n【活动说明】 \n• 活动期间，绳匠可以前往光映广场，与 南宫羽 对话了解情况，并前往HIA俱乐部寻找 莱娅 ，参与全新的VR挑战关卡。\n• 活动期间，将开放6个主题的「联合」关卡，以及3个「特战」关卡。\n• 活动期间，每日将会开放1个新的主题关卡；「特战」关卡也将随着活动进程推进，逐步开放。\n• 在「联合」关卡中，存在对应的 「增益效果」 机制；在「特战」关卡中，存在对应的 「战术加持 」机制；绳匠可以合理利用 「增益效果」 和 「战术加持」 ，获得更高评价。\n• 在「联合」关卡中，绳匠可以选择关卡中提供的 试用代理人 与 邦布 参与挑战；而在「特战」关卡中，绳匠仅可使用关卡中提供的试用代理人参与挑战。\n• 「特战」关卡将使用全新的关卡得分机制。绳匠操作代理人在局内 造成伤害 和 使用特定技巧 将获得对应的分数；一定时间内，绳匠操作代理人[克拉蕾]连续使用各种技巧，将会累积 技巧连击 ，技巧连击将给分数带来额外的 倍率加成 ； 技巧连击 状态中，如果长时间未使用技巧，将失去 技巧连击 状态和 倍率加成 。\n• 「特战」关卡的局内得分由绳匠的「伤害得分」、「技巧得分」和关卡耗时对应的「时间系数」共同组成。\n• 完成活动挑战任务，可获得 [调律校音器] 、 [菲林] 等奖励。\n—— 欢迎来到罗斯凯利法！——",
@@ -2508,45 +2330,6 @@
       }
     },
     {
-      "id": "zenless-zone-zero-2026-166226-activity-69406d01e896",
-      "name": "绝区零 3.2 先遣赏金-区域巡防",
-      "name_en": "Advanced Bounty: Area Patrol",
-      "date": "2026-09-23",
-      "end_date": "2026-09-28",
-      "time": "04:00",
-      "end_time": "03:59",
-      "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
-      "type": "range",
-      "year": 2026,
-      "description": "绝区零 先遣赏金-区域巡防",
-      "url": "https://zzz.mihoyo.com/news/166226",
-      "status": "completed",
-      "last_verified": "2026-11-06",
-      "verified_by": "official",
-      "details": {
-        "official_time": "【活动时间】 \n2026/09/23 04:00~2026/09/28 03:59\n【参与条件】 \n绳网等级≥21级并完成绳网声望晋升任务「绳之道I」，且解锁「区域巡防」后即可参与。\n【活动说明】 \n• 「先遣赏金-区域巡防」活动期间，绳匠进入「区域巡防」，挑战并通过任意关卡即可获得 双倍 奖励！\n• 活动期间，每日可增益 2 场挑战，增益效果将在每日04:00重置。\n—— 欢迎来到罗斯凯利法！——",
-        "official_notice": "「先遣赏金-区域巡防」活动说明"
-      },
-      "details_en": {
-        "official_time": "2026-09-23 04:00 – 2026-09-28 03:59",
-        "English name status": "official announcement; mainland timing preserved",
-        "English source": "https://zenless.hoyoverse.com/en-us/news/166192",
-        "English source ID": "166192",
-        "English original title": "\"Advanced Bounty: Area Patrol\" Event Details"
-      },
-      "game": {
-        "game_id": "zenless-zone-zero",
-        "provider": "mihoyo",
-        "source_kind": "activity",
-        "source_content_id": "166226",
-        "source_title": "「先遣赏金-区域巡防」活动说明",
-        "source_url": "https://zzz.mihoyo.com/news/166226",
-        "version": "3.2",
-        "activity_name": "先遣赏金-区域巡防"
-      }
-    },
-    {
       "id": "zenless-zone-zero-2026-166202-activity-83a0730cf949",
       "name": "绝区零 3.2 惊喜放映企划",
       "name_en": "Surprise Screening Plan",
@@ -2561,7 +2344,7 @@
       "description": "绝区零 惊喜放映企划",
       "url": "https://zzz.mihoyo.com/news/166202",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "【活动时间】 \n2026/09/23 10:00 ~ 2026/10/20 03:59\n【参与条件】 \n绳网等级≥ 5 级，完成主线序章「兔与绳」并解锁 「活动」 功能后即可参与。\n【活动说明】 \n• 「惊喜放映企划」活动期间，累计登录可获得 「妄想天使」限定时装自选（可在时装[南宫羽·心动应援中]、时装[爱芮·萌力加载中]、时装[千夏·梦想营业中]任选其一）、活动专属头像[伊埃斯的新头像] 、 [菲林] 等奖励！\n※每件时装绳匠仅能领取一次，不可重复领取；尚未拥有[千夏]、[爱芮]和[南宫羽]的绳匠依然可以领取时装，获得后可在代理人的「穿搭」界面中查看时装。\n• 绳匠满足累计登录条件后，需在「惊喜放映企划」活动页面领取对应奖励。\n• 所有奖励领取后，活动页面将于次日04:00关闭。\n—— 欢迎来到罗斯凯利法！——",
@@ -2586,6 +2369,45 @@
       }
     },
     {
+      "id": "zenless-zone-zero-2026-166226-activity-69406d01e896",
+      "name": "绝区零 3.2 先遣赏金-区域巡防",
+      "name_en": "Advanced Bounty: Area Patrol",
+      "date": "2026-09-23",
+      "end_date": "2026-09-28",
+      "time": "04:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "绝区零 先遣赏金-区域巡防",
+      "url": "https://zzz.mihoyo.com/news/166226",
+      "status": "completed",
+      "last_verified": "2026-11-11",
+      "verified_by": "official",
+      "details": {
+        "official_time": "【活动时间】 \n2026/09/23 04:00~2026/09/28 03:59\n【参与条件】 \n绳网等级≥21级并完成绳网声望晋升任务「绳之道I」，且解锁「区域巡防」后即可参与。\n【活动说明】 \n• 「先遣赏金-区域巡防」活动期间，绳匠进入「区域巡防」，挑战并通过任意关卡即可获得 双倍 奖励！\n• 活动期间，每日可增益 2 场挑战，增益效果将在每日04:00重置。\n—— 欢迎来到罗斯凯利法！——",
+        "official_notice": "「先遣赏金-区域巡防」活动说明"
+      },
+      "details_en": {
+        "official_time": "2026-09-23 04:00 – 2026-09-28 03:59",
+        "English name status": "official announcement; mainland timing preserved",
+        "English source": "https://zenless.hoyoverse.com/en-us/news/166192",
+        "English source ID": "166192",
+        "English original title": "\"Advanced Bounty: Area Patrol\" Event Details"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "activity",
+        "source_content_id": "166226",
+        "source_title": "「先遣赏金-区域巡防」活动说明",
+        "source_url": "https://zzz.mihoyo.com/news/166226",
+        "version": "3.2",
+        "activity_name": "先遣赏金-区域巡防"
+      }
+    },
+    {
       "id": "zenless-zone-zero-2026-166026-activity-ad0837f70604",
       "name": "绝区零 3.2 「嗯呢」从天降",
       "name_en": "\"En-Nah\" Into Your Lap",
@@ -2600,7 +2422,7 @@
       "description": "绝区零 「嗯呢」从天降",
       "url": "https://zzz.mihoyo.com/news/166026",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "「嗯呢」从天降 \n活动期间，累计登录7天即可获赠[邦布券]*10！\n活动时间：2026/09/30 10:00（服务器时间） ~ 2026/10/20 03:59（服务器时间）\n参与条件：绳网等级≥5级，完成主线序章「兔与绳」并解锁「活动」功能后即可参与。",
@@ -2625,45 +2447,6 @@
       }
     },
     {
-      "id": "zenless-zone-zero-2026-166515-activity-235114bf45ba",
-      "name": "绝区零 3.2 锵锵！球仔成长日记",
-      "name_en": "Diary of an Orbie Parent",
-      "date": "2026-09-30",
-      "end_date": "2026-10-19",
-      "time": "10:00",
-      "end_time": "03:59",
-      "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
-      "type": "range",
-      "year": 2026,
-      "description": "绝区零 锵锵！球仔成长日记",
-      "url": "https://zzz.mihoyo.com/news/166515",
-      "status": "completed",
-      "last_verified": "2026-11-06",
-      "verified_by": "official",
-      "details": {
-        "official_time": "【活动时间】\n2026/09/30 10:00 ~ 2026/10/19 03:59\n【参与条件】\n绳网等级≥20级，完成主线第一章·幕间后即可参与。\n【活动说明】 \n• 活动期间，绳匠将获赠一台名为「球仔进化论」 的游戏机，开启专属球仔养成计划； \n• 绳匠每日登录可获得2个[食物]，每日消耗30电量可获得1个[食物]，每日共计可获得3个[食物]。 \n• 完成活动期间的限时奖励任务，即可获得[菲林]、称号[被选召的饲养员]和各类养成材料奖励。 \n※ 完全体宠物将会保留到后续系列活动中，活动期间未完全养成的宠物将不会保留养成进度。 \n—— 欢迎来到罗斯凯利法！——",
-        "official_notice": "「锵锵！球仔成长日记」活动说明"
-      },
-      "details_en": {
-        "official_time": "2026-09-30 10:00 – 2026-10-19 03:59",
-        "English name status": "official announcement; mainland timing preserved",
-        "English source": "https://zenless.hoyoverse.com/en-us/news/166476",
-        "English source ID": "166476",
-        "English original title": "\"Diary of an Orbie Parent\" Event Details"
-      },
-      "game": {
-        "game_id": "zenless-zone-zero",
-        "provider": "mihoyo",
-        "source_kind": "activity",
-        "source_content_id": "166515",
-        "source_title": "「锵锵！球仔成长日记」活动说明",
-        "source_url": "https://zzz.mihoyo.com/news/166515",
-        "version": "3.2",
-        "activity_name": "锵锵！球仔成长日记"
-      }
-    },
-    {
       "id": "zenless-zone-zero-2026-166512-banner-b3974d3881b6",
       "name": "绝区零 3.2 代理人频段：洛克茜 / 普罗米娅",
       "name_en": "Zenless Zone Zero v3.2 Event Banner — 2026-09-30",
@@ -2678,7 +2461,7 @@
       "description": "绝区零 代理人频段：洛克茜 / 普罗米娅",
       "url": "https://zzz.mihoyo.com/news/166512",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "亲爱的绳匠：\n本期代理人与音擎调频活动时间为： 2026-09-30 12:00~2026-10-20 14:59 ，包含如下内容：\n活动期间，限定S级代理人[洛克茜(风·击破)]、[普罗米娅(冰·异常)]以及默认A级代理人[可琳(物理·强攻)]、[比利(物理·强攻)]的调频获取概率将大幅提升！\n活动期间，限定S级音擎[绯月银棺(击破)]、[朔月裁霜(异常)]以及默认A级音擎[家政员(强攻)]、[仿制星徽引擎(强攻)]的调频获取概率将大幅提升！\n※详情可前往游戏内公告及调频界面查看。\n—— 欢迎来到罗斯凯利法！——",
@@ -2746,7 +2529,7 @@
       "description": "绝区零 音擎频段：绯月银棺 / 朔月裁霜",
       "url": "https://zzz.mihoyo.com/news/166512",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "亲爱的绳匠：\n本期代理人与音擎调频活动时间为： 2026-09-30 12:00~2026-10-20 14:59 ，包含如下内容：\n活动期间，限定S级代理人[洛克茜(风·击破)]、[普罗米娅(冰·异常)]以及默认A级代理人[可琳(物理·强攻)]、[比利(物理·强攻)]的调频获取概率将大幅提升！\n活动期间，限定S级音擎[绯月银棺(击破)]、[朔月裁霜(异常)]以及默认A级音擎[家政员(强攻)]、[仿制星徽引擎(强攻)]的调频获取概率将大幅提升！\n※详情可前往游戏内公告及调频界面查看。\n—— 欢迎来到罗斯凯利法！——",
@@ -2800,111 +2583,43 @@
       ]
     },
     {
-      "id": "zenless-zone-zero-2026-166512-banners",
-      "name": "绝区零 3.2 第二期调频：洛克茜 / 普罗米娅 / 绯月银棺 / 朔月裁霜",
-      "name_en": "Zenless Zone Zero · V3.2 Limited-Time Channels (Phase II)",
+      "id": "zenless-zone-zero-2026-166515-activity-235114bf45ba",
+      "name": "绝区零 3.2 锵锵！球仔成长日记",
+      "name_en": "Diary of an Orbie Parent",
       "date": "2026-09-30",
-      "end_date": "2026-10-20",
-      "time": "12:00",
-      "end_time": "14:59",
+      "end_date": "2026-10-19",
+      "time": "10:00",
+      "end_time": "03:59",
       "timezone": "Asia/Shanghai",
       "time_kind": "datetime_range",
       "type": "range",
       "year": 2026,
-      "description": "绝区零官方活动调频（第二期）",
-      "description_en": "V3.2 Limited-Time Channels (Phase II)",
-      "url": "https://zzz.mihoyo.com/news/detail/166512",
+      "description": "绝区零 锵锵！球仔成长日记",
+      "url": "https://zzz.mihoyo.com/news/166515",
       "status": "completed",
       "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
-        "official_time": "2026-09-30 12:00~2026-10-20 14:59",
-        "代理人「代理人频段」5★": "洛克茜 / 普罗米娅",
-        "代理人「代理人频段」4★": "可琳 / 比利",
-        "音擎「音擎频段」5★": "绯月银棺 / 朔月裁霜",
-        "音擎「音擎频段」4★": "家政员 / 仿制星徽引擎",
-        "official_notice": "3.2版本限时频段（下期）"
+        "official_time": "【活动时间】\n2026/09/30 10:00 ~ 2026/10/19 03:59\n【参与条件】\n绳网等级≥20级，完成主线第一章·幕间后即可参与。\n【活动说明】 \n• 活动期间，绳匠将获赠一台名为「球仔进化论」 的游戏机，开启专属球仔养成计划； \n• 绳匠每日登录可获得2个[食物]，每日消耗30电量可获得1个[食物]，每日共计可获得3个[食物]。 \n• 完成活动期间的限时奖励任务，即可获得[菲林]、称号[被选召的饲养员]和各类养成材料奖励。 \n※ 完全体宠物将会保留到后续系列活动中，活动期间未完全养成的宠物将不会保留养成进度。 \n—— 欢迎来到罗斯凯利法！——",
+        "official_notice": "「锵锵！球仔成长日记」活动说明"
       },
       "details_en": {
-        "official_time": "2026-09-30 12:00 – 2026-10-20 14:59",
-        "official_notice": "V3.2 Limited-Time Channels (Phase II)",
-        "English source": "https://zenless.hoyoverse.com/en-us/news/166475",
-        "English source ID": "166475",
-        "English original title": "V3.2 Limited-Time Channels (Phase II)",
-        "English name status": "official announcement; mainland timing preserved"
+        "official_time": "2026-09-30 10:00 – 2026-10-19 03:59",
+        "English name status": "official announcement; mainland timing preserved",
+        "English source": "https://zenless.hoyoverse.com/en-us/news/166476",
+        "English source ID": "166476",
+        "English original title": "\"Diary of an Orbie Parent\" Event Details"
       },
       "game": {
         "game_id": "zenless-zone-zero",
         "provider": "mihoyo",
-        "source_kind": "banner",
-        "source_content_id": "166512",
-        "source_title": "3.2版本限时频段（下期）",
-        "source_url": "https://zzz.mihoyo.com/news/detail/166512",
+        "source_kind": "activity",
+        "source_content_id": "166515",
+        "source_title": "「锵锵！球仔成长日记」活动说明",
+        "source_url": "https://zzz.mihoyo.com/news/166515",
         "version": "3.2",
-        "phase": "phase2"
-      },
-      "banners": [
-        {
-          "name": "代理人频段",
-          "name_en": "Agent Channel",
-          "type": "agent",
-          "featured_5": [
-            {
-              "name": "洛克茜",
-              "type": "agent",
-              "rarity": 5
-            },
-            {
-              "name": "普罗米娅",
-              "type": "agent",
-              "rarity": 5
-            }
-          ],
-          "featured_4": [
-            {
-              "name": "可琳",
-              "type": "agent",
-              "rarity": 4
-            },
-            {
-              "name": "比利",
-              "type": "agent",
-              "rarity": 4
-            }
-          ],
-          "phase": "phase2"
-        },
-        {
-          "name": "音擎频段",
-          "name_en": "W-Engine Channel",
-          "type": "w_engine",
-          "featured_5": [
-            {
-              "name": "绯月银棺",
-              "type": "w_engine",
-              "rarity": 5
-            },
-            {
-              "name": "朔月裁霜",
-              "type": "w_engine",
-              "rarity": 5
-            }
-          ],
-          "featured_4": [
-            {
-              "name": "家政员",
-              "type": "w_engine",
-              "rarity": 4
-            },
-            {
-              "name": "仿制星徽引擎",
-              "type": "w_engine",
-              "rarity": 4
-            }
-          ],
-          "phase": "phase2"
-        }
-      ]
+        "activity_name": "锵锵！球仔成长日记"
+      }
     },
     {
       "id": "zenless-zone-zero-2026-166570-activity-34a7abf23b9e",
@@ -2921,7 +2636,7 @@
       "description": "绝区零 跛脚乌鸦奇探录",
       "url": "https://zzz.mihoyo.com/news/166570",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "【活动时间】\n2026/10/03 10:00 ~ 2026/10/19 03:59\n【参与条件】\n绳网等级≥20级，完成主线第一章·幕间后即可参与。\n【玩法说明】\n• 活动期间，绳匠将会与侦探社的科洛和阿跛一起，调查罗斯凯利法「萝卜」走私案，挖掘其背后的真相。\n• 活动包含「秘密接头」、「物流卧底」、「口岸排查」、「布控缉拿」、「针脚与真相」共5个委托事件，完成前一委托事件并达到指定时间后，即可解锁下一事件。\n• 完成活动委托，即可获得[菲林]、[邦布券]和各类养成材料奖励。\n—— 欢迎来到罗斯凯利法！——",
@@ -2960,7 +2675,7 @@
       "description": "绝区零 数据悬赏-实战模拟",
       "url": "https://zzz.mihoyo.com/news/166677",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "【活动时间】\n2026/10/14 04:00 ~ 2026/10/19 03:59\n【参与条件】\n在主线第一章「猫的失物」中解锁「实战模拟室」后即可参与。\n【活动说明】\n• 「数据悬赏-实战模拟」活动期间，绳匠进入「实战模拟室」，选择任意怪物卡并成功通过挑战，即可获得双倍奖励！\n• 活动期间，每日可增益5张怪物卡，增益效果将在每日04:00重置。\n—— 欢迎来到罗斯凯利法！——",
@@ -2985,45 +2700,6 @@
       }
     },
     {
-      "id": "zenless-zone-zero-2026-166989-maintenance",
-      "name": "绝区零 3.3 版本维护更新",
-      "date": "2026-10-21",
-      "end_date": "2026-10-21",
-      "time": "06:00",
-      "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
-      "type": "event",
-      "year": 2026,
-      "description": "绝区零 官方版本维护更新。",
-      "url": "https://zzz.mihoyo.com/news/detail/166989",
-      "status": "completed",
-      "last_verified": "2026-11-11",
-      "verified_by": "official",
-      "details": {
-        "official_time": "2026/10/21 06:00 预计5个小时"
-      },
-      "game": {
-        "game_id": "zenless-zone-zero",
-        "provider": "mihoyo",
-        "source_kind": "maintenance",
-        "source_content_id": "166989",
-        "source_title": "3.3版本「重返天空的旅程」更新公告",
-        "source_url": "https://zzz.mihoyo.com/news/detail/166989",
-        "version": "3.3"
-      },
-      "end_time": "11:00",
-      "name_en": "Zenless Zone Zero · Version 3.3 \"Journey to the Sky\" Update Announcement",
-      "description_en": "Version 3.3 \"Journey to the Sky\" Update Announcement",
-      "details_en": {
-        "official_time": "2026-10-21 06:00 – 2026-10-21 11:00",
-        "official_notice": "Version 3.3 \"Journey to the Sky\" Update Announcement",
-        "English source": "https://zenless.hoyoverse.com/en-us/news/166963",
-        "English source ID": "166963",
-        "English original title": "Version 3.3 \"Journey to the Sky\" Update Announcement",
-        "English name status": "official announcement; mainland timing preserved"
-      }
-    },
-    {
       "id": "zenless-zone-zero-2026-166922-banner-d96c7cdc3e53",
       "name": "绝区零 3.3 代理人频段：菲欧妮 / 维琳娜",
       "name_en": "Phoenix / Velina",
@@ -3037,7 +2713,7 @@
       "description": "绝区零 代理人频段：菲欧妮 / 维琳娜",
       "url": "https://zzz.mihoyo.com/news/166922",
       "status": "active",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "亲爱的绳匠：\n本期代理人与音擎调频活动时间为： 3.3版本更新后 ~ 2026/11/11 11:59 ，包含如下内容：\n活动期间，限定S级代理人[菲欧妮(火·异常)]、[维琳娜(风·异常)]调频获取概率将大幅提升！\n活动期间，限定S级音擎[涅槃初翎(异常)]、[琳琅鎏心(异常)]的调频获取概率将大幅提升！\n※详情可前往游戏内公告及调频界面查看。\n—— 欢迎来到罗斯凯利法！——",
@@ -3102,7 +2778,7 @@
       "description": "绝区零 音擎频段：涅槃初翎 / 琳琅鎏心",
       "url": "https://zzz.mihoyo.com/news/166922",
       "status": "active",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "亲爱的绳匠：\n本期代理人与音擎调频活动时间为： 3.3版本更新后 ~ 2026/11/11 11:59 ，包含如下内容：\n活动期间，限定S级代理人[菲欧妮(火·异常)]、[维琳娜(风·异常)]调频获取概率将大幅提升！\n活动期间，限定S级音擎[涅槃初翎(异常)]、[琳琅鎏心(异常)]的调频获取概率将大幅提升！\n※详情可前往游戏内公告及调频界面查看。\n—— 欢迎来到罗斯凯利法！——",
@@ -3167,7 +2843,7 @@
       "description": "绝区零 全新放送",
       "url": "https://zzz.mihoyo.com/news/166989",
       "status": "active",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "全新放送 \n活动期间，累计登录7天即可获赠[加密母带]*10！\n活动时间：3.3版本更新后 ~ 2026/12/01 03:59（服务器时间）\n参与条件：绳网等级≥5级，完成主线序章「兔与绳」并解锁「活动」功能后即可参与。",
@@ -3196,9 +2872,48 @@
       }
     },
     {
+      "id": "zenless-zone-zero-2026-166989-maintenance",
+      "name": "绝区零 3.3 维护更新",
+      "date": "2026-10-21",
+      "end_date": "2026-10-21",
+      "time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "绝区零 3.3 维护更新",
+      "url": "https://zzz.mihoyo.com/news/166989",
+      "status": "completed",
+      "last_verified": "2026-11-11",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/10/21 06:00 预计5个小时"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "maintenance",
+        "source_content_id": "166989",
+        "source_title": "3.3版本「重返天空的旅程」更新公告",
+        "source_url": "https://zzz.mihoyo.com/news/166989",
+        "version": "3.3"
+      },
+      "end_time": "11:00",
+      "name_en": "Zenless Zone Zero · Version 3.3 \"Journey to the Sky\" Update Announcement",
+      "details_en": {
+        "official_time": "2026-10-21 06:00 – 2026-10-21 11:00",
+        "official_notice": "Version 3.3 \"Journey to the Sky\" Update Announcement",
+        "English source": "https://zenless.hoyoverse.com/en-us/news/166963",
+        "English source ID": "166963",
+        "English original title": "Version 3.3 \"Journey to the Sky\" Update Announcement",
+        "English name status": "official announcement; mainland timing preserved"
+      },
+      "description_en": "Version 3.3 \"Journey to the Sky\" Update Announcement"
+    },
+    {
       "id": "zenless-zone-zero-2026-166989-version",
       "name": "绝区零 3.3 版本周期",
-      "name_en": "Zenless Zone Zero v3.3 Version Period",
+      "name_en": "Zenless Zone Zero · Version 3.3 \"Journey to the Sky\" Update Announcement",
       "date": "2026-10-21",
       "end_date": "2026-12-02",
       "end_time": "06:00",
@@ -3209,7 +2924,7 @@
       "description": "绝区零 3.3 版本周期",
       "url": "https://zzz.mihoyo.com/news/166989",
       "status": "active",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "2026-10-21 版本更新后 ~ 2026/12/02 06:00",
@@ -3219,7 +2934,12 @@
       "details_en": {
         "official_time": "2026-10-21 – 2026-12-02 06:00",
         "start_time": "After the version update",
-        "end_time": "2026-12-02 06:00"
+        "end_time": "2026-12-02 06:00",
+        "official_notice": "Version 3.3 \"Journey to the Sky\" Update Announcement",
+        "English source": "https://zenless.hoyoverse.com/en-us/news/166963",
+        "English source ID": "166963",
+        "English original title": "Version 3.3 \"Journey to the Sky\" Update Announcement",
+        "English name status": "official announcement; mainland timing preserved"
       },
       "game": {
         "game_id": "zenless-zone-zero",
@@ -3229,7 +2949,8 @@
         "source_title": "3.3版本「重返天空的旅程」更新公告",
         "source_url": "https://zzz.mihoyo.com/news/166989",
         "version": "3.3"
-      }
+      },
+      "description_en": "Version 3.3 \"Journey to the Sky\" Update Announcement"
     },
     {
       "id": "zenless-zone-zero-2026-166989-activity-57c366b9683f",
@@ -3246,7 +2967,7 @@
       "description": "绝区零 怪奇诡屋惊魂记",
       "url": "https://zzz.mihoyo.com/news/166989",
       "status": "active",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "怪奇诡屋惊魂记 \n当捣蛋车驶入诡屋，惊魂的冒险也将就此展开…\n「由我们来制造惊魂？这样事情会变得很有趣哦~」\n完成「任务模式」的全部关卡，可在福利活动「天使应援大作战」获取「妄想天使」限定时装。\n活动时间：2026/10/22 10:00（服务器时间） ~ 2026/11/30 03:59（服务器时间）\n参与条件：绳网等级≥20级，完成主线第一章·幕间后即可参与。",
@@ -3285,7 +3006,7 @@
       "description": "绝区零 赛博圣手，出诊!",
       "url": "https://zzz.mihoyo.com/news/167045",
       "status": "active",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "【活动时间】\n2026/10/28 10:00~ 2026/11/16 03:59\n【参与条件】\n绳网等级≥20级，完成主线第一章·幕间后即可参与。\n【活动说明】\n• 活动期间，绳匠可以前往「毛绒扳手」，和店长杰佩琳对话，帮忙修复感染了病毒的小邦布们。\n• 活动期间，维修关卡将逐天解锁。完成当日维修，即可帮助小邦布们恢复正常。\n• 完成维修关卡，即可获得[菲林]、[邦布券]和各类养成材料奖励。\n—— 欢迎来到罗斯凯利法！——",
@@ -3324,7 +3045,7 @@
       "description": "绝区零 先遣赏金-区域巡防",
       "url": "https://zzz.mihoyo.com/news/167166",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "【活动时间】\n2026/11/04 04:00~2026/11/09 03:59\n【参与条件】 \n绳网等级≥21级并完成绳网声望晋升任务「绳之道I」，且解锁「区域巡防」后即可参与。\n【活动说明】 \n• 「先遣赏金-区域巡防」活动期间，绳匠进入「区域巡防」，挑战并通过任意关卡即可获得 双倍 奖励！\n• 活动期间，每日可增益 2 场挑战，增益效果将在每日04:00重置。\n—— 欢迎来到罗斯凯利法！——",
@@ -3349,45 +3070,6 @@
       }
     },
     {
-      "id": "zenless-zone-zero-2026-166989-activity-2579abddcbee",
-      "name": "绝区零 3.3 跛脚乌鸦奇踪记",
-      "name_en": "Trails of the Hobbling Crow",
-      "date": "2026-11-11",
-      "end_date": "2026-11-30",
-      "time": "10:00",
-      "end_time": "03:59",
-      "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
-      "type": "range",
-      "year": 2026,
-      "description": "绝区零 跛脚乌鸦奇踪记",
-      "url": "https://zzz.mihoyo.com/news/166989",
-      "status": "active",
-      "last_verified": "2026-11-06",
-      "verified_by": "official",
-      "details": {
-        "official_time": "跛脚乌鸦奇踪记 \n深夜、毒药、毫不知情的受害者，一切要素已经齐备！\n是时候让侦探们大显身手…什么？受害者是侦探本人？！\n活动时间：2026/11/11 10:00（服务器时间） ~ 2026/11/30 03:59（服务器时间）\n参与条件：绳网等级≥20级，完成主线第一章·幕间后即可参与。",
-        "official_notice": "3.3版本「重返天空的旅程」更新公告"
-      },
-      "details_en": {
-        "official_time": "2026-11-11 10:00 – 2026-11-30 03:59",
-        "English name status": "official announcement; mainland timing preserved",
-        "English source": "https://zenless.hoyoverse.com/en-us/news/166963",
-        "English source ID": "166963",
-        "English original title": "Version 3.3 \"Journey to the Sky\" Update Announcement"
-      },
-      "game": {
-        "game_id": "zenless-zone-zero",
-        "provider": "mihoyo",
-        "source_kind": "activity",
-        "source_content_id": "166989",
-        "source_title": "3.3版本「重返天空的旅程」更新公告",
-        "source_url": "https://zzz.mihoyo.com/news/166989",
-        "version": "3.3",
-        "activity_name": "跛脚乌鸦奇踪记"
-      }
-    },
-    {
       "id": "zenless-zone-zero-2026-166989-activity-ad0837f70604",
       "name": "绝区零 3.3 「嗯呢」从天降",
       "name_en": "\"En-Nah\" Into Your Lap",
@@ -3402,7 +3084,7 @@
       "description": "绝区零 「嗯呢」从天降",
       "url": "https://zzz.mihoyo.com/news/166989",
       "status": "active",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "「嗯呢」从天降 \n活动期间，累计登录7天即可获赠[邦布券]*10！\n活动时间：2026/11/11 10:00（服务器时间） ~ 2026/12/01 03:59（服务器时间）\n参与条件：绳网等级≥5级，完成主线序章「兔与绳」并解锁「活动」功能后即可参与。",
@@ -3427,9 +3109,9 @@
       }
     },
     {
-      "id": "zenless-zone-zero-2026-167288-banners",
-      "name": "绝区零 3.3 第二期调频：赛维里安 / 诺姆 / 禁罪囚笼 / 首席跟班",
-      "name_en": "Zenless Zone Zero · V3.3 Limited-Time Channels (Phase II)",
+      "id": "zenless-zone-zero-2026-167288-banner-44b8e78c8621",
+      "name": "绝区零 3.3 代理人频段：赛维里安 / 诺姆",
+      "name_en": "Severian / Norma",
       "date": "2026-11-11",
       "end_date": "2026-12-01",
       "time": "12:00",
@@ -3438,25 +3120,21 @@
       "time_kind": "datetime_range",
       "type": "range",
       "year": 2026,
-      "description": "绝区零官方活动调频（第二期）",
-      "description_en": "V3.3 Limited-Time Channels (Phase II)",
-      "url": "https://zzz.mihoyo.com/news/detail/167288",
+      "description": "绝区零 代理人频段：赛维里安 / 诺姆",
+      "url": "https://zzz.mihoyo.com/news/167288",
       "status": "active",
       "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
-        "official_time": "2026/11/11 12:00 ~ 2026/12/01 14:59",
-        "代理人「代理人频段」5★": "赛维里安 / 诺姆",
-        "音擎「音擎频段」5★": "禁罪囚笼 / 首席跟班",
+        "official_time": "亲爱的绳匠： \n本期代理人与音擎调频活动时间为： 2026/11/11 12:00 ~ 2026/12/01 14:59 ，包含如下内容： \n活动期间，限定S级代理人 [赛维里安(风·强攻)]、[诺姆(火·击破)] 的调频获取概率将大幅提升！ \n活动期间，限定S级音擎 [禁罪囚笼(强攻)]、[首席跟班(击破)] 的调频获取概率将大幅提升！ \n※详情可前往游戏内公告及调频界面查看。\n—— 欢迎来到罗斯凯利法！——",
         "official_notice": "3.3版本限时频段（下期）"
       },
       "details_en": {
         "official_time": "2026-11-11 12:00 – 2026-12-01 14:59",
-        "official_notice": "V3.3 Limited-Time Channels (Phase II)",
+        "English name status": "official announcement; mainland timing preserved",
         "English source": "https://zenless.hoyoverse.com/en-us/news/167269",
         "English source ID": "167269",
-        "English original title": "V3.3 Limited-Time Channels (Phase II)",
-        "English name status": "official announcement; mainland timing preserved"
+        "English original title": "V3.3 Limited-Time Channels (Phase II)"
       },
       "game": {
         "game_id": "zenless-zone-zero",
@@ -3464,8 +3142,9 @@
         "source_kind": "banner",
         "source_content_id": "167288",
         "source_title": "3.3版本限时频段（下期）",
-        "source_url": "https://zzz.mihoyo.com/news/detail/167288",
+        "source_url": "https://zzz.mihoyo.com/news/167288",
         "version": "3.3",
+        "activity_name": "代理人频段：赛维里安 / 诺姆",
         "phase": "phase2"
       },
       "banners": [
@@ -3477,17 +3156,60 @@
             {
               "name": "赛维里安",
               "type": "agent",
-              "rarity": 5
+              "rarity": 5,
+              "name_en": "Severian"
             },
             {
               "name": "诺姆",
               "type": "agent",
-              "rarity": 5
+              "rarity": 5,
+              "name_en": "Norma"
             }
           ],
-          "featured_4": [],
-          "phase": "phase2"
-        },
+          "featured_4": []
+        }
+      ]
+    },
+    {
+      "id": "zenless-zone-zero-2026-167288-banner-9691f60f3b36",
+      "name": "绝区零 3.3 音擎频段：禁罪囚笼 / 首席跟班",
+      "name_en": "Incarcerating Grip / Chief Sidekick",
+      "date": "2026-11-11",
+      "end_date": "2026-12-01",
+      "time": "12:00",
+      "end_time": "14:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "绝区零 音擎频段：禁罪囚笼 / 首席跟班",
+      "url": "https://zzz.mihoyo.com/news/167288",
+      "status": "active",
+      "last_verified": "2026-11-11",
+      "verified_by": "official",
+      "details": {
+        "official_time": "亲爱的绳匠： \n本期代理人与音擎调频活动时间为： 2026/11/11 12:00 ~ 2026/12/01 14:59 ，包含如下内容： \n活动期间，限定S级代理人 [赛维里安(风·强攻)]、[诺姆(火·击破)] 的调频获取概率将大幅提升！ \n活动期间，限定S级音擎 [禁罪囚笼(强攻)]、[首席跟班(击破)] 的调频获取概率将大幅提升！ \n※详情可前往游戏内公告及调频界面查看。\n—— 欢迎来到罗斯凯利法！——",
+        "official_notice": "3.3版本限时频段（下期）"
+      },
+      "details_en": {
+        "official_time": "2026-11-11 12:00 – 2026-12-01 14:59",
+        "English name status": "official announcement; mainland timing preserved",
+        "English source": "https://zenless.hoyoverse.com/en-us/news/167269",
+        "English source ID": "167269",
+        "English original title": "V3.3 Limited-Time Channels (Phase II)"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "banner",
+        "source_content_id": "167288",
+        "source_title": "3.3版本限时频段（下期）",
+        "source_url": "https://zzz.mihoyo.com/news/167288",
+        "version": "3.3",
+        "activity_name": "音擎频段：禁罪囚笼 / 首席跟班",
+        "phase": "phase2"
+      },
+      "banners": [
         {
           "name": "音擎频段",
           "name_en": "W-Engine Channel",
@@ -3496,18 +3218,97 @@
             {
               "name": "禁罪囚笼",
               "type": "w_engine",
-              "rarity": 5
+              "rarity": 5,
+              "name_en": "Incarcerating Grip"
             },
             {
               "name": "首席跟班",
               "type": "w_engine",
-              "rarity": 5
+              "rarity": 5,
+              "name_en": "Chief Sidekick"
             }
           ],
-          "featured_4": [],
-          "phase": "phase2"
+          "featured_4": []
         }
       ]
+    },
+    {
+      "id": "zenless-zone-zero-2026-167289-activity-2579abddcbee",
+      "name": "绝区零 3.3 跛脚乌鸦奇踪记",
+      "name_en": "Trails of the Hobbling Crow",
+      "date": "2026-11-11",
+      "end_date": "2026-11-30",
+      "time": "10:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "绝区零 跛脚乌鸦奇踪记",
+      "url": "https://zzz.mihoyo.com/news/167289",
+      "status": "active",
+      "last_verified": "2026-11-11",
+      "verified_by": "official",
+      "details": {
+        "official_time": "【活动时间】 \n2026/11/11 10:00 ~ 2026/11/30 03:59 \n【参与条件】 \n绳网等级≥ 20 级，完成主线 第一章·幕间 后即可参与。 \n【玩法说明】 \n• 活动期间，绳匠将再次担任跛脚乌鸦侦探社的临时侦探助理，调查由一桩「毒杀案」牵扯出的各种离奇事件。 \n• 活动包含「下毒要在入睡前」、「乌鸦留下足迹」、「不存在的服务生」、「稻草人与乌鸦」、「杯中迷影」共5个委托事件，完成前一委托事件并达到指定时间后，即可解锁下一事件。 \n• 完成活动委托，即可获得 [调律校音器] 、 [菲林] 和各类养成材料奖励。 \n—— 欢迎来到罗斯凯利法！——",
+        "official_notice": "「跛脚乌鸦奇踪记」活动说明"
+      },
+      "details_en": {
+        "official_time": "2026-11-11 10:00 – 2026-11-30 03:59",
+        "English name status": "official announcement; mainland timing preserved",
+        "English source": "https://zenless.hoyoverse.com/en-us/news/167270",
+        "English source ID": "167270",
+        "English original title": "\"Trails of the Hobbling Crow\" Event Details"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "activity",
+        "source_content_id": "167289",
+        "source_title": "「跛脚乌鸦奇踪记」活动说明",
+        "source_url": "https://zzz.mihoyo.com/news/167289",
+        "version": "3.3",
+        "activity_name": "跛脚乌鸦奇踪记"
+      }
+    },
+    {
+      "id": "zenless-zone-zero-2026-167290-activity-5c9698639ca0",
+      "name": "绝区零 3.3 『嗯呢』从天降",
+      "name_en": "'En-Nah' Into Your Lap",
+      "date": "2026-11-11",
+      "end_date": "2026-12-01",
+      "time": "10:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "绝区零 『嗯呢』从天降",
+      "url": "https://zzz.mihoyo.com/news/167290",
+      "status": "active",
+      "last_verified": "2026-11-11",
+      "verified_by": "official",
+      "details": {
+        "official_time": "【活动时间】 \n2026/11/11 10:00 ~ 2026/12/01 03:59 \n【参与条件】 \n绳网等级≥ 5 级，完成主线序章「兔与绳」并解锁 「活动」 功能后即可参与。 \n【活动说明】 \n「『嗯呢』从天降」活动期间，累计登录7天即可获得 [邦布券]*10 ！ \n—— 欢迎来到罗斯凯利法！——",
+        "official_notice": "「『嗯呢』从天降」活动说明"
+      },
+      "details_en": {
+        "official_time": "2026-11-11 10:00 – 2026-12-01 03:59",
+        "English name status": "official announcement; mainland timing preserved",
+        "English source": "https://zenless.hoyoverse.com/en-us/news/167271",
+        "English source ID": "167271",
+        "English original title": "\"'En-Nah' Into Your Lap\" Event Details"
+      },
+      "game": {
+        "game_id": "zenless-zone-zero",
+        "provider": "mihoyo",
+        "source_kind": "activity",
+        "source_content_id": "167290",
+        "source_title": "「『嗯呢』从天降」活动说明",
+        "source_url": "https://zzz.mihoyo.com/news/167290",
+        "version": "3.3",
+        "activity_name": "『嗯呢』从天降"
+      }
     },
     {
       "id": "zenless-zone-zero-2026-166989-activity-d5104b87b723",
@@ -3524,7 +3325,7 @@
       "description": "绝区零 修复吧！漂流画集",
       "url": "https://zzz.mihoyo.com/news/166989",
       "status": "confirmed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "修复吧！漂流画集 \n小小的画集漂至远方，大大的意外令邦布陷入沮丧…\n唯有心灵手巧的修复师，才能让画集完好如初。\n活动时间：2026/11/16 10:00（服务器时间） ~ 2026/11/30 03:59（服务器时间）\n参与条件：绳网等级≥20级，完成主线第一章·幕间后即可参与。",
@@ -3563,7 +3364,7 @@
       "description": "绝区零 数据悬赏-实战模拟",
       "url": "https://zzz.mihoyo.com/news/166989",
       "status": "confirmed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-11",
       "verified_by": "official",
       "details": {
         "official_time": "数据悬赏-实战模拟 \n活动期限内，「实战模拟室」挑战奖励翻倍。\n「要拜托你的事情确实不少，但报酬也不会少的~」\n活动时间：2026/11/25 04:00（服务器时间） ~ 2026/11/30 03:59（服务器时间）\n参与条件：在主线第一章「猫的失物」中解锁「实战模拟室」后即可参与活动。",

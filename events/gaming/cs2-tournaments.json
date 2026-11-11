@@ -55410,7 +55410,7 @@
       "description": "MOUZ vs G2 — BLAST Rivals （北京时间）",
       "description_en": "MOUZ vs G2 — BLAST Rivals  (CST)",
       "url": "https://www.twitch.tv/krl_stream",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-11-11",
       "verified_by": "official",
       "teams": {
@@ -55424,6 +55424,12 @@
           "code": "G2",
           "name": "G2"
         }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
       },
       "details": {
         "赛事": "BLAST Rivals",
@@ -55497,6 +55503,74 @@
         "赛事": "BLAST Rivals",
         "赛季": "2026",
         "阶段": "Group A",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1762461",
+      "name": "BLAST Rivals · Group B · FUT Esports vs MOUZ",
+      "name_en": "BLAST Rivals · Group B · FUT Esports vs MOUZ",
+      "date": "2026-11-12",
+      "time": "15:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "FUT Esports vs MOUZ — BLAST Rivals （北京时间）",
+      "description_en": "FUT Esports vs MOUZ — BLAST Rivals  (CST)",
+      "url": "https://www.twitch.tv/betboom_cs_ru",
+      "status": "confirmed",
+      "last_verified": "2026-11-11",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "136955",
+          "code": "FUT Esports",
+          "name": "FUT Esports"
+        },
+        "home": {
+          "id": "3240",
+          "code": "MOUZ",
+          "name": "MOUZ"
+        }
+      },
+      "details": {
+        "赛事": "BLAST Rivals",
+        "赛季": "2026",
+        "阶段": "Group B",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1762462",
+      "name": "BLAST Rivals · Group B · Spirit vs G2",
+      "name_en": "BLAST Rivals · Group B · Spirit vs G2",
+      "date": "2026-11-12",
+      "time": "17:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Spirit vs G2 — BLAST Rivals （北京时间）",
+      "description_en": "Spirit vs G2 — BLAST Rivals  (CST)",
+      "url": "https://www.twitch.tv/betboom_cs_ru",
+      "status": "confirmed",
+      "last_verified": "2026-11-11",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "124523",
+          "code": "Spirit",
+          "name": "Spirit"
+        },
+        "home": {
+          "id": "3210",
+          "code": "G2",
+          "name": "G2"
+        }
+      },
+      "details": {
+        "赛事": "BLAST Rivals",
+        "赛季": "2026",
+        "阶段": "Group B",
         "赛制": "BO3"
       }
     },
