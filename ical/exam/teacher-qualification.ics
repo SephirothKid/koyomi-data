@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//teacher-qualification//EN
+URL:https://koyomi.cast/sources/teacher-qualification
+NAME:教师资格考试
+X-WR-CALNAME:教师资格考试
+X-WR-CALDESC:全国教师资格笔试与面试日期。报名、审核和
+ 准考证打印按各省公告，个人考试时刻以准考证为准。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:teacher-qualification-teacher-qualification-2026-h2-interview@koyomi.c
+ ast
+SEQUENCE:0
+DTSTAMP:20261111T000000
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:教师资格考试 · 下半年教师资格面试
+DESCRIPTION:全国考试日期；报名、审核和准考证安排以各
+ 省公告为准，个人考试时刻以准考证为准。\n\n来源: https
+ ://ntce.neea.edu.cn/html1/folder/1507/1260-1.htm
+CATEGORIES:教师资格考试
+URL;VALUE=URI:https://ntce.neea.edu.cn/html1/folder/1507/1260-1.htm
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

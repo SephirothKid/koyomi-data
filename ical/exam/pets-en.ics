@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//pets//EN
+URL:https://koyomi.cast/sources/pets
+NAME:Public English Test System
+X-WR-CALNAME:Public English Test System
+X-WR-CALDESC:PETS paper-based tests, computer-based pilots, registration, 
+ admission tickets and results announcements. Each exam mode identifies its
+  participating regions; individual sessions follow the admission ticket.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:pets-pets-2026-h2-results-announcement@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261111T000000
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Public English Test System · PETS Month 9 Results and Certificate
+  Announcement
+DESCRIPTION:Publication date of the official results and certificate avail
+ ability announcement. The notice does not specify an opening time.\n\nSour
+ ce: https://pets.neea.edu.cn/html1/report/2611/19-1.htm
+CATEGORIES:Public English Test System
+URL;VALUE=URI:https://pets.neea.edu.cn/html1/report/2611/19-1.htm
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

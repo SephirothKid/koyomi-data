@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//ncre//EN
+URL:https://koyomi.cast/sources/ncre
+NAME:National Computer Rank Examination
+X-WR-CALNAME:National Computer Rank Examination
+X-WR-CALDESC:NCRE exam dates and results/certificate announcements. Provin
+ cial notices set registration, payment and admission-ticket dates; individ
+ ual sessions follow the admission ticket.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:ncre-ncre-2026-m09-results-announcement@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261111T000000
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:National Computer Rank Examination · NCRE Month 9 Results and Cer
+ tificate Announcement
+DESCRIPTION:Publication date of the official results and certificate avail
+ ability announcement. The notice does not specify an opening time.\n\nSour
+ ce: https://ncre.neea.edu.cn/html1/report/2611/14-1.htm
+CATEGORIES:National Computer Rank Examination
+URL;VALUE=URI:https://ncre.neea.edu.cn/html1/report/2611/14-1.htm
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

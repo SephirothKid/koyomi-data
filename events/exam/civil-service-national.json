@@ -12,7 +12,7 @@
       "public-service"
     ]
   },
-  "description": "中央机关及其直属机构考试录用公务员关键时间节点，包括公告、报名、资格审查、缴费、准考证、笔试和成绩查询。",
+  "description": "中央机关及直属机构招录报名、注册认证截止与公共科目笔试。按招录年度归档，保留实际日期；来源为智慧普法平台转载的国家公务员局消息。",
   "icon": "clipboard-check",
   "tags": [
     "国考",
@@ -26,10 +26,77 @@
     "Registration"
   ],
   "maintainer": "community",
-  "source_url": "http://bm.scs.gov.cn/kl2026",
-  "events": [],
-  "last_updated": "2026-08-31",
+  "source_url": "http://legalinfo.moj.gov.cn/",
+  "events": [
+    {
+      "id": "civil-service-national-2027-register-open",
+      "name": "2027年国考报名开始",
+      "name_en": "2027 National Civil Service Registration Opens",
+      "date": "2026-10-14",
+      "time": "08:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "deadline",
+      "year": 2027,
+      "description": "中央机关及直属机构全国招录。日期来自国家公务员局信息，经新华社报道、智慧普法平台转载。招录年度与实际日历年份可能不同；缴费、准考证和个人场次需另查公告。",
+      "description_en": "National recruitment for central government agencies. National Civil Service Administration information reported by Xinhua and republished on the Ministry of Justice legal information portal. Recruitment cycle and calendar year may differ. Consult separate notices for payment, admission tickets and individual sessions.",
+      "url": "http://legalinfo.moj.gov.cn/pub/sfbzhfx/zhfxfzzx/fzzxyw/202610/t20261013_540645.html",
+      "status": "completed",
+      "last_verified": "2026-11-11",
+      "verified_by": "official"
+    },
+    {
+      "id": "civil-service-national-2027-authentication-close",
+      "name": "2027年国考注册认证截止",
+      "name_en": "2027 National Civil Service Identity Authentication Deadline",
+      "date": "2026-10-23",
+      "time": "18:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "deadline",
+      "year": 2027,
+      "description": "中央机关及直属机构全国招录。日期来自国家公务员局信息，经新华社报道、智慧普法平台转载。招录年度与实际日历年份可能不同；缴费、准考证和个人场次需另查公告。",
+      "description_en": "National recruitment for central government agencies. National Civil Service Administration information reported by Xinhua and republished on the Ministry of Justice legal information portal. Recruitment cycle and calendar year may differ. Consult separate notices for payment, admission tickets and individual sessions.",
+      "url": "http://legalinfo.moj.gov.cn/pub/sfbzhfx/zhfxfzzx/fzzxyw/202610/t20261013_540645.html",
+      "status": "completed",
+      "last_verified": "2026-11-11",
+      "verified_by": "official"
+    },
+    {
+      "id": "civil-service-national-2027-register-close",
+      "name": "2027年国考报名截止",
+      "name_en": "2027 National Civil Service Registration Closes",
+      "date": "2026-10-24",
+      "time": "18:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "deadline",
+      "year": 2027,
+      "description": "中央机关及直属机构全国招录。日期来自国家公务员局信息，经新华社报道、智慧普法平台转载。招录年度与实际日历年份可能不同；缴费、准考证和个人场次需另查公告。",
+      "description_en": "National recruitment for central government agencies. National Civil Service Administration information reported by Xinhua and republished on the Ministry of Justice legal information portal. Recruitment cycle and calendar year may differ. Consult separate notices for payment, admission tickets and individual sessions.",
+      "url": "http://legalinfo.moj.gov.cn/pub/sfbzhfx/zhfxfzzx/fzzxyw/202610/t20261013_540645.html",
+      "status": "completed",
+      "last_verified": "2026-11-11",
+      "verified_by": "official"
+    },
+    {
+      "id": "civil-service-national-2027-written-exam",
+      "name": "2027年国考公共科目笔试",
+      "name_en": "2027 National Civil Service Public Subject Written Exam",
+      "date": "2026-11-29",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2027,
+      "description": "中央机关及直属机构全国招录。日期来自国家公务员局信息，经新华社报道、智慧普法平台转载。招录年度与实际日历年份可能不同；缴费、准考证和个人场次需另查公告。",
+      "description_en": "National recruitment for central government agencies. National Civil Service Administration information reported by Xinhua and republished on the Ministry of Justice legal information portal. Recruitment cycle and calendar year may differ. Consult separate notices for payment, admission tickets and individual sessions.",
+      "url": "http://legalinfo.moj.gov.cn/pub/sfbzhfx/zhfxfzzx/fzzxyw/202610/t20261013_540645.html",
+      "status": "confirmed",
+      "last_verified": "2026-11-11",
+      "verified_by": "official"
+    }
+  ],
+  "last_updated": "2026-11-11",
   "subcategory_en": "Civil Service",
-  "hidden": true,
-  "disabled_reason": "已停用：原数据为静态或猜测日期，暂无可验证的动态官方数据接口"
+  "description_en": "Central government recruitment registration, identity authentication deadline and public subject written exam. Grouped by recruitment cycle with actual calendar dates, from National Civil Service Administration information republished by the Ministry of Justice legal information portal."
 }

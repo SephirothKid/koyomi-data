@@ -14,8 +14,8 @@
       "healthcare"
     ]
   },
-  "description": "护士执业资格考试报名、准考证、考试和成绩节点。",
-  "description_en": "Key registration, admission ticket, exam, and score release dates for the nurse licensure exam.",
+  "description": "护士资格网上报名、准考证打印与全国考试日期。确认、审核和缴费按当地通知，个人轮次以准考证为准。",
+  "description_en": "Nurse licensure registration, admission-ticket printing and national exam dates. Local notices govern confirmation, eligibility review and payment; individual rounds follow the admission ticket.",
   "icon": "clipboard-check",
   "tags": [
     "护士",
@@ -27,9 +27,74 @@
     "Healthcare"
   ],
   "maintainer": "community",
-  "source_url": "https://www.21wecan.com",
-  "events": [],
-  "last_updated": "2026-08-31",
-  "hidden": true,
-  "disabled_reason": "已停用：原数据为静态或猜测日期，暂无可验证的动态官方数据接口"
+  "source_url": "https://www.21wecan.com/wsrcw/c100199/hushizhiyezhige.shtml",
+  "events": [
+    {
+      "id": "nurse-qualification-2026-register-open",
+      "name": "2026年护士资格网上报名开始",
+      "name_en": "2026 Nurse Licensure Registration Opens",
+      "date": "2025-12-09",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2026,
+      "description": "全国护士执业资格考试；报名确认、资格审核及缴费请查当地通知。每位考生随机参加一个半天轮次，以准考证为准；不推算“考后45个工作日”的成绩日期。",
+      "description_en": "National nurse licensure exam. Local notices govern confirmation, eligibility review and payment. Each candidate attends one assigned half-day round as shown on the admission ticket. No results date is inferred from the stated 45-working-day interval.",
+      "url": "https://www.21wecan.com/wsrcw/c100202/202511/1002763.shtml",
+      "status": "completed",
+      "last_verified": "2026-11-11",
+      "verified_by": "official"
+    },
+    {
+      "id": "nurse-qualification-2026-register-close",
+      "name": "2026年护士资格网上报名截止",
+      "name_en": "2026 Nurse Licensure Registration Closes",
+      "date": "2025-12-22",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2026,
+      "description": "全国护士执业资格考试；报名确认、资格审核及缴费请查当地通知。每位考生随机参加一个半天轮次，以准考证为准；不推算“考后45个工作日”的成绩日期。",
+      "description_en": "National nurse licensure exam. Local notices govern confirmation, eligibility review and payment. Each candidate attends one assigned half-day round as shown on the admission ticket. No results date is inferred from the stated 45-working-day interval.",
+      "url": "https://www.21wecan.com/wsrcw/c100202/202511/1002763.shtml",
+      "status": "completed",
+      "last_verified": "2026-11-11",
+      "verified_by": "official"
+    },
+    {
+      "id": "nurse-qualification-2026-admission-ticket",
+      "name": "2026年护士资格准考证打印",
+      "name_en": "2026 Nurse Licensure Admission Ticket Printing",
+      "date": "2026-04-01",
+      "end_date": "2026-04-12",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "全国护士执业资格考试；报名确认、资格审核及缴费请查当地通知。每位考生随机参加一个半天轮次，以准考证为准；不推算“考后45个工作日”的成绩日期。",
+      "description_en": "National nurse licensure exam. Local notices govern confirmation, eligibility review and payment. Each candidate attends one assigned half-day round as shown on the admission ticket. No results date is inferred from the stated 45-working-day interval.",
+      "url": "https://www.21wecan.com/wsrcw/c100202/202511/1002763.shtml",
+      "status": "completed",
+      "last_verified": "2026-11-11",
+      "verified_by": "official"
+    },
+    {
+      "id": "nurse-qualification-2026-exam",
+      "name": "2026年护士执业资格考试",
+      "name_en": "2026 Nurse Licensure Exam",
+      "date": "2026-04-11",
+      "end_date": "2026-04-12",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "全国护士执业资格考试；报名确认、资格审核及缴费请查当地通知。每位考生随机参加一个半天轮次，以准考证为准；不推算“考后45个工作日”的成绩日期。",
+      "description_en": "National nurse licensure exam. Local notices govern confirmation, eligibility review and payment. Each candidate attends one assigned half-day round as shown on the admission ticket. No results date is inferred from the stated 45-working-day interval.",
+      "url": "https://www.21wecan.com/wsrcw/c100202/202511/1002763.shtml",
+      "status": "completed",
+      "last_verified": "2026-11-11",
+      "verified_by": "official"
+    }
+  ],
+  "last_updated": "2026-11-11"
 }

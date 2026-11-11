@@ -13,7 +13,7 @@
       "education"
     ]
   },
-  "description": "中小学教师资格考试笔试、面试、成绩查询和认定相关关键时间节点。",
+  "description": "全国教师资格笔试与面试日期。报名、审核和准考证打印按各省公告，个人考试时刻以准考证为准。",
   "icon": "clipboard-check",
   "tags": [
     "教资",
@@ -26,10 +26,76 @@
     "Exam"
   ],
   "maintainer": "community",
-  "source_url": "https://ntce.neea.edu.cn",
-  "events": [],
-  "last_updated": "2026-08-31",
+  "source_url": "https://ntce.neea.edu.cn/",
+  "events": [
+    {
+      "id": "teacher-qualification-2026-h1-written",
+      "name": "2026年上半年教师资格笔试",
+      "name_en": "2026 H1 Teacher Qualification Written Exam",
+      "date": "2026-03-07",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2026,
+      "description": "全国考试日期；报名、审核和准考证安排以各省公告为准，个人考试时刻以准考证为准。",
+      "description_en": "National exam dates. Provincial notices govern registration, review and admission tickets; individual session times follow the admission ticket.",
+      "url": "https://ntce.neea.edu.cn/html1/folder/1507/1260-1.htm",
+      "status": "completed",
+      "last_verified": "2026-11-11",
+      "verified_by": "official"
+    },
+    {
+      "id": "teacher-qualification-2026-h1-interview",
+      "name": "2026年上半年教师资格面试",
+      "name_en": "2026 H1 Teacher Qualification Interview",
+      "date": "2026-05-16",
+      "end_date": "2026-05-17",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "全国考试日期；报名、审核和准考证安排以各省公告为准，个人考试时刻以准考证为准。",
+      "description_en": "National exam dates. Provincial notices govern registration, review and admission tickets; individual session times follow the admission ticket.",
+      "url": "https://ntce.neea.edu.cn/html1/folder/1507/1260-1.htm",
+      "status": "completed",
+      "last_verified": "2026-11-11",
+      "verified_by": "official"
+    },
+    {
+      "id": "teacher-qualification-2026-h2-written",
+      "name": "2026年下半年教师资格笔试",
+      "name_en": "2026 H2 Teacher Qualification Written Exam",
+      "date": "2026-09-12",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2026,
+      "description": "全国考试日期；报名、审核和准考证安排以各省公告为准，个人考试时刻以准考证为准。",
+      "description_en": "National exam dates. Provincial notices govern registration, review and admission tickets; individual session times follow the admission ticket.",
+      "url": "https://ntce.neea.edu.cn/html1/folder/1507/1260-1.htm",
+      "status": "completed",
+      "last_verified": "2026-11-11",
+      "verified_by": "official"
+    },
+    {
+      "id": "teacher-qualification-2026-h2-interview",
+      "name": "2026年下半年教师资格面试",
+      "name_en": "2026 H2 Teacher Qualification Interview",
+      "date": "2026-12-05",
+      "end_date": "2026-12-06",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "全国考试日期；报名、审核和准考证安排以各省公告为准，个人考试时刻以准考证为准。",
+      "description_en": "National exam dates. Provincial notices govern registration, review and admission tickets; individual session times follow the admission ticket.",
+      "url": "https://ntce.neea.edu.cn/html1/folder/1507/1260-1.htm",
+      "status": "confirmed",
+      "last_verified": "2026-11-11",
+      "verified_by": "official"
+    }
+  ],
+  "last_updated": "2026-11-11",
   "subcategory_en": "Professional Certification",
-  "hidden": true,
-  "disabled_reason": "已停用：原数据为静态或猜测日期，暂无可验证的动态官方数据接口"
+  "description_en": "National teacher qualification written exam and interview dates. Provincial notices govern registration, review and admission tickets; individual session times follow the admission ticket."
 }

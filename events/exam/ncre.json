@@ -14,8 +14,8 @@
       "it"
     ]
   },
-  "description": "全国计算机等级考试（NCRE）考试、报名和成绩查询提醒。",
-  "description_en": "Key NCRE exam windows, registration, and score release reminders.",
+  "description": "全国计算机等级考试日期及成绩、证书查询公告。各省报名、缴费、准考证及个人场次请查当地通知。",
+  "description_en": "NCRE exam dates and results/certificate announcements. Provincial notices set registration, payment and admission-ticket dates; individual sessions follow the admission ticket.",
   "icon": "clipboard-check",
   "tags": [
     "NCRE",
@@ -28,9 +28,74 @@
     "Certificate"
   ],
   "maintainer": "community",
-  "source_url": "https://ncre.neea.edu.cn",
-  "events": [],
-  "last_updated": "2026-08-31",
-  "hidden": true,
-  "disabled_reason": "已停用：原数据为静态或猜测日期，暂无可验证的动态官方数据接口"
+  "source_url": "https://ncre.neea.edu.cn/html1/category/1507/872-1.htm",
+  "events": [
+    {
+      "id": "ncre-2026-m03-exam",
+      "name": "2026年3月全国计算机等级考试",
+      "name_en": "2026 March NCRE",
+      "date": "2026-03-28",
+      "end_date": "2026-03-30",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "全国考试日期；报名、缴费及准考证打印时间由省级承办机构确定，个人场次以准考证为准。",
+      "description_en": "National exam dates. Provincial authorities set registration, payment and admission-ticket dates; individual sessions follow the admission ticket.",
+      "url": "https://ncre.neea.edu.cn/html1/report/2512/40-1.htm",
+      "status": "completed",
+      "last_verified": "2026-11-11",
+      "verified_by": "official"
+    },
+    {
+      "id": "ncre-2026-m03-results-announcement",
+      "name": "2026年3月计算机等级成绩、证书查询公告",
+      "name_en": "2026 NCRE Month 3 Results and Certificate Announcement",
+      "date": "2026-05-15",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "announcement",
+      "year": 2026,
+      "description": "官网发布成绩、证书查询开通公告的日期；公告未提供具体开通时刻。",
+      "description_en": "Publication date of the official results and certificate availability announcement. The notice does not specify an opening time.",
+      "url": "https://ncre.neea.edu.cn/html1/report/2605/5-1.htm",
+      "status": "completed",
+      "last_verified": "2026-11-11",
+      "verified_by": "official"
+    },
+    {
+      "id": "ncre-2026-m09-exam",
+      "name": "2026年9月全国计算机等级考试",
+      "name_en": "2026 September NCRE",
+      "date": "2026-09-19",
+      "end_date": "2026-09-21",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "全国考试日期；报名、缴费及准考证打印时间由省级承办机构确定，个人场次以准考证为准。",
+      "description_en": "National exam dates. Provincial authorities set registration, payment and admission-ticket dates; individual sessions follow the admission ticket.",
+      "url": "https://ncre.neea.edu.cn/html1/report/2606/16-1.htm",
+      "status": "completed",
+      "last_verified": "2026-11-11",
+      "verified_by": "official"
+    },
+    {
+      "id": "ncre-2026-m09-results-announcement",
+      "name": "2026年9月计算机等级成绩、证书查询公告",
+      "name_en": "2026 NCRE Month 9 Results and Certificate Announcement",
+      "date": "2026-11-10",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "announcement",
+      "year": 2026,
+      "description": "官网发布成绩、证书查询开通公告的日期；公告未提供具体开通时刻。",
+      "description_en": "Publication date of the official results and certificate availability announcement. The notice does not specify an opening time.",
+      "url": "https://ncre.neea.edu.cn/html1/report/2611/14-1.htm",
+      "status": "completed",
+      "last_verified": "2026-11-11",
+      "verified_by": "official"
+    }
+  ],
+  "last_updated": "2026-11-11"
 }
