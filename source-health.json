@@ -189,19 +189,17 @@
     "epic-free": {
       "category": "gaming",
       "checked_at": "2026-11-12",
-      "outcome": "unchanged"
+      "outcome": "updated"
     },
     "kpl": {
       "category": "gaming",
-      "checked_at": "2026-11-11",
-      "outcome": "skipped",
-      "last_error": "HTTP 429: https://api.pandascore.co/kog/leagues?page%5Bnumber%5D=1&page%5Bsize%5D=100"
+      "checked_at": "2026-11-12",
+      "outcome": "updated"
     },
     "lpl": {
       "category": "gaming",
-      "checked_at": "2026-11-11",
-      "outcome": "skipped",
-      "last_error": "HTTP 429: https://api.pandascore.co/lol/matches?filter%5Bleague_id%5D=294&range%5Bbegin_at%5D=2026-01-01%2C2099-12-31&page%5Bnumber%5D=1&page%5Bsize%5D=100&sort=begin_at"
+      "checked_at": "2026-11-12",
+      "outcome": "updated"
     },
     "console-showcases": {
       "category": "gaming",
@@ -211,20 +209,17 @@
     "genshin-impact": {
       "category": "gaming",
       "checked_at": "2026-11-12",
-      "outcome": "skipped",
-      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/16471662a82d418a/getContentList?iAppId=43&iChanId=721&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 59.108.140.9:443, 59.108.140.8:443, 59.108.140.11:443, 59.108.140.7:443, 59.108.140.6:443, 59.108.140.12:443, 59.108.140.13:443, 59.108.140.10:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 59.108.140.9:443, 59.108.140.8:443, 59.108.140.11:443, 59.108.140.7:443, 59.108.140.6:443, 59.108.140.12:443, 59.108.140.13:443, 59.108.140.10:443, timeout: 10000ms)"
+      "outcome": "unchanged"
     },
     "honkai-star-rail": {
       "category": "gaming",
       "checked_at": "2026-11-12",
-      "outcome": "skipped",
-      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/1963de8dc19e461c/getContentList?iChanId=255&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 59.108.140.10:443, 59.108.140.11:443, 59.108.140.6:443, 59.108.140.9:443, 59.108.140.13:443, 59.108.140.8:443, 59.108.140.7:443, 59.108.140.12:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 59.108.140.10:443, 59.108.140.11:443, 59.108.140.6:443, 59.108.140.9:443, 59.108.140.13:443, 59.108.140.8:443, 59.108.140.7:443, 59.108.140.12:443, timeout: 10000ms)"
+      "outcome": "unchanged"
     },
     "zenless-zone-zero": {
       "category": "gaming",
       "checked_at": "2026-11-12",
-      "outcome": "skipped",
-      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/706fd13a87294881/getContentList?iChanId=279&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 58.30.205.36:443, 58.30.205.19:443, 58.30.205.20:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 58.30.205.36:443, 58.30.205.19:443, 58.30.205.20:443, timeout: 10000ms)"
+      "outcome": "unchanged"
     },
     "rawg-releases": {
       "category": "gaming",
@@ -409,21 +404,18 @@
     },
     "dota2-esports": {
       "category": "gaming",
-      "checked_at": "2026-11-11",
-      "outcome": "skipped",
-      "last_error": "HTTP 429: PandaScore /dota2/matches"
+      "checked_at": "2026-11-12",
+      "outcome": "unchanged"
     },
     "lol-international": {
       "category": "gaming",
-      "checked_at": "2026-11-11",
-      "outcome": "skipped",
-      "last_error": "HTTP 429: PandaScore /lol/leagues"
+      "checked_at": "2026-11-12",
+      "outcome": "unchanged"
     },
     "valorant-esports": {
       "category": "gaming",
-      "checked_at": "2026-11-11",
-      "outcome": "skipped",
-      "last_error": "HTTP 429: PandaScore /valorant/leagues"
+      "checked_at": "2026-11-12",
+      "outcome": "unchanged"
     },
     "mo-public-holidays": {
       "category": "holidays",

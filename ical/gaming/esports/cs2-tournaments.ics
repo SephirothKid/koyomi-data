@@ -1330,12 +1330,40 @@ BEGIN:VEVENT
 UID:cs2-tournaments-cs2-2026-m1762462@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261112T000000
-DTSTART;TZID=Asia/Shanghai:20261112T185000
-DTEND;TZID=Asia/Shanghai:20261112T195000
+DTSTART;TZID=Asia/Shanghai:20261112T184400
+DTEND;TZID=Asia/Shanghai:20261112T194400
 SUMMARY:CS2 · BLAST Rivals · Group B · Spirit vs G2
 DESCRIPTION:Spirit vs G2 — BLAST Rivals （北京时间）\n\n赛事: BL
  AST Rivals\n赛季: 2026\n阶段: Group B\n赛制: BO3\n\n来源: https://
- www.twitch.tv/betboom_cs_ru
+ www.youtube.com/watch?v=MGSs70BjxLY
+CATEGORIES:CS2
+URL;VALUE=URI:https://www.youtube.com/watch?v=MGSs70BjxLY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-cs2-2026-m1762445@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261112T000000
+DTSTART;TZID=Asia/Shanghai:20261113T160000
+DTEND;TZID=Asia/Shanghai:20261113T170000
+SUMMARY:CS2 · BLAST Rivals · 季后赛 · Vitality vs MOUZ
+DESCRIPTION:Vitality vs MOUZ — BLAST Rivals （北京时间）\n\n赛事
+ : BLAST Rivals\n赛季: 2026\n阶段: 季后赛\n赛制: BO3\n\n来源: ht
+ tps://www.twitch.tv/betboom_cs_ru
+CATEGORIES:CS2
+URL;VALUE=URI:https://www.twitch.tv/betboom_cs_ru
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cs2-tournaments-cs2-2026-m1762446@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261112T000000
+DTSTART;TZID=Asia/Shanghai:20261113T183000
+DTEND;TZID=Asia/Shanghai:20261113T193000
+SUMMARY:CS2 · BLAST Rivals · 季后赛 · G2 vs Team Falcons
+DESCRIPTION:G2 vs Team Falcons — BLAST Rivals （北京时间）\n\n赛
+ 事: BLAST Rivals\n赛季: 2026\n阶段: 季后赛\n赛制: BO3\n\n来源:
+  https://www.twitch.tv/betboom_cs_ru
 CATEGORIES:CS2
 URL;VALUE=URI:https://www.twitch.tv/betboom_cs_ru
 STATUS:CONFIRMED

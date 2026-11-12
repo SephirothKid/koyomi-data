@@ -21,7 +21,7 @@
   "subscriber_count": 30160,
   "rating": 4.4,
   "rating_count": 460,
-  "last_updated": "2026-11-11",
+  "last_updated": "2026-11-12",
   "events": [
     {
       "id": "epic-free-2026-w21",
@@ -977,8 +977,8 @@
       "description": "本周免费游戏：斗阵骑士 Knightica",
       "description_en": "This week's free games: Knightica",
       "url": "https://store.epicgames.com/zh-CN/free-games",
-      "status": "confirmed",
-      "last_verified": "2026-11-11",
+      "status": "active",
+      "last_verified": "2026-11-12",
       "verified_by": "auto",
       "details": {
         "领取方式": "Epic Games Store 客户端/网页",
@@ -1004,6 +1004,55 @@
       "end_date": "2026-11-20",
       "end_time": "00:00",
       "time_kind": "datetime_range"
+    },
+    {
+      "id": "epic-free-2026-w47",
+      "name": "《Alien: Isolation》、Mark of the Deep",
+      "name_en": "Alien: Isolation, Mark of the Deep",
+      "date": "2026-11-20",
+      "time": "00:00",
+      "end_date": "2026-11-27",
+      "end_time": "00:00",
+      "time_kind": "datetime_range",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "本周免费游戏：《Alien: Isolation》、Mark of the Deep",
+      "description_en": "This week's free games: Alien: Isolation, Mark of the Deep",
+      "url": "https://store.epicgames.com/zh-CN/free-games",
+      "status": "confirmed",
+      "last_verified": "2026-11-12",
+      "verified_by": "auto",
+      "details": {
+        "领取方式": "Epic Games Store 客户端/网页",
+        "领取条件": "免费注册账号即可",
+        "注意事项": "每周四 23:00 更新，领取后永久拥有",
+        "本周游戏": "《Alien: Isolation》、Mark of the Deep"
+      },
+      "details_en": {
+        "Catalogue source": "https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions?locale=zh-CN&country=CN&allowCountries=CN",
+        "English title sources": "https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions?locale=en-US&country=CN&allowCountries=CN"
+      },
+      "games": [
+        {
+          "title": "《Alien: Isolation》",
+          "title_en": "Alien: Isolation",
+          "description": "在《Alien: Isolation》这款以持续恐惧和致命危险气氛为背景的生存恐怖游戏中，发掘恐惧的真正意义。   使用 CATHODE™ 引擎打造。",
+          "description_en": "Discover the true meaning of fear in Alien: Isolation, a survival horror set in an atmosphere of constant dread and mortal danger...   Created using the CATHODE™ engine.",
+          "cover_url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/EGS_AlienIsolation_CreativeAssembly_S6-1200x1600-af00adc8f67a7c6138cce183ac1e9503.jpg",
+          "original_price": "¥198.00",
+          "store_url": "https://store.epicgames.com/zh-CN/p/alien-isolation"
+        },
+        {
+          "title": "Mark of the Deep",
+          "title_en": "Mark of the Deep",
+          "description": "深渊之印是一款史诗般的海盗冒险游戏，拥有强烈的叙事性，并融合了广受好评的银河恶魔城游戏与魂系游戏的惊险元素。以海盗刘琦的身份踏上旅程，探索受诅咒岛屿的奥秘，寻找失踪的海盗船员！",
+          "description_en": "Mark of the Deep is an epic pirate-themed adventure with a strong narrative and a thrilling mix of Metroidvania and Souls-Like elements. Embark on this journey, explore the mysteries of a cursed island and find your missing pirate crew!",
+          "cover_url": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-1lope.png",
+          "original_price": "¥55.00",
+          "store_url": "https://store.epicgames.com/zh-CN/p/2fd257a6cd80405a833f9004ff07993a"
+        }
+      ]
     },
     {
       "id": "epic-free-2026-w50",

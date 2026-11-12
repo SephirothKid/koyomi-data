@@ -55530,7 +55530,7 @@
       "description": "FUT Esports vs MOUZ — BLAST Rivals （北京时间）",
       "description_en": "FUT Esports vs MOUZ — BLAST Rivals  (CST)",
       "url": "https://www.youtube.com/watch?v=MGSs70BjxLY",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-11-12",
       "verified_by": "official",
       "teams": {
@@ -55545,6 +55545,12 @@
           "name": "MOUZ"
         }
       },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
       "details": {
         "赛事": "BLAST Rivals",
         "赛季": "2026",
@@ -55557,14 +55563,14 @@
       "name": "BLAST Rivals · Group B · Spirit vs G2",
       "name_en": "BLAST Rivals · Group B · Spirit vs G2",
       "date": "2026-11-12",
-      "time": "18:50",
+      "time": "18:44",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "Spirit vs G2 — BLAST Rivals （北京时间）",
       "description_en": "Spirit vs G2 — BLAST Rivals  (CST)",
-      "url": "https://www.twitch.tv/betboom_cs_ru",
-      "status": "confirmed",
+      "url": "https://www.youtube.com/watch?v=MGSs70BjxLY",
+      "status": "completed",
       "last_verified": "2026-11-12",
       "verified_by": "official",
       "teams": {
@@ -55579,10 +55585,84 @@
           "name": "G2"
         }
       },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
       "details": {
         "赛事": "BLAST Rivals",
         "赛季": "2026",
         "阶段": "Group B",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1762445",
+      "name": "BLAST Rivals · 季后赛 · Vitality vs MOUZ",
+      "name_en": "BLAST Rivals · Playoffs · Vitality vs MOUZ",
+      "date": "2026-11-13",
+      "time": "16:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Vitality vs MOUZ — BLAST Rivals （北京时间）",
+      "description_en": "Vitality vs MOUZ — BLAST Rivals  (CST)",
+      "url": "https://www.twitch.tv/betboom_cs_ru",
+      "status": "confirmed",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "3455",
+          "code": "Vitality",
+          "name": "Vitality"
+        },
+        "home": {
+          "id": "3240",
+          "code": "MOUZ",
+          "name": "MOUZ"
+        }
+      },
+      "details": {
+        "赛事": "BLAST Rivals",
+        "赛季": "2026",
+        "阶段": "季后赛",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1762446",
+      "name": "BLAST Rivals · 季后赛 · G2 vs Team Falcons",
+      "name_en": "BLAST Rivals · Playoffs · G2 vs Team Falcons",
+      "date": "2026-11-13",
+      "time": "18:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "G2 vs Team Falcons — BLAST Rivals （北京时间）",
+      "description_en": "G2 vs Team Falcons — BLAST Rivals  (CST)",
+      "url": "https://www.twitch.tv/betboom_cs_ru",
+      "status": "confirmed",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "3210",
+          "code": "G2",
+          "name": "G2"
+        },
+        "home": {
+          "id": "130564",
+          "code": "Team Falcons",
+          "name": "Team Falcons"
+        }
+      },
+      "details": {
+        "赛事": "BLAST Rivals",
+        "赛季": "2026",
+        "阶段": "季后赛",
         "赛制": "BO3"
       }
     },
