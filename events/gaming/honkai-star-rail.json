@@ -22,7 +22,7 @@
   "subscriber_count": 54800,
   "rating": 4.8,
   "rating_count": 650,
-  "last_updated": "2026-11-11",
+  "last_updated": "2026-11-12",
   "subcategory_en": "Game Updates",
   "checked_at": "2026-11-06",
   "events": [
@@ -41,7 +41,7 @@
       "description_en": "Official limited-time event. See the source announcement for participation requirements.",
       "url": "https://sr.mihoyo.com/news/123292",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "活动参与时间：2024/04/19 - 2024/04/23 23:59",
@@ -63,45 +63,6 @@
         "source_title": "「航『星』一载」周年福利活动正式开启",
         "source_url": "https://sr.mihoyo.com/news/123292",
         "activity_name": "「航『星』一载」周年福利活动正式开启"
-      }
-    },
-    {
-      "id": "honkai-star-rail-2026-162707-maintenance",
-      "name": "崩坏：星穹铁道 4.0 版本维护更新",
-      "date": "2026-02-13",
-      "end_date": "2026-02-13",
-      "time": "06:00",
-      "end_time": "11:00",
-      "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
-      "type": "event",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 官方版本维护更新。",
-      "url": "https://sr.mihoyo.com/news/162707",
-      "status": "completed",
-      "last_verified": "2026-11-06",
-      "verified_by": "official",
-      "details": {
-        "official_time": "2026/02/13 06:00 预计5个小时"
-      },
-      "game": {
-        "game_id": "honkai-star-rail",
-        "provider": "hoyoverse",
-        "source_kind": "maintenance",
-        "source_content_id": "162707",
-        "source_title": "4.0版本「满月是神不在的时间」版本更新说明",
-        "source_url": "https://sr.mihoyo.com/news/162707",
-        "version": "4.0"
-      },
-      "name_en": "Honkai: Star Rail · Version 4.0 \"No Aha at Full Moon\" Update Details",
-      "description_en": "Once upon a time in a paradise within the painted scroll, the vacant divine throne smiled, awaiting those who seek godhood to don their masks and entertain the masses. Amidst the scorching fires of the cosmos, the god is nowhere to be found, but THEY left a reward for those who desire the Elation... \"One Minute of Godh",
-      "details_en": {
-        "official_time": "2026-02-13 06:00 – 2026-02-13 11:00",
-        "official_notice": "Version 4.0 \"No Aha at Full Moon\" Update Details",
-        "English source": "https://hsr.hoyoverse.com/en-us/news/162706",
-        "English source ID": "162706",
-        "English original title": "Version 4.0 \"No Aha at Full Moon\" Update Details",
-        "English name status": "official announcement; mainland timing preserved"
       }
     },
     {
@@ -380,6 +341,45 @@
         "source_url": "https://sr.mihoyo.com/news/162707",
         "version": "4.0",
         "activity_name": "入园礼遇"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-162707-maintenance",
+      "name": "崩坏：星穹铁道 4.0 版本维护更新",
+      "date": "2026-02-13",
+      "end_date": "2026-02-13",
+      "time": "06:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 官方版本维护更新。",
+      "url": "https://sr.mihoyo.com/news/162707",
+      "status": "completed",
+      "last_verified": "2026-11-06",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/02/13 06:00 预计5个小时"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "maintenance",
+        "source_content_id": "162707",
+        "source_title": "4.0版本「满月是神不在的时间」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/162707",
+        "version": "4.0"
+      },
+      "name_en": "Honkai: Star Rail · Version 4.0 \"No Aha at Full Moon\" Update Details",
+      "description_en": "Once upon a time in a paradise within the painted scroll, the vacant divine throne smiled, awaiting those who seek godhood to don their masks and entertain the masses. Amidst the scorching fires of the cosmos, the god is nowhere to be found, but THEY left a reward for those who desire the Elation... \"One Minute of Godh",
+      "details_en": {
+        "official_time": "2026-02-13 06:00 – 2026-02-13 11:00",
+        "official_notice": "Version 4.0 \"No Aha at Full Moon\" Update Details",
+        "English source": "https://hsr.hoyoverse.com/en-us/news/162706",
+        "English source ID": "162706",
+        "English original title": "Version 4.0 \"No Aha at Full Moon\" Update Details",
+        "English name status": "official announcement; mainland timing preserved"
       }
     },
     {
@@ -1293,45 +1293,6 @@
       }
     },
     {
-      "id": "honkai-star-rail-2026-163276-maintenance",
-      "name": "崩坏：星穹铁道 4.1 版本维护更新",
-      "date": "2026-03-25",
-      "end_date": "2026-03-25",
-      "time": "06:00",
-      "end_time": "11:00",
-      "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
-      "type": "event",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 官方版本维护更新。",
-      "url": "https://sr.mihoyo.com/news/163276",
-      "status": "completed",
-      "last_verified": "2026-11-06",
-      "verified_by": "official",
-      "details": {
-        "official_time": "2026/03/25 06:00 预计5个小时"
-      },
-      "game": {
-        "game_id": "honkai-star-rail",
-        "provider": "hoyoverse",
-        "source_kind": "maintenance",
-        "source_content_id": "163276",
-        "source_title": "4.1版本「献给破晓的失控」版本更新说明",
-        "source_url": "https://sr.mihoyo.com/news/163276",
-        "version": "4.1"
-      },
-      "name_en": "Honkai: Star Rail · Version 4.1 \"Unraveled for Daybreak\" Update Details",
-      "description_en": "Though murmurs of joy spread vast and wide, demons from the past reappear. Under the spotlight, heroes walk a tightrope forged from worship and loathing. One wrong step, and they'll plummet into the void. Hear this! From the edge of the sky comes a mocking laugh. Is it the whistle of dawn, or the opening act of an absu",
-      "details_en": {
-        "official_time": "2026-03-25 06:00 – 2026-03-25 11:00",
-        "official_notice": "Version 4.1 \"Unraveled for Daybreak\" Update Details",
-        "English source": "https://hsr.hoyoverse.com/en-us/news/163273",
-        "English source ID": "163273",
-        "English original title": "Version 4.1 \"Unraveled for Daybreak\" Update Details",
-        "English name status": "official announcement; mainland timing preserved"
-      }
-    },
-    {
       "id": "honkai-star-rail-2026-163276-activity-f3c222d36699",
       "name": "崩坏：星穹铁道 尘灵乱世录",
       "name_en": "Honkai: Star Rail · Wispae War Saga",
@@ -1370,6 +1331,45 @@
         "source_url": "https://sr.mihoyo.com/news/163276",
         "version": "4.1",
         "activity_name": "尘灵乱世录"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-163276-maintenance",
+      "name": "崩坏：星穹铁道 4.1 版本维护更新",
+      "date": "2026-03-25",
+      "end_date": "2026-03-25",
+      "time": "06:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 官方版本维护更新。",
+      "url": "https://sr.mihoyo.com/news/163276",
+      "status": "completed",
+      "last_verified": "2026-11-06",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/03/25 06:00 预计5个小时"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "maintenance",
+        "source_content_id": "163276",
+        "source_title": "4.1版本「献给破晓的失控」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/163276",
+        "version": "4.1"
+      },
+      "name_en": "Honkai: Star Rail · Version 4.1 \"Unraveled for Daybreak\" Update Details",
+      "description_en": "Though murmurs of joy spread vast and wide, demons from the past reappear. Under the spotlight, heroes walk a tightrope forged from worship and loathing. One wrong step, and they'll plummet into the void. Hear this! From the edge of the sky comes a mocking laugh. Is it the whistle of dawn, or the opening act of an absu",
+      "details_en": {
+        "official_time": "2026-03-25 06:00 – 2026-03-25 11:00",
+        "official_notice": "Version 4.1 \"Unraveled for Daybreak\" Update Details",
+        "English source": "https://hsr.hoyoverse.com/en-us/news/163273",
+        "English source ID": "163273",
+        "English original title": "Version 4.1 \"Unraveled for Daybreak\" Update Details",
+        "English name status": "official announcement; mainland timing preserved"
       }
     },
     {
@@ -1829,45 +1829,6 @@
       }
     },
     {
-      "id": "honkai-star-rail-2026-163630-maintenance",
-      "name": "崩坏：星穹铁道 4.2 版本维护更新",
-      "date": "2026-04-22",
-      "end_date": "2026-04-22",
-      "time": "06:00",
-      "end_time": "11:00",
-      "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
-      "type": "event",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 官方版本维护更新。",
-      "url": "https://sr.mihoyo.com/news/163630",
-      "status": "completed",
-      "last_verified": "2026-11-06",
-      "verified_by": "official",
-      "details": {
-        "official_time": "2026/04/22 06:00 预计5个小时"
-      },
-      "game": {
-        "game_id": "honkai-star-rail",
-        "provider": "hoyoverse",
-        "source_kind": "maintenance",
-        "source_content_id": "163630",
-        "source_title": "4.2版本「如是，众生欢笑不已」版本更新说明",
-        "source_url": "https://sr.mihoyo.com/news/163630",
-        "version": "4.2"
-      },
-      "name_en": "Honkai: Star Rail · Version 4.2 \"So Laughed the Masses\" Update Details",
-      "description_en": "Near the spire's peak, approaching the Phantasmoon, the Fool weaves the hearts of men into a marionette theater within her palms. In this moment, people are bestowed the freedom of Elation. In this moment, people are shackled by the chains of happiness...",
-      "details_en": {
-        "official_time": "2026-04-22 06:00 – 2026-04-22 11:00",
-        "official_notice": "Version 4.2 \"So Laughed the Masses\" Update Details",
-        "English source": "https://hsr.hoyoverse.com/en-us/news/163625",
-        "English source ID": "163625",
-        "English original title": "Version 4.2 \"So Laughed the Masses\" Update Details",
-        "English name status": "official announcement; mainland timing preserved"
-      }
-    },
-    {
       "id": "honkai-star-rail-2026-163630-activity-3f215eabe382",
       "name": "崩坏：星穹铁道 砺烁新辉角色体验活动",
       "name_en": "Honkai: Star Rail · \"Novaflare\" Character Trial Event",
@@ -2114,6 +2075,45 @@
       }
     },
     {
+      "id": "honkai-star-rail-2026-163630-maintenance",
+      "name": "崩坏：星穹铁道 4.2 版本维护更新",
+      "date": "2026-04-22",
+      "end_date": "2026-04-22",
+      "time": "06:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 官方版本维护更新。",
+      "url": "https://sr.mihoyo.com/news/163630",
+      "status": "completed",
+      "last_verified": "2026-11-06",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/04/22 06:00 预计5个小时"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "maintenance",
+        "source_content_id": "163630",
+        "source_title": "4.2版本「如是，众生欢笑不已」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/163630",
+        "version": "4.2"
+      },
+      "name_en": "Honkai: Star Rail · Version 4.2 \"So Laughed the Masses\" Update Details",
+      "description_en": "Near the spire's peak, approaching the Phantasmoon, the Fool weaves the hearts of men into a marionette theater within her palms. In this moment, people are bestowed the freedom of Elation. In this moment, people are shackled by the chains of happiness...",
+      "details_en": {
+        "official_time": "2026-04-22 06:00 – 2026-04-22 11:00",
+        "official_notice": "Version 4.2 \"So Laughed the Masses\" Update Details",
+        "English source": "https://hsr.hoyoverse.com/en-us/news/163625",
+        "English source ID": "163625",
+        "English original title": "Version 4.2 \"So Laughed the Masses\" Update Details",
+        "English name status": "official announcement; mainland timing preserved"
+      }
+    },
+    {
       "id": "honkai-star-rail-2026-163630-version",
       "name": "崩坏：星穹铁道 4.2 版本周期",
       "date": "2026-04-22",
@@ -2267,43 +2267,6 @@
         "source_url": "https://sr.mihoyo.com/news/163630",
         "version": "4.2",
         "activity_name": "虚构叙事•造象立说"
-      }
-    },
-    {
-      "id": "honkai-star-rail-2026-163928-activity-78424d72b4a7",
-      "name": "崩坏：星穹铁道 花藏繁生",
-      "name_en": "Honkai: Star Rail · Calyx double rewards",
-      "date": "2026-05-13",
-      "end_date": "2026-05-25",
-      "time": "04:00",
-      "end_time": "03:59",
-      "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
-      "type": "range",
-      "year": 2026,
-      "description": "完成冒险任务「拟造花萼（金）• 回忆之蕾」",
-      "description_en": "Official limited-time event. See the source announcement for participation requirements.",
-      "url": "https://sr.mihoyo.com/news/163928",
-      "status": "completed",
-      "last_verified": "2026-11-06",
-      "verified_by": "official",
-      "details": {
-        "official_time": "2026/05/13 04:00 - 2026/05/25 03:59",
-        "official_notice": "「花藏繁生」活动：拟造花萼限时三倍掉落"
-      },
-      "details_en": {
-        "official_time": "2026-05-13 04:00 – 2026-05-25 03:59",
-        "English name status": "descriptive translation; mainland timing preserved"
-      },
-      "game": {
-        "game_id": "honkai-star-rail",
-        "provider": "hoyoverse",
-        "source_kind": "activity",
-        "source_content_id": "163928",
-        "source_title": "「花藏繁生」活动：拟造花萼限时三倍掉落",
-        "source_url": "https://sr.mihoyo.com/news/163928",
-        "version": "4.2",
-        "activity_name": "花藏繁生"
       }
     },
     {
@@ -2903,6 +2866,43 @@
       ]
     },
     {
+      "id": "honkai-star-rail-2026-163928-activity-78424d72b4a7",
+      "name": "崩坏：星穹铁道 花藏繁生",
+      "name_en": "Honkai: Star Rail · Calyx double rewards",
+      "date": "2026-05-13",
+      "end_date": "2026-05-25",
+      "time": "04:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "完成冒险任务「拟造花萼（金）• 回忆之蕾」",
+      "description_en": "Official limited-time event. See the source announcement for participation requirements.",
+      "url": "https://sr.mihoyo.com/news/163928",
+      "status": "completed",
+      "last_verified": "2026-11-06",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/05/13 04:00 - 2026/05/25 03:59",
+        "official_notice": "「花藏繁生」活动：拟造花萼限时三倍掉落"
+      },
+      "details_en": {
+        "official_time": "2026-05-13 04:00 – 2026-05-25 03:59",
+        "English name status": "descriptive translation; mainland timing preserved"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "activity",
+        "source_content_id": "163928",
+        "source_title": "「花藏繁生」活动：拟造花萼限时三倍掉落",
+        "source_url": "https://sr.mihoyo.com/news/163928",
+        "version": "4.2",
+        "activity_name": "花藏繁生"
+      }
+    },
+    {
       "id": "honkai-star-rail-2026-164276-activity-048d453a043c",
       "name": "崩坏：星穹铁道 异器盈界",
       "name_en": "Honkai: Star Rail · Cavern Relic double rewards",
@@ -3010,45 +3010,6 @@
       }
     },
     {
-      "id": "honkai-star-rail-2026-164426-maintenance",
-      "name": "崩坏：星穹铁道 4.3 版本维护更新",
-      "date": "2026-06-01",
-      "end_date": "2026-06-01",
-      "time": "06:00",
-      "end_time": "11:00",
-      "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
-      "type": "event",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 官方版本维护更新。",
-      "url": "https://sr.mihoyo.com/news/detail/164426",
-      "status": "completed",
-      "last_verified": "2026-11-11",
-      "verified_by": "official",
-      "details": {
-        "official_time": "2026/06/01 06:00 预计5个小时"
-      },
-      "game": {
-        "game_id": "honkai-star-rail",
-        "provider": "hoyoverse",
-        "source_kind": "maintenance",
-        "source_content_id": "164426",
-        "source_title": "4.3版本「沉于生者的忘川」版本更新说明",
-        "source_url": "https://sr.mihoyo.com/news/detail/164426",
-        "version": "4.3"
-      },
-      "name_en": "Honkai: Star Rail · Version 4.3 \"The Lethe Below the Living\" Update Details",
-      "description_en": "A passerby seeking a final resting place, a traveler bearing admonitions, people journey to the end of the painting where the ancient Lethe flows, stand witness to past joys and sorrows that emerge from within...",
-      "details_en": {
-        "official_time": "2026-06-01 06:00 – 2026-06-01 11:00",
-        "official_notice": "Version 4.3 \"The Lethe Below the Living\" Update Details",
-        "English source": "https://hsr.hoyoverse.com/en-us/news/164415",
-        "English source ID": "164415",
-        "English original title": "Version 4.3 \"The Lethe Below the Living\" Update Details",
-        "English name status": "official announcement; mainland timing preserved"
-      }
-    },
-    {
       "id": "honkai-star-rail-2026-164425-banner-10e3c3c201cc",
       "name": "崩坏：星穹铁道 流光定影•灼尽炼狱的新骸",
       "name_en": "Honkai: Star Rail · Light Cone Event Warp · Reforged in Hellfire",
@@ -3063,7 +3024,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/164425",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "本期活动跃迁时间为 2026/06/01 4.3版本更新后 - 2026/06/24 11:59，包含如下内容：",
@@ -3140,7 +3101,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/164425",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "本期活动跃迁时间为 2026/06/01 4.3版本更新后 - 2026/06/24 11:59，包含如下内容：",
@@ -3221,7 +3182,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/164425",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "本期活动跃迁时间为 2026/06/01 4.3版本更新后 - 2026/06/24 11:59，包含如下内容：",
@@ -3302,7 +3263,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/164425",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "本期活动跃迁时间为 2026/06/01 4.3版本更新后 - 2026/06/24 11:59，包含如下内容：",
@@ -3379,7 +3340,7 @@
       "description_en": "A classic game returns to the arcadian skies as pixel planes set sail once again. In a fierce dogfight between ninety-nine fighters, only the final victor can claim air superiority... Customize your ultimate aircraft, devise a winning strategy, and break through the bullet hell!",
       "url": "https://sr.mihoyo.com/news/164426",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "●活动时间：4.3版本更新后 - 2026/07/15 03:59",
@@ -3420,7 +3381,7 @@
       "description_en": "During the event, after obtaining \"Mortenax Blade\" via Warps, Trailblazers can claim the Trailblazer Outfit - Back \"Karmic Fire of the Distant Shore\" from the \"Gift of Tempered Blade\" or \"Now I Am Become Blade\" Character Event Warp screen.",
       "url": "https://sr.mihoyo.com/news/164426",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "●活动时间：4.3版本更新后 - 2026/06/24 11:59",
@@ -3447,6 +3408,45 @@
       }
     },
     {
+      "id": "honkai-star-rail-2026-164426-maintenance",
+      "name": "崩坏：星穹铁道 4.3 版本维护更新",
+      "date": "2026-06-01",
+      "end_date": "2026-06-01",
+      "time": "06:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 官方版本维护更新。",
+      "url": "https://sr.mihoyo.com/news/164426",
+      "status": "completed",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/06/01 06:00 预计5个小时"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "maintenance",
+        "source_content_id": "164426",
+        "source_title": "4.3版本「沉于生者的忘川」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/164426",
+        "version": "4.3"
+      },
+      "name_en": "Honkai: Star Rail · Version 4.3 \"The Lethe Below the Living\" Update Details",
+      "description_en": "A passerby seeking a final resting place, a traveler bearing admonitions, people journey to the end of the painting where the ancient Lethe flows, stand witness to past joys and sorrows that emerge from within...",
+      "details_en": {
+        "official_time": "2026-06-01 06:00 – 2026-06-01 11:00",
+        "official_notice": "Version 4.3 \"The Lethe Below the Living\" Update Details",
+        "English source": "https://hsr.hoyoverse.com/en-us/news/164415",
+        "English source ID": "164415",
+        "English original title": "Version 4.3 \"The Lethe Below the Living\" Update Details",
+        "English name status": "official announcement; mainland timing preserved"
+      }
+    },
+    {
       "id": "honkai-star-rail-2026-164426-version",
       "name": "崩坏：星穹铁道 4.3 版本周期",
       "date": "2026-06-01",
@@ -3458,7 +3458,7 @@
       "description": "崩坏：星穹铁道 4.3 版本周期",
       "url": "https://sr.mihoyo.com/news/164426",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "4.3版本的持续时间为 2026/06/01 4.3版本更新后 - 2026/07/15 06:00。",
@@ -3504,7 +3504,7 @@
       "description_en": "When an enemy target with \"Steadfast Safeguard\" is Weakness Broken, all ally targets are dispelled of control debuffs, their actions are advanced, and Aha immediately gains an extra turn (this turn takes a fixed 10 Punchlines into account).",
       "url": "https://sr.mihoyo.com/news/164426",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "2026/06/08 04:00 - 2026/07/20 03:59",
@@ -3542,7 +3542,7 @@
       "description_en": "Official limited-time event. See the source announcement for participation requirements.",
       "url": "https://sr.mihoyo.com/news/164751",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "2026/06/17 04:00 - 2026/06/29 03:59",
@@ -3579,7 +3579,7 @@
       "description_en": "When an ally target inflicts a debuff on an enemy target, allies additionally accumulate 1 Grit Value. This effect can be triggered up to 10 times per enemy target.",
       "url": "https://sr.mihoyo.com/news/164426",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "2026/06/22 04:00 - 2026/08/03 03:59",
@@ -3617,7 +3617,7 @@
       "description_en": "Trendy styles change in the blink of an eye, bringing an opportunity for Star Rail FEST's renewal. Plan out the routes, cleverly arrange the facilities, and build an exclusive arcadia for the wispae in the World in Canvas! Your creative concepts will serve as the perfect inspiration for optimizing the Exhibition Area.",
       "url": "https://sr.mihoyo.com/news/164426",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "●活动时间：2026/06/24 12:00 - 2026/07/15 03:59",
@@ -3655,7 +3655,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/164925",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "本期活动跃迁时间为 2026/06/24 12:00 - 2026/07/14 15:00，包含如下内容：",
@@ -3727,7 +3727,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/164925",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "本期活动跃迁时间为 2026/06/24 12:00 - 2026/07/14 15:00，包含如下内容：",
@@ -3803,7 +3803,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/164925",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "本期活动跃迁时间为 2026/06/24 12:00 - 2026/07/14 15:00，包含如下内容：",
@@ -3875,7 +3875,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/164925",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "本期活动跃迁时间为 2026/06/24 12:00 - 2026/07/14 15:00，包含如下内容：",
@@ -3951,7 +3951,7 @@
       "description_en": "Official limited-time event. See the source announcement for participation requirements.",
       "url": "https://sr.mihoyo.com/news/165108",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "2026/07/03 04:00 - 2026/07/13 03:59",
@@ -3988,7 +3988,7 @@
       "description_en": "Increases Ultimate and Follow-Up ATK DMG dealt by ally targets by 50%. After an ally character uses their Ultimate or Follow-Up ATK, adds 1 Hit Per Action to \"Memory Turbulence,\" up to a maximum of 15 hits.",
       "url": "https://sr.mihoyo.com/news/164426",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "2026/07/06 04:00 - 2026/08/17 03:59",
@@ -4011,72 +4011,6 @@
       }
     },
     {
-      "id": "honkai-star-rail-2026-165187-maintenance",
-      "name": "崩坏：星穹铁道 4.4 版本维护更新",
-      "date": "2026-07-15",
-      "time": "06:00",
-      "timezone": "Asia/Shanghai",
-      "time_kind": "datetime",
-      "type": "event",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 官方版本维护更新。",
-      "url": "https://sr.mihoyo.com/news/detail/165187",
-      "status": "completed",
-      "last_verified": "2026-11-11",
-      "verified_by": "official",
-      "details": {
-        "official_time": "2026/07/15 06:00"
-      },
-      "game": {
-        "game_id": "honkai-star-rail",
-        "provider": "hoyoverse",
-        "source_kind": "maintenance",
-        "source_content_id": "165187",
-        "source_title": "4.4版本更新维护预告",
-        "source_url": "https://sr.mihoyo.com/news/detail/165187",
-        "version": "4.4"
-      },
-      "name_en": "Honkai: Star Rail v4.4 Maintenance Update",
-      "description_en": "Honkai: Star Rail Official Maintenance Update.",
-      "details_en": {
-        "official_time": "2026-07-15 06:00"
-      }
-    },
-    {
-      "id": "honkai-star-rail-2026-165210-maintenance",
-      "name": "崩坏：星穹铁道 4.4 版本维护更新",
-      "date": "2026-07-15",
-      "end_date": "2026-07-15",
-      "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
-      "type": "event",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 官方版本维护更新。",
-      "url": "https://sr.mihoyo.com/news/detail/165210",
-      "status": "completed",
-      "last_verified": "2026-11-11",
-      "verified_by": "official",
-      "details": {
-        "official_time": "2026/07/15 06:00 预计5个小时"
-      },
-      "game": {
-        "game_id": "honkai-star-rail",
-        "provider": "hoyoverse",
-        "source_kind": "maintenance",
-        "source_content_id": "165210",
-        "source_title": "4.4版本「鸣笛于归寂之时」版本更新说明",
-        "source_url": "https://sr.mihoyo.com/news/detail/165210",
-        "version": "4.4"
-      },
-      "name_en": "Honkai: Star Rail v4.4 Maintenance Update",
-      "time": "06:00",
-      "end_time": "11:00",
-      "description_en": "Honkai: Star Rail Official Maintenance Update.",
-      "details_en": {
-        "official_time": "2026-07-15 06:00 – 2026-07-15 11:00"
-      }
-    },
-    {
       "id": "honkai-star-rail-2026-165179-activity-170745d80f86",
       "name": "崩坏：星穹铁道 4.4版本「无名勋礼」更新",
       "name_en": "Honkai: Star Rail · Battle pass period",
@@ -4091,7 +4025,7 @@
       "description_en": "Official limited-time event. See the source announcement for participation requirements.",
       "url": "https://sr.mihoyo.com/news/165179",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "2026/07/15 4.4版本更新后 - 2026/08/24 03:59",
@@ -4117,6 +4051,38 @@
       }
     },
     {
+      "id": "honkai-star-rail-2026-165187-maintenance",
+      "name": "崩坏：星穹铁道 4.4 版本维护更新",
+      "date": "2026-07-15",
+      "time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 官方版本维护更新。",
+      "url": "https://sr.mihoyo.com/news/165187",
+      "status": "completed",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/07/15 06:00"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "maintenance",
+        "source_content_id": "165187",
+        "source_title": "4.4版本更新维护预告",
+        "source_url": "https://sr.mihoyo.com/news/165187",
+        "version": "4.4"
+      },
+      "name_en": "Honkai: Star Rail v4.4 Maintenance Update",
+      "description_en": "Honkai: Star Rail Official Maintenance Update.",
+      "details_en": {
+        "official_time": "2026-07-15 06:00"
+      }
+    },
+    {
       "id": "honkai-star-rail-2026-165208-banner-2705d48460ad",
       "name": "崩坏：星穹铁道 铭心之萃•长夜月",
       "name_en": "Honkai: Star Rail v4.4 Event Warp — 2026-07-15",
@@ -4131,7 +4097,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/165208",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "限定5星角色「火花（欢愉•火）」「丹恒•腾荒（存护•物理）」「长夜月（记忆•冰）」与限定5星光锥「花花世界迷人眼（欢愉）」「纵然山河万程（存护）」「致长夜的星光（记忆）」将会返场，跃迁时间为 2026/07/15 - 2026/08/05 11:59。",
@@ -4210,7 +4176,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/165208",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "限定5星角色「火花（欢愉•火）」「丹恒•腾荒（存护•物理）」「长夜月（记忆•冰）」与限定5星光锥「花花世界迷人眼（欢愉）」「纵然山河万程（存护）」「致长夜的星光（记忆）」将会返场，跃迁时间为 2026/07/15 - 2026/08/05 11:59。",
@@ -4289,7 +4255,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/165208",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "限定5星角色「火花（欢愉•火）」「丹恒•腾荒（存护•物理）」「长夜月（记忆•冰）」与限定5星光锥「花花世界迷人眼（欢愉）」「纵然山河万程（存护）」「致长夜的星光（记忆）」将会返场，跃迁时间为 2026/07/15 - 2026/08/05 11:59。",
@@ -4370,7 +4336,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/165208",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "限定5星角色「火花（欢愉•火）」「丹恒•腾荒（存护•物理）」「长夜月（记忆•冰）」与限定5星光锥「花花世界迷人眼（欢愉）」「纵然山河万程（存护）」「致长夜的星光（记忆）」将会返场，跃迁时间为 2026/07/15 - 2026/08/05 11:59。",
@@ -4445,7 +4411,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/165208",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "限定5星角色「火花（欢愉•火）」「丹恒•腾荒（存护•物理）」「长夜月（记忆•冰）」与限定5星光锥「花花世界迷人眼（欢愉）」「纵然山河万程（存护）」「致长夜的星光（记忆）」将会返场，跃迁时间为 2026/07/15 - 2026/08/05 11:59。",
@@ -4522,7 +4488,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/165208",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "限定5星角色「火花（欢愉•火）」「丹恒•腾荒（存护•物理）」「长夜月（记忆•冰）」与限定5星光锥「花花世界迷人眼（欢愉）」「纵然山河万程（存护）」「致长夜的星光（记忆）」将会返场，跃迁时间为 2026/07/15 - 2026/08/05 11:59。",
@@ -4597,7 +4563,7 @@
       "description_en": "Official limited-time event. See the source announcement for participation requirements.",
       "url": "https://sr.mihoyo.com/news/165210",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "活动时间：4.4版本更新后 - 2026/08/26 03:59",
@@ -4623,6 +4589,40 @@
       }
     },
     {
+      "id": "honkai-star-rail-2026-165210-maintenance",
+      "name": "崩坏：星穹铁道 4.4 版本维护更新",
+      "date": "2026-07-15",
+      "end_date": "2026-07-15",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 官方版本维护更新。",
+      "url": "https://sr.mihoyo.com/news/165210",
+      "status": "completed",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/07/15 06:00 预计5个小时"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "maintenance",
+        "source_content_id": "165210",
+        "source_title": "4.4版本「鸣笛于归寂之时」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/165210",
+        "version": "4.4"
+      },
+      "name_en": "Honkai: Star Rail v4.4 Maintenance Update",
+      "time": "06:00",
+      "end_time": "11:00",
+      "description_en": "Honkai: Star Rail Official Maintenance Update.",
+      "details_en": {
+        "official_time": "2026-07-15 06:00 – 2026-07-15 11:00"
+      }
+    },
+    {
       "id": "honkai-star-rail-2026-165210-version",
       "name": "崩坏：星穹铁道 4.4 版本周期",
       "name_en": "Honkai: Star Rail v4.4 Version Period",
@@ -4637,7 +4637,7 @@
       "description_en": "Official version period.",
       "url": "https://sr.mihoyo.com/news/165210",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "4.4版本的持续时间为 2026/07/15 4.4版本更新后 - 2026/08/26 06:00。",
@@ -4674,7 +4674,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/165506",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "限定5星角色「姬子•启行（智识•火）」与限定5星光锥「当一颗星照亮夜空（智识）」跃迁成功概率限时提升，4星角色「貊泽（巡猎•雷）」「寒鸦（同谐•物理）」「希露瓦（智识•雷）」与4星光锥「谐乐静默之后（智识）」「在蓝天下（毁灭）」「『我』的诞生（智识）」跃迁成功概率限时提升，跃迁时间为 2026/07/15 4.4版本更新后 - 2026/08/25 15:00。",
@@ -4753,7 +4753,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/165506",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "限定5星角色「姬子•启行（智识•火）」与限定5星光锥「当一颗星照亮夜空（智识）」跃迁成功概率限时提升，4星角色「貊泽（巡猎•雷）」「寒鸦（同谐•物理）」「希露瓦（智识•雷）」与4星光锥「谐乐静默之后（智识）」「在蓝天下（毁灭）」「『我』的诞生（智识）」跃迁成功概率限时提升，跃迁时间为 2026/07/15 4.4版本更新后 - 2026/08/25 15:00。",
@@ -4829,7 +4829,7 @@
       "description_en": "Official limited-time event. See the source announcement for participation requirements.",
       "url": "https://sr.mihoyo.com/news/165210",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "2026/07/20 04:00 - 2026/08/31 03:59",
@@ -4866,7 +4866,7 @@
       "description_en": "Official limited-time event. See the source announcement for participation requirements.",
       "url": "https://sr.mihoyo.com/news/165210",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "活动时间：2026/07/24 12:00 - 2026/08/26 06:00",
@@ -4903,7 +4903,7 @@
       "description_en": "Official limited-time event. See the source announcement for participation requirements.",
       "url": "https://sr.mihoyo.com/news/165210",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "活动时间：2026/07/24 12:00 - 2026/08/26 03:59",
@@ -4940,7 +4940,7 @@
       "description_en": "Official limited-time event. See the source announcement for participation requirements.",
       "url": "https://sr.mihoyo.com/news/165361",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "2026/07/27 04:00 - 2026/08/10 03:59",
@@ -4977,7 +4977,7 @@
       "description_en": "Official limited-time event. See the source announcement for participation requirements.",
       "url": "https://sr.mihoyo.com/news/165210",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "2026/08/03 04:00 - 2026/09/14 03:59",
@@ -5014,7 +5014,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/165506",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "限定5星角色「刻律德菈（同谐•风）」「那刻夏（智识•风）」「砂金（存护•虚数）」与限定5星光锥「金血铭刻的时代（同谐）」「生命当付之一炬（智识）」「命运从未公平（存护）」将会返场，跃迁时间为 2026/08/05 12:00 - 2026/08/25 15:00。",
@@ -5086,7 +5086,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/165506",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "限定5星角色「刻律德菈（同谐•风）」「那刻夏（智识•风）」「砂金（存护•虚数）」与限定5星光锥「金血铭刻的时代（同谐）」「生命当付之一炬（智识）」「命运从未公平（存护）」将会返场，跃迁时间为 2026/08/05 12:00 - 2026/08/25 15:00。",
@@ -5162,7 +5162,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/165506",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "限定5星角色「刻律德菈（同谐•风）」「那刻夏（智识•风）」「砂金（存护•虚数）」与限定5星光锥「金血铭刻的时代（同谐）」「生命当付之一炬（智识）」「命运从未公平（存护）」将会返场，跃迁时间为 2026/08/05 12:00 - 2026/08/25 15:00。",
@@ -5238,7 +5238,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/165506",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "限定5星角色「刻律德菈（同谐•风）」「那刻夏（智识•风）」「砂金（存护•虚数）」与限定5星光锥「金血铭刻的时代（同谐）」「生命当付之一炬（智识）」「命运从未公平（存护）」将会返场，跃迁时间为 2026/08/05 12:00 - 2026/08/25 15:00。",
@@ -5310,7 +5310,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/165506",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "限定5星角色「刻律德菈（同谐•风）」「那刻夏（智识•风）」「砂金（存护•虚数）」与限定5星光锥「金血铭刻的时代（同谐）」「生命当付之一炬（智识）」「命运从未公平（存护）」将会返场，跃迁时间为 2026/08/05 12:00 - 2026/08/25 15:00。",
@@ -5386,7 +5386,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/165506",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "限定5星角色「刻律德菈（同谐•风）」「那刻夏（智识•风）」「砂金（存护•虚数）」与限定5星光锥「金血铭刻的时代（同谐）」「生命当付之一炬（智识）」「命运从未公平（存护）」将会返场，跃迁时间为 2026/08/05 12:00 - 2026/08/25 15:00。",
@@ -5458,7 +5458,7 @@
       "description_en": "Official limited-time event. See the source announcement for participation requirements.",
       "url": "https://sr.mihoyo.com/news/165638",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "2026/08/14 04:00 - 2026/08/24 03:59",
@@ -5495,7 +5495,7 @@
       "description_en": "Official limited-time event. See the source announcement for participation requirements.",
       "url": "https://sr.mihoyo.com/news/165210",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "2026/08/17 04:00 - 2026/09/28 06:00",
@@ -5517,45 +5517,6 @@
       }
     },
     {
-      "id": "honkai-star-rail-2026-165896-maintenance",
-      "name": "崩坏：星穹铁道 4.5 版本维护更新",
-      "date": "2026-08-26",
-      "end_date": "2026-08-26",
-      "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
-      "type": "event",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 官方版本维护更新。",
-      "url": "https://sr.mihoyo.com/news/detail/165896",
-      "status": "completed",
-      "last_verified": "2026-11-11",
-      "verified_by": "official",
-      "details": {
-        "official_time": "2026/08/26 06:00 预计5个小时"
-      },
-      "game": {
-        "game_id": "honkai-star-rail",
-        "provider": "hoyoverse",
-        "source_kind": "maintenance",
-        "source_content_id": "165896",
-        "source_title": "4.5版本「挥掷千星的筹码」版本更新说明",
-        "source_url": "https://sr.mihoyo.com/news/detail/165896",
-        "version": "4.5"
-      },
-      "name_en": "Honkai: Star Rail · Version 4.5 \"To Roll the Stars in Astropolis\" Update Details",
-      "time": "06:00",
-      "end_time": "11:00",
-      "description_en": "What price must be paid to keep the arcadia breathing? What tone must resound to catch Amber's downcast eyes? The balance has silently aligned, and you are left with nothing but a final, desperate gamble.",
-      "details_en": {
-        "official_time": "2026-08-26 06:00 – 2026-08-26 11:00",
-        "official_notice": "Version 4.5 \"To Roll the Stars in Astropolis\" Update Details",
-        "English source": "https://hsr.hoyoverse.com/en-us/news/165767",
-        "English source ID": "165767",
-        "English original title": "Version 4.5 \"To Roll the Stars in Astropolis\" Update Details",
-        "English name status": "official announcement; mainland timing preserved"
-      }
-    },
-    {
       "id": "honkai-star-rail-2026-165791-activity-ab76ef6218ad",
       "name": "崩坏：星穹铁道 4.5版本「无名勋礼」更新",
       "name_en": "Honkai: Star Rail · Battle pass period",
@@ -5570,7 +5531,7 @@
       "description_en": "Official limited-time event. See the source announcement for participation requirements.",
       "url": "https://sr.mihoyo.com/news/165791",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "2026/08/26 4.5版本更新后 - 2026/09/28 03:59",
@@ -5610,7 +5571,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/165883",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "本期活动跃迁时间为 2026/08/26 4.5版本更新后 - 2026/09/12 11:59，包含如下内容：",
@@ -5689,7 +5650,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/165883",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "本期活动跃迁时间为 2026/08/26 4.5版本更新后 - 2026/09/12 11:59，包含如下内容：",
@@ -5767,7 +5728,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/165883",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "本期活动跃迁时间为 2026/08/26 4.5版本更新后 - 2026/09/12 11:59，包含如下内容：",
@@ -5848,7 +5809,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/165883",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "本期活动跃迁时间为 2026/08/26 4.5版本更新后 - 2026/09/12 11:59，包含如下内容：",
@@ -5924,7 +5885,7 @@
       "description_en": "The brand-new racing grand prix in Astropolis will emulate the \"Phantasmoon Games.\" The sole winning team will ascend to godhood and become the \"God of Traffic (Laws).\"",
       "url": "https://sr.mihoyo.com/news/165896",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "●活动时间：2026/08/26 4.5版本更新后 - 2026/09/28 03:59",
@@ -5951,6 +5912,45 @@
       }
     },
     {
+      "id": "honkai-star-rail-2026-165896-maintenance",
+      "name": "崩坏：星穹铁道 4.5 版本维护更新",
+      "date": "2026-08-26",
+      "end_date": "2026-08-26",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 官方版本维护更新。",
+      "url": "https://sr.mihoyo.com/news/165896",
+      "status": "completed",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/08/26 06:00 预计5个小时"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "maintenance",
+        "source_content_id": "165896",
+        "source_title": "4.5版本「挥掷千星的筹码」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/165896",
+        "version": "4.5"
+      },
+      "name_en": "Honkai: Star Rail · Version 4.5 \"To Roll the Stars in Astropolis\" Update Details",
+      "time": "06:00",
+      "end_time": "11:00",
+      "description_en": "What price must be paid to keep the arcadia breathing? What tone must resound to catch Amber's downcast eyes? The balance has silently aligned, and you are left with nothing but a final, desperate gamble.",
+      "details_en": {
+        "official_time": "2026-08-26 06:00 – 2026-08-26 11:00",
+        "official_notice": "Version 4.5 \"To Roll the Stars in Astropolis\" Update Details",
+        "English source": "https://hsr.hoyoverse.com/en-us/news/165767",
+        "English source ID": "165767",
+        "English original title": "Version 4.5 \"To Roll the Stars in Astropolis\" Update Details",
+        "English name status": "official announcement; mainland timing preserved"
+      }
+    },
+    {
       "id": "honkai-star-rail-2026-165896-version",
       "name": "崩坏：星穹铁道 4.5 版本周期",
       "name_en": "Honkai: Star Rail · Version 4.5 \"To Roll the Stars in Astropolis\" Update Details",
@@ -5965,7 +5965,7 @@
       "description_en": "What price must be paid to keep the arcadia breathing? What tone must resound to catch Amber's downcast eyes? The balance has silently aligned, and you are left with nothing but a final, desperate gamble.",
       "url": "https://sr.mihoyo.com/news/165896",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "4.5版本的持续时间为 2026/08/26 4.5版本更新后 - 2026/09/28 06:00。",
@@ -6008,7 +6008,7 @@
       "description_en": "When an enemy unit with \"Steadfast Safeguard\" is Weakness Broken, dispel control debuffs for all allies and activate their Ultimates.",
       "url": "https://sr.mihoyo.com/news/165896",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "2026/08/31 04:00 - 2026/10/05 03:59",
@@ -6046,7 +6046,7 @@
       "description_en": "Official limited-time event. See the source announcement for participation requirements.",
       "url": "https://sr.mihoyo.com/news/165983",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "2026/09/07 04:00 - 2026/09/21 03:59",
@@ -6083,7 +6083,7 @@
       "description_en": "Embark on a minuscule great adventure that packs over half the troubles in the cosmos! Assemble your hero squad, challenge stage after stage of trials, and defeat all formidable foes in your path.",
       "url": "https://sr.mihoyo.com/news/165896",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "●活动时间：2026/09/12 12:00 - 2026/09/28 03:59",
@@ -6121,7 +6121,7 @@
       "description_en": "Each time Punchline is gained, allies will additionally accumulate 2 Grit Value.",
       "url": "https://sr.mihoyo.com/news/165896",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "2026/09/14 04:00 - 2026/10/19 03:59",
@@ -6159,7 +6159,7 @@
       "description_en": "Official limited-time event. See the source announcement for participation requirements.",
       "url": "https://sr.mihoyo.com/news/166178",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "2026/09/19 04:00 - 2026/09/28 03:59",
@@ -6189,9 +6189,9 @@
       "type": "event",
       "year": 2026,
       "description": "崩坏：星穹铁道 官方版本维护更新。",
-      "url": "https://sr.mihoyo.com/news/detail/166480",
+      "url": "https://sr.mihoyo.com/news/166480",
       "status": "completed",
-      "last_verified": "2026-11-11",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "2026/09/28 06:00"
@@ -6202,7 +6202,7 @@
         "source_kind": "maintenance",
         "source_content_id": "166480",
         "source_title": "4.6版本更新维护预告",
-        "source_url": "https://sr.mihoyo.com/news/detail/166480",
+        "source_url": "https://sr.mihoyo.com/news/166480",
         "version": "4.6"
       },
       "name_en": "Honkai: Star Rail v4.6 Maintenance Update",
@@ -6210,45 +6210,6 @@
       "description_en": "Honkai: Star Rail Official Maintenance Update.",
       "details_en": {
         "official_time": "2026-09-28 06:00"
-      }
-    },
-    {
-      "id": "honkai-star-rail-2026-166489-maintenance",
-      "name": "崩坏：星穹铁道 4.6 版本维护更新",
-      "date": "2026-09-28",
-      "end_date": "2026-09-28",
-      "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
-      "type": "event",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 官方版本维护更新。",
-      "url": "https://sr.mihoyo.com/news/detail/166489",
-      "status": "completed",
-      "last_verified": "2026-11-11",
-      "verified_by": "official",
-      "details": {
-        "official_time": "2026/09/28 06:00 预计5个小时"
-      },
-      "game": {
-        "game_id": "honkai-star-rail",
-        "provider": "hoyoverse",
-        "source_kind": "maintenance",
-        "source_content_id": "166489",
-        "source_title": "4.6版本「月升之前，与兽共舞」版本更新说明",
-        "source_url": "https://sr.mihoyo.com/news/detail/166489",
-        "version": "4.6"
-      },
-      "name_en": "Honkai: Star Rail · Version 4.6 \"Dance With the Beast Before Moonrise\" Update Details",
-      "time": "06:00",
-      "end_time": "11:00",
-      "description_en": "The beast stirring in the darkness opens THEIR maw once more, demanding a god as a sacrifice. Before the moon rises again, only the blood of the wise can sate THEIR hunger...",
-      "details_en": {
-        "official_time": "2026-09-28 06:00 – 2026-09-28 11:00",
-        "official_notice": "Version 4.6 \"Dance With the Beast Before Moonrise\" Update Details",
-        "English source": "https://hsr.hoyoverse.com/en-us/news/166468",
-        "English source ID": "166468",
-        "English original title": "Version 4.6 \"Dance With the Beast Before Moonrise\" Update Details",
-        "English name status": "official announcement; mainland timing preserved"
       }
     },
     {
@@ -6266,7 +6227,7 @@
       "description_en": "Official limited-time event. See the source announcement for participation requirements.",
       "url": "https://sr.mihoyo.com/news/166485",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "2026/09/28 4.6版本更新后 - 2026/11/09 03:59",
@@ -6306,7 +6267,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/166487",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "限定5星角色「绯英（欢愉•物理）」与限定5星光锥「邂逅于下一个花季（欢愉）」将会返场，跃迁时间为 2026/09/28 4.6版本更新后 - 2026/10/21 11:59。",
@@ -6383,7 +6344,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/166487",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "限定5星角色「绯英（欢愉•物理）」与限定5星光锥「邂逅于下一个花季（欢愉）」将会返场，跃迁时间为 2026/09/28 4.6版本更新后 - 2026/10/21 11:59。",
@@ -6463,8 +6424,8 @@
       "description": "旧日星神「贪饕」渐趋苏醒，其力量正向外弥散，令生命迸发难以遏制的饥渴冲动……不过，听说阿哈来帮忙了？！",
       "description_en": "The ancient Aeon, the Voracity, is gradually awakening. THEIR power is steadily encroaching outward, spurring an uncontrollable, ravenous impulse within living beings... But I heard Aha's here to help!?",
       "url": "https://sr.mihoyo.com/news/166489",
-      "status": "active",
-      "last_verified": "2026-11-06",
+      "status": "completed",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "●活动时间：4.6版本更新后 - 2026/11/11 06:00",
@@ -6504,8 +6465,8 @@
       "description": "本期「星际潮玩」幻宠抽取活动中，可获得的幻宠款类包括：珍藏款猫猫狸、珍藏款奇美拉、经典款猫猫狸、经典款奇美拉。",
       "description_en": "Imageas available in this period's \"Astral Trendible\" Imagea draw event include: Collector's Edition Kitty Furb, Collector's Edition Chimera, Classic Edition Kitty Furb, and Classic Edition Chimera.",
       "url": "https://sr.mihoyo.com/news/166489",
-      "status": "active",
-      "last_verified": "2026-11-06",
+      "status": "completed",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "●开放时间：4.6版本更新后 - 2026/11/11 06:00",
@@ -6545,8 +6506,8 @@
       "description": "一条废弃机铠管线经由幽灵斯科特改造，竟变成了可为幽灵赋予肉身的「林登™具身机铠」生产线！可这位老友难得做回善事，居然被横空出世的拉克什米绊住了脚，你决定与伙伴们携手，帮他完成考核，从「绯闻女友」手下顺利脱身！",
       "description_en": "A decommissioned mechatron pipeline, retrofitted by ghost Skott, has somehow become a production line for \"Lyndon™ EmbodiMech,\" capable of giving ghosts physical form! But the one time this old friend decides to do something good, he gets tangled up with the out-of-nowhere arrival of Rakshmi. You and your companions decide to lend a hand, help him pass the assessment, and get him out from under his \"rumored girlfriend's\" thumb!",
       "url": "https://sr.mihoyo.com/news/166489",
-      "status": "active",
-      "last_verified": "2026-11-06",
+      "status": "completed",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "●活动时间：4.6版本更新后 - 2026/11/11 03:59",
@@ -6586,8 +6547,8 @@
       "description": "活动期间，登录游戏即可领取「潮玩礼券」*6，「潮玩礼券」可用于抽取「星际幻宠」。",
       "description_en": "During the event, log in to the game to claim Trendible Voucher ×6. Trendible Vouchers can be used to draw for Astral Imageas.",
       "url": "https://sr.mihoyo.com/news/166489",
-      "status": "active",
-      "last_verified": "2026-11-06",
+      "status": "completed",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "●领取时间：4.6版本更新后 - 2026/11/11 06:00",
@@ -6628,7 +6589,7 @@
       "description_en": "The character in position 1 of the ally lineup gains the Elation Skill \"Euphoric Maelstrom,\" dealing 100% Elation DMG of the character's Type to all enemies.",
       "url": "https://sr.mihoyo.com/news/166489",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "2026/09/28 4.6版本更新后 - 2026/11/02 03:59",
@@ -6655,6 +6616,45 @@
       }
     },
     {
+      "id": "honkai-star-rail-2026-166489-maintenance",
+      "name": "崩坏：星穹铁道 4.6 版本维护更新",
+      "date": "2026-09-28",
+      "end_date": "2026-09-28",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 官方版本维护更新。",
+      "url": "https://sr.mihoyo.com/news/166489",
+      "status": "completed",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/09/28 06:00 预计5个小时"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "maintenance",
+        "source_content_id": "166489",
+        "source_title": "4.6版本「月升之前，与兽共舞」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/166489",
+        "version": "4.6"
+      },
+      "name_en": "Honkai: Star Rail · Version 4.6 \"Dance With the Beast Before Moonrise\" Update Details",
+      "time": "06:00",
+      "end_time": "11:00",
+      "description_en": "The beast stirring in the darkness opens THEIR maw once more, demanding a god as a sacrifice. Before the moon rises again, only the blood of the wise can sate THEIR hunger...",
+      "details_en": {
+        "official_time": "2026-09-28 06:00 – 2026-09-28 11:00",
+        "official_notice": "Version 4.6 \"Dance With the Beast Before Moonrise\" Update Details",
+        "English source": "https://hsr.hoyoverse.com/en-us/news/166468",
+        "English source ID": "166468",
+        "English original title": "Version 4.6 \"Dance With the Beast Before Moonrise\" Update Details",
+        "English name status": "official announcement; mainland timing preserved"
+      }
+    },
+    {
       "id": "honkai-star-rail-2026-166489-version",
       "name": "崩坏：星穹铁道 4.6 版本周期",
       "name_en": "Honkai: Star Rail · Version 4.6 \"Dance With the Beast Before Moonrise\" Update Details",
@@ -6668,8 +6668,8 @@
       "description": "崩坏：星穹铁道 4.6 版本周期",
       "description_en": "The beast stirring in the darkness opens THEIR maw once more, demanding a god as a sacrifice. Before the moon rises again, only the blood of the wise can sate THEIR hunger...",
       "url": "https://sr.mihoyo.com/news/166489",
-      "status": "active",
-      "last_verified": "2026-11-06",
+      "status": "completed",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "4.6版本的持续时间为 2026/09/28 4.6版本更新后 - 2026/11/11 06:00。",
@@ -6711,7 +6711,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/166950",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "限定5星角色「真珠（欢愉•冰）」与限定5星光锥「献给明日的色彩（欢愉）」跃迁成功概率限时提升，4星角色「青雀（智识•量子）」「雪衣（毁灭•量子）」「米沙（毁灭•冰）」与4星光锥「一场术后对话（丰饶）」「与行星相会（同谐）」「无边曼舞（虚无）」跃迁成功概率限时提升，跃迁时间为 2026/09/28 4.6版本更新后 - 2026/11/10 15:00。",
@@ -6788,7 +6788,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/166950",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "限定5星角色「真珠（欢愉•冰）」与限定5星光锥「献给明日的色彩（欢愉）」跃迁成功概率限时提升，4星角色「青雀（智识•量子）」「雪衣（毁灭•量子）」「米沙（毁灭•冰）」与4星光锥「一场术后对话（丰饶）」「与行星相会（同谐）」「无边曼舞（虚无）」跃迁成功概率限时提升，跃迁时间为 2026/09/28 4.6版本更新后 - 2026/11/10 15:00。",
@@ -6870,7 +6870,7 @@
       "description_en": "When an enemy target with \"Steadfast Safeguard\" is Weakness Broken, all ally targets are dispelled of control debuffs, their actions are advanced, and Aha immediately gains an extra turn (this turn takes a fixed 10 Punchlines into account).",
       "url": "https://sr.mihoyo.com/news/166489",
       "status": "active",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "2026/10/05 04:00 - 2026/11/16 03:59",
@@ -6908,7 +6908,7 @@
       "description_en": "Official limited-time event. See the source announcement for participation requirements.",
       "url": "https://sr.mihoyo.com/news/166662",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "2026/10/12 04:00 - 2026/10/25 03:59",
@@ -6945,7 +6945,7 @@
       "description_en": "When an ally target inflicts a debuff on an enemy target, allies additionally accumulate 1 Grit Value. This effect can be triggered up to 10 times per enemy target.",
       "url": "https://sr.mihoyo.com/news/166489",
       "status": "active",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "2026/10/19 04:00 - 2026/11/30 03:59",
@@ -6982,8 +6982,8 @@
       "description": "星际和平娱乐倾力打造的大型影视真人秀《星际和平盛典：一镜到底》正式开机。即刻试镜，秀出你的战斗技巧，下一个动作巨星就是你！",
       "description_en": "Interastral Peace Entertainment's blockbuster reality show, Interastral Peace Gala: One Take, has officially started filming. Audition now, show off your combat skills, and the next action superstar could be you!",
       "url": "https://sr.mihoyo.com/news/166489",
-      "status": "active",
-      "last_verified": "2026-11-06",
+      "status": "completed",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "●活动时间：2026/10/21 12:00 - 2026/11/11 03:59",
@@ -7021,7 +7021,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/166950",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "限定5星角色「千冶•刃（虚无•火）」与限定5星光锥「灼尽炼狱的新骸（虚无）」将会返场，跃迁时间为 2026/10/21 12:00 - 2026/11/10 15:00。",
@@ -7095,7 +7095,7 @@
       "description_en": "Official event warp. See the source announcement for featured items.",
       "url": "https://sr.mihoyo.com/news/166950",
       "status": "completed",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "限定5星角色「千冶•刃（虚无•火）」与限定5星光锥「灼尽炼狱的新骸（虚无）」将会返场，跃迁时间为 2026/10/21 12:00 - 2026/11/10 15:00。",
@@ -7172,8 +7172,8 @@
       "description": "完成冒险任务「拟造花萼（金）• 回忆之蕾」",
       "description_en": "Official limited-time event. See the source announcement for participation requirements.",
       "url": "https://sr.mihoyo.com/news/167093",
-      "status": "active",
-      "last_verified": "2026-11-06",
+      "status": "completed",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "2026/10/30 04:00 - 2026/11/11 03:59",
@@ -7210,7 +7210,7 @@
       "description_en": "When an ally target uses their Ultimate, gains 5 Punchlines.",
       "url": "https://sr.mihoyo.com/news/166489",
       "status": "active",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "2026/11/02 04:00 - 2026/12/14 03:59",
@@ -7233,77 +7233,6 @@
       }
     },
     {
-      "id": "honkai-star-rail-2026-167296-maintenance",
-      "name": "崩坏：星穹铁道 4.7 版本维护更新",
-      "name_en": "Honkai: Star Rail v4.7 Maintenance Update",
-      "date": "2026-11-11",
-      "time": "06:00",
-      "timezone": "Asia/Shanghai",
-      "time_kind": "datetime",
-      "type": "event",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 官方版本维护更新。",
-      "description_en": "Honkai: Star Rail Official Maintenance Update.",
-      "url": "https://sr.mihoyo.com/news/detail/167296",
-      "status": "active",
-      "last_verified": "2026-11-11",
-      "verified_by": "official",
-      "details": {
-        "official_time": "2026/11/11 06:00"
-      },
-      "details_en": {
-        "official_time": "2026-11-11 06:00"
-      },
-      "game": {
-        "game_id": "honkai-star-rail",
-        "provider": "hoyoverse",
-        "source_kind": "maintenance",
-        "source_content_id": "167296",
-        "source_title": "4.7版本更新维护预告",
-        "source_url": "https://sr.mihoyo.com/news/detail/167296",
-        "version": "4.7"
-      }
-    },
-    {
-      "id": "honkai-star-rail-2026-167300-maintenance",
-      "name": "崩坏：星穹铁道 4.7 版本维护更新",
-      "name_en": "Honkai: Star Rail · Version 4.7 \"Now, Lay Laughter to All Stars\" Update Details",
-      "date": "2026-11-11",
-      "end_date": "2026-11-11",
-      "time": "06:00",
-      "end_time": "11:00",
-      "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
-      "type": "event",
-      "year": 2026,
-      "description": "崩坏：星穹铁道 官方版本维护更新。",
-      "description_en": "In the maddening silence, a voice said: \"Laugh, and let THEM hear your existence.\" And thus, the stars were silent no more, pouring all their radiance into a single burst of laughter.",
-      "url": "https://sr.mihoyo.com/news/detail/167300",
-      "status": "active",
-      "last_verified": "2026-11-11",
-      "verified_by": "official",
-      "details": {
-        "official_time": "2026/11/11 06:00 预计5个小时"
-      },
-      "details_en": {
-        "official_time": "2026-11-11 06:00 – 2026-11-11 11:00",
-        "official_notice": "Version 4.7 \"Now, Lay Laughter to All Stars\" Update Details",
-        "English source": "https://hsr.hoyoverse.com/en-us/news/167246",
-        "English source ID": "167246",
-        "English original title": "Version 4.7 \"Now, Lay Laughter to All Stars\" Update Details",
-        "English name status": "official announcement; mainland timing preserved"
-      },
-      "game": {
-        "game_id": "honkai-star-rail",
-        "provider": "hoyoverse",
-        "source_kind": "maintenance",
-        "source_content_id": "167300",
-        "source_title": "4.7版本「此刻，将群星付之一笑」版本更新说明",
-        "source_url": "https://sr.mihoyo.com/news/detail/167300",
-        "version": "4.7"
-      }
-    },
-    {
       "id": "honkai-star-rail-2026-167101-activity-530a9c928609",
       "name": "崩坏：星穹铁道 幻乐秀场时装抽取活动说明",
       "name_en": "Honkai: Star Rail · \"Cosmic Aesthetics: Phantasia Showstage\" Outfit Draw Event Details",
@@ -7318,7 +7247,7 @@
       "description_en": "Official limited-time event. See the source announcement for participation requirements.",
       "url": "https://sr.mihoyo.com/news/167101",
       "status": "active",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "2026/11/11 4.7版本更新后 - 2026/12/23 03:59",
@@ -7359,7 +7288,7 @@
       "description_en": "Official limited-time event. See the source announcement for participation requirements.",
       "url": "https://sr.mihoyo.com/news/167107",
       "status": "active",
-      "last_verified": "2026-11-06",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "official_time": "2026/11/11 4.7版本更新后 - 2026/12/23 05:59",
@@ -7382,6 +7311,1142 @@
         "source_url": "https://sr.mihoyo.com/news/167107",
         "version": "4.7",
         "activity_name": "开场好礼先抱走"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-167274-activity-0cb589f4a9bf",
+      "name": "崩坏：星穹铁道 4.7版本「无名勋礼」更新",
+      "name_en": "Honkai: Star Rail · Battle pass period",
+      "date": "2026-11-11",
+      "end_date": "2026-12-21",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "亲爱的开拓者：",
+      "description_en": "Official limited-time event. See the source announcement for participation requirements.",
+      "url": "https://sr.mihoyo.com/news/167274",
+      "status": "active",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/11/11 4.7版本更新后 - 2026/12/21 03:59",
+        "start_time": "版本更新后",
+        "end_time": "2026-12-21 03:59",
+        "official_notice": "4.7版本「无名勋礼」更新"
+      },
+      "details_en": {
+        "official_time": "2026-11-11 – 2026-12-21 03:59",
+        "start_time": "After the version update",
+        "end_time": "2026-12-21 03:59",
+        "English name status": "descriptive translation; mainland timing preserved"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "activity",
+        "source_content_id": "167274",
+        "source_title": "4.7版本「无名勋礼」更新",
+        "source_url": "https://sr.mihoyo.com/news/167274",
+        "version": "4.7",
+        "activity_name": "4.7版本「无名勋礼」更新"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-167295-activity-92c434fd261f",
+      "name": "崩坏：星穹铁道 「奇库寻遗」：参与活动获取+15五星遗器！",
+      "name_en": "Honkai: Star Rail v4.7 Event — 2026-11-11",
+      "date": "2026-11-11",
+      "end_date": "2026-12-23",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "黑塔空间站的一间神秘收藏库向你敞开了大门，里面有无数装满奇妙物件的宝箱，只要搞到专用的权限卡，就可以……",
+      "description_en": "Official limited-time event. See the source announcement for participation requirements.",
+      "url": "https://sr.mihoyo.com/news/167295",
+      "status": "active",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/11/11 4.7版本更新后 - 2026/12/23 03:59",
+        "start_time": "版本更新后",
+        "end_time": "2026-12-23 03:59",
+        "official_notice": "「奇库寻遗」：参与活动获取+15五星遗器！"
+      },
+      "details_en": {
+        "official_time": "2026-11-11 – 2026-12-23 03:59",
+        "start_time": "After the version update",
+        "end_time": "2026-12-23 03:59",
+        "English name status": "unavailable; original announcement retained"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "activity",
+        "source_content_id": "167295",
+        "source_title": "「奇库寻遗」：参与活动获取+15五星遗器！",
+        "source_url": "https://sr.mihoyo.com/news/167295",
+        "version": "4.7",
+        "activity_name": "「奇库寻遗」：参与活动获取+15五星遗器！"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-167296-maintenance",
+      "name": "崩坏：星穹铁道 4.7 版本维护更新",
+      "name_en": "Honkai: Star Rail v4.7 Maintenance Update",
+      "date": "2026-11-11",
+      "time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 官方版本维护更新。",
+      "description_en": "Honkai: Star Rail Official Maintenance Update.",
+      "url": "https://sr.mihoyo.com/news/167296",
+      "status": "completed",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/11/11 06:00"
+      },
+      "details_en": {
+        "official_time": "2026-11-11 06:00"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "maintenance",
+        "source_content_id": "167296",
+        "source_title": "4.7版本更新维护预告",
+        "source_url": "https://sr.mihoyo.com/news/167296",
+        "version": "4.7"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-167299-banner-40f00538d52a",
+      "name": "崩坏：星穹铁道 铭心之萃•银狼LV.999",
+      "name_en": "Honkai: Star Rail v4.7 Event Warp — 2026-11-11",
+      "date": "2026-11-11",
+      "end_date": "2026-12-02",
+      "end_time": "11:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 铭心之萃•银狼LV.999",
+      "description_en": "Official event warp. See the source announcement for featured items.",
+      "url": "https://sr.mihoyo.com/news/167299",
+      "status": "active",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "official_time": "限定5星角色「银狼LV.999（欢愉•虚数）」「火花（欢愉•火）」「爻光（欢愉•物理）」与限定5星光锥「欢迎来到银河城（欢愉）」「花花世界迷人眼（欢愉）」「当她决定看见（欢愉）」将会返场，跃迁时间为 2026/11/11 4.7版本更新后 - 2026/12/02 11:59。",
+        "start_time": "版本更新后",
+        "end_time": "2026-12-02 11:59",
+        "official_notice": "4.7版本活动跃迁（其一）"
+      },
+      "details_en": {
+        "official_time": "2026-11-11 – 2026-12-02 11:59",
+        "start_time": "After the version update",
+        "end_time": "2026-12-02 11:59",
+        "English name status": "unavailable; original announcement retained"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "banner",
+        "source_content_id": "167299",
+        "source_title": "4.7版本活动跃迁（其一）",
+        "source_url": "https://sr.mihoyo.com/news/167299",
+        "version": "4.7",
+        "activity_name": "铭心之萃•银狼LV.999",
+        "phase": "phase1"
+      },
+      "banners": [
+        {
+          "name": "铭心之萃•银狼LV.999",
+          "type": "character",
+          "featured_5": [
+            {
+              "name": "银狼LV.999",
+              "kind": "character",
+              "rarity": 5,
+              "path": "欢愉",
+              "element": "虚数"
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "艾丝妲",
+              "kind": "character",
+              "rarity": 4,
+              "path": "同谐",
+              "element": "火"
+            },
+            {
+              "name": "玲可",
+              "kind": "character",
+              "rarity": 4,
+              "path": "丰饶",
+              "element": "量子"
+            },
+            {
+              "name": "驭空",
+              "kind": "character",
+              "rarity": 4,
+              "path": "同谐",
+              "element": "虚数"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "honkai-star-rail-2026-167299-banner-4fb6a810daef",
+      "name": "崩坏：星穹铁道 真意之汇•当她决定看见",
+      "name_en": "Honkai: Star Rail · Light Cone Event Warp · When She Decided to See",
+      "date": "2026-11-11",
+      "end_date": "2026-12-02",
+      "end_time": "11:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 真意之汇•当她决定看见",
+      "description_en": "Official event warp. See the source announcement for featured items.",
+      "url": "https://sr.mihoyo.com/news/167299",
+      "status": "active",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "official_time": "限定5星角色「银狼LV.999（欢愉•虚数）」「火花（欢愉•火）」「爻光（欢愉•物理）」与限定5星光锥「欢迎来到银河城（欢愉）」「花花世界迷人眼（欢愉）」「当她决定看见（欢愉）」将会返场，跃迁时间为 2026/11/11 4.7版本更新后 - 2026/12/02 11:59。",
+        "start_time": "版本更新后",
+        "end_time": "2026-12-02 11:59",
+        "official_notice": "4.7版本活动跃迁（其一）"
+      },
+      "details_en": {
+        "official_time": "2026-11-11 – 2026-12-02 11:59",
+        "start_time": "After the version update",
+        "end_time": "2026-12-02 11:59",
+        "English name status": "descriptive translation; mainland timing preserved"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "banner",
+        "source_content_id": "167299",
+        "source_title": "4.7版本活动跃迁（其一）",
+        "source_url": "https://sr.mihoyo.com/news/167299",
+        "version": "4.7",
+        "activity_name": "真意之汇•当她决定看见",
+        "phase": "phase1"
+      },
+      "banners": [
+        {
+          "name": "真意之汇•当她决定看见",
+          "type": "light_cone",
+          "featured_5": [
+            {
+              "name": "当她决定看见",
+              "kind": "light_cone",
+              "rarity": 5,
+              "path": "欢愉",
+              "name_en": "When She Decided to See"
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "宇宙市场趋势",
+              "kind": "light_cone",
+              "rarity": 4,
+              "path": "存护"
+            },
+            {
+              "name": "天才们的休憩",
+              "kind": "light_cone",
+              "rarity": 4,
+              "path": "智识"
+            },
+            {
+              "name": "黑夜如影随行",
+              "kind": "light_cone",
+              "rarity": 4,
+              "path": "巡猎"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "honkai-star-rail-2026-167299-banner-711cffb0cce4",
+      "name": "崩坏：星穹铁道 铭心之萃•爻光",
+      "name_en": "Honkai: Star Rail · Character Event Warp · Yao Guang",
+      "date": "2026-11-11",
+      "end_date": "2026-12-02",
+      "end_time": "11:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 铭心之萃•爻光",
+      "description_en": "Official event warp. See the source announcement for featured items.",
+      "url": "https://sr.mihoyo.com/news/167299",
+      "status": "active",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "official_time": "限定5星角色「银狼LV.999（欢愉•虚数）」「火花（欢愉•火）」「爻光（欢愉•物理）」与限定5星光锥「欢迎来到银河城（欢愉）」「花花世界迷人眼（欢愉）」「当她决定看见（欢愉）」将会返场，跃迁时间为 2026/11/11 4.7版本更新后 - 2026/12/02 11:59。",
+        "start_time": "版本更新后",
+        "end_time": "2026-12-02 11:59",
+        "official_notice": "4.7版本活动跃迁（其一）"
+      },
+      "details_en": {
+        "official_time": "2026-11-11 – 2026-12-02 11:59",
+        "start_time": "After the version update",
+        "end_time": "2026-12-02 11:59",
+        "English name status": "descriptive translation; mainland timing preserved"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "banner",
+        "source_content_id": "167299",
+        "source_title": "4.7版本活动跃迁（其一）",
+        "source_url": "https://sr.mihoyo.com/news/167299",
+        "version": "4.7",
+        "activity_name": "铭心之萃•爻光",
+        "phase": "phase1"
+      },
+      "banners": [
+        {
+          "name": "铭心之萃•爻光",
+          "type": "character",
+          "featured_5": [
+            {
+              "name": "爻光",
+              "kind": "character",
+              "rarity": 5,
+              "path": "欢愉",
+              "element": "物理",
+              "name_en": "Yao Guang"
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "艾丝妲",
+              "kind": "character",
+              "rarity": 4,
+              "path": "同谐",
+              "element": "火"
+            },
+            {
+              "name": "玲可",
+              "kind": "character",
+              "rarity": 4,
+              "path": "丰饶",
+              "element": "量子"
+            },
+            {
+              "name": "驭空",
+              "kind": "character",
+              "rarity": 4,
+              "path": "同谐",
+              "element": "虚数"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "honkai-star-rail-2026-167299-banner-7e391fb5a1e5",
+      "name": "崩坏：星穹铁道 真意之汇•欢迎来到银河城",
+      "name_en": "Honkai: Star Rail v4.7 Event Warp — 2026-11-11",
+      "date": "2026-11-11",
+      "end_date": "2026-12-02",
+      "end_time": "11:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 真意之汇•欢迎来到银河城",
+      "description_en": "Official event warp. See the source announcement for featured items.",
+      "url": "https://sr.mihoyo.com/news/167299",
+      "status": "active",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "official_time": "限定5星角色「银狼LV.999（欢愉•虚数）」「火花（欢愉•火）」「爻光（欢愉•物理）」与限定5星光锥「欢迎来到银河城（欢愉）」「花花世界迷人眼（欢愉）」「当她决定看见（欢愉）」将会返场，跃迁时间为 2026/11/11 4.7版本更新后 - 2026/12/02 11:59。",
+        "start_time": "版本更新后",
+        "end_time": "2026-12-02 11:59",
+        "official_notice": "4.7版本活动跃迁（其一）"
+      },
+      "details_en": {
+        "official_time": "2026-11-11 – 2026-12-02 11:59",
+        "start_time": "After the version update",
+        "end_time": "2026-12-02 11:59",
+        "English name status": "unavailable; original announcement retained"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "banner",
+        "source_content_id": "167299",
+        "source_title": "4.7版本活动跃迁（其一）",
+        "source_url": "https://sr.mihoyo.com/news/167299",
+        "version": "4.7",
+        "activity_name": "真意之汇•欢迎来到银河城",
+        "phase": "phase1"
+      },
+      "banners": [
+        {
+          "name": "真意之汇•欢迎来到银河城",
+          "type": "light_cone",
+          "featured_5": [
+            {
+              "name": "欢迎来到银河城",
+              "kind": "light_cone",
+              "rarity": 5,
+              "path": "欢愉"
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "宇宙市场趋势",
+              "kind": "light_cone",
+              "rarity": 4,
+              "path": "存护"
+            },
+            {
+              "name": "天才们的休憩",
+              "kind": "light_cone",
+              "rarity": 4,
+              "path": "智识"
+            },
+            {
+              "name": "黑夜如影随行",
+              "kind": "light_cone",
+              "rarity": 4,
+              "path": "巡猎"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "honkai-star-rail-2026-167299-banner-7e456f7256c9",
+      "name": "崩坏：星穹铁道 愚戏众星 · 星神★阿哈",
+      "name_en": "Honkai: Star Rail · Character Event Warp · Aeon ★ Aha",
+      "date": "2026-11-11",
+      "end_date": "2026-12-22",
+      "end_time": "15:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 愚戏众星 · 星神★阿哈",
+      "description_en": "Official event warp. See the source announcement for featured items.",
+      "url": "https://sr.mihoyo.com/news/167299",
+      "status": "active",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "official_time": "限定5星角色「星神★阿哈（欢愉•量子）」与限定5星光锥「当第一声『阿哈』响起（欢愉）」跃迁成功概率限时提升，4星角色「艾丝妲（同谐•火）」「玲可（丰饶•量子）」「驭空（同谐•虚数）」与4星光锥「宇宙市场趋势（存护）」「天才们的休憩（智识）」「黑夜如影随行（巡猎）」跃迁成功概率限时提升，跃迁时间为 2026/11/11 4.7版本更新后 - 2026/12/22 15:00。",
+        "start_time": "版本更新后",
+        "end_time": "2026-12-22 15:00",
+        "official_notice": "4.7版本活动跃迁（其一）"
+      },
+      "details_en": {
+        "official_time": "2026-11-11 – 2026-12-22 15:00",
+        "start_time": "After the version update",
+        "end_time": "2026-12-22 15:00",
+        "English name status": "verified bilingual announcement; mainland timing preserved",
+        "English source": "https://hsr.hoyoverse.com/en-us/news/167246"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "banner",
+        "source_content_id": "167299",
+        "source_title": "4.7版本活动跃迁（其一）",
+        "source_url": "https://sr.mihoyo.com/news/167299",
+        "version": "4.7",
+        "activity_name": "愚戏众星 · 星神★阿哈",
+        "phase": "phase1"
+      },
+      "banners": [
+        {
+          "name": "愚戏众星",
+          "type": "character",
+          "featured_5": [
+            {
+              "name": "星神★阿哈",
+              "kind": "character",
+              "rarity": 5,
+              "path": "欢愉",
+              "element": "量子",
+              "name_en": "Aeon ★ Aha"
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "艾丝妲",
+              "kind": "character",
+              "rarity": 4,
+              "path": "同谐",
+              "element": "火"
+            },
+            {
+              "name": "玲可",
+              "kind": "character",
+              "rarity": 4,
+              "path": "丰饶",
+              "element": "量子"
+            },
+            {
+              "name": "驭空",
+              "kind": "character",
+              "rarity": 4,
+              "path": "同谐",
+              "element": "虚数"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "honkai-star-rail-2026-167299-banner-cea634e47fd9",
+      "name": "崩坏：星穹铁道 流光定影•当第一声『阿哈』响起",
+      "name_en": "Honkai: Star Rail · Light Cone Event Warp · \"Upon the First Echo of 'Aha' (Elation)\"",
+      "date": "2026-11-11",
+      "end_date": "2026-12-22",
+      "end_time": "15:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 流光定影•当第一声『阿哈』响起",
+      "description_en": "Official event warp. See the source announcement for featured items.",
+      "url": "https://sr.mihoyo.com/news/167299",
+      "status": "active",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "official_time": "限定5星角色「星神★阿哈（欢愉•量子）」与限定5星光锥「当第一声『阿哈』响起（欢愉）」跃迁成功概率限时提升，4星角色「艾丝妲（同谐•火）」「玲可（丰饶•量子）」「驭空（同谐•虚数）」与4星光锥「宇宙市场趋势（存护）」「天才们的休憩（智识）」「黑夜如影随行（巡猎）」跃迁成功概率限时提升，跃迁时间为 2026/11/11 4.7版本更新后 - 2026/12/22 15:00。",
+        "start_time": "版本更新后",
+        "end_time": "2026-12-22 15:00",
+        "official_notice": "4.7版本活动跃迁（其一）"
+      },
+      "details_en": {
+        "official_time": "2026-11-11 – 2026-12-22 15:00",
+        "start_time": "After the version update",
+        "end_time": "2026-12-22 15:00",
+        "English name status": "verified bilingual announcement; mainland timing preserved",
+        "English source": "https://hsr.hoyoverse.com/en-us/news/167246"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "banner",
+        "source_content_id": "167299",
+        "source_title": "4.7版本活动跃迁（其一）",
+        "source_url": "https://sr.mihoyo.com/news/167299",
+        "version": "4.7",
+        "activity_name": "流光定影•当第一声『阿哈』响起",
+        "phase": "phase1"
+      },
+      "banners": [
+        {
+          "name": "流光定影•当第一声『阿哈』响起",
+          "type": "light_cone",
+          "featured_5": [
+            {
+              "name": "当第一声『阿哈』响起",
+              "kind": "light_cone",
+              "rarity": 5,
+              "path": "欢愉",
+              "name_en": "\"Upon the First Echo of 'Aha' (Elation)\""
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "宇宙市场趋势",
+              "kind": "light_cone",
+              "rarity": 4,
+              "path": "存护"
+            },
+            {
+              "name": "天才们的休憩",
+              "kind": "light_cone",
+              "rarity": 4,
+              "path": "智识"
+            },
+            {
+              "name": "黑夜如影随行",
+              "kind": "light_cone",
+              "rarity": 4,
+              "path": "巡猎"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "honkai-star-rail-2026-167299-banner-e26b195469e9",
+      "name": "崩坏：星穹铁道 铭心之萃•火花",
+      "name_en": "Honkai: Star Rail · Character Event Warp · Sparxie",
+      "date": "2026-11-11",
+      "end_date": "2026-12-02",
+      "end_time": "11:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 铭心之萃•火花",
+      "description_en": "Official event warp. See the source announcement for featured items.",
+      "url": "https://sr.mihoyo.com/news/167299",
+      "status": "active",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "official_time": "限定5星角色「银狼LV.999（欢愉•虚数）」「火花（欢愉•火）」「爻光（欢愉•物理）」与限定5星光锥「欢迎来到银河城（欢愉）」「花花世界迷人眼（欢愉）」「当她决定看见（欢愉）」将会返场，跃迁时间为 2026/11/11 4.7版本更新后 - 2026/12/02 11:59。",
+        "start_time": "版本更新后",
+        "end_time": "2026-12-02 11:59",
+        "official_notice": "4.7版本活动跃迁（其一）"
+      },
+      "details_en": {
+        "official_time": "2026-11-11 – 2026-12-02 11:59",
+        "start_time": "After the version update",
+        "end_time": "2026-12-02 11:59",
+        "English name status": "descriptive translation; mainland timing preserved"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "banner",
+        "source_content_id": "167299",
+        "source_title": "4.7版本活动跃迁（其一）",
+        "source_url": "https://sr.mihoyo.com/news/167299",
+        "version": "4.7",
+        "activity_name": "铭心之萃•火花",
+        "phase": "phase1"
+      },
+      "banners": [
+        {
+          "name": "铭心之萃•火花",
+          "type": "character",
+          "featured_5": [
+            {
+              "name": "火花",
+              "kind": "character",
+              "rarity": 5,
+              "path": "欢愉",
+              "element": "火",
+              "name_en": "Sparxie"
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "艾丝妲",
+              "kind": "character",
+              "rarity": 4,
+              "path": "同谐",
+              "element": "火"
+            },
+            {
+              "name": "玲可",
+              "kind": "character",
+              "rarity": 4,
+              "path": "丰饶",
+              "element": "量子"
+            },
+            {
+              "name": "驭空",
+              "kind": "character",
+              "rarity": 4,
+              "path": "同谐",
+              "element": "虚数"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "honkai-star-rail-2026-167299-banner-f2217d18585b",
+      "name": "崩坏：星穹铁道 真意之汇•花花世界迷人眼",
+      "name_en": "Honkai: Star Rail · Light Cone Event Warp · Dazzled by a Flowery World",
+      "date": "2026-11-11",
+      "end_date": "2026-12-02",
+      "end_time": "11:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 真意之汇•花花世界迷人眼",
+      "description_en": "Official event warp. See the source announcement for featured items.",
+      "url": "https://sr.mihoyo.com/news/167299",
+      "status": "active",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "official_time": "限定5星角色「银狼LV.999（欢愉•虚数）」「火花（欢愉•火）」「爻光（欢愉•物理）」与限定5星光锥「欢迎来到银河城（欢愉）」「花花世界迷人眼（欢愉）」「当她决定看见（欢愉）」将会返场，跃迁时间为 2026/11/11 4.7版本更新后 - 2026/12/02 11:59。",
+        "start_time": "版本更新后",
+        "end_time": "2026-12-02 11:59",
+        "official_notice": "4.7版本活动跃迁（其一）"
+      },
+      "details_en": {
+        "official_time": "2026-11-11 – 2026-12-02 11:59",
+        "start_time": "After the version update",
+        "end_time": "2026-12-02 11:59",
+        "English name status": "descriptive translation; mainland timing preserved"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "banner",
+        "source_content_id": "167299",
+        "source_title": "4.7版本活动跃迁（其一）",
+        "source_url": "https://sr.mihoyo.com/news/167299",
+        "version": "4.7",
+        "activity_name": "真意之汇•花花世界迷人眼",
+        "phase": "phase1"
+      },
+      "banners": [
+        {
+          "name": "真意之汇•花花世界迷人眼",
+          "type": "light_cone",
+          "featured_5": [
+            {
+              "name": "花花世界迷人眼",
+              "kind": "light_cone",
+              "rarity": 5,
+              "path": "欢愉",
+              "name_en": "Dazzled by a Flowery World"
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "宇宙市场趋势",
+              "kind": "light_cone",
+              "rarity": 4,
+              "path": "存护"
+            },
+            {
+              "name": "天才们的休憩",
+              "kind": "light_cone",
+              "rarity": 4,
+              "path": "智识"
+            },
+            {
+              "name": "黑夜如影随行",
+              "kind": "light_cone",
+              "rarity": 4,
+              "path": "巡猎"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "honkai-star-rail-2026-167300-activity-8c5ef739721d",
+      "name": "崩坏：星穹铁道 剧场版绒绒号：欢闹厨房",
+      "name_en": "Honkai: Star Rail · The Fluffy Movie: Overheated",
+      "date": "2026-11-11",
+      "end_date": "2026-12-23",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "让《苍天航路绒绒号》烂尾？抱歉，最富责任心的伟大漫画家「模糊二维马」非但做不到，还要画出个美食剧场版！她给你留下了一笔亟待继承的遗产，想要得到它，就得先完成这篇旷世奇作，不过，「画」漫画可没有你想象中那么简单……",
+      "description_en": "Leave Fluffy Across the Blue unfinished? Sorry, but the greatest and most responsible comic artist, Blurry_QR_Colt, could never do such a thing. In fact, she's even going to draw a gourmet story version! She has left behind an inheritance waiting to be claimed. To get your hands on it, you'll have to first finish this masterpiece. However, \"drawing\" comics isn't as simple as you think...",
+      "url": "https://sr.mihoyo.com/news/167300",
+      "status": "active",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "official_time": "●活动时间：4.7版本更新后 - 2026/12/23 03:59",
+        "start_time": "版本更新后",
+        "end_time": "2026-12-23 03:59",
+        "official_notice": "4.7版本「此刻，将群星付之一笑」版本更新说明"
+      },
+      "details_en": {
+        "official_time": "2026-11-11 – 2026-12-23 03:59",
+        "start_time": "After the version update",
+        "end_time": "2026-12-23 03:59",
+        "English name status": "verified bilingual announcement; mainland timing preserved",
+        "English source": "https://hsr.hoyoverse.com/en-us/news/167246"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "activity",
+        "source_content_id": "167300",
+        "source_title": "4.7版本「此刻，将群星付之一笑」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/167300",
+        "version": "4.7",
+        "activity_name": "剧场版绒绒号：欢闹厨房"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-167300-activity-c928d38dfed8",
+      "name": "崩坏：星穹铁道 星际和平盛典：成名之路",
+      "name_en": "Honkai: Star Rail · Interastral Peace Gala: Road to Fame",
+      "date": "2026-11-11",
+      "end_date": "2026-12-23",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "想成为万众瞩目的秀场新星吗？登上舞台，击败强敌，用你的出色表现赢得欢呼与掌声吧！",
+      "description_en": "Want to become the star of the show? Step onto the stage, take down your rivals, and win cheers and applause with your brilliance!",
+      "url": "https://sr.mihoyo.com/news/167300",
+      "status": "active",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "official_time": "●活动时间：4.7版本更新后 - 2026/12/23 03:59",
+        "start_time": "版本更新后",
+        "end_time": "2026-12-23 03:59",
+        "official_notice": "4.7版本「此刻，将群星付之一笑」版本更新说明"
+      },
+      "details_en": {
+        "official_time": "2026-11-11 – 2026-12-23 03:59",
+        "start_time": "After the version update",
+        "end_time": "2026-12-23 03:59",
+        "English name status": "verified bilingual announcement; mainland timing preserved",
+        "English source": "https://hsr.hoyoverse.com/en-us/news/167246"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "activity",
+        "source_content_id": "167300",
+        "source_title": "4.7版本「此刻，将群星付之一笑」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/167300",
+        "version": "4.7",
+        "activity_name": "星际和平盛典：成名之路"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-167300-activity-d3e3dfce8abb",
+      "name": "崩坏：星穹铁道 寰宇美学•幻乐秀场",
+      "name_en": "Honkai: Star Rail · Cosmic Aesthetics: Phantasia Showstage",
+      "date": "2026-11-11",
+      "end_date": "2026-12-23",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "活动期间，开拓者可使用「时装邀请函」在「幻乐秀场」中抽取获得「星神★阿哈」全新时装「群星乐透」，及开拓穿搭-背部「幻月星轨」、名片「狂欢时刻」、聊天气泡「银河乐透」等奖品。",
+      "description_en": "During the event, Trailblazers can use Fashion Invites for draws in \"Phantasia Showstage\" to obtain Aeon ★ Aha's brand-new outfit \"Star Lotto,\" as well as other rewards such as the Trailblaze Fashion - Back \"Phantasmoon Star Rail,\" Namecard \"Euphoria Time,\" and Chat Box \"Cosmic Lotto.\"",
+      "url": "https://sr.mihoyo.com/news/167300",
+      "status": "active",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "official_time": "●活动时间：4.7版本更新后 - 2026/12/23 03:59",
+        "start_time": "版本更新后",
+        "end_time": "2026-12-23 03:59",
+        "official_notice": "4.7版本「此刻，将群星付之一笑」版本更新说明"
+      },
+      "details_en": {
+        "official_time": "2026-11-11 – 2026-12-23 03:59",
+        "start_time": "After the version update",
+        "end_time": "2026-12-23 03:59",
+        "English name status": "verified bilingual announcement; mainland timing preserved",
+        "English source": "https://hsr.hoyoverse.com/en-us/news/167246"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "activity",
+        "source_content_id": "167300",
+        "source_title": "4.7版本「此刻，将群星付之一笑」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/167300",
+        "version": "4.7",
+        "activity_name": "寰宇美学•幻乐秀场"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-167300-activity-ecde980747ee",
+      "name": "崩坏：星穹铁道 奇库寻遗",
+      "name_en": "Honkai: Star Rail · Relic Recon",
+      "date": "2026-11-11",
+      "end_date": "2026-12-23",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "黑塔空间站的一间神秘收藏库向你敞开了大门，里面有无数装满奇妙物件的宝箱，只要搞到专用的权限卡，就可以……",
+      "description_en": "A mysterious collection vault in the Herta Space Station has opened its doors to you, filled with countless chests containing wondrous items. If you could get your hands on a special access card...",
+      "url": "https://sr.mihoyo.com/news/167300",
+      "status": "active",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "official_time": "●活动时间：4.7版本更新后 - 2026/12/23 03:59",
+        "start_time": "版本更新后",
+        "end_time": "2026-12-23 03:59",
+        "official_notice": "4.7版本「此刻，将群星付之一笑」版本更新说明"
+      },
+      "details_en": {
+        "official_time": "2026-11-11 – 2026-12-23 03:59",
+        "start_time": "After the version update",
+        "end_time": "2026-12-23 03:59",
+        "English name status": "verified bilingual announcement; mainland timing preserved",
+        "English source": "https://hsr.hoyoverse.com/en-us/news/167246"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "activity",
+        "source_content_id": "167300",
+        "source_title": "4.7版本「此刻，将群星付之一笑」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/167300",
+        "version": "4.7",
+        "activity_name": "奇库寻遗"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-167300-activity-f4dfb7263d5f",
+      "name": "崩坏：星穹铁道 万象和鸣",
+      "name_en": "Honkai: Star Rail · Myriad Symphony",
+      "date": "2026-11-11",
+      "end_date": "2026-12-23",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "活动期间，累计消耗「星轨专票」或「时装邀请函」，可获得「回响」领取「奇缘星魂」！",
+      "description_en": "During the event, cumulatively consume Star Rail Special Passes or Fashion Invites to obtain Resonance and claim Affinitive Eidolons!",
+      "url": "https://sr.mihoyo.com/news/167300",
+      "status": "active",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "official_time": "●活动时间：4.7版本更新后 - 2026/12/23 03:59",
+        "start_time": "版本更新后",
+        "end_time": "2026-12-23 03:59",
+        "official_notice": "4.7版本「此刻，将群星付之一笑」版本更新说明"
+      },
+      "details_en": {
+        "official_time": "2026-11-11 – 2026-12-23 03:59",
+        "start_time": "After the version update",
+        "end_time": "2026-12-23 03:59",
+        "English name status": "verified bilingual announcement; mainland timing preserved",
+        "English source": "https://hsr.hoyoverse.com/en-us/news/167246"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "activity",
+        "source_content_id": "167300",
+        "source_title": "4.7版本「此刻，将群星付之一笑」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/167300",
+        "version": "4.7",
+        "activity_name": "万象和鸣"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-167300-maintenance",
+      "name": "崩坏：星穹铁道 4.7 版本维护更新",
+      "name_en": "Honkai: Star Rail · Version 4.7 \"Now, Lay Laughter to All Stars\" Update Details",
+      "date": "2026-11-11",
+      "end_date": "2026-11-11",
+      "time": "06:00",
+      "end_time": "11:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 官方版本维护更新。",
+      "description_en": "In the maddening silence, a voice said: \"Laugh, and let THEM hear your existence.\" And thus, the stars were silent no more, pouring all their radiance into a single burst of laughter.",
+      "url": "https://sr.mihoyo.com/news/167300",
+      "status": "completed",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/11/11 06:00 预计5个小时"
+      },
+      "details_en": {
+        "official_time": "2026-11-11 06:00 – 2026-11-11 11:00",
+        "official_notice": "Version 4.7 \"Now, Lay Laughter to All Stars\" Update Details",
+        "English source": "https://hsr.hoyoverse.com/en-us/news/167246",
+        "English source ID": "167246",
+        "English original title": "Version 4.7 \"Now, Lay Laughter to All Stars\" Update Details",
+        "English name status": "official announcement; mainland timing preserved"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "maintenance",
+        "source_content_id": "167300",
+        "source_title": "4.7版本「此刻，将群星付之一笑」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/167300",
+        "version": "4.7"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-167300-version",
+      "name": "崩坏：星穹铁道 4.7 版本周期",
+      "name_en": "Honkai: Star Rail · Version 4.7 \"Now, Lay Laughter to All Stars\" Update Details",
+      "date": "2026-11-11",
+      "end_date": "2026-12-23",
+      "end_time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "崩坏：星穹铁道 4.7 版本周期",
+      "description_en": "In the maddening silence, a voice said: \"Laugh, and let THEM hear your existence.\" And thus, the stars were silent no more, pouring all their radiance into a single burst of laughter.",
+      "url": "https://sr.mihoyo.com/news/167300",
+      "status": "active",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "official_time": "4.7版本的持续时间为 2026/11/11 4.7版本更新后 - 2026/12/23 06:00。",
+        "start_time": "版本更新后",
+        "end_time": "2026-12-23 06:00"
+      },
+      "details_en": {
+        "official_time": "2026-11-11 – 2026-12-23 06:00",
+        "start_time": "After the version update",
+        "end_time": "2026-12-23 06:00",
+        "official_notice": "Version 4.7 \"Now, Lay Laughter to All Stars\" Update Details",
+        "English source": "https://hsr.hoyoverse.com/en-us/news/167246",
+        "English source ID": "167246",
+        "English original title": "Version 4.7 \"Now, Lay Laughter to All Stars\" Update Details",
+        "English name status": "official announcement; mainland timing preserved"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "version",
+        "source_content_id": "167300",
+        "source_title": "4.7版本「此刻，将群星付之一笑」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/167300",
+        "version": "4.7"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-167300-activity-57daec557fef",
+      "name": "崩坏：星穹铁道 末日幻影•领航冥茫",
+      "name_en": "Honkai: Star Rail · Apocalyptic Shadow: Navigator's Netherveil",
+      "date": "2026-11-16",
+      "end_date": "2026-12-28",
+      "time": "04:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "拥有【坚防守备】的敌方目标被弱点击破时，使我方全体目标解除控制状态并激活终结技。",
+      "description_en": "When an enemy target with \"Steadfast Safeguard\" is Weakness Broken, dispel control debuffs for all ally targets and activate their Ultimates.",
+      "url": "https://sr.mihoyo.com/news/167300",
+      "status": "confirmed",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/11/16 04:00 - 2026/12/28 03:59",
+        "official_notice": "4.7版本「此刻，将群星付之一笑」版本更新说明"
+      },
+      "details_en": {
+        "official_time": "2026-11-16 04:00 – 2026-12-28 03:59",
+        "English name status": "verified bilingual announcement; mainland timing preserved",
+        "English source": "https://hsr.hoyoverse.com/en-us/news/167246"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "activity",
+        "source_content_id": "167300",
+        "source_title": "4.7版本「此刻，将群星付之一笑」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/167300",
+        "version": "4.7",
+        "activity_name": "末日幻影•领航冥茫"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-167300-activity-9ba226ff2be8",
+      "name": "崩坏：星穹铁道 虚构叙事•虚事成理",
+      "name_en": "Honkai: Star Rail · Pure Fiction: Fiction Made Truth",
+      "date": "2026-11-30",
+      "end_date": "2027-01-11",
+      "time": "04:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "每次获得笑点时，使我方额外积累2点「战意值」。",
+      "description_en": "Each time Punchline is gained, allies will additionally accumulate 2 Grit Value.",
+      "url": "https://sr.mihoyo.com/news/167300",
+      "status": "confirmed",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/11/30 04:00 - 2027/01/11 03:59",
+        "official_notice": "4.7版本「此刻，将群星付之一笑」版本更新说明"
+      },
+      "details_en": {
+        "official_time": "2026-11-30 04:00 – 2027-01-11 03:59",
+        "English name status": "verified bilingual announcement; mainland timing preserved",
+        "English source": "https://hsr.hoyoverse.com/en-us/news/167246"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "activity",
+        "source_content_id": "167300",
+        "source_title": "4.7版本「此刻，将群星付之一笑」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/167300",
+        "version": "4.7",
+        "activity_name": "虚构叙事•虚事成理"
+      }
+    },
+    {
+      "id": "honkai-star-rail-2026-167300-activity-305e6d283fce",
+      "name": "崩坏：星穹铁道 混沌回忆•漆黑残响",
+      "name_en": "Honkai: Star Rail · Memory of Chaos: Echo of Darkness",
+      "date": "2026-12-14",
+      "end_date": "2027-01-25",
+      "time": "04:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "我方全体目标造成的普攻伤害提高50%，我方角色施放普攻后为【记忆紊流】增加1段攻击段数，最多增加15段。",
+      "description_en": "Increases Basic ATK DMG dealt by all ally targets by 50%. After an ally character uses their Basic ATK, adds 1 Hit Per Action to \"Memory Turbulence,\" up to a maximum of 15 hits.",
+      "url": "https://sr.mihoyo.com/news/167300",
+      "status": "confirmed",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/12/14 04:00 - 2027/01/25 03:59",
+        "official_notice": "4.7版本「此刻，将群星付之一笑」版本更新说明"
+      },
+      "details_en": {
+        "official_time": "2026-12-14 04:00 – 2027-01-25 03:59",
+        "English name status": "verified bilingual announcement; mainland timing preserved",
+        "English source": "https://hsr.hoyoverse.com/en-us/news/167246"
+      },
+      "game": {
+        "game_id": "honkai-star-rail",
+        "provider": "hoyoverse",
+        "source_kind": "activity",
+        "source_content_id": "167300",
+        "source_title": "4.7版本「此刻，将群星付之一笑」版本更新说明",
+        "source_url": "https://sr.mihoyo.com/news/167300",
+        "version": "4.7",
+        "activity_name": "混沌回忆•漆黑残响"
       }
     }
   ]

@@ -14,7 +14,7 @@
     },
     "fgo": {
       "category": "gaming",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "outcome": "updated"
     },
     "tw-public-holidays": {
@@ -180,28 +180,30 @@
     "arknights": {
       "category": "gaming",
       "checked_at": "2026-11-11",
-      "outcome": "failed",
-      "last_error": "arknights: English translation needed for 明日方舟 卫戍寻访01 寻访"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://prts.wiki/api.php?action=parse&page=%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88&prop=wikitext&format=json (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 113.215.245.19:443, 113.215.245.20:443, 113.215.245.21:443, 113.215.245.22:443, 113.215.245.23:443, 113.215.245.16:443, 113.215.245.17:443, 113.215.245.18:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 113.215.245.19:443, 113.215.245.20:443, 113.215.245.21:443, 113.215.245.22:443, 113.215.245.23:443, 113.215.245.16:443, 113.215.245.17:443, 113.215.245.18:443, timeout: 10000ms)"
     },
     "cs2-tournaments": {
       "category": "gaming",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "outcome": "updated"
     },
     "epic-free": {
       "category": "gaming",
-      "checked_at": "2026-11-11",
-      "outcome": "updated"
+      "checked_at": "2026-11-12",
+      "outcome": "unchanged"
     },
     "kpl": {
       "category": "gaming",
       "checked_at": "2026-11-11",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: https://api.pandascore.co/kog/leagues?page%5Bnumber%5D=1&page%5Bsize%5D=100"
     },
     "lpl": {
       "category": "gaming",
       "checked_at": "2026-11-11",
-      "outcome": "updated"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: https://api.pandascore.co/lol/matches?filter%5Bleague_id%5D=294&range%5Bbegin_at%5D=2026-01-01%2C2099-12-31&page%5Bnumber%5D=1&page%5Bsize%5D=100&sort=begin_at"
     },
     "console-showcases": {
       "category": "gaming",
@@ -210,35 +212,33 @@
     },
     "genshin-impact": {
       "category": "gaming",
-      "checked_at": "2026-11-11",
-      "outcome": "skipped",
-      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/16471662a82d418a/getContentList?iAppId=43&iChanId=721&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed)"
+      "checked_at": "2026-11-12",
+      "outcome": "updated"
     },
     "honkai-star-rail": {
       "category": "gaming",
-      "checked_at": "2026-11-11",
-      "outcome": "skipped",
-      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/1963de8dc19e461c/getContentList?iChanId=255&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed)"
+      "checked_at": "2026-11-12",
+      "outcome": "updated"
     },
     "zenless-zone-zero": {
       "category": "gaming",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "outcome": "updated"
     },
     "rawg-releases": {
       "category": "gaming",
       "checked_at": "2026-11-02",
       "outcome": "skipped",
-      "last_error": "HTTP 522: https://api.rawg.io/api/games?key=***&dates=2026-11-11%2C2026-11-30&platforms=4%2C187%2C18%2C1%2C7%2C3%2C21&ordering=released&page_size=40&page=1"
+      "last_error": "HTTP 522: https://api.rawg.io/api/games?key=***&dates=2026-11-12%2C2026-11-30&platforms=4%2C187%2C18%2C1%2C7%2C3%2C21&ordering=released&page_size=40&page=1"
     },
     "steam-sales": {
       "category": "gaming",
-      "checked_at": "2026-11-11",
-      "outcome": "updated"
+      "checked_at": "2026-11-12",
+      "outcome": "unchanged"
     },
     "wuthering-waves": {
       "category": "gaming",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "outcome": "updated"
     },
     "accounting-qualification": {
@@ -410,17 +410,20 @@
     "dota2-esports": {
       "category": "gaming",
       "checked_at": "2026-11-11",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: PandaScore /dota2/matches"
     },
     "lol-international": {
       "category": "gaming",
       "checked_at": "2026-11-11",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: PandaScore /lol/leagues"
     },
     "valorant-esports": {
       "category": "gaming",
       "checked_at": "2026-11-11",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: PandaScore /valorant/leagues"
     }
   }
 }
