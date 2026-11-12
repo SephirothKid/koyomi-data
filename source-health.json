@@ -15,7 +15,7 @@
     "fgo": {
       "category": "gaming",
       "checked_at": "2026-11-12",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "tw-public-holidays": {
       "category": "holidays",
@@ -179,9 +179,8 @@
     },
     "arknights": {
       "category": "gaming",
-      "checked_at": "2026-11-11",
-      "outcome": "skipped",
-      "last_error": "fetch failed: https://prts.wiki/api.php?action=parse&page=%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88&prop=wikitext&format=json (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 113.215.245.19:443, 113.215.245.20:443, 113.215.245.21:443, 113.215.245.22:443, 113.215.245.23:443, 113.215.245.16:443, 113.215.245.17:443, 113.215.245.18:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 113.215.245.19:443, 113.215.245.20:443, 113.215.245.21:443, 113.215.245.22:443, 113.215.245.23:443, 113.215.245.16:443, 113.215.245.17:443, 113.215.245.18:443, timeout: 10000ms)"
+      "checked_at": "2026-11-12",
+      "outcome": "updated"
     },
     "cs2-tournaments": {
       "category": "gaming",
@@ -213,17 +212,20 @@
     "genshin-impact": {
       "category": "gaming",
       "checked_at": "2026-11-12",
-      "outcome": "updated"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/16471662a82d418a/getContentList?iAppId=43&iChanId=721&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 59.108.140.9:443, 59.108.140.8:443, 59.108.140.11:443, 59.108.140.7:443, 59.108.140.6:443, 59.108.140.12:443, 59.108.140.13:443, 59.108.140.10:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 59.108.140.9:443, 59.108.140.8:443, 59.108.140.11:443, 59.108.140.7:443, 59.108.140.6:443, 59.108.140.12:443, 59.108.140.13:443, 59.108.140.10:443, timeout: 10000ms)"
     },
     "honkai-star-rail": {
       "category": "gaming",
       "checked_at": "2026-11-12",
-      "outcome": "updated"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/1963de8dc19e461c/getContentList?iChanId=255&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 59.108.140.10:443, 59.108.140.11:443, 59.108.140.6:443, 59.108.140.9:443, 59.108.140.13:443, 59.108.140.8:443, 59.108.140.7:443, 59.108.140.12:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 59.108.140.10:443, 59.108.140.11:443, 59.108.140.6:443, 59.108.140.9:443, 59.108.140.13:443, 59.108.140.8:443, 59.108.140.7:443, 59.108.140.12:443, timeout: 10000ms)"
     },
     "zenless-zone-zero": {
       "category": "gaming",
       "checked_at": "2026-11-12",
-      "outcome": "updated"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/706fd13a87294881/getContentList?iChanId=279&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 58.30.205.36:443, 58.30.205.19:443, 58.30.205.20:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 58.30.205.36:443, 58.30.205.19:443, 58.30.205.20:443, timeout: 10000ms)"
     },
     "rawg-releases": {
       "category": "gaming",
@@ -239,7 +241,7 @@
     "wuthering-waves": {
       "category": "gaming",
       "checked_at": "2026-11-12",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "accounting-qualification": {
       "category": "exam",

@@ -11,7 +11,7 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:arknights-arknights-2026-定向甄选08-banner@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261112T000000
 DTSTART;TZID=Asia/Shanghai:20260929T160000
 DTEND;TZID=Asia/Shanghai:20261013T035900
 SUMMARY:明日方舟寻访日历 · 明日方舟 定向甄选08 寻访
@@ -25,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arknights-arknights-2026-海渊巡游-banner@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261112T000000
 DTSTART;TZID=Asia/Shanghai:20261009T120000
 DTEND;TZID=Asia/Shanghai:20261023T035900
 SUMMARY:明日方舟寻访日历 · 明日方舟 海渊巡游 寻访
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 UID:arknights-arknights-2026-限定寻访庆典将雪投火-banner@koyomi.
  cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261112T000000
 DTSTART;TZID=Asia/Shanghai:20261101T120000
 DTEND;TZID=Asia/Shanghai:20261115T035900
 SUMMARY:明日方舟寻访日历 · 明日方舟 【限定寻访·庆典
@@ -55,6 +55,22 @@ DESCRIPTION:明日方舟限定寻访「【限定寻访·庆典】将雪投
 CATEGORIES:明日方舟寻访日历
 URL;VALUE=URI:https://prts.wiki/w/%E3%80%90%E9%99%90%E5%AE%9A%E5%AF%BB%E8%
  AE%BF%C2%B7%E5%BA%86%E5%85%B8%E3%80%91%E5%B0%86%E9%9B%AA%E6%8A%95%E7%81%AB
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arknights-arknights-2026-卫戍寻访01-banner@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261112T000000
+DTSTART;TZID=Asia/Shanghai:20261108T160000
+DTEND;TZID=Asia/Shanghai:20261202T035900
+SUMMARY:明日方舟寻访日历 · 明日方舟 卫戍寻访01 寻访
+DESCRIPTION:明日方舟寻访「卫戍寻访01」。\n\n版本: 卫戍寻
+ 访01\n类型: banner\n\n卡池信息：\n1. 卫戍寻访01（干员）\n6
+ 星 UP: Mon3tr / 烛煌 / 真言 / 逻各斯 / 乌尔比安 / 引星棘刺
+  / 锏 / 玛恩纳 / 忍冬 / 白铁\n\n来源: https://prts.wiki/w/%E5%8D
+ %AB%E6%88%8D%E5%AF%BB%E8%AE%BF01
+CATEGORIES:明日方舟寻访日历
+URL;VALUE=URI:https://prts.wiki/w/%E5%8D%AB%E6%88%8D%E5%AF%BB%E8%AE%BF01
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

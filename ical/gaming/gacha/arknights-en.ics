@@ -11,7 +11,7 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:arknights-arknights-2026-定向甄选08-banner@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261112T000000
 DTSTART;TZID=Asia/Shanghai:20260929T160000
 DTEND;TZID=Asia/Shanghai:20261013T035900
 SUMMARY:Arknights Headhunting Calendar · Arknights Directional Selection 
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arknights-arknights-2026-海渊巡游-banner@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261112T000000
 DTSTART;TZID=Asia/Shanghai:20261009T120000
 DTEND;TZID=Asia/Shanghai:20261023T035900
 SUMMARY:Arknights Headhunting Calendar · Arknights Voyage Through the Aby
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 UID:arknights-arknights-2026-限定寻访庆典将雪投火-banner@koyomi.
  cast
 SEQUENCE:0
-DTSTAMP:20261104T000000
+DTSTAMP:20261112T000000
 DTSTART;TZID=Asia/Shanghai:20261101T120000
 DTEND;TZID=Asia/Shanghai:20261115T035900
 SUMMARY:Arknights Headhunting Calendar · Arknights Limited Headhunting: C
@@ -56,6 +56,24 @@ DESCRIPTION:Arknights Limited Headhunting: Celebration — Cast Snow into
 CATEGORIES:Arknights Headhunting Calendar
 URL;VALUE=URI:https://prts.wiki/w/%E3%80%90%E9%99%90%E5%AE%9A%E5%AF%BB%E8%
  AE%BF%C2%B7%E5%BA%86%E5%85%B8%E3%80%91%E5%B0%86%E9%9B%AA%E6%8A%95%E7%81%AB
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arknights-arknights-2026-卫戍寻访01-banner@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261112T000000
+DTSTART;TZID=Asia/Shanghai:20261108T160000
+DTEND;TZID=Asia/Shanghai:20261202T035900
+SUMMARY:Arknights Headhunting Calendar · Arknights CN headhunting campaig
+ n — 2026-11-08
+DESCRIPTION:Arknights CN headhunting campaign — 2026-11-08. The banner t
+ itle is available in the original Chinese announcement.\n\nType: banner\n\
+ nBanners:\n1. CN headhunting campaign — 2026-11-08 (Operator)\n6-star ra
+ te-up: Mon3tr / Blaze the Igniting Spark / Logos / Ulpianus / Thorns the L
+ odestar / Degenbrecher / Młynar / Vulpisfoglia / Stainless\n\nSource: htt
+ ps://prts.wiki/w/%E5%8D%AB%E6%88%8D%E5%AF%BB%E8%AE%BF01
+CATEGORIES:Arknights Headhunting Calendar
+URL;VALUE=URI:https://prts.wiki/w/%E5%8D%AB%E6%88%8D%E5%AF%BB%E8%AE%BF01
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
