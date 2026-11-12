@@ -18,6 +18,10 @@ const LEGACY_ICAL_ALIASES = {
 
 // source.id → subcategory 映射（用于 ical 目录细分）
 const SUBCATEGORY_MAP = {
+  // Holiday subscriptions retain the category-root URL used by existing regions.
+  'mo-public-holidays': null,
+  'ph-public-holidays': null,
+  'nz-public-holidays': null,
   // football
   epl: 'football',
   laliga: 'football',
@@ -580,7 +584,7 @@ function createCalendar(source, events, options = {}) {
       summary,
       description: descParts.filter(Boolean).join('\n\n'),
       url: event.url ?? source.source_url ?? `https://koyomi.cast/sources/${source.id}`,
-      status: event.status === 'cancelled' ? 'CANCELLED' : 'CONFIRMED',
+      status: event.status === 'cancelled' ? 'CANCELLED' : event.status === 'planned' ? 'TENTATIVE' : 'CONFIRMED',
       categories: [{ name: options.calendarName ?? sourceName(source, isEn) }],
     }
     cal.createEvent(calendarEvent)

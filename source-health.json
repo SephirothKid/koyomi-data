@@ -63,8 +63,8 @@
     },
     "id-public-holidays": {
       "category": "holidays",
-      "checked_at": "2026-11-09",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-12",
+      "outcome": "updated"
     },
     "jp-public-holidays": {
       "category": "holidays",
@@ -73,8 +73,8 @@
     },
     "kr-public-holidays": {
       "category": "holidays",
-      "checked_at": "2026-11-09",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-12",
+      "outcome": "updated"
     },
     "sg-public-holidays": {
       "category": "holidays",
@@ -88,8 +88,8 @@
     },
     "vn-public-holidays": {
       "category": "holidays",
-      "checked_at": "2026-11-09",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-12",
+      "outcome": "updated"
     },
     "bundesliga": {
       "category": "sports",
@@ -424,6 +424,21 @@
       "checked_at": "2026-11-11",
       "outcome": "skipped",
       "last_error": "HTTP 429: PandaScore /valorant/leagues"
+    },
+    "mo-public-holidays": {
+      "category": "holidays",
+      "checked_at": "2026-11-12",
+      "outcome": "updated"
+    },
+    "nz-public-holidays": {
+      "category": "holidays",
+      "checked_at": "2026-11-12",
+      "outcome": "updated"
+    },
+    "ph-public-holidays": {
+      "category": "holidays",
+      "checked_at": "2026-11-12",
+      "outcome": "updated"
     }
   }
 }

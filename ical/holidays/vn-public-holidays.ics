@@ -4,36 +4,52 @@ PRODID:-//Koyomi Cast//vn-public-holidays//EN
 URL:https://koyomi.cast/sources/vn-public-holidays
 NAME:越南公众假期
 X-WR-CALNAME:越南公众假期
-X-WR-CALDESC:越南政府公布的公众假期安排，包含传统节日
- 和法定假日。
+X-WR-CALDESC:越南公众假期及公共部门春节、国庆假期安排
+ ，私人企业放假方案可能不同。
 TIMEZONE-ID:Asia/Ho_Chi_Minh
 X-WR-TIMEZONE:Asia/Ho_Chi_Minh
+BEGIN:VEVENT
+UID:vn-public-holidays-vn-holiday-2026-vietnam-culture-day-11-24-public@ko
+ yomi.cast
+SEQUENCE:0
+DTSTAMP:20261112T000000
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:越南公众假期 · Ngày Văn hóa Việt Nam
+DESCRIPTION:Ngày Văn hóa Việt Nam（越南公众假期）\n\n假期
+ 类型: Public\n全国通用: 是\n\n来源: https://xaydungchinhsach.chin
+ hphu.vn/ngay-24-11-hang-nam-la-ngay-van-hoa-viet-nam-nguoi-lao-dong-duoc-n
+ ghi-huong-nguyen-luong-119260113152642414.htm
+CATEGORIES:越南公众假期
+URL;VALUE=URI:https://xaydungchinhsach.chinhphu.vn/ngay-24-11-hang-nam-la-
+ ngay-van-hoa-viet-nam-nguoi-lao-dong-duoc-nghi-huong-nguyen-luong-11926011
+ 3152642414.htm
+STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:vn-public-holidays-vn-holiday-2027-new-years-day-01-01-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:越南公众假期 · Tết dương lịch
 DESCRIPTION:Tết dương lịch（越南公众假期）\n\n假期类型: 
- Public\n全国通用: 是\n适用说明: Public-sector calendar for a Satu
- rday/Sunday weekend. Private employers choose their Tet and National Day a
- rrangements under the Labour Code.\n\n来源: https://xaydungchinhsach.chi
- nhphu.vn/de-xuat-2-phuong-an-nghi-tet-nguyen-dan-2027-tet-dinh-mui-1192608
- 0513033257.htm
+ Public\n固定日期: 否\n全国通用: 是\n\n来源: https://xaydungchi
+ nhsach.chinhphu.vn/
 CATEGORIES:越南公众假期
-URL;VALUE=URI:https://xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-ngh
- i-tet-nguyen-dan-2027-tet-dinh-mui-11926080513033257.htm
+URL;VALUE=URI:https://xaydungchinhsach.chinhphu.vn/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:vn-public-holidays-vn-holiday-2027-vietnamese-new-year-02-04-public@ko
  yomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270211
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -54,18 +70,16 @@ BEGIN:VEVENT
 UID:vn-public-holidays-vn-holiday-2027-hung-kings-commemoration-day-04-16-
  public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270417
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:越南公众假期 · Giỗ Tổ Hùng Vương
 DESCRIPTION:Giỗ Tổ Hùng Vương（越南公众假期）\n\n假期类
- 型: Public\n全国通用: 是\n适用说明: Public-sector calendar for a
-  Saturday/Sunday weekend. Private employers choose their Tet and National 
- Day arrangements under the Labour Code.\n\n来源: https://bvhttdl.gov.vn/
- to-chuc-chuoi-hoat-dong-van-hoa-nghe-thuat-dip-gio-to-hung-vuong-nam-2027-
- 20260228171220680.htm
+ 型: Public\n全国通用: 是\n\n来源: https://bvhttdl.gov.vn/to-chuc-c
+ huoi-hoat-dong-van-hoa-nghe-thuat-dip-gio-to-hung-vuong-nam-2027-202602281
+ 71220680.htm
 CATEGORIES:越南公众假期
 URL;VALUE=URI:https://bvhttdl.gov.vn/to-chuc-chuoi-hoat-dong-van-hoa-nghe-
  thuat-dip-gio-to-hung-vuong-nam-2027-20260228171220680.htm
@@ -75,7 +89,7 @@ BEGIN:VEVENT
 UID:vn-public-holidays-vn-holiday-2027-reunification-day-04-30-public@koyo
  mi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -83,62 +97,52 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:越南公众假期 · Ngày Giải phóng miền Nam\, thống nh
  ất đất nước
 DESCRIPTION:Ngày Giải phóng miền Nam\, thống nhất đất nước
- （越南公众假期）\n\n假期类型: Public\n全国通用: 是\n适
- 用说明: Public-sector calendar for a Saturday/Sunday weekend. Private e
- mployers choose their Tet and National Day arrangements under the Labour C
- ode.\n\n来源: https://xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-n
- ghi-tet-nguyen-dan-2027-tet-dinh-mui-11926080513033257.htm
+ （越南公众假期）\n\n假期类型: Public\n固定日期: 否\n全
+ 国通用: 是\n\n来源: https://xaydungchinhsach.chinhphu.vn/
 CATEGORIES:越南公众假期
-URL;VALUE=URI:https://xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-ngh
- i-tet-nguyen-dan-2027-tet-dinh-mui-11926080513033257.htm
+URL;VALUE=URI:https://xaydungchinhsach.chinhphu.vn/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:vn-public-holidays-vn-holiday-2027-labour-day-05-01-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:越南公众假期 · Ngày Quốc tế lao động
 DESCRIPTION:Ngày Quốc tế lao động（越南公众假期）\n\n假
- 期类型: Public\n全国通用: 是\n适用说明: Public-sector calendar
-  for a Saturday/Sunday weekend. Private employers choose their Tet and Nat
- ional Day arrangements under the Labour Code.\n\n来源: https://xaydungch
- inhsach.chinhphu.vn/de-xuat-2-phuong-an-nghi-tet-nguyen-dan-2027-tet-dinh-
- mui-11926080513033257.htm
+ 期类型: Public\n固定日期: 否\n全国通用: 是\n\n来源: https:/
+ /xaydungchinhsach.chinhphu.vn/
 CATEGORIES:越南公众假期
-URL;VALUE=URI:https://xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-ngh
- i-tet-nguyen-dan-2027-tet-dinh-mui-11926080513033257.htm
+URL;VALUE=URI:https://xaydungchinhsach.chinhphu.vn/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:vn-public-holidays-vn-holiday-2027-labour-day-substitute-holiday-05-03
  -public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270503
 DTEND;VALUE=DATE:20270504
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:越南公众假期 · Nghỉ bù Ngày Quốc tế lao động
 DESCRIPTION:Nghỉ bù Ngày Quốc tế lao động（越南公众假期
- ）\n\n假期类型: Public\n全国通用: 是\n适用说明: Public-secto
- r calendar for a Saturday/Sunday weekend. Private employers choose their T
- et and National Day arrangements under the Labour Code.\n\n来源: https:/
- /xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-nghi-tet-nguyen-dan-2027
- -tet-dinh-mui-11926080513033257.htm
+ ）\n\n假期类型: Public\n固定日期: 否\n全国通用: 是\n适用
+ 说明: Public-sector calendar for a Saturday/Sunday weekend. Private empl
+ oyers choose their Tet and National Day arrangements under the Labour Code
+ .\n\n来源: https://xaydungchinhsach.chinhphu.vn/
 CATEGORIES:越南公众假期
-URL;VALUE=URI:https://xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-ngh
- i-tet-nguyen-dan-2027-tet-dinh-mui-11926080513033257.htm
+URL;VALUE=URI:https://xaydungchinhsach.chinhphu.vn/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:vn-public-holidays-vn-holiday-2027-national-day-09-02-public@koyomi.ca
  st
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270902
 DTEND;VALUE=DATE:20270906
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -153,6 +157,26 @@ DESCRIPTION:Quốc khánh（越南公众假期）\n\n假期类型: Public\
 CATEGORIES:越南公众假期
 URL;VALUE=URI:https://xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-ngh
  i-tet-nguyen-dan-2027-tet-dinh-mui-11926080513033257.htm
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:vn-public-holidays-vn-holiday-2027-vietnam-culture-day-11-24-public@ko
+ yomi.cast
+SEQUENCE:0
+DTSTAMP:20261112T000000
+DTSTART;VALUE=DATE:20271124
+DTEND;VALUE=DATE:20271125
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:越南公众假期 · Ngày Văn hóa Việt Nam
+DESCRIPTION:Ngày Văn hóa Việt Nam（越南公众假期）\n\n假期
+ 类型: Public\n全国通用: 是\n\n来源: https://xaydungchinhsach.chin
+ hphu.vn/ngay-24-11-hang-nam-la-ngay-van-hoa-viet-nam-nguoi-lao-dong-duoc-n
+ ghi-huong-nguyen-luong-119260113152642414.htm
+CATEGORIES:越南公众假期
+URL;VALUE=URI:https://xaydungchinhsach.chinhphu.vn/ngay-24-11-hang-nam-la-
+ ngay-van-hoa-viet-nam-nguoi-lao-dong-duoc-nghi-huong-nguyen-luong-11926011
+ 3152642414.htm
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

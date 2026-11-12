@@ -4,32 +4,53 @@ PRODID:-//Koyomi Cast//id-public-holidays//EN
 URL:https://koyomi.cast/sources/id-public-holidays
 NAME:Indonesia Public Holidays
 X-WR-CALNAME:Indonesia Public Holidays
-X-WR-CALDESC:Indonesia public holidays, including religious festivals and 
- national holidays.
+X-WR-CALDESC:Indonesia national holidays and collective leave, with privat
+ e-sector applicability identified.
 TIMEZONE-ID:Asia/Jakarta
 X-WR-TIMEZONE:Asia/Jakarta
+BEGIN:VEVENT
+UID:id-public-holidays-id-holiday-2026-christmas-day-collective-leave-12-2
+ 4-optional@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261112T000000
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Indonesia Public Holidays · Christmas Day collective leave
+DESCRIPTION:Christmas Day collective leave (Indonesia Public Holidays)\n\n
+ Holiday types: Optional\nNationwide: Yes\nNotes: Collective leave applies 
+ to civil servants\; private-sector implementation is determined by the emp
+ loyer.\n\nSource: https://www.kemenkopmk.go.id/pemerintah-tetapkan-17-hari
+ -libur-nasional-dan-8-hari-cuti-bersama-tahun-2026
+CATEGORIES:Indonesia Public Holidays
+URL;VALUE=URI:https://www.kemenkopmk.go.id/pemerintah-tetapkan-17-hari-lib
+ ur-nasional-dan-8-hari-cuti-bersama-tahun-2026
+STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2026-christmas-day-12-25-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Indonesia Public Holidays · Christmas Day
 DESCRIPTION:Christmas Day (Indonesia Public Holidays)\n\nHoliday types: Pu
- blic\nFixed date: No\nNationwide: Yes\n\nSource: https://www.kemenkopmk.go
- .id/
+ blic\nNationwide: Yes\n\nSource: https://www.kemenkopmk.go.id/pemerintah-t
+ etapkan-17-hari-libur-nasional-dan-8-hari-cuti-bersama-tahun-2026
 CATEGORIES:Indonesia Public Holidays
-URL;VALUE=URI:https://www.kemenkopmk.go.id/
+URL;VALUE=URI:https://www.kemenkopmk.go.id/pemerintah-tetapkan-17-hari-lib
+ ur-nasional-dan-8-hari-cuti-bersama-tahun-2026
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-new-years-day-01-01-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -47,7 +68,7 @@ BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-isra-and-miraj-01-05-public@koyomi.
  cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -65,7 +86,7 @@ BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-chinese-new-year-collective-leave-0
  2-05-optional@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -85,7 +106,7 @@ BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-chinese-new-year-02-06-public@koyom
  i.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -103,7 +124,7 @@ BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-day-of-silence-03-08-public@koyomi.
  cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -121,7 +142,7 @@ BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-eid-al-fitr-collective-leave-03-09-
  optional@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -141,7 +162,7 @@ BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-eid-al-fitr-03-10-public@koyomi.cas
  t
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -159,7 +180,7 @@ BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-eid-al-fitr-03-11-public@koyomi.cas
  t
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -177,7 +198,7 @@ BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-eid-al-fitr-collective-leave-03-12-
  optional@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -197,7 +218,7 @@ BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-eid-al-fitr-collective-leave-03-15-
  optional@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -217,7 +238,7 @@ BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-good-friday-collective-leave-03-25-
  optional@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -237,7 +258,7 @@ BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-good-friday-03-26-public@koyomi.cas
  t
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -255,7 +276,7 @@ BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-easter-sunday-03-28-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -272,7 +293,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-labour-day-05-01-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -290,7 +311,7 @@ BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-ascension-day-05-06-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -308,7 +329,7 @@ BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-eid-al-adha-05-17-public@koyomi.cas
  t
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270517
 DTEND;VALUE=DATE:20270518
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -326,7 +347,7 @@ BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-eid-al-adha-collective-leave-05-18-
  optional@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270519
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -346,7 +367,7 @@ BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-vesak-day-collective-leave-05-19-op
  tional@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -365,7 +386,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-vesak-day-05-20-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -383,7 +404,7 @@ BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-pancasila-day-06-01-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270602
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -401,7 +422,7 @@ BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-islamic-new-year-06-06-public@koyom
  i.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -419,7 +440,7 @@ BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-prophet-muhammads-birthday-08-15-pu
  blic@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -438,7 +459,7 @@ BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-independence-day-08-17-public@koyom
  i.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270817
 DTEND;VALUE=DATE:20270818
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -456,17 +477,17 @@ BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-christmas-collective-leave-12-24-op
  tional@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20271224
 DTEND;VALUE=DATE:20271225
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Indonesia Public Holidays · Christmas collective leave
-DESCRIPTION:Christmas collective leave (Indonesia Public Holidays)\n\nHoli
- day types: Optional\nNationwide: Yes\nNotes: Collective leave applies to c
- ivil servants\; private-sector implementation is determined by the employe
- r.\n\nSource: https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
- bur-nasional-dan-8-cuti-bersama-tahun-2027
+SUMMARY:Indonesia Public Holidays · Christmas Day collective leave
+DESCRIPTION:Christmas Day collective leave (Indonesia Public Holidays)\n\n
+ Holiday types: Optional\nNationwide: Yes\nNotes: Collective leave applies 
+ to civil servants\; private-sector implementation is determined by the emp
+ loyer.\n\nSource: https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-har
+ i-libur-nasional-dan-8-cuti-bersama-tahun-2027
 CATEGORIES:Indonesia Public Holidays
 URL;VALUE=URI:https://www2.kemenkopmk.go.id/pemerintah-tetapkan-18-hari-li
  bur-nasional-dan-8-cuti-bersama-tahun-2027
@@ -476,7 +497,7 @@ BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-christmas-day-12-25-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20271225
 DTEND;VALUE=DATE:20271226
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -494,7 +515,7 @@ BEGIN:VEVENT
 UID:id-public-holidays-id-holiday-2027-isra-and-miraj-12-26-public@koyomi.
  cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20271226
 DTEND;VALUE=DATE:20271227
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE

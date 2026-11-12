@@ -5,8 +5,8 @@
   "name_en": "Vietnam Public Holidays",
   "subcategory": "公众假期",
   "subcategory_en": "Public Holidays",
-  "description": "越南政府公布的公众假期安排，包含传统节日和法定假日。",
-  "description_en": "Vietnam public holidays, including traditional festivals and national holidays.",
+  "description": "越南公众假期及公共部门春节、国庆假期安排，私人企业放假方案可能不同。",
+  "description_en": "Vietnam public holidays with public-sector Tet and National Day breaks. Private-sector arrangements may differ.",
   "icon": "/logos/holiday/official.png",
   "tags": [
     "越南",
@@ -18,7 +18,7 @@
     "Public Holidays"
   ],
   "maintainer": "official",
-  "source_url": "https://www.molisa.gov.vn/",
+  "source_url": "https://xaydungchinhsach.chinhphu.vn/",
   "subscriber_count": 7000,
   "rating": 4,
   "rating_count": 180,
@@ -138,9 +138,9 @@
       "year": 2026,
       "description": "Tết dương lịch（越南公众假期）",
       "description_en": "New Year's Day (Vietnam Public Holidays)",
-      "url": "https://www.molisa.gov.vn/",
+      "url": "https://xaydungchinhsach.chinhphu.vn/",
       "status": "completed",
-      "last_verified": "2026-11-05",
+      "last_verified": "2026-11-12",
       "verified_by": "auto",
       "details": {
         "假期类型": "Public",
@@ -154,6 +154,82 @@
       }
     },
     {
+      "id": "vn-holiday-2026-vietnamese-new-year-02-14-public",
+      "name": "Tết Nguyên đán",
+      "name_en": "Vietnamese New Year",
+      "date": "2026-02-14",
+      "end_date": "2026-02-22",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "type": "range",
+      "year": 2026,
+      "description": "Tết Nguyên đán（越南公众假期）",
+      "description_en": "Vietnamese New Year (Vietnam Public Holidays)",
+      "url": "https://en.baochinhphu.vn/ministry-of-home-affairs-announces-2026-holiday-schedule-111251017163421877.htm",
+      "status": "completed",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "假期类型": "Public",
+        "全国通用": "是",
+        "适用说明": "Public-sector calendar for a Saturday/Sunday weekend. Private employers choose their Tet and National Day arrangements under the Labour Code."
+      },
+      "details_en": {
+        "Holiday types": "Public",
+        "Nationwide": "Yes",
+        "Notes": "Public-sector calendar for a Saturday/Sunday weekend. Private employers choose their Tet and National Day arrangements under the Labour Code."
+      }
+    },
+    {
+      "id": "vn-holiday-2026-hung-kings-commemoration-day-04-26-public",
+      "name": "Giỗ Tổ Hùng Vương",
+      "name_en": "Hung Kings Commemoration Day",
+      "date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "type": "event",
+      "year": 2026,
+      "description": "Giỗ Tổ Hùng Vương（越南公众假期）",
+      "description_en": "Hung Kings Commemoration Day (Vietnam Public Holidays)",
+      "url": "https://bvhttdl.gov.vn/tcbc-gio-to-hung-vuong-le-hoi-den-hung-va-tuan-van-hoa-du-lich-dat-to-nam-binh-ngo-2026.htm",
+      "status": "completed",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "假期类型": "Public",
+        "全国通用": "是"
+      },
+      "details_en": {
+        "Holiday types": "Public",
+        "Nationwide": "Yes"
+      }
+    },
+    {
+      "id": "vn-holiday-2026-hung-kings-commemoration-day-substitute-holiday-04-27-public",
+      "name": "Nghỉ bù Giỗ Tổ Hùng Vương",
+      "name_en": "Hung Kings Commemoration Day substitute holiday",
+      "date": "2026-04-27",
+      "end_date": "2026-04-27",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "type": "event",
+      "year": 2026,
+      "description": "Nghỉ bù Giỗ Tổ Hùng Vương（越南公众假期）",
+      "description_en": "Hung Kings Commemoration Day substitute holiday (Vietnam Public Holidays)",
+      "url": "https://bvhttdl.gov.vn/tcbc-gio-to-hung-vuong-le-hoi-den-hung-va-tuan-van-hoa-du-lich-dat-to-nam-binh-ngo-2026.htm",
+      "status": "completed",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "假期类型": "Public",
+        "全国通用": "是",
+        "适用说明": "Public-sector calendar for a Saturday/Sunday weekend. Private employers choose their Tet and National Day arrangements under the Labour Code."
+      },
+      "details_en": {
+        "Holiday types": "Public",
+        "Nationwide": "Yes",
+        "Notes": "Public-sector calendar for a Saturday/Sunday weekend. Private employers choose their Tet and National Day arrangements under the Labour Code."
+      }
+    },
+    {
       "id": "vn-holiday-2026-reunification-day-04-30-public",
       "name": "Ngày Giải phóng miền Nam, thống nhất đất nước",
       "name_en": "Reunification Day",
@@ -164,9 +240,9 @@
       "year": 2026,
       "description": "Ngày Giải phóng miền Nam, thống nhất đất nước（越南公众假期）",
       "description_en": "Reunification Day (Vietnam Public Holidays)",
-      "url": "https://www.molisa.gov.vn/",
+      "url": "https://xaydungchinhsach.chinhphu.vn/",
       "status": "completed",
-      "last_verified": "2026-11-05",
+      "last_verified": "2026-11-12",
       "verified_by": "auto",
       "details": {
         "假期类型": "Public",
@@ -190,9 +266,9 @@
       "year": 2026,
       "description": "Ngày Quốc tế lao động（越南公众假期）",
       "description_en": "Labour Day (Vietnam Public Holidays)",
-      "url": "https://www.molisa.gov.vn/",
+      "url": "https://xaydungchinhsach.chinhphu.vn/",
       "status": "completed",
-      "last_verified": "2026-11-05",
+      "last_verified": "2026-11-12",
       "verified_by": "auto",
       "details": {
         "假期类型": "Public",
@@ -209,25 +285,49 @@
       "id": "vn-holiday-2026-national-day-09-02-public",
       "name": "Quốc khánh",
       "name_en": "National Day",
-      "date": "2026-09-02",
+      "date": "2026-08-29",
       "end_date": "2026-09-02",
       "timezone": "Asia/Ho_Chi_Minh",
-      "type": "event",
+      "type": "range",
       "year": 2026,
       "description": "Quốc khánh（越南公众假期）",
       "description_en": "National Day (Vietnam Public Holidays)",
-      "url": "https://www.molisa.gov.vn/",
+      "url": "https://en.baochinhphu.vn/ministry-of-home-affairs-announces-2026-holiday-schedule-111251017163421877.htm",
       "status": "completed",
-      "last_verified": "2026-11-05",
-      "verified_by": "auto",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
       "details": {
         "假期类型": "Public",
-        "固定日期": "否",
+        "全国通用": "是",
+        "适用说明": "Public-sector calendar for a Saturday/Sunday weekend. Private employers choose their Tet and National Day arrangements under the Labour Code."
+      },
+      "details_en": {
+        "Holiday types": "Public",
+        "Nationwide": "Yes",
+        "Notes": "Public-sector calendar for a Saturday/Sunday weekend. Private employers choose their Tet and National Day arrangements under the Labour Code."
+      }
+    },
+    {
+      "id": "vn-holiday-2026-vietnam-culture-day-11-24-public",
+      "name": "Ngày Văn hóa Việt Nam",
+      "name_en": "Vietnam Culture Day",
+      "date": "2026-11-24",
+      "end_date": "2026-11-24",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "type": "event",
+      "year": 2026,
+      "description": "Ngày Văn hóa Việt Nam（越南公众假期）",
+      "description_en": "Vietnam Culture Day (Vietnam Public Holidays)",
+      "url": "https://xaydungchinhsach.chinhphu.vn/ngay-24-11-hang-nam-la-ngay-van-hoa-viet-nam-nguoi-lao-dong-duoc-nghi-huong-nguyen-luong-119260113152642414.htm",
+      "status": "confirmed",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "假期类型": "Public",
         "全国通用": "是"
       },
       "details_en": {
         "Holiday types": "Public",
-        "Fixed date": "No",
         "Nationwide": "Yes"
       }
     },
@@ -242,19 +342,19 @@
       "year": 2027,
       "description": "Tết dương lịch（越南公众假期）",
       "description_en": "New Year's Day (Vietnam Public Holidays)",
-      "url": "https://xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-nghi-tet-nguyen-dan-2027-tet-dinh-mui-11926080513033257.htm",
+      "url": "https://xaydungchinhsach.chinhphu.vn/",
       "status": "confirmed",
-      "last_verified": "2026-11-05",
-      "verified_by": "official",
+      "last_verified": "2026-11-12",
+      "verified_by": "auto",
       "details": {
         "假期类型": "Public",
-        "全国通用": "是",
-        "适用说明": "Public-sector calendar for a Saturday/Sunday weekend. Private employers choose their Tet and National Day arrangements under the Labour Code."
+        "固定日期": "否",
+        "全国通用": "是"
       },
       "details_en": {
         "Holiday types": "Public",
-        "Nationwide": "Yes",
-        "Notes": "Public-sector calendar for a Saturday/Sunday weekend. Private employers choose their Tet and National Day arrangements under the Labour Code."
+        "Fixed date": "No",
+        "Nationwide": "Yes"
       }
     },
     {
@@ -270,7 +370,7 @@
       "description_en": "Vietnamese New Year (Vietnam Public Holidays)",
       "url": "https://xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-nghi-tet-nguyen-dan-2027-tet-dinh-mui-11926080513033257.htm",
       "status": "confirmed",
-      "last_verified": "2026-11-05",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "假期类型": "Public",
@@ -296,17 +396,15 @@
       "description_en": "Hung Kings Commemoration Day (Vietnam Public Holidays)",
       "url": "https://bvhttdl.gov.vn/to-chuc-chuoi-hoat-dong-van-hoa-nghe-thuat-dip-gio-to-hung-vuong-nam-2027-20260228171220680.htm",
       "status": "confirmed",
-      "last_verified": "2026-11-05",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "假期类型": "Public",
-        "全国通用": "是",
-        "适用说明": "Public-sector calendar for a Saturday/Sunday weekend. Private employers choose their Tet and National Day arrangements under the Labour Code."
+        "全国通用": "是"
       },
       "details_en": {
         "Holiday types": "Public",
-        "Nationwide": "Yes",
-        "Notes": "Public-sector calendar for a Saturday/Sunday weekend. Private employers choose their Tet and National Day arrangements under the Labour Code."
+        "Nationwide": "Yes"
       }
     },
     {
@@ -320,19 +418,19 @@
       "year": 2027,
       "description": "Ngày Giải phóng miền Nam, thống nhất đất nước（越南公众假期）",
       "description_en": "Reunification Day (Vietnam Public Holidays)",
-      "url": "https://xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-nghi-tet-nguyen-dan-2027-tet-dinh-mui-11926080513033257.htm",
+      "url": "https://xaydungchinhsach.chinhphu.vn/",
       "status": "confirmed",
-      "last_verified": "2026-11-05",
-      "verified_by": "official",
+      "last_verified": "2026-11-12",
+      "verified_by": "auto",
       "details": {
         "假期类型": "Public",
-        "全国通用": "是",
-        "适用说明": "Public-sector calendar for a Saturday/Sunday weekend. Private employers choose their Tet and National Day arrangements under the Labour Code."
+        "固定日期": "否",
+        "全国通用": "是"
       },
       "details_en": {
         "Holiday types": "Public",
-        "Nationwide": "Yes",
-        "Notes": "Public-sector calendar for a Saturday/Sunday weekend. Private employers choose their Tet and National Day arrangements under the Labour Code."
+        "Fixed date": "No",
+        "Nationwide": "Yes"
       }
     },
     {
@@ -346,19 +444,19 @@
       "year": 2027,
       "description": "Ngày Quốc tế lao động（越南公众假期）",
       "description_en": "Labour Day (Vietnam Public Holidays)",
-      "url": "https://xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-nghi-tet-nguyen-dan-2027-tet-dinh-mui-11926080513033257.htm",
+      "url": "https://xaydungchinhsach.chinhphu.vn/",
       "status": "confirmed",
-      "last_verified": "2026-11-05",
-      "verified_by": "official",
+      "last_verified": "2026-11-12",
+      "verified_by": "auto",
       "details": {
         "假期类型": "Public",
-        "全国通用": "是",
-        "适用说明": "Public-sector calendar for a Saturday/Sunday weekend. Private employers choose their Tet and National Day arrangements under the Labour Code."
+        "固定日期": "否",
+        "全国通用": "是"
       },
       "details_en": {
         "Holiday types": "Public",
-        "Nationwide": "Yes",
-        "Notes": "Public-sector calendar for a Saturday/Sunday weekend. Private employers choose their Tet and National Day arrangements under the Labour Code."
+        "Fixed date": "No",
+        "Nationwide": "Yes"
       }
     },
     {
@@ -372,17 +470,19 @@
       "year": 2027,
       "description": "Nghỉ bù Ngày Quốc tế lao động（越南公众假期）",
       "description_en": "Labour Day substitute holiday (Vietnam Public Holidays)",
-      "url": "https://xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-nghi-tet-nguyen-dan-2027-tet-dinh-mui-11926080513033257.htm",
+      "url": "https://xaydungchinhsach.chinhphu.vn/",
       "status": "confirmed",
-      "last_verified": "2026-11-05",
-      "verified_by": "official",
+      "last_verified": "2026-11-12",
+      "verified_by": "auto",
       "details": {
         "假期类型": "Public",
+        "固定日期": "否",
         "全国通用": "是",
         "适用说明": "Public-sector calendar for a Saturday/Sunday weekend. Private employers choose their Tet and National Day arrangements under the Labour Code."
       },
       "details_en": {
         "Holiday types": "Public",
+        "Fixed date": "No",
         "Nationwide": "Yes",
         "Notes": "Public-sector calendar for a Saturday/Sunday weekend. Private employers choose their Tet and National Day arrangements under the Labour Code."
       }
@@ -400,7 +500,7 @@
       "description_en": "National Day (Vietnam Public Holidays)",
       "url": "https://xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-nghi-tet-nguyen-dan-2027-tet-dinh-mui-11926080513033257.htm",
       "status": "confirmed",
-      "last_verified": "2026-11-05",
+      "last_verified": "2026-11-12",
       "verified_by": "official",
       "details": {
         "假期类型": "Public",
@@ -412,7 +512,31 @@
         "Nationwide": "Yes",
         "Notes": "Public-sector calendar for a Saturday/Sunday weekend. Private employers choose their Tet and National Day arrangements under the Labour Code."
       }
+    },
+    {
+      "id": "vn-holiday-2027-vietnam-culture-day-11-24-public",
+      "name": "Ngày Văn hóa Việt Nam",
+      "name_en": "Vietnam Culture Day",
+      "date": "2027-11-24",
+      "end_date": "2027-11-24",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "type": "event",
+      "year": 2027,
+      "description": "Ngày Văn hóa Việt Nam（越南公众假期）",
+      "description_en": "Vietnam Culture Day (Vietnam Public Holidays)",
+      "url": "https://xaydungchinhsach.chinhphu.vn/ngay-24-11-hang-nam-la-ngay-van-hoa-viet-nam-nguoi-lao-dong-duoc-nghi-huong-nguyen-luong-119260113152642414.htm",
+      "status": "confirmed",
+      "last_verified": "2026-11-12",
+      "verified_by": "official",
+      "details": {
+        "假期类型": "Public",
+        "全国通用": "是"
+      },
+      "details_en": {
+        "Holiday types": "Public",
+        "Nationwide": "Yes"
+      }
     }
   ],
-  "last_updated": "2026-11-05"
+  "last_updated": "2026-11-12"
 }

@@ -4,453 +4,486 @@ PRODID:-//Koyomi Cast//kr-public-holidays//EN
 URL:https://koyomi.cast/sources/kr-public-holidays
 NAME:韩国公众假期
 X-WR-CALNAME:韩国公众假期
-X-WR-CALDESC:韩国政府公布的公休日安排，包含传统节日和
- 法定假日。
+X-WR-CALDESC:韩国天文研究院日历资料，包含传统节日及补
+ 假；尚未核实最终公告的未来日期标记为待确认。
 TIMEZONE-ID:Asia/Seoul
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2026-christmas-day-12-25-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:韩国公众假期 · 크리스마스
-DESCRIPTION:크리스마스（韩国公众假期）\n\n假期类型: Publi
- c\n固定日期: 否\n全国通用: 是\n\n来源: https://www.mois.go.kr/
- frt/bbs/type010/commonSelectBoardList.do?bbsId=BBSMSTR_000000000015
+SUMMARY:韩国公众假期 · 기독탄신일
+DESCRIPTION:기독탄신일（韩国公众假期）\n\n假期类型: Publi
+ c\n全国通用: 是\n适用说明: KASI calendar reference. This table is
+  not a final government holiday notice\; future dates remain provisional.\
+ n\n来源: https://astro.kasi.re.kr/kor/life/post/calendarData?year=2026
 CATEGORIES:韩国公众假期
-URL;VALUE=URI:https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardList
- .do?bbsId=BBSMSTR_000000000015
-STATUS:CONFIRMED
+URL;VALUE=URI:https://astro.kasi.re.kr/kor/life/post/calendarData?year=202
+ 6
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-new-years-day-01-01-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:韩国公众假期 · 새해
-DESCRIPTION:새해（韩国公众假期）\n\n假期类型: Public\n全国
- 通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01
- _01_04/view.do?plcyBrfNo=431
+SUMMARY:韩国公众假期 · 1월 1일
+DESCRIPTION:1월 1일（韩国公众假期）\n\n假期类型: Public\n全
+ 国通用: 是\n适用说明: KASI calendar reference. This table is not a
+  final government holiday notice\; future dates remain provisional.\n\n来
+ 源: https://astro.kasi.re.kr/kor/life/post/calendarData?year=2027
 CATEGORIES:韩国公众假期
-URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
- ew.do?plcyBrfNo=431
-STATUS:CONFIRMED
+URL;VALUE=URI:https://astro.kasi.re.kr/kor/life/post/calendarData?year=202
+ 7
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-lunar-new-year-02-06-public@koyomi.
  cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:韩国公众假期 · 설날 연휴
-DESCRIPTION:설날 연휴（韩国公众假期）\n\n假期类型: Public\
- n全国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/ko
- r/sub01_01_04/view.do?plcyBrfNo=431
+SUMMARY:韩国公众假期 · 설날
+DESCRIPTION:설날（韩国公众假期）\n\n假期类型: Public\n全国
+ 通用: 是\n适用说明: KASI calendar reference. This table is not a fi
+ nal government holiday notice\; future dates remain provisional.\n\n来源
+ : https://astro.kasi.re.kr/kor/life/post/calendarData?year=2027
 CATEGORIES:韩国公众假期
-URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
- ew.do?plcyBrfNo=431
-STATUS:CONFIRMED
+URL;VALUE=URI:https://astro.kasi.re.kr/kor/life/post/calendarData?year=202
+ 7
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-lunar-new-year-02-07-public@koyomi.
  cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 설날
 DESCRIPTION:설날（韩国公众假期）\n\n假期类型: Public\n全国
- 通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01
- _01_04/view.do?plcyBrfNo=431
+ 通用: 是\n适用说明: KASI calendar reference. This table is not a fi
+ nal government holiday notice\; future dates remain provisional.\n\n来源
+ : https://astro.kasi.re.kr/kor/life/post/calendarData?year=2027
 CATEGORIES:韩国公众假期
-URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
- ew.do?plcyBrfNo=431
-STATUS:CONFIRMED
+URL;VALUE=URI:https://astro.kasi.re.kr/kor/life/post/calendarData?year=202
+ 7
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-lunar-new-year-02-08-public@koyomi.
  cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:韩国公众假期 · 설날 연휴
-DESCRIPTION:설날 연휴（韩国公众假期）\n\n假期类型: Public\
- n全国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/ko
- r/sub01_01_04/view.do?plcyBrfNo=431
+SUMMARY:韩国公众假期 · 설날
+DESCRIPTION:설날（韩国公众假期）\n\n假期类型: Public\n全国
+ 通用: 是\n适用说明: KASI calendar reference. This table is not a fi
+ nal government holiday notice\; future dates remain provisional.\n\n来源
+ : https://astro.kasi.re.kr/kor/life/post/calendarData?year=2027
 CATEGORIES:韩国公众假期
-URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
- ew.do?plcyBrfNo=431
-STATUS:CONFIRMED
+URL;VALUE=URI:https://astro.kasi.re.kr/kor/life/post/calendarData?year=202
+ 7
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-lunar-new-year-substitute-holiday-0
  2-09-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 대체공휴일(설날)
 DESCRIPTION:대체공휴일(설날)（韩国公众假期）\n\n假期类
- 型: Public\n全国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcy
- Brf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431
+ 型: Public\n全国通用: 是\n适用说明: KASI calendar reference. Thi
+ s table is not a final government holiday notice\; future dates remain pro
+ visional.\n\n来源: https://astro.kasi.re.kr/kor/life/post/calendarData?y
+ ear=2027
 CATEGORIES:韩国公众假期
-URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
- ew.do?plcyBrfNo=431
-STATUS:CONFIRMED
+URL;VALUE=URI:https://astro.kasi.re.kr/kor/life/post/calendarData?year=202
+ 7
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-independence-movement-day-03-01-pub
  lic@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:韩国公众假期 · 3·1절
-DESCRIPTION:3·1절（韩国公众假期）\n\n假期类型: Public\n全
- 国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/kor/su
- b01_01_04/view.do?plcyBrfNo=431
+SUMMARY:韩国公众假期 · 3.1절
+DESCRIPTION:3.1절（韩国公众假期）\n\n假期类型: Public\n全国
+ 通用: 是\n适用说明: KASI calendar reference. This table is not a fi
+ nal government holiday notice\; future dates remain provisional.\n\n来源
+ : https://astro.kasi.re.kr/kor/life/post/calendarData?year=2027
 CATEGORIES:韩国公众假期
-URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
- ew.do?plcyBrfNo=431
-STATUS:CONFIRMED
+URL;VALUE=URI:https://astro.kasi.re.kr/kor/life/post/calendarData?year=202
+ 7
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-labour-day-05-01-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 노동절
 DESCRIPTION:노동절（韩国公众假期）\n\n假期类型: Public\n全
- 国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/kor/su
- b01_01_04/view.do?plcyBrfNo=431
+ 国通用: 是\n适用说明: KASI calendar reference. This table is not a
+  final government holiday notice\; future dates remain provisional.\n\n来
+ 源: https://astro.kasi.re.kr/kor/life/post/calendarData?year=2027
 CATEGORIES:韩国公众假期
-URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
- ew.do?plcyBrfNo=431
-STATUS:CONFIRMED
+URL;VALUE=URI:https://astro.kasi.re.kr/kor/life/post/calendarData?year=202
+ 7
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-labour-day-substitute-holiday-05-03
  -public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270503
 DTEND;VALUE=DATE:20270504
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 대체공휴일(노동절)
 DESCRIPTION:대체공휴일(노동절)（韩国公众假期）\n\n假期
- 类型: Public\n全国通用: 是\n\n来源: https://www.kasa.go.kr/prog/p
- lcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431
+ 类型: Public\n全国通用: 是\n适用说明: KASI calendar reference. 
+ This table is not a final government holiday notice\; future dates remain 
+ provisional.\n\n来源: https://astro.kasi.re.kr/kor/life/post/calendarDat
+ a?year=2027
 CATEGORIES:韩国公众假期
-URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
- ew.do?plcyBrfNo=431
-STATUS:CONFIRMED
+URL;VALUE=URI:https://astro.kasi.re.kr/kor/life/post/calendarData?year=202
+ 7
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-childrens-day-05-05-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 어린이날
 DESCRIPTION:어린이날（韩国公众假期）\n\n假期类型: Public\n
- 全国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/kor
- /sub01_01_04/view.do?plcyBrfNo=431
+ 全国通用: 是\n适用说明: KASI calendar reference. This table is no
+ t a final government holiday notice\; future dates remain provisional.\n\n
+ 来源: https://astro.kasi.re.kr/kor/life/post/calendarData?year=2027
 CATEGORIES:韩国公众假期
-URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
- ew.do?plcyBrfNo=431
-STATUS:CONFIRMED
+URL;VALUE=URI:https://astro.kasi.re.kr/kor/life/post/calendarData?year=202
+ 7
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-buddhas-birthday-05-13-public@koyom
  i.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:韩国公众假期 · 부처님 오신 날
-DESCRIPTION:부처님 오신 날（韩国公众假期）\n\n假期类型: 
- Public\n全国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/b
- rief/kor/sub01_01_04/view.do?plcyBrfNo=431
+SUMMARY:韩国公众假期 · 부처님오신날
+DESCRIPTION:부처님오신날（韩国公众假期）\n\n假期类型: Pu
+ blic\n全国通用: 是\n适用说明: KASI calendar reference. This table
+  is not a final government holiday notice\; future dates remain provisiona
+ l.\n\n来源: https://astro.kasi.re.kr/kor/life/post/calendarData?year=202
+ 7
 CATEGORIES:韩国公众假期
-URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
- ew.do?plcyBrfNo=431
-STATUS:CONFIRMED
+URL;VALUE=URI:https://astro.kasi.re.kr/kor/life/post/calendarData?year=202
+ 7
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-memorial-day-06-06-public@koyomi.ca
  st
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 현충일
 DESCRIPTION:현충일（韩国公众假期）\n\n假期类型: Public\n全
- 国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/kor/su
- b01_01_04/view.do?plcyBrfNo=431
+ 国通用: 是\n适用说明: KASI calendar reference. This table is not a
+  final government holiday notice\; future dates remain provisional.\n\n来
+ 源: https://astro.kasi.re.kr/kor/life/post/calendarData?year=2027
 CATEGORIES:韩国公众假期
-URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
- ew.do?plcyBrfNo=431
-STATUS:CONFIRMED
+URL;VALUE=URI:https://astro.kasi.re.kr/kor/life/post/calendarData?year=202
+ 7
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-constitution-day-07-17-public@koyom
  i.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270718
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 제헌절
 DESCRIPTION:제헌절（韩国公众假期）\n\n假期类型: Public\n全
- 国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/kor/su
- b01_01_04/view.do?plcyBrfNo=431
+ 国通用: 是\n适用说明: KASI calendar reference. This table is not a
+  final government holiday notice\; future dates remain provisional.\n\n来
+ 源: https://astro.kasi.re.kr/kor/life/post/calendarData?year=2027
 CATEGORIES:韩国公众假期
-URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
- ew.do?plcyBrfNo=431
-STATUS:CONFIRMED
+URL;VALUE=URI:https://astro.kasi.re.kr/kor/life/post/calendarData?year=202
+ 7
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-constitution-day-substitute-holiday
  -07-19-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270719
 DTEND;VALUE=DATE:20270720
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 대체공휴일(제헌절)
 DESCRIPTION:대체공휴일(제헌절)（韩国公众假期）\n\n假期
- 类型: Public\n全国通用: 是\n\n来源: https://www.kasa.go.kr/prog/p
- lcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431
+ 类型: Public\n全国通用: 是\n适用说明: KASI calendar reference. 
+ This table is not a final government holiday notice\; future dates remain 
+ provisional.\n\n来源: https://astro.kasi.re.kr/kor/life/post/calendarDat
+ a?year=2027
 CATEGORIES:韩国公众假期
-URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
- ew.do?plcyBrfNo=431
-STATUS:CONFIRMED
+URL;VALUE=URI:https://astro.kasi.re.kr/kor/life/post/calendarData?year=202
+ 7
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-liberation-day-08-15-public@koyomi.
  cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 광복절
 DESCRIPTION:광복절（韩国公众假期）\n\n假期类型: Public\n全
- 国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/kor/su
- b01_01_04/view.do?plcyBrfNo=431
+ 国通用: 是\n适用说明: KASI calendar reference. This table is not a
+  final government holiday notice\; future dates remain provisional.\n\n来
+ 源: https://astro.kasi.re.kr/kor/life/post/calendarData?year=2027
 CATEGORIES:韩国公众假期
-URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
- ew.do?plcyBrfNo=431
-STATUS:CONFIRMED
+URL;VALUE=URI:https://astro.kasi.re.kr/kor/life/post/calendarData?year=202
+ 7
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-liberation-day-substitute-holiday-0
  8-16-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270816
 DTEND;VALUE=DATE:20270817
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 대체공휴일(광복절)
 DESCRIPTION:대체공휴일(광복절)（韩国公众假期）\n\n假期
- 类型: Public\n全国通用: 是\n\n来源: https://www.kasa.go.kr/prog/p
- lcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431
+ 类型: Public\n全国通用: 是\n适用说明: KASI calendar reference. 
+ This table is not a final government holiday notice\; future dates remain 
+ provisional.\n\n来源: https://astro.kasi.re.kr/kor/life/post/calendarDat
+ a?year=2027
 CATEGORIES:韩国公众假期
-URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
- ew.do?plcyBrfNo=431
-STATUS:CONFIRMED
+URL;VALUE=URI:https://astro.kasi.re.kr/kor/life/post/calendarData?year=202
+ 7
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-chuseok-09-14-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270914
 DTEND;VALUE=DATE:20270915
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:韩国公众假期 · 추석 연휴
-DESCRIPTION:추석 연휴（韩国公众假期）\n\n假期类型: Public\
- n全国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/ko
- r/sub01_01_04/view.do?plcyBrfNo=431
+SUMMARY:韩国公众假期 · 추석
+DESCRIPTION:추석（韩国公众假期）\n\n假期类型: Public\n全国
+ 通用: 是\n适用说明: KASI calendar reference. This table is not a fi
+ nal government holiday notice\; future dates remain provisional.\n\n来源
+ : https://astro.kasi.re.kr/kor/life/post/calendarData?year=2027
 CATEGORIES:韩国公众假期
-URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
- ew.do?plcyBrfNo=431
-STATUS:CONFIRMED
+URL;VALUE=URI:https://astro.kasi.re.kr/kor/life/post/calendarData?year=202
+ 7
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-chuseok-09-15-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 추석
 DESCRIPTION:추석（韩国公众假期）\n\n假期类型: Public\n全国
- 通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01
- _01_04/view.do?plcyBrfNo=431
+ 通用: 是\n适用说明: KASI calendar reference. This table is not a fi
+ nal government holiday notice\; future dates remain provisional.\n\n来源
+ : https://astro.kasi.re.kr/kor/life/post/calendarData?year=2027
 CATEGORIES:韩国公众假期
-URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
- ew.do?plcyBrfNo=431
-STATUS:CONFIRMED
+URL;VALUE=URI:https://astro.kasi.re.kr/kor/life/post/calendarData?year=202
+ 7
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-chuseok-09-16-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20270916
 DTEND;VALUE=DATE:20270917
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:韩国公众假期 · 추석 연휴
-DESCRIPTION:추석 연휴（韩国公众假期）\n\n假期类型: Public\
- n全国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/ko
- r/sub01_01_04/view.do?plcyBrfNo=431
+SUMMARY:韩国公众假期 · 추석
+DESCRIPTION:추석（韩国公众假期）\n\n假期类型: Public\n全国
+ 通用: 是\n适用说明: KASI calendar reference. This table is not a fi
+ nal government holiday notice\; future dates remain provisional.\n\n来源
+ : https://astro.kasi.re.kr/kor/life/post/calendarData?year=2027
 CATEGORIES:韩国公众假期
-URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
- ew.do?plcyBrfNo=431
-STATUS:CONFIRMED
+URL;VALUE=URI:https://astro.kasi.re.kr/kor/life/post/calendarData?year=202
+ 7
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-national-foundation-day-10-03-publi
  c@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20271003
 DTEND;VALUE=DATE:20271004
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 개천절
 DESCRIPTION:개천절（韩国公众假期）\n\n假期类型: Public\n全
- 国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/kor/su
- b01_01_04/view.do?plcyBrfNo=431
+ 国通用: 是\n适用说明: KASI calendar reference. This table is not a
+  final government holiday notice\; future dates remain provisional.\n\n来
+ 源: https://astro.kasi.re.kr/kor/life/post/calendarData?year=2027
 CATEGORIES:韩国公众假期
-URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
- ew.do?plcyBrfNo=431
-STATUS:CONFIRMED
+URL;VALUE=URI:https://astro.kasi.re.kr/kor/life/post/calendarData?year=202
+ 7
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-national-foundation-day-substitute-
  holiday-10-04-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20271004
 DTEND;VALUE=DATE:20271005
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 대체공휴일(개천절)
 DESCRIPTION:대체공휴일(개천절)（韩国公众假期）\n\n假期
- 类型: Public\n全国通用: 是\n\n来源: https://www.kasa.go.kr/prog/p
- lcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431
+ 类型: Public\n全国通用: 是\n适用说明: KASI calendar reference. 
+ This table is not a final government holiday notice\; future dates remain 
+ provisional.\n\n来源: https://astro.kasi.re.kr/kor/life/post/calendarDat
+ a?year=2027
 CATEGORIES:韩国公众假期
-URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
- ew.do?plcyBrfNo=431
-STATUS:CONFIRMED
+URL;VALUE=URI:https://astro.kasi.re.kr/kor/life/post/calendarData?year=202
+ 7
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-hangul-day-10-09-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20271009
 DTEND;VALUE=DATE:20271010
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 한글날
 DESCRIPTION:한글날（韩国公众假期）\n\n假期类型: Public\n全
- 国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/kor/su
- b01_01_04/view.do?plcyBrfNo=431
+ 国通用: 是\n适用说明: KASI calendar reference. This table is not a
+  final government holiday notice\; future dates remain provisional.\n\n来
+ 源: https://astro.kasi.re.kr/kor/life/post/calendarData?year=2027
 CATEGORIES:韩国公众假期
-URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
- ew.do?plcyBrfNo=431
-STATUS:CONFIRMED
+URL;VALUE=URI:https://astro.kasi.re.kr/kor/life/post/calendarData?year=202
+ 7
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-hangul-day-substitute-holiday-10-11
  -public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20271011
 DTEND;VALUE=DATE:20271012
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 대체공휴일(한글날)
 DESCRIPTION:대체공휴일(한글날)（韩国公众假期）\n\n假期
- 类型: Public\n全国通用: 是\n\n来源: https://www.kasa.go.kr/prog/p
- lcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431
+ 类型: Public\n全国通用: 是\n适用说明: KASI calendar reference. 
+ This table is not a final government holiday notice\; future dates remain 
+ provisional.\n\n来源: https://astro.kasi.re.kr/kor/life/post/calendarDat
+ a?year=2027
 CATEGORIES:韩国公众假期
-URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
- ew.do?plcyBrfNo=431
-STATUS:CONFIRMED
+URL;VALUE=URI:https://astro.kasi.re.kr/kor/life/post/calendarData?year=202
+ 7
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-christmas-day-12-25-public@koyomi.c
  ast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20271225
 DTEND;VALUE=DATE:20271226
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 기독탄신일
 DESCRIPTION:기독탄신일（韩国公众假期）\n\n假期类型: Publi
- c\n全国通用: 是\n\n来源: https://www.kasa.go.kr/prog/plcyBrf/brief/
- kor/sub01_01_04/view.do?plcyBrfNo=431
+ c\n全国通用: 是\n适用说明: KASI calendar reference. This table is
+  not a final government holiday notice\; future dates remain provisional.\
+ n\n来源: https://astro.kasi.re.kr/kor/life/post/calendarData?year=2027
 CATEGORIES:韩国公众假期
-URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
- ew.do?plcyBrfNo=431
-STATUS:CONFIRMED
+URL;VALUE=URI:https://astro.kasi.re.kr/kor/life/post/calendarData?year=202
+ 7
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-public-holidays-kr-holiday-2027-christmas-day-substitute-holiday-12
  -27-public@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261105T000000
+DTSTAMP:20261112T000000
 DTSTART;VALUE=DATE:20271227
 DTEND;VALUE=DATE:20271228
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:韩国公众假期 · 대체공휴일(기독탄신일)
 DESCRIPTION:대체공휴일(기독탄신일)（韩国公众假期）\n\n
- 假期类型: Public\n全国通用: 是\n\n来源: https://www.kasa.go.kr/
- prog/plcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431
+ 假期类型: Public\n全国通用: 是\n适用说明: KASI calendar refer
+ ence. This table is not a final government holiday notice\; future dates r
+ emain provisional.\n\n来源: https://astro.kasi.re.kr/kor/life/post/calen
+ darData?year=2027
 CATEGORIES:韩国公众假期
-URL;VALUE=URI:https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/vi
- ew.do?plcyBrfNo=431
-STATUS:CONFIRMED
+URL;VALUE=URI:https://astro.kasi.re.kr/kor/life/post/calendarData?year=202
+ 7
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
