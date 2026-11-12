@@ -9,64 +9,6 @@ X-WR-CALDESC:United States federal holidays, with state-level variations n
 TIMEZONE-ID:America/New_York
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:us-public-holidays-us-holiday-2026-columbus-day-10-12-al@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261105T000000
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:US Federal Holidays · Columbus Day
-DESCRIPTION:Columbus Day (US Federal Holidays)\n\nHoliday types: Public\nF
- ixed date: No\nNationwide: No\nRegions: US-AL\, US-AZ\, US-CO\, US-CT\, US
- -GA\, US-ID\, US-IL\, US-IN\, US-IA\, US-KS\, US-KY\, US-LA\, US-ME\, US-M
- D\, US-MA\, US-MS\, US-MO\, US-MT\, US-NE\, US-NH\, US-NJ\, US-NM\, US-NY\
- , US-NC\, US-OH\, US-OK\, US-PA\, US-RI\, US-SC\, US-TN\, US-UT\, US-VA\, 
- US-WV\n\nSource: https://www.opm.gov/policy-data-oversight/pay-leave/feder
- al-holidays/
-CATEGORIES:US Federal Holidays
-URL;VALUE=URI:https://www.opm.gov/policy-data-oversight/pay-leave/federal-
- holidays/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:us-public-holidays-us-holiday-2026-columbus-day-10-12-bank@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261105T000000
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:US Federal Holidays · Columbus Day
-DESCRIPTION:Columbus Day (US Federal Holidays)\n\nHoliday types: Bank\nFix
- ed date: No\nNationwide: Yes\n\nSource: https://www.opm.gov/policy-data-ov
- ersight/pay-leave/federal-holidays/
-CATEGORIES:US Federal Holidays
-URL;VALUE=URI:https://www.opm.gov/policy-data-oversight/pay-leave/federal-
- holidays/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:us-public-holidays-us-holiday-2026-indigenous-peoples-day-10-12-ak@koy
- omi.cast
-SEQUENCE:0
-DTSTAMP:20261105T000000
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:US Federal Holidays · Indigenous Peoples' Day
-DESCRIPTION:Indigenous Peoples' Day (US Federal Holidays)\n\nHoliday types
- : Public\nFixed date: No\nNationwide: No\nRegions: US-AK\, US-AL\, US-CA\,
-  US-HI\, US-IA\, US-LA\, US-ME\, US-MI\, US-MN\, US-NC\, US-NE\, US-NM\, U
- S-OK\, US-OR\, US-SD\, US-TX\, US-VA\, US-VT\, US-WI\n\nSource: https://ww
- w.opm.gov/policy-data-oversight/pay-leave/federal-holidays/
-CATEGORIES:US Federal Holidays
-URL;VALUE=URI:https://www.opm.gov/policy-data-oversight/pay-leave/federal-
- holidays/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:us-public-holidays-us-holiday-2026-veterans-day-11-11-public@koyomi.ca
  st
 SEQUENCE:0
