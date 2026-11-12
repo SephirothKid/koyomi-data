@@ -4,12 +4,13 @@
     "cpa": {
       "category": "exam",
       "checked_at": "2026-11-11",
-      "outcome": "updated"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://cpaexam.cicpa.org.cn/articlelist/01/00.shtml (fetch failed)"
     },
     "judicial-exam": {
       "category": "exam",
-      "checked_at": "2026-11-11",
-      "outcome": "updated"
+      "checked_at": "2026-11-12",
+      "outcome": "unchanged"
     },
     "fgo": {
       "category": "gaming",
@@ -243,7 +244,8 @@
     "accounting-qualification": {
       "category": "exam",
       "checked_at": "2026-11-11",
-      "outcome": "updated"
+      "outcome": "skipped",
+      "last_error": "HTTP 502: https://kjs.mof.gov.cn/gongzuotongzhi/"
     },
     "adult-gaokao": {
       "category": "exam",
@@ -302,13 +304,14 @@
     },
     "ncre": {
       "category": "exam",
-      "checked_at": "2026-11-11",
-      "outcome": "updated"
+      "checked_at": "2026-11-12",
+      "outcome": "unchanged"
     },
     "nurse-qualification": {
       "category": "exam",
       "checked_at": "2026-11-11",
-      "outcome": "updated"
+      "outcome": "failed",
+      "last_error": "fetch failed"
     },
     "patent-agent": {
       "category": "exam",
@@ -317,7 +320,7 @@
     },
     "pets": {
       "category": "exam",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "outcome": "updated"
     },
     "physician-qualification": {
@@ -357,28 +360,28 @@
     },
     "tax-agent": {
       "category": "exam",
-      "checked_at": "2026-11-11",
-      "outcome": "updated"
+      "checked_at": "2026-11-12",
+      "outcome": "unchanged"
     },
     "civil-service-provincial": {
       "category": "exam",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "outcome": "unchanged"
     },
     "cet": {
       "category": "exam",
-      "checked_at": "2026-11-11",
-      "outcome": "updated"
+      "checked_at": "2026-11-12",
+      "outcome": "unchanged"
     },
     "civil-service-national": {
       "category": "exam",
-      "checked_at": "2026-11-11",
-      "outcome": "updated"
+      "checked_at": "2026-11-12",
+      "outcome": "unchanged"
     },
     "postgraduate-exam": {
       "category": "exam",
-      "checked_at": "2026-11-11",
-      "outcome": "updated"
+      "checked_at": "2026-11-12",
+      "outcome": "unchanged"
     },
     "ruankao": {
       "category": "exam",
@@ -387,8 +390,8 @@
     },
     "teacher-qualification": {
       "category": "exam",
-      "checked_at": "2026-11-11",
-      "outcome": "updated"
+      "checked_at": "2026-11-12",
+      "outcome": "unchanged"
     },
     "astronomical-events": {
       "category": "other",
