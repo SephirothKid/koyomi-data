@@ -5,7 +5,7 @@
       "category": "exam",
       "checked_at": "2026-11-11",
       "outcome": "skipped",
-      "last_error": "fetch failed: https://cpaexam.cicpa.org.cn/articlelist/01/00.shtml (fetch failed)"
+      "last_error": "fetch failed: https://cpaexam.cicpa.org.cn/articlelist/01/00.shtml (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted address: cpaexam.cicpa.org.cn:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted address: cpaexam.cicpa.org.cn:443, timeout: 10000ms)"
     },
     "judicial-exam": {
       "category": "exam",
@@ -243,9 +243,8 @@
     },
     "accounting-qualification": {
       "category": "exam",
-      "checked_at": "2026-11-11",
-      "outcome": "skipped",
-      "last_error": "HTTP 502: https://kjs.mof.gov.cn/gongzuotongzhi/"
+      "checked_at": "2026-11-12",
+      "outcome": "unchanged"
     },
     "adult-gaokao": {
       "category": "exam",
@@ -311,7 +310,7 @@
       "category": "exam",
       "checked_at": "2026-11-11",
       "outcome": "failed",
-      "last_error": "fetch failed"
+      "last_error": "HTTP 405: https://www.21wecan.com/wsrcw/c100199/hushizhiyezhige.shtml"
     },
     "patent-agent": {
       "category": "exam",
@@ -321,7 +320,7 @@
     "pets": {
       "category": "exam",
       "checked_at": "2026-11-12",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "physician-qualification": {
       "category": "exam",
