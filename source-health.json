@@ -5,7 +5,7 @@
       "category": "exam",
       "checked_at": "2026-11-11",
       "outcome": "skipped",
-      "last_error": "fetch failed: https://cpaexam.cicpa.org.cn/articlelist/01/00.shtml (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted address: cpaexam.cicpa.org.cn:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted address: cpaexam.cicpa.org.cn:443, timeout: 10000ms)"
+      "last_error": "fetch failed: https://cpaexam.cicpa.org.cn/articlelist/01/00.shtml (Source connection failed: cpaexam.cicpa.org.cn (alternate DNS nodes also unavailable); Source DNS and connection attempts failed; fetch failed; ECONNRESET: read ECONNRESET); Source connection failed: cpaexam.cicpa.org.cn (alternate DNS nodes also unavailable); Source DNS and connection attempts failed; fetch failed; ECONNRESET: read ECONNRESET"
     },
     "judicial-exam": {
       "category": "exam",
@@ -310,9 +310,8 @@
     },
     "nurse-qualification": {
       "category": "exam",
-      "checked_at": "2026-11-11",
-      "outcome": "skipped",
-      "last_error": "fetch failed: https://www.21wecan.com/wsrcw/c100199/hushizhiyezhige.shtml (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 222.192.186.93:443, 222.192.186.77:443, 222.192.186.78:443, 222.192.186.94:443, 222.192.186.84:443, 222.192.186.76:443, 222.192.186.83:443, 222.192.186.75:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 222.192.186.93:443, 222.192.186.77:443, 222.192.186.78:443, 222.192.186.94:443, 222.192.186.84:443, 222.192.186.76:443, 222.192.186.83:443, 222.192.186.75:443, timeout: 10000ms)"
+      "checked_at": "2026-11-12",
+      "outcome": "unchanged"
     },
     "patent-agent": {
       "category": "exam",
