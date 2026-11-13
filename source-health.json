@@ -3,12 +3,12 @@
   "sources": {
     "cpa": {
       "category": "exam",
-      "checked_at": "2026-11-12",
-      "outcome": "updated"
+      "checked_at": "2026-11-13",
+      "outcome": "unchanged"
     },
     "judicial-exam": {
       "category": "exam",
-      "checked_at": "2026-11-12",
+      "checked_at": "2026-11-13",
       "outcome": "unchanged"
     },
     "fgo": {
@@ -239,7 +239,7 @@
     },
     "accounting-qualification": {
       "category": "exam",
-      "checked_at": "2026-11-12",
+      "checked_at": "2026-11-13",
       "outcome": "unchanged"
     },
     "adult-gaokao": {
@@ -299,13 +299,14 @@
     },
     "ncre": {
       "category": "exam",
-      "checked_at": "2026-11-12",
+      "checked_at": "2026-11-13",
       "outcome": "unchanged"
     },
     "nurse-qualification": {
       "category": "exam",
       "checked_at": "2026-11-12",
-      "outcome": "unchanged"
+      "outcome": "failed",
+      "last_error": "fetch failed: https://www.21wecan.com/wsrcw/c100202/202511/1002763.shtml (HTTP 405: https://www.21wecan.com/wsrcw/c100202/202511/1002763.shtml (alternate DNS nodes also unavailable); All promises were rejected; HTTP 405: www.21wecan.com); HTTP 405: https://www.21wecan.com/wsrcw/c100202/202511/1002763.shtml (alternate DNS nodes also unavailable); All promises were rejected; HTTP 405: www.21wecan.com"
     },
     "patent-agent": {
       "category": "exam",
@@ -314,7 +315,7 @@
     },
     "pets": {
       "category": "exam",
-      "checked_at": "2026-11-12",
+      "checked_at": "2026-11-13",
       "outcome": "unchanged"
     },
     "physician-qualification": {
@@ -354,27 +355,27 @@
     },
     "tax-agent": {
       "category": "exam",
-      "checked_at": "2026-11-12",
+      "checked_at": "2026-11-13",
       "outcome": "unchanged"
     },
     "civil-service-provincial": {
       "category": "exam",
-      "checked_at": "2026-11-12",
+      "checked_at": "2026-11-13",
       "outcome": "unchanged"
     },
     "cet": {
       "category": "exam",
-      "checked_at": "2026-11-12",
+      "checked_at": "2026-11-13",
       "outcome": "unchanged"
     },
     "civil-service-national": {
       "category": "exam",
-      "checked_at": "2026-11-12",
+      "checked_at": "2026-11-13",
       "outcome": "unchanged"
     },
     "postgraduate-exam": {
       "category": "exam",
-      "checked_at": "2026-11-12",
+      "checked_at": "2026-11-13",
       "outcome": "unchanged"
     },
     "ruankao": {
@@ -384,7 +385,7 @@
     },
     "teacher-qualification": {
       "category": "exam",
-      "checked_at": "2026-11-12",
+      "checked_at": "2026-11-13",
       "outcome": "unchanged"
     },
     "astronomical-events": {
