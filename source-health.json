@@ -194,7 +194,8 @@
     "kpl": {
       "category": "gaming",
       "checked_at": "2026-11-13",
-      "outcome": "updated"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: https://api.pandascore.co/kog/leagues?page%5Bnumber%5D=1&page%5Bsize%5D=100"
     },
     "lpl": {
       "category": "gaming",
@@ -219,13 +220,12 @@
     "zenless-zone-zero": {
       "category": "gaming",
       "checked_at": "2026-11-13",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "rawg-releases": {
       "category": "gaming",
-      "checked_at": "2026-11-02",
-      "outcome": "skipped",
-      "last_error": "HTTP 522: https://api.rawg.io/api/games?key=***&dates=2026-11-13%2C2026-11-30&platforms=4%2C187%2C18%2C1%2C7%2C3%2C21&ordering=released&page_size=40&page=1"
+      "checked_at": "2026-11-13",
+      "outcome": "updated"
     },
     "steam-sales": {
       "category": "gaming",
@@ -235,7 +235,7 @@
     "wuthering-waves": {
       "category": "gaming",
       "checked_at": "2026-11-13",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "accounting-qualification": {
       "category": "exam",
@@ -406,17 +406,20 @@
     "dota2-esports": {
       "category": "gaming",
       "checked_at": "2026-11-13",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: PandaScore /dota2/matches"
     },
     "lol-international": {
       "category": "gaming",
       "checked_at": "2026-11-13",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: PandaScore /lol/leagues"
     },
     "valorant-esports": {
       "category": "gaming",
       "checked_at": "2026-11-13",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: PandaScore /valorant/leagues"
     },
     "mo-public-holidays": {
       "category": "holidays",
