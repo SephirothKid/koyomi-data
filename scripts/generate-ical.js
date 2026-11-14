@@ -41,14 +41,28 @@ const SUBCATEGORY_MAP = {
   'roland-garros': 'tennis',
   wimbledon: 'tennis',
   'us-open': 'tennis',
+  atp: 'tennis',
+  wta: 'tennis',
+  // badminton
+  'bwf-world-tour': 'badminton',
+  'bwf-majors': 'badminton',
+  // snooker
+  'snooker-majors': 'snooker',
+  // volleyball
+  'vnl-women': 'volleyball',
+  'vnl-men': 'volleyball',
   // table tennis
   wtt: 'table-tennis',
   'ittf-majors': 'table-tennis',
   // motorsport
   f1: 'motorsport',
+  motogp: 'motorsport',
+  wec: 'motorsport',
   // running
   'beijing-marathon': 'running',
   'shanghai-marathon': 'running',
+  'shenzhen-marathon': 'running',
+  'xiamen-marathon': 'running',
   // esports (gaming)
   'cs2-tournaments': 'esports',
   lpl: 'esports',

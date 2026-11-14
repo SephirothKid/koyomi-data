@@ -3,24 +3,58 @@
   "name": "美国网球公开赛",
   "category": "sports",
   "name_en": "US Open Tennis Championships",
+  "description": "美国网球公开赛正赛赛期。",
+  "description_en": "Main-draw tournament dates for US Open Tennis Championships.",
   "subcategory": "网球",
-  "description": "美国网球公开赛资格赛、正赛和单打决赛日历。",
-  "icon": "/logos/us-open.svg",
+  "subcategory_en": "Tennis",
   "tags": [
     "网球",
     "美网",
-    "US Open"
+    "US Open Tennis Championships"
   ],
   "tags_en": [
     "Tennis",
-    "US Open"
+    "US Open Tennis Championships"
   ],
-  "maintainer": "official",
   "source_url": "https://www.usopen.org",
-  "events": [],
-  "last_updated": "2026-08-31",
-  "subcategory_en": "Tennis",
+  "maintainer": "official",
   "cycle_kind": "year",
-  "hidden": true,
-  "disabled_reason": "已停用：原数据为静态或猜测日期，暂无可验证的动态官方数据接口"
+  "events": [
+    {
+      "id": "us-open-2026-t905",
+      "name": "美国网球公开赛",
+      "name_en": "US Open - New York, NY, USA",
+      "date": "2026-08-30",
+      "end_date": "2026-09-13",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "NEW YORK，USA",
+      "description_en": "NEW YORK, USA",
+      "url": "https://www.wtatennis.com/tournament/905/2026",
+      "status": "confirmed",
+      "last_verified": "2026-11-14",
+      "verified_by": "official"
+    },
+    {
+      "id": "us-open-2027-t905",
+      "name": "美国网球公开赛",
+      "name_en": "US Open - New York, NY, USA",
+      "date": "2027-08-29",
+      "end_date": "2027-09-12",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2027,
+      "description": "NEW YORK，USA",
+      "description_en": "NEW YORK, USA",
+      "url": "https://www.wtatennis.com/tournament/905/2027",
+      "status": "confirmed",
+      "last_verified": "2026-11-14",
+      "verified_by": "official"
+    }
+  ],
+  "last_updated": "2026-11-14",
+  "icon": "/logos/us-open.svg"
 }

@@ -3,24 +3,58 @@
   "name": "温布尔登网球锦标赛",
   "category": "sports",
   "name_en": "The Championships, Wimbledon",
+  "description": "温布尔登网球锦标赛正赛赛期。",
+  "description_en": "Main-draw tournament dates for The Championships, Wimbledon.",
   "subcategory": "网球",
-  "description": "温布尔登网球锦标赛资格赛、正赛和单打决赛日历。",
-  "icon": "/logos/wimbledon.svg",
+  "subcategory_en": "Tennis",
   "tags": [
     "网球",
     "温网",
-    "Wimbledon"
+    "The Championships, Wimbledon"
   ],
   "tags_en": [
     "Tennis",
-    "Wimbledon"
+    "The Championships, Wimbledon"
   ],
-  "maintainer": "official",
   "source_url": "https://www.wimbledon.com",
-  "events": [],
-  "last_updated": "2026-08-31",
-  "subcategory_en": "Tennis",
+  "maintainer": "official",
   "cycle_kind": "year",
-  "hidden": true,
-  "disabled_reason": "已停用：原数据为静态或猜测日期，暂无可验证的动态官方数据接口"
+  "events": [
+    {
+      "id": "wimbledon-2026-t904",
+      "name": "温布尔登网球锦标赛",
+      "name_en": "The Championships, Wimbledon - Wimbledon, GBR",
+      "date": "2026-06-29",
+      "end_date": "2026-07-12",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "WIMBLEDON，GBR",
+      "description_en": "WIMBLEDON, GBR",
+      "url": "https://www.wtatennis.com/tournament/904/2026",
+      "status": "confirmed",
+      "last_verified": "2026-11-14",
+      "verified_by": "official"
+    },
+    {
+      "id": "wimbledon-2027-t904",
+      "name": "温布尔登网球锦标赛",
+      "name_en": "The Championships, Wimbledon - Wimbledon, GBR",
+      "date": "2027-06-28",
+      "end_date": "2027-07-11",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2027,
+      "description": "WIMBLEDON，GBR",
+      "description_en": "WIMBLEDON, GBR",
+      "url": "https://www.wtatennis.com/tournament/904/2027",
+      "status": "confirmed",
+      "last_verified": "2026-11-14",
+      "verified_by": "official"
+    }
+  ],
+  "last_updated": "2026-11-14",
+  "icon": "/logos/wimbledon.svg"
 }

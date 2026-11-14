@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//wimbledon//EN
+URL:https://koyomi.cast/sources/wimbledon
+NAME:温布尔登网球锦标赛
+X-WR-CALNAME:温布尔登网球锦标赛
+X-WR-CALDESC:温布尔登网球锦标赛正赛赛期。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:wimbledon-wimbledon-2027-t904@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261114T000000
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270712
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:温布尔登网球锦标赛 · 温布尔登网球锦标赛
+DESCRIPTION:WIMBLEDON，GBR\n\n来源: https://www.wtatennis.com/tournamen
+ t/904/2027
+CATEGORIES:温布尔登网球锦标赛
+URL;VALUE=URI:https://www.wtatennis.com/tournament/904/2027
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

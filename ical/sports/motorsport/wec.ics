@@ -1,0 +1,148 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//wec//EN
+URL:https://koyomi.cast/sources/wec
+NAME:WEC 世界耐力锦标赛
+X-WR-CALNAME:WEC 世界耐力锦标赛
+X-WR-CALDESC:WEC 各站比赛周末，包含勒芒 24 小时耐力赛。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:wec-wec-2027-qatar-1812km@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261114T000000
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270328
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:WEC 世界耐力锦标赛 · WEC 卡塔尔 1812 公里赛
+DESCRIPTION:Lusail International Circuit\n\n来源: https://www.fiawec.com
+ /en/race/qatar-1812km-2027
+CATEGORIES:WEC 世界耐力锦标赛
+URL;VALUE=URI:https://www.fiawec.com/en/race/qatar-1812km-2027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-wec-2027-6-hours-of-imola@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261114T000000
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270412
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:WEC 世界耐力锦标赛 · WEC 伊莫拉 6 小时赛
+DESCRIPTION:Imola\n\n来源: https://www.fiawec.com/en/race/6-hours-of-imo
+ la-2027
+CATEGORIES:WEC 世界耐力锦标赛
+URL;VALUE=URI:https://www.fiawec.com/en/race/6-hours-of-imola-2027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-wec-2027-6-hours-of-silverstone@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261114T000000
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270426
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:WEC 世界耐力锦标赛 · WEC 银石 6 小时赛
+DESCRIPTION:Silverstone\n\n来源: https://www.fiawec.com/en/race/6-hours-
+ of-silverstone-2027
+CATEGORIES:WEC 世界耐力锦标赛
+URL;VALUE=URI:https://www.fiawec.com/en/race/6-hours-of-silverstone-2027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-wec-2027-totalenergies-6-hours-of-spa-francorchamps@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261114T000000
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270516
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:WEC 世界耐力锦标赛 · WEC 斯帕 6 小时赛
+DESCRIPTION:Spa-Francorchamps\n\n来源: https://www.fiawec.com/en/race/to
+ talenergies-6-hours-of-spa-francorchamps-2027
+CATEGORIES:WEC 世界耐力锦标赛
+URL;VALUE=URI:https://www.fiawec.com/en/race/totalenergies-6-hours-of-spa-
+ francorchamps-2027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-wec-2027-24-hours-of-le-mans@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261114T000000
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270614
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:WEC 世界耐力锦标赛 · WEC 勒芒 24 小时耐力赛
+DESCRIPTION:24 Heures du Mans\n\n来源: https://www.fiawec.com/en/race/24
+ -hours-of-le-mans-2027
+CATEGORIES:WEC 世界耐力锦标赛
+URL;VALUE=URI:https://www.fiawec.com/en/race/24-hours-of-le-mans-2027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-wec-2027-rolex-6-hours-of-sao-paulo@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261114T000000
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270712
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:WEC 世界耐力锦标赛 · WEC 圣保罗 6 小时赛
+DESCRIPTION:Interlagos\n\n来源: https://www.fiawec.com/en/race/rolex-6-h
+ ours-of-sao-paulo-2027
+CATEGORIES:WEC 世界耐力锦标赛
+URL;VALUE=URI:https://www.fiawec.com/en/race/rolex-6-hours-of-sao-paulo-20
+ 27
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-wec-2027-lone-star-le-mans@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261114T000000
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270913
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:WEC 世界耐力锦标赛 · WEC 孤星勒芒耐力赛
+DESCRIPTION:Circuit des Amériques\n\n来源: https://www.fiawec.com/en/ra
+ ce/lone-star-le-mans-2027
+CATEGORIES:WEC 世界耐力锦标赛
+URL;VALUE=URI:https://www.fiawec.com/en/race/lone-star-le-mans-2027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-wec-2027-6-hours-of-fuji@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261114T000000
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270927
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:WEC 世界耐力锦标赛 · WEC 富士 6 小时赛
+DESCRIPTION:Fuji Speedway\n\n来源: https://www.fiawec.com/en/race/6-hour
+ s-of-fuji-2027
+CATEGORIES:WEC 世界耐力锦标赛
+URL;VALUE=URI:https://www.fiawec.com/en/race/6-hours-of-fuji-2027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-wec-2027-bapco-energies-8-hours-of-bahrain@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261114T000000
+DTSTART;VALUE=DATE:20271104
+DTEND;VALUE=DATE:20271107
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:WEC 世界耐力锦标赛 · WEC 巴林 8 小时赛
+DESCRIPTION:Circuit international de Sakhir\n\n来源: https://www.fiawec.
+ com/en/race/bapco-energies-8-hours-of-bahrain-2027
+CATEGORIES:WEC 世界耐力锦标赛
+URL;VALUE=URI:https://www.fiawec.com/en/race/bapco-energies-8-hours-of-bah
+ rain-2027
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

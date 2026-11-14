@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//shenzhen-marathon//EN
+URL:https://koyomi.cast/sources/shenzhen-marathon
+NAME:Shenzhen Marathon
+X-WR-CALNAME:Shenzhen Marathon
+X-WR-CALDESC:Shenzhen Marathon registration, lottery, payment deadlines an
+ d race dates.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:shenzhen-marathon-shenzhen-marathon-2026-lottery@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261114T000000
+DTSTART;TZID=Asia/Shanghai:20261016T100000
+DTEND;TZID=Asia/Shanghai:20261016T110000
+SUMMARY:Shenzhen Marathon · Shenzhen Marathon lottery results
+DESCRIPTION:Shenzhen Marathon\n\nSource: https://shenzhenmarathon.org.cn/s
+ ubject.html?detailId=9030979012453972&topicId=6990423356675002
+CATEGORIES:Shenzhen Marathon
+URL;VALUE=URI:https://shenzhenmarathon.org.cn/subject.html?detailId=903097
+ 9012453972&topicId=6990423356675002
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:shenzhen-marathon-shenzhen-marathon-2026-payment-deadline@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261114T000000
+DTSTART;TZID=Asia/Shanghai:20261022T170000
+DTEND;TZID=Asia/Shanghai:20261022T180000
+SUMMARY:Shenzhen Marathon · Shenzhen Marathon payment deadline
+DESCRIPTION:Shenzhen Marathon\n\nSource: https://shenzhenmarathon.org.cn/s
+ ubject.html?detailId=9030979012453972&topicId=6990423356675002
+CATEGORIES:Shenzhen Marathon
+URL;VALUE=URI:https://shenzhenmarathon.org.cn/subject.html?detailId=903097
+ 9012453972&topicId=6990423356675002
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:shenzhen-marathon-shenzhen-marathon-2026-race@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261114T000000
+DTSTART;TZID=Asia/Shanghai:20261206T070000
+DTEND;TZID=Asia/Shanghai:20261206T080000
+SUMMARY:Shenzhen Marathon · Shenzhen Marathon race
+DESCRIPTION:Shenzhen Marathon\n\nSource: https://shenzhenmarathon.org.cn/s
+ ubject.html?detailId=9030979012453972&topicId=6990423356675002
+CATEGORIES:Shenzhen Marathon
+URL;VALUE=URI:https://shenzhenmarathon.org.cn/subject.html?detailId=903097
+ 9012453972&topicId=6990423356675002
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

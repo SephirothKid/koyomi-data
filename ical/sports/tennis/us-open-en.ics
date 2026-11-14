@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//us-open//EN
+URL:https://koyomi.cast/sources/us-open
+NAME:US Open Tennis Championships
+X-WR-CALNAME:US Open Tennis Championships
+X-WR-CALDESC:Main-draw tournament dates for US Open Tennis Championships.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:us-open-us-open-2027-t905@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261114T000000
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270913
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:US Open Tennis Championships · US Open - New York\, NY\, USA
+DESCRIPTION:NEW YORK\, USA\n\nSource: https://www.wtatennis.com/tournament
+ /905/2027
+CATEGORIES:US Open Tennis Championships
+URL;VALUE=URI:https://www.wtatennis.com/tournament/905/2027
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

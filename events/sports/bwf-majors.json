@@ -1,0 +1,73 @@
+{
+  "id": "bwf-majors",
+  "name": "羽毛球世界大赛",
+  "category": "sports",
+  "name_en": "Badminton World Championships & Team Cups",
+  "description": "羽毛球世锦赛、苏迪曼杯及汤姆斯杯 / 尤伯杯的整站赛期。",
+  "description_en": "Tournament dates for the BWF World Championships, Sudirman Cup and Thomas & Uber Cup Finals.",
+  "subcategory": "羽毛球",
+  "subcategory_en": "Badminton",
+  "tags": [
+    "羽毛球"
+  ],
+  "tags_en": [
+    "Badminton"
+  ],
+  "source_url": "https://corporate.bwfbadminton.com/events/calendar/",
+  "maintainer": "official",
+  "cycle_kind": "year",
+  "events": [
+    {
+      "id": "bwf-majors-2026-e5600",
+      "name": "汤姆斯杯 / 尤伯杯羽毛球团体锦标赛",
+      "name_en": "BWF Thomas & Uber Cup Finals 2026",
+      "date": "2026-04-24",
+      "end_date": "2026-05-03",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "Horsens, Denmark",
+      "description_en": "Horsens, Denmark",
+      "url": "https://bwfthomasubercups.bwfbadminton.com/results/5600/bwf-thomas-uber-cup-finals-2026",
+      "status": "confirmed",
+      "last_verified": "2026-11-14",
+      "verified_by": "official"
+    },
+    {
+      "id": "bwf-majors-2026-e5601",
+      "name": "世界羽毛球锦标赛",
+      "name_en": "BWF World Championships 2026",
+      "date": "2026-08-17",
+      "end_date": "2026-08-23",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "New Delhi, India",
+      "description_en": "New Delhi, India",
+      "url": "https://bwfworldchampionships.bwfbadminton.com/results/5601/bwf-world-championships-2026",
+      "status": "confirmed",
+      "last_verified": "2026-11-14",
+      "verified_by": "official"
+    },
+    {
+      "id": "bwf-majors-2027-e6091",
+      "name": "苏迪曼杯世界羽毛球混合团体锦标赛",
+      "name_en": "BWF Sudirman Cup Finals 2027",
+      "date": "2027-04-21",
+      "end_date": "2027-05-02",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2027,
+      "description": "Beijing, China",
+      "description_en": "Beijing, China",
+      "url": "https://bwfbadminton.com/tournament/6091/bwf-sudirman-cup-finals-2027",
+      "status": "confirmed",
+      "last_verified": "2026-11-14",
+      "verified_by": "official"
+    }
+  ],
+  "last_updated": "2026-11-14"
+}

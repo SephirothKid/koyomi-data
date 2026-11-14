@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//bwf-majors//EN
+URL:https://koyomi.cast/sources/bwf-majors
+NAME:羽毛球世界大赛
+X-WR-CALNAME:羽毛球世界大赛
+X-WR-CALDESC:羽毛球世锦赛、苏迪曼杯及汤姆斯杯 / 尤伯杯
+ 的整站赛期。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:bwf-majors-bwf-majors-2027-e6091@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261114T000000
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270503
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:羽毛球世界大赛 · 苏迪曼杯世界羽毛球混合团体
+ 锦标赛
+DESCRIPTION:Beijing\, China\n\n来源: https://bwfbadminton.com/tournament
+ /6091/bwf-sudirman-cup-finals-2027
+CATEGORIES:羽毛球世界大赛
+URL;VALUE=URI:https://bwfbadminton.com/tournament/6091/bwf-sudirman-cup-fi
+ nals-2027
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

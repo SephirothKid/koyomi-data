@@ -3,9 +3,10 @@
   "name": "澳大利亚网球公开赛",
   "category": "sports",
   "name_en": "Australian Open",
+  "description": "澳大利亚网球公开赛正赛赛期。",
+  "description_en": "Main-draw tournament dates for Australian Open.",
   "subcategory": "网球",
-  "description": "澳大利亚网球公开赛资格赛、正赛和单打决赛日历。",
-  "icon": "/logos/australian-open.svg",
+  "subcategory_en": "Tennis",
   "tags": [
     "网球",
     "澳网",
@@ -15,12 +16,45 @@
     "Tennis",
     "Australian Open"
   ],
-  "maintainer": "official",
   "source_url": "https://ausopen.com",
-  "events": [],
-  "last_updated": "2026-08-31",
-  "subcategory_en": "Tennis",
+  "maintainer": "official",
   "cycle_kind": "year",
-  "hidden": true,
-  "disabled_reason": "已停用：原数据为静态或猜测日期，暂无可验证的动态官方数据接口"
+  "events": [
+    {
+      "id": "australian-open-2026-t901",
+      "name": "澳大利亚网球公开赛",
+      "name_en": "Australian Open - Melbourne, AUS",
+      "date": "2026-01-18",
+      "end_date": "2026-02-01",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "MELBOURNE，AUS",
+      "description_en": "MELBOURNE, AUS",
+      "url": "https://www.wtatennis.com/tournament/901/2026",
+      "status": "confirmed",
+      "last_verified": "2026-11-14",
+      "verified_by": "official"
+    },
+    {
+      "id": "australian-open-2027-t901",
+      "name": "澳大利亚网球公开赛",
+      "name_en": "Australian Open - Melbourne, AUS",
+      "date": "2027-01-17",
+      "end_date": "2027-01-31",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2027,
+      "description": "MELBOURNE，AUS",
+      "description_en": "MELBOURNE, AUS",
+      "url": "https://www.wtatennis.com/tournament/901/2027",
+      "status": "confirmed",
+      "last_verified": "2026-11-14",
+      "verified_by": "official"
+    }
+  ],
+  "last_updated": "2026-11-14",
+  "icon": "/logos/australian-open.svg"
 }
