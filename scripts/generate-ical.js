@@ -41,6 +41,9 @@ const SUBCATEGORY_MAP = {
   'roland-garros': 'tennis',
   wimbledon: 'tennis',
   'us-open': 'tennis',
+  // table tennis
+  wtt: 'table-tennis',
+  'ittf-majors': 'table-tennis',
   // motorsport
   f1: 'motorsport',
   // running

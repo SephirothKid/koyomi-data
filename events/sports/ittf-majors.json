@@ -1,0 +1,79 @@
+{
+  "id": "ittf-majors",
+  "name": "乒乓球世界大赛",
+  "category": "sports",
+  "name_en": "Table Tennis World Championships & Cups",
+  "subcategory": "乒乓球",
+  "subcategory_en": "Table Tennis",
+  "description": "世乒赛、单项世界杯、双打世界杯和混合团体世界杯的整站赛期。",
+  "description_en": "Tournament dates for World Championships and Singles, Doubles and Mixed Team World Cups.",
+  "tags": [
+    "乒乓球",
+    "ITTF",
+    "世乒赛",
+    "世界杯"
+  ],
+  "tags_en": [
+    "Table Tennis",
+    "ITTF",
+    "World Championships",
+    "World Cup"
+  ],
+  "cycle_kind": "year",
+  "maintainer": "official",
+  "source_url": "https://www.worldtabletennis.com/events_calendar",
+  "events": [
+    {
+      "id": "ittf-majors-2026-e3379",
+      "name": "乒乓球单项世界杯 · 中国澳门",
+      "name_en": "ITTF Men’s & Women’s World Cup Macao 2026 Presented by Galaxy Entertainment Group",
+      "date": "2026-03-30",
+      "end_date": "2026-04-05",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "中国澳门",
+      "description_en": "Macao, China",
+      "url": "https://www.worldtabletennis.com/eventInfo?eventId=3379",
+      "status": "confirmed",
+      "last_verified": "2026-11-14",
+      "verified_by": "official"
+    },
+    {
+      "id": "ittf-majors-2026-e3216",
+      "name": "世界乒乓球团体锦标赛 · 伦敦",
+      "name_en": "ITTF World Team Table Tennis Championships Finals London 2026 Presented by ACN",
+      "date": "2026-04-28",
+      "end_date": "2026-05-10",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "伦敦，英格兰",
+      "description_en": "London, England",
+      "url": "https://www.worldtabletennis.com/eventInfo?eventId=3216",
+      "status": "confirmed",
+      "last_verified": "2026-11-14",
+      "verified_by": "official"
+    },
+    {
+      "id": "ittf-majors-2026-e3378",
+      "name": "乒乓球混合团体世界杯 · 成都",
+      "name_en": "ITTF Mixed Team World Cup Chengdu 2026",
+      "date": "2026-11-29",
+      "end_date": "2026-12-06",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "成都，中国",
+      "description_en": "Chengdu, China",
+      "url": "https://www.worldtabletennis.com/eventInfo?eventId=3378",
+      "status": "confirmed",
+      "last_verified": "2026-11-14",
+      "verified_by": "official"
+    }
+  ],
+  "last_updated": "2026-11-14"
+}
