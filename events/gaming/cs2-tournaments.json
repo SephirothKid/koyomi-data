@@ -55690,7 +55690,7 @@
       "description": "Spirit vs MOUZ — BLAST Rivals （北京时间）",
       "description_en": "Spirit vs MOUZ — BLAST Rivals  (CST)",
       "url": "https://kick.com/gaules",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-11-14",
       "verified_by": "official",
       "teams": {
@@ -55705,6 +55705,12 @@
           "name": "MOUZ"
         }
       },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
       "details": {
         "赛事": "BLAST Rivals",
         "赛季": "2026",
@@ -55717,14 +55723,14 @@
       "name": "BLAST Rivals · 季后赛 · FURIA vs Team Falcons",
       "name_en": "BLAST Rivals · Playoffs · FURIA vs Team Falcons",
       "date": "2026-11-14",
-      "time": "18:30",
+      "time": "18:48",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "FURIA vs Team Falcons — BLAST Rivals （北京时间）",
       "description_en": "FURIA vs Team Falcons — BLAST Rivals  (CST)",
       "url": "https://kick.com/gaules",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-14",
       "verified_by": "official",
       "teams": {
@@ -55739,11 +55745,51 @@
           "name": "Team Falcons"
         }
       },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
       "details": {
         "赛事": "BLAST Rivals",
         "赛季": "2026",
         "阶段": "季后赛",
         "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1762449",
+      "name": "BLAST Rivals · 季后赛 · Spirit vs FURIA",
+      "name_en": "BLAST Rivals · Playoffs · Spirit vs FURIA",
+      "date": "2026-11-15",
+      "time": "16:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Spirit vs FURIA — BLAST Rivals （北京时间）",
+      "description_en": "Spirit vs FURIA — BLAST Rivals  (CST)",
+      "url": "https://www.twitch.tv/betboom_cs_ru",
+      "status": "confirmed",
+      "last_verified": "2026-11-14",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "124523",
+          "code": "Spirit",
+          "name": "Spirit"
+        },
+        "home": {
+          "id": "124530",
+          "code": "FURIA",
+          "name": "FURIA"
+        }
+      },
+      "details": {
+        "赛事": "BLAST Rivals",
+        "赛季": "2026",
+        "阶段": "季后赛",
+        "赛制": "BO5"
       }
     },
     {

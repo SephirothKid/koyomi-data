@@ -14,7 +14,7 @@
     "fgo": {
       "category": "gaming",
       "checked_at": "2026-11-14",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "tw-public-holidays": {
       "category": "holidays",
@@ -193,15 +193,13 @@
     },
     "kpl": {
       "category": "gaming",
-      "checked_at": "2026-11-13",
-      "outcome": "skipped",
-      "last_error": "HTTP 429: https://api.pandascore.co/kog/leagues?page%5Bnumber%5D=1&page%5Bsize%5D=100"
+      "checked_at": "2026-11-14",
+      "outcome": "updated"
     },
     "lpl": {
       "category": "gaming",
-      "checked_at": "2026-11-13",
-      "outcome": "skipped",
-      "last_error": "HTTP 429: https://api.pandascore.co/lol/matches?filter%5Bleague_id%5D=294&range%5Bbegin_at%5D=2026-01-01%2C2099-12-31&page%5Bnumber%5D=1&page%5Bsize%5D=100&sort=begin_at"
+      "checked_at": "2026-11-14",
+      "outcome": "updated"
     },
     "console-showcases": {
       "category": "gaming",
@@ -226,7 +224,7 @@
     "rawg-releases": {
       "category": "gaming",
       "checked_at": "2026-11-14",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "steam-sales": {
       "category": "gaming",
@@ -406,21 +404,18 @@
     },
     "dota2-esports": {
       "category": "gaming",
-      "checked_at": "2026-11-13",
-      "outcome": "skipped",
-      "last_error": "HTTP 429: PandaScore /dota2/matches"
+      "checked_at": "2026-11-14",
+      "outcome": "unchanged"
     },
     "lol-international": {
       "category": "gaming",
-      "checked_at": "2026-11-13",
-      "outcome": "skipped",
-      "last_error": "HTTP 429: PandaScore /lol/leagues"
+      "checked_at": "2026-11-14",
+      "outcome": "updated"
     },
     "valorant-esports": {
       "category": "gaming",
-      "checked_at": "2026-11-13",
-      "outcome": "skipped",
-      "last_error": "HTTP 429: PandaScore /valorant/leagues"
+      "checked_at": "2026-11-14",
+      "outcome": "unchanged"
     },
     "mo-public-holidays": {
       "category": "holidays",
