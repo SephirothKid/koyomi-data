@@ -341,6 +341,12 @@ function collectTeams(events) {
     for (const side of ['home', 'away']) {
       const team = event.teams?.[side]
       if (!team?.id || !team?.name) continue
+      const previous = teams.get(team.id)
+      const nameKey = value => String(value).normalize('NFKD').replace(/\p{M}/gu, '')
+        .toLowerCase().replace(/[^a-z0-9\u4e00-\u9fff]/g, '')
+      if (previous && nameKey(previous.nameEn) !== nameKey(team.name_en ?? team.name)) {
+        throw new Error(`conflicting team identity ${team.id}: ${previous.nameEn} / ${team.name_en ?? team.name}`)
+      }
       teams.set(team.id, {
         id: team.id,
         code: team.code ?? team.id.toUpperCase(),
@@ -639,11 +645,12 @@ for (const file of files) {
       continue
     }
 
+    // Validate all seasons before replacing either the league or team feeds.
+    const teams = TEAM_CALENDAR_SOURCE_IDS.has(source.id) ? collectTeams(source.events ?? []) : []
     const calendarEvents = eventsForCalendar(source)
     totalEvents += calendarEvents.length
     writeSourceCalendars(source, calendarEvents)
 
-    const teams = TEAM_CALENDAR_SOURCE_IDS.has(source.id) ? collectTeams(source.events ?? []) : []
     for (const team of teams) {
       const teamEvents = calendarEvents.filter(event => eventIncludesTeam(event, team.id))
 
@@ -693,6 +700,7 @@ for (const file of files) {
 if (!ONLY_SOURCE_ID) pruneStaleIcalFiles()
 
 console.log(`\n✓ Generated ${processedSources} source calendars, ${totalTeamCalendars} team calendars, ${totalEvents} events total`)
+if (skippedSources > 0) process.exitCode = 1
 if (skippedSources > 0) {
   console.error(`⚠ skipped ${skippedSources} source(s); previous .ics files were kept`)
 }
