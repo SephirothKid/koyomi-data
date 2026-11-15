@@ -18,7 +18,7 @@
     "Collaboration Events"
   ],
   "maintainer": "community",
-  "source_url": "https://ff.web.sdo.com/web8/index.html",
+  "source_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newslist",
   "events": [
     {
       "id": "final-fantasy-xiv-2026-392085-7830e776dba9",
@@ -59,6 +59,130 @@
       }
     },
     {
+      "id": "final-fantasy-xiv-2026-392101-469925b83f7d",
+      "name": "8/26~8/27全区全服维护公告（开始）",
+      "name_en": "Final Fantasy XIV Maintenance Update · 2026-08-26 · Starts",
+      "date": "2026-08-26",
+      "time": "17:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "8/26~8/27全区全服维护公告（开始）",
+      "description_en": "Final Fantasy XIV Maintenance Update · 2026-08-26 · Starts",
+      "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392517",
+      "status": "completed",
+      "last_verified": "2026-11-15",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026-08-26 17:00开始（原定结束时刻已撤回）",
+        "official_notice": "《最终幻想14》8/26~8/27全区全服维护公告",
+        "publication_date": "2026-08-19",
+        "end_note": "维护时间已延长，实际结束时刻未公布",
+        "revision_id": "392517",
+        "revision_date": "2026-08-27",
+        "reference_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392517"
+      },
+      "details_en": {
+        "official_time": "2026-08-26 17:00",
+        "English name status": "descriptive translation; CN-server dates retained",
+        "end_note": "Maintenance extended; actual end time not announced.",
+        "reference_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392517",
+        "publication_date": "2026-08-19"
+      },
+      "game": {
+        "game_id": "final-fantasy-xiv",
+        "provider": "sdo",
+        "source_kind": "maintenance",
+        "source_content_id": "392101",
+        "source_title": "《最终幻想14》8/26~8/27全区全服维护公告",
+        "source_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392517",
+        "activity_name": "8/26~8/27全区全服维护公告"
+      }
+    },
+    {
+      "id": "final-fantasy-xiv-2026-392305-3f7cc9ee14a8",
+      "name": "【季节活动】新生庆典与音乐的轨迹",
+      "name_en": "Final Fantasy XIV Seasonal Event: The Rising and a Musical Trail · 2026-08-27",
+      "date": "2026-08-27",
+      "end_date": "2026-09-10",
+      "end_time": "22:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "【季节活动】新生庆典与音乐的轨迹",
+      "description_en": "Final Fantasy XIV Seasonal Event: The Rising and a Musical Trail · 2026-08-27",
+      "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392305",
+      "status": "completed",
+      "last_verified": "2026-11-15",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026年8月27日15:00~2026年9月10日22:59",
+        "start_time": "官方未注明开始时刻",
+        "end_time": "2026-09-10 22:59",
+        "official_notice": "【季节活动】新生庆典与音乐的轨迹",
+        "publication_date": "2026-08-20",
+        "scheduled_start_time": "15:00"
+      },
+      "details_en": {
+        "official_time": "2026-08-27 – 2026-09-10 22:59",
+        "end_time": "2026-09-10 22:59",
+        "English name status": "descriptive translation; CN-server dates retained",
+        "scheduled_start_time": "15:00; actual opening depended on maintenance.",
+        "publication_date": "2026-08-20"
+      },
+      "game": {
+        "game_id": "final-fantasy-xiv",
+        "provider": "sdo",
+        "source_kind": "activity",
+        "source_content_id": "392305",
+        "source_title": "【季节活动】新生庆典与音乐的轨迹",
+        "source_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392305",
+        "activity_name": "【季节活动】新生庆典与音乐的轨迹"
+      }
+    },
+    {
+      "id": "final-fantasy-xiv-2026-392445-2702e5abe600",
+      "name": "PvP第11轮系列赛（结束）",
+      "name_en": "Final Fantasy XIV PvP Series 11 · 2026-09-08 · Ends",
+      "date": "2026-09-08",
+      "time": "14:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "PvP第11轮系列赛（结束）",
+      "description_en": "Final Fantasy XIV PvP Series 11 · 2026-09-08 · Ends",
+      "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392445",
+      "status": "completed",
+      "last_verified": "2026-11-15",
+      "verified_by": "official",
+      "details": {
+        "official_time": "举办时间将持续至 9月8日7.56版本维护前",
+        "official_notice": "《最终幻想14》PvP第11轮系列赛即将结束！",
+        "publication_date": "2026-08-25",
+        "end_note": "7.56版本维护前结束",
+        "anchor_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392752"
+      },
+      "details_en": {
+        "official_time": "2026-09-08 14:00",
+        "English name status": "descriptive translation; CN-server dates retained",
+        "end_note": "Ends before Version 7.56 maintenance.",
+        "anchor_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392752",
+        "publication_date": "2026-08-25"
+      },
+      "game": {
+        "game_id": "final-fantasy-xiv",
+        "provider": "sdo",
+        "source_kind": "activity",
+        "source_content_id": "392445",
+        "source_title": "《最终幻想14》PvP第11轮系列赛即将结束！",
+        "source_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392445",
+        "activity_name": "PvP第11轮系列赛即将结束！"
+      }
+    },
+    {
       "id": "final-fantasy-xiv-2026-392752-913c3c48f9a9",
       "name": "9月8日全区全服更新维护公告",
       "name_en": "Final Fantasy XIV Maintenance Update · 2026-09-08",
@@ -94,6 +218,120 @@
         "source_title": "《最终幻想14》9月8日全区全服更新维护公告",
         "source_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392752",
         "activity_name": "9月8日全区全服更新维护公告"
+      }
+    },
+    {
+      "id": "final-fantasy-xiv-2026-392697-8cefab9c8145",
+      "name": "莫古莫古★大收集 ~天文的行路 第1阶段~",
+      "name_en": "Final Fantasy XIV Moogle Treasure Trove: Astronomical Journey, Part 1 · 2026-09-09",
+      "date": "2026-09-09",
+      "end_date": "2026-10-19",
+      "time": "16:00",
+      "end_time": "22:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "莫古莫古★大收集 ~天文的行路 第1阶段~",
+      "description_en": "Final Fantasy XIV Moogle Treasure Trove: Astronomical Journey, Part 1 · 2026-09-09",
+      "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392697",
+      "status": "completed",
+      "last_verified": "2026-11-15",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026年9月9日16:00~2026年10月19日22:59",
+        "official_notice": "莫古莫古★大收集 ~天文的行路 第1阶段~ 限时开启！",
+        "publication_date": "2026-09-02"
+      },
+      "details_en": {
+        "official_time": "2026-09-09 16:00 – 2026-10-19 22:59",
+        "English name status": "descriptive translation; CN-server dates retained",
+        "publication_date": "2026-09-02"
+      },
+      "game": {
+        "game_id": "final-fantasy-xiv",
+        "provider": "sdo",
+        "source_kind": "activity",
+        "source_content_id": "392697",
+        "source_title": "莫古莫古★大收集 ~天文的行路 第1阶段~ 限时开启！",
+        "source_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392697",
+        "activity_name": "莫古莫古★大收集 ~天文的行路 第1阶段~"
+      }
+    },
+    {
+      "id": "final-fantasy-xiv-2026-392888-0a68057ee08f",
+      "name": "9月9日全区全服临时维护公告",
+      "name_en": "Final Fantasy XIV Temporary Maintenance · 2026-09-09",
+      "date": "2026-09-09",
+      "end_date": "2026-09-09",
+      "time": "14:00",
+      "end_time": "18:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "9月9日全区全服临时维护公告",
+      "description_en": "Final Fantasy XIV Temporary Maintenance · 2026-09-09",
+      "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392888",
+      "status": "completed",
+      "last_verified": "2026-11-15",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026年9月9日14:00-18:00",
+        "official_notice": "《最终幻想14》9月9日全区全服临时维护公告",
+        "publication_date": "2026-09-09"
+      },
+      "details_en": {
+        "official_time": "2026-09-09 14:00 – 2026-09-09 18:00",
+        "English name status": "descriptive translation; CN-server dates retained",
+        "publication_date": "2026-09-09"
+      },
+      "game": {
+        "game_id": "final-fantasy-xiv",
+        "provider": "sdo",
+        "source_kind": "maintenance",
+        "source_content_id": "392888",
+        "source_title": "《最终幻想14》9月9日全区全服临时维护公告",
+        "source_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392888",
+        "activity_name": "9月9日全区全服临时维护公告"
+      }
+    },
+    {
+      "id": "final-fantasy-xiv-2026-393156-30590b6cbb2e",
+      "name": "9月17日全区全服临时维护公告",
+      "name_en": "Final Fantasy XIV Temporary Maintenance · 2026-09-17",
+      "date": "2026-09-17",
+      "end_date": "2026-09-17",
+      "time": "14:00",
+      "end_time": "18:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "9月17日全区全服临时维护公告",
+      "description_en": "Final Fantasy XIV Temporary Maintenance · 2026-09-17",
+      "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/393156",
+      "status": "completed",
+      "last_verified": "2026-11-15",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026年9月17日14:00-18:00",
+        "official_notice": "《最终幻想14》9月17日全区全服临时维护公告",
+        "publication_date": "2026-09-16"
+      },
+      "details_en": {
+        "official_time": "2026-09-17 14:00 – 2026-09-17 18:00",
+        "English name status": "descriptive translation; CN-server dates retained",
+        "publication_date": "2026-09-16"
+      },
+      "game": {
+        "game_id": "final-fantasy-xiv",
+        "provider": "sdo",
+        "source_kind": "maintenance",
+        "source_content_id": "393156",
+        "source_title": "《最终幻想14》9月17日全区全服临时维护公告",
+        "source_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/393156",
+        "activity_name": "9月17日全区全服临时维护公告"
       }
     },
     {
@@ -246,6 +484,86 @@
         "source_title": "【季节活动】守护天节与奇妙的捉迷藏",
         "source_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/393960",
         "activity_name": "【季节活动】守护天节与奇妙的捉迷藏"
+      }
+    },
+    {
+      "id": "final-fantasy-xiv-2026-394486-f32b4ad03b7f",
+      "name": "金碟游乐场“魔光键影”（开始）",
+      "name_en": "Final Fantasy XIV Gold Saucer Typing Game · 2026-10-28 · Starts",
+      "date": "2026-10-28",
+      "time": "16:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "金碟游乐场“魔光键影”（开始）",
+      "description_en": "Final Fantasy XIV Gold Saucer Typing Game · 2026-10-28 · Starts",
+      "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/394486",
+      "status": "completed",
+      "last_verified": "2026-11-15",
+      "verified_by": "official",
+      "details": {
+        "official_time": "活动时间:2026年10月28日16:00~8.0版本更新维护前",
+        "official_notice": "金碟游乐场“魔光键影”正式登场！",
+        "publication_date": "2026-10-28",
+        "end_note": "8.0版本更新维护前，具体日期未公布"
+      },
+      "details_en": {
+        "official_time": "2026-10-28 16:00",
+        "English name status": "descriptive translation; CN-server dates retained",
+        "end_note": "Before Version 8.0 maintenance; exact end date not announced.",
+        "publication_date": "2026-10-28"
+      },
+      "game": {
+        "game_id": "final-fantasy-xiv",
+        "provider": "sdo",
+        "source_kind": "activity",
+        "source_content_id": "394486",
+        "source_title": "金碟游乐场“魔光键影”正式登场！",
+        "source_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/394486",
+        "activity_name": "金碟游乐场“魔光键影”正式登场！"
+      }
+    },
+    {
+      "id": "final-fantasy-xiv-2026-394876-3976b5a86e10",
+      "name": "「水晶冲突」第21赛季 · 陆行鸟区（结束）",
+      "name_en": "Final Fantasy XIV Crystalline Conflict Season 21 · 2026-11-10 · Chocobo Data Center (CN) · Ends",
+      "date": "2026-11-10",
+      "time": "10:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "「水晶冲突」第21赛季 · 陆行鸟区（结束）",
+      "description_en": "Final Fantasy XIV Crystalline Conflict Season 21 · 2026-11-10 · Chocobo Data Center (CN) · Ends",
+      "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/394876",
+      "status": "completed",
+      "last_verified": "2026-11-15",
+      "verified_by": "official",
+      "details": {
+        "official_time": "结束时间为11月10日的7.58版本更新维护前",
+        "official_notice": "「水晶冲突」第21赛季即将结束！",
+        "publication_date": "2026-10-28",
+        "end_note": "7.58版本维护前结束",
+        "anchor_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/395256",
+        "server_scope": "陆行鸟区"
+      },
+      "details_en": {
+        "official_time": "2026-11-10 10:00",
+        "English name status": "descriptive translation; CN-server dates retained",
+        "end_note": "Ends before Version 7.58 maintenance.",
+        "server_scope": "Chocobo Data Center (CN)",
+        "anchor_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/395256",
+        "publication_date": "2026-10-28"
+      },
+      "game": {
+        "game_id": "final-fantasy-xiv",
+        "provider": "sdo",
+        "source_kind": "activity",
+        "source_content_id": "394876",
+        "source_title": "「水晶冲突」第21赛季即将结束！",
+        "source_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/394876",
+        "activity_name": "「水晶冲突」第21赛季即将结束！"
       }
     },
     {

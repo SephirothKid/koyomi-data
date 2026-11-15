@@ -451,23 +451,26 @@ function bannerDescription(event, isEn = false) {
     const primaryItems = banner.featured_5 ?? banner.featured_s ?? []
     const secondaryItems = banner.featured_4 ?? banner.featured_a ?? []
     const bannerName = (isEn ? englishCopy(banner.name_en) ?? englishCopy(banner.name) : banner.name) ?? bannerTypeLabel(banner.type, isEn)
-    const type = event.game?.game_id === 'arknights' ? (isEn ? 'Operator' : '干员') : bannerTypeLabel(banner.type, isEn)
+    const type = event.game?.game_id === 'arknights' ? (isEn ? 'Operator' : '干员')
+      : event.game?.game_id === 'love-and-deepspace' ? (isEn ? 'Memory' : '思念') : bannerTypeLabel(banner.type, isEn)
     const lines = [`${index + 1}. ${bannerName}${isEn ? ' (' : '（'}${type}${isEn ? ')' : '）'}`]
     const appendItems = (items, fallback) => {
       const groups = new Map()
       for (const item of items) {
         const name = bannerItemLabel(item, isEn)
-        if (!name) continue
         let rarity = item.rarity ?? fallback
         if (event.game?.game_id === 'zenless-zone-zero') rarity = Number(rarity) === 5 || rarity === 'S' ? 'S' : 'A'
         groups.set(rarity, [...(groups.get(rarity) ?? []), name])
       }
       for (const [rarity, names] of groups) {
+        const visible = names.filter(Boolean)
+        const missing = names.length - visible.length
+        if (missing) visible.push(`+${missing}`)
         const rank = /^[SAB]$/.test(String(rarity))
         const roster = banner.roster_kind === 'available' ? (isEn ? 'available' : '可获得')
           : banner.roster_kind === 'selectable' ? (isEn ? 'selectable' : '可选') : (isEn ? 'rate-up' : 'UP')
         const label = isEn ? `${rarity}-${rank ? 'rank' : 'star'} ${roster}` : `${rarity}${rank ? '级' : '星'} ${roster}`
-        lines.push(`${label}: ${names.join(' / ')}`)
+        lines.push(`${label}: ${visible.join(' / ')}`)
       }
     }
     appendItems(primaryItems, banner.featured_s ? 'S' : 5)
@@ -529,11 +532,11 @@ function createCalendar(source, events, options = {}) {
     let end
 
     if (hasTime) {
-      end = inferTimeKind(event) === 'datetime_range'
-        ? wallClockDateTime(endDateStr, endTimeStr)
-        : start.addMinutes(60)
-      // Ensure end is at least 1 hour after start for point-in-time events
-      if (end.toJSDate() <= start.toJSDate()) {
+      const gameInstant = event.game && !event.end_date && !event.endDate && !event.end_time && !event.endTime
+      end = gameInstant ? null : inferTimeKind(event) === 'datetime_range'
+        ? wallClockDateTime(endDateStr, endTimeStr) : start.addMinutes(60)
+      // Clamp only events with an end; game milestones remain instants.
+      if (end && end.toJSDate() <= start.toJSDate()) {
         end = start.addMinutes(60)
       }
     } else {
