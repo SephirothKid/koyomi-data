@@ -6343,6 +6343,106 @@
           ]
         }
       ]
+    },
+    {
+      "id": "arknights-2026-联合行动24-banner",
+      "name": "明日方舟 联合行动24 寻访",
+      "name_en": "Arknights Joint Operation 24 Headhunting",
+      "date": "2026-11-15",
+      "end_date": "2026-11-29",
+      "time": "16:00",
+      "end_time": "03:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "明日方舟寻访「联合行动24」。",
+      "description_en": "Arknights Joint Operation 24 Headhunting.",
+      "url": "https://prts.wiki/w/%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88/%E9%99%90%E6%97%B6%E5%AF%BB%E8%AE%BF",
+      "status": "active",
+      "last_verified": "2026-11-15",
+      "verified_by": "community",
+      "details_en": {
+        "Event region": "CN",
+        "English name status": "community translation",
+        "English source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/main/en_US/gamedata/excel/character_table.json",
+        "Character ID source": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/json/tl-akhr.json",
+        "Character name status": "community-extracted English client data"
+      },
+      "game": {
+        "game_id": "arknights",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "version": "联合行动24",
+        "source_url": "https://prts.wiki/w/%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88/%E9%99%90%E6%97%B6%E5%AF%BB%E8%AE%BF"
+      },
+      "banners": [
+        {
+          "name": "联合行动24",
+          "name_en": "Joint Operation 24",
+          "type": "character",
+          "roster_kind": "available",
+          "source_url": "https://prts.wiki/w/%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88/%E9%99%90%E6%97%B6%E5%AF%BB%E8%AE%BF",
+          "featured_5": [
+            {
+              "name": "林",
+              "rarity": 6,
+              "character_id": "char_4080_lin",
+              "name_en": "Lin"
+            },
+            {
+              "name": "焰影苇草",
+              "rarity": 6,
+              "character_id": "char_1020_reed2",
+              "name_en": "Reed the Flame Shadow"
+            },
+            {
+              "name": "赤刃明霄陈",
+              "rarity": 6
+            },
+            {
+              "name": "可露希尔",
+              "rarity": 6
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "青枳",
+              "rarity": 5,
+              "character_id": "char_488_buildr",
+              "name_en": "Poncirus"
+            },
+            {
+              "name": "刺玫",
+              "rarity": 5,
+              "character_id": "char_494_vendla",
+              "name_en": "Vendela"
+            },
+            {
+              "name": "历阵锐枪芬",
+              "rarity": 5,
+              "character_id": "char_1036_fang2",
+              "name_en": "Fang the Fire-Sharpened"
+            },
+            {
+              "name": "诺威尔",
+              "rarity": 5,
+              "character_id": "char_4173_nowell",
+              "name_en": "Nowell"
+            },
+            {
+              "name": "钼铅",
+              "rarity": 5,
+              "character_id": "char_4171_wulfen",
+              "name_en": "Wulfenite"
+            },
+            {
+              "name": "佩德洛",
+              "rarity": 5
+            }
+          ]
+        }
+      ]
     }
   ],
   "last_updated": "2026-11-15"

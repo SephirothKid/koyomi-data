@@ -14,7 +14,7 @@
     "fgo": {
       "category": "gaming",
       "checked_at": "2026-11-15",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "tw-public-holidays": {
       "category": "holidays",
@@ -179,7 +179,7 @@
     "arknights": {
       "category": "gaming",
       "checked_at": "2026-11-15",
-      "outcome": "unchanged"
+      "outcome": "updated"
     },
     "cs2-tournaments": {
       "category": "gaming",
@@ -194,7 +194,8 @@
     "kpl": {
       "category": "gaming",
       "checked_at": "2026-11-15",
-      "outcome": "updated"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: https://api.pandascore.co/kog/leagues?page%5Bnumber%5D=1&page%5Bsize%5D=100"
     },
     "lpl": {
       "category": "gaming",
@@ -235,7 +236,7 @@
     "wuthering-waves": {
       "category": "gaming",
       "checked_at": "2026-11-15",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "accounting-qualification": {
       "category": "exam",
@@ -405,17 +406,20 @@
     "dota2-esports": {
       "category": "gaming",
       "checked_at": "2026-11-15",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: PandaScore /dota2/matches"
     },
     "lol-international": {
       "category": "gaming",
       "checked_at": "2026-11-15",
-      "outcome": "updated"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: PandaScore /lol/leagues"
     },
     "valorant-esports": {
       "category": "gaming",
       "checked_at": "2026-11-15",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: PandaScore /valorant/leagues"
     },
     "mo-public-holidays": {
       "category": "holidays",
