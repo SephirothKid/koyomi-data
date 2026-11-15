@@ -281,6 +281,11 @@
           "enum": ["character", "agent", "weapon", "w_engine", "light_cone", "bangboo", "standard", "collaboration", "other"]
         },
         "phase": { "type": "string" },
+        "roster_kind": {
+          "type": "string",
+          "enum": ["rate_up", "available", "selectable"],
+          "description": "名单含义：概率提升、可获得范围、可自选的概率提升候选；缺省为 rate_up。"
+        },
         "featured_5": {
           "type": "array",
           "items": { "$ref": "#/definitions/gameBannerItem" }

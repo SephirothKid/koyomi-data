@@ -464,7 +464,9 @@ function bannerDescription(event, isEn = false) {
       }
       for (const [rarity, names] of groups) {
         const rank = /^[SAB]$/.test(String(rarity))
-        const label = isEn ? `${rarity}-${rank ? 'rank' : 'star'} rate-up` : `${rarity}${rank ? '级' : '星'} UP`
+        const roster = banner.roster_kind === 'available' ? (isEn ? 'available' : '可获得')
+          : banner.roster_kind === 'selectable' ? (isEn ? 'selectable' : '可选') : (isEn ? 'rate-up' : 'UP')
+        const label = isEn ? `${rarity}-${rank ? 'rank' : 'star'} ${roster}` : `${rarity}${rank ? '级' : '星'} ${roster}`
         lines.push(`${label}: ${names.join(' / ')}`)
       }
     }
@@ -478,8 +480,8 @@ function gameMetaDescription(event, isEn = false) {
   if (!event.game) return ''
 
   const labels = isEn
-    ? { version: 'Version', phase: 'Phase', sourceKind: 'Type', source: 'Official source' }
-    : { version: '版本', phase: '阶段', sourceKind: '类型', source: '官方来源' }
+    ? { version: 'Version', phase: 'Phase', sourceKind: 'Type', source: event.verified_by === 'official' ? 'Official source' : 'Source' }
+    : { version: '版本', phase: '阶段', sourceKind: '类型', source: event.verified_by === 'official' ? '官方来源' : '来源' }
   const lines = []
   if (event.game.version && (!isEn || englishCopy(event.game.version))) lines.push(`${labels.version}: ${event.game.version}`)
   if (event.game.phase) lines.push(`${labels.phase}: ${event.game.phase}`)
