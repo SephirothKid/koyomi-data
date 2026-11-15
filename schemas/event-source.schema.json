@@ -286,6 +286,11 @@
           "enum": ["rate_up", "available", "selectable"],
           "description": "名单含义：概率提升、可获得范围、可自选的概率提升候选；缺省为 rate_up。"
         },
+        "secondary_roster_kind": {
+          "type": "string",
+          "enum": ["rate_up", "available", "selectable"],
+          "description": "低星名单含义；缺省沿用 roster_kind。"
+        },
         "featured_5": {
           "type": "array",
           "items": { "$ref": "#/definitions/gameBannerItem" }

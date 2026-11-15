@@ -454,7 +454,7 @@ function bannerDescription(event, isEn = false) {
     const type = event.game?.game_id === 'arknights' ? (isEn ? 'Operator' : '干员')
       : event.game?.game_id === 'love-and-deepspace' ? (isEn ? 'Memory' : '思念') : bannerTypeLabel(banner.type, isEn)
     const lines = [`${index + 1}. ${bannerName}${isEn ? ' (' : '（'}${type}${isEn ? ')' : '）'}`]
-    const appendItems = (items, fallback) => {
+    const appendItems = (items, fallback, rosterKind = banner.roster_kind) => {
       const groups = new Map()
       for (const item of items) {
         const name = bannerItemLabel(item, isEn)
@@ -467,14 +467,14 @@ function bannerDescription(event, isEn = false) {
         const missing = names.length - visible.length
         if (missing) visible.push(`+${missing}`)
         const rank = /^[SAB]$/.test(String(rarity))
-        const roster = banner.roster_kind === 'available' ? (isEn ? 'available' : '可获得')
-          : banner.roster_kind === 'selectable' ? (isEn ? 'selectable' : '可选') : (isEn ? 'rate-up' : 'UP')
+        const roster = rosterKind === 'available' ? (isEn ? 'available' : '可获得')
+          : rosterKind === 'selectable' ? (isEn ? 'selectable' : '可选') : (isEn ? 'rate-up' : 'UP')
         const label = isEn ? `${rarity}-${rank ? 'rank' : 'star'} ${roster}` : `${rarity}${rank ? '级' : '星'} ${roster}`
         lines.push(`${label}: ${visible.join(' / ')}`)
       }
     }
     appendItems(primaryItems, banner.featured_s ? 'S' : 5)
-    appendItems(secondaryItems, banner.featured_a ? 'A' : 4)
+    appendItems(secondaryItems, banner.featured_a ? 'A' : 4, banner.secondary_roster_kind ?? banner.roster_kind)
     return lines.join('\n')
   }).join('\n')
 }
