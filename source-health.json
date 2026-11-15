@@ -13,8 +13,8 @@
     },
     "fgo": {
       "category": "gaming",
-      "checked_at": "2026-11-14",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-15",
+      "outcome": "updated"
     },
     "tw-public-holidays": {
       "category": "holidays",
@@ -179,27 +179,28 @@
     "arknights": {
       "category": "gaming",
       "checked_at": "2026-11-15",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "cs2-tournaments": {
       "category": "gaming",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "outcome": "updated"
     },
     "epic-free": {
       "category": "gaming",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "outcome": "unchanged"
     },
     "kpl": {
       "category": "gaming",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "outcome": "updated"
     },
     "lpl": {
       "category": "gaming",
       "checked_at": "2026-11-14",
-      "outcome": "updated"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: https://api.pandascore.co/lol/matches?filter%5Bleague_id%5D=294&range%5Bbegin_at%5D=2026-01-01%2C2099-12-31&page%5Bnumber%5D=1&page%5Bsize%5D=100&sort=begin_at"
     },
     "console-showcases": {
       "category": "gaming",
@@ -208,33 +209,34 @@
     },
     "genshin-impact": {
       "category": "gaming",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "outcome": "unchanged"
     },
     "honkai-star-rail": {
       "category": "gaming",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "outcome": "unchanged"
     },
     "zenless-zone-zero": {
       "category": "gaming",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "outcome": "unchanged"
     },
     "rawg-releases": {
       "category": "gaming",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "outcome": "unchanged"
     },
     "steam-sales": {
       "category": "gaming",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "outcome": "unchanged"
     },
     "wuthering-waves": {
       "category": "gaming",
       "checked_at": "2026-11-14",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/zh/ArticleMenu.json (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 222.192.186.94:443, 222.192.186.83:443, 222.192.186.76:443, 222.192.186.93:443, 222.192.186.77:443, 222.192.186.75:443, 222.192.186.78:443, 222.192.186.84:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 222.192.186.94:443, 222.192.186.83:443, 222.192.186.76:443, 222.192.186.93:443, 222.192.186.77:443, 222.192.186.75:443, 222.192.186.78:443, 222.192.186.84:443, timeout: 10000ms)"
     },
     "accounting-qualification": {
       "category": "exam",
@@ -403,17 +405,17 @@
     },
     "dota2-esports": {
       "category": "gaming",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "outcome": "unchanged"
     },
     "lol-international": {
       "category": "gaming",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "outcome": "updated"
     },
     "valorant-esports": {
       "category": "gaming",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "outcome": "unchanged"
     },
     "mo-public-holidays": {
@@ -501,17 +503,17 @@
     "final-fantasy-xiv": {
       "category": "gaming",
       "checked_at": "2026-11-15",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "love-and-deepspace": {
       "category": "gaming",
       "checked_at": "2026-11-15",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "reverse1999": {
       "category": "gaming",
       "checked_at": "2026-11-15",
-      "outcome": "updated"
+      "outcome": "unchanged"
     }
   }
 }
