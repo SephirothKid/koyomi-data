@@ -77,6 +77,9 @@ const SUBCATEGORY_MAP = {
   'honkai-star-rail': 'gacha',
   'arknights': 'gacha',
   'fgo': 'gacha',
+  'reverse1999': 'gacha',
+  'love-and-deepspace': 'gacha',
+  'final-fantasy-xiv': 'updates',
   // platform (gaming)
   'epic-free': 'platform',
   'steam-sales': 'platform',
