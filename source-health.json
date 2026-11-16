@@ -3,13 +3,14 @@
   "sources": {
     "cpa": {
       "category": "exam",
-      "checked_at": "2026-11-15",
+      "checked_at": "2026-11-16",
       "outcome": "unchanged"
     },
     "judicial-exam": {
       "category": "exam",
       "checked_at": "2026-11-15",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: http://legalinfo.moj.gov.cn/zhpfsearch/es/getTrsNewsByParams?keyWords=2026%E5%B9%B4%E5%9B%BD%E5%AE%B6%E7%BB%9F%E4%B8%80%E6%B3%95%E5%BE%8B%E8%81%8C%E4%B8%9A%E8%B5%84%E6%A0%BC%E8%80%83%E8%AF%95&pageNum=1&pageSize=10 (fetch failed; ETIMEDOUT; ETIMEDOUT: connect ETIMEDOUT 27.155.113.162:80; ENETUNREACH: connect ENETUNREACH 240e:965:802:1040::400:80 - Local (:::0); ETIMEDOUT: connect ETIMEDOUT 124.238.251.150:80; ENETUNREACH: connect ENETUNREACH 2409:8c50:a00:2163:8000::5:80 - Local (:::0)); fetch failed; ETIMEDOUT; ETIMEDOUT: connect ETIMEDOUT 27.155.113.162:80; ENETUNREACH: connect ENETUNREACH 240e:965:802:1040::400:80 - Local (:::0); ETIMEDOUT: connect ETIMEDOUT 124.238.251.150:80; ENETUNREACH: connect ENETUNREACH 2409:8c50:a00:2163:8000::5:80 - Local (:::0)"
     },
     "fgo": {
       "category": "gaming",
@@ -241,7 +242,7 @@
     },
     "accounting-qualification": {
       "category": "exam",
-      "checked_at": "2026-11-15",
+      "checked_at": "2026-11-16",
       "outcome": "unchanged"
     },
     "adult-gaokao": {
@@ -301,13 +302,14 @@
     },
     "ncre": {
       "category": "exam",
-      "checked_at": "2026-11-15",
+      "checked_at": "2026-11-16",
       "outcome": "unchanged"
     },
     "nurse-qualification": {
       "category": "exam",
       "checked_at": "2026-11-15",
-      "outcome": "unchanged"
+      "outcome": "failed",
+      "last_error": "fetch failed: https://www.21wecan.com/wsrcw/c100202/202511/1002763.shtml (HTTP 405: https://www.21wecan.com/wsrcw/c100202/202511/1002763.shtml (alternate DNS nodes also unavailable); All promises were rejected; HTTP 405: www.21wecan.com; fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted address: www.21wecan.com:443, timeout: 3000ms)); HTTP 405: https://www.21wecan.com/wsrcw/c100202/202511/1002763.shtml (alternate DNS nodes also unavailable); All promises were rejected; HTTP 405: www.21wecan.com; fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted address: www.21wecan.com:443, timeout: 3000ms)"
     },
     "patent-agent": {
       "category": "exam",
@@ -316,7 +318,7 @@
     },
     "pets": {
       "category": "exam",
-      "checked_at": "2026-11-15",
+      "checked_at": "2026-11-16",
       "outcome": "unchanged"
     },
     "physician-qualification": {
@@ -356,27 +358,28 @@
     },
     "tax-agent": {
       "category": "exam",
-      "checked_at": "2026-11-15",
+      "checked_at": "2026-11-16",
       "outcome": "updated"
     },
     "civil-service-provincial": {
       "category": "exam",
-      "checked_at": "2026-11-15",
+      "checked_at": "2026-11-16",
       "outcome": "unchanged"
     },
     "cet": {
       "category": "exam",
-      "checked_at": "2026-11-15",
+      "checked_at": "2026-11-16",
       "outcome": "unchanged"
     },
     "civil-service-national": {
       "category": "exam",
       "checked_at": "2026-11-15",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: http://legalinfo.moj.gov.cn/zhpfsearch/es/getTrsNewsByParams?keyWords=2027%E5%B9%B4%E5%BA%A6%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98&pageNum=1&pageSize=10 (fetch failed; ETIMEDOUT; ETIMEDOUT: connect ETIMEDOUT 27.155.113.162:80; ENETUNREACH: connect ENETUNREACH 240e:965:802:1040::400:80 - Local (:::0); ETIMEDOUT: connect ETIMEDOUT 124.238.251.150:80; ENETUNREACH: connect ENETUNREACH 2409:8c50:a00:2163:8000::5:80 - Local (:::0)); fetch failed; ETIMEDOUT; ETIMEDOUT: connect ETIMEDOUT 27.155.113.162:80; ENETUNREACH: connect ENETUNREACH 240e:965:802:1040::400:80 - Local (:::0); ETIMEDOUT: connect ETIMEDOUT 124.238.251.150:80; ENETUNREACH: connect ENETUNREACH 2409:8c50:a00:2163:8000::5:80 - Local (:::0)"
     },
     "postgraduate-exam": {
       "category": "exam",
-      "checked_at": "2026-11-15",
+      "checked_at": "2026-11-16",
       "outcome": "unchanged"
     },
     "ruankao": {
@@ -386,7 +389,7 @@
     },
     "teacher-qualification": {
       "category": "exam",
-      "checked_at": "2026-11-15",
+      "checked_at": "2026-11-16",
       "outcome": "unchanged"
     },
     "astronomical-events": {
