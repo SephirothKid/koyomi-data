@@ -180,7 +180,7 @@
     "arknights": {
       "category": "gaming",
       "checked_at": "2026-11-16",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "cs2-tournaments": {
       "category": "gaming",
@@ -190,7 +190,7 @@
     "epic-free": {
       "category": "gaming",
       "checked_at": "2026-11-16",
-      "outcome": "unchanged"
+      "outcome": "updated"
     },
     "kpl": {
       "category": "gaming",
@@ -217,12 +217,12 @@
     "honkai-star-rail": {
       "category": "gaming",
       "checked_at": "2026-11-16",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "zenless-zone-zero": {
       "category": "gaming",
       "checked_at": "2026-11-16",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "rawg-releases": {
       "category": "gaming",
@@ -232,12 +232,13 @@
     "steam-sales": {
       "category": "gaming",
       "checked_at": "2026-11-16",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "wuthering-waves": {
       "category": "gaming",
       "checked_at": "2026-11-16",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/zh/ArticleMenu.json (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 45.253.60.160:443, 45.253.60.162:443, 45.253.60.157:443, 45.253.60.163:443, 45.253.60.159:443, 45.253.60.164:443, 45.253.60.158:443, 45.253.60.161:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 45.253.60.160:443, 45.253.60.162:443, 45.253.60.157:443, 45.253.60.163:443, 45.253.60.159:443, 45.253.60.164:443, 45.253.60.158:443, 45.253.60.161:443, timeout: 10000ms)"
     },
     "accounting-qualification": {
       "category": "exam",
