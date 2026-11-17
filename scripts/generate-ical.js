@@ -9,7 +9,7 @@ const ROOT = resolve(__dirname, '..')
 const EVENTS_DIR = join(ROOT, 'events')
 const ICAL_DIR = join(ROOT, 'ical')
 const SEASONAL_FOOTBALL_SOURCE_IDS = new Set(['epl', 'bundesliga', 'laliga', 'seriea', 'ligue1', 'ucl', 'uel', 'uecl'])
-const TEAM_CALENDAR_SOURCE_IDS = new Set(['nba', 'cba', 'epl', 'csl', 'bundesliga', 'laliga', 'seriea', 'ligue1', 'ucl', 'uel', 'uecl'])
+const TEAM_CALENDAR_SOURCE_IDS = new Set(['nba', 'cba', 'epl', 'csl', 'bundesliga', 'laliga', 'seriea', 'ligue1', 'ucl', 'uel', 'uecl', 'worldcup-qualifiers-afc'])
 const DEFAULT_TIMEZONE = 'Asia/Shanghai'
 const LEGACY_ICAL_ALIASES = {
   f1: [{ id: 'f1-2026' }],
@@ -33,6 +33,7 @@ const SUBCATEGORY_MAP = {
   uecl: 'football',
   csl: 'football',
   worldcup: 'football',
+  'worldcup-qualifiers-afc': 'football',
   // basketball
   nba: 'basketball',
   cba: 'basketball',
@@ -338,9 +339,9 @@ function eventsForCalendar(source) {
   return []
 }
 
-function collectTeams(events) {
+function collectTeams(events, catalog = []) {
   const teams = new Map()
-  for (const event of events) {
+  for (const event of [...catalog.map(team => ({ teams: { home: team } })), ...events]) {
     for (const side of ['home', 'away']) {
       const team = event.teams?.[side]
       if (!team?.id || !team?.name) continue
@@ -375,8 +376,9 @@ function teamEventSummary(event, team, isEn = false) {
   const opponentName = isEn ? (opponent.name_en ?? opponent.name) : opponent.name
   const teamName = isEn ? (team.nameEn ?? team.name) : team.name
   const marker = isHome ? 'vs' : '@'
-  const phaseKey = isEn ? 'Phase' : '阶段'
-  const phase = event.details?.[phaseKey] ?? event.details?.['赛段'] ?? ''
+  const phase = isEn
+    ? event.details_en?.Phase ?? event.details_en?.['阶段'] ?? event.details?.Phase ?? ''
+    : event.details?.['阶段'] ?? event.details?.['赛段'] ?? ''
   const prefix = phase ? `${phase} · ` : ''
   return `${prefix}${teamName} ${marker} ${opponentName}`
 }
@@ -532,8 +534,9 @@ function createCalendar(source, events, options = {}) {
     let end
 
     if (hasTime) {
-      const gameInstant = event.game && !event.end_date && !event.endDate && !event.end_time && !event.endTime
-      end = gameInstant ? null : inferTimeKind(event) === 'datetime_range'
+      const startOnly = (event.game || source.id === 'worldcup-qualifiers-afc')
+        && !event.end_date && !event.endDate && !event.end_time && !event.endTime
+      end = startOnly ? null : inferTimeKind(event) === 'datetime_range'
         ? wallClockDateTime(endDateStr, endTimeStr) : start.addMinutes(60)
       // Clamp only events with an end; game milestones remain instants.
       if (end && end.toJSDate() <= start.toJSDate()) {
@@ -654,7 +657,7 @@ for (const file of files) {
     }
 
     // Validate all seasons before replacing either the league or team feeds.
-    const teams = TEAM_CALENDAR_SOURCE_IDS.has(source.id) ? collectTeams(source.events ?? []) : []
+    const teams = TEAM_CALENDAR_SOURCE_IDS.has(source.id) ? collectTeams(source.events ?? [], source.team_catalog ?? []) : []
     const calendarEvents = eventsForCalendar(source)
     totalEvents += calendarEvents.length
     writeSourceCalendars(source, calendarEvents)
