@@ -3,6 +3,7 @@ import { readFileSync, readdirSync, statSync, writeFileSync, mkdirSync, unlinkSy
 import { basename, join, resolve, dirname } from 'path'
 import { fileURLToPath } from 'url'
 import ical from 'ical-generator'
+import { buildBwfSubscriptions } from './lib/bwf-subscriptions.js'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const ROOT = resolve(__dirname, '..')
@@ -125,6 +126,7 @@ function keepExistingIcalForSource(sourceId) {
 
 function pruneStaleIcalFiles() {
   for (const file of listIcalFiles(ICAL_DIR)) {
+    if (ONLY_SOURCE_ID && !icsOwnedBySource(basename(file), ONLY_SOURCE_ID)) continue
     if (!writtenIcalFiles.has(file) && !keptIcalFiles.has(file)) unlinkSync(file)
   }
 }
@@ -658,9 +660,19 @@ for (const file of files) {
 
     // Validate all seasons before replacing either the league or team feeds.
     const teams = TEAM_CALENDAR_SOURCE_IDS.has(source.id) ? collectTeams(source.events ?? [], source.team_catalog ?? []) : []
+    const bwf = buildBwfSubscriptions(source)
     const calendarEvents = eventsForCalendar(source)
     totalEvents += calendarEvents.length
     writeSourceCalendars(source, calendarEvents)
+
+    for (const scope of bwf.scopes) {
+      const scoped = { ...source, name: scope.name, name_en: scope.name_en, description: scope.name, description_en: scope.name_en, events: bwf.events.filter(event => event.scopeSourceIds.includes(scope.id)) }
+      const events = eventsForCalendar(scoped)
+      for (const lang of ['zh', 'en']) {
+        const name = lang === 'en' ? scope.name_en : scope.name
+        writeCalendar(source, `${scope.id}${lang === 'en' ? '-en' : ''}.ics`, createCalendar(scoped, events, { lang, productId: scope.id, name, calendarName: name, url: `https://my-koyomi.com/sources/${source.id}` }))
+      }
+    }
 
     for (const team of teams) {
       const teamEvents = calendarEvents.filter(event => eventIncludesTeam(event, team.id))
@@ -708,7 +720,7 @@ for (const file of files) {
   }
 }
 
-if (!ONLY_SOURCE_ID) pruneStaleIcalFiles()
+pruneStaleIcalFiles()
 
 console.log(`\n✓ Generated ${processedSources} source calendars, ${totalTeamCalendars} team calendars, ${totalEvents} events total`)
 if (skippedSources > 0) process.exitCode = 1

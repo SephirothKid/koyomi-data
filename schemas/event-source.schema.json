@@ -251,6 +251,7 @@
         "version": { "const": 2 },
         "checked_at": { "type": ["string", "null"], "format": "date" },
         "complete": { "type": "boolean" },
+        "draws": { "type": "array", "items": { "$ref": "#/definitions/bwfDraw" } },
         "days": {
           "type": "array",
           "items": {
@@ -260,6 +261,65 @@
             "properties": {
               "date": { "type": "string", "format": "date" },
               "matches": { "type": "array", "items": { "$ref": "#/definitions/bwfMatch" } }
+            }
+          }
+        }
+      }
+    },
+    "bwfDraw": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "discipline",
+        "name",
+        "qualification",
+        "nodes"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "discipline": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "qualification": {
+          "type": "boolean"
+        },
+        "nodes": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "column",
+              "slot",
+              "match",
+              "seeds"
+            ],
+            "properties": {
+              "column": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "slot": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "match": {
+                "$ref": "#/definitions/bwfMatch"
+              },
+              "seeds": {
+                "type": "array",
+                "minItems": 2,
+                "maxItems": 2,
+                "items": {
+                  "type": "string"
+                }
+              }
             }
           }
         }
