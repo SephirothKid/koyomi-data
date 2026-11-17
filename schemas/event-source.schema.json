@@ -111,6 +111,11 @@
       "description": "已发布的球队身份清单；即使最后一场比赛取消，仍生成原球队的空订阅文件以保留长期 URL。",
       "items": { "$ref": "#/definitions/team" }
     },
+    "sports_schedules": {
+      "type": "object",
+      "description": "按整站事件 ID 保存的官方逐场数据；详情页按比赛日分片加载，不复制到整站 iCal。",
+      "additionalProperties": { "$ref": "#/definitions/sportsSchedule" }
+    },
     "events": {
       "type": "array",
       "items": {
@@ -238,6 +243,58 @@
     }
   },
   "definitions": {
+    "sportsSchedule": {
+      "type": "object",
+      "required": ["version", "checked_at", "complete", "days"],
+      "additionalProperties": false,
+      "properties": {
+        "version": { "const": 2 },
+        "checked_at": { "type": ["string", "null"], "format": "date" },
+        "complete": { "type": "boolean" },
+        "days": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["date", "matches"],
+            "additionalProperties": false,
+            "properties": {
+              "date": { "type": "string", "format": "date" },
+              "matches": { "type": "array", "items": { "$ref": "#/definitions/bwfMatch" } }
+            }
+          }
+        }
+      }
+    },
+    "bwfSide": {
+      "type": "object",
+      "required": ["names", "country"],
+      "additionalProperties": false,
+      "properties": {
+        "names": { "type": "array", "minItems": 1, "items": { "type": "string", "minLength": 1 } },
+        "country": { "type": "string" }
+      }
+    },
+    "bwfMatch": {
+      "type": "object",
+      "required": ["id", "code", "date", "discipline", "round", "side1", "side2", "games", "winner", "status", "outcome", "timing", "court"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "code": { "type": "string", "minLength": 1 },
+        "date": { "type": "string", "format": "date" },
+        "discipline": { "type": "string" },
+        "round": { "type": "string" },
+        "side1": { "$ref": "#/definitions/bwfSide" },
+        "side2": { "$ref": "#/definitions/bwfSide" },
+        "games": { "type": "array", "items": { "type": "array", "minItems": 2, "maxItems": 2, "items": { "type": "integer", "minimum": 0 } } },
+        "winner": { "type": "integer", "enum": [0, 1, 2] },
+        "status": { "type": "string", "enum": ["completed", "active", "scheduled"] },
+        "outcome": { "type": "integer", "minimum": 0, "maximum": 4 },
+        "start": { "type": "string", "format": "date-time" },
+        "timing": { "type": "string", "enum": ["scheduled", "estimated", "not_before", "followed_by", "date"] },
+        "court": { "type": "string" }
+      }
+    },
     "dateField": {
       "type": "string",
       "description": "ISO 日期 YYYY-MM-DD；fetcher 偶发写入日期+时间时亦兼容。",

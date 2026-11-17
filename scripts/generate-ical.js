@@ -601,7 +601,7 @@ function createCalendar(source, events, options = {}) {
     if (event.details) {
       const detailsForLocale = isEn ? (event.details_en ?? event.details) : event.details
       descParts.push(
-        Object.entries(detailsForLocale).filter(([key, value]) => !isEn || (englishCopy(key) && englishCopy(String(value)))).map(([k, v]) => `${k}: ${v}`).join('\n')
+        Object.entries(detailsForLocale).filter(([key, value]) => !key.startsWith('bwf_') && (!isEn || (englishCopy(key) && englishCopy(String(value))))).map(([k, v]) => `${k}: ${v}`).join('\n')
       )
     }
 
