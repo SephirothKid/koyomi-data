@@ -8,18 +8,4 @@ X-WR-CALDESC:Beijing Marathon registration, lottery, payment, packet picku
  p and race milestones, where announced by the organizer.
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
-BEGIN:VEVENT
-UID:beijing-marathon-beijing-marathon-2026-race@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261105T000000
-DTSTART;TZID=Asia/Shanghai:20261018T073000
-DTEND;TZID=Asia/Shanghai:20261018T083000
-SUMMARY:Beijing Marathon · Beijing Marathon race
-DESCRIPTION:Beijing Marathon race\; refer to the organizer's latest announ
- cement.\n\nSource: https://en.beijing-marathon.com/registration-guidelines
- .html
-CATEGORIES:Beijing Marathon
-URL;VALUE=URI:https://en.beijing-marathon.com/registration-guidelines.html
-STATUS:CONFIRMED
-END:VEVENT
 END:VCALENDAR
