@@ -1,0 +1,1452 @@
+{
+  "id": "snooker-world-championship",
+  "name": "斯诺克世锦赛",
+  "category": "sports",
+  "name_en": "World Snooker Championship",
+  "description": "斯诺克世锦赛正赛赛期、官方对阵及赛果。",
+  "description_en": "World Snooker Championship main-event dates, published fixtures and results.",
+  "subcategory": "斯诺克",
+  "subcategory_en": "Snooker",
+  "tags": [
+    "斯诺克"
+  ],
+  "tags_en": [
+    "Snooker"
+  ],
+  "source_url": "https://www.wst.tv/tournaments/",
+  "maintainer": "official",
+  "cycle_kind": "season",
+  "season_basis": "start-year",
+  "events": [
+    {
+      "id": "snooker-world-championship-2025-e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+      "name": "斯诺克世界锦标赛",
+      "name_en": "Halo World Championship 2026",
+      "date": "2026-04-18",
+      "end_date": "2026-05-04",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2025,
+      "description": "Sheffield，England",
+      "description_en": "Sheffield, England",
+      "url": "https://www.wst.tv/matches/e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+      "status": "confirmed",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "season_label": "2025-26",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_series": "world"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-49c4d897-61c9-4a27-809f-aa5453cba5f4",
+      "name": "Zhao Xintong vs Liam Highfield",
+      "name_en": "Zhao Xintong vs Liam Highfield",
+      "date": "2026-04-18",
+      "time": "18:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Round 1 · 19 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Round 1 · Best of 19. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/49c4d897-61c9-4a27-809f-aa5453cba5f4",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "49c4d897-61c9-4a27-809f-aa5453cba5f4"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-d5f35abe-5d05-48f8-9fee-d4d3b792ebf9",
+      "name": "Mark Allen vs Zhang Anda",
+      "name_en": "Mark Allen vs Zhang Anda",
+      "date": "2026-04-19",
+      "time": "09:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Round 1 · 19 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Round 1 · Best of 19. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/d5f35abe-5d05-48f8-9fee-d4d3b792ebf9",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "d5f35abe-5d05-48f8-9fee-d4d3b792ebf9"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-0e2c483b-2ebe-443c-b509-dc4238a2256c",
+      "name": "Barry Hawkins vs Matthew Stevens",
+      "name_en": "Barry Hawkins vs Matthew Stevens",
+      "date": "2026-04-19",
+      "time": "13:30",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Round 1 · 19 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Round 1 · Best of 19. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/0e2c483b-2ebe-443c-b509-dc4238a2256c",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "0e2c483b-2ebe-443c-b509-dc4238a2256c"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-304470d6-a2cf-4a86-abac-ad67c48c67d2",
+      "name": "Xiao Guodong vs Zhou Yuelong",
+      "name_en": "Xiao Guodong vs Zhou Yuelong",
+      "date": "2026-04-19",
+      "time": "18:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Round 1 · 19 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Round 1 · Best of 19. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/304470d6-a2cf-4a86-abac-ad67c48c67d2",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "304470d6-a2cf-4a86-abac-ad67c48c67d2"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-a3e9e0a3-e3a7-4d1f-b0a1-9cdceb0643f9",
+      "name": "Mark Williams vs Antoni Kowalski",
+      "name_en": "Mark Williams vs Antoni Kowalski",
+      "date": "2026-04-19",
+      "time": "18:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Round 1 · 19 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Round 1 · Best of 19. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/a3e9e0a3-e3a7-4d1f-b0a1-9cdceb0643f9",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "a3e9e0a3-e3a7-4d1f-b0a1-9cdceb0643f9"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-9411cc19-afcc-428b-a0e6-05810ab71a3b",
+      "name": "Ding Junhui vs David Gilbert",
+      "name_en": "Ding Junhui vs David Gilbert",
+      "date": "2026-04-20",
+      "time": "09:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Round 1 · 19 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Round 1 · Best of 19. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/9411cc19-afcc-428b-a0e6-05810ab71a3b",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "9411cc19-afcc-428b-a0e6-05810ab71a3b"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-916fb3e5-08e9-4b10-96d7-2de2d56c19b5",
+      "name": "Kyren Wilson vs Stan Moody",
+      "name_en": "Kyren Wilson vs Stan Moody",
+      "date": "2026-04-20",
+      "time": "09:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Round 1 · 19 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Round 1 · Best of 19. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/916fb3e5-08e9-4b10-96d7-2de2d56c19b5",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "916fb3e5-08e9-4b10-96d7-2de2d56c19b5"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-1ee688c2-27b8-48f5-9ece-6bffe63a3895",
+      "name": "John Higgins vs Ali Carter",
+      "name_en": "John Higgins vs Ali Carter",
+      "date": "2026-04-20",
+      "time": "13:30",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Round 1 · 19 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Round 1 · Best of 19. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/1ee688c2-27b8-48f5-9ece-6bffe63a3895",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "1ee688c2-27b8-48f5-9ece-6bffe63a3895"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-5edec5b0-65d8-4340-8464-844a5cdaac8b",
+      "name": "Wu Yize vs Lei Peifan",
+      "name_en": "Wu Yize vs Lei Peifan",
+      "date": "2026-04-21",
+      "time": "13:30",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Round 1 · 19 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Round 1 · Best of 19. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/5edec5b0-65d8-4340-8464-844a5cdaac8b",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "5edec5b0-65d8-4340-8464-844a5cdaac8b"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-0f088bf9-a231-478a-a2e9-e505ee650ddf",
+      "name": "Judd Trump vs Gary Wilson",
+      "name_en": "Judd Trump vs Gary Wilson",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Round 1 · 19 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Round 1 · Best of 19. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/0f088bf9-a231-478a-a2e9-e505ee650ddf",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "0f088bf9-a231-478a-a2e9-e505ee650ddf"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-684aa1fd-d319-4650-8593-92daca166da6",
+      "name": "Shaun Murphy vs Fan Zhengyi",
+      "name_en": "Shaun Murphy vs Fan Zhengyi",
+      "date": "2026-04-21",
+      "time": "18:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Round 1 · 19 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Round 1 · Best of 19. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/684aa1fd-d319-4650-8593-92daca166da6",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "684aa1fd-d319-4650-8593-92daca166da6"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-b7d87527-2bb0-4f63-b49e-b237b0c0a218",
+      "name": "Chris Wakelin vs Liam Pullen",
+      "name_en": "Chris Wakelin vs Liam Pullen",
+      "date": "2026-04-22",
+      "time": "09:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Round 1 · 19 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Round 1 · Best of 19. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/b7d87527-2bb0-4f63-b49e-b237b0c0a218",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "b7d87527-2bb0-4f63-b49e-b237b0c0a218"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-41193e0a-fc0b-4a2c-91e6-4b67082dddaf",
+      "name": "Ronnie O'Sullivan vs He Guoqiang",
+      "name_en": "Ronnie O'Sullivan vs He Guoqiang",
+      "date": "2026-04-22",
+      "time": "13:30",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Round 1 · 19 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Round 1 · Best of 19. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/41193e0a-fc0b-4a2c-91e6-4b67082dddaf",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "41193e0a-fc0b-4a2c-91e6-4b67082dddaf"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-3e70c493-1489-4e0e-b86c-88a64a880c65",
+      "name": "Mark Selby vs Jak Jones",
+      "name_en": "Mark Selby vs Jak Jones",
+      "date": "2026-04-22",
+      "time": "18:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Round 1 · 19 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Round 1 · Best of 19. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/3e70c493-1489-4e0e-b86c-88a64a880c65",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "3e70c493-1489-4e0e-b86c-88a64a880c65"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-4d453581-c4c7-4392-a716-482beea7a1ec",
+      "name": "Si Jiahui vs Hossein Vafaei",
+      "name_en": "Si Jiahui vs Hossein Vafaei",
+      "date": "2026-04-23",
+      "time": "12:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Round 1 · 19 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Round 1 · Best of 19. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/4d453581-c4c7-4392-a716-482beea7a1ec",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "4d453581-c4c7-4392-a716-482beea7a1ec"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-d43e0454-a2c3-462a-943b-d9069de1c59d",
+      "name": "Neil Robertson vs Pang Junxu",
+      "name_en": "Neil Robertson vs Pang Junxu",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Round 1 · 19 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Round 1 · Best of 19. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/d43e0454-a2c3-462a-943b-d9069de1c59d",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "d43e0454-a2c3-462a-943b-d9069de1c59d"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-c3e94945-c615-4e6f-8efd-8bb7f6fe386d",
+      "name": "Xiao Guodong vs Shaun Murphy",
+      "name_en": "Xiao Guodong vs Shaun Murphy",
+      "date": "2026-04-24",
+      "time": "09:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Round 2 · 25 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Round 2 · Best of 25. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/c3e94945-c615-4e6f-8efd-8bb7f6fe386d",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "c3e94945-c615-4e6f-8efd-8bb7f6fe386d"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-b64a7ee9-aabc-4800-a4c7-84085ff281b5",
+      "name": "Kyren Wilson vs Mark Allen",
+      "name_en": "Kyren Wilson vs Mark Allen",
+      "date": "2026-04-25",
+      "time": "09:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Round 2 · 25 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Round 2 · Best of 25. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/b64a7ee9-aabc-4800-a4c7-84085ff281b5",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "b64a7ee9-aabc-4800-a4c7-84085ff281b5"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-e4a8b8e2-18be-41bb-a4b6-501b0abfa6a5",
+      "name": "Barry Hawkins vs Mark Williams",
+      "name_en": "Barry Hawkins vs Mark Williams",
+      "date": "2026-04-25",
+      "time": "18:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Round 2 · 25 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Round 2 · Best of 25. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/e4a8b8e2-18be-41bb-a4b6-501b0abfa6a5",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "e4a8b8e2-18be-41bb-a4b6-501b0abfa6a5"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-b6d39f19-c43e-4f20-81a8-ac7af5d0a151",
+      "name": "Zhao Xintong vs Ding Junhui",
+      "name_en": "Zhao Xintong vs Ding Junhui",
+      "date": "2026-04-26",
+      "time": "09:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Round 2 · 25 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Round 2 · Best of 25. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/b6d39f19-c43e-4f20-81a8-ac7af5d0a151",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "b6d39f19-c43e-4f20-81a8-ac7af5d0a151"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-3132149e-3893-47ed-9c46-b780e9fa39f3",
+      "name": "Mark Selby vs Wu Yize",
+      "name_en": "Mark Selby vs Wu Yize",
+      "date": "2026-04-27",
+      "time": "12:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Round 2 · 25 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Round 2 · Best of 25. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/3132149e-3893-47ed-9c46-b780e9fa39f3",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "3132149e-3893-47ed-9c46-b780e9fa39f3"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-e22a9776-20d8-42d7-979d-1c53be663c47",
+      "name": "John Higgins vs Ronnie O'Sullivan",
+      "name_en": "John Higgins vs Ronnie O'Sullivan",
+      "date": "2026-04-27",
+      "time": "12:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Round 2 · 25 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Round 2 · Best of 25. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/e22a9776-20d8-42d7-979d-1c53be663c47",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "e22a9776-20d8-42d7-979d-1c53be663c47"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-63cf1a1c-0213-48b6-9963-ed2740062550",
+      "name": "Chris Wakelin vs Neil Robertson",
+      "name_en": "Chris Wakelin vs Neil Robertson",
+      "date": "2026-04-27",
+      "time": "18:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Round 2 · 25 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Round 2 · Best of 25. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/63cf1a1c-0213-48b6-9963-ed2740062550",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "63cf1a1c-0213-48b6-9963-ed2740062550"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-914cc2c9-0c1b-428e-b280-7b2205f22fdd",
+      "name": "Hossein Vafaei vs Judd Trump",
+      "name_en": "Hossein Vafaei vs Judd Trump",
+      "date": "2026-04-27",
+      "time": "18:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Round 2 · 25 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Round 2 · Best of 25. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/914cc2c9-0c1b-428e-b280-7b2205f22fdd",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "914cc2c9-0c1b-428e-b280-7b2205f22fdd"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-33f5963a-81a8-436a-bd3e-7fd3a636ca3d",
+      "name": "Mark Allen vs Barry Hawkins",
+      "name_en": "Mark Allen vs Barry Hawkins",
+      "date": "2026-04-29",
+      "time": "09:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Quarter Finals · 25 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Quarter Finals · Best of 25. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/33f5963a-81a8-436a-bd3e-7fd3a636ca3d",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "33f5963a-81a8-436a-bd3e-7fd3a636ca3d"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-f7c44fa0-4363-4a2e-a544-fc4daef9bfca",
+      "name": "Zhao Xintong vs Shaun Murphy",
+      "name_en": "Zhao Xintong vs Shaun Murphy",
+      "date": "2026-04-29",
+      "time": "13:30",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Quarter Finals · 25 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Quarter Finals · Best of 25. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/f7c44fa0-4363-4a2e-a544-fc4daef9bfca",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "f7c44fa0-4363-4a2e-a544-fc4daef9bfca"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-fd4c0c8a-0917-42e0-90b6-260bd52f6238",
+      "name": "Wu Yize vs Hossein Vafaei",
+      "name_en": "Wu Yize vs Hossein Vafaei",
+      "date": "2026-04-29",
+      "time": "18:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Quarter Finals · 25 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Quarter Finals · Best of 25. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/fd4c0c8a-0917-42e0-90b6-260bd52f6238",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "fd4c0c8a-0917-42e0-90b6-260bd52f6238"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-c2d1eda3-f98a-4465-ba07-90b84de95cad",
+      "name": "John Higgins vs Neil Robertson",
+      "name_en": "John Higgins vs Neil Robertson",
+      "date": "2026-04-29",
+      "time": "18:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Quarter Finals · 25 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Quarter Finals · Best of 25. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/c2d1eda3-f98a-4465-ba07-90b84de95cad",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "c2d1eda3-f98a-4465-ba07-90b84de95cad"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-fe87d9d0-da7e-4690-a342-5c8535749567",
+      "name": "Shaun Murphy vs John Higgins",
+      "name_en": "Shaun Murphy vs John Higgins",
+      "date": "2026-05-02",
+      "time": "13:30",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Semi Finals · 33 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Semi Finals · Best of 33. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/fe87d9d0-da7e-4690-a342-5c8535749567",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "fe87d9d0-da7e-4690-a342-5c8535749567"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-b0a8126a-98f9-40e3-9289-1d6596faeab0",
+      "name": "Mark Allen vs Wu Yize",
+      "name_en": "Mark Allen vs Wu Yize",
+      "date": "2026-05-02",
+      "time": "18:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Semi Finals · 33 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Semi Finals · Best of 33. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/b0a8126a-98f9-40e3-9289-1d6596faeab0",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "b0a8126a-98f9-40e3-9289-1d6596faeab0"
+      }
+    },
+    {
+      "id": "snooker-world-championship-match-d03e888d-a655-48ac-85db-21dee72fdc9d",
+      "name": "Shaun Murphy vs Wu Yize",
+      "name_en": "Shaun Murphy vs Wu Yize",
+      "date": "2026-05-04",
+      "time": "18:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克世锦赛 · Final · 35 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "World Snooker Championship · Final · Best of 35. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/d03e888d-a655-48ac-85db-21dee72fdc9d",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+        "snooker_match_id": "d03e888d-a655-48ac-85db-21dee72fdc9d"
+      }
+    },
+    {
+      "id": "snooker-world-championship-2026-e9d4366b-b5aa-476e-b302-adafddb9ff91",
+      "name": "斯诺克世界锦标赛",
+      "name_en": "World Championship 2027",
+      "date": "2027-04-17",
+      "end_date": "2027-05-03",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "Sheffield，England",
+      "description_en": "Sheffield, England",
+      "url": "https://www.wst.tv/matches/e9d4366b-b5aa-476e-b302-adafddb9ff91",
+      "status": "confirmed",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "season_label": "2026-27",
+      "details": {
+        "snooker_tournament_id": "e9d4366b-b5aa-476e-b302-adafddb9ff91",
+        "snooker_series": "world"
+      }
+    }
+  ],
+  "snooker_tournaments": {
+    "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3": {
+      "id": "e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3",
+      "name": "Halo World Championship 2026",
+      "date": "2026-04-18",
+      "end_date": "2026-05-04",
+      "season": 2025,
+      "checked_at": "2026-11-18",
+      "matches": [
+        {
+          "id": "49c4d897-61c9-4a27-809f-aa5453cba5f4",
+          "fixture": 1,
+          "round": "Round 1",
+          "home": {
+            "id": "895d376f-9f42-4e67-8a63-bc78676d0726",
+            "name": "Zhao Xintong",
+            "country": "CHN"
+          },
+          "away": {
+            "id": "15860676-6802-4c5d-a06e-ce1356e8cdb7",
+            "name": "Liam Highfield",
+            "country": "ENG"
+          },
+          "homeScore": 10,
+          "awayScore": 7,
+          "frames": 19,
+          "status": "Completed",
+          "start": "2026-04-18T18:00:00Z",
+          "homeFrom": null,
+          "awayFrom": null
+        },
+        {
+          "id": "d5f35abe-5d05-48f8-9fee-d4d3b792ebf9",
+          "fixture": 10,
+          "round": "Round 1",
+          "home": {
+            "id": "c37aba27-5b12-4fae-8a8b-9e749c7a25f3",
+            "name": "Mark Allen",
+            "country": "NIR"
+          },
+          "away": {
+            "id": "0512f55a-faea-48df-a8fc-895fbcaef511",
+            "name": "Zhang Anda",
+            "country": "CHN"
+          },
+          "homeScore": 10,
+          "awayScore": 6,
+          "frames": 19,
+          "status": "Completed",
+          "start": "2026-04-19T09:00:00Z",
+          "homeFrom": null,
+          "awayFrom": null
+        },
+        {
+          "id": "0e2c483b-2ebe-443c-b509-dc4238a2256c",
+          "fixture": 11,
+          "round": "Round 1",
+          "home": {
+            "id": "ec561f17-e982-43b3-8807-82fc76adbe75",
+            "name": "Barry Hawkins",
+            "country": "ENG"
+          },
+          "away": {
+            "id": "af1c65bd-d676-4bfc-8e93-65e34adf93c7",
+            "name": "Matthew Stevens",
+            "country": "WAL"
+          },
+          "homeScore": 10,
+          "awayScore": 4,
+          "frames": 19,
+          "status": "Completed",
+          "start": "2026-04-19T13:30:00Z",
+          "homeFrom": null,
+          "awayFrom": null
+        },
+        {
+          "id": "304470d6-a2cf-4a86-abac-ad67c48c67d2",
+          "fixture": 3,
+          "round": "Round 1",
+          "home": {
+            "id": "c3d39c08-92fd-471b-8901-903a4bd22027",
+            "name": "Xiao Guodong",
+            "country": "CHN"
+          },
+          "away": {
+            "id": "960cd1e6-2bb4-4229-aefe-447646412bf2",
+            "name": "Zhou Yuelong",
+            "country": "CHN"
+          },
+          "homeScore": 10,
+          "awayScore": 6,
+          "frames": 19,
+          "status": "Completed",
+          "start": "2026-04-19T18:00:00Z",
+          "homeFrom": null,
+          "awayFrom": null
+        },
+        {
+          "id": "a3e9e0a3-e3a7-4d1f-b0a1-9cdceb0643f9",
+          "fixture": 12,
+          "round": "Round 1",
+          "home": {
+            "id": "6aaddcbb-345c-474a-9069-e7757e155729",
+            "name": "Mark Williams",
+            "country": "WAL"
+          },
+          "away": {
+            "id": "7ada76bf-e9ae-479f-84ab-1715d8131249",
+            "name": "Antoni Kowalski",
+            "country": "POL"
+          },
+          "homeScore": 10,
+          "awayScore": 4,
+          "frames": 19,
+          "status": "Completed",
+          "start": "2026-04-19T18:00:00Z",
+          "homeFrom": null,
+          "awayFrom": null
+        },
+        {
+          "id": "9411cc19-afcc-428b-a0e6-05810ab71a3b",
+          "fixture": 2,
+          "round": "Round 1",
+          "home": {
+            "id": "3ff06750-8c3c-456c-8fac-58209b6f679e",
+            "name": "Ding Junhui",
+            "country": "CHN"
+          },
+          "away": {
+            "id": "9b2532c1-a189-4573-8320-f254d2f9bfde",
+            "name": "David Gilbert",
+            "country": "ENG"
+          },
+          "homeScore": 10,
+          "awayScore": 5,
+          "frames": 19,
+          "status": "Completed",
+          "start": "2026-04-20T09:00:00Z",
+          "homeFrom": null,
+          "awayFrom": null
+        },
+        {
+          "id": "916fb3e5-08e9-4b10-96d7-2de2d56c19b5",
+          "fixture": 9,
+          "round": "Round 1",
+          "home": {
+            "id": "a8c0d3a6-706b-4bf0-8dce-9cde97fe88c4",
+            "name": "Kyren Wilson",
+            "country": "ENG"
+          },
+          "away": {
+            "id": "a65d6cc8-05fa-4827-8294-a1da17c975f6",
+            "name": "Stan Moody",
+            "country": "ENG"
+          },
+          "homeScore": 10,
+          "awayScore": 7,
+          "frames": 19,
+          "status": "Completed",
+          "start": "2026-04-20T09:00:00Z",
+          "homeFrom": null,
+          "awayFrom": null
+        },
+        {
+          "id": "1ee688c2-27b8-48f5-9ece-6bffe63a3895",
+          "fixture": 5,
+          "round": "Round 1",
+          "home": {
+            "id": "a5eecca1-8302-4739-84fc-6721627baa43",
+            "name": "John Higgins",
+            "country": "SCT"
+          },
+          "away": {
+            "id": "c796b82d-1040-422d-b27d-9249310b99a3",
+            "name": "Ali Carter",
+            "country": "ENG"
+          },
+          "homeScore": 10,
+          "awayScore": 7,
+          "frames": 19,
+          "status": "Completed",
+          "start": "2026-04-20T13:30:00Z",
+          "homeFrom": null,
+          "awayFrom": null
+        },
+        {
+          "id": "5edec5b0-65d8-4340-8464-844a5cdaac8b",
+          "fixture": 14,
+          "round": "Round 1",
+          "home": {
+            "id": "d935d534-e696-4292-b773-e9b8efee1ea7",
+            "name": "Wu Yize",
+            "country": "CHN"
+          },
+          "away": {
+            "id": "9e0b1245-cc2c-4dab-ad27-46db80701684",
+            "name": "Lei Peifan",
+            "country": "CHN"
+          },
+          "homeScore": 10,
+          "awayScore": 2,
+          "frames": 19,
+          "status": "Completed",
+          "start": "2026-04-21T13:30:00Z",
+          "homeFrom": null,
+          "awayFrom": null
+        },
+        {
+          "id": "0f088bf9-a231-478a-a2e9-e505ee650ddf",
+          "fixture": 16,
+          "round": "Round 1",
+          "home": {
+            "id": "e2f3cfe7-6138-4ce6-b1dc-77dcc1d0a65f",
+            "name": "Judd Trump",
+            "country": "ENG"
+          },
+          "away": {
+            "id": "e5f4377c-5119-4c0a-9a88-e42eb8e48677",
+            "name": "Gary Wilson",
+            "country": "ENG"
+          },
+          "homeScore": 10,
+          "awayScore": 5,
+          "frames": 19,
+          "status": "Completed",
+          "start": "2026-04-21T18:00:00Z",
+          "homeFrom": null,
+          "awayFrom": null
+        },
+        {
+          "id": "684aa1fd-d319-4650-8593-92daca166da6",
+          "fixture": 4,
+          "round": "Round 1",
+          "home": {
+            "id": "03fe92d3-ad85-434c-bc17-5fe02a496187",
+            "name": "Shaun Murphy",
+            "country": "ENG"
+          },
+          "away": {
+            "id": "8cbf82f6-c417-421c-ae39-17c8103284cd",
+            "name": "Fan Zhengyi",
+            "country": "CHN"
+          },
+          "homeScore": 10,
+          "awayScore": 9,
+          "frames": 19,
+          "status": "Completed",
+          "start": "2026-04-21T18:00:00Z",
+          "homeFrom": null,
+          "awayFrom": null
+        },
+        {
+          "id": "b7d87527-2bb0-4f63-b49e-b237b0c0a218",
+          "fixture": 7,
+          "round": "Round 1",
+          "home": {
+            "id": "a1beeb4b-2493-476c-9682-1900eb83c2d5",
+            "name": "Chris Wakelin",
+            "country": "ENG"
+          },
+          "away": {
+            "id": "44b09a9f-4ded-4b51-80f5-dbd28eb86274",
+            "name": "Liam Pullen",
+            "country": "ENG"
+          },
+          "homeScore": 10,
+          "awayScore": 6,
+          "frames": 19,
+          "status": "Completed",
+          "start": "2026-04-22T09:00:00Z",
+          "homeFrom": null,
+          "awayFrom": null
+        },
+        {
+          "id": "41193e0a-fc0b-4a2c-91e6-4b67082dddaf",
+          "fixture": 6,
+          "round": "Round 1",
+          "home": {
+            "id": "226c7294-655e-4925-bcde-17330ddfc438",
+            "name": "Ronnie O'Sullivan",
+            "country": "ENG"
+          },
+          "away": {
+            "id": "5587fb4d-8517-4572-918e-65ff83b71d74",
+            "name": "He Guoqiang",
+            "country": "CHN"
+          },
+          "homeScore": 10,
+          "awayScore": 2,
+          "frames": 19,
+          "status": "Completed",
+          "start": "2026-04-22T13:30:00Z",
+          "homeFrom": null,
+          "awayFrom": null
+        },
+        {
+          "id": "3e70c493-1489-4e0e-b86c-88a64a880c65",
+          "fixture": 13,
+          "round": "Round 1",
+          "home": {
+            "id": "ba7831b4-ab75-4435-946a-c6f02e4e2d4b",
+            "name": "Mark Selby",
+            "country": "ENG"
+          },
+          "away": {
+            "id": "036bc430-6c51-4d63-a366-a6ca218f7f39",
+            "name": "Jak Jones",
+            "country": "WAL"
+          },
+          "homeScore": 10,
+          "awayScore": 2,
+          "frames": 19,
+          "status": "Completed",
+          "start": "2026-04-22T18:00:00Z",
+          "homeFrom": null,
+          "awayFrom": null
+        },
+        {
+          "id": "4d453581-c4c7-4392-a716-482beea7a1ec",
+          "fixture": 15,
+          "round": "Round 1",
+          "home": {
+            "id": "f3c7e0cf-7cb6-405e-9ba1-4d02716a20c3",
+            "name": "Si Jiahui",
+            "country": "CHN"
+          },
+          "away": {
+            "id": "99019ac8-ad6a-4927-9f93-1935ea43ca55",
+            "name": "Hossein Vafaei",
+            "country": "IRN"
+          },
+          "homeScore": 3,
+          "awayScore": 10,
+          "frames": 19,
+          "status": "Completed",
+          "start": "2026-04-23T12:00:00Z",
+          "homeFrom": null,
+          "awayFrom": null
+        },
+        {
+          "id": "d43e0454-a2c3-462a-943b-d9069de1c59d",
+          "fixture": 8,
+          "round": "Round 1",
+          "home": {
+            "id": "8b83133a-4c15-4275-811e-bdf2cb02702f",
+            "name": "Neil Robertson",
+            "country": "AUS"
+          },
+          "away": {
+            "id": "9c842985-9f09-4bd0-aa6a-dafe523b40ee",
+            "name": "Pang Junxu",
+            "country": "CHN"
+          },
+          "homeScore": 10,
+          "awayScore": 6,
+          "frames": 19,
+          "status": "Completed",
+          "start": "2026-04-23T18:00:00Z",
+          "homeFrom": null,
+          "awayFrom": null
+        },
+        {
+          "id": "c3e94945-c615-4e6f-8efd-8bb7f6fe386d",
+          "fixture": 18,
+          "round": "Round 2",
+          "home": {
+            "id": "c3d39c08-92fd-471b-8901-903a4bd22027",
+            "name": "Xiao Guodong",
+            "country": "CHN"
+          },
+          "away": {
+            "id": "03fe92d3-ad85-434c-bc17-5fe02a496187",
+            "name": "Shaun Murphy",
+            "country": "ENG"
+          },
+          "homeScore": 3,
+          "awayScore": 13,
+          "frames": 25,
+          "status": "Completed",
+          "start": "2026-04-24T09:00:00Z",
+          "homeFrom": 3,
+          "awayFrom": 4
+        },
+        {
+          "id": "b64a7ee9-aabc-4800-a4c7-84085ff281b5",
+          "fixture": 21,
+          "round": "Round 2",
+          "home": {
+            "id": "a8c0d3a6-706b-4bf0-8dce-9cde97fe88c4",
+            "name": "Kyren Wilson",
+            "country": "ENG"
+          },
+          "away": {
+            "id": "c37aba27-5b12-4fae-8a8b-9e749c7a25f3",
+            "name": "Mark Allen",
+            "country": "NIR"
+          },
+          "homeScore": 9,
+          "awayScore": 13,
+          "frames": 25,
+          "status": "Completed",
+          "start": "2026-04-25T09:00:00Z",
+          "homeFrom": 9,
+          "awayFrom": 10
+        },
+        {
+          "id": "e4a8b8e2-18be-41bb-a4b6-501b0abfa6a5",
+          "fixture": 22,
+          "round": "Round 2",
+          "home": {
+            "id": "ec561f17-e982-43b3-8807-82fc76adbe75",
+            "name": "Barry Hawkins",
+            "country": "ENG"
+          },
+          "away": {
+            "id": "6aaddcbb-345c-474a-9069-e7757e155729",
+            "name": "Mark Williams",
+            "country": "WAL"
+          },
+          "homeScore": 13,
+          "awayScore": 9,
+          "frames": 25,
+          "status": "Completed",
+          "start": "2026-04-25T18:00:00Z",
+          "homeFrom": 11,
+          "awayFrom": 12
+        },
+        {
+          "id": "b6d39f19-c43e-4f20-81a8-ac7af5d0a151",
+          "fixture": 17,
+          "round": "Round 2",
+          "home": {
+            "id": "895d376f-9f42-4e67-8a63-bc78676d0726",
+            "name": "Zhao Xintong",
+            "country": "CHN"
+          },
+          "away": {
+            "id": "3ff06750-8c3c-456c-8fac-58209b6f679e",
+            "name": "Ding Junhui",
+            "country": "CHN"
+          },
+          "homeScore": 13,
+          "awayScore": 9,
+          "frames": 25,
+          "status": "Completed",
+          "start": "2026-04-26T09:00:00Z",
+          "homeFrom": 1,
+          "awayFrom": 2
+        },
+        {
+          "id": "3132149e-3893-47ed-9c46-b780e9fa39f3",
+          "fixture": 23,
+          "round": "Round 2",
+          "home": {
+            "id": "ba7831b4-ab75-4435-946a-c6f02e4e2d4b",
+            "name": "Mark Selby",
+            "country": "ENG"
+          },
+          "away": {
+            "id": "d935d534-e696-4292-b773-e9b8efee1ea7",
+            "name": "Wu Yize",
+            "country": "CHN"
+          },
+          "homeScore": 11,
+          "awayScore": 13,
+          "frames": 25,
+          "status": "Completed",
+          "start": "2026-04-27T12:00:00Z",
+          "homeFrom": 13,
+          "awayFrom": 14
+        },
+        {
+          "id": "e22a9776-20d8-42d7-979d-1c53be663c47",
+          "fixture": 19,
+          "round": "Round 2",
+          "home": {
+            "id": "a5eecca1-8302-4739-84fc-6721627baa43",
+            "name": "John Higgins",
+            "country": "SCT"
+          },
+          "away": {
+            "id": "226c7294-655e-4925-bcde-17330ddfc438",
+            "name": "Ronnie O'Sullivan",
+            "country": "ENG"
+          },
+          "homeScore": 13,
+          "awayScore": 12,
+          "frames": 25,
+          "status": "Completed",
+          "start": "2026-04-27T12:00:00Z",
+          "homeFrom": 5,
+          "awayFrom": 6
+        },
+        {
+          "id": "63cf1a1c-0213-48b6-9963-ed2740062550",
+          "fixture": 20,
+          "round": "Round 2",
+          "home": {
+            "id": "a1beeb4b-2493-476c-9682-1900eb83c2d5",
+            "name": "Chris Wakelin",
+            "country": "ENG"
+          },
+          "away": {
+            "id": "8b83133a-4c15-4275-811e-bdf2cb02702f",
+            "name": "Neil Robertson",
+            "country": "AUS"
+          },
+          "homeScore": 7,
+          "awayScore": 13,
+          "frames": 25,
+          "status": "Completed",
+          "start": "2026-04-27T18:00:00Z",
+          "homeFrom": 7,
+          "awayFrom": 8
+        },
+        {
+          "id": "914cc2c9-0c1b-428e-b280-7b2205f22fdd",
+          "fixture": 24,
+          "round": "Round 2",
+          "home": {
+            "id": "99019ac8-ad6a-4927-9f93-1935ea43ca55",
+            "name": "Hossein Vafaei",
+            "country": "IRN"
+          },
+          "away": {
+            "id": "e2f3cfe7-6138-4ce6-b1dc-77dcc1d0a65f",
+            "name": "Judd Trump",
+            "country": "ENG"
+          },
+          "homeScore": 13,
+          "awayScore": 12,
+          "frames": 25,
+          "status": "Completed",
+          "start": "2026-04-27T18:00:00Z",
+          "homeFrom": 15,
+          "awayFrom": 16
+        },
+        {
+          "id": "33f5963a-81a8-436a-bd3e-7fd3a636ca3d",
+          "fixture": 27,
+          "round": "Quarter Finals",
+          "home": {
+            "id": "c37aba27-5b12-4fae-8a8b-9e749c7a25f3",
+            "name": "Mark Allen",
+            "country": "NIR"
+          },
+          "away": {
+            "id": "ec561f17-e982-43b3-8807-82fc76adbe75",
+            "name": "Barry Hawkins",
+            "country": "ENG"
+          },
+          "homeScore": 13,
+          "awayScore": 11,
+          "frames": 25,
+          "status": "Completed",
+          "start": "2026-04-29T09:00:00Z",
+          "homeFrom": 21,
+          "awayFrom": 22
+        },
+        {
+          "id": "f7c44fa0-4363-4a2e-a544-fc4daef9bfca",
+          "fixture": 25,
+          "round": "Quarter Finals",
+          "home": {
+            "id": "895d376f-9f42-4e67-8a63-bc78676d0726",
+            "name": "Zhao Xintong",
+            "country": "CHN"
+          },
+          "away": {
+            "id": "03fe92d3-ad85-434c-bc17-5fe02a496187",
+            "name": "Shaun Murphy",
+            "country": "ENG"
+          },
+          "homeScore": 10,
+          "awayScore": 13,
+          "frames": 25,
+          "status": "Completed",
+          "start": "2026-04-29T13:30:00Z",
+          "homeFrom": 17,
+          "awayFrom": 18
+        },
+        {
+          "id": "fd4c0c8a-0917-42e0-90b6-260bd52f6238",
+          "fixture": 28,
+          "round": "Quarter Finals",
+          "home": {
+            "id": "d935d534-e696-4292-b773-e9b8efee1ea7",
+            "name": "Wu Yize",
+            "country": "CHN"
+          },
+          "away": {
+            "id": "99019ac8-ad6a-4927-9f93-1935ea43ca55",
+            "name": "Hossein Vafaei",
+            "country": "IRN"
+          },
+          "homeScore": 13,
+          "awayScore": 8,
+          "frames": 25,
+          "status": "Completed",
+          "start": "2026-04-29T18:00:00Z",
+          "homeFrom": 23,
+          "awayFrom": 24
+        },
+        {
+          "id": "c2d1eda3-f98a-4465-ba07-90b84de95cad",
+          "fixture": 26,
+          "round": "Quarter Finals",
+          "home": {
+            "id": "a5eecca1-8302-4739-84fc-6721627baa43",
+            "name": "John Higgins",
+            "country": "SCT"
+          },
+          "away": {
+            "id": "8b83133a-4c15-4275-811e-bdf2cb02702f",
+            "name": "Neil Robertson",
+            "country": "AUS"
+          },
+          "homeScore": 13,
+          "awayScore": 10,
+          "frames": 25,
+          "status": "Completed",
+          "start": "2026-04-29T18:00:00Z",
+          "homeFrom": 19,
+          "awayFrom": 20
+        },
+        {
+          "id": "fe87d9d0-da7e-4690-a342-5c8535749567",
+          "fixture": 29,
+          "round": "Semi Finals",
+          "home": {
+            "id": "03fe92d3-ad85-434c-bc17-5fe02a496187",
+            "name": "Shaun Murphy",
+            "country": "ENG"
+          },
+          "away": {
+            "id": "a5eecca1-8302-4739-84fc-6721627baa43",
+            "name": "John Higgins",
+            "country": "SCT"
+          },
+          "homeScore": 17,
+          "awayScore": 15,
+          "frames": 33,
+          "status": "Completed",
+          "start": "2026-05-02T13:30:00Z",
+          "homeFrom": 25,
+          "awayFrom": 26
+        },
+        {
+          "id": "b0a8126a-98f9-40e3-9289-1d6596faeab0",
+          "fixture": 30,
+          "round": "Semi Finals",
+          "home": {
+            "id": "c37aba27-5b12-4fae-8a8b-9e749c7a25f3",
+            "name": "Mark Allen",
+            "country": "NIR"
+          },
+          "away": {
+            "id": "d935d534-e696-4292-b773-e9b8efee1ea7",
+            "name": "Wu Yize",
+            "country": "CHN"
+          },
+          "homeScore": 16,
+          "awayScore": 17,
+          "frames": 33,
+          "status": "Completed",
+          "start": "2026-05-02T18:00:00Z",
+          "homeFrom": 27,
+          "awayFrom": 28
+        },
+        {
+          "id": "d03e888d-a655-48ac-85db-21dee72fdc9d",
+          "fixture": 31,
+          "round": "Final",
+          "home": {
+            "id": "03fe92d3-ad85-434c-bc17-5fe02a496187",
+            "name": "Shaun Murphy",
+            "country": "ENG"
+          },
+          "away": {
+            "id": "d935d534-e696-4292-b773-e9b8efee1ea7",
+            "name": "Wu Yize",
+            "country": "CHN"
+          },
+          "homeScore": 17,
+          "awayScore": 18,
+          "frames": 35,
+          "status": "Completed",
+          "start": "2026-05-04T18:00:00Z",
+          "homeFrom": 29,
+          "awayFrom": 30
+        }
+      ]
+    },
+    "e9d4366b-b5aa-476e-b302-adafddb9ff91": {
+      "id": "e9d4366b-b5aa-476e-b302-adafddb9ff91",
+      "name": "World Championship 2027",
+      "date": "2027-04-17",
+      "end_date": "2027-05-03",
+      "season": 2026,
+      "checked_at": "2026-11-18",
+      "matches": []
+    }
+  },
+  "last_updated": "2026-11-18"
+}

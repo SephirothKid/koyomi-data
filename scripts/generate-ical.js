@@ -50,6 +50,9 @@ const SUBCATEGORY_MAP = {
   'bwf-majors': 'badminton',
   // snooker
   'snooker-majors': 'snooker',
+  'snooker-uk-championship': 'snooker',
+  'snooker-masters': 'snooker',
+  'snooker-world-championship': 'snooker',
   // volleyball
   'vnl-women': 'volleyball',
   'vnl-men': 'volleyball',
@@ -536,7 +539,7 @@ function createCalendar(source, events, options = {}) {
     let end
 
     if (hasTime) {
-      const startOnly = (event.game || source.id === 'worldcup-qualifiers-afc')
+      const startOnly = (event.game || event.scopeOnly || event.details?.snooker_match_id || source.id === 'worldcup-qualifiers-afc')
         && !event.end_date && !event.endDate && !event.end_time && !event.endTime
       end = startOnly ? null : inferTimeKind(event) === 'datetime_range'
         ? wallClockDateTime(endDateStr, endTimeStr) : start.addMinutes(60)
@@ -603,7 +606,7 @@ function createCalendar(source, events, options = {}) {
     if (event.details) {
       const detailsForLocale = isEn ? (event.details_en ?? event.details) : event.details
       descParts.push(
-        Object.entries(detailsForLocale).filter(([key, value]) => !key.startsWith('bwf_') && (!isEn || (englishCopy(key) && englishCopy(String(value))))).map(([k, v]) => `${k}: ${v}`).join('\n')
+        Object.entries(detailsForLocale).filter(([key, value]) => !key.startsWith('bwf_') && !key.startsWith('snooker_') && (!isEn || (englishCopy(key) && englishCopy(String(value))))).map(([k, v]) => `${k}: ${v}`).join('\n')
       )
     }
 

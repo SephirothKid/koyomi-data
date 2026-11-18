@@ -5,32 +5,13 @@ URL:https://my-koyomi.com/sources/bwf-world-tour
 NAME:Women's singles
 X-WR-CALNAME:Women's singles
 X-WR-CALDESC:Women's singles
-TIMEZONE-ID:Asia/Shanghai
-X-WR-TIMEZONE:Asia/Shanghai
-BEGIN:VEVENT
-UID:bwf-world-tour-ws-bwf-world-tour-2026-e5210-match-1556151@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261117T000000
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Women's singles · AN Se Young vs Akane YAMAGUCHI · Women's singl
- es
-DESCRIPTION:VICTOR Denmark Open 2026 · Final · Followed by · Court 1 ·
-  21–23\, 21–14\, 21–18\n\nSource: https://bwfworldtour.bwfbadminton.
- com/tournament/5210/victor-denmark-open-2026/results/
-CATEGORIES:Women's singles
-URL;VALUE=URI:https://bwfworldtour.bwfbadminton.com/tournament/5210/victor
- -denmark-open-2026/results/
-STATUS:CONFIRMED
-END:VEVENT
+TIMEZONE-ID:Etc/UTC
+X-WR-TIMEZONE:Etc/UTC
 BEGIN:VEVENT
 UID:bwf-world-tour-ws-bwf-world-tour-2026-e5272-match-1558460@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261020T081000
-DTEND:20261020T091000
+DTSTART;TZID=Etc/UTC:20261020T081000
 SUMMARY:Women's singles · Tanvi SHARMA vs Isharani BARUAH · Women's sing
  les
 DESCRIPTION:YONEX French Open 2026 · R32 · Court 4 · 21–12\, 21–12\
@@ -135,8 +116,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-ws-bwf-world-tour-2026-e5272-match-1558527@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261021T081000
-DTEND:20261021T091000
+DTSTART;TZID=Etc/UTC:20261021T081000
 SUMMARY:Women's singles · AN Se Young vs Amalie SCHULZ · Women's singles
 DESCRIPTION:YONEX French Open 2026 · R32 · Court 3 · 21–6\, 21–4\n\
  nSource: https://bwfworldtour.bwfbadminton.com/tournament/5272/yonex-frenc
@@ -309,8 +289,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-ws-bwf-world-tour-2026-e5272-match-1558556@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261022T100000
-DTEND:20261022T110000
+DTSTART;TZID=Etc/UTC:20261022T100000
 SUMMARY:Women's singles · AN Se Young vs Tanvi SHARMA · Women's singles
 DESCRIPTION:YONEX French Open 2026 · R16 · Court 1 · 21–11\, 21–14\
  n\nSource: https://bwfworldtour.bwfbadminton.com/tournament/5272/yonex-fre
@@ -447,8 +426,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-ws-bwf-world-tour-2026-e5272-match-1558425@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261023T073000
-DTEND:20261023T083000
+DTSTART;TZID=Etc/UTC:20261023T073000
 SUMMARY:Women's singles · AN Se Young vs HAN Yue · Women's singles
 DESCRIPTION:YONEX French Open 2026 · QF · Court 1 · 21–13\, 21–16\n
  \nSource: https://bwfworldtour.bwfbadminton.com/tournament/5272/yonex-fren
@@ -462,8 +440,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-ws-bwf-world-tour-2026-e5272-match-1558429@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261023T073000
-DTEND:20261023T083000
+DTSTART;TZID=Etc/UTC:20261023T073000
 SUMMARY:Women's singles · Ashmita CHALIHA vs Nozomi OKUHARA · Women's si
  ngles
 DESCRIPTION:YONEX French Open 2026 · QF · Court 2 · 10–21\, 21–17\,
@@ -514,8 +491,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-ws-bwf-world-tour-2026-e5272-match-1558525@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261024T073000
-DTEND:20261024T083000
+DTSTART;TZID=Etc/UTC:20261024T073000
 SUMMARY:Women's singles · AN Se Young vs Nozomi OKUHARA · Women's single
  s
 DESCRIPTION:YONEX French Open 2026 · SF · Court 1 · 21–12\, 21–19\n
@@ -548,8 +524,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-ws-bwf-world-tour-2026-e5272-match-1558526@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261025T100000
-DTEND:20261025T110000
+DTSTART;TZID=Etc/UTC:20261025T100000
 SUMMARY:Women's singles · AN Se Young vs PUSARLA V. Sindhu · Women's sin
  gles
 DESCRIPTION:YONEX French Open 2026 · Final · Court 1 · 16–21\, 21–1
@@ -636,8 +611,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-ws-bwf-world-tour-2026-e5273-match-1560223@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261028T080000
-DTEND:20261028T090000
+DTSTART;TZID=Etc/UTC:20261028T080000
 SUMMARY:Women's singles · Pornpawee CHOCHUWONG vs Anna Siess RYBERG · Wo
  men's singles
 DESCRIPTION:HYLO Open 2026 · R32 · Court 1 · 21–17\, 21–11\n\nSourc
@@ -652,8 +626,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-ws-bwf-world-tour-2026-e5273-match-1560212@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261028T080000
-DTEND:20261028T090000
+DTSTART;TZID=Etc/UTC:20261028T080000
 SUMMARY:Women's singles · Petra MAIXNEROVÁ vs Wen Yu ZHANG · Women's si
  ngles
 DESCRIPTION:HYLO Open 2026 · R32 · Court 2 · 16–21\, 17–21\n\nSourc
@@ -704,8 +677,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-ws-bwf-world-tour-2026-e5273-match-1560370@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261028T114500
-DTEND:20261028T124500
+DTSTART;TZID=Etc/UTC:20261028T114500
 SUMMARY:Women's singles · Tereza ŠVÁBÍKOVÁ vs Unnati HOODA · Women's
   singles
 DESCRIPTION:HYLO Open 2026 · R32 · Not before · Court 3 · 21–17\, 12
@@ -792,8 +764,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-ws-bwf-world-tour-2026-e5273-match-1560344@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261028T153000
-DTEND:20261028T163000
+DTSTART;TZID=Etc/UTC:20261028T153000
 SUMMARY:Women's singles · Line Højmark KJAERSFELDT vs Tonrug SAEHENG · 
  Women's singles
 DESCRIPTION:HYLO Open 2026 · R32 · Not before · Court 2 · 16–21\, 21
@@ -915,8 +886,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-ws-bwf-world-tour-2026-e5273-match-1560328@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261029T090000
-DTEND:20261029T100000
+DTSTART;TZID=Etc/UTC:20261029T090000
 SUMMARY:Women's singles · Pornpawee CHOCHUWONG vs Polina BUHROVA · Women
  's singles
 DESCRIPTION:HYLO Open 2026 · R16 · Court 1 · 21–19\, 17–21\, 21–9
@@ -985,8 +955,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-ws-bwf-world-tour-2026-e5273-match-1560331@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261029T140000
-DTEND:20261029T150000
+DTSTART;TZID=Etc/UTC:20261029T140000
 SUMMARY:Women's singles · SUNG Shuo Yun vs Kirsty GILMOUR · Women's sing
  les
 DESCRIPTION:HYLO Open 2026 · R16 · Not before · Court 2 · 2–21\, 11
@@ -1055,8 +1024,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-ws-bwf-world-tour-2026-e5273-match-1560324@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261030T120000
-DTEND:20261030T130000
+DTSTART;TZID=Etc/UTC:20261030T120000
 SUMMARY:Women's singles · Pornpawee CHOCHUWONG vs Wen Yu ZHANG · Women's
   singles
 DESCRIPTION:HYLO Open 2026 · QF · Court 1 · 21–19\, 18–21\, 21–17
@@ -1124,8 +1092,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-ws-bwf-world-tour-2026-e5273-match-1560347@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261031T130000
-DTEND:20261031T140000
+DTSTART;TZID=Etc/UTC:20261031T130000
 SUMMARY:Women's singles · Pornpawee CHOCHUWONG vs Line Højmark KJAERSFEL
  DT · Women's singles
 DESCRIPTION:HYLO Open 2026 · SF · Court 1 · 21–8\, 19–21\, 26–28\
@@ -1140,8 +1107,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-ws-bwf-world-tour-2026-e5273-match-1560321@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261031T131000
-DTEND:20261031T141000
+DTSTART;TZID=Etc/UTC:20261031T131000
 SUMMARY:Women's singles · Anmol KHARB vs PUSARLA V. Sindhu · Women's sin
  gles
 DESCRIPTION:HYLO Open 2026 · SF · Court 2 · 13–21\, 16–21\n\nSource
@@ -1156,8 +1122,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-ws-bwf-world-tour-2026-e5273-match-1560349@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261101T130000
-DTEND:20261101T140000
+DTSTART;TZID=Etc/UTC:20261101T130000
 SUMMARY:Women's singles · Line Højmark KJAERSFELDT vs PUSARLA V. Sindhu 
  · Women's singles
 DESCRIPTION:HYLO Open 2026 · Final · Court 1 · 12–21\, 14–21\n\nSou
@@ -1787,8 +1752,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-ws-bwf-world-tour-2026-e5216-match-1565765@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261110T000000
-DTEND:20261110T010000
+DTSTART;TZID=Etc/UTC:20261110T000000
 SUMMARY:Women's singles · Niina MATSUTA vs Yevheniia KANTEMYR · Women's 
  singles
 DESCRIPTION:Kumamoto Masters Japan 2026 · Qual. QF · Court 1 · 21–15\
@@ -2482,8 +2446,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-ws-bwf-world-tour-2026-e5218-match-1570006@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261118T010000
-DTEND:20261118T020000
+DTSTART;TZID=Etc/UTC:20261118T010000
 SUMMARY:Women's singles · Ashmita CHALIHA vs Isharani BARUAH · Women's s
  ingles
 DESCRIPTION:LI-NING Hong Kong Open 2026 · R32 · Court 3\n\nSource: https
@@ -2603,8 +2566,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-ws-bwf-world-tour-2026-e5218-match-1569963@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261118T053000
-DTEND:20261118T063000
+DTSTART;TZID=Etc/UTC:20261118T053000
 SUMMARY:Women's singles · CHIU Pin-Chian vs LO Sin Yan Happy · Women's s
  ingles
 DESCRIPTION:LI-NING Hong Kong Open 2026 · R32 · Not before · Court 1\n\

@@ -45,7 +45,7 @@ export function buildBwfSubscriptions(source) {
       events.push({
         id: `${tournament.id}-match-${match.id}`, name, name_en,
         date: start ? start.slice(0, 10) : match.date,
-        ...(start ? { time: start.slice(11, 19), timezone: 'UTC', time_kind: 'datetime' } : { timezone: tournament.timezone ?? source.timezone, time_kind: 'date' }),
+        ...(start ? { time: start.slice(11, 19), timezone: 'Etc/UTC', time_kind: 'datetime' } : { timezone: tournament.timezone ?? source.timezone, time_kind: 'date' }),
         type: 'event', year: tournament.year, status: match.status === 'completed' ? 'completed' : 'confirmed',
         description: [tournament.name, match.round, timing?.[0], match.court, match.games.map(game => game.join('–')).join(', ')].filter(Boolean).join(' · '),
         description_en: [tournament.name_en, match.round, timing?.[1], match.court, match.games.map(game => game.join('–')).join(', ')].filter(Boolean).join(' · '),

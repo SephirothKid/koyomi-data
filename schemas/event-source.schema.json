@@ -11,6 +11,7 @@
     },
     "name": { "type": "string" },
     "name_en": { "type": "string", "description": "英文名称" },
+    "unlisted": { "type": "boolean", "description": "兼容旧订阅，保留详情和订阅但不进入公开发现目录" },
     "category": {
       "type": "string",
       "enum": ["exam", "gaming", "sports", "holidays", "other"]
@@ -111,6 +112,7 @@
       "description": "已发布的球队身份清单；即使最后一场比赛取消，仍生成原球队的空订阅文件以保留长期 URL。",
       "items": { "$ref": "#/definitions/team" }
     },
+    "snooker_tournaments": { "type": "object", "additionalProperties": { "$ref": "#/definitions/snookerTournament" } },
     "sports_schedules": {
       "type": "object",
       "description": "按整站事件 ID 保存的官方逐场数据；详情页按比赛日分片加载，不复制到整站 iCal。",
@@ -243,6 +245,159 @@
     }
   },
   "definitions": {
+    "snookerPlayer": {
+      "type": "object",
+      "required": [
+        "id",
+        "name",
+        "country"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "country": {
+          "type": "string"
+        }
+      }
+    },
+    "snookerMatch": {
+      "type": "object",
+      "required": [
+        "id",
+        "fixture",
+        "round",
+        "home",
+        "away",
+        "homeScore",
+        "awayScore",
+        "frames",
+        "status",
+        "start",
+        "homeFrom",
+        "awayFrom"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "fixture": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "round": {
+          "type": "string"
+        },
+        "home": {
+          "$ref": "#/definitions/snookerPlayer"
+        },
+        "away": {
+          "$ref": "#/definitions/snookerPlayer"
+        },
+        "homeScore": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "awayScore": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "frames": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 1
+        },
+        "status": {
+          "type": "string",
+          "enum": [
+            "Scheduled",
+            "Completed",
+            "Live",
+            "Suspended",
+            "Cancelled",
+            "Postponed"
+          ]
+        },
+        "start": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date-time"
+        },
+        "homeFrom": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "awayFrom": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        }
+      }
+    },
+    "snookerTournament": {
+      "type": "object",
+      "required": [
+        "id",
+        "name",
+        "date",
+        "end_date",
+        "season",
+        "checked_at",
+        "matches"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string",
+          "format": "date"
+        },
+        "end_date": {
+          "type": "string",
+          "format": "date"
+        },
+        "season": {
+          "type": "integer"
+        },
+        "checked_at": {
+          "type": "string",
+          "format": "date"
+        },
+        "matches": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/snookerMatch"
+          }
+        }
+      }
+    },
     "sportsSchedule": {
       "type": "object",
       "required": ["version", "checked_at", "complete", "days"],

@@ -1,0 +1,748 @@
+{
+  "id": "snooker-masters",
+  "name": "斯诺克大师赛",
+  "category": "sports",
+  "name_en": "Snooker Masters",
+  "description": "斯诺克大师赛正赛赛期、官方对阵及赛果。",
+  "description_en": "Snooker Masters main-event dates, published fixtures and results.",
+  "subcategory": "斯诺克",
+  "subcategory_en": "Snooker",
+  "tags": [
+    "斯诺克"
+  ],
+  "tags_en": [
+    "Snooker"
+  ],
+  "source_url": "https://www.wst.tv/tournaments/",
+  "maintainer": "official",
+  "cycle_kind": "season",
+  "season_basis": "start-year",
+  "events": [
+    {
+      "id": "snooker-masters-2025-a7242074-c028-4cc2-8976-b9a876ca1924",
+      "name": "斯诺克大师赛",
+      "name_en": "Johnstone's Paint Masters 2026",
+      "date": "2026-01-11",
+      "end_date": "2026-01-18",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2025,
+      "description": "London，England",
+      "description_en": "London, England",
+      "url": "https://www.wst.tv/matches/a7242074-c028-4cc2-8976-b9a876ca1924",
+      "status": "confirmed",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "season_label": "2025-26",
+      "details": {
+        "snooker_tournament_id": "a7242074-c028-4cc2-8976-b9a876ca1924",
+        "snooker_series": "masters"
+      }
+    },
+    {
+      "id": "snooker-masters-match-963dfbc8-7f85-41b1-acda-d13fc1595c3c",
+      "name": "Shaun Murphy vs Wu Yize",
+      "name_en": "Shaun Murphy vs Wu Yize",
+      "date": "2026-01-11",
+      "time": "13:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克大师赛 · Round 1 · 11 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "Snooker Masters · Round 1 · Best of 11. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/963dfbc8-7f85-41b1-acda-d13fc1595c3c",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "a7242074-c028-4cc2-8976-b9a876ca1924",
+        "snooker_match_id": "963dfbc8-7f85-41b1-acda-d13fc1595c3c"
+      }
+    },
+    {
+      "id": "snooker-masters-match-a6a46daa-c0f7-47e9-bdae-38491c519c26",
+      "name": "Mark Selby vs Xiao Guodong",
+      "name_en": "Mark Selby vs Xiao Guodong",
+      "date": "2026-01-11",
+      "time": "19:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克大师赛 · Round 1 · 11 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "Snooker Masters · Round 1 · Best of 11. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/a6a46daa-c0f7-47e9-bdae-38491c519c26",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "a7242074-c028-4cc2-8976-b9a876ca1924",
+        "snooker_match_id": "a6a46daa-c0f7-47e9-bdae-38491c519c26"
+      }
+    },
+    {
+      "id": "snooker-masters-match-72228f8a-e99d-4b56-b8de-683cd7e5774f",
+      "name": "Mark Williams vs Mark Allen",
+      "name_en": "Mark Williams vs Mark Allen",
+      "date": "2026-01-12",
+      "time": "13:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克大师赛 · Round 1 · 11 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "Snooker Masters · Round 1 · Best of 11. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/72228f8a-e99d-4b56-b8de-683cd7e5774f",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "a7242074-c028-4cc2-8976-b9a876ca1924",
+        "snooker_match_id": "72228f8a-e99d-4b56-b8de-683cd7e5774f"
+      }
+    },
+    {
+      "id": "snooker-masters-match-f407363b-b1f5-4f8e-bc59-80b75b798ae6",
+      "name": "Zhao Xintong vs Gary Wilson",
+      "name_en": "Zhao Xintong vs Gary Wilson",
+      "date": "2026-01-12",
+      "time": "19:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克大师赛 · Round 1 · 11 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "Snooker Masters · Round 1 · Best of 11. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/f407363b-b1f5-4f8e-bc59-80b75b798ae6",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "a7242074-c028-4cc2-8976-b9a876ca1924",
+        "snooker_match_id": "f407363b-b1f5-4f8e-bc59-80b75b798ae6"
+      }
+    },
+    {
+      "id": "snooker-masters-match-19b24977-7430-4aa8-94c4-abc8263fce47",
+      "name": "Kyren Wilson vs Si Jiahui",
+      "name_en": "Kyren Wilson vs Si Jiahui",
+      "date": "2026-01-13",
+      "time": "13:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克大师赛 · Round 1 · 11 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "Snooker Masters · Round 1 · Best of 11. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/19b24977-7430-4aa8-94c4-abc8263fce47",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "a7242074-c028-4cc2-8976-b9a876ca1924",
+        "snooker_match_id": "19b24977-7430-4aa8-94c4-abc8263fce47"
+      }
+    },
+    {
+      "id": "snooker-masters-match-a3591515-7dbc-4d58-904c-efea937fbfe4",
+      "name": "John Higgins vs Barry Hawkins",
+      "name_en": "John Higgins vs Barry Hawkins",
+      "date": "2026-01-13",
+      "time": "19:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克大师赛 · Round 1 · 11 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "Snooker Masters · Round 1 · Best of 11. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/a3591515-7dbc-4d58-904c-efea937fbfe4",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "a7242074-c028-4cc2-8976-b9a876ca1924",
+        "snooker_match_id": "a3591515-7dbc-4d58-904c-efea937fbfe4"
+      }
+    },
+    {
+      "id": "snooker-masters-match-db6dce96-74cb-4d28-b482-dd8e773ffaff",
+      "name": "Judd Trump vs Ding Junhui",
+      "name_en": "Judd Trump vs Ding Junhui",
+      "date": "2026-01-14",
+      "time": "13:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克大师赛 · Round 1 · 11 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "Snooker Masters · Round 1 · Best of 11. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/db6dce96-74cb-4d28-b482-dd8e773ffaff",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "a7242074-c028-4cc2-8976-b9a876ca1924",
+        "snooker_match_id": "db6dce96-74cb-4d28-b482-dd8e773ffaff"
+      }
+    },
+    {
+      "id": "snooker-masters-match-8318de5b-51a3-445b-ae9c-6fa1fba30a31",
+      "name": "Neil Robertson vs Chris Wakelin",
+      "name_en": "Neil Robertson vs Chris Wakelin",
+      "date": "2026-01-14",
+      "time": "19:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克大师赛 · Round 1 · 11 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "Snooker Masters · Round 1 · Best of 11. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/8318de5b-51a3-445b-ae9c-6fa1fba30a31",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "a7242074-c028-4cc2-8976-b9a876ca1924",
+        "snooker_match_id": "8318de5b-51a3-445b-ae9c-6fa1fba30a31"
+      }
+    },
+    {
+      "id": "snooker-masters-match-e2afdf4e-76c0-473d-a878-4d61ba491860",
+      "name": "John Higgins vs Zhao Xintong",
+      "name_en": "John Higgins vs Zhao Xintong",
+      "date": "2026-01-15",
+      "time": "13:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克大师赛 · Quarter Finals · 11 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "Snooker Masters · Quarter Finals · Best of 11. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/e2afdf4e-76c0-473d-a878-4d61ba491860",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "a7242074-c028-4cc2-8976-b9a876ca1924",
+        "snooker_match_id": "e2afdf4e-76c0-473d-a878-4d61ba491860"
+      }
+    },
+    {
+      "id": "snooker-masters-match-e827abc4-b296-450c-8c3e-f2c40f55b592",
+      "name": "Judd Trump vs Mark Allen",
+      "name_en": "Judd Trump vs Mark Allen",
+      "date": "2026-01-15",
+      "time": "19:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克大师赛 · Quarter Finals · 11 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "Snooker Masters · Quarter Finals · Best of 11. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/e827abc4-b296-450c-8c3e-f2c40f55b592",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "a7242074-c028-4cc2-8976-b9a876ca1924",
+        "snooker_match_id": "e827abc4-b296-450c-8c3e-f2c40f55b592"
+      }
+    },
+    {
+      "id": "snooker-masters-match-93532d29-ad2e-4743-ad1c-83fd2907907d",
+      "name": "Wu Yize vs Xiao Guodong",
+      "name_en": "Wu Yize vs Xiao Guodong",
+      "date": "2026-01-16",
+      "time": "13:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克大师赛 · Quarter Finals · 11 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "Snooker Masters · Quarter Finals · Best of 11. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/93532d29-ad2e-4743-ad1c-83fd2907907d",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "a7242074-c028-4cc2-8976-b9a876ca1924",
+        "snooker_match_id": "93532d29-ad2e-4743-ad1c-83fd2907907d"
+      }
+    },
+    {
+      "id": "snooker-masters-match-48c2d587-b470-409d-8179-20a975e63117",
+      "name": "Neil Robertson vs Kyren Wilson",
+      "name_en": "Neil Robertson vs Kyren Wilson",
+      "date": "2026-01-16",
+      "time": "19:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克大师赛 · Quarter Finals · 11 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "Snooker Masters · Quarter Finals · Best of 11. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/48c2d587-b470-409d-8179-20a975e63117",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "a7242074-c028-4cc2-8976-b9a876ca1924",
+        "snooker_match_id": "48c2d587-b470-409d-8179-20a975e63117"
+      }
+    },
+    {
+      "id": "snooker-masters-match-17c1f15f-2dc8-4fc5-ae5d-832562162981",
+      "name": "Judd Trump vs John Higgins",
+      "name_en": "Judd Trump vs John Higgins",
+      "date": "2026-01-17",
+      "time": "13:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克大师赛 · Semi Finals · 11 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "Snooker Masters · Semi Finals · Best of 11. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/17c1f15f-2dc8-4fc5-ae5d-832562162981",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "a7242074-c028-4cc2-8976-b9a876ca1924",
+        "snooker_match_id": "17c1f15f-2dc8-4fc5-ae5d-832562162981"
+      }
+    },
+    {
+      "id": "snooker-masters-match-8053f27b-8e9f-4296-a969-acda8ac06b54",
+      "name": "Wu Yize vs Kyren Wilson",
+      "name_en": "Wu Yize vs Kyren Wilson",
+      "date": "2026-01-17",
+      "time": "19:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克大师赛 · Semi Finals · 11 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "Snooker Masters · Semi Finals · Best of 11. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/8053f27b-8e9f-4296-a969-acda8ac06b54",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "a7242074-c028-4cc2-8976-b9a876ca1924",
+        "snooker_match_id": "8053f27b-8e9f-4296-a969-acda8ac06b54"
+      }
+    },
+    {
+      "id": "snooker-masters-match-b79604a6-f265-4ce5-a573-3628ee856ae0",
+      "name": "Kyren Wilson vs John Higgins",
+      "name_en": "Kyren Wilson vs John Higgins",
+      "date": "2026-01-18",
+      "time": "13:00",
+      "timezone": "Etc/UTC",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2025,
+      "season_label": "2025-26",
+      "status": "completed",
+      "description": "斯诺克大师赛 · Final · 19 局制。官网当前排期，多节比赛以本节时间为准。",
+      "description_en": "Snooker Masters · Final · Best of 19. Current official schedule; multi-session matches show the published session time.",
+      "url": "https://www.wst.tv/match-centre/b79604a6-f265-4ce5-a573-3628ee856ae0",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "details": {
+        "snooker_tournament_id": "a7242074-c028-4cc2-8976-b9a876ca1924",
+        "snooker_match_id": "b79604a6-f265-4ce5-a573-3628ee856ae0"
+      }
+    },
+    {
+      "id": "snooker-masters-2026-e177a31a-c893-488c-8367-10849a93388d",
+      "name": "斯诺克大师赛",
+      "name_en": "Johnstone's Paint Masters 2027",
+      "date": "2027-01-10",
+      "end_date": "2027-01-17",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "London，England",
+      "description_en": "London, England",
+      "url": "https://www.wst.tv/matches/e177a31a-c893-488c-8367-10849a93388d",
+      "status": "confirmed",
+      "last_verified": "2026-11-18",
+      "verified_by": "official",
+      "season_label": "2026-27",
+      "details": {
+        "snooker_tournament_id": "e177a31a-c893-488c-8367-10849a93388d",
+        "snooker_series": "masters"
+      }
+    }
+  ],
+  "snooker_tournaments": {
+    "a7242074-c028-4cc2-8976-b9a876ca1924": {
+      "id": "a7242074-c028-4cc2-8976-b9a876ca1924",
+      "name": "Johnstone's Paint Masters 2026",
+      "date": "2026-01-11",
+      "end_date": "2026-01-18",
+      "season": 2025,
+      "checked_at": "2026-11-18",
+      "matches": [
+        {
+          "id": "963dfbc8-7f85-41b1-acda-d13fc1595c3c",
+          "fixture": 1,
+          "round": "Round 1",
+          "home": {
+            "id": "03fe92d3-ad85-434c-bc17-5fe02a496187",
+            "name": "Shaun Murphy",
+            "country": "ENG"
+          },
+          "away": {
+            "id": "d935d534-e696-4292-b773-e9b8efee1ea7",
+            "name": "Wu Yize",
+            "country": "CHN"
+          },
+          "homeScore": 2,
+          "awayScore": 6,
+          "frames": 11,
+          "status": "Completed",
+          "start": "2026-01-11T13:00:00Z",
+          "homeFrom": null,
+          "awayFrom": null
+        },
+        {
+          "id": "a6a46daa-c0f7-47e9-bdae-38491c519c26",
+          "fixture": 2,
+          "round": "Round 1",
+          "home": {
+            "id": "ba7831b4-ab75-4435-946a-c6f02e4e2d4b",
+            "name": "Mark Selby",
+            "country": "ENG"
+          },
+          "away": {
+            "id": "c3d39c08-92fd-471b-8901-903a4bd22027",
+            "name": "Xiao Guodong",
+            "country": "CHN"
+          },
+          "homeScore": 2,
+          "awayScore": 6,
+          "frames": 11,
+          "status": "Completed",
+          "start": "2026-01-11T19:00:00Z",
+          "homeFrom": null,
+          "awayFrom": null
+        },
+        {
+          "id": "72228f8a-e99d-4b56-b8de-683cd7e5774f",
+          "fixture": 6,
+          "round": "Round 1",
+          "home": {
+            "id": "6aaddcbb-345c-474a-9069-e7757e155729",
+            "name": "Mark Williams",
+            "country": "WAL"
+          },
+          "away": {
+            "id": "c37aba27-5b12-4fae-8a8b-9e749c7a25f3",
+            "name": "Mark Allen",
+            "country": "NIR"
+          },
+          "homeScore": 2,
+          "awayScore": 6,
+          "frames": 11,
+          "status": "Completed",
+          "start": "2026-01-12T13:00:00Z",
+          "homeFrom": null,
+          "awayFrom": null
+        },
+        {
+          "id": "f407363b-b1f5-4f8e-bc59-80b75b798ae6",
+          "fixture": 8,
+          "round": "Round 1",
+          "home": {
+            "id": "895d376f-9f42-4e67-8a63-bc78676d0726",
+            "name": "Zhao Xintong",
+            "country": "CHN"
+          },
+          "away": {
+            "id": "e5f4377c-5119-4c0a-9a88-e42eb8e48677",
+            "name": "Gary Wilson",
+            "country": "ENG"
+          },
+          "homeScore": 6,
+          "awayScore": 2,
+          "frames": 11,
+          "status": "Completed",
+          "start": "2026-01-12T19:00:00Z",
+          "homeFrom": null,
+          "awayFrom": null
+        },
+        {
+          "id": "19b24977-7430-4aa8-94c4-abc8263fce47",
+          "fixture": 4,
+          "round": "Round 1",
+          "home": {
+            "id": "a8c0d3a6-706b-4bf0-8dce-9cde97fe88c4",
+            "name": "Kyren Wilson",
+            "country": "ENG"
+          },
+          "away": {
+            "id": "f3c7e0cf-7cb6-405e-9ba1-4d02716a20c3",
+            "name": "Si Jiahui",
+            "country": "CHN"
+          },
+          "homeScore": 6,
+          "awayScore": 2,
+          "frames": 11,
+          "status": "Completed",
+          "start": "2026-01-13T13:00:00Z",
+          "homeFrom": null,
+          "awayFrom": null
+        },
+        {
+          "id": "a3591515-7dbc-4d58-904c-efea937fbfe4",
+          "fixture": 7,
+          "round": "Round 1",
+          "home": {
+            "id": "a5eecca1-8302-4739-84fc-6721627baa43",
+            "name": "John Higgins",
+            "country": "SCT"
+          },
+          "away": {
+            "id": "ec561f17-e982-43b3-8807-82fc76adbe75",
+            "name": "Barry Hawkins",
+            "country": "ENG"
+          },
+          "homeScore": 6,
+          "awayScore": 2,
+          "frames": 11,
+          "status": "Completed",
+          "start": "2026-01-13T19:00:00Z",
+          "homeFrom": null,
+          "awayFrom": null
+        },
+        {
+          "id": "db6dce96-74cb-4d28-b482-dd8e773ffaff",
+          "fixture": 5,
+          "round": "Round 1",
+          "home": {
+            "id": "e2f3cfe7-6138-4ce6-b1dc-77dcc1d0a65f",
+            "name": "Judd Trump",
+            "country": "ENG"
+          },
+          "away": {
+            "id": "3ff06750-8c3c-456c-8fac-58209b6f679e",
+            "name": "Ding Junhui",
+            "country": "CHN"
+          },
+          "homeScore": 6,
+          "awayScore": 2,
+          "frames": 11,
+          "status": "Completed",
+          "start": "2026-01-14T13:00:00Z",
+          "homeFrom": null,
+          "awayFrom": null
+        },
+        {
+          "id": "8318de5b-51a3-445b-ae9c-6fa1fba30a31",
+          "fixture": 3,
+          "round": "Round 1",
+          "home": {
+            "id": "8b83133a-4c15-4275-811e-bdf2cb02702f",
+            "name": "Neil Robertson",
+            "country": "AUS"
+          },
+          "away": {
+            "id": "a1beeb4b-2493-476c-9682-1900eb83c2d5",
+            "name": "Chris Wakelin",
+            "country": "ENG"
+          },
+          "homeScore": 6,
+          "awayScore": 2,
+          "frames": 11,
+          "status": "Completed",
+          "start": "2026-01-14T19:00:00Z",
+          "homeFrom": null,
+          "awayFrom": null
+        },
+        {
+          "id": "e2afdf4e-76c0-473d-a878-4d61ba491860",
+          "fixture": 12,
+          "round": "Quarter Finals",
+          "home": {
+            "id": "a5eecca1-8302-4739-84fc-6721627baa43",
+            "name": "John Higgins",
+            "country": "SCT"
+          },
+          "away": {
+            "id": "895d376f-9f42-4e67-8a63-bc78676d0726",
+            "name": "Zhao Xintong",
+            "country": "CHN"
+          },
+          "homeScore": 6,
+          "awayScore": 5,
+          "frames": 11,
+          "status": "Completed",
+          "start": "2026-01-15T13:00:00Z",
+          "homeFrom": 7,
+          "awayFrom": 8
+        },
+        {
+          "id": "e827abc4-b296-450c-8c3e-f2c40f55b592",
+          "fixture": 11,
+          "round": "Quarter Finals",
+          "home": {
+            "id": "e2f3cfe7-6138-4ce6-b1dc-77dcc1d0a65f",
+            "name": "Judd Trump",
+            "country": "ENG"
+          },
+          "away": {
+            "id": "c37aba27-5b12-4fae-8a8b-9e749c7a25f3",
+            "name": "Mark Allen",
+            "country": "NIR"
+          },
+          "homeScore": 6,
+          "awayScore": 2,
+          "frames": 11,
+          "status": "Completed",
+          "start": "2026-01-15T19:00:00Z",
+          "homeFrom": 5,
+          "awayFrom": 6
+        },
+        {
+          "id": "93532d29-ad2e-4743-ad1c-83fd2907907d",
+          "fixture": 9,
+          "round": "Quarter Finals",
+          "home": {
+            "id": "d935d534-e696-4292-b773-e9b8efee1ea7",
+            "name": "Wu Yize",
+            "country": "CHN"
+          },
+          "away": {
+            "id": "c3d39c08-92fd-471b-8901-903a4bd22027",
+            "name": "Xiao Guodong",
+            "country": "CHN"
+          },
+          "homeScore": 6,
+          "awayScore": 0,
+          "frames": 11,
+          "status": "Completed",
+          "start": "2026-01-16T13:00:00Z",
+          "homeFrom": 1,
+          "awayFrom": 2
+        },
+        {
+          "id": "48c2d587-b470-409d-8179-20a975e63117",
+          "fixture": 10,
+          "round": "Quarter Finals",
+          "home": {
+            "id": "8b83133a-4c15-4275-811e-bdf2cb02702f",
+            "name": "Neil Robertson",
+            "country": "AUS"
+          },
+          "away": {
+            "id": "a8c0d3a6-706b-4bf0-8dce-9cde97fe88c4",
+            "name": "Kyren Wilson",
+            "country": "ENG"
+          },
+          "homeScore": 5,
+          "awayScore": 6,
+          "frames": 11,
+          "status": "Completed",
+          "start": "2026-01-16T19:00:00Z",
+          "homeFrom": 3,
+          "awayFrom": 4
+        },
+        {
+          "id": "17c1f15f-2dc8-4fc5-ae5d-832562162981",
+          "fixture": 14,
+          "round": "Semi Finals",
+          "home": {
+            "id": "e2f3cfe7-6138-4ce6-b1dc-77dcc1d0a65f",
+            "name": "Judd Trump",
+            "country": "ENG"
+          },
+          "away": {
+            "id": "a5eecca1-8302-4739-84fc-6721627baa43",
+            "name": "John Higgins",
+            "country": "SCT"
+          },
+          "homeScore": 5,
+          "awayScore": 6,
+          "frames": 11,
+          "status": "Completed",
+          "start": "2026-01-17T13:00:00Z",
+          "homeFrom": 11,
+          "awayFrom": 12
+        },
+        {
+          "id": "8053f27b-8e9f-4296-a969-acda8ac06b54",
+          "fixture": 13,
+          "round": "Semi Finals",
+          "home": {
+            "id": "d935d534-e696-4292-b773-e9b8efee1ea7",
+            "name": "Wu Yize",
+            "country": "CHN"
+          },
+          "away": {
+            "id": "a8c0d3a6-706b-4bf0-8dce-9cde97fe88c4",
+            "name": "Kyren Wilson",
+            "country": "ENG"
+          },
+          "homeScore": 5,
+          "awayScore": 6,
+          "frames": 11,
+          "status": "Completed",
+          "start": "2026-01-17T19:00:00Z",
+          "homeFrom": 9,
+          "awayFrom": 10
+        },
+        {
+          "id": "b79604a6-f265-4ce5-a573-3628ee856ae0",
+          "fixture": 15,
+          "round": "Final",
+          "home": {
+            "id": "a8c0d3a6-706b-4bf0-8dce-9cde97fe88c4",
+            "name": "Kyren Wilson",
+            "country": "ENG"
+          },
+          "away": {
+            "id": "a5eecca1-8302-4739-84fc-6721627baa43",
+            "name": "John Higgins",
+            "country": "SCT"
+          },
+          "homeScore": 10,
+          "awayScore": 6,
+          "frames": 19,
+          "status": "Completed",
+          "start": "2026-01-18T13:00:00Z",
+          "homeFrom": 13,
+          "awayFrom": 14
+        }
+      ]
+    },
+    "e177a31a-c893-488c-8367-10849a93388d": {
+      "id": "e177a31a-c893-488c-8367-10849a93388d",
+      "name": "Johnstone's Paint Masters 2027",
+      "date": "2027-01-10",
+      "end_date": "2027-01-17",
+      "season": 2026,
+      "checked_at": "2026-11-18",
+      "matches": []
+    }
+  },
+  "last_updated": "2026-11-18"
+}

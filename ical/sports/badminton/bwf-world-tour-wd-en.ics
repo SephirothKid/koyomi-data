@@ -5,32 +5,13 @@ URL:https://my-koyomi.com/sources/bwf-world-tour
 NAME:Women's doubles
 X-WR-CALNAME:Women's doubles
 X-WR-CALDESC:Women's doubles
-TIMEZONE-ID:Asia/Shanghai
-X-WR-TIMEZONE:Asia/Shanghai
-BEGIN:VEVENT
-UID:bwf-world-tour-wd-bwf-world-tour-2026-e5210-match-1556074@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261117T000000
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Women's doubles · Hinata SUZUKI / Nao YAMAKITA vs Pearly TAN / TH
- INAAH Muralitharan · Women's doubles
-DESCRIPTION:VICTOR Denmark Open 2026 · Final · Followed by · Court 1 ·
-  18–21\, 11–21\n\nSource: https://bwfworldtour.bwfbadminton.com/tourna
- ment/5210/victor-denmark-open-2026/results/
-CATEGORIES:Women's doubles
-URL;VALUE=URI:https://bwfworldtour.bwfbadminton.com/tournament/5210/victor
- -denmark-open-2026/results/
-STATUS:CONFIRMED
-END:VEVENT
+TIMEZONE-ID:Etc/UTC
+X-WR-TIMEZONE:Etc/UTC
 BEGIN:VEVENT
 UID:bwf-world-tour-wd-bwf-world-tour-2026-e5272-match-1558572@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261020T080000
-DTEND:20261020T090000
+DTSTART;TZID=Etc/UTC:20261020T080000
 SUMMARY:Women's doubles · YEUNG Nga Ting / YEUNG Pui Lam vs Julie MACPHER
  SON / Ciara TORRANCE · Women's doubles
 DESCRIPTION:YONEX French Open 2026 · R32 · Court 2 · 21–15\, 21–9\n
@@ -460,8 +441,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-wd-bwf-world-tour-2026-e5272-match-1558465@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261023T143000
-DTEND:20261023T153000
+DTSTART;TZID=Etc/UTC:20261023T143000
 SUMMARY:Women's doubles · Ririna HIRAMOTO / Chiharu SHIDA vs Rin IWANAGA 
  / Kie NAKANISHI · Women's doubles
 DESCRIPTION:YONEX French Open 2026 · QF · Court 3 · 18–21\, 21–16\,
@@ -548,8 +528,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-wd-bwf-world-tour-2026-e5272-match-1558461@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261024T143000
-DTEND:20261024T153000
+DTSTART;TZID=Etc/UTC:20261024T143000
 SUMMARY:Women's doubles · Yuki FUKUSHIMA / Mayu MATSUMOTO vs Rachel Alles
  sya ROSE / Febi SETIANINGRUM · Women's doubles
 DESCRIPTION:YONEX French Open 2026 · SF · Not before · Court 1 · 21–
@@ -582,8 +561,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-wd-bwf-world-tour-2026-e5273-match-1560354@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261027T073000
-DTEND:20261027T083000
+DTSTART;TZID=Etc/UTC:20261027T073000
 SUMMARY:Women's doubles · Mareike KELCH / Louisa MARBURGER vs Sterre BANG
   / Inger POTHUIZEN · Women's doubles
 DESCRIPTION:HYLO Open 2026 · Qual. QF · Court 2 · 26–24\, 21–13\n\n
@@ -598,8 +576,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-wd-bwf-world-tour-2026-e5273-match-1560238@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261027T124500
-DTEND:20261027T134500
+DTSTART;TZID=Etc/UTC:20261027T124500
 SUMMARY:Women's doubles · Amalie Cecilie KUDSK / Simona PILGAARD vs Bengi
  su ERCETIN / Nazlıcan INCI · Women's doubles
 DESCRIPTION:HYLO Open 2026 · R32 · Not before · Court 2 · 15–21\, 23
@@ -722,8 +699,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-wd-bwf-world-tour-2026-e5273-match-1560235@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261027T160000
-DTEND:20261027T170000
+DTSTART;TZID=Etc/UTC:20261027T160000
 SUMMARY:Women's doubles · Kirsten DE WIT / Meerte LOOS vs Amallia Cahaya 
  PRATIWI / Siti Fadia Silva RAMADHANTI · Women's doubles
 DESCRIPTION:HYLO Open 2026 · R32 · Not before · Court 2 · 12–21\, 12
@@ -738,8 +714,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-wd-bwf-world-tour-2026-e5273-match-1560329@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261027T160000
-DTEND:20261027T170000
+DTSTART;TZID=Etc/UTC:20261027T160000
 SUMMARY:Women's doubles · Febriana Dwipuji KUSUMA / Meilysa Trias PUSPITA
  SARI vs Paulina CYBULSKA / Kornelia MARCZAK · Women's doubles
 DESCRIPTION:HYLO Open 2026 · R32 · Not before · Court 3 · 21–13\, 21
@@ -754,8 +729,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-wd-bwf-world-tour-2026-e5273-match-1560366@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261027T160000
-DTEND:20261027T170000
+DTSTART;TZID=Etc/UTC:20261027T160000
 SUMMARY:Women's doubles · ONG Xin Yee / Carmen TING vs Abbygael HARRIS / 
  Estelle VAN LEEUWEN · Women's doubles
 DESCRIPTION:HYLO Open 2026 · R32 · Not before · Court 1 · 21–12\, 21
@@ -842,8 +816,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-wd-bwf-world-tour-2026-e5273-match-1560374@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261027T192000
-DTEND:20261027T202000
+DTSTART;TZID=Etc/UTC:20261027T192000
 SUMMARY:Women's doubles · Stine KUESPERT / Isabel LOHAU vs Rachel Allessy
  a ROSE / Febi SETIANINGRUM · Women's doubles
 DESCRIPTION:HYLO Open 2026 · R32 · Not before · Court 2 · 21–14\, 21
@@ -1092,8 +1065,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-wd-bwf-world-tour-2026-e5273-match-1560293@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261031T173000
-DTEND:20261031T183000
+DTSTART;TZID=Etc/UTC:20261031T173000
 SUMMARY:Women's doubles · HSU Yin-Hui / LIN Jhih Yun vs Lauren LAM / Alli
  son Quynh LEE · Women's doubles
 DESCRIPTION:HYLO Open 2026 · SF · Court 2 · 21–16\, 21–15\n\nSource
@@ -1144,8 +1116,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-wd-bwf-world-tour-2026-e5597-match-1562297@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261103T070000
-DTEND:20261103T080000
+DTSTART;TZID=Etc/UTC:20261103T070000
 SUMMARY:Women's doubles · Isyana Syahira MEIDA / Rinjani Kwinnara NASTINE
   vs MOON In Seo / PARK Seul · Women's doubles
 DESCRIPTION:YEOSU VICTOR Korea Open 2026 · R32 · Not before · Court 1 
@@ -1160,8 +1131,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-wd-bwf-world-tour-2026-e5597-match-1562243@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261103T071000
-DTEND:20261103T081000
+DTSTART;TZID=Etc/UTC:20261103T071000
 SUMMARY:Women's doubles · Yan Fei CHEN / Liang Ching SUN vs Nanako HARA /
   Riko KIYOSE · Women's doubles
 DESCRIPTION:YEOSU VICTOR Korea Open 2026 · R32 · Not before · Court 3 
@@ -1176,8 +1146,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-wd-bwf-world-tour-2026-e5597-match-1562318@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261103T071000
-DTEND:20261103T081000
+DTSTART;TZID=Etc/UTC:20261103T071000
 SUMMARY:Women's doubles · Seung Hee LEE / PARK Min Ji vs KIM Yu Jung / LE
  E Yu Lim · Women's doubles
 DESCRIPTION:YEOSU VICTOR Korea Open 2026 · R32 · Not before · Court 4 
@@ -1390,8 +1359,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-wd-bwf-world-tour-2026-e5597-match-1562338@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261106T031000
-DTEND:20261106T041000
+DTSTART;TZID=Etc/UTC:20261106T031000
 SUMMARY:Women's doubles · Gabriela STOEVA / Stefani STOEVA vs Lauren LAM 
  / Allison Quynh LEE · Women's doubles
 DESCRIPTION:YEOSU VICTOR Korea Open 2026 · QF · Court 3 · 19–21\, 10
@@ -1460,8 +1428,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-wd-bwf-world-tour-2026-e5597-match-1562340@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261107T021000
-DTEND:20261107T031000
+DTSTART;TZID=Etc/UTC:20261107T021000
 SUMMARY:Women's doubles · KIM Yu Jung / LEE Yu Lim vs CHEN Fan Shu Tian /
   LUO Xu Min · Women's doubles
 DESCRIPTION:YEOSU VICTOR Korea Open 2026 · SF · Court 2 · 21–17\, 21
@@ -1548,8 +1515,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-wd-bwf-world-tour-2026-e5216-match-1565834@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261110T050000
-DTEND:20261110T060000
+DTSTART;TZID=Etc/UTC:20261110T050000
 SUMMARY:Women's doubles · Rin IWANAGA / Kie NAKANISHI vs Francesca CORBET
  T / Jennie GAI · Women's doubles
 DESCRIPTION:Kumamoto Masters Japan 2026 · R32 · Not before · Court 1 ·
@@ -1564,8 +1530,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-wd-bwf-world-tour-2026-e5216-match-1565795@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261110T051000
-DTEND:20261110T061000
+DTSTART;TZID=Etc/UTC:20261110T051000
 SUMMARY:Women's doubles · Hinata SUZUKI / Nao YAMAKITA vs Treesa JOLLY / 
  GAYATRI GOPICHAND PULLELA · Women's doubles
 DESCRIPTION:Kumamoto Masters Japan 2026 · R32 · Not before · Court 4 ·
@@ -2048,8 +2013,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-wd-bwf-world-tour-2026-e5216-match-1565840@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261114T060000
-DTEND:20261114T070000
+DTSTART;TZID=Etc/UTC:20261114T060000
 SUMMARY:Women's doubles · KIM Hye Jeong / LEE Yeon Woo vs Rin IWANAGA / K
  ie NAKANISHI · Women's doubles
 DESCRIPTION:Kumamoto Masters Japan 2026 · SF · Not before · Court 2 · 
@@ -2172,8 +2136,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-wd-bwf-world-tour-2026-e5218-match-1569965@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261117T080000
-DTEND:20261117T090000
+DTSTART;TZID=Etc/UTC:20261117T080000
 SUMMARY:Women's doubles · Amallia Cahaya PRATIWI / Siti Fadia Silva RAMAD
  HANTI vs CHOU Yun An / HSIEH Pei Shan · Women's doubles
 DESCRIPTION:LI-NING Hong Kong Open 2026 · R32 · Not before · Court 4 ·
@@ -2188,8 +2151,7 @@ BEGIN:VEVENT
 UID:bwf-world-tour-wd-bwf-world-tour-2026-e5218-match-1570045@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261117T000000
-DTSTART:20261117T080000
-DTEND:20261117T090000
+DTSTART;TZID=Etc/UTC:20261117T080000
 SUMMARY:Women's doubles · Gabriela STOEVA / Stefani STOEVA vs Nanako HARA
   / Riko KIYOSE · Women's doubles
 DESCRIPTION:LI-NING Hong Kong Open 2026 · R32 · Not before · Court 2 ·
