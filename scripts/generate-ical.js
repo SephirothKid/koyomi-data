@@ -401,8 +401,9 @@ function eventDescription(event, isEn = false) {
 }
 
 function gameTitle(game, isEn = false) {
-  if (isEn) return game.title_en ?? game.title
-  return game.title_zh ?? game.title
+  const translated = isEn ? [game.title_en, game.title].find(value => typeof value === 'string' && value.trim() && !/[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Hangul}]/u.test(value))
+    ?? (game.provider_id ? `Game ${game.provider_id}` : 'Game') : game.title_zh ?? game.title
+  return game.release_kind === 'early-access' ? `${translated}${isEn ? ' (Early Access)' : '（抢先体验）'}` : translated
 }
 
 function rawgReleaseSummary(event, isEn = false) {

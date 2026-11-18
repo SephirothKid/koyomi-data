@@ -2,11 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Koyomi Cast//rawg-releases//EN
 URL:https://koyomi.cast/sources/rawg-releases
-NAME:RAWG 游戏发售
-X-WR-CALNAME:RAWG 游戏发售
-X-WR-CALDESC:跟踪 PC、PlayStation、Xbox、Switch、移动端等主流
- 平台的新游发售日期，适合玩家提前安排愿望单与游玩
- 计划。数据由 RAWG 提供。
+NAME:游戏发售日历
+X-WR-CALNAME:游戏发售日历
+X-WR-CALDESC:PC 精选与 PlayStation、Xbox、Switch 新游发售日期
+ ，小黑盒持续更新。
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
@@ -21,7 +20,7 @@ SUMMARY:Mycopunk 发售
 DESCRIPTION:Mycopunk 发售（PC）\n\n当天发售：\n1. Mycopunk (PC)\n
  \n游戏数量: 1\n发售游戏: Mycopunk\n平台: PC\n数据来源: RAWG\
  n\n来源: https://rawg.io/games/mycopunk
-CATEGORIES:RAWG 游戏发售
+CATEGORIES:游戏发售日历
 URL;VALUE=URI:https://rawg.io/games/mycopunk
 STATUS:CONFIRMED
 END:VEVENT
@@ -38,7 +37,7 @@ DESCRIPTION:Stupid Never Dies 发售（PC）\n\n当天发售：\n1. Stupid
   Never Dies (PC)\n\n游戏数量: 1\n发售游戏: Stupid Never Dies\n平
  台: PC\n数据来源: RAWG\n\n来源: https://rawg.io/games/stupid-never-
  dies
-CATEGORIES:RAWG 游戏发售
+CATEGORIES:游戏发售日历
 URL;VALUE=URI:https://rawg.io/games/stupid-never-dies
 STATUS:CONFIRMED
 END:VEVENT
@@ -56,7 +55,7 @@ DESCRIPTION:Final Fantasy Resonance 发售（PC / PS5 / Switch）\n\n当
  量: 1\n发售游戏: Final Fantasy Resonance\n平台: PC / PS5 / Switch\n
  数据来源: RAWG\n\n来源: https://rawg.io/games/final-fantasy-resonanc
  e
-CATEGORIES:RAWG 游戏发售
+CATEGORIES:游戏发售日历
 URL;VALUE=URI:https://rawg.io/games/final-fantasy-resonance
 STATUS:CONFIRMED
 END:VEVENT
@@ -72,7 +71,7 @@ SUMMARY:Ecstatica 发售
 DESCRIPTION:Ecstatica 发售（PC）\n\n当天发售：\n1. Ecstatica (PC)
  \n\n游戏数量: 1\n发售游戏: Ecstatica\n平台: PC\n数据来源: RA
  WG\n\n来源: https://rawg.io/games/ecstatica
-CATEGORIES:RAWG 游戏发售
+CATEGORIES:游戏发售日历
 URL;VALUE=URI:https://rawg.io/games/ecstatica
 STATUS:CONFIRMED
 END:VEVENT
@@ -90,7 +89,7 @@ DESCRIPTION:当天发售：Remothered: Red Nun's Legacy、The Boss Gangste
  )\n2. The Boss Gangster: Criminal Empire (PC)\n\n游戏数量: 2\n发售
  游戏: Remothered: Red Nun's Legacy、The Boss Gangster: Criminal Empire\
  n平台: PC\n数据来源: RAWG\n\n来源: https://rawg.io/games
-CATEGORIES:RAWG 游戏发售
+CATEGORIES:游戏发售日历
 URL;VALUE=URI:https://rawg.io/games
 STATUS:CONFIRMED
 END:VEVENT
@@ -106,7 +105,7 @@ SUMMARY:Gennady 发售
 DESCRIPTION:Gennady 发售（PC）\n\n当天发售：\n1. Gennady (PC)\n\n
  游戏数量: 1\n发售游戏: Gennady\n平台: PC\n数据来源: RAWG\n\n
  来源: https://rawg.io/games/gennady
-CATEGORIES:RAWG 游戏发售
+CATEGORIES:游戏发售日历
 URL;VALUE=URI:https://rawg.io/games/gennady
 STATUS:CONFIRMED
 END:VEVENT
@@ -123,7 +122,7 @@ DESCRIPTION:当天发售：COP BASTARD、Sulfur\n\n当天发售：\n1. COP
   BASTARD (PC)\n2. Sulfur (PC · RAWG 3.17)\n\n游戏数量: 2\n发售游
  戏: COP BASTARD、Sulfur\n平台: PC\n数据来源: RAWG\n\n来源: https
  ://rawg.io/games
-CATEGORIES:RAWG 游戏发售
+CATEGORIES:游戏发售日历
 URL;VALUE=URI:https://rawg.io/games
 STATUS:CONFIRMED
 END:VEVENT
@@ -143,7 +142,7 @@ DESCRIPTION:当天发售：Crimson Desert: Charting the Unknown、影之
  \n游戏数量: 4\n发售游戏: Crimson Desert: Charting the Unknown、
  影之刃零、Tavern Farkle GB、The Golden Caravan\n平台: PC / PS5 / m
  acOS\n数据来源: RAWG\n\n来源: https://rawg.io/games
-CATEGORIES:RAWG 游戏发售
+CATEGORIES:游戏发售日历
 URL;VALUE=URI:https://rawg.io/games
 STATUS:CONFIRMED
 END:VEVENT
@@ -160,7 +159,7 @@ DESCRIPTION:Project Afterfall 发售（PC）\n\n当天发售：\n1. Projec
  t Afterfall (PC)\n\n游戏数量: 1\n发售游戏: Project Afterfall\n平
  台: PC\n数据来源: RAWG\n\n来源: https://rawg.io/games/project-after
  fall
-CATEGORIES:RAWG 游戏发售
+CATEGORIES:游戏发售日历
 URL;VALUE=URI:https://rawg.io/games/project-afterfall
 STATUS:CONFIRMED
 END:VEVENT
@@ -176,7 +175,7 @@ SUMMARY:Abashed 发售
 DESCRIPTION:Abashed 发售（PC）\n\n当天发售：\n1. Abashed (PC)\n\n
  游戏数量: 1\n发售游戏: Abashed\n平台: PC\n数据来源: RAWG\n\n
  来源: https://rawg.io/games/abashed
-CATEGORIES:RAWG 游戏发售
+CATEGORIES:游戏发售日历
 URL;VALUE=URI:https://rawg.io/games/abashed
 STATUS:CONFIRMED
 END:VEVENT
@@ -192,7 +191,7 @@ SUMMARY:Underkeep 发售
 DESCRIPTION:Underkeep 发售（PC）\n\n当天发售：\n1. Underkeep (PC)
  \n\n游戏数量: 1\n发售游戏: Underkeep\n平台: PC\n数据来源: RA
  WG\n\n来源: https://rawg.io/games/underkeep
-CATEGORIES:RAWG 游戏发售
+CATEGORIES:游戏发售日历
 URL;VALUE=URI:https://rawg.io/games/underkeep
 STATUS:CONFIRMED
 END:VEVENT
@@ -210,7 +209,7 @@ DESCRIPTION:The Legend of Zelda: Ocarina of Time 发售（Switch）\n\n当
  数量: 1\n发售游戏: The Legend of Zelda: Ocarina of Time\n平台: Swi
  tch\n数据来源: RAWG\n\n来源: https://rawg.io/games/the-legend-of-zel
  da-ocarina-of-time-2
-CATEGORIES:RAWG 游戏发售
+CATEGORIES:游戏发售日历
 URL;VALUE=URI:https://rawg.io/games/the-legend-of-zelda-ocarina-of-time-2
 STATUS:CONFIRMED
 END:VEVENT
@@ -229,7 +228,7 @@ DESCRIPTION:当天发售：After the Wane、Vampire: The Masquerade - Oath
  ammer Survivors (PC)\n\n游戏数量: 3\n发售游戏: After the Wane、Va
  mpire: The Masquerade - Oaths & Ashes、Warhammer Survivors\n平台: Linux
   / PC / macOS\n数据来源: RAWG\n\n来源: https://rawg.io/games
-CATEGORIES:RAWG 游戏发售
+CATEGORIES:游戏发售日历
 URL;VALUE=URI:https://rawg.io/games
 STATUS:CONFIRMED
 END:VEVENT
@@ -246,7 +245,7 @@ DESCRIPTION:Wall World Strategy 发售（PC）\n\n当天发售：\n1. Wall
   World Strategy (PC)\n\n游戏数量: 1\n发售游戏: Wall World Strategy
  \n平台: PC\n数据来源: RAWG\n\n来源: https://rawg.io/games/wall-wor
  ld-strategy
-CATEGORIES:RAWG 游戏发售
+CATEGORIES:游戏发售日历
 URL;VALUE=URI:https://rawg.io/games/wall-world-strategy
 STATUS:CONFIRMED
 END:VEVENT
@@ -263,422 +262,2258 @@ DESCRIPTION:Space Station Designer 发售（PC）\n\n当天发售：\n1. S
  pace Station Designer (PC)\n\n游戏数量: 1\n发售游戏: Space Station
   Designer\n平台: PC\n数据来源: RAWG\n\n来源: https://rawg.io/games
  /space-station-designer
-CATEGORIES:RAWG 游戏发售
+CATEGORIES:游戏发售日历
 URL;VALUE=URI:https://rawg.io/games/space-station-designer
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2026-11-18@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Dark Rail 等 4 款发售
+DESCRIPTION:当天发售：Dark Rail、Magic City Mayhem、MUV-LUV 少女
+ 庭园 Mellow Days、The House of Tesla: Definitive Edition\n\n当天发
+ 售：\n1. Dark Rail (Xbox)\n2. Magic City Mayhem (Xbox)\n3. MUV-LUV 少
+ 女庭园 Mellow Days (PC)\n4. The House of Tesla: Definitive Edition (Pla
+ yStation)\n\n游戏数量: 4\n发售游戏: Dark Rail、Magic City Mayhem
+ 、MUV-LUV 少女庭园 Mellow Days、The House of Tesla: Definitive Editi
+ on\n平台: PC / PlayStation / Xbox\n数据来源: 小黑盒\n来源链接
+ : https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_
+ timestamp=1794931200&filter_hot=all&filter_platform=xbox\nhttps://api.xiao
+ heihe.cn/game/release_calendar/game_list/single_day?day_timestamp=17949312
+ 00&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/releas
+ e_calendar/game_list/single_day?day_timestamp=1794931200&filter_hot=all&fi
+ lter_platform=ps4\n\n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-11-19@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261117T000000
+DTSTAMP:20261118T000000
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:侠盗猎车手 VI 发售
-DESCRIPTION:侠盗猎车手 VI 发售（PS5）\n\n当天发售：\n1. 侠
- 盗猎车手 VI (PS5 · RAWG 3.86)\n\n游戏数量: 1\n发售游戏: 侠
- 盗猎车手 VI\n平台: PS5\n数据来源: RAWG\n\n来源: https://rawg.i
- o/games/grand-theft-aito-vi
-CATEGORIES:RAWG 游戏发售
-URL;VALUE=URI:https://rawg.io/games/grand-theft-aito-vi
+SUMMARY:An Eggcellent Sorting Game 等 41 款发售
+DESCRIPTION:当天发售：An Eggcellent Sorting Game、Beyond the Mist、
+ Charoite into the Deep、EGG控制台 变形战机 MSX、Figment、Figment
+  2: Creed Valley、Kids Minesweeper、My Life: Safari Vet、Pack The Cats
+ 、Relic Looter、Ritebound、Suicide Guy Deluxe Plus、Tile Tales: Pirate
+ 、UMAMI、おくだけスタディ 世界各国的形状 ～一根手指
+ 轻松常识教养学习游戏～、丢失袜子模拟器3000、以撒的
+ 结合：忏悔+、伊卢涅斯的归来、伙伴合体！灵感对接拼
+ 图、侠盗猎车手6、动漫健身 - 力量训练、医疗女孩、咕
+ 哇布啦 自己中心派：让德朗普帝国明白点！、奈落、希
+ 空维娅-败北继承-、彩虹恋曲：女大生百合之恋、彩虹恋
+ 曲：男大生BL之恋、我们的弹橡皮擦4 在线对战、我的宠
+ 物在撩我：拯救兽耳男孩、我的生活：野生动物兽医、
+ 我被宠物撩了：从怪物手中守护动物娘、文件.BMR.01208、
+ 时间机器、月下梦景、米斯索恩女孩、纸牌巫: 魔女决战
+ （抢先体验）、胡编乱造单词创造神：刁钻问答、角落
+ 小伙伴 欢迎来到暖呼呼温泉、这座城市，在哪个国家？
+ 环球城市竞猜问答、钢铁先锋：阿瑞斯计划、防护阵地\n
+ \n当天发售：\n1. An Eggcellent Sorting Game (Xbox)\n2. Beyond the Mis
+ t (Switch)\n3. Charoite into the Deep (Switch)\n4. EGG控制台 变形战
+ 机 MSX (Switch)\n5. Figment (Switch)\n6. Figment 2: Creed Valley (Switch)
+ \n7. Kids Minesweeper (Switch)\n8. My Life: Safari Vet (PlayStation)\n9. P
+ ack The Cats (Switch)\n10. Relic Looter (Switch)\n11. Ritebound (Switch)\n
+ 12. Suicide Guy Deluxe Plus (Switch)\n13. Tile Tales: Pirate (Switch)\n14.
+  UMAMI (Switch)\n15. おくだけスタディ 世界各国的形状 ～一
+ 根手指轻松常识教养学习游戏～ (Switch)\n16. 丢失袜子模
+ 拟器3000 (Switch)\n17. 以撒的结合：忏悔+ (Switch)\n18. 伊卢涅
+ 斯的归来 (Switch)\n19. 伙伴合体！灵感对接拼图 (Switch)\n20.
+  侠盗猎车手6 (PlayStation / Xbox)\n21. 动漫健身 - 力量训练 (S
+ witch)\n22. 医疗女孩 (Switch)\n23. 咕哇布啦 自己中心派：让
+ 德朗普帝国明白点！ (Switch)\n24. 奈落 (Switch)\n25. 希空维
+ 娅-败北继承- (Switch)\n26. 彩虹恋曲：女大生百合之恋 (Swit
+ ch)\n27. 彩虹恋曲：男大生BL之恋 (Switch)\n28. 我们的弹橡皮
+ 擦4 在线对战 (Switch)\n29. 我的宠物在撩我：拯救兽耳男孩
+  (Switch)\n30. 我的生活：野生动物兽医 (Switch)\n31. 我被宠
+ 物撩了：从怪物手中守护动物娘 (Switch)\n32. 文件.BMR.01208 
+ (Switch)\n33. 时间机器 (Xbox)\n34. 月下梦景 (Switch)\n35. 米斯
+ 索恩女孩 (Switch)\n36. 纸牌巫: 魔女决战（抢先体验） (PC)\
+ n37. 胡编乱造单词创造神：刁钻问答 (Switch)\n38. 角落小伙
+ 伴 欢迎来到暖呼呼温泉 (Switch)\n39. 这座城市，在哪个国
+ 家？环球城市竞猜问答 (Switch)\n40. 钢铁先锋：阿瑞斯计
+ 划 (Switch)\n41. 防护阵地 (Switch)\n\n游戏数量: 41\n发售游戏:
+  An Eggcellent Sorting Game、Beyond the Mist、Charoite into the Deep、E
+ GG控制台 变形战机 MSX、Figment、Figment 2: Creed Valley、Kids Mi
+ nesweeper、My Life: Safari Vet、Pack The Cats、Relic Looter、Ritebound
+ 、Suicide Guy Deluxe Plus、Tile Tales: Pirate、UMAMI、おくだけス
+ タディ 世界各国的形状 ～一根手指轻松常识教养学习游
+ 戏～、丢失袜子模拟器3000、以撒的结合：忏悔+、伊卢涅
+ 斯的归来、伙伴合体！灵感对接拼图、侠盗猎车手6、动
+ 漫健身 - 力量训练、医疗女孩、咕哇布啦 自己中心派：
+ 让德朗普帝国明白点！、奈落、希空维娅-败北继承-、彩
+ 虹恋曲：女大生百合之恋、彩虹恋曲：男大生BL之恋、我
+ 们的弹橡皮擦4 在线对战、我的宠物在撩我：拯救兽耳男
+ 孩、我的生活：野生动物兽医、我被宠物撩了：从怪物
+ 手中守护动物娘、文件.BMR.01208、时间机器、月下梦景、
+ 米斯索恩女孩、纸牌巫: 魔女决战（抢先体验）、胡编乱
+ 造单词创造神：刁钻问答、角落小伙伴 欢迎来到暖呼呼
+ 温泉、这座城市，在哪个国家？环球城市竞猜问答、钢
+ 铁先锋：阿瑞斯计划、防护阵地\n平台: PC / PlayStation / Swi
+ tch / Xbox\n数据来源: 小黑盒\n来源链接: https://api.xiaoheihe.c
+ n/game/release_calendar/game_list/single_day?day_timestamp=1795017600&filt
+ er_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_cal
+ endar/game_list/single_day?day_timestamp=1795017600&filter_hot=all&filter_
+ platform=switch\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/
+ single_day?day_timestamp=1795017600&filter_hot=all&filter_platform=ps4\nht
+ tps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_time
+ stamp=1795017600&filter_hot=hot&filter_platform=pc\n\n来源: https://www.
+ xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2026-11-20@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ReactorX 4 等 4 款发售
+DESCRIPTION:当天发售：ReactorX 4、Ritebound、大Jhow喷气、虚空
+ 脉冲\n\n当天发售：\n1. ReactorX 4 (Xbox)\n2. Ritebound (Xbox)\n3. 
+ 大Jhow喷气 (Switch)\n4. 虚空脉冲 (PC)\n\n游戏数量: 4\n发售游
+ 戏: ReactorX 4、Ritebound、大Jhow喷气、虚空脉冲\n平台: PC / S
+ witch / Xbox\n数据来源: 小黑盒\n来源链接: https://api.xiaoheihe
+ .cn/game/release_calendar/game_list/single_day?day_timestamp=1795104000&fi
+ lter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_c
+ alendar/game_list/single_day?day_timestamp=1795104000&filter_hot=all&filte
+ r_platform=switch\nhttps://api.xiaoheihe.cn/game/release_calendar/game_lis
+ t/single_day?day_timestamp=1795104000&filter_hot=hot&filter_platform=pc\n\
+ n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2026-11-21@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:误血 发售
+DESCRIPTION:当天发售：误血\n\n当天发售：\n1. 误血 (Switch)\n
+ \n游戏数量: 1\n发售游戏: 误血\n平台: Switch\n数据来源: 小
+ 黑盒\n来源链接: https://api.xiaoheihe.cn/game/release_calendar/game_
+ list/single_day?day_timestamp=1795190400&filter_hot=all&filter_platform=sw
+ itch\n\n来源: https://api.xiaoheihe.cn/game/share_game_detail?appid=9002
+ 21366&game_type=console
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://api.xiaoheihe.cn/game/share_game_detail?appid=900221
+ 366&game_type=console
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2026-11-23@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Jaden Industries: Cozy Automation Puzzler 等 3 款发售
+DESCRIPTION:当天发售：Jaden Industries: Cozy Automation Puzzler、The
+  Spotter: Dig or Die、杰登工业: 疗愈系自动化解谜游戏\n\n当
+ 天发售：\n1. Jaden Industries: Cozy Automation Puzzler (Xbox)\n2. The 
+ Spotter: Dig or Die (PlayStation)\n3. 杰登工业: 疗愈系自动化解
+ 谜游戏 (Switch)\n\n游戏数量: 3\n发售游戏: Jaden Industries: Coz
+ y Automation Puzzler、The Spotter: Dig or Die、杰登工业: 疗愈系
+ 自动化解谜游戏\n平台: PlayStation / Switch / Xbox\n数据来源: 
+ 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/release_calendar/ga
+ me_list/single_day?day_timestamp=1795363200&filter_hot=all&filter_platform
+ =xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day
+ ?day_timestamp=1795363200&filter_hot=all&filter_platform=ps4\nhttps://api.
+ xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795
+ 363200&filter_hot=all&filter_platform=switch\n\n来源: https://www.xiaohe
+ ihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2026-11-24@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Prizma Puzzle Classic 3 等 8 款发售
+DESCRIPTION:当天发售：Prizma Puzzle Classic 3、Storage Hunter、Stor
+ age Hunter Simulator、Sunstone of Time、The Spotter、哥特王朝3、
+ 哥特王朝3、天坑追匪\n\n当天发售：\n1. Prizma Puzzle Classic 
+ 3 (PlayStation)\n2. Storage Hunter (Xbox)\n3. Storage Hunter Simulator (Pl
+ ayStation)\n4. Sunstone of Time (PlayStation)\n5. The Spotter (Xbox)\n6. 
+ 哥特王朝3 (PlayStation)\n7. 哥特王朝3 (Xbox)\n8. 天坑追匪 (PC)
+ \n\n游戏数量: 8\n发售游戏: Prizma Puzzle Classic 3、Storage Hunte
+ r、Storage Hunter Simulator、Sunstone of Time、The Spotter、哥特王
+ 朝3、哥特王朝3、天坑追匪\n平台: PC / PlayStation / Xbox\n数
+ 据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/release_
+ calendar/game_list/single_day?day_timestamp=1795449600&filter_hot=all&filt
+ er_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/
+ single_day?day_timestamp=1795449600&filter_hot=all&filter_platform=xbox\nh
+ ttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_tim
+ estamp=1795449600&filter_hot=hot&filter_platform=pc\n\n来源: https://www
+ .xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2026-11-25@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Arctic Drive（抢先体验） 等 12 款发售
+DESCRIPTION:当天发售：Arctic Drive（抢先体验）、Bungle Brawl
+ 、Cat Mirror、Cat Mirror、Cat Mirror、Floor 9、High School Dirty Secr
+ ets、Relaywardens、When Chests Rain Tons of Loot、冥狱战术、疯狂
+ 出租车2、肉丸烹饪：盛满快乐\n\n当天发售：\n1. Arctic Dri
+ ve（抢先体验） (PC)\n2. Bungle Brawl (Xbox)\n3. Cat Mirror (Xbox)\n4
+ . Cat Mirror (Xbox)\n5. Cat Mirror (Xbox)\n6. Floor 9 (PlayStation)\n7. Hi
+ gh School Dirty Secrets (PlayStation)\n8. Relaywardens (PlayStation)\n9. W
+ hen Chests Rain Tons of Loot (PC)\n10. 冥狱战术 (Switch)\n11. 疯狂
+ 出租车2 (PlayStation)\n12. 肉丸烹饪：盛满快乐 (Switch)\n\n游
+ 戏数量: 12\n发售游戏: Arctic Drive（抢先体验）、Bungle Brawl
+ 、Cat Mirror、Cat Mirror、Cat Mirror、Floor 9、High School Dirty Secr
+ ets、Relaywardens、When Chests Rain Tons of Loot、冥狱战术、疯狂
+ 出租车2、肉丸烹饪：盛满快乐\n平台: PC / PlayStation / Switc
+ h / Xbox\n数据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/
+ game/release_calendar/game_list/single_day?day_timestamp=1795536000&filter
+ _hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/release_calenda
+ r/game_list/single_day?day_timestamp=1795536000&filter_hot=all&filter_plat
+ form=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single
+ _day?day_timestamp=1795536000&filter_hot=all&filter_platform=ps4\nhttps://
+ api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=
+ 1795536000&filter_hot=all&filter_platform=switch\n\n来源: https://www.xi
+ aoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2026-11-26@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ALICE＝ALICE ＆ BAD MEDICINE 危险老师的特别授课 2in1 PA
+ CK for Nintendo Switch 等 45 款发售
+DESCRIPTION:当天发售：ALICE＝ALICE ＆ BAD MEDICINE 危险老师的
+ 特别授课 2in1 PACK for Nintendo Switch、Astralis: Dawnblades、BOGOS 
+ BINTED、FMS2、Full Metal Sergeant 2、Gravity Switch、Gravity Switch、
+ Hazard Pay、Marupoyo、Marupoyo：圆滚滚小鸡的冒险、MIX DUNK -
+ 篮球之王-、No Umbrellas Allowed、ONE-ROOM ZOMBIE、Smartopus: IQ Que
+ st、Station to Station、The Spectrum Retreat: Redux、丛林修补匠、
+ 兔子扫雷、全金属军士2、最强王图鉴　爆裂对战王、啾
+ 啾星球、埃及农场、墓后营生、小金井庄与金色的扬羽
+ 蝶、快乐周末、拓荒世界、日本巴士模拟器、明日追忆 ~
+ The Retrospection Of Tomorrow~、机械狂欢、机械狂欢、没有尸
+ 体，就没有问题！、玉响未来、疯狂矿工、病娇诱惑：
+ 为你疯狂的动漫男孩、病娇诱惑：疯狂动漫女孩的执念
+ 、皮克罗尼克斯3、站点连连、莫基：最后的金刚鹦鹉、
+ 财富大道、连锁秘术、酷飙计程车2、魔卡魅恋！、魔法
+ 世界、鲨鱼超市、黄金巨石\n\n当天发售：\n1. ALICE＝ALICE 
+ ＆ BAD MEDICINE 危险老师的特别授课 2in1 PACK for Nintendo Switch
+  (Switch)\n2. Astralis: Dawnblades (Switch)\n3. BOGOS BINTED (Xbox)\n4. FM
+ S2 (Xbox)\n5. Full Metal Sergeant 2 (PlayStation)\n6. Gravity Switch (Swit
+ ch)\n7. Gravity Switch (Xbox)\n8. Hazard Pay (Switch)\n9. Marupoyo (Xbox)\
+ n10. Marupoyo：圆滚滚小鸡的冒险 (Switch)\n11. MIX DUNK -篮球之
+ 王- (Switch)\n12. No Umbrellas Allowed (Switch)\n13. ONE-ROOM ZOMBIE (Swi
+ tch)\n14. Smartopus: IQ Quest (Switch)\n15. Station to Station (PlayStatio
+ n)\n16. The Spectrum Retreat: Redux (Xbox)\n17. 丛林修补匠 (Switch)\n
+ 18. 兔子扫雷 (PlayStation)\n19. 全金属军士2 (Switch)\n20. 最强
+ 王图鉴　爆裂对战王 (Switch)\n21. 啾啾星球 (Switch)\n22. 埃
+ 及农场 (Switch)\n23. 墓后营生 (PC)\n24. 小金井庄与金色的扬
+ 羽蝶 (Switch)\n25. 快乐周末 (Switch)\n26. 拓荒世界 (PC)\n27. 日
+ 本巴士模拟器 (Switch)\n28. 明日追忆 ~The Retrospection Of Tomorr
+ ow~ (PC)\n29. 机械狂欢 (Xbox)\n30. 机械狂欢 (PlayStation)\n31. 没
+ 有尸体，就没有问题！ (PC)\n32. 玉响未来 (Switch)\n33. 疯狂
+ 矿工 (Switch)\n34. 病娇诱惑：为你疯狂的动漫男孩 (Switch)\n
+ 35. 病娇诱惑：疯狂动漫女孩的执念 (Switch)\n36. 皮克罗尼
+ 克斯3 (Switch)\n37. 站点连连 (Switch)\n38. 莫基：最后的金刚
+ 鹦鹉 (Switch)\n39. 财富大道 (Switch)\n40. 连锁秘术 (Switch)\n41.
+  酷飙计程车2 (Switch)\n42. 魔卡魅恋！ (Switch)\n43. 魔法世界
+  (Switch)\n44. 鲨鱼超市 (PC)\n45. 黄金巨石 (Switch)\n\n游戏数
+ 量: 45\n发售游戏: ALICE＝ALICE ＆ BAD MEDICINE 危险老师的特
+ 别授课 2in1 PACK for Nintendo Switch、Astralis: Dawnblades、BOGOS BIN
+ TED、FMS2、Full Metal Sergeant 2、Gravity Switch、Gravity Switch、Haz
+ ard Pay、Marupoyo、Marupoyo：圆滚滚小鸡的冒险、MIX DUNK -篮
+ 球之王-、No Umbrellas Allowed、ONE-ROOM ZOMBIE、Smartopus: IQ Quest
+ 、Station to Station、The Spectrum Retreat: Redux、丛林修补匠、
+ 兔子扫雷、全金属军士2、最强王图鉴　爆裂对战王、啾
+ 啾星球、埃及农场、墓后营生、小金井庄与金色的扬羽
+ 蝶、快乐周末、拓荒世界、日本巴士模拟器、明日追忆 ~
+ The Retrospection Of Tomorrow~、机械狂欢、机械狂欢、没有尸
+ 体，就没有问题！、玉响未来、疯狂矿工、病娇诱惑：
+ 为你疯狂的动漫男孩、病娇诱惑：疯狂动漫女孩的执念
+ 、皮克罗尼克斯3、站点连连、莫基：最后的金刚鹦鹉、
+ 财富大道、连锁秘术、酷飙计程车2、魔卡魅恋！、魔法
+ 世界、鲨鱼超市、黄金巨石\n平台: PC / PlayStation / Switch / 
+ Xbox\n数据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game
+ /release_calendar/game_list/single_day?day_timestamp=1795622400&filter_hot
+ =all&filter_platform=switch\nhttps://api.xiaoheihe.cn/game/release_calenda
+ r/game_list/single_day?day_timestamp=1795622400&filter_hot=all&filter_plat
+ form=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single
+ _day?day_timestamp=1795622400&filter_hot=all&filter_platform=ps4\nhttps://
+ api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=
+ 1795622400&filter_hot=hot&filter_platform=pc\n\n来源: https://www.xiaohe
+ ihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2026-11-27@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Arkheron 等 11 款发售
+DESCRIPTION:当天发售：Arkheron、Arkheron、Bunker Tidy Up、Bunker T
+ idy Up、Luminova、The Last Cat in the Universe、一起搬家吧！Carry
+  On Together、喵喵工厂、拾光修复、生于午夜、虚妄爱丽
+ 丝 -岐梦重缘-\n\n当天发售：\n1. Arkheron (Xbox)\n2. Arkheron (PC
+ )\n3. Bunker Tidy Up (Xbox)\n4. Bunker Tidy Up (PlayStation)\n5. Luminova 
+ (Xbox)\n6. The Last Cat in the Universe (Xbox)\n7. 一起搬家吧！Carry
+  On Together (PC)\n8. 喵喵工厂 (PC)\n9. 拾光修复 (PC)\n10. 生于
+ 午夜 (PC)\n11. 虚妄爱丽丝 -岐梦重缘- (PC)\n\n游戏数量: 11\n
+ 发售游戏: Arkheron、Arkheron、Bunker Tidy Up、Bunker Tidy Up、Lumi
+ nova、The Last Cat in the Universe、一起搬家吧！Carry On Together
+ 、喵喵工厂、拾光修复、生于午夜、虚妄爱丽丝 -岐梦重
+ 缘-\n平台: PC / PlayStation / Xbox\n数据来源: 小黑盒\n来源链
+ 接: https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?d
+ ay_timestamp=1795708800&filter_hot=all&filter_platform=xbox\nhttps://api.x
+ iaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=17957
+ 08800&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/rel
+ ease_calendar/game_list/single_day?day_timestamp=1795708800&filter_hot=all
+ &filter_platform=ps4\n\n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2026-11-28@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Am I Nima 等 2 款发售
+DESCRIPTION:当天发售：Am I Nima、孤狼之春\n\n当天发售：\n1.
+  Am I Nima (PC)\n2. 孤狼之春 (PC)\n\n游戏数量: 2\n发售游戏: Am
+  I Nima、孤狼之春\n平台: PC\n数据来源: 小黑盒\n来源链接:
+  https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_t
+ imestamp=1795795200&filter_hot=hot&filter_platform=pc\n\n来源: https://w
+ ww.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2026-11-29@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Winx Club - Moonlight Quest 发售
+DESCRIPTION:当天发售：Winx Club - Moonlight Quest\n\n当天发售：\
+ n1. Winx Club - Moonlight Quest (PlayStation)\n\n游戏数量: 1\n发售
+ 游戏: Winx Club - Moonlight Quest\n平台: PlayStation\n数据来源: 
+ 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/release_calendar/ga
+ me_list/single_day?day_timestamp=1795881600&filter_hot=all&filter_platform
+ =ps4\n\n来源: https://api.xiaoheihe.cn/game/share_game_detail?appid=9002
+ 21697&game_type=console
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://api.xiaoheihe.cn/game/share_game_detail?appid=900221
+ 697&game_type=console
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2026-11-30@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:The aMAZEing Labyrinth 等 5 款发售
+DESCRIPTION:当天发售：The aMAZEing Labyrinth、像素英雄大混战 
+ Plus、散樱乱武 ~绚烂竞演~（抢先体验）、猎户座之蓝、
+ 魔法俏佳人：月光探险\n\n当天发售：\n1. The aMAZEing Labyrin
+ th (Xbox)\n2. 像素英雄大混战 Plus (Switch)\n3. 散樱乱武 ~绚烂
+ 竞演~（抢先体验） (PC)\n4. 猎户座之蓝 (PC)\n5. 魔法俏佳
+ 人：月光探险 (Switch)\n\n游戏数量: 5\n发售游戏: The aMAZEing
+  Labyrinth、像素英雄大混战 Plus、散樱乱武 ~绚烂竞演~（
+ 抢先体验）、猎户座之蓝、魔法俏佳人：月光探险\n平台
+ : PC / Switch / Xbox\n数据来源: 小黑盒\n来源链接: https://api.x
+ iaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=17959
+ 68000&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/r
+ elease_calendar/game_list/single_day?day_timestamp=1795968000&filter_hot=a
+ ll&filter_platform=switch\nhttps://api.xiaoheihe.cn/game/release_calendar/
+ game_list/single_day?day_timestamp=1795968000&filter_hot=hot&filter_platfo
+ rm=pc\n\n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-01@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261117T000000
+DTSTAMP:20261118T000000
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Beautiful Light 发售
-DESCRIPTION:Beautiful Light 发售（PC）\n\n当天发售：\n1. Beautifu
- l Light (PC)\n\n游戏数量: 1\n发售游戏: Beautiful Light\n平台: PC
- \n数据来源: RAWG\n\n来源: https://rawg.io/games/beautiful-light
-CATEGORIES:RAWG 游戏发售
-URL;VALUE=URI:https://rawg.io/games/beautiful-light
+SUMMARY:《Hela：鼠鼠奇旅》 等 9 款发售
+DESCRIPTION:当天发售：《Hela：鼠鼠奇旅》、Hela、Hela：魔
+ 鼠无敌、Hela：鼠鼠奇旅、Mombo Combo Legacy、TEC、The Falconeer
+ : Revolution Remaster、普林科 普隆科 普伦科。、海钓物语：
+ 猫小暖旅记\n\n当天发售：\n1. 《Hela：鼠鼠奇旅》 (PlayStat
+ ion)\n2. Hela (Xbox)\n3. Hela：魔鼠无敌 (Switch)\n4. Hela：鼠鼠奇
+ 旅 (PC)\n5. Mombo Combo Legacy (PlayStation)\n6. TEC (Xbox)\n7. The Falco
+ neer: Revolution Remaster (PlayStation)\n8. 普林科 普隆科 普伦科
+ 。 (Switch)\n9. 海钓物语：猫小暖旅记 (PC)\n\n游戏数量: 9\n
+ 发售游戏: 《Hela：鼠鼠奇旅》、Hela、Hela：魔鼠无敌、Hel
+ a：鼠鼠奇旅、Mombo Combo Legacy、TEC、The Falconeer: Revolution Re
+ master、普林科 普隆科 普伦科。、海钓物语：猫小暖旅记
+ \n平台: PC / PlayStation / Switch / Xbox\n数据来源: 小黑盒\n来
+ 源链接: https://api.xiaoheihe.cn/game/release_calendar/game_list/single
+ _day?day_timestamp=1796054400&filter_hot=all&filter_platform=ps4\nhttps://
+ api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=
+ 1796054400&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/g
+ ame/release_calendar/game_list/single_day?day_timestamp=1796054400&filter_
+ hot=all&filter_platform=switch\nhttps://api.xiaoheihe.cn/game/release_cale
+ ndar/game_list/single_day?day_timestamp=1796054400&filter_hot=hot&filter_p
+ latform=pc\n\n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-02@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261117T000000
+DTSTAMP:20261118T000000
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:SOMBRAS: negative frames 等 2 款发售
-DESCRIPTION:当天发售：SOMBRAS: negative frames、Thief: The Dark Proj
- ect Remastered\n\n当天发售：\n1. SOMBRAS: negative frames (PC)\n2. Th
- ief: The Dark Project Remastered (PC)\n\n游戏数量: 2\n发售游戏: SO
- MBRAS: negative frames、Thief: The Dark Project Remastered\n平台: PC\n
- 数据来源: RAWG\n\n来源: https://rawg.io/games
-CATEGORIES:RAWG 游戏发售
-URL;VALUE=URI:https://rawg.io/games
+SUMMARY:Book Nook 等 10 款发售
+DESCRIPTION:当天发售：Book Nook、Falconeer Remaster、Luma Island、
+ Mombo、The Dark Queen of Mortholme、Unfriendly Friend（抢先体验）
+ 、勇者斗恶龙怪物仙境4 枯木国的碧安卡与芙萝拉、隐藏
+ 真探、雷曼：传奇再叙、露玛岛\n\n当天发售：\n1. Book Noo
+ k (PC)\n2. Falconeer Remaster (Xbox)\n3. Luma Island (Xbox)\n4. Mombo (Xbo
+ x)\n5. The Dark Queen of Mortholme (PlayStation)\n6. Unfriendly Friend（
+ 抢先体验） (PC)\n7. 勇者斗恶龙怪物仙境4 枯木国的碧安
+ 卡与芙萝拉 (PlayStation)\n8. 隐藏真探 (PC)\n9. 雷曼：传奇再
+ 叙 (PlayStation)\n10. 露玛岛 (PlayStation)\n\n游戏数量: 10\n发售
+ 游戏: Book Nook、Falconeer Remaster、Luma Island、Mombo、The Dark Qu
+ een of Mortholme、Unfriendly Friend（抢先体验）、勇者斗恶龙
+ 怪物仙境4 枯木国的碧安卡与芙萝拉、隐藏真探、雷曼：
+ 传奇再叙、露玛岛\n平台: PC / PlayStation / Xbox\n数据来源: 
+ 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/release_calendar/ga
+ me_list/single_day?day_timestamp=1796140800&filter_hot=hot&filter_platform
+ =pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?d
+ ay_timestamp=1796140800&filter_hot=all&filter_platform=xbox\nhttps://api.x
+ iaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=17961
+ 40800&filter_hot=all&filter_platform=ps4\n\n来源: https://www.xiaoheihe.
+ cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-03@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261117T000000
+DTSTAMP:20261118T000000
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Cronos: Lazarus 等 2 款发售
-DESCRIPTION:当天发售：Cronos: Lazarus、Rayman Legends Retold\n\n当
- 天发售：\n1. Cronos: Lazarus (PC / PS5)\n2. Rayman Legends Retold (PC 
- / PS5)\n\n游戏数量: 2\n发售游戏: Cronos: Lazarus、Rayman Legends 
- Retold\n平台: PC / PS5\n数据来源: RAWG\n\n来源: https://rawg.io/ga
- mes
-CATEGORIES:RAWG 游戏发售
-URL;VALUE=URI:https://rawg.io/games
+SUMMARY:28天列车失事幸存者 等 36 款发售
+DESCRIPTION:当天发售：28天列车失事幸存者、Aeterna Lucis、As
+ tro Chef: Cosmic Kitchen、Backrooms Splatter、Bleeding Nightmare、Edge 
+ of Memories、Edge of Memories、FTW VE、HUNGER（抢先体验）、LarsG
+ adiel、MANIC MINER、Million Depth、Mombo Combo：传承、Quadrillion C
+ arrots、SOMBRAS: negative frames、The Dark Queen of Mortholme、Thief: T
+ he Dark Project Remastered、上行战场 终极版、单词蜂、大反
+ 派千金 莉莉的计略、太空机械模拟器、房间对战、摩斯
+ 霍姆的暗黑女王、无光绝境（抢先体验）、深岩之下、
+ 电兔拉比！、电兔拉比！、磕磕绊绊圆舞曲、磕磕绊绊
+ 圆舞曲、神偷：暗黑计划 重制版、神偷：暗黑计划 重制
+ 版 - 数字豪华版升级包、胡来！文字麻将、自由足球2、
+ 血涌不息、血涌不息、雷曼：传奇再叙\n\n当天发售：\n1.
+  28天列车失事幸存者 (Switch)\n2. Aeterna Lucis (PlayStation)\n3. A
+ stro Chef: Cosmic Kitchen (Switch)\n4. Backrooms Splatter (Switch)\n5. Ble
+ eding Nightmare (PlayStation)\n6. Edge of Memories (Xbox)\n7. Edge of Memo
+ ries (PlayStation)\n8. FTW VE (Xbox)\n9. HUNGER（抢先体验） (PC)\n10
+ . LarsGadiel (Switch)\n11. MANIC MINER (Xbox)\n12. Million Depth (Switch)\
+ n13. Mombo Combo：传承 (Switch)\n14. Quadrillion Carrots (PlayStation)\
+ n15. SOMBRAS: negative frames (PlayStation)\n16. The Dark Queen of Morthol
+ me (Xbox)\n17. Thief: The Dark Project Remastered (PlayStation)\n18. 上
+ 行战场 终极版 (Switch)\n19. 单词蜂 (Switch)\n20. 大反派千金 
+ 莉莉的计略 (Switch)\n21. 太空机械模拟器 (Xbox)\n22. 房间对
+ 战 (Switch)\n23. 摩斯霍姆的暗黑女王 (Switch)\n24. 无光绝境
+ （抢先体验） (PC)\n25. 深岩之下 (Switch)\n26. 电兔拉比！ (S
+ witch)\n27. 电兔拉比！ (PC)\n28. 磕磕绊绊圆舞曲 (Switch)\n29. 
+ 磕磕绊绊圆舞曲 (PC)\n30. 神偷：暗黑计划 重制版 (Switch)\n
+ 31. 神偷：暗黑计划 重制版 - 数字豪华版升级包 (Switch)\n3
+ 2. 胡来！文字麻将 (PC)\n33. 自由足球2 (PlayStation)\n34. 血涌
+ 不息 (Switch)\n35. 血涌不息 (Xbox)\n36. 雷曼：传奇再叙 (PC)\n
+ \n游戏数量: 36\n发售游戏: 28天列车失事幸存者、Aeterna Luc
+ is、Astro Chef: Cosmic Kitchen、Backrooms Splatter、Bleeding Nightmare
+ 、Edge of Memories、Edge of Memories、FTW VE、HUNGER（抢先体验）
+ 、LarsGadiel、MANIC MINER、Million Depth、Mombo Combo：传承、Quadr
+ illion Carrots、SOMBRAS: negative frames、The Dark Queen of Mortholme、
+ Thief: The Dark Project Remastered、上行战场 终极版、单词蜂、
+ 大反派千金 莉莉的计略、太空机械模拟器、房间对战、
+ 摩斯霍姆的暗黑女王、无光绝境（抢先体验）、深岩之
+ 下、电兔拉比！、电兔拉比！、磕磕绊绊圆舞曲、磕磕
+ 绊绊圆舞曲、神偷：暗黑计划 重制版、神偷：暗黑计划 
+ 重制版 - 数字豪华版升级包、胡来！文字麻将、自由足
+ 球2、血涌不息、血涌不息、雷曼：传奇再叙\n平台: PC / P
+ layStation / Switch / Xbox\n数据来源: 小黑盒\n来源链接: https:/
+ /api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp
+ =1796227200&filter_hot=all&filter_platform=switch\nhttps://api.xiaoheihe.c
+ n/game/release_calendar/game_list/single_day?day_timestamp=1796227200&filt
+ er_hot=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_cale
+ ndar/game_list/single_day?day_timestamp=1796227200&filter_hot=all&filter_p
+ latform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/sin
+ gle_day?day_timestamp=1796227200&filter_hot=hot&filter_platform=pc\n\n来
+ 源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2026-12-04@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Aery - Four Seasons 等 22 款发售
+DESCRIPTION:当天发售：Aery - Four Seasons、Aeterna Lucis、Edge of M
+ emories、Survival Machine、Survival Machine、Thief、Yolk & Yonder、Yo
+ lk & Yonder、Yolk & Yonder、Zero Hour、九州之士、勇者斗恶龙
+ 怪物仙境4 枯木国的碧安卡与芙萝拉、卡牌修真: 九宫幻
+ 境录、噬灵法师、大锻造师、战锤40K：战争黎明 IV、掘
+ 地求财：铲友齐上阵、掘地求财：铲友齐上阵、极速合
+ 辑：超跑与赛道、查无此人、此心安处、浣熊模拟器\n\n
+ 当天发售：\n1. Aery - Four Seasons (Xbox)\n2. Aeterna Lucis (PC)\n3. 
+ Edge of Memories (PC)\n4. Survival Machine (Xbox)\n5. Survival Machine (Pl
+ ayStation)\n6. Thief (Xbox)\n7. Yolk & Yonder (Xbox)\n8. Yolk & Yonder (Xb
+ ox)\n9. Yolk & Yonder (Xbox)\n10. Zero Hour (Xbox)\n11. 九州之士 (PC)\
+ n12. 勇者斗恶龙怪物仙境4 枯木国的碧安卡与芙萝拉 (PC)\n
+ 13. 卡牌修真: 九宫幻境录 (PC)\n14. 噬灵法师 (PC)\n15. 大锻
+ 造师 (Xbox)\n16. 战锤40K：战争黎明 IV (PC)\n17. 掘地求财：
+ 铲友齐上阵 (Xbox)\n18. 掘地求财：铲友齐上阵 (PlayStation)\n
+ 19. 极速合辑：超跑与赛道 (Switch)\n20. 查无此人 (PC)\n21. 
+ 此心安处 (Switch)\n22. 浣熊模拟器 (PC)\n\n游戏数量: 22\n发
+ 售游戏: Aery - Four Seasons、Aeterna Lucis、Edge of Memories、Surviv
+ al Machine、Survival Machine、Thief、Yolk & Yonder、Yolk & Yonder、Yo
+ lk & Yonder、Zero Hour、九州之士、勇者斗恶龙怪物仙境4 枯
+ 木国的碧安卡与芙萝拉、卡牌修真: 九宫幻境录、噬灵法
+ 师、大锻造师、战锤40K：战争黎明 IV、掘地求财：铲友
+ 齐上阵、掘地求财：铲友齐上阵、极速合辑：超跑与赛
+ 道、查无此人、此心安处、浣熊模拟器\n平台: PC / PlayStat
+ ion / Switch / Xbox\n数据来源: 小黑盒\n来源链接: https://api.xi
+ aoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=179631
+ 3600&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/re
+ lease_calendar/game_list/single_day?day_timestamp=1796313600&filter_hot=ho
+ t&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_
+ list/single_day?day_timestamp=1796313600&filter_hot=all&filter_platform=ps
+ 4\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day
+ _timestamp=1796313600&filter_hot=all&filter_platform=switch\n\n来源: htt
+ ps://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2026-12-05@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Cozy Home Unpacking 等 2 款发售
+DESCRIPTION:当天发售：Cozy Home Unpacking、被遗忘的宝藏\n\n当
+ 天发售：\n1. Cozy Home Unpacking (Xbox)\n2. 被遗忘的宝藏 (Switch
+ )\n\n游戏数量: 2\n发售游戏: Cozy Home Unpacking、被遗忘的宝
+ 藏\n平台: Switch / Xbox\n数据来源: 小黑盒\n来源链接: https:/
+ /api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp
+ =1796400000&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/
+ game/release_calendar/game_list/single_day?day_timestamp=1796400000&filter
+ _hot=all&filter_platform=switch\n\n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-07@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261117T000000
+DTSTAMP:20261118T000000
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Elements Destiny 发售
-DESCRIPTION:Elements Destiny 发售（Linux / PC / macOS）\n\n当天发
- 售：\n1. Elements Destiny (PC / macOS / Linux)\n\n游戏数量: 1\n发
- 售游戏: Elements Destiny\n平台: Linux / PC / macOS\n数据来源: RAW
- G\n\n来源: https://rawg.io/games/elements-destiny
-CATEGORIES:RAWG 游戏发售
-URL;VALUE=URI:https://rawg.io/games/elements-destiny
+SUMMARY:Mouse Work 等 6 款发售
+DESCRIPTION:当天发售：Mouse Work、复兴吧温泉镇!（抢先体验
+ ）、末世神枪、白日梦想屋、绿意新生、美女与野兽\n\n
+ 当天发售：\n1. Mouse Work (Switch)\n2. 复兴吧温泉镇!（抢先
+ 体验） (PC)\n3. 末世神枪 (PlayStation)\n4. 白日梦想屋 (PC)\n5.
+  绿意新生 (PC)\n6. 美女与野兽 (Xbox)\n\n游戏数量: 6\n发售
+ 游戏: Mouse Work、复兴吧温泉镇!（抢先体验）、末世神枪
+ 、白日梦想屋、绿意新生、美女与野兽\n平台: PC / PlayStat
+ ion / Switch / Xbox\n数据来源: 小黑盒\n来源链接: https://api.xi
+ aoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=179657
+ 2800&filter_hot=all&filter_platform=switch\nhttps://api.xiaoheihe.cn/game/
+ release_calendar/game_list/single_day?day_timestamp=1796572800&filter_hot=
+ hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/gam
+ e_list/single_day?day_timestamp=1796572800&filter_hot=all&filter_platform=
+ ps4\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?d
+ ay_timestamp=1796572800&filter_hot=all&filter_platform=xbox\n\n来源: htt
+ ps://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-08@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261117T000000
+DTSTAMP:20261118T000000
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Guns of Eschaton 等 2 款发售
-DESCRIPTION:当天发售：Guns of Eschaton、HavenCraft\n\n当天发售
- ：\n1. Guns of Eschaton (PC / PS5)\n2. HavenCraft (PC)\n\n游戏数量: 2
- \n发售游戏: Guns of Eschaton、HavenCraft\n平台: PC / PS5\n数据来
- 源: RAWG\n\n来源: https://rawg.io/games
-CATEGORIES:RAWG 游戏发售
-URL;VALUE=URI:https://rawg.io/games
+SUMMARY:Cast n Chill 等 9 款发售
+DESCRIPTION:当天发售：Cast n Chill、Fart Together、Unharvest、夺
+ 宝小侠与红宝石宝箱、末世神枪、末世神枪、迪诺世界
+ 物语 Dino Epoch: Fantasy Tale（抢先体验）、酒鬼女神的酒诡
+ 、领航员计划 Navigator Project\n\n当天发售：\n1. Cast n Chill (
+ Xbox)\n2. Fart Together (PC)\n3. Unharvest (PC)\n4. 夺宝小侠与红宝
+ 石宝箱 (PlayStation)\n5. 末世神枪 (Xbox)\n6. 末世神枪 (PC)\n7. 
+ 迪诺世界物语 Dino Epoch: Fantasy Tale（抢先体验） (PC)\n8. 酒
+ 鬼女神的酒诡 (PC)\n9. 领航员计划 Navigator Project (PC)\n\n游
+ 戏数量: 9\n发售游戏: Cast n Chill、Fart Together、Unharvest、夺
+ 宝小侠与红宝石宝箱、末世神枪、末世神枪、迪诺世界
+ 物语 Dino Epoch: Fantasy Tale（抢先体验）、酒鬼女神的酒诡
+ 、领航员计划 Navigator Project\n平台: PC / PlayStation / Xbox\n数
+ 据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/release_
+ calendar/game_list/single_day?day_timestamp=1796659200&filter_hot=all&filt
+ er_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list
+ /single_day?day_timestamp=1796659200&filter_hot=hot&filter_platform=pc\nht
+ tps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_time
+ stamp=1796659200&filter_hot=all&filter_platform=ps4\n\n来源: https://www
+ .xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2026-12-09@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Parcel Simulator 等 7 款发售
+DESCRIPTION:当天发售：Parcel Simulator、YAMIGATARI: FOR3ST、亚路
+ 塔：狐狸狐途的面包冒险、包裹模拟器、忍者棒球 LEAGUE-
+ MAN Bases Loaded、物流仓管模拟器、进击的巨人３\n\n当天发
+ 售：\n1. Parcel Simulator (Xbox)\n2. YAMIGATARI: FOR3ST (Xbox)\n3. 亚
+ 路塔：狐狸狐途的面包冒险 (Switch)\n4. 包裹模拟器 (Switch)
+ \n5. 忍者棒球 LEAGUE-MAN Bases Loaded (Xbox)\n6. 物流仓管模拟器
+  (PlayStation)\n7. 进击的巨人３ (PlayStation)\n\n游戏数量: 7\n
+ 发售游戏: Parcel Simulator、YAMIGATARI: FOR3ST、亚路塔：狐狸
+ 狐途的面包冒险、包裹模拟器、忍者棒球 LEAGUE-MAN Bases Lo
+ aded、物流仓管模拟器、进击的巨人３\n平台: PlayStation / S
+ witch / Xbox\n数据来源: 小黑盒\n来源链接: https://api.xiaoheihe
+ .cn/game/release_calendar/game_list/single_day?day_timestamp=1796745600&fi
+ lter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_c
+ alendar/game_list/single_day?day_timestamp=1796745600&filter_hot=all&filte
+ r_platform=switch\nhttps://api.xiaoheihe.cn/game/release_calendar/game_lis
+ t/single_day?day_timestamp=1796745600&filter_hot=all&filter_platform=ps4\n
+ \n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2026-12-10@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Airsoft Online（抢先体验） 等 21 款发售
+DESCRIPTION:当天发售：Airsoft Online（抢先体验）、Stage Tour
+ 、STAGE TOUR、We are Eva、Wish Upon A Llama、YAMIGATARI: FOR3ST、三
+ 世奇缘、世界桌上游戏＆游玩合集60+、培乐多：创作ABC
+ 字母、忍者棒球：满垒、歌曲大师、海岛渔生（抢先体
+ 验）、特威格的冒险64、联合天空：飞行模拟器、薄樱鬼
+ 异闻 贝列津斯基的魔女、这有猫腻、这有猫腻、雷顿教
+ 授与蒸汽新世界、飞机机械师模拟器、飞机机械师模拟
+ 器、食魂徒：Blue Pieta\n\n当天发售：\n1. Airsoft Online（抢
+ 先体验） (PC)\n2. Stage Tour (Xbox)\n3. STAGE TOUR (PlayStation)\n4. W
+ e are Eva (Switch)\n5. Wish Upon A Llama (PC)\n6. YAMIGATARI: FOR3ST (Swit
+ ch)\n7. 三世奇缘 (Switch)\n8. 世界桌上游戏＆游玩合集60+ (Sw
+ itch)\n9. 培乐多：创作ABC字母 (Switch)\n10. 忍者棒球：满垒 
+ (Switch)\n11. 歌曲大师 (Switch)\n12. 海岛渔生（抢先体验） (P
+ C)\n13. 特威格的冒险64 (Switch)\n14. 联合天空：飞行模拟器 
+ (Switch)\n15. 薄樱鬼异闻 贝列津斯基的魔女 (Switch)\n16. 这
+ 有猫腻 (Switch)\n17. 这有猫腻 (Xbox)\n18. 雷顿教授与蒸汽新
+ 世界 (Switch)\n19. 飞机机械师模拟器 (Xbox)\n20. 飞机机械师
+ 模拟器 (PlayStation)\n21. 食魂徒：Blue Pieta (Switch)\n\n游戏数
+ 量: 21\n发售游戏: Airsoft Online（抢先体验）、Stage Tour、STA
+ GE TOUR、We are Eva、Wish Upon A Llama、YAMIGATARI: FOR3ST、三世奇
+ 缘、世界桌上游戏＆游玩合集60+、培乐多：创作ABC字母
+ 、忍者棒球：满垒、歌曲大师、海岛渔生（抢先体验）
+ 、特威格的冒险64、联合天空：飞行模拟器、薄樱鬼异闻
+  贝列津斯基的魔女、这有猫腻、这有猫腻、雷顿教授与
+ 蒸汽新世界、飞机机械师模拟器、飞机机械师模拟器、
+ 食魂徒：Blue Pieta\n平台: PC / PlayStation / Switch / Xbox\n数据
+ 来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/release_cal
+ endar/game_list/single_day?day_timestamp=1796832000&filter_hot=hot&filter_
+ platform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/sing
+ le_day?day_timestamp=1796832000&filter_hot=all&filter_platform=xbox\nhttps
+ ://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timesta
+ mp=1796832000&filter_hot=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn
+ /game/release_calendar/game_list/single_day?day_timestamp=1796832000&filte
+ r_hot=all&filter_platform=switch\n\n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-11@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261117T000000
+DTSTAMP:20261118T000000
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Path of Exile 2 发售
-DESCRIPTION:Path of Exile 2 发售（PC）\n\n当天发售：\n1. Path of 
- Exile 2 (PC · RAWG 3.55)\n\n游戏数量: 1\n发售游戏: Path of Exile 
- 2\n平台: PC\n数据来源: RAWG\n\n来源: https://rawg.io/games/path-of
- -exile-2
-CATEGORIES:RAWG 游戏发售
-URL;VALUE=URI:https://rawg.io/games/path-of-exile-2
+SUMMARY:Alphadia F 等 12 款发售
+DESCRIPTION:当天发售：Alphadia F、Brew & Dash、I Am Jesus Christ、
+ I Am Jesus Christ、Push & Bloom、Push & Bloom、Push & Bloom、Tiny Fort
+ ress、Wand & Order、余烬列车、王女的复国竞技法则、酿制
+ 冲刺\n\n当天发售：\n1. Alphadia F (Xbox)\n2. Brew & Dash (Xbox)\n3.
+  I Am Jesus Christ (PlayStation)\n4. I Am Jesus Christ (Xbox)\n5. Push & B
+ loom (Xbox)\n6. Push & Bloom (Xbox)\n7. Push & Bloom (Xbox)\n8. Tiny Fortr
+ ess (PC)\n9. Wand & Order (Xbox)\n10. 余烬列车 (PC)\n11. 王女的复
+ 国竞技法则 (PC)\n12. 酿制冲刺 (Switch)\n\n游戏数量: 12\n发
+ 售游戏: Alphadia F、Brew & Dash、I Am Jesus Christ、I Am Jesus Chris
+ t、Push & Bloom、Push & Bloom、Push & Bloom、Tiny Fortress、Wand & Or
+ der、余烬列车、王女的复国竞技法则、酿制冲刺\n平台: P
+ C / PlayStation / Switch / Xbox\n数据来源: 小黑盒\n来源链接: ht
+ tps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_time
+ stamp=1796918400&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheih
+ e.cn/game/release_calendar/game_list/single_day?day_timestamp=1796918400&f
+ ilter_hot=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_c
+ alendar/game_list/single_day?day_timestamp=1796918400&filter_hot=hot&filte
+ r_platform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/si
+ ngle_day?day_timestamp=1796918400&filter_hot=all&filter_platform=switch\n\
+ n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2026-12-12@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Meowsical Nights: Cat Music Puzzles 等 5 款发售
+DESCRIPTION:当天发售：Meowsical Nights: Cat Music Puzzles、Minigolf 
+ Brake!、全小将、垃圾清运工、流放之路2\n\n当天发售：\n1
+ . Meowsical Nights: Cat Music Puzzles (Xbox)\n2. Minigolf Brake! (Xbox)\n3
+ . 全小将 (PC)\n4. 垃圾清运工 (Switch)\n5. 流放之路2 (Xbox)\n\n
+ 游戏数量: 5\n发售游戏: Meowsical Nights: Cat Music Puzzles、Minig
+ olf Brake!、全小将、垃圾清运工、流放之路2\n平台: PC / Swi
+ tch / Xbox\n数据来源: 小黑盒\n来源链接: https://api.xiaoheihe.c
+ n/game/release_calendar/game_list/single_day?day_timestamp=1797004800&filt
+ er_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_cal
+ endar/game_list/single_day?day_timestamp=1797004800&filter_hot=hot&filter_
+ platform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/sing
+ le_day?day_timestamp=1797004800&filter_hot=all&filter_platform=switch\n\n
+ 来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2026-12-14@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:白银之城 发售
+DESCRIPTION:当天发售：白银之城\n\n当天发售：\n1. 白银之
+ 城 (PlayStation)\n\n游戏数量: 1\n发售游戏: 白银之城\n平台: 
+ PlayStation\n数据来源: 小黑盒\n来源链接: https://api.xiaoheihe.
+ cn/game/release_calendar/game_list/single_day?day_timestamp=1797177600&fil
+ ter_hot=all&filter_platform=ps4\n\n来源: https://api.xiaoheihe.cn/game/s
+ hare_game_detail?appid=900221659&game_type=console
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://api.xiaoheihe.cn/game/share_game_detail?appid=900221
+ 659&game_type=console
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2026-12-15@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Dancin' Divas 等 5 款发售
+DESCRIPTION:当天发售：Dancin' Divas、Pharmacy Store Simulator、Rock
+ \, Paper\, Rumble、尼罗河勇士2、惊悚乐园：平田的世界\n\n
+ 当天发售：\n1. Dancin' Divas (PlayStation)\n2. Pharmacy Store Simulat
+ or (Xbox)\n3. Rock\, Paper\, Rumble (Xbox)\n4. 尼罗河勇士2 (Xbox)\n5.
+  惊悚乐园：平田的世界 (PC)\n\n游戏数量: 5\n发售游戏: Dan
+ cin' Divas、Pharmacy Store Simulator、Rock\, Paper\, Rumble、尼罗河
+ 勇士2、惊悚乐园：平田的世界\n平台: PC / PlayStation / Xbox\
+ n数据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/rele
+ ase_calendar/game_list/single_day?day_timestamp=1797264000&filter_hot=all&
+ filter_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_calendar/game_l
+ ist/single_day?day_timestamp=1797264000&filter_hot=all&filter_platform=xbo
+ x\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day
+ _timestamp=1797264000&filter_hot=hot&filter_platform=pc\n\n来源: https:/
+ /www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-16@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261117T000000
+DTSTAMP:20261118T000000
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:They Come in Fives 发售
-DESCRIPTION:They Come in Fives 发售（PC）\n\n当天发售：\n1. They 
- Come in Fives (PC)\n\n游戏数量: 1\n发售游戏: They Come in Fives\n
- 平台: PC\n数据来源: RAWG\n\n来源: https://rawg.io/games/they-come-
- in-fives
-CATEGORIES:RAWG 游戏发售
-URL;VALUE=URI:https://rawg.io/games/they-come-in-fives
+SUMMARY:Dancin' Divas 等 3 款发售
+DESCRIPTION:当天发售：Dancin' Divas、Defilade、Haul Yeah!\n\n当天
+ 发售：\n1. Dancin' Divas (Xbox)\n2. Defilade (PC)\n3. Haul Yeah! (Xbox)
+ \n\n游戏数量: 3\n发售游戏: Dancin' Divas、Defilade、Haul Yeah!\n
+ 平台: PC / Xbox\n数据来源: 小黑盒\n来源链接: https://api.xiao
+ heihe.cn/game/release_calendar/game_list/single_day?day_timestamp=17973504
+ 00&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/rele
+ ase_calendar/game_list/single_day?day_timestamp=1797350400&filter_hot=hot&
+ filter_platform=pc\n\n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2026-12-17@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Did You See That? 等 4 款发售
+DESCRIPTION:当天发售：Did You See That?、樱之诗 −于樱之森
+ 上飞舞−、歌之王子殿下：闪耀之星、砍与售\n\n当天发
+ 售：\n1. Did You See That? (PC)\n2. 樱之诗 −于樱之森上飞舞
+ − (PC)\n3. 歌之王子殿下：闪耀之星 (Switch)\n4. 砍与售 (Xbo
+ x)\n\n游戏数量: 4\n发售游戏: Did You See That?、樱之诗 −于
+ 樱之森上飞舞−、歌之王子殿下：闪耀之星、砍与售\n平
+ 台: PC / Switch / Xbox\n数据来源: 小黑盒\n来源链接: https://ap
+ i.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=17
+ 97436800&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/
+ release_calendar/game_list/single_day?day_timestamp=1797436800&filter_hot=
+ all&filter_platform=switch\nhttps://api.xiaoheihe.cn/game/release_calendar
+ /game_list/single_day?day_timestamp=1797436800&filter_hot=all&filter_platf
+ orm=xbox\n\n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2026-12-18@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Village Merchant 发售
+DESCRIPTION:当天发售：Village Merchant\n\n当天发售：\n1. Village
+  Merchant (Xbox)\n\n游戏数量: 1\n发售游戏: Village Merchant\n平
+ 台: Xbox\n数据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn
+ /game/release_calendar/game_list/single_day?day_timestamp=1797523200&filte
+ r_hot=all&filter_platform=xbox\n\n来源: https://api.xiaoheihe.cn/game/sh
+ are_game_detail?appid=900221683&game_type=console
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://api.xiaoheihe.cn/game/share_game_detail?appid=900221
+ 683&game_type=console
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2026-12-19@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Outbreak Vengeance 等 2 款发售
+DESCRIPTION:当天发售：Outbreak Vengeance、城堡肉鸽\n\n当天发
+ 售：\n1. Outbreak Vengeance (Xbox)\n2. 城堡肉鸽 (Switch)\n\n游戏
+ 数量: 2\n发售游戏: Outbreak Vengeance、城堡肉鸽\n平台: Switch
+  / Xbox\n数据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/g
+ ame/release_calendar/game_list/single_day?day_timestamp=1797609600&filter_
+ hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calend
+ ar/game_list/single_day?day_timestamp=1797609600&filter_hot=all&filter_pla
+ tform=switch\n\n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2026-12-24@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:化学失误 等 2 款发售
+DESCRIPTION:当天发售：化学失误、大跳跃：同乐\n\n当天发
+ 售：\n1. 化学失误 (Switch)\n2. 大跳跃：同乐 (Switch)\n\n游戏
+ 数量: 2\n发售游戏: 化学失误、大跳跃：同乐\n平台: Switch
+ \n数据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/rel
+ ease_calendar/game_list/single_day?day_timestamp=1798041600&filter_hot=all
+ &filter_platform=switch\n\n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2026-12-25@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:下凡（抢先体验） 等 2 款发售
+DESCRIPTION:当天发售：下凡（抢先体验）、动力赛车合集4\
+ n\n当天发售：\n1. 下凡（抢先体验） (PC)\n2. 动力赛车合
+ 集4 (Switch)\n\n游戏数量: 2\n发售游戏: 下凡（抢先体验）
+ 、动力赛车合集4\n平台: PC / Switch\n数据来源: 小黑盒\n来
+ 源链接: https://api.xiaoheihe.cn/game/release_calendar/game_list/single
+ _day?day_timestamp=1798128000&filter_hot=hot&filter_platform=pc\nhttps://a
+ pi.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1
+ 798128000&filter_hot=all&filter_platform=switch\n\n来源: https://www.xia
+ oheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2026-12-30@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Bad Magpie 发售
+DESCRIPTION:当天发售：Bad Magpie\n\n当天发售：\n1. Bad Magpie (X
+ box)\n\n游戏数量: 1\n发售游戏: Bad Magpie\n平台: Xbox\n数据来
+ 源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/release_calend
+ ar/game_list/single_day?day_timestamp=1798560000&filter_hot=all&filter_pla
+ tform=xbox\n\n来源: https://api.xiaoheihe.cn/game/share_game_detail?appi
+ d=900216047&game_type=console
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://api.xiaoheihe.cn/game/share_game_detail?appid=900216
+ 047&game_type=console
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2026-12-31@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Bring It 等 4 款发售
+DESCRIPTION:当天发售：Bring It、Reloadian、SWAT Commander Simulator
+ 、越界恋人!!\n\n当天发售：\n1. Bring It (PlayStation)\n2. Reload
+ ian (PlayStation)\n3. SWAT Commander Simulator (PlayStation)\n4. 越界恋
+ 人!! (PC)\n\n游戏数量: 4\n发售游戏: Bring It、Reloadian、SWAT C
+ ommander Simulator、越界恋人!!\n平台: PC / PlayStation\n数据来
+ 源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/release_calend
+ ar/game_list/single_day?day_timestamp=1798646400&filter_hot=all&filter_pla
+ tform=ps4\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single
+ _day?day_timestamp=1798646400&filter_hot=hot&filter_platform=pc\n\n来源:
+  https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-01-01@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:大爱仙尊模拟器 等 2 款发售
+DESCRIPTION:当天发售：大爱仙尊模拟器、孤城（抢先体验
+ ）\n\n当天发售：\n1. 大爱仙尊模拟器 (PC)\n2. 孤城（抢先
+ 体验） (PC)\n\n游戏数量: 2\n发售游戏: 大爱仙尊模拟器、
+ 孤城（抢先体验）\n平台: PC\n数据来源: 小黑盒\n来源链
+ 接: https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?d
+ ay_timestamp=1798732800&filter_hot=hot&filter_platform=pc\n\n来源: https
+ ://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-01-05@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:橘香仲夏 发售
+DESCRIPTION:当天发售：橘香仲夏\n\n当天发售：\n1. 橘香仲
+ 夏 (PC)\n\n游戏数量: 1\n发售游戏: 橘香仲夏\n平台: PC\n数
+ 据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/release_
+ calendar/game_list/single_day?day_timestamp=1799078400&filter_hot=hot&filt
+ er_platform=pc\n\n来源: https://store.steampowered.com/app/3725830/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://store.steampowered.com/app/3725830/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-01-07@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Breaking Gates 等 3 款发售
+DESCRIPTION:当天发售：Breaking Gates、火星点击器、破门\n\n
+ 当天发售：\n1. Breaking Gates (Xbox)\n2. 火星点击器 (Switch)\n3.
+  破门 (Switch)\n\n游戏数量: 3\n发售游戏: Breaking Gates、火星
+ 点击器、破门\n平台: Switch / Xbox\n数据来源: 小黑盒\n来源
+ 链接: https://api.xiaoheihe.cn/game/release_calendar/game_list/single_da
+ y?day_timestamp=1799251200&filter_hot=all&filter_platform=xbox\nhttps://ap
+ i.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=17
+ 99251200&filter_hot=all&filter_platform=switch\n\n来源: https://www.xiao
+ heihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-01-08@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Armatus 等 6 款发售
+DESCRIPTION:当天发售：Armatus、Armatus、余烬之镇 Emberville（
+ 抢先体验）、火线后勤：伊萨拉战争、烬刃交辉（抢先
+ 体验）、荷莱Horae\n\n当天发售：\n1. Armatus (Switch)\n2. Armatu
+ s (PC)\n3. 余烬之镇 Emberville（抢先体验） (PC)\n4. 火线后勤
+ ：伊萨拉战争 (PC)\n5. 烬刃交辉（抢先体验） (PC)\n6. 荷莱
+ Horae (PC)\n\n游戏数量: 6\n发售游戏: Armatus、Armatus、余烬之
+ 镇 Emberville（抢先体验）、火线后勤：伊萨拉战争、烬刃
+ 交辉（抢先体验）、荷莱Horae\n平台: PC / Switch\n数据来源:
+  小黑盒\n来源链接: https://api.xiaoheihe.cn/game/release_calendar/g
+ ame_list/single_day?day_timestamp=1799337600&filter_hot=all&filter_platfor
+ m=switch\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_
+ day?day_timestamp=1799337600&filter_hot=hot&filter_platform=pc\n\n来源: 
+ https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-01-13@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:凶案数独 发售
+DESCRIPTION:当天发售：凶案数独\n\n当天发售：\n1. 凶案数
+ 独 (PC)\n\n游戏数量: 1\n发售游戏: 凶案数独\n平台: PC\n数
+ 据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/release_
+ calendar/game_list/single_day?day_timestamp=1799769600&filter_hot=hot&filt
+ er_platform=pc\n\n来源: https://store.steampowered.com/app/5076490/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://store.steampowered.com/app/5076490/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-01-14@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Outbreak Z 等 8 款发售
+DESCRIPTION:当天发售：Outbreak Z、Sturmjäger、华夏风云：三
+ 国、拉莱耶的重生、超级枪弹辩驳２×２、超级枪弹辩驳
+ ２×２、超级枪弹辩驳２×２、风暴猎人\n\n当天发售：\n1
+ . Outbreak Z (PC)\n2. Sturmjäger (Xbox)\n3. 华夏风云：三国 (PC)\n4
+ . 拉莱耶的重生 (PC)\n5. 超级枪弹辩驳２×２ (Switch)\n6. 超
+ 级枪弹辩驳２×２ (Xbox)\n7. 超级枪弹辩驳２×２ (PC)\n8. 风
+ 暴猎人 (Switch)\n\n游戏数量: 8\n发售游戏: Outbreak Z、Sturmjä
+ ger、华夏风云：三国、拉莱耶的重生、超级枪弹辩驳２×
+ ２、超级枪弹辩驳２×２、超级枪弹辩驳２×２、风暴猎
+ 人\n平台: PC / Switch / Xbox\n数据来源: 小黑盒\n来源链接: ht
+ tps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_time
+ stamp=1799856000&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.
+ cn/game/release_calendar/game_list/single_day?day_timestamp=1799856000&fil
+ ter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_ca
+ lendar/game_list/single_day?day_timestamp=1799856000&filter_hot=all&filter
+ _platform=switch\n\n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-01-15@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261117T000000
+DTSTAMP:20261118T000000
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:ananta 发售
-DESCRIPTION:ananta 发售（Android / PC / PS5 / iOS）\n\n当天发售：
- \n1. ananta (PC / PS5 / iOS / Android)\n\n游戏数量: 1\n发售游戏: a
- nanta\n平台: Android / PC / PS5 / iOS\n数据来源: RAWG\n\n来源: htt
- ps://rawg.io/games/ananta
-CATEGORIES:RAWG 游戏发售
-URL;VALUE=URI:https://rawg.io/games/ananta
+SUMMARY:13Z: 生肖试炼 等 5 款发售
+DESCRIPTION:当天发售：13Z: 生肖试炼、健身拳击\n刀剑乱舞 
+ -出阵！锻炼本丸-、坦克狂途 TankRat、异于天堂、泰坦之
+ 旅2\n\n当天发售：\n1. 13Z: 生肖试炼 (PC)\n2. 健身拳击\n刀
+ 剑乱舞 -出阵！锻炼本丸- (Switch)\n3. 坦克狂途 TankRat (PC)\n
+ 4. 异于天堂 (PC)\n5. 泰坦之旅2 (PlayStation)\n\n游戏数量: 5\n
+ 发售游戏: 13Z: 生肖试炼、健身拳击\n刀剑乱舞 -出阵！锻
+ 炼本丸-、坦克狂途 TankRat、异于天堂、泰坦之旅2\n平台: 
+ PC / PlayStation / Switch\n数据来源: 小黑盒\n来源链接: https://
+ api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=
+ 1799942400&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/gam
+ e/release_calendar/game_list/single_day?day_timestamp=1799942400&filter_ho
+ t=all&filter_platform=switch\nhttps://api.xiaoheihe.cn/game/release_calend
+ ar/game_list/single_day?day_timestamp=1799942400&filter_hot=all&filter_pla
+ tform=ps4\n\n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-01-18@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:地狱铸造 Hellforged（抢先体验） 等 2 款发售
+DESCRIPTION:当天发售：地狱铸造 Hellforged（抢先体验）、幸
+ 运推币机\n\n当天发售：\n1. 地狱铸造 Hellforged（抢先体验
+ ） (PC)\n2. 幸运推币机 (PC)\n\n游戏数量: 2\n发售游戏: 地狱
+ 铸造 Hellforged（抢先体验）、幸运推币机\n平台: PC\n数据
+ 来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/release_cal
+ endar/game_list/single_day?day_timestamp=1800201600&filter_hot=hot&filter_
+ platform=pc\n\n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-01-19@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261117T000000
+DTSTAMP:20261118T000000
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Titan Quest 2 发售
-DESCRIPTION:Titan Quest 2 发售（PC / PS5）\n\n当天发售：\n1. Tita
- n Quest 2 (PC / PS5 · RAWG 2.38)\n\n游戏数量: 1\n发售游戏: Titan 
- Quest 2\n平台: PC / PS5\n数据来源: RAWG\n\n来源: https://rawg.io/g
- ames/titan-quest-2
-CATEGORIES:RAWG 游戏发售
-URL;VALUE=URI:https://rawg.io/games/titan-quest-2
+SUMMARY:Grr Grr Gnomes 等 2 款发售
+DESCRIPTION:当天发售：Grr Grr Gnomes、沉默大陆\n\n当天发售
+ ：\n1. Grr Grr Gnomes (PC)\n2. 沉默大陆 (PC)\n\n游戏数量: 2\n发
+ 售游戏: Grr Grr Gnomes、沉默大陆\n平台: PC\n数据来源: 小黑
+ 盒\n来源链接: https://api.xiaoheihe.cn/game/release_calendar/game_lis
+ t/single_day?day_timestamp=1800288000&filter_hot=hot&filter_platform=pc\n\
+ n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-01-20@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261117T000000
+DTSTAMP:20261118T000000
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Crystals Of Irm 等 2 款发售
-DESCRIPTION:当天发售：Crystals Of Irm、Lelu\n\n当天发售：\n1. C
- rystals Of Irm (PC)\n2. Lelu (PC)\n\n游戏数量: 2\n发售游戏: Crysta
- ls Of Irm、Lelu\n平台: PC\n数据来源: RAWG\n\n来源: https://rawg.i
- o/games
-CATEGORIES:RAWG 游戏发售
-URL;VALUE=URI:https://rawg.io/games
+SUMMARY:Medieval Frontiers 等 4 款发售
+DESCRIPTION:当天发售：Medieval Frontiers、POLYARIS、猫壳机动队
+  Cats In The Shell（抢先体验）、逸剑风云决\n\n当天发售：\
+ n1. Medieval Frontiers (PC)\n2. POLYARIS (PC)\n3. 猫壳机动队 Cats In 
+ The Shell（抢先体验） (PC)\n4. 逸剑风云决 (PlayStation)\n\n游
+ 戏数量: 4\n发售游戏: Medieval Frontiers、POLYARIS、猫壳机动
+ 队 Cats In The Shell（抢先体验）、逸剑风云决\n平台: PC / Pl
+ ayStation\n数据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn
+ /game/release_calendar/game_list/single_day?day_timestamp=1800374400&filte
+ r_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/release_calend
+ ar/game_list/single_day?day_timestamp=1800374400&filter_hot=all&filter_pla
+ tform=ps4\n\n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-01-21@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Arizona Sunshine 等 6 款发售
+DESCRIPTION:当天发售：Arizona Sunshine、Gaelco Sports、伊尔姆的
+ 水晶、海蒂赠予之物：在阿尔卑斯的大自然中生活、漩
+ 光奇旅：争分夺秒、第三阵营\n\n当天发售：\n1. Arizona Sun
+ shine (PlayStation)\n2. Gaelco Sports (Xbox)\n3. 伊尔姆的水晶 (Switc
+ h)\n4. 海蒂赠予之物：在阿尔卑斯的大自然中生活 (Switch)\
+ n5. 漩光奇旅：争分夺秒 (Switch)\n6. 第三阵营 (PC)\n\n游戏
+ 数量: 6\n发售游戏: Arizona Sunshine、Gaelco Sports、伊尔姆的
+ 水晶、海蒂赠予之物：在阿尔卑斯的大自然中生活、漩
+ 光奇旅：争分夺秒、第三阵营\n平台: PC / PlayStation / Switch
+  / Xbox\n数据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/g
+ ame/release_calendar/game_list/single_day?day_timestamp=1800460800&filter_
+ hot=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_calenda
+ r/game_list/single_day?day_timestamp=1800460800&filter_hot=all&filter_plat
+ form=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single
+ _day?day_timestamp=1800460800&filter_hot=all&filter_platform=switch\nhttps
+ ://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timesta
+ mp=1800460800&filter_hot=hot&filter_platform=pc\n\n来源: https://www.xia
+ oheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-01-22@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Arizona Sunshine® 等 5 款发售
+DESCRIPTION:当天发售：Arizona Sunshine®、UvsU：你对抗你、快
+ 买游戏，我有枪 2: Online Open World、莱露、蚁巢：荒野帝
+ 国\n\n当天发售：\n1. Arizona Sunshine® (PC)\n2. UvsU：你对抗你
+  (PC)\n3. 快买游戏，我有枪 2: Online Open World (Xbox)\n4. 莱露 
+ (PC)\n5. 蚁巢：荒野帝国 (PC)\n\n游戏数量: 5\n发售游戏: Ariz
+ ona Sunshine®、UvsU：你对抗你、快买游戏，我有枪 2: Online 
+ Open World、莱露、蚁巢：荒野帝国\n平台: PC / Xbox\n数据来
+ 源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/release_calend
+ ar/game_list/single_day?day_timestamp=1800547200&filter_hot=hot&filter_pla
+ tform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_
+ day?day_timestamp=1800547200&filter_hot=all&filter_platform=xbox\n\n来源
+ : https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-01-26@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Forza Horizon 6 发售
+DESCRIPTION:当天发售：Forza Horizon 6\n\n当天发售：\n1. Forza Ho
+ rizon 6 (PlayStation)\n\n游戏数量: 1\n发售游戏: Forza Horizon 6\n
+ 平台: PlayStation\n数据来源: 小黑盒\n来源链接: https://api.xi
+ aoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=180089
+ 2800&filter_hot=all&filter_platform=ps4\n\n来源: https://api.xiaoheihe.c
+ n/game/share_game_detail?appid=900218531&game_type=console
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://api.xiaoheihe.cn/game/share_game_detail?appid=900218
+ 531&game_type=console
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-01-27@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Fate/EXTRA Record 等 2 款发售
+DESCRIPTION:当天发售：Fate/EXTRA Record、Until Dawn 2\n\n当天发
+ 售：\n1. Fate/EXTRA Record (PlayStation)\n2. Until Dawn 2 (PlayStation)\
+ n\n游戏数量: 2\n发售游戏: Fate/EXTRA Record、Until Dawn 2\n平台
+ : PlayStation\n数据来源: 小黑盒\n来源链接: https://api.xiaoheih
+ e.cn/game/release_calendar/game_list/single_day?day_timestamp=1800979200&f
+ ilter_hot=all&filter_platform=ps4\n\n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-01-28@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261117T000000
+DTSTAMP:20261118T000000
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Metroid Ravenous 等 2 款发售
-DESCRIPTION:当天发售：Metroid Ravenous、Until Dawn 2\n\n当天发售
- ：\n1. Metroid Ravenous (Switch)\n2. Until Dawn 2 (PS5)\n\n游戏数量: 
- 2\n发售游戏: Metroid Ravenous、Until Dawn 2\n平台: PS5 / Switch\n
- 数据来源: RAWG\n\n来源: https://rawg.io/games
-CATEGORIES:RAWG 游戏发售
-URL;VALUE=URI:https://rawg.io/games
+SUMMARY:Fate/EXTRA Record 等 13 款发售
+DESCRIPTION:当天发售：Fate/EXTRA Record、Gloomgrave 幽暗墓穴、M
+ irth Island、Mirth Island、Monster Meals、Road Diner Simulator、UNDERG
+ ROUNDED -怀旧地下城-、Voivod: The Nuclear Warrior、密特罗德 绝
+ 境嗜生、巫奇魔法学院、巫奇魔法学院 Witchbrook、海岛大
+ 亨7、空壳之牢\n\n当天发售：\n1. Fate/EXTRA Record (PC)\n2. Gloo
+ mgrave 幽暗墓穴 (Switch)\n3. Mirth Island (Xbox)\n4. Mirth Island (Swi
+ tch)\n5. Monster Meals (Xbox)\n6. Road Diner Simulator (PC)\n7. UNDERGROUN
+ DED -怀旧地下城- (Switch)\n8. Voivod: The Nuclear Warrior (Switch)\n9
+ . 密特罗德 绝境嗜生 (Switch)\n10. 巫奇魔法学院 (Switch)\n11.
+  巫奇魔法学院 Witchbrook (PC)\n12. 海岛大亨7 (Xbox)\n13. 空壳
+ 之牢 (PC)\n\n游戏数量: 13\n发售游戏: Fate/EXTRA Record、Gloomgr
+ ave 幽暗墓穴、Mirth Island、Mirth Island、Monster Meals、Road Dine
+ r Simulator、UNDERGROUNDED -怀旧地下城-、Voivod: The Nuclear Warrio
+ r、密特罗德 绝境嗜生、巫奇魔法学院、巫奇魔法学院 Wi
+ tchbrook、海岛大亨7、空壳之牢\n平台: PC / Switch / Xbox\n数
+ 据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/release_
+ calendar/game_list/single_day?day_timestamp=1801065600&filter_hot=hot&filt
+ er_platform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/s
+ ingle_day?day_timestamp=1801065600&filter_hot=all&filter_platform=switch\n
+ https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_ti
+ mestamp=1801065600&filter_hot=all&filter_platform=xbox\n\n来源: https://
+ www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-01-29@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:《星际清理公司》 (Cleaner Company) 等 4 款发售
+DESCRIPTION:当天发售：《星际清理公司》 (Cleaner Company)、Wa
+ rhammer 40\,000: 黑暗异端、歌兽经理、海岛大亨7\n\n当天发
+ 售：\n1. 《星际清理公司》 (Cleaner Company) (PC)\n2. Warhammer 4
+ 0\,000: 黑暗异端 (PC)\n3. 歌兽经理 (PC)\n4. 海岛大亨7 (PC)\n\n
+ 游戏数量: 4\n发售游戏: 《星际清理公司》 (Cleaner Company)
+ 、Warhammer 40\,000: 黑暗异端、歌兽经理、海岛大亨7\n平台:
+  PC\n数据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/
+ release_calendar/game_list/single_day?day_timestamp=1801152000&filter_hot=
+ hot&filter_platform=pc\n\n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-01-31@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:破碎怪谈：东京塔 发售
+DESCRIPTION:当天发售：破碎怪谈：东京塔\n\n当天发售：\n1.
+  破碎怪谈：东京塔 (PlayStation)\n\n游戏数量: 1\n发售游戏: 
+ 破碎怪谈：东京塔\n平台: PlayStation\n数据来源: 小黑盒\n
+ 来源链接: https://api.xiaoheihe.cn/game/release_calendar/game_list/sin
+ gle_day?day_timestamp=1801324800&filter_hot=all&filter_platform=ps4\n\n来
+ 源: https://api.xiaoheihe.cn/game/share_game_detail?appid=900221138&game_
+ type=console
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://api.xiaoheihe.cn/game/share_game_detail?appid=900221
+ 138&game_type=console
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-02-02@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:艾尔塔：逆神 发售
+DESCRIPTION:当天发售：艾尔塔：逆神\n\n当天发售：\n1. 艾
+ 尔塔：逆神 (PlayStation)\n\n游戏数量: 1\n发售游戏: 艾尔塔
+ ：逆神\n平台: PlayStation\n数据来源: 小黑盒\n来源链接: htt
+ ps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_times
+ tamp=1801497600&filter_hot=all&filter_platform=ps4\n\n来源: https://api.
+ xiaoheihe.cn/game/share_game_detail?appid=900220041&game_type=console
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://api.xiaoheihe.cn/game/share_game_detail?appid=900220
+ 041&game_type=console
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-02-03@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:23:61 等 3 款发售
+DESCRIPTION:当天发售：23:61、浪漫沙加3 错综宿命、艾尔塔
+ ：逆神\n\n当天发售：\n1. 23:61 (PC)\n2. 浪漫沙加3 错综宿命
+  (PlayStation)\n3. 艾尔塔：逆神 (PC)\n\n游戏数量: 3\n发售游
+ 戏: 23:61、浪漫沙加3 错综宿命、艾尔塔：逆神\n平台: PC /
+  PlayStation\n数据来源: 小黑盒\n来源链接: https://api.xiaoheihe
+ .cn/game/release_calendar/game_list/single_day?day_timestamp=1801584000&fi
+ lter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/release_cal
+ endar/game_list/single_day?day_timestamp=1801584000&filter_hot=all&filter_
+ platform=ps4\n\n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-02-04@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261117T000000
+DTSTAMP:20261118T000000
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Metro 2039 发售
-DESCRIPTION:Metro 2039 发售（PC / PS5）\n\n当天发售：\n1. Metro 2
- 039 (PC / PS5)\n\n游戏数量: 1\n发售游戏: Metro 2039\n平台: PC / 
- PS5\n数据来源: RAWG\n\n来源: https://rawg.io/games/metro-2039
-CATEGORIES:RAWG 游戏发售
-URL;VALUE=URI:https://rawg.io/games/metro-2039
+SUMMARY:He-Man and the Masters of the Universe: Dragon Pearl of Destructio
+ n 等 5 款发售
+DESCRIPTION:当天发售：He-Man and the Masters of the Universe: Dragon 
+ Pearl of Destruction、METRO 2039、代号：兔、宇宙巨人希曼：
+ 毁灭之龙珠、胧村正怪奇谭\n\n当天发售：\n1. He-Man and the
+  Masters of the Universe: Dragon Pearl of Destruction (Xbox)\n2. METRO 203
+ 9 (Xbox)\n3. 代号：兔 (Switch)\n4. 宇宙巨人希曼：毁灭之龙
+ 珠 (Switch)\n5. 胧村正怪奇谭 (PC)\n\n游戏数量: 5\n发售游戏:
+  He-Man and the Masters of the Universe: Dragon Pearl of Destruction、MET
+ RO 2039、代号：兔、宇宙巨人希曼：毁灭之龙珠、胧村正
+ 怪奇谭\n平台: PC / Switch / Xbox\n数据来源: 小黑盒\n来源链
+ 接: https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?d
+ ay_timestamp=1801670400&filter_hot=all&filter_platform=xbox\nhttps://api.x
+ iaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=18016
+ 70400&filter_hot=all&filter_platform=switch\nhttps://api.xiaoheihe.cn/game
+ /release_calendar/game_list/single_day?day_timestamp=1801670400&filter_hot
+ =hot&filter_platform=pc\n\n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-02-05@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Hamsteria 等 3 款发售
+DESCRIPTION:当天发售：Hamsteria、地铁2039、浪漫沙加3 错综
+ 宿命\n\n当天发售：\n1. Hamsteria (PC)\n2. 地铁2039 (PC)\n3. 浪
+ 漫沙加3 错综宿命 (PC)\n\n游戏数量: 3\n发售游戏: Hamsteria
+ 、地铁2039、浪漫沙加3 错综宿命\n平台: PC\n数据来源: 小
+ 黑盒\n来源链接: https://api.xiaoheihe.cn/game/release_calendar/game_
+ list/single_day?day_timestamp=1801756800&filter_hot=hot&filter_platform=pc
+ \n\n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-02-08@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:物质世界2：远征（抢先体验） 发售
+DESCRIPTION:当天发售：物质世界2：远征（抢先体验）\n\n当
+ 天发售：\n1. 物质世界2：远征（抢先体验） (PC)\n\n游戏
+ 数量: 1\n发售游戏: 物质世界2：远征（抢先体验）\n平台:
+  PC\n数据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/
+ release_calendar/game_list/single_day?day_timestamp=1802016000&filter_hot=
+ hot&filter_platform=pc\n\n来源: https://store.steampowered.com/app/28494
+ 90/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://store.steampowered.com/app/2849490/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-02-11@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Let's Build a Dungeon（抢先体验） 等 6 款发售
+DESCRIPTION:当天发售：Let's Build a Dungeon（抢先体验）、喂
+ 养深渊、推弹小子、特务蜘蛛：8号情报员、蜘蛛间谍：
+ 特工8号、阿斯特尼西亚物语\n\n当天发售：\n1. Let's Build a
+  Dungeon（抢先体验） (PC)\n2. 喂养深渊 (Switch)\n3. 推弹小子
+  (Switch)\n4. 特务蜘蛛：8号情报员 (Switch)\n5. 蜘蛛间谍：特
+ 工8号 (Xbox)\n6. 阿斯特尼西亚物语 (Switch)\n\n游戏数量: 6\n
+ 发售游戏: Let's Build a Dungeon（抢先体验）、喂养深渊、推
+ 弹小子、特务蜘蛛：8号情报员、蜘蛛间谍：特工8号、阿
+ 斯特尼西亚物语\n平台: PC / Switch / Xbox\n数据来源: 小黑盒
+ \n来源链接: https://api.xiaoheihe.cn/game/release_calendar/game_list/s
+ ingle_day?day_timestamp=1802275200&filter_hot=hot&filter_platform=pc\nhttp
+ s://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timest
+ amp=1802275200&filter_hot=all&filter_platform=switch\nhttps://api.xiaoheih
+ e.cn/game/release_calendar/game_list/single_day?day_timestamp=1802275200&f
+ ilter_hot=all&filter_platform=xbox\n\n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-02-12@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261117T000000
+DTSTAMP:20261118T000000
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Tomb Raider: Legacy of Atlantis 发售
-DESCRIPTION:Tomb Raider: Legacy of Atlantis 发售（PC / PS5）\n\n当天
- 发售：\n1. Tomb Raider: Legacy of Atlantis (PC / PS5 · RAWG 4.33)\n\n
- 游戏数量: 1\n发售游戏: Tomb Raider: Legacy of Atlantis\n平台: PC
-  / PS5\n数据来源: RAWG\n\n来源: https://rawg.io/games/tomb-raider-le
- gacy-of-atlantis
-CATEGORIES:RAWG 游戏发售
-URL;VALUE=URI:https://rawg.io/games/tomb-raider-legacy-of-atlantis
+SUMMARY:古墓丽影：亚特兰蒂斯遗迹 等 2 款发售
+DESCRIPTION:当天发售：古墓丽影：亚特兰蒂斯遗迹、古墓
+ 丽影：亚特兰蒂斯遗迹\n\n当天发售：\n1. 古墓丽影：亚
+ 特兰蒂斯遗迹 (Xbox)\n2. 古墓丽影：亚特兰蒂斯遗迹 (PlaySt
+ ation)\n\n游戏数量: 2\n发售游戏: 古墓丽影：亚特兰蒂斯遗
+ 迹、古墓丽影：亚特兰蒂斯遗迹\n平台: PlayStation / Xbox\n
+ 数据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/relea
+ se_calendar/game_list/single_day?day_timestamp=1802361600&filter_hot=all&f
+ ilter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_l
+ ist/single_day?day_timestamp=1802361600&filter_hot=all&filter_platform=ps4
+ \n\n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-02-13@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:古墓丽影：亚特兰蒂斯遗迹 发售
+DESCRIPTION:当天发售：古墓丽影：亚特兰蒂斯遗迹\n\n当天
+ 发售：\n1. 古墓丽影：亚特兰蒂斯遗迹 (PC)\n\n游戏数量: 1
+ \n发售游戏: 古墓丽影：亚特兰蒂斯遗迹\n平台: PC\n数据
+ 来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/release_cal
+ endar/game_list/single_day?day_timestamp=1802448000&filter_hot=hot&filter_
+ platform=pc\n\n来源: https://store.steampowered.com/app/3558670/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://store.steampowered.com/app/3558670/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-02-15@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Paper Perjury 发售
+DESCRIPTION:当天发售：Paper Perjury\n\n当天发售：\n1. Paper Perj
+ ury (Xbox)\n\n游戏数量: 1\n发售游戏: Paper Perjury\n平台: Xbox\n
+ 数据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/relea
+ se_calendar/game_list/single_day?day_timestamp=1802620800&filter_hot=all&f
+ ilter_platform=xbox\n\n来源: https://api.xiaoheihe.cn/game/share_game_de
+ tail?appid=900221393&game_type=console
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://api.xiaoheihe.cn/game/share_game_detail?appid=900221
+ 393&game_type=console
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-02-16@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Yu-Gi-Oh! TAG FORCE GX 等 3 款发售
+DESCRIPTION:当天发售：Yu-Gi-Oh! TAG FORCE GX、浪漫沙加3 错综
+ 宿命、浪漫沙加3：命运联合\n\n当天发售：\n1. Yu-Gi-Oh! TAG
+  FORCE GX (Switch)\n2. 浪漫沙加3 错综宿命 (Xbox)\n3. 浪漫沙加3
+ ：命运联合 (Switch)\n\n游戏数量: 3\n发售游戏: Yu-Gi-Oh! TAG F
+ ORCE GX、浪漫沙加3 错综宿命、浪漫沙加3：命运联合\n平
+ 台: Switch / Xbox\n数据来源: 小黑盒\n来源链接: https://api.xia
+ oheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1802707
+ 200&filter_hot=all&filter_platform=switch\nhttps://api.xiaoheihe.cn/game/r
+ elease_calendar/game_list/single_day?day_timestamp=1802707200&filter_hot=a
+ ll&filter_platform=xbox\n\n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-02-17@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:女神异闻录４ Revival 发售
+DESCRIPTION:当天发售：女神异闻录４ Revival\n\n当天发售：\n
+ 1. 女神异闻录４ Revival (PlayStation)\n\n游戏数量: 1\n发售游
+ 戏: 女神异闻录４ Revival\n平台: PlayStation\n数据来源: 小黑
+ 盒\n来源链接: https://api.xiaoheihe.cn/game/release_calendar/game_lis
+ t/single_day?day_timestamp=1802793600&filter_hot=all&filter_platform=ps4\n
+ \n来源: https://api.xiaoheihe.cn/game/share_game_detail?appid=900216093&
+ game_type=console
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://api.xiaoheihe.cn/game/share_game_detail?appid=900216
+ 093&game_type=console
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-02-18@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:女神异闻录４ Revival 发售
+DESCRIPTION:当天发售：女神异闻录４ Revival\n\n当天发售：\n
+ 1. 女神异闻录４ Revival (PC)\n\n游戏数量: 1\n发售游戏: 女
+ 神异闻录４ Revival\n平台: PC\n数据来源: 小黑盒\n来源链接
+ : https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_
+ timestamp=1802880000&filter_hot=hot&filter_platform=pc\n\n来源: https://
+ store.steampowered.com/app/2963950/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://store.steampowered.com/app/2963950/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-02-19@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:The Road of Dust and Sorrow 发售
+DESCRIPTION:当天发售：The Road of Dust and Sorrow\n\n当天发售：\
+ n1. The Road of Dust and Sorrow (PC)\n\n游戏数量: 1\n发售游戏: The
+  Road of Dust and Sorrow\n平台: PC\n数据来源: 小黑盒\n来源链
+ 接: https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?d
+ ay_timestamp=1802966400&filter_hot=hot&filter_platform=pc\n\n来源: https
+ ://store.steampowered.com/app/3895110/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://store.steampowered.com/app/3895110/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-02-23@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261117T000000
+DTSTAMP:20261118T000000
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:神鬼寓言 发售
-DESCRIPTION:神鬼寓言 发售（PC / PS5）\n\n当天发售：\n1. 神
- 鬼寓言 (PC / PS5 · RAWG 3.53)\n\n游戏数量: 1\n发售游戏: 神鬼
- 寓言\n平台: PC / PS5\n数据来源: RAWG\n\n来源: https://rawg.io/ga
- mes/fable2020
-CATEGORIES:RAWG 游戏发售
-URL;VALUE=URI:https://rawg.io/games/fable2020
+SUMMARY:神鬼寓言 等 2 款发售
+DESCRIPTION:当天发售：神鬼寓言、神鬼寓言\n\n当天发售：\
+ n1. 神鬼寓言 (Xbox)\n2. 神鬼寓言 (PlayStation)\n\n游戏数量: 2\
+ n发售游戏: 神鬼寓言、神鬼寓言\n平台: PlayStation / Xbox\n
+ 数据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/relea
+ se_calendar/game_list/single_day?day_timestamp=1803312000&filter_hot=all&f
+ ilter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_l
+ ist/single_day?day_timestamp=1803312000&filter_hot=all&filter_platform=ps4
+ \n\n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-02-24@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:卡莉亚的炼金工房 ～夜之王国与追忆之道标～ 等 
+ 2 款发售
+DESCRIPTION:当天发售：卡莉亚的炼金工房 ～夜之王国与追
+ 忆之道标～、神鬼寓言\n\n当天发售：\n1. 卡莉亚的炼金
+ 工房 ～夜之王国与追忆之道标～ (PlayStation)\n2. 神鬼寓言
+  (PC)\n\n游戏数量: 2\n发售游戏: 卡莉亚的炼金工房 ～夜之
+ 王国与追忆之道标～、神鬼寓言\n平台: PC / PlayStation\n数
+ 据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/release_
+ calendar/game_list/single_day?day_timestamp=1803398400&filter_hot=all&filt
+ er_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/
+ single_day?day_timestamp=1803398400&filter_hot=hot&filter_platform=pc\n\n
+ 来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-02-25@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ZELDA无双 灾厄启示录豪华版 等 4 款发售
+DESCRIPTION:当天发售：ZELDA无双 灾厄启示录豪华版、伊苏VI
+ II -丹娜的陨涕日-、卡莉亚的炼金工房 ～夜之王国与追
+ 忆之道标～、卡莉亚的炼金工房 ～夜之王国与追忆之道
+ 标～\n\n当天发售：\n1. ZELDA无双 灾厄启示录豪华版 (Switch
+ )\n2. 伊苏VIII -丹娜的陨涕日- (Switch)\n3. 卡莉亚的炼金工
+ 房 ～夜之王国与追忆之道标～ (Xbox)\n4. 卡莉亚的炼金工
+ 房 ～夜之王国与追忆之道标～ (PC)\n\n游戏数量: 4\n发售
+ 游戏: ZELDA无双 灾厄启示录豪华版、伊苏VIII -丹娜的陨涕
+ 日-、卡莉亚的炼金工房 ～夜之王国与追忆之道标～、卡
+ 莉亚的炼金工房 ～夜之王国与追忆之道标～\n平台: PC / S
+ witch / Xbox\n数据来源: 小黑盒\n来源链接: https://api.xiaoheihe
+ .cn/game/release_calendar/game_list/single_day?day_timestamp=1803484800&fi
+ lter_hot=all&filter_platform=switch\nhttps://api.xiaoheihe.cn/game/release
+ _calendar/game_list/single_day?day_timestamp=1803484800&filter_hot=all&fil
+ ter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_lis
+ t/single_day?day_timestamp=1803484800&filter_hot=hot&filter_platform=pc\n\
+ n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-03-03@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:卧龙2：凤火连天 发售
+DESCRIPTION:当天发售：卧龙2：凤火连天\n\n当天发售：\n1. 
+ 卧龙2：凤火连天 (PlayStation)\n\n游戏数量: 1\n发售游戏: 卧
+ 龙2：凤火连天\n平台: PlayStation\n数据来源: 小黑盒\n来源
+ 链接: https://api.xiaoheihe.cn/game/release_calendar/game_list/single_da
+ y?day_timestamp=1804003200&filter_hot=all&filter_platform=ps4\n\n来源: h
+ ttps://api.xiaoheihe.cn/game/share_game_detail?appid=900219472&game_type=c
+ onsole
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://api.xiaoheihe.cn/game/share_game_detail?appid=900219
+ 472&game_type=console
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-03-04@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261117T000000
+DTSTAMP:20261118T000000
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Trine 6: Together in Time 发售
-DESCRIPTION:Trine 6: Together in Time 发售（PC / PS5 / Switch）\n\n当
- 天发售：\n1. Trine 6: Together in Time (PC / PS5 / Switch)\n\n游戏
- 数量: 1\n发售游戏: Trine 6: Together in Time\n平台: PC / PS5 / Swi
- tch\n数据来源: RAWG\n\n来源: https://rawg.io/games/trine-6-together-
- in-time
-CATEGORIES:RAWG 游戏发售
-URL;VALUE=URI:https://rawg.io/games/trine-6-together-in-time
+SUMMARY:ETERNAL ANIMA 永恒的灵漪 等 8 款发售
+DESCRIPTION:当天发售：ETERNAL ANIMA 永恒的灵漪、GUNDAM 异轨
+ 征途、Living Dead Outbreak、Trine 6: Together in Time、三位一体6
+ ：时光同行、卧龙2：凤火连天、卧龙2：凤火连天、永恒
+ 的灵漪\n\n当天发售：\n1. ETERNAL ANIMA 永恒的灵漪 (PC)\n2. GU
+ NDAM 异轨征途 (PlayStation)\n3. Living Dead Outbreak (Xbox)\n4. Trine 
+ 6: Together in Time (PC)\n5. 三位一体6：时光同行 (Switch)\n6. 卧
+ 龙2：凤火连天 (Xbox)\n7. 卧龙2：凤火连天 (PC)\n8. 永恒的
+ 灵漪 (Switch)\n\n游戏数量: 8\n发售游戏: ETERNAL ANIMA 永恒的
+ 灵漪、GUNDAM 异轨征途、Living Dead Outbreak、Trine 6: Together in
+  Time、三位一体6：时光同行、卧龙2：凤火连天、卧龙2：
+ 凤火连天、永恒的灵漪\n平台: PC / PlayStation / Switch / Xbox\n
+ 数据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/relea
+ se_calendar/game_list/single_day?day_timestamp=1804089600&filter_hot=hot&f
+ ilter_platform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_lis
+ t/single_day?day_timestamp=1804089600&filter_hot=all&filter_platform=ps4\n
+ https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_ti
+ mestamp=1804089600&filter_hot=all&filter_platform=xbox\nhttps://api.xiaohe
+ ihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1804089600
+ &filter_hot=all&filter_platform=switch\n\n来源: https://www.xiaoheihe.cn
+ /
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:rawg-releases-rawg-releases-2027-03-09@koyomi.cast
+UID:rawg-releases-rawg-releases-2027-03-05@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261117T000000
-DTSTART;VALUE=DATE:20270309
-DTEND;VALUE=DATE:20270310
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Trainwatch 发售
-DESCRIPTION:Trainwatch 发售（PC）\n\n当天发售：\n1. Trainwatch (P
- C)\n\n游戏数量: 1\n发售游戏: Trainwatch\n平台: PC\n数据来源:
-  RAWG\n\n来源: https://rawg.io/games/trainwatch
-CATEGORIES:RAWG 游戏发售
-URL;VALUE=URI:https://rawg.io/games/trainwatch
+SUMMARY:GUNDAM 异轨征途 发售
+DESCRIPTION:当天发售：GUNDAM 异轨征途\n\n当天发售：\n1. GUND
+ AM 异轨征途 (PC)\n\n游戏数量: 1\n发售游戏: GUNDAM 异轨征途
+ \n平台: PC\n数据来源: 小黑盒\n来源链接: https://api.xiaoheihe
+ .cn/game/release_calendar/game_list/single_day?day_timestamp=1804176000&fi
+ lter_hot=hot&filter_platform=pc\n\n来源: https://store.steampowered.com/
+ app/1963680/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://store.steampowered.com/app/1963680/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:rawg-releases-rawg-releases-2027-03-31@koyomi.cast
+UID:rawg-releases-rawg-releases-2027-03-08@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261117T000000
-DTSTART;VALUE=DATE:20270331
-DTEND;VALUE=DATE:20270401
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:堕落之主 2 等 2 款发售
-DESCRIPTION:当天发售：堕落之主 2、恶意不息\n\n当天发售
- ：\n1. 堕落之主 2 (PC / PS5)\n2. 恶意不息 (PC / PS5 · RAWG 3.95)
- \n\n游戏数量: 2\n发售游戏: 堕落之主 2、恶意不息\n平台: 
- PC / PS5\n数据来源: RAWG\n\n来源: https://rawg.io/games
-CATEGORIES:RAWG 游戏发售
-URL;VALUE=URI:https://rawg.io/games
+SUMMARY:花瓣跑者 发售
+DESCRIPTION:当天发售：花瓣跑者\n\n当天发售：\n1. 花瓣跑
+ 者 (Switch)\n\n游戏数量: 1\n发售游戏: 花瓣跑者\n平台: Switc
+ h\n数据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/re
+ lease_calendar/game_list/single_day?day_timestamp=1804435200&filter_hot=al
+ l&filter_platform=switch\n\n来源: https://api.xiaoheihe.cn/game/share_ga
+ me_detail?appid=900221243&game_type=console
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://api.xiaoheihe.cn/game/share_game_detail?appid=900221
+ 243&game_type=console
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:rawg-releases-rawg-releases-2027-04-07@koyomi.cast
+UID:rawg-releases-rawg-releases-2027-03-10@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261117T000000
-DTSTART;VALUE=DATE:20270407
-DTEND;VALUE=DATE:20270408
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Exodus (Archetype Entertainment) 发售
-DESCRIPTION:Exodus (Archetype Entertainment) 发售（PC / PS5）\n\n当
- 天发售：\n1. Exodus (Archetype Entertainment) (PC / PS5)\n\n游戏数
- 量: 1\n发售游戏: Exodus (Archetype Entertainment)\n平台: PC / PS5\n
- 数据来源: RAWG\n\n来源: https://rawg.io/games/exodus-archetype-enter
- tainment
-CATEGORIES:RAWG 游戏发售
-URL;VALUE=URI:https://rawg.io/games/exodus-archetype-entertainment
+SUMMARY:埋谷季 等 3 款发售
+DESCRIPTION:当天发售：埋谷季、暗影之路、金色缝痕\n\n当
+ 天发售：\n1. 埋谷季 (PC)\n2. 暗影之路 (PC)\n3. 金色缝痕 (Sw
+ itch)\n\n游戏数量: 3\n发售游戏: 埋谷季、暗影之路、金色
+ 缝痕\n平台: PC / Switch\n数据来源: 小黑盒\n来源链接: https:
+ //api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestam
+ p=1804608000&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/g
+ ame/release_calendar/game_list/single_day?day_timestamp=1804608000&filter_
+ hot=all&filter_platform=switch\n\n来源: https://www.xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-03-11@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Road Kings 等 2 款发售
+DESCRIPTION:当天发售：Road Kings、铁道人\n\n当天发售：\n1. R
+ oad Kings (Xbox)\n2. 铁道人 (PC)\n\n游戏数量: 2\n发售游戏: Road
+  Kings、铁道人\n平台: PC / Xbox\n数据来源: 小黑盒\n来源链
+ 接: https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?d
+ ay_timestamp=1804694400&filter_hot=all&filter_platform=xbox\nhttps://api.x
+ iaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=18046
+ 94400&filter_hot=hot&filter_platform=pc\n\n来源: https://www.xiaoheihe.c
+ n/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-03-12@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:公路英雄 发售
+DESCRIPTION:当天发售：公路英雄\n\n当天发售：\n1. 公路英
+ 雄 (PC)\n\n游戏数量: 1\n发售游戏: 公路英雄\n平台: PC\n数
+ 据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/release_
+ calendar/game_list/single_day?day_timestamp=1804780800&filter_hot=hot&filt
+ er_platform=pc\n\n来源: https://store.steampowered.com/app/2141130/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://store.steampowered.com/app/2141130/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-03-17@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:药屋少女的呢喃 ～真假皇弟～ 发售
+DESCRIPTION:当天发售：药屋少女的呢喃 ～真假皇弟～\n\n当
+ 天发售：\n1. 药屋少女的呢喃 ～真假皇弟～ (PlayStation)\n\
+ n游戏数量: 1\n发售游戏: 药屋少女的呢喃 ～真假皇弟～\n
+ 平台: PlayStation\n数据来源: 小黑盒\n来源链接: https://api.xi
+ aoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=180521
+ 2800&filter_hot=all&filter_platform=ps4\n\n来源: https://api.xiaoheihe.c
+ n/game/share_game_detail?appid=900220976&game_type=console
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://api.xiaoheihe.cn/game/share_game_detail?appid=900220
+ 976&game_type=console
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-03-18@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:007 初露锋芒 - 豪华版 等 2 款发售
+DESCRIPTION:当天发售：007 初露锋芒 - 豪华版、药屋少女的
+ 呢喃 ～真假皇弟～\n\n当天发售：\n1. 007 初露锋芒 - 豪华
+ 版 (Switch)\n2. 药屋少女的呢喃 ～真假皇弟～ (PC)\n\n游戏
+ 数量: 2\n发售游戏: 007 初露锋芒 - 豪华版、药屋少女的呢
+ 喃 ～真假皇弟～\n平台: PC / Switch\n数据来源: 小黑盒\n来
+ 源链接: https://api.xiaoheihe.cn/game/release_calendar/game_list/single
+ _day?day_timestamp=1805299200&filter_hot=all&filter_platform=switch\nhttps
+ ://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timesta
+ mp=1805299200&filter_hot=hot&filter_platform=pc\n\n来源: https://www.xia
+ oheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-03-26@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ReVamp 发售
+DESCRIPTION:当天发售：ReVamp\n\n当天发售：\n1. ReVamp (PC)\n\n
+ 游戏数量: 1\n发售游戏: ReVamp\n平台: PC\n数据来源: 小黑盒
+ \n来源链接: https://api.xiaoheihe.cn/game/release_calendar/game_list/s
+ ingle_day?day_timestamp=1805990400&filter_hot=hot&filter_platform=pc\n\n
+ 来源: https://store.steampowered.com/app/3295000/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://store.steampowered.com/app/3295000/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-04-02@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Planetbase 2 发售
+DESCRIPTION:当天发售：Planetbase 2\n\n当天发售：\n1. Planetbase 
+ 2 (PC)\n\n游戏数量: 1\n发售游戏: Planetbase 2\n平台: PC\n数据
+ 来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/release_cal
+ endar/game_list/single_day?day_timestamp=1806595200&filter_hot=hot&filter_
+ platform=pc\n\n来源: https://store.steampowered.com/app/3509420/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://store.steampowered.com/app/3509420/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-04-08@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261117T000000
+DTSTAMP:20261118T000000
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270409
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Final Fantasy VII: Revelation 发售
-DESCRIPTION:Final Fantasy VII: Revelation 发售（PC / PS5 / Switch）\n\
- n当天发售：\n1. Final Fantasy VII: Revelation (PC / PS5 / Switch)\n\n
- 游戏数量: 1\n发售游戏: Final Fantasy VII: Revelation\n平台: PC /
-  PS5 / Switch\n数据来源: RAWG\n\n来源: https://rawg.io/games/final-f
- antasy-vii-revelations
-CATEGORIES:RAWG 游戏发售
-URL;VALUE=URI:https://rawg.io/games/final-fantasy-vii-revelations
+SUMMARY:EXODUS 等 4 款发售
+DESCRIPTION:当天发售：EXODUS、EXODUS、最终幻想VII 启示录、
+ 最终幻想VII 启示录\n\n当天发售：\n1. EXODUS (Xbox)\n2. EXODUS 
+ (PC)\n3. 最终幻想VII 启示录 (Switch)\n4. 最终幻想VII 启示录 
+ (PC)\n\n游戏数量: 4\n发售游戏: EXODUS、EXODUS、最终幻想VII 
+ 启示录、最终幻想VII 启示录\n平台: PC / Switch / Xbox\n数据
+ 来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/release_cal
+ endar/game_list/single_day?day_timestamp=1807113600&filter_hot=all&filter_
+ platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/si
+ ngle_day?day_timestamp=1807113600&filter_hot=hot&filter_platform=pc\nhttps
+ ://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timesta
+ mp=1807113600&filter_hot=all&filter_platform=switch\n\n来源: https://www
+ .xiaoheihe.cn/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://www.xiaoheihe.cn/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-04-16@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:万象之环 发售
+DESCRIPTION:当天发售：万象之环\n\n当天发售：\n1. 万象之
+ 环 (PC)\n\n游戏数量: 1\n发售游戏: 万象之环\n平台: PC\n数
+ 据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/release_
+ calendar/game_list/single_day?day_timestamp=1807804800&filter_hot=hot&filt
+ er_platform=pc\n\n来源: https://store.steampowered.com/app/3600740/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://store.steampowered.com/app/3600740/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-04-20@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Stronghold 4 要塞4（抢先体验） 发售
+DESCRIPTION:当天发售：Stronghold 4 要塞4（抢先体验）\n\n当
+ 天发售：\n1. Stronghold 4 要塞4（抢先体验） (PC)\n\n游戏数
+ 量: 1\n发售游戏: Stronghold 4 要塞4（抢先体验）\n平台: PC\n
+ 数据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/relea
+ se_calendar/game_list/single_day?day_timestamp=1808150400&filter_hot=hot&f
+ ilter_platform=pc\n\n来源: https://store.steampowered.com/app/2153760/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://store.steampowered.com/app/2153760/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-04-22@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:MELTY BLOOD: TWI-LUMINA 发售
+DESCRIPTION:当天发售：MELTY BLOOD: TWI-LUMINA\n\n当天发售：\n1. 
+ MELTY BLOOD: TWI-LUMINA (PC)\n\n游戏数量: 1\n发售游戏: MELTY BLOOD
+ : TWI-LUMINA\n平台: PC\n数据来源: 小黑盒\n来源链接: https://a
+ pi.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1
+ 808323200&filter_hot=hot&filter_platform=pc\n\n来源: https://store.steam
+ powered.com/app/4113000/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://store.steampowered.com/app/4113000/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-04-27@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Mariachi Legends 发售
+DESCRIPTION:当天发售：Mariachi Legends\n\n当天发售：\n1. Mariach
+ i Legends (PC)\n\n游戏数量: 1\n发售游戏: Mariachi Legends\n平台:
+  PC\n数据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/
+ release_calendar/game_list/single_day?day_timestamp=1808755200&filter_hot=
+ hot&filter_platform=pc\n\n来源: https://store.steampowered.com/app/23762
+ 60/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://store.steampowered.com/app/2376260/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-04-28@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:小马岛2：熊猫马戏团 发售
+DESCRIPTION:当天发售：小马岛2：熊猫马戏团\n\n当天发售：
+ \n1. 小马岛2：熊猫马戏团 (PC)\n\n游戏数量: 1\n发售游戏: 
+ 小马岛2：熊猫马戏团\n平台: PC\n数据来源: 小黑盒\n来源
+ 链接: https://api.xiaoheihe.cn/game/release_calendar/game_list/single_da
+ y?day_timestamp=1808841600&filter_hot=hot&filter_platform=pc\n\n来源: ht
+ tps://store.steampowered.com/app/2017940/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://store.steampowered.com/app/2017940/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-05-03@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:魔女的童话 发售
+DESCRIPTION:当天发售：魔女的童话\n\n当天发售：\n1. 魔女
+ 的童话 (PC)\n\n游戏数量: 1\n发售游戏: 魔女的童话\n平台: 
+ PC\n数据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/r
+ elease_calendar/game_list/single_day?day_timestamp=1809273600&filter_hot=h
+ ot&filter_platform=pc\n\n来源: https://store.steampowered.com/app/323386
+ 0/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://store.steampowered.com/app/3233860/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-05-18@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:NC 发售
+DESCRIPTION:当天发售：NC\n\n当天发售：\n1. NC (Xbox)\n\n游戏
+ 数量: 1\n发售游戏: NC\n平台: Xbox\n数据来源: 小黑盒\n来源
+ 链接: https://api.xiaoheihe.cn/game/release_calendar/game_list/single_da
+ y?day_timestamp=1810569600&filter_hot=all&filter_platform=xbox\n\n来源: 
+ https://api.xiaoheihe.cn/game/share_game_detail?appid=900220101&game_type=
+ console
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://api.xiaoheihe.cn/game/share_game_detail?appid=900220
+ 101&game_type=console
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2027-05-19@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:God of War Laufey 发售
+DESCRIPTION:当天发售：God of War Laufey\n\n当天发售：\n1. God of
+  War Laufey (PlayStation)\n\n游戏数量: 1\n发售游戏: God of War Lau
+ fey\n平台: PlayStation\n数据来源: 小黑盒\n来源链接: https://a
+ pi.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1
+ 810656000&filter_hot=all&filter_platform=ps4\n\n来源: https://api.xiaohe
+ ihe.cn/game/share_game_detail?appid=900219901&game_type=console
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://api.xiaoheihe.cn/game/share_game_detail?appid=900219
+ 901&game_type=console
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-05-20@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261117T000000
+DTSTAMP:20261118T000000
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:God of War Laufey 发售
-DESCRIPTION:God of War Laufey 发售（PS5）\n\n当天发售：\n1. God o
- f War Laufey (PS5)\n\n游戏数量: 1\n发售游戏: God of War Laufey\n
- 平台: PS5\n数据来源: RAWG\n\n来源: https://rawg.io/games/god-of-wa
- r-laufey
-CATEGORIES:RAWG 游戏发售
-URL;VALUE=URI:https://rawg.io/games/god-of-war-laufey
+SUMMARY:女神异闻录4 Revival 发售
+DESCRIPTION:当天发售：女神异闻录4 Revival\n\n当天发售：\n1.
+  女神异闻录4 Revival (Switch)\n\n游戏数量: 1\n发售游戏: 女
+ 神异闻录4 Revival\n平台: Switch\n数据来源: 小黑盒\n来源链
+ 接: https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?d
+ ay_timestamp=1810742400&filter_hot=all&filter_platform=switch\n\n来源: h
+ ttps://api.xiaoheihe.cn/game/share_game_detail?appid=900219263&game_type=c
+ onsole
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://api.xiaoheihe.cn/game/share_game_detail?appid=900219
+ 263&game_type=console
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-05-31@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261117T000000
+DTSTAMP:20261118T000000
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270601
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Clutch (2027) 等 2 款发售
-DESCRIPTION:当天发售：Clutch (2027)、Daba: Land of Water Scar\n\n当
- 天发售：\n1. Clutch (2027) (PC / PS5)\n2. Daba: Land of Water Scar (PC
-  / PS5)\n\n游戏数量: 2\n发售游戏: Clutch (2027)、Daba: Land of Wa
- ter Scar\n平台: PC / PS5\n数据来源: RAWG\n\n来源: https://rawg.io/
- games
-CATEGORIES:RAWG 游戏发售
-URL;VALUE=URI:https://rawg.io/games
+SUMMARY:闹鬼爪子 发售
+DESCRIPTION:当天发售：闹鬼爪子\n\n当天发售：\n1. 闹鬼爪
+ 子 (Switch)\n\n游戏数量: 1\n发售游戏: 闹鬼爪子\n平台: Switc
+ h\n数据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/re
+ lease_calendar/game_list/single_day?day_timestamp=1811692800&filter_hot=al
+ l&filter_platform=switch\n\n来源: https://api.xiaoheihe.cn/game/share_ga
+ me_detail?appid=900221240&game_type=console
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://api.xiaoheihe.cn/game/share_game_detail?appid=900221
+ 240&game_type=console
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:rawg-releases-rawg-releases-2027-08-15@koyomi.cast
+UID:rawg-releases-rawg-releases-2027-06-30@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261117T000000
-DTSTART;VALUE=DATE:20270815
-DTEND;VALUE=DATE:20270816
+DTSTAMP:20261118T000000
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Parking in Tight Spaces 发售
-DESCRIPTION:Parking in Tight Spaces 发售（PC）\n\n当天发售：\n1. 
- Parking in Tight Spaces (PC)\n\n游戏数量: 1\n发售游戏: Parking in 
- Tight Spaces\n平台: PC\n数据来源: RAWG\n\n来源: https://rawg.io/ga
- mes/parking-in-tight-spaces
-CATEGORIES:RAWG 游戏发售
-URL;VALUE=URI:https://rawg.io/games/parking-in-tight-spaces
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:rawg-releases-rawg-releases-2027-09-07@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261117T000000
-DTSTART;VALUE=DATE:20270907
-DTEND;VALUE=DATE:20270908
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Unknown Carnivores Dinosaur Hunt Sequel 发售
-DESCRIPTION:Unknown Carnivores Dinosaur Hunt Sequel 发售（PC）\n\n当
- 天发售：\n1. Unknown Carnivores Dinosaur Hunt Sequel (PC)\n\n游戏数
- 量: 1\n发售游戏: Unknown Carnivores Dinosaur Hunt Sequel\n平台: PC\
- n数据来源: RAWG\n\n来源: https://rawg.io/games/unknown-carnivores-di
- nosaur-hunt-sequel
-CATEGORIES:RAWG 游戏发售
-URL;VALUE=URI:https://rawg.io/games/unknown-carnivores-dinosaur-hunt-seque
- l
+SUMMARY:人生计划 发售
+DESCRIPTION:当天发售：人生计划\n\n当天发售：\n1. 人生计
+ 划 (PC)\n\n游戏数量: 1\n发售游戏: 人生计划\n平台: PC\n数
+ 据来源: 小黑盒\n来源链接: https://api.xiaoheihe.cn/game/release_
+ calendar/game_list/single_day?day_timestamp=1814284800&filter_hot=hot&filt
+ er_platform=pc\n\n来源: https://store.steampowered.com/app/4107780/
+CATEGORIES:游戏发售日历
+URL;VALUE=URI:https://store.steampowered.com/app/4107780/
 STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR

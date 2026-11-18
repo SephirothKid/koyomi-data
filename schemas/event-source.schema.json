@@ -235,6 +235,12 @@
                   "items": { "type": "string" }
                 },
                 "rawg_id": { "type": "string", "description": "RAWG 游戏 ID" },
+                "provider": { "type": "string", "minLength": 1 },
+                "provider_id": { "type": "string", "minLength": 1, "description": "带平台命名空间的来源 ID，如 pc:123 或 console:123" },
+                "steam_appid": { "type": "string", "pattern": "^[1-9][0-9]*$" },
+                "source_url": { "type": "string", "format": "uri" },
+                "release_kind": { "type": "string", "enum": ["unknown", "early-access", "full-release"] },
+                "steam_checked_at": { "type": "string", "format": "date" },
                 "rawg_rating": { "type": "number", "description": "RAWG 用户评分（0-5）" },
                 "metacritic": { "type": "number", "description": "Metacritic 评分" }
               }
