@@ -14,7 +14,7 @@
     "fgo": {
       "category": "gaming",
       "checked_at": "2026-11-18",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "tw-public-holidays": {
       "category": "holidays",
@@ -179,7 +179,7 @@
     "arknights": {
       "category": "gaming",
       "checked_at": "2026-11-18",
-      "outcome": "unchanged"
+      "outcome": "updated"
     },
     "cs2-tournaments": {
       "category": "gaming",
@@ -189,12 +189,12 @@
     "epic-free": {
       "category": "gaming",
       "checked_at": "2026-11-18",
-      "outcome": "unchanged"
+      "outcome": "updated"
     },
     "kpl": {
       "category": "gaming",
       "checked_at": "2026-11-18",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "lpl": {
       "category": "gaming",
@@ -209,12 +209,14 @@
     "genshin-impact": {
       "category": "gaming",
       "checked_at": "2026-11-18",
-      "outcome": "updated"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/16471662a82d418a/getContentList?iAppId=43&iChanId=721&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 111.208.52.19:443, 111.208.52.38:443, 111.208.52.35:443, 111.208.52.36:443, 111.208.52.37:443, 111.208.52.18:443, 111.208.52.39:443, 111.208.52.20:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 111.208.52.19:443, 111.208.52.38:443, 111.208.52.35:443, 111.208.52.36:443, 111.208.52.37:443, 111.208.52.18:443, 111.208.52.39:443, 111.208.52.20:443, timeout: 10000ms)"
     },
     "honkai-star-rail": {
       "category": "gaming",
       "checked_at": "2026-11-18",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/1963de8dc19e461c/getContentList?iChanId=255&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 111.208.52.39:443, 111.208.52.18:443, 111.208.52.35:443, 111.208.52.19:443, 111.208.52.20:443, 111.208.52.37:443, 111.208.52.36:443, 111.208.52.38:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 111.208.52.39:443, 111.208.52.18:443, 111.208.52.35:443, 111.208.52.19:443, 111.208.52.20:443, 111.208.52.37:443, 111.208.52.36:443, 111.208.52.38:443, timeout: 10000ms)"
     },
     "zenless-zone-zero": {
       "category": "gaming",
@@ -405,17 +407,20 @@
     "dota2-esports": {
       "category": "gaming",
       "checked_at": "2026-11-18",
-      "outcome": "updated"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: PandaScore /dota2/matches"
     },
     "lol-international": {
       "category": "gaming",
       "checked_at": "2026-11-18",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: PandaScore /lol/leagues"
     },
     "valorant-esports": {
       "category": "gaming",
       "checked_at": "2026-11-18",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: PandaScore /valorant/leagues"
     },
     "mo-public-holidays": {
       "category": "holidays",
@@ -500,7 +505,7 @@
     "final-fantasy-xiv": {
       "category": "gaming",
       "checked_at": "2026-11-18",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "love-and-deepspace": {
       "category": "gaming",

@@ -62,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:epic-free-epic-free-2026-w46@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261116T000000
+DTSTAMP:20261118T000000
 DTSTART;TZID=Asia/Shanghai:20261113T000000
 DTEND;TZID=Asia/Shanghai:20261120T000000
 SUMMARY:Epic Free Games · Knightica
@@ -79,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:epic-free-epic-free-2026-w47@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261116T000000
+DTSTAMP:20261118T000000
 DTSTART;TZID=Asia/Shanghai:20261120T000000
 DTEND;TZID=Asia/Shanghai:20261127T000000
 SUMMARY:Epic Free Games · Mark of the Deep
@@ -90,6 +90,24 @@ DESCRIPTION:This week's free games: Mark of the Deep\n\nGames this week:\n
  backend-static.ak.epicgames.com/freeGamesPromotions?locale=en-US&country=C
  N&allowCountries=CN\n\nSource: https://store.epicgames.com/zh-CN/free-game
  s
+CATEGORIES:Epic Free Games
+URL;VALUE=URI:https://store.epicgames.com/zh-CN/free-games
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:epic-free-epic-free-2026-w48@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261118T000000
+DTSTART;TZID=Asia/Shanghai:20261127T000000
+DTEND;TZID=Asia/Shanghai:20261204T000000
+SUMMARY:Epic Free Games · Firestone – Idle Clicker Online RPG
+DESCRIPTION:This week's free games: Firestone – Idle Clicker Online RPG\
+ n\nGames this week:\n1. Firestone – Idle Clicker Online RPG\n\nCatalogue
+  source: https://store-site-backend-static.ak.epicgames.com/freeGamesPromo
+ tions?locale=zh-CN&country=CN&allowCountries=CN\nEnglish title sources: ht
+ tps://store-site-backend-static.ak.epicgames.com/freeGamesPromotions?local
+ e=en-US&country=CN&allowCountries=CN\n\nSource: https://store.epicgames.co
+ m/zh-CN/free-games
 CATEGORIES:Epic Free Games
 URL;VALUE=URI:https://store.epicgames.com/zh-CN/free-games
 STATUS:CONFIRMED
