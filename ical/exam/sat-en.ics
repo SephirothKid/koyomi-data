@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//sat//EN
+URL:https://koyomi.cast/sources/sat
+NAME:SAT Weekend
+X-WR-CALNAME:SAT Weekend
+X-WR-CALDESC:Confirmed College Board SAT Weekend tests and regular registr
+ ation, late registration and change deadlines in US Eastern time.
+TIMEZONE-ID:America/New_York
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:sat-sat-2026-11-registration@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;TZID=America/New_York:20261023T235900
+DTEND;TZID=America/New_York:20261024T005900
+SUMMARY:SAT Weekend · November SAT Registration Deadline
+DESCRIPTION:College Board SAT Weekend schedule. Deadlines are in US Easter
+ n time. Check your test center for availability and reporting time.\n\nSou
+ rce: https://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT Weekend
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2026-11-late-registration@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;TZID=America/New_York:20261027T235900
+DTEND;TZID=America/New_York:20261028T005900
+SUMMARY:SAT Weekend · November SAT Late Registration and Change Deadline
+DESCRIPTION:College Board SAT Weekend schedule. Deadlines are in US Easter
+ n time. Check your test center for availability and reporting time.\n\nSou
+ rce: https://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT Weekend
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2026-11-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:SAT Weekend · November SAT Weekend Test
+DESCRIPTION:College Board SAT Weekend schedule. Deadlines are in US Easter
+ n time. Check your test center for availability and reporting time.\n\nSou
+ rce: https://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT Weekend
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2026-12-registration@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;TZID=America/New_York:20261120T235900
+DTEND;TZID=America/New_York:20261121T005900
+SUMMARY:SAT Weekend · December SAT Registration Deadline
+DESCRIPTION:College Board SAT Weekend schedule. Deadlines are in US Easter
+ n time. Check your test center for availability and reporting time.\n\nSou
+ rce: https://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT Weekend
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2026-12-late-registration@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;TZID=America/New_York:20261124T235900
+DTEND;TZID=America/New_York:20261125T005900
+SUMMARY:SAT Weekend · December SAT Late Registration and Change Deadline
+DESCRIPTION:College Board SAT Weekend schedule. Deadlines are in US Easter
+ n time. Check your test center for availability and reporting time.\n\nSou
+ rce: https://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT Weekend
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2026-12-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:SAT Weekend · December SAT Weekend Test
+DESCRIPTION:College Board SAT Weekend schedule. Deadlines are in US Easter
+ n time. Check your test center for availability and reporting time.\n\nSou
+ rce: https://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT Weekend
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2027-03-registration@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;TZID=America/New_York:20270219T235900
+DTEND;TZID=America/New_York:20270220T005900
+SUMMARY:SAT Weekend · March SAT Registration Deadline
+DESCRIPTION:College Board SAT Weekend schedule. Deadlines are in US Easter
+ n time. Check your test center for availability and reporting time.\n\nSou
+ rce: https://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT Weekend
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2027-03-late-registration@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;TZID=America/New_York:20270223T235900
+DTEND;TZID=America/New_York:20270224T005900
+SUMMARY:SAT Weekend · March SAT Late Registration and Change Deadline
+DESCRIPTION:College Board SAT Weekend schedule. Deadlines are in US Easter
+ n time. Check your test center for availability and reporting time.\n\nSou
+ rce: https://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT Weekend
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2027-03-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:SAT Weekend · March SAT Weekend Test
+DESCRIPTION:College Board SAT Weekend schedule. Deadlines are in US Easter
+ n time. Check your test center for availability and reporting time.\n\nSou
+ rce: https://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT Weekend
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2027-05-registration@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;TZID=America/New_York:20270416T235900
+DTEND;TZID=America/New_York:20270417T005900
+SUMMARY:SAT Weekend · May SAT Registration Deadline
+DESCRIPTION:College Board SAT Weekend schedule. Deadlines are in US Easter
+ n time. Check your test center for availability and reporting time.\n\nSou
+ rce: https://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT Weekend
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2027-05-late-registration@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;TZID=America/New_York:20270420T235900
+DTEND;TZID=America/New_York:20270421T005900
+SUMMARY:SAT Weekend · May SAT Late Registration and Change Deadline
+DESCRIPTION:College Board SAT Weekend schedule. Deadlines are in US Easter
+ n time. Check your test center for availability and reporting time.\n\nSou
+ rce: https://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT Weekend
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2027-05-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:SAT Weekend · May SAT Weekend Test
+DESCRIPTION:College Board SAT Weekend schedule. Deadlines are in US Easter
+ n time. Check your test center for availability and reporting time.\n\nSou
+ rce: https://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT Weekend
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2027-06-registration@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;TZID=America/New_York:20270521T235900
+DTEND;TZID=America/New_York:20270522T005900
+SUMMARY:SAT Weekend · June SAT Registration Deadline
+DESCRIPTION:College Board SAT Weekend schedule. Deadlines are in US Easter
+ n time. Check your test center for availability and reporting time.\n\nSou
+ rce: https://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT Weekend
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2027-06-late-registration@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;TZID=America/New_York:20270525T235900
+DTEND;TZID=America/New_York:20270526T005900
+SUMMARY:SAT Weekend · June SAT Late Registration and Change Deadline
+DESCRIPTION:College Board SAT Weekend schedule. Deadlines are in US Easter
+ n time. Check your test center for availability and reporting time.\n\nSou
+ rce: https://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT Weekend
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2027-06-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:SAT Weekend · June SAT Weekend Test
+DESCRIPTION:College Board SAT Weekend schedule. Deadlines are in US Easter
+ n time. Check your test center for availability and reporting time.\n\nSou
+ rce: https://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT Weekend
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

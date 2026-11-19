@@ -1,0 +1,106 @@
+{
+  "id": "tw-gsat",
+  "name": "台湾学测",
+  "category": "exam",
+  "name_en": "Taiwan General Scholastic Ability Test (GSAT)",
+  "source_url": "https://www.ceec.edu.tw/home",
+  "description": "大考中心公布的学科能力测验报名、应试资讯、考试、成绩及复查安排。",
+  "description_en": "CEEC General Scholastic Ability Test registration, candidate information, examination, results and score reviews.",
+  "subcategory": "升学",
+  "subcategory_en": "Admissions",
+  "exam_classification": {
+    "audiences": [
+      "student"
+    ],
+    "tracks": [
+      "admissions"
+    ]
+  },
+  "maintainer": "community",
+  "events": [
+    {
+      "id": "tw-gsat-2027-registration",
+      "name": "2027年台湾学测报名",
+      "name_en": "2027 Taiwan GSAT Registration",
+      "date": "2026-10-27",
+      "end_date": "2026-11-10",
+      "timezone": "Asia/Taipei",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2027,
+      "description": "大考中心 116 学年度简章。试场、应试号码和个人考试安排以试务专区为准。",
+      "description_en": "CEEC academic year 116 schedule. Check the exam portal for your seat number, venue and personal arrangements.",
+      "url": "https://www.ceec.edu.tw/files/file_pool/1/0q215602074068375626/116%e5%ad%b8%e5%b9%b4%e5%ba%a6%e8%80%83%e8%a9%a6%e9%87%8d%e8%a6%81%e8%a9%a6%e5%8b%99%e6%97%a5%e6%9c%9f.pdf",
+      "status": "completed",
+      "last_verified": "2026-11-19",
+      "verified_by": "official"
+    },
+    {
+      "id": "tw-gsat-2027-admission-info",
+      "name": "2027年台湾学测试场与应试信息查询",
+      "name_en": "2027 Taiwan GSAT Exam Venue and Candidate Information",
+      "date": "2027-01-05",
+      "timezone": "Asia/Taipei",
+      "time_kind": "date",
+      "type": "announcement",
+      "year": 2027,
+      "description": "大考中心 116 学年度简章。试场、应试号码和个人考试安排以试务专区为准。",
+      "description_en": "CEEC academic year 116 schedule. Check the exam portal for your seat number, venue and personal arrangements.",
+      "url": "https://www.ceec.edu.tw/files/file_pool/1/0q215602074068375626/116%e5%ad%b8%e5%b9%b4%e5%ba%a6%e8%80%83%e8%a9%a6%e9%87%8d%e8%a6%81%e8%a9%a6%e5%8b%99%e6%97%a5%e6%9c%9f.pdf",
+      "status": "confirmed",
+      "last_verified": "2026-11-19",
+      "verified_by": "official"
+    },
+    {
+      "id": "tw-gsat-2027-exam",
+      "name": "2027年台湾学测考试",
+      "name_en": "2027 Taiwan GSAT Examination",
+      "date": "2027-01-22",
+      "end_date": "2027-01-24",
+      "timezone": "Asia/Taipei",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2027,
+      "description": "大考中心 116 学年度简章。试场、应试号码和个人考试安排以试务专区为准。",
+      "description_en": "CEEC academic year 116 schedule. Check the exam portal for your seat number, venue and personal arrangements.",
+      "url": "https://www.ceec.edu.tw/files/file_pool/1/0q215602074068375626/116%e5%ad%b8%e5%b9%b4%e5%ba%a6%e8%80%83%e8%a9%a6%e9%87%8d%e8%a6%81%e8%a9%a6%e5%8b%99%e6%97%a5%e6%9c%9f.pdf",
+      "status": "confirmed",
+      "last_verified": "2026-11-19",
+      "verified_by": "official"
+    },
+    {
+      "id": "tw-gsat-2027-results",
+      "name": "2027年台湾学测成绩公布",
+      "name_en": "2027 Taiwan GSAT Results",
+      "date": "2027-02-25",
+      "timezone": "Asia/Taipei",
+      "time_kind": "date",
+      "type": "announcement",
+      "year": 2027,
+      "description": "大考中心 116 学年度简章。试场、应试号码和个人考试安排以试务专区为准。",
+      "description_en": "CEEC academic year 116 schedule. Check the exam portal for your seat number, venue and personal arrangements.",
+      "url": "https://www.ceec.edu.tw/files/file_pool/1/0q215602074068375626/116%e5%ad%b8%e5%b9%b4%e5%ba%a6%e8%80%83%e8%a9%a6%e9%87%8d%e8%a6%81%e8%a9%a6%e5%8b%99%e6%97%a5%e6%9c%9f.pdf",
+      "status": "confirmed",
+      "last_verified": "2026-11-19",
+      "verified_by": "official"
+    },
+    {
+      "id": "tw-gsat-2027-score-review",
+      "name": "2027年台湾学测成绩复查申请",
+      "name_en": "2027 Taiwan GSAT Score Review Applications",
+      "date": "2027-02-26",
+      "end_date": "2027-03-04",
+      "timezone": "Asia/Taipei",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2027,
+      "description": "大考中心 116 学年度简章。试场、应试号码和个人考试安排以试务专区为准。",
+      "description_en": "CEEC academic year 116 schedule. Check the exam portal for your seat number, venue and personal arrangements.",
+      "url": "https://www.ceec.edu.tw/files/file_pool/1/0q215602074068375626/116%e5%ad%b8%e5%b9%b4%e5%ba%a6%e8%80%83%e8%a9%a6%e9%87%8d%e8%a6%81%e8%a9%a6%e5%8b%99%e6%97%a5%e6%9c%9f.pdf",
+      "status": "confirmed",
+      "last_verified": "2026-11-19",
+      "verified_by": "official"
+    }
+  ],
+  "last_updated": "2026-11-19"
+}

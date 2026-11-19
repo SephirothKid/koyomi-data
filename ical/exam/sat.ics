@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//sat//EN
+URL:https://koyomi.cast/sources/sat
+NAME:SAT 考试
+X-WR-CALNAME:SAT 考试
+X-WR-CALDESC:College Board 确认的 SAT 周末考试、常规报名与迟
+ 报名及改退截止。截止时间为美国东部时间。
+TIMEZONE-ID:America/New_York
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:sat-sat-2026-11-registration@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;TZID=America/New_York:20261023T235900
+DTEND;TZID=America/New_York:20261024T005900
+SUMMARY:SAT 考试 · 年11月 SAT 常规报名截止
+DESCRIPTION:College Board 公布的 SAT 周末场安排。截止按美国
+ 东部时间；实际考位与报到时间查所在考点。\n\n来源: ht
+ tps://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT 考试
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2026-11-late-registration@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;TZID=America/New_York:20261027T235900
+DTEND;TZID=America/New_York:20261028T005900
+SUMMARY:SAT 考试 · 年11月 SAT 迟报名及改退截止
+DESCRIPTION:College Board 公布的 SAT 周末场安排。截止按美国
+ 东部时间；实际考位与报到时间查所在考点。\n\n来源: ht
+ tps://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT 考试
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2026-11-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:SAT 考试 · 年11月 SAT 考试
+DESCRIPTION:College Board 公布的 SAT 周末场安排。截止按美国
+ 东部时间；实际考位与报到时间查所在考点。\n\n来源: ht
+ tps://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT 考试
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2026-12-registration@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;TZID=America/New_York:20261120T235900
+DTEND;TZID=America/New_York:20261121T005900
+SUMMARY:SAT 考试 · 年12月 SAT 常规报名截止
+DESCRIPTION:College Board 公布的 SAT 周末场安排。截止按美国
+ 东部时间；实际考位与报到时间查所在考点。\n\n来源: ht
+ tps://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT 考试
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2026-12-late-registration@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;TZID=America/New_York:20261124T235900
+DTEND;TZID=America/New_York:20261125T005900
+SUMMARY:SAT 考试 · 年12月 SAT 迟报名及改退截止
+DESCRIPTION:College Board 公布的 SAT 周末场安排。截止按美国
+ 东部时间；实际考位与报到时间查所在考点。\n\n来源: ht
+ tps://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT 考试
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2026-12-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:SAT 考试 · 年12月 SAT 考试
+DESCRIPTION:College Board 公布的 SAT 周末场安排。截止按美国
+ 东部时间；实际考位与报到时间查所在考点。\n\n来源: ht
+ tps://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT 考试
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2027-03-registration@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;TZID=America/New_York:20270219T235900
+DTEND;TZID=America/New_York:20270220T005900
+SUMMARY:SAT 考试 · 年3月 SAT 常规报名截止
+DESCRIPTION:College Board 公布的 SAT 周末场安排。截止按美国
+ 东部时间；实际考位与报到时间查所在考点。\n\n来源: ht
+ tps://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT 考试
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2027-03-late-registration@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;TZID=America/New_York:20270223T235900
+DTEND;TZID=America/New_York:20270224T005900
+SUMMARY:SAT 考试 · 年3月 SAT 迟报名及改退截止
+DESCRIPTION:College Board 公布的 SAT 周末场安排。截止按美国
+ 东部时间；实际考位与报到时间查所在考点。\n\n来源: ht
+ tps://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT 考试
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2027-03-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:SAT 考试 · 年3月 SAT 考试
+DESCRIPTION:College Board 公布的 SAT 周末场安排。截止按美国
+ 东部时间；实际考位与报到时间查所在考点。\n\n来源: ht
+ tps://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT 考试
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2027-05-registration@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;TZID=America/New_York:20270416T235900
+DTEND;TZID=America/New_York:20270417T005900
+SUMMARY:SAT 考试 · 年5月 SAT 常规报名截止
+DESCRIPTION:College Board 公布的 SAT 周末场安排。截止按美国
+ 东部时间；实际考位与报到时间查所在考点。\n\n来源: ht
+ tps://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT 考试
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2027-05-late-registration@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;TZID=America/New_York:20270420T235900
+DTEND;TZID=America/New_York:20270421T005900
+SUMMARY:SAT 考试 · 年5月 SAT 迟报名及改退截止
+DESCRIPTION:College Board 公布的 SAT 周末场安排。截止按美国
+ 东部时间；实际考位与报到时间查所在考点。\n\n来源: ht
+ tps://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT 考试
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2027-05-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:SAT 考试 · 年5月 SAT 考试
+DESCRIPTION:College Board 公布的 SAT 周末场安排。截止按美国
+ 东部时间；实际考位与报到时间查所在考点。\n\n来源: ht
+ tps://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT 考试
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2027-06-registration@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;TZID=America/New_York:20270521T235900
+DTEND;TZID=America/New_York:20270522T005900
+SUMMARY:SAT 考试 · 年6月 SAT 常规报名截止
+DESCRIPTION:College Board 公布的 SAT 周末场安排。截止按美国
+ 东部时间；实际考位与报到时间查所在考点。\n\n来源: ht
+ tps://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT 考试
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2027-06-late-registration@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;TZID=America/New_York:20270525T235900
+DTEND;TZID=America/New_York:20270526T005900
+SUMMARY:SAT 考试 · 年6月 SAT 迟报名及改退截止
+DESCRIPTION:College Board 公布的 SAT 周末场安排。截止按美国
+ 东部时间；实际考位与报到时间查所在考点。\n\n来源: ht
+ tps://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT 考试
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-sat-2027-06-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261119T000000
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:SAT 考试 · 年6月 SAT 考试
+DESCRIPTION:College Board 公布的 SAT 周末场安排。截止按美国
+ 东部时间；实际考位与报到时间查所在考点。\n\n来源: ht
+ tps://satsuite.collegeboard.org/sat/dates-deadlines
+CATEGORIES:SAT 考试
+URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
