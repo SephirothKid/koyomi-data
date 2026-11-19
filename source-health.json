@@ -3,13 +3,14 @@
   "sources": {
     "cpa": {
       "category": "exam",
-      "checked_at": "2026-11-18",
+      "checked_at": "2026-11-19",
       "outcome": "unchanged"
     },
     "judicial-exam": {
       "category": "exam",
       "checked_at": "2026-11-18",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: http://legalinfo.moj.gov.cn/zhpfsearch/es/getTrsNewsByParams?keyWords=2026%E5%B9%B4%E5%9B%BD%E5%AE%B6%E7%BB%9F%E4%B8%80%E6%B3%95%E5%BE%8B%E8%81%8C%E4%B8%9A%E8%B5%84%E6%A0%BC%E8%80%83%E8%AF%95&pageNum=1&pageSize=10 (fetch failed; ETIMEDOUT; ETIMEDOUT: connect ETIMEDOUT 111.62.149.133:80; ENETUNREACH: connect ENETUNREACH 2409:8c04:1101:3050::407:80 - Local (:::0); ETIMEDOUT: connect ETIMEDOUT 36.158.231.195:80; ENETUNREACH: connect ENETUNREACH 240e:cf:8800:37:2:0:8000:10:80 - Local (:::0)); fetch failed; ETIMEDOUT; ETIMEDOUT: connect ETIMEDOUT 111.62.149.133:80; ENETUNREACH: connect ENETUNREACH 2409:8c04:1101:3050::407:80 - Local (:::0); ETIMEDOUT: connect ETIMEDOUT 36.158.231.195:80; ENETUNREACH: connect ENETUNREACH 240e:cf:8800:37:2:0:8000:10:80 - Local (:::0)"
     },
     "fgo": {
       "category": "gaming",
@@ -240,7 +241,7 @@
     },
     "accounting-qualification": {
       "category": "exam",
-      "checked_at": "2026-11-18",
+      "checked_at": "2026-11-19",
       "outcome": "unchanged"
     },
     "adult-gaokao": {
@@ -300,7 +301,7 @@
     },
     "ncre": {
       "category": "exam",
-      "checked_at": "2026-11-18",
+      "checked_at": "2026-11-19",
       "outcome": "unchanged"
     },
     "nurse-qualification": {
@@ -316,7 +317,7 @@
     },
     "pets": {
       "category": "exam",
-      "checked_at": "2026-11-18",
+      "checked_at": "2026-11-19",
       "outcome": "unchanged"
     },
     "physician-qualification": {
@@ -356,27 +357,28 @@
     },
     "tax-agent": {
       "category": "exam",
-      "checked_at": "2026-11-18",
+      "checked_at": "2026-11-19",
       "outcome": "unchanged"
     },
     "civil-service-provincial": {
       "category": "exam",
-      "checked_at": "2026-11-18",
+      "checked_at": "2026-11-19",
       "outcome": "unchanged"
     },
     "cet": {
       "category": "exam",
-      "checked_at": "2026-11-18",
+      "checked_at": "2026-11-19",
       "outcome": "unchanged"
     },
     "civil-service-national": {
       "category": "exam",
       "checked_at": "2026-11-18",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: http://legalinfo.moj.gov.cn/zhpfsearch/es/getTrsNewsByParams?keyWords=2027%E5%B9%B4%E5%BA%A6%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98&pageNum=1&pageSize=10 (fetch failed; ETIMEDOUT; ETIMEDOUT: connect ETIMEDOUT 111.62.149.133:80; ENETUNREACH: connect ENETUNREACH 2409:8c04:1101:3050::407:80 - Local (:::0); ETIMEDOUT: connect ETIMEDOUT 36.158.231.195:80; ENETUNREACH: connect ENETUNREACH 240e:cf:8800:37:2:0:8000:10:80 - Local (:::0)); fetch failed; ETIMEDOUT; ETIMEDOUT: connect ETIMEDOUT 111.62.149.133:80; ENETUNREACH: connect ENETUNREACH 2409:8c04:1101:3050::407:80 - Local (:::0); ETIMEDOUT: connect ETIMEDOUT 36.158.231.195:80; ENETUNREACH: connect ENETUNREACH 240e:cf:8800:37:2:0:8000:10:80 - Local (:::0)"
     },
     "postgraduate-exam": {
       "category": "exam",
-      "checked_at": "2026-11-18",
+      "checked_at": "2026-11-19",
       "outcome": "unchanged"
     },
     "ruankao": {
@@ -386,7 +388,7 @@
     },
     "teacher-qualification": {
       "category": "exam",
-      "checked_at": "2026-11-18",
+      "checked_at": "2026-11-19",
       "outcome": "unchanged"
     },
     "astronomical-events": {
