@@ -14,8 +14,8 @@
     },
     "fgo": {
       "category": "gaming",
-      "checked_at": "2026-11-18",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-19",
+      "outcome": "updated"
     },
     "tw-public-holidays": {
       "category": "holidays",
@@ -179,28 +179,30 @@
     },
     "arknights": {
       "category": "gaming",
-      "checked_at": "2026-11-18",
+      "checked_at": "2026-11-19",
       "outcome": "updated"
     },
     "cs2-tournaments": {
       "category": "gaming",
-      "checked_at": "2026-11-18",
+      "checked_at": "2026-11-19",
       "outcome": "unchanged"
     },
     "epic-free": {
       "category": "gaming",
-      "checked_at": "2026-11-18",
-      "outcome": "updated"
+      "checked_at": "2026-11-19",
+      "outcome": "unchanged"
     },
     "kpl": {
       "category": "gaming",
       "checked_at": "2026-11-18",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: https://api.pandascore.co/kog/leagues?page%5Bnumber%5D=1&page%5Bsize%5D=100"
     },
     "lpl": {
       "category": "gaming",
       "checked_at": "2026-11-18",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: https://api.pandascore.co/lol/matches?filter%5Bleague_id%5D=294&range%5Bbegin_at%5D=2026-01-01%2C2099-12-31&page%5Bnumber%5D=1&page%5Bsize%5D=100&sort=begin_at"
     },
     "console-showcases": {
       "category": "gaming",
@@ -211,33 +213,33 @@
       "category": "gaming",
       "checked_at": "2026-11-18",
       "outcome": "skipped",
-      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/16471662a82d418a/getContentList?iAppId=43&iChanId=721&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 111.208.52.19:443, 111.208.52.38:443, 111.208.52.35:443, 111.208.52.36:443, 111.208.52.37:443, 111.208.52.18:443, 111.208.52.39:443, 111.208.52.20:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 111.208.52.19:443, 111.208.52.38:443, 111.208.52.35:443, 111.208.52.36:443, 111.208.52.37:443, 111.208.52.18:443, 111.208.52.39:443, 111.208.52.20:443, timeout: 10000ms)"
+      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/16471662a82d418a/getContentList?iAppId=43&iChanId=721&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 45.253.17.35:443, 45.253.17.32:443, 45.253.17.31:443, 45.253.17.37:443, 45.253.17.38:443, 45.253.17.34:443, 45.253.17.36:443, 45.253.17.33:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 45.253.17.35:443, 45.253.17.32:443, 45.253.17.31:443, 45.253.17.37:443, 45.253.17.38:443, 45.253.17.34:443, 45.253.17.36:443, 45.253.17.33:443, timeout: 10000ms)"
     },
     "honkai-star-rail": {
       "category": "gaming",
       "checked_at": "2026-11-18",
       "outcome": "skipped",
-      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/1963de8dc19e461c/getContentList?iChanId=255&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 111.208.52.39:443, 111.208.52.18:443, 111.208.52.35:443, 111.208.52.19:443, 111.208.52.20:443, 111.208.52.37:443, 111.208.52.36:443, 111.208.52.38:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 111.208.52.39:443, 111.208.52.18:443, 111.208.52.35:443, 111.208.52.19:443, 111.208.52.20:443, 111.208.52.37:443, 111.208.52.36:443, 111.208.52.38:443, timeout: 10000ms)"
+      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/1963de8dc19e461c/getContentList?iChanId=255&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 45.253.17.36:443, 45.253.17.35:443, 45.253.17.34:443, 45.253.17.31:443, 45.253.17.32:443, 45.253.17.38:443, 45.253.17.33:443, 45.253.17.37:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 45.253.17.36:443, 45.253.17.35:443, 45.253.17.34:443, 45.253.17.31:443, 45.253.17.32:443, 45.253.17.38:443, 45.253.17.33:443, 45.253.17.37:443, timeout: 10000ms)"
     },
     "zenless-zone-zero": {
       "category": "gaming",
-      "checked_at": "2026-11-18",
+      "checked_at": "2026-11-19",
       "outcome": "unchanged"
     },
     "rawg-releases": {
       "category": "gaming",
-      "checked_at": "2026-11-18",
+      "checked_at": "2026-11-19",
       "outcome": "updated"
     },
     "steam-sales": {
       "category": "gaming",
-      "checked_at": "2026-11-18",
+      "checked_at": "2026-11-19",
       "outcome": "unchanged"
     },
     "wuthering-waves": {
       "category": "gaming",
-      "checked_at": "2026-11-18",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-19",
+      "outcome": "updated"
     },
     "accounting-qualification": {
       "category": "exam",
@@ -506,18 +508,18 @@
     },
     "final-fantasy-xiv": {
       "category": "gaming",
-      "checked_at": "2026-11-18",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-19",
+      "outcome": "updated"
     },
     "love-and-deepspace": {
       "category": "gaming",
-      "checked_at": "2026-11-18",
+      "checked_at": "2026-11-19",
       "outcome": "unchanged"
     },
     "reverse1999": {
       "category": "gaming",
-      "checked_at": "2026-11-18",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-19",
+      "outcome": "updated"
     },
     "worldcup-qualifiers-afc": {
       "category": "sports",
