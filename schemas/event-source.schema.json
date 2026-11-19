@@ -118,6 +118,48 @@
       "description": "按整站事件 ID 保存的官方逐场数据；详情页按比赛日分片加载，不复制到整站 iCal。",
       "additionalProperties": { "$ref": "#/definitions/sportsSchedule" }
     },
+    "table_tennis_schedules": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "required": ["archived", "days"],
+        "properties": {
+          "archived": { "type": "boolean" },
+          "days": {
+            "type": "array",
+            "items": {
+              "type": "object", "required": ["date", "matches"],
+              "properties": {
+                "date": { "$ref": "#/definitions/dateField" },
+                "matches": { "type": "array", "minItems": 1, "items": { "$ref": "#/definitions/tableTennisMatch" } }
+              }
+            }
+          },
+          "draws": { "type": "array", "items": { "$ref": "#/definitions/tableTennisDraw" } },
+          "sessions_url": { "type": "string", "format": "uri" },
+          "sessions": {
+            "type": "array", "minItems": 1,
+            "items": {
+              "type": "object", "required": ["date", "slots"],
+              "properties": {
+                "date": { "$ref": "#/definitions/dateField" },
+                "slots": {
+                  "type": "array", "minItems": 1,
+                  "items": {
+                    "type": "object", "required": ["name", "name_en"],
+                    "properties": {
+                      "name": { "type": "string", "minLength": 1 },
+                      "name_en": { "type": "string", "minLength": 1 },
+                      "time": { "type": "string", "pattern": "^(?:[01][0-9]|2[0-3]):[0-5][0-9]$" }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "events": {
       "type": "array",
       "items": {
@@ -251,6 +293,78 @@
     }
   },
   "definitions": {
+    "tableTennisDraw": {
+      "type": "object", "required": ["discipline", "stage", "rounds"],
+      "properties": {
+        "discipline": { "type": "string" },
+        "stage": { "enum": ["MAIN", "PREL"] },
+        "fromResults": { "type": "boolean" },
+        "rounds": {
+          "type": "array", "minItems": 1,
+          "items": {
+            "type": "object", "required": ["code", "matches"],
+            "properties": {
+              "code": { "type": "string" },
+              "matches": {
+                "type": "array", "minItems": 1,
+                "items": {
+                  "type": "object", "required": ["id", "position", "sides"],
+                  "properties": {
+                    "id": { "type": "string" },
+                    "position": { "type": "integer", "minimum": 1 },
+                    "sides": {
+                      "type": "array", "minItems": 2, "maxItems": 2,
+                      "items": {
+                        "type": "object", "required": ["names"],
+                        "properties": {
+                          "names": { "type": "array", "maxItems": 2, "items": { "type": "string" } },
+                          "country": { "type": "string" },
+                          "seed": { "type": "integer", "minimum": 1 },
+                          "bye": { "type": "boolean" },
+                          "won": { "type": "boolean" },
+                          "score": { "type": "integer", "minimum": 0 },
+                          "previous": { "type": "string" },
+                          "predecessor": { "enum": ["W", "L"] }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "tableTennisMatch": {
+      "type": "object",
+      "required": ["id", "date", "discipline", "sides"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "date": { "$ref": "#/definitions/dateField" },
+        "time": { "type": "string", "pattern": "^(?:[01][0-9]|2[0-3]):[0-5][0-9]$" },
+        "discipline": { "type": "string" },
+        "round": { "type": "string" },
+        "table": { "type": "string" },
+        "sides": {
+          "type": "array", "minItems": 2, "maxItems": 2,
+          "items": {
+            "type": "object", "required": ["names"],
+            "properties": {
+              "names": { "type": "array", "maxItems": 2, "items": { "type": "string", "minLength": 1 } },
+              "country": { "type": "string" }
+            }
+          }
+        },
+        "score": { "$ref": "#/definitions/tableTennisScore" },
+        "games": { "type": "array", "items": { "$ref": "#/definitions/tableTennisScore" } },
+        "outcome": { "enum": ["WO", "RET", "INJ"] }
+      }
+    },
+    "tableTennisScore": {
+      "type": "array", "minItems": 2, "maxItems": 2,
+      "items": { "type": "integer", "minimum": 0 }
+    },
     "snookerPlayer": {
       "type": "object",
       "required": [
