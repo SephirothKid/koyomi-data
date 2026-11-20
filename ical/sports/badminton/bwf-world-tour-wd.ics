@@ -2438,12 +2438,26 @@ BEGIN:VEVENT
 UID:bwf-world-tour-wd-bwf-world-tour-2026-e5218-match-1569951@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261120T000000
+DTSTART;TZID=Etc/UTC:20261120T103000
+SUMMARY:女双 · Francesca CORBETT / Jennie GAI vs Zi Yu LOW / Noraqilah 
+ MAISARAH · 女双
+DESCRIPTION:香港公开赛 · QF · Court 3\n\n来源: https://bwfworldto
+ ur.bwfbadminton.com/tournament/5218/li-ning-hong-kong-open-2026/results/
+CATEGORIES:女双
+URL;VALUE=URI:https://bwfworldtour.bwfbadminton.com/tournament/5218/li-nin
+ g-hong-kong-open-2026/results/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bwf-world-tour-wd-bwf-world-tour-2026-e5218-match-1569953@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261120T000000
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:女双 · Francesca CORBETT / Jennie GAI vs Zi Yu LOW / Noraqilah 
- MAISARAH · 女双
+SUMMARY:女双 · Rin IWANAGA / Kie NAKANISHI vs Sumire NAKADE / Miyu TAKA
+ HASHI · 女双
 DESCRIPTION:香港公开赛 · QF · 随后进行 · Court 3\n\n来源: ht
  tps://bwfworldtour.bwfbadminton.com/tournament/5218/li-ning-hong-kong-open
  -2026/results/
@@ -2463,24 +2477,6 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:女双 · Yuki FUKUSHIMA / Mayu MATSUMOTO vs Amallia Cahaya PRATIW
  I / Siti Fadia Silva RAMADHANTI · 女双
 DESCRIPTION:香港公开赛 · QF · 随后进行 · Court 1\n\n来源: ht
- tps://bwfworldtour.bwfbadminton.com/tournament/5218/li-ning-hong-kong-open
- -2026/results/
-CATEGORIES:女双
-URL;VALUE=URI:https://bwfworldtour.bwfbadminton.com/tournament/5218/li-nin
- g-hong-kong-open-2026/results/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bwf-world-tour-wd-bwf-world-tour-2026-e5218-match-1569953@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261120T000000
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:女双 · Rin IWANAGA / Kie NAKANISHI vs Sumire NAKADE / Miyu TAKA
- HASHI · 女双
-DESCRIPTION:香港公开赛 · QF · 随后进行 · Court 3\n\n来源: ht
  tps://bwfworldtour.bwfbadminton.com/tournament/5218/li-ning-hong-kong-open
  -2026/results/
 CATEGORIES:女双

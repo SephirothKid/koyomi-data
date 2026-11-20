@@ -248366,9 +248366,18 @@
                 ],
                 "country": "THA"
               },
-              "games": [],
-              "winner": 0,
-              "status": "scheduled",
+              "games": [
+                [
+                  19,
+                  21
+                ],
+                [
+                  16,
+                  21
+                ]
+              ],
+              "winner": 2,
+              "status": "completed",
               "outcome": 0,
               "start": "2026-11-20T03:00:00Z",
               "timing": "scheduled",
@@ -248392,9 +248401,18 @@
                 ],
                 "country": "IND"
               },
-              "games": [],
-              "winner": 0,
-              "status": "scheduled",
+              "games": [
+                [
+                  21,
+                  19
+                ],
+                [
+                  21,
+                  16
+                ]
+              ],
+              "winner": 1,
+              "status": "completed",
               "outcome": 0,
               "start": "2026-11-20T03:00:00Z",
               "timing": "scheduled",
@@ -248420,9 +248438,18 @@
                 ],
                 "country": "MAS"
               },
-              "games": [],
-              "winner": 0,
-              "status": "scheduled",
+              "games": [
+                [
+                  15,
+                  21
+                ],
+                [
+                  15,
+                  21
+                ]
+              ],
+              "winner": 2,
+              "status": "completed",
               "outcome": 0,
               "timing": "followed_by",
               "court": "Court 1"
@@ -248447,9 +248474,22 @@
                 ],
                 "country": "CHN"
               },
-              "games": [],
-              "winner": 0,
-              "status": "scheduled",
+              "games": [
+                [
+                  21,
+                  12
+                ],
+                [
+                  13,
+                  21
+                ],
+                [
+                  21,
+                  16
+                ]
+              ],
+              "winner": 1,
+              "status": "completed",
               "outcome": 0,
               "timing": "followed_by",
               "court": "Court 2"
@@ -248472,9 +248512,18 @@
                 ],
                 "country": "INA"
               },
-              "games": [],
-              "winner": 0,
-              "status": "scheduled",
+              "games": [
+                [
+                  22,
+                  20
+                ],
+                [
+                  22,
+                  20
+                ]
+              ],
+              "winner": 1,
+              "status": "completed",
               "outcome": 0,
               "timing": "followed_by",
               "court": "Court 1"
@@ -248499,9 +248548,18 @@
                 ],
                 "country": "TPE"
               },
-              "games": [],
-              "winner": 0,
-              "status": "scheduled",
+              "games": [
+                [
+                  21,
+                  9
+                ],
+                [
+                  21,
+                  10
+                ]
+              ],
+              "winner": 1,
+              "status": "completed",
               "outcome": 0,
               "timing": "followed_by",
               "court": "Court 2"
@@ -248524,9 +248582,22 @@
                 ],
                 "country": "IND"
               },
-              "games": [],
-              "winner": 0,
-              "status": "scheduled",
+              "games": [
+                [
+                  17,
+                  21
+                ],
+                [
+                  21,
+                  10
+                ],
+                [
+                  13,
+                  21
+                ]
+              ],
+              "winner": 2,
+              "status": "completed",
               "outcome": 0,
               "timing": "followed_by",
               "court": "Court 1"
@@ -248549,9 +248620,54 @@
                 ],
                 "country": "JPN"
               },
-              "games": [],
-              "winner": 0,
-              "status": "scheduled",
+              "games": [
+                [
+                  21,
+                  11
+                ],
+                [
+                  21,
+                  9
+                ]
+              ],
+              "winner": 1,
+              "status": "completed",
+              "outcome": 0,
+              "timing": "followed_by",
+              "court": "Court 2"
+            },
+            {
+              "id": "1569986",
+              "code": "182",
+              "date": "2026-11-20",
+              "discipline": "MD",
+              "round": "QF",
+              "side1": {
+                "names": [
+                  "Daniel LUNDGAARD",
+                  "Mads VESTERGAARD"
+                ],
+                "country": "DEN"
+              },
+              "side2": {
+                "names": [
+                  "MAN Wei Chong",
+                  "TEE Kai Wun"
+                ],
+                "country": "MAS"
+              },
+              "games": [
+                [
+                  16,
+                  21
+                ],
+                [
+                  16,
+                  21
+                ]
+              ],
+              "winner": 2,
+              "status": "completed",
               "outcome": 0,
               "timing": "followed_by",
               "court": "Court 2"
@@ -248576,39 +248692,25 @@
                 ],
                 "country": "CHN"
               },
-              "games": [],
-              "winner": 0,
-              "status": "scheduled",
+              "games": [
+                [
+                  21,
+                  19
+                ],
+                [
+                  19,
+                  21
+                ],
+                [
+                  21,
+                  18
+                ]
+              ],
+              "winner": 1,
+              "status": "completed",
               "outcome": 0,
               "timing": "followed_by",
               "court": "Court 1"
-            },
-            {
-              "id": "1569986",
-              "code": "182",
-              "date": "2026-11-20",
-              "discipline": "MD",
-              "round": "QF",
-              "side1": {
-                "names": [
-                  "Daniel LUNDGAARD",
-                  "Mads VESTERGAARD"
-                ],
-                "country": "DEN"
-              },
-              "side2": {
-                "names": [
-                  "MAN Wei Chong",
-                  "TEE Kai Wun"
-                ],
-                "country": "MAS"
-              },
-              "games": [],
-              "winner": 0,
-              "status": "scheduled",
-              "outcome": 0,
-              "timing": "date",
-              "court": "Court 2"
             },
             {
               "id": "1570050",
@@ -248629,6 +248731,34 @@
                   "WEI Ya Xin"
                 ],
                 "country": "CHN"
+              },
+              "games": [],
+              "winner": 2,
+              "status": "completed",
+              "outcome": 1,
+              "start": "2026-11-20T10:30:00Z",
+              "timing": "scheduled",
+              "court": "Court 3"
+            },
+            {
+              "id": "1569951",
+              "code": "259",
+              "date": "2026-11-20",
+              "discipline": "WD",
+              "round": "QF",
+              "side1": {
+                "names": [
+                  "Francesca CORBETT",
+                  "Jennie GAI"
+                ],
+                "country": "USA"
+              },
+              "side2": {
+                "names": [
+                  "Zi Yu LOW",
+                  "Noraqilah MAISARAH"
+                ],
+                "country": "MAS"
               },
               "games": [],
               "winner": 0,
@@ -248693,24 +248823,24 @@
               "court": "Court 2"
             },
             {
-              "id": "1569951",
-              "code": "259",
+              "id": "1569953",
+              "code": "258",
               "date": "2026-11-20",
               "discipline": "WD",
               "round": "QF",
               "side1": {
                 "names": [
-                  "Francesca CORBETT",
-                  "Jennie GAI"
+                  "Rin IWANAGA",
+                  "Kie NAKANISHI"
                 ],
-                "country": "USA"
+                "country": "JPN"
               },
               "side2": {
                 "names": [
-                  "Zi Yu LOW",
-                  "Noraqilah MAISARAH"
+                  "Sumire NAKADE",
+                  "Miyu TAKAHASHI"
                 ],
-                "country": "MAS"
+                "country": "JPN"
               },
               "games": [],
               "winner": 0,
@@ -248774,30 +248904,28 @@
               "court": "Court 2"
             },
             {
-              "id": "1569953",
-              "code": "258",
+              "id": "1570095",
+              "code": "35",
               "date": "2026-11-20",
-              "discipline": "WD",
+              "discipline": "MS",
               "round": "QF",
               "side1": {
                 "names": [
-                  "Rin IWANAGA",
-                  "Kie NAKANISHI"
+                  "KIDAMBI Srikanth"
                 ],
-                "country": "JPN"
+                "country": "IND"
               },
               "side2": {
                 "names": [
-                  "Sumire NAKADE",
-                  "Miyu TAKAHASHI"
+                  "Kunlavut VITIDSARN"
                 ],
-                "country": "JPN"
+                "country": "THA"
               },
               "games": [],
               "winner": 0,
               "status": "scheduled",
               "outcome": 0,
-              "timing": "followed_by",
+              "timing": "date",
               "court": "Court 3"
             },
             {
@@ -248850,31 +248978,6 @@
               "status": "scheduled",
               "outcome": 0,
               "timing": "followed_by",
-              "court": "Court 2"
-            },
-            {
-              "id": "1570095",
-              "code": "35",
-              "date": "2026-11-20",
-              "discipline": "MS",
-              "round": "QF",
-              "side1": {
-                "names": [
-                  "KIDAMBI Srikanth"
-                ],
-                "country": "IND"
-              },
-              "side2": {
-                "names": [
-                  "Kunlavut VITIDSARN"
-                ],
-                "country": "THA"
-              },
-              "games": [],
-              "winner": 0,
-              "status": "scheduled",
-              "outcome": 0,
-              "timing": "date",
               "court": "Court 2"
             }
           ]
@@ -250543,9 +250646,22 @@
                   ],
                   "country": "IND"
                 },
-                "games": [],
-                "winner": 0,
-                "status": "scheduled",
+                "games": [
+                  [
+                    17,
+                    21
+                  ],
+                  [
+                    21,
+                    10
+                  ],
+                  [
+                    13,
+                    21
+                  ]
+                ],
+                "winner": 2,
+                "status": "completed",
                 "outcome": 0,
                 "timing": "followed_by",
                 "court": "Court 1"
@@ -250614,7 +250730,7 @@
                 "status": "scheduled",
                 "outcome": 0,
                 "timing": "date",
-                "court": "Court 2"
+                "court": "Court 3"
               },
               "seeds": [
                 "",
@@ -250638,9 +250754,9 @@
                 },
                 "side2": {
                   "names": [
-                    "TBC"
+                    "Lakshya SEN"
                   ],
-                  "country": ""
+                  "country": "IND"
                 },
                 "games": [],
                 "winner": 0,
@@ -251962,9 +252078,18 @@
                   ],
                   "country": "INA"
                 },
-                "games": [],
-                "winner": 0,
-                "status": "scheduled",
+                "games": [
+                  [
+                    22,
+                    20
+                  ],
+                  [
+                    22,
+                    20
+                  ]
+                ],
+                "winner": 1,
+                "status": "completed",
                 "outcome": 0,
                 "timing": "followed_by",
                 "court": "Court 1"
@@ -251995,9 +252120,18 @@
                   ],
                   "country": "JPN"
                 },
-                "games": [],
-                "winner": 0,
-                "status": "scheduled",
+                "games": [
+                  [
+                    21,
+                    11
+                  ],
+                  [
+                    21,
+                    9
+                  ]
+                ],
+                "winner": 1,
+                "status": "completed",
                 "outcome": 0,
                 "timing": "followed_by",
                 "court": "Court 2"
@@ -252028,9 +252162,18 @@
                   ],
                   "country": "THA"
                 },
-                "games": [],
-                "winner": 0,
-                "status": "scheduled",
+                "games": [
+                  [
+                    19,
+                    21
+                  ],
+                  [
+                    16,
+                    21
+                  ]
+                ],
+                "winner": 2,
+                "status": "completed",
                 "outcome": 0,
                 "start": "2026-11-20T03:00:00Z",
                 "timing": "scheduled",
@@ -252062,9 +252205,18 @@
                   ],
                   "country": "IND"
                 },
-                "games": [],
-                "winner": 0,
-                "status": "scheduled",
+                "games": [
+                  [
+                    21,
+                    19
+                  ],
+                  [
+                    21,
+                    16
+                  ]
+                ],
+                "winner": 1,
+                "status": "completed",
                 "outcome": 0,
                 "start": "2026-11-20T03:00:00Z",
                 "timing": "scheduled",
@@ -252086,15 +252238,15 @@
                 "round": "SF",
                 "side1": {
                   "names": [
-                    "TBC"
+                    "WANG Zhi Yi"
                   ],
-                  "country": ""
+                  "country": "CHN"
                 },
                 "side2": {
                   "names": [
-                    "TBC"
+                    "Tomoka MIYAZAKI"
                   ],
-                  "country": ""
+                  "country": "JPN"
                 },
                 "games": [],
                 "winner": 0,
@@ -252104,8 +252256,8 @@
                 "court": ""
               },
               "seeds": [
-                "",
-                ""
+                "1",
+                "4"
               ]
             },
             {
@@ -252119,15 +252271,15 @@
                 "round": "SF",
                 "side1": {
                   "names": [
-                    "TBC"
+                    "Ratchanok INTANON"
                   ],
-                  "country": ""
+                  "country": "THA"
                 },
                 "side2": {
                   "names": [
-                    "TBC"
+                    "Pornpawee CHOCHUWONG"
                   ],
-                  "country": ""
+                  "country": "THA"
                 },
                 "games": [],
                 "winner": 0,
@@ -252137,8 +252289,8 @@
                 "court": ""
               },
               "seeds": [
-                "",
-                ""
+                "3",
+                "5"
               ]
             },
             {
@@ -253497,11 +253649,20 @@
                   ],
                   "country": "MAS"
                 },
-                "games": [],
-                "winner": 0,
-                "status": "scheduled",
+                "games": [
+                  [
+                    16,
+                    21
+                  ],
+                  [
+                    16,
+                    21
+                  ]
+                ],
+                "winner": 2,
+                "status": "completed",
                 "outcome": 0,
-                "timing": "date",
+                "timing": "followed_by",
                 "court": "Court 2"
               },
               "seeds": [
@@ -253532,9 +253693,22 @@
                   ],
                   "country": "CHN"
                 },
-                "games": [],
-                "winner": 0,
-                "status": "scheduled",
+                "games": [
+                  [
+                    21,
+                    12
+                  ],
+                  [
+                    13,
+                    21
+                  ],
+                  [
+                    21,
+                    16
+                  ]
+                ],
+                "winner": 1,
+                "status": "completed",
                 "outcome": 0,
                 "timing": "followed_by",
                 "court": "Court 2"
@@ -253603,9 +253777,22 @@
                   ],
                   "country": "CHN"
                 },
-                "games": [],
-                "winner": 0,
-                "status": "scheduled",
+                "games": [
+                  [
+                    21,
+                    19
+                  ],
+                  [
+                    19,
+                    21
+                  ],
+                  [
+                    21,
+                    18
+                  ]
+                ],
+                "winner": 1,
+                "status": "completed",
                 "outcome": 0,
                 "timing": "followed_by",
                 "court": "Court 1"
@@ -253626,15 +253813,17 @@
                 "round": "SF",
                 "side1": {
                   "names": [
-                    "TBC"
+                    "MAN Wei Chong",
+                    "TEE Kai Wun"
                   ],
-                  "country": ""
+                  "country": "MAS"
                 },
                 "side2": {
                   "names": [
-                    "TBC"
+                    "Satwiksairaj RANKIREDDY",
+                    "Chirag SHETTY"
                   ],
-                  "country": ""
+                  "country": "IND"
                 },
                 "games": [],
                 "winner": 0,
@@ -253644,8 +253833,8 @@
                 "court": ""
               },
               "seeds": [
-                "",
-                ""
+                "8",
+                "5"
               ]
             },
             {
@@ -253665,9 +253854,10 @@
                 },
                 "side2": {
                   "names": [
-                    "TBC"
+                    "KANG Min Hyuk",
+                    "LEE JONGMIN"
                   ],
-                  "country": ""
+                  "country": "KOR"
                 },
                 "games": [],
                 "winner": 0,
@@ -255097,7 +255287,8 @@
                 "winner": 0,
                 "status": "scheduled",
                 "outcome": 0,
-                "timing": "followed_by",
+                "start": "2026-11-20T10:30:00Z",
+                "timing": "scheduled",
                 "court": "Court 3"
               },
               "seeds": [
@@ -256543,9 +256734,18 @@
                   ],
                   "country": "TPE"
                 },
-                "games": [],
-                "winner": 0,
-                "status": "scheduled",
+                "games": [
+                  [
+                    21,
+                    9
+                  ],
+                  [
+                    21,
+                    10
+                  ]
+                ],
+                "winner": 1,
+                "status": "completed",
                 "outcome": 0,
                 "timing": "followed_by",
                 "court": "Court 2"
@@ -256578,9 +256778,18 @@
                   ],
                   "country": "MAS"
                 },
-                "games": [],
-                "winner": 0,
-                "status": "scheduled",
+                "games": [
+                  [
+                    15,
+                    21
+                  ],
+                  [
+                    15,
+                    21
+                  ]
+                ],
+                "winner": 2,
+                "status": "completed",
                 "outcome": 0,
                 "timing": "followed_by",
                 "court": "Court 1"
@@ -256649,9 +256858,9 @@
                   "country": "CHN"
                 },
                 "games": [],
-                "winner": 0,
-                "status": "scheduled",
-                "outcome": 0,
+                "winner": 2,
+                "status": "completed",
+                "outcome": 1,
                 "start": "2026-11-20T10:30:00Z",
                 "timing": "scheduled",
                 "court": "Court 3"
@@ -256672,15 +256881,17 @@
                 "round": "SF",
                 "side1": {
                   "names": [
-                    "TBC"
+                    "FENG Yan Zhe",
+                    "HUANG Dong Ping"
                   ],
-                  "country": ""
+                  "country": "CHN"
                 },
                 "side2": {
                   "names": [
-                    "TBC"
+                    "GOH Soon Huat",
+                    "LAI Shevon Jemie"
                   ],
-                  "country": ""
+                  "country": "MAS"
                 },
                 "games": [],
                 "winner": 0,
@@ -256690,7 +256901,7 @@
                 "court": ""
               },
               "seeds": [
-                "",
+                "1",
                 ""
               ]
             },
@@ -256711,9 +256922,10 @@
                 },
                 "side2": {
                   "names": [
-                    "TBC"
+                    "JIANG Zhen Bang",
+                    "WEI Ya Xin"
                   ],
-                  "country": ""
+                  "country": "CHN"
                 },
                 "games": [],
                 "winner": 0,
@@ -256724,7 +256936,7 @@
               },
               "seeds": [
                 "",
-                ""
+                "2"
               ]
             },
             {

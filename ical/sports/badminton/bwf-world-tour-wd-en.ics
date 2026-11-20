@@ -2438,12 +2438,27 @@ BEGIN:VEVENT
 UID:bwf-world-tour-wd-bwf-world-tour-2026-e5218-match-1569951@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261120T000000
+DTSTART;TZID=Etc/UTC:20261120T103000
+SUMMARY:Women's doubles · Francesca CORBETT / Jennie GAI vs Zi Yu LOW / N
+ oraqilah MAISARAH · Women's doubles
+DESCRIPTION:LI-NING Hong Kong Open 2026 · QF · Court 3\n\nSource: https:
+ //bwfworldtour.bwfbadminton.com/tournament/5218/li-ning-hong-kong-open-202
+ 6/results/
+CATEGORIES:Women's doubles
+URL;VALUE=URI:https://bwfworldtour.bwfbadminton.com/tournament/5218/li-nin
+ g-hong-kong-open-2026/results/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bwf-world-tour-wd-bwf-world-tour-2026-e5218-match-1569953@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261120T000000
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Women's doubles · Francesca CORBETT / Jennie GAI vs Zi Yu LOW / N
- oraqilah MAISARAH · Women's doubles
+SUMMARY:Women's doubles · Rin IWANAGA / Kie NAKANISHI vs Sumire NAKADE / 
+ Miyu TAKAHASHI · Women's doubles
 DESCRIPTION:LI-NING Hong Kong Open 2026 · QF · Followed by · Court 3\n\
  nSource: https://bwfworldtour.bwfbadminton.com/tournament/5218/li-ning-hon
  g-kong-open-2026/results/
@@ -2463,24 +2478,6 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Women's doubles · Yuki FUKUSHIMA / Mayu MATSUMOTO vs Amallia Caha
  ya PRATIWI / Siti Fadia Silva RAMADHANTI · Women's doubles
 DESCRIPTION:LI-NING Hong Kong Open 2026 · QF · Followed by · Court 1\n\
- nSource: https://bwfworldtour.bwfbadminton.com/tournament/5218/li-ning-hon
- g-kong-open-2026/results/
-CATEGORIES:Women's doubles
-URL;VALUE=URI:https://bwfworldtour.bwfbadminton.com/tournament/5218/li-nin
- g-hong-kong-open-2026/results/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bwf-world-tour-wd-bwf-world-tour-2026-e5218-match-1569953@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261120T000000
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Women's doubles · Rin IWANAGA / Kie NAKANISHI vs Sumire NAKADE / 
- Miyu TAKAHASHI · Women's doubles
-DESCRIPTION:LI-NING Hong Kong Open 2026 · QF · Followed by · Court 3\n\
  nSource: https://bwfworldtour.bwfbadminton.com/tournament/5218/li-ning-hon
  g-kong-open-2026/results/
 CATEGORIES:Women's doubles
