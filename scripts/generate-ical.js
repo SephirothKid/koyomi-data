@@ -462,15 +462,21 @@ function bannerDescription(event, isEn = false) {
     const type = event.game?.game_id === 'arknights' ? (isEn ? 'Operator' : '干员')
       : event.game?.game_id === 'love-and-deepspace' ? (isEn ? 'Memory' : '思念') : bannerTypeLabel(banner.type, isEn)
     const lines = [`${index + 1}. ${bannerName}${isEn ? ' (' : '（'}${type}${isEn ? ')' : '）'}`]
+    if (banner.starts_at && banner.ends_at) {
+      lines.push(`${banner.starts_at.replace('T', ' ')} – ${banner.ends_at.replace('T', ' ')} (${isEn ? 'Beijing Time' : '北京时间'})`)
+    }
     const appendItems = (items, fallback, rosterKind = banner.roster_kind) => {
       const groups = new Map()
       for (const item of items) {
         const name = bannerItemLabel(item, isEn)
         let rarity = item.rarity ?? fallback
         if (event.game?.game_id === 'zenless-zone-zero') rarity = Number(rarity) === 5 || rarity === 'S' ? 'S' : 'A'
-        groups.set(rarity, [...(groups.get(rarity) ?? []), name])
+        const kind = event.game?.game_id === 'fgo' && item.kind === 'other' ? 'essence' : ''
+        const key = `${rarity}:${kind}`
+        if (!groups.has(key)) groups.set(key, { rarity, kind, names: [] })
+        groups.get(key).names.push(name)
       }
-      for (const [rarity, names] of groups) {
+      for (const { rarity, kind, names } of groups.values()) {
         const visible = names.filter(Boolean)
         const missing = names.length - visible.length
         if (missing) visible.push(`+${missing}`)
@@ -478,7 +484,8 @@ function bannerDescription(event, isEn = false) {
         const roster = rosterKind === 'available' ? (isEn ? 'available' : '可获得')
           : rosterKind === 'selectable' ? (isEn ? 'selectable' : '可选') : (isEn ? 'rate-up' : 'UP')
         const label = isEn ? `${rarity}-${rank ? 'rank' : 'star'} ${roster}` : `${rarity}${rank ? '级' : '星'} ${roster}`
-        lines.push(`${label}: ${visible.join(' / ')}`)
+        const itemType = kind ? isEn ? ' Craft Essences' : ' 礼装' : ''
+        lines.push(`${label}${itemType}: ${visible.join(' / ')}`)
       }
     }
     appendItems(primaryItems, banner.featured_s ? 'S' : 5)

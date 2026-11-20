@@ -678,6 +678,8 @@
           "enum": ["character", "agent", "weapon", "w_engine", "light_cone", "bangboo", "standard", "collaboration", "other"]
         },
         "phase": { "type": "string" },
+        "starts_at": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}T[0-2]\\d:[0-5]\\d$" },
+        "ends_at": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}T[0-2]\\d:[0-5]\\d$" },
         "roster_kind": {
           "type": "string",
           "enum": ["rate_up", "available", "selectable"],
