@@ -568,11 +568,12 @@ function createCalendar(source, events, options = {}) {
 
     // 比分信息
     if (event.result && event.details?.['主场'] && event.details?.['客场']) {
-      const homeLabel = isEn ? 'Home' : '主场'
-      const awayLabel = isEn ? 'Away' : '客场'
+      const nbaEnglish = isEn && source.id === 'nba'
+      const home = nbaEnglish ? englishCopy(event.teams?.home?.name_en) ?? 'Home' : event.details['主场']
+      const away = nbaEnglish ? englishCopy(event.teams?.away?.name_en) ?? 'Away' : event.details['客场']
       const scoreLabel = isEn ? 'Score' : '比分'
       descParts.push(
-        `${scoreLabel}: ${event.details['主场']} ${event.result.home_score} - ${event.result.away_score} ${event.details['客场']}`
+        `${scoreLabel}: ${home} ${event.result.home_score} - ${event.result.away_score} ${away}`
       )
     }
 
