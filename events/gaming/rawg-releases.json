@@ -3296,7 +3296,7 @@
       "description": "当天发售：ReactorX 4、Ritebound、大Jhow喷气、小千草的少女生活纪录簿、虚空脉冲、铁匠大师",
       "description_en": "Releases this day: ReactorX 4, Ritebound, Big Jhow Jet, Chigusa's Diary, Void Rhythm, Blacksmith Master.",
       "type": "event",
-      "status": "active",
+      "status": "completed",
       "url": "https://www.xiaoheihe.cn/",
       "last_verified": "2026-11-20",
       "verified_by": "auto",
@@ -3410,9 +3410,9 @@
       "description": "当天发售：误血",
       "description_en": "Releases this day: Misblood.",
       "type": "event",
-      "status": "planned",
+      "status": "active",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900221366&game_type=console",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -3457,7 +3457,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "5",
@@ -3543,30 +3543,56 @@
       "year": 2026,
       "timezone": "Asia/Shanghai",
       "time_kind": "date",
-      "name": "Prizma Puzzle Classic 3 等 8 款发售",
-      "name_en": "Prizma Puzzle Classic 3 + 7 more releases",
-      "description": "当天发售：Prizma Puzzle Classic 3、Storage Hunter、Storage Hunter Simulator、Sunstone of Time、The Spotter、哥特王朝3、哥特王朝3、天坑追匪",
-      "description_en": "Releases this day: Prizma Puzzle Classic 3, Storage Hunter Simulator, Storage Hunter Simulator, Sunstone of Time, The Spotter: Dig or Die, Gothic 3 Classic, Gothic 3 Classic, Game pc:4498140.",
+      "name": "A Fold Apart: Recrafted 等 10 款发售",
+      "name_en": "A Fold Apart: Recrafted + 9 more releases",
+      "description": "当天发售：A Fold Apart: Recrafted、KARAKARA3、Prizma Puzzle Classic 3、Storage Hunter、Storage Hunter Simulator、Sunstone of Time、The Spotter、哥特王朝3、哥特王朝3、天坑追匪",
+      "description_en": "Releases this day: A Fold Apart: Recrafted, KARAKARA3, Prizma Puzzle Classic 3, Storage Hunter Simulator, Storage Hunter Simulator, Sunstone of Time, The Spotter: Dig or Die, Gothic 3 Classic, Gothic 3 Classic, Game pc:4498140.",
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
-        "游戏数量": "8",
-        "发售游戏": "Prizma Puzzle Classic 3、Storage Hunter、Storage Hunter Simulator、Sunstone of Time、The Spotter、哥特王朝3、哥特王朝3、天坑追匪",
+        "游戏数量": "10",
+        "发售游戏": "A Fold Apart: Recrafted、KARAKARA3、Prizma Puzzle Classic 3、Storage Hunter、Storage Hunter Simulator、Sunstone of Time、The Spotter、哥特王朝3、哥特王朝3、天坑追匪",
         "平台": "PC / PlayStation / Xbox",
         "数据来源": "小黑盒",
-        "来源链接": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795449600&filter_hot=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795449600&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795449600&filter_hot=hot&filter_platform=pc"
+        "来源链接": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795449600&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795449600&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795449600&filter_hot=all&filter_platform=ps4"
       },
       "details_en": {
-        "Game count": "8",
-        "Games": "Prizma Puzzle Classic 3, Storage Hunter Simulator, Storage Hunter Simulator, Sunstone of Time, The Spotter: Dig or Die, Gothic 3 Classic, Gothic 3 Classic, Game pc:4498140",
+        "Game count": "10",
+        "Games": "A Fold Apart: Recrafted, KARAKARA3, Prizma Puzzle Classic 3, Storage Hunter Simulator, Storage Hunter Simulator, Sunstone of Time, The Spotter: Dig or Die, Gothic 3 Classic, Gothic 3 Classic, Game pc:4498140",
         "Platforms": "PC / PlayStation / Xbox",
         "Data source": "Heybox",
-        "Source links": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795449600&filter_hot=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795449600&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795449600&filter_hot=hot&filter_platform=pc"
+        "Source links": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795449600&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795449600&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795449600&filter_hot=all&filter_platform=ps4"
       },
       "games": [
+        {
+          "title": "A Fold Apart: Recrafted",
+          "platforms": [
+            "Xbox"
+          ],
+          "provider": "heybox",
+          "provider_id": "console:900222211",
+          "title_en": "A Fold Apart: Recrafted",
+          "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900222211&game_type=console",
+          "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795449600&filter_hot=all&filter_platform=xbox",
+          "release_kind": "unknown"
+        },
+        {
+          "title": "KARAKARA3",
+          "platforms": [
+            "PC"
+          ],
+          "provider": "heybox",
+          "provider_id": "pc:4906740",
+          "title_en": "KARAKARA3",
+          "steam_appid": "4906740",
+          "store_url": "https://store.steampowered.com/app/4906740/",
+          "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795449600&filter_hot=hot&filter_platform=pc",
+          "release_kind": "full-release",
+          "steam_checked_at": "2026-11-21"
+        },
         {
           "title": "Prizma Puzzle Classic 3",
           "platforms": [
@@ -3682,7 +3708,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "13",
@@ -3875,7 +3901,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "80",
@@ -4910,25 +4936,25 @@
       "year": 2026,
       "timezone": "Asia/Shanghai",
       "time_kind": "date",
-      "name": "Arkheron 等 13 款发售",
-      "name_en": "Arkheron + 12 more releases",
-      "description": "当天发售：Arkheron、Arkheron、Bunker Tidy Up、Bunker Tidy Up、Idle Breaker、Luminova、Nokee 笔记、The Last Cat in the Universe、一起搬家吧！Carry On Together、喵喵工厂、拾光修复、生于午夜、虚妄爱丽丝 -岐梦重缘-",
-      "description_en": "Releases this day: Arkheron, Arkheron, Bunker Tidy Up, Bunker Tidy Up, Idle Breaker, Luminova, Nokee Notes, The Last Cat in the Universe, Carry On Together, MeowFactory, Reshine, Point Zero: Victoria, The False Alice -Retold Tale-.",
+      "name": "Arkheron 等 14 款发售",
+      "name_en": "Arkheron + 13 more releases",
+      "description": "当天发售：Arkheron、Arkheron、Bunker Tidy Up、Bunker Tidy Up、Feral Road、Idle Breaker、Luminova、Nokee 笔记、The Last Cat in the Universe、一起搬家吧！Carry On Together、喵喵工厂、拾光修复、生于午夜、虚妄爱丽丝 -岐梦重缘-",
+      "description_en": "Releases this day: Arkheron, Arkheron, Bunker Tidy Up, Bunker Tidy Up, Feral Road, Idle Breaker, Luminova, Nokee Notes, The Last Cat in the Universe, Carry On Together, MeowFactory, Reshine, Point Zero: Victoria, The False Alice -Retold Tale-.",
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
-        "游戏数量": "13",
-        "发售游戏": "Arkheron、Arkheron、Bunker Tidy Up、Bunker Tidy Up、Idle Breaker、Luminova、Nokee 笔记、The Last Cat in the Universe、一起搬家吧！Carry On Together、喵喵工厂、拾光修复、生于午夜、虚妄爱丽丝 -岐梦重缘-",
+        "游戏数量": "14",
+        "发售游戏": "Arkheron、Arkheron、Bunker Tidy Up、Bunker Tidy Up、Feral Road、Idle Breaker、Luminova、Nokee 笔记、The Last Cat in the Universe、一起搬家吧！Carry On Together、喵喵工厂、拾光修复、生于午夜、虚妄爱丽丝 -岐梦重缘-",
         "平台": "PC / PlayStation / Switch / Xbox",
         "数据来源": "小黑盒",
         "来源链接": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795708800&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795708800&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795708800&filter_hot=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795708800&filter_hot=all&filter_platform=switch"
       },
       "details_en": {
-        "Game count": "13",
-        "Games": "Arkheron, Arkheron, Bunker Tidy Up, Bunker Tidy Up, Idle Breaker, Luminova, Nokee Notes, The Last Cat in the Universe, Carry On Together, MeowFactory, Reshine, Point Zero: Victoria, The False Alice -Retold Tale-",
+        "Game count": "14",
+        "Games": "Arkheron, Arkheron, Bunker Tidy Up, Bunker Tidy Up, Feral Road, Idle Breaker, Luminova, Nokee Notes, The Last Cat in the Universe, Carry On Together, MeowFactory, Reshine, Point Zero: Victoria, The False Alice -Retold Tale-",
         "Platforms": "PC / PlayStation / Switch / Xbox",
         "Data source": "Heybox",
         "Source links": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795708800&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795708800&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795708800&filter_hot=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795708800&filter_hot=all&filter_platform=switch"
@@ -4982,6 +5008,18 @@
           "title_en": "Bunker Tidy Up",
           "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900221263&game_type=console",
           "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795708800&filter_hot=all&filter_platform=ps4",
+          "release_kind": "unknown"
+        },
+        {
+          "title": "Feral Road",
+          "platforms": [
+            "Xbox"
+          ],
+          "provider": "heybox",
+          "provider_id": "console:900222210",
+          "title_en": "Feral Road",
+          "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900222210&game_type=console",
+          "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795708800&filter_hot=all&filter_platform=xbox",
           "release_kind": "unknown"
         },
         {
@@ -5123,7 +5161,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -5183,7 +5221,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900221697&game_type=console",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -5227,7 +5265,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "5",
@@ -5326,7 +5364,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "10",
@@ -5489,7 +5527,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "14",
@@ -5691,25 +5729,25 @@
       "year": 2026,
       "timezone": "Asia/Shanghai",
       "time_kind": "date",
-      "name": "28天列车失事幸存者 等 56 款发售",
-      "name_en": "28 Days Train Wreck Survivor + 55 more releases",
-      "description": "当天发售：28天列车失事幸存者、Aery - 四季、Aeterna Lucis、Astro Chef: Cosmic Kitchen、Backrooms Splatter、Bleeding Nightmare、CitaDrill、Cross + Cross、Edge of Memories、Edge of Memories、Edge of Memories、FTW VE、HUNGER（抢先体验）、LarsGadiel、Little Lagoon、MANIC MINER、Million Depth、Mombo Combo Legacy、Pack it! Part-Time Master、Quadrillion Carrots、Santa's Christmas Story 3 North Pole Rescue、SOMBRAS: negative frames、The Dark Queen of Mortholme、Thief: The Dark Project Remastered、Winx Club - Moonlight Quest、上行战场 终极版、单词蜂、埃里克斯霍姆：被偷走的梦、大反派千金 莉莉的计略、太空机械模拟器、奥林帕斯众神：捕捉＆约会神话恋人、奥林帕斯女神：捕获＆约会神话恋人、姬君优雅推理、帕奇斯洛 优尼瓦王国2A计划、房间对战、摩斯霍姆的暗黑女王、无光绝境（抢先体验）、星之侵略者 StarVaders、杀人小丑少女：最后的演出、杀人小丑少年：他的最终演出、深岩之下、电兔拉比！、电兔拉比！、磕磕绊绊圆舞曲、磕磕绊绊圆舞曲、神偷：暗黑计划 重制版、神偷：暗黑计划 重制版 - 数字豪华版升级包、祭祀地宫、祭祀地宫、胡来！文字麻将、自由足球2、血涌不息、血涌不息、重生了还要我谈恋爱？、雷曼：传奇再叙、雷曼：起源 增强版",
-      "description_en": "Releases this day: 28 Days Train Wreck Survivor, Aery - Four Seasons, Aeterna Lucis, Astro Chef: Cosmic Kitchen, Backrooms Splatter, Bleeding Nightmare, CitaDrill, Cross + Cross, Edge of Memories, Edge of Memories, Edge of Memories, For The Warp: Void Echoes, HUNGER (Early Access), LarsGadiel, Little Lagoon, MANIC MINER, Million Depth, Mombo Combo Legacy, Pack it! Part-Time Master, Quadrillion Carrots, Santa Christmas Story 3 North Pole Rescue, SOMBRAS: negative frames, The Dark Queen of Mortholme, Thief: The Dark Project Remastered, Winx Club - Moonlight Quest, THE ASCENT ULTIMATE EDITION, Word Bee, Eriksholm: The Stolen Dream, The Great Villainess: Strategy of Lily, Space Mechanic Simulator, Gods of Olympus: Capture & Date Mythical Lovers, Goddesses of Olympus: Capture & Date Mythical Lovers, Himegimi Detective, Game console:900222135, Roombattle, The Dark Queen of Mortholme, Blind Descent (Early Access), StarVaders, Killer Clown Girl: Her Final Show, Killer Clown Boy: His Final Show, Hypogea, Fall Up, Fall Up, Waltz and Jam, Waltz and Jam, Thief: The Dark Project Remastered, Thief: The Dark Project Remastered - Digital Deluxe Upgrade, THYSIASTERY, Game console:900222153, Game pc:5135870, Game console:900213567, BloodRush: Undying Wish, Game console:900221603, Reborn, and You Still Want Me to Date?, Rayman Legends Retold, Rayman Origins: Enhanced Edition.",
+      "name": "28天列车失事幸存者 等 57 款发售",
+      "name_en": "28 Days Train Wreck Survivor + 56 more releases",
+      "description": "当天发售：28天列车失事幸存者、Aery - 四季、Aeterna Lucis、Astro Chef: Cosmic Kitchen、Backrooms Splatter、Bleeding Nightmare、CitaDrill、Cross + Cross、Edge of Memories、Edge of Memories、Edge of Memories、FTW VE、HUNGER（抢先体验）、LarsGadiel、Little Lagoon、MANIC MINER、Million Depth、Mombo Combo Legacy、Pack it! Part-Time Master、Quadrillion Carrots、Santa's Christmas Story 3 North Pole Rescue、SOMBRAS: negative frames、The Dark Queen of Mortholme、Thief: The Dark Project Remastered、Winx Club - Moonlight Quest、上行战场 终极版、单词蜂、埃里克斯霍姆：被偷走的梦、大反派千金 莉莉的计略、太空机械模拟器、奥林帕斯众神：捕捉＆约会神话恋人、奥林帕斯女神：捕获＆约会神话恋人、姬君优雅推理、帕奇斯洛 优尼瓦王国2A计划、房间对战、摩斯霍姆的暗黑女王、无光绝境（抢先体验）、星之侵略者 StarVaders、杀人小丑少女：最后的演出、杀人小丑少年：他的最终演出、深岩之下、电兔拉比！、电兔拉比！、电兔拉比！、磕磕绊绊圆舞曲、磕磕绊绊圆舞曲、神偷：暗黑计划 重制版、神偷：暗黑计划 重制版 - 数字豪华版升级包、祭祀地宫、祭祀地宫、胡来！文字麻将、自由足球2、血涌不息、血涌不息、重生了还要我谈恋爱？、雷曼：传奇再叙、雷曼：起源 增强版",
+      "description_en": "Releases this day: 28 Days Train Wreck Survivor, Aery - Four Seasons, Aeterna Lucis, Astro Chef: Cosmic Kitchen, Backrooms Splatter, Bleeding Nightmare, CitaDrill, Cross + Cross, Edge of Memories, Edge of Memories, Edge of Memories, For The Warp: Void Echoes, HUNGER (Early Access), LarsGadiel, Little Lagoon, MANIC MINER, Million Depth, Mombo Combo Legacy, Pack it! Part-Time Master, Quadrillion Carrots, Santa Christmas Story 3 North Pole Rescue, SOMBRAS: negative frames, The Dark Queen of Mortholme, Thief: The Dark Project Remastered, Winx Club - Moonlight Quest, THE ASCENT ULTIMATE EDITION, Word Bee, Eriksholm: The Stolen Dream, The Great Villainess: Strategy of Lily, Space Mechanic Simulator, Gods of Olympus: Capture & Date Mythical Lovers, Goddesses of Olympus: Capture & Date Mythical Lovers, Himegimi Detective, Game console:900222135, Roombattle, The Dark Queen of Mortholme, Blind Descent (Early Access), StarVaders, Killer Clown Girl: Her Final Show, Killer Clown Boy: His Final Show, Hypogea, Fall Up, Game console:900218994, Fall Up, Waltz and Jam, Waltz and Jam, Thief: The Dark Project Remastered, Thief: The Dark Project Remastered - Digital Deluxe Upgrade, THYSIASTERY, Game console:900222153, Game pc:5135870, Game console:900213567, BloodRush: Undying Wish, Game console:900221603, Reborn, and You Still Want Me to Date?, Rayman Legends Retold, Rayman Origins: Enhanced Edition.",
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
-        "游戏数量": "56",
-        "发售游戏": "28天列车失事幸存者、Aery - 四季、Aeterna Lucis、Astro Chef: Cosmic Kitchen、Backrooms Splatter、Bleeding Nightmare、CitaDrill、Cross + Cross、Edge of Memories、Edge of Memories、Edge of Memories、FTW VE、HUNGER（抢先体验）、LarsGadiel、Little Lagoon、MANIC MINER、Million Depth、Mombo Combo Legacy、Pack it! Part-Time Master、Quadrillion Carrots、Santa's Christmas Story 3 North Pole Rescue、SOMBRAS: negative frames、The Dark Queen of Mortholme、Thief: The Dark Project Remastered、Winx Club - Moonlight Quest、上行战场 终极版、单词蜂、埃里克斯霍姆：被偷走的梦、大反派千金 莉莉的计略、太空机械模拟器、奥林帕斯众神：捕捉＆约会神话恋人、奥林帕斯女神：捕获＆约会神话恋人、姬君优雅推理、帕奇斯洛 优尼瓦王国2A计划、房间对战、摩斯霍姆的暗黑女王、无光绝境（抢先体验）、星之侵略者 StarVaders、杀人小丑少女：最后的演出、杀人小丑少年：他的最终演出、深岩之下、电兔拉比！、电兔拉比！、磕磕绊绊圆舞曲、磕磕绊绊圆舞曲、神偷：暗黑计划 重制版、神偷：暗黑计划 重制版 - 数字豪华版升级包、祭祀地宫、祭祀地宫、胡来！文字麻将、自由足球2、血涌不息、血涌不息、重生了还要我谈恋爱？、雷曼：传奇再叙、雷曼：起源 增强版",
+        "游戏数量": "57",
+        "发售游戏": "28天列车失事幸存者、Aery - 四季、Aeterna Lucis、Astro Chef: Cosmic Kitchen、Backrooms Splatter、Bleeding Nightmare、CitaDrill、Cross + Cross、Edge of Memories、Edge of Memories、Edge of Memories、FTW VE、HUNGER（抢先体验）、LarsGadiel、Little Lagoon、MANIC MINER、Million Depth、Mombo Combo Legacy、Pack it! Part-Time Master、Quadrillion Carrots、Santa's Christmas Story 3 North Pole Rescue、SOMBRAS: negative frames、The Dark Queen of Mortholme、Thief: The Dark Project Remastered、Winx Club - Moonlight Quest、上行战场 终极版、单词蜂、埃里克斯霍姆：被偷走的梦、大反派千金 莉莉的计略、太空机械模拟器、奥林帕斯众神：捕捉＆约会神话恋人、奥林帕斯女神：捕获＆约会神话恋人、姬君优雅推理、帕奇斯洛 优尼瓦王国2A计划、房间对战、摩斯霍姆的暗黑女王、无光绝境（抢先体验）、星之侵略者 StarVaders、杀人小丑少女：最后的演出、杀人小丑少年：他的最终演出、深岩之下、电兔拉比！、电兔拉比！、电兔拉比！、磕磕绊绊圆舞曲、磕磕绊绊圆舞曲、神偷：暗黑计划 重制版、神偷：暗黑计划 重制版 - 数字豪华版升级包、祭祀地宫、祭祀地宫、胡来！文字麻将、自由足球2、血涌不息、血涌不息、重生了还要我谈恋爱？、雷曼：传奇再叙、雷曼：起源 增强版",
         "平台": "PC / PlayStation / Switch / Xbox",
         "数据来源": "小黑盒",
         "来源链接": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796227200&filter_hot=all&filter_platform=switch\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796227200&filter_hot=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796227200&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796227200&filter_hot=hot&filter_platform=pc"
       },
       "details_en": {
-        "Game count": "56",
-        "Games": "28 Days Train Wreck Survivor, Aery - Four Seasons, Aeterna Lucis, Astro Chef: Cosmic Kitchen, Backrooms Splatter, Bleeding Nightmare, CitaDrill, Cross + Cross, Edge of Memories, Edge of Memories, Edge of Memories, For The Warp: Void Echoes, HUNGER (Early Access), LarsGadiel, Little Lagoon, MANIC MINER, Million Depth, Mombo Combo Legacy, Pack it! Part-Time Master, Quadrillion Carrots, Santa Christmas Story 3 North Pole Rescue, SOMBRAS: negative frames, The Dark Queen of Mortholme, Thief: The Dark Project Remastered, Winx Club - Moonlight Quest, THE ASCENT ULTIMATE EDITION, Word Bee, Eriksholm: The Stolen Dream, The Great Villainess: Strategy of Lily, Space Mechanic Simulator, Gods of Olympus: Capture & Date Mythical Lovers, Goddesses of Olympus: Capture & Date Mythical Lovers, Himegimi Detective, Game console:900222135, Roombattle, The Dark Queen of Mortholme, Blind Descent (Early Access), StarVaders, Killer Clown Girl: Her Final Show, Killer Clown Boy: His Final Show, Hypogea, Fall Up, Fall Up, Waltz and Jam, Waltz and Jam, Thief: The Dark Project Remastered, Thief: The Dark Project Remastered - Digital Deluxe Upgrade, THYSIASTERY, Game console:900222153, Game pc:5135870, Game console:900213567, BloodRush: Undying Wish, Game console:900221603, Reborn, and You Still Want Me to Date?, Rayman Legends Retold, Rayman Origins: Enhanced Edition",
+        "Game count": "57",
+        "Games": "28 Days Train Wreck Survivor, Aery - Four Seasons, Aeterna Lucis, Astro Chef: Cosmic Kitchen, Backrooms Splatter, Bleeding Nightmare, CitaDrill, Cross + Cross, Edge of Memories, Edge of Memories, Edge of Memories, For The Warp: Void Echoes, HUNGER (Early Access), LarsGadiel, Little Lagoon, MANIC MINER, Million Depth, Mombo Combo Legacy, Pack it! Part-Time Master, Quadrillion Carrots, Santa Christmas Story 3 North Pole Rescue, SOMBRAS: negative frames, The Dark Queen of Mortholme, Thief: The Dark Project Remastered, Winx Club - Moonlight Quest, THE ASCENT ULTIMATE EDITION, Word Bee, Eriksholm: The Stolen Dream, The Great Villainess: Strategy of Lily, Space Mechanic Simulator, Gods of Olympus: Capture & Date Mythical Lovers, Goddesses of Olympus: Capture & Date Mythical Lovers, Himegimi Detective, Game console:900222135, Roombattle, The Dark Queen of Mortholme, Blind Descent (Early Access), StarVaders, Killer Clown Girl: Her Final Show, Killer Clown Boy: His Final Show, Hypogea, Fall Up, Game console:900218994, Fall Up, Waltz and Jam, Waltz and Jam, Thief: The Dark Project Remastered, Thief: The Dark Project Remastered - Digital Deluxe Upgrade, THYSIASTERY, Game console:900222153, Game pc:5135870, Game console:900213567, BloodRush: Undying Wish, Game console:900221603, Reborn, and You Still Want Me to Date?, Rayman Legends Retold, Rayman Origins: Enhanced Edition",
         "Platforms": "PC / PlayStation / Switch / Xbox",
         "Data source": "Heybox",
         "Source links": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796227200&filter_hot=all&filter_platform=switch\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796227200&filter_hot=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796227200&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796227200&filter_hot=hot&filter_platform=pc"
@@ -6246,6 +6284,18 @@
         {
           "title": "电兔拉比！",
           "platforms": [
+            "Xbox"
+          ],
+          "provider": "heybox",
+          "provider_id": "console:900218994",
+          "title_zh": "电兔拉比！",
+          "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900218994&game_type=console",
+          "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796227200&filter_hot=all&filter_platform=xbox",
+          "release_kind": "unknown"
+        },
+        {
+          "title": "电兔拉比！",
+          "platforms": [
             "PC"
           ],
           "provider": "heybox",
@@ -6444,7 +6494,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "21",
@@ -6749,7 +6799,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -6806,7 +6856,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "6",
@@ -6920,7 +6970,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "12",
@@ -7047,12 +7097,12 @@
           ],
           "provider": "heybox",
           "provider_id": "pc:4172090",
+          "title_en": "The Hundredth Floor: Extraction",
           "title_zh": "百层归途",
           "steam_appid": "4172090",
           "store_url": "https://store.steampowered.com/app/4172090/",
           "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796659200&filter_hot=hot&filter_platform=pc",
           "release_kind": "full-release",
-          "title_en": "The Hundredth Floor: Extraction",
           "steam_checked_at": "2026-11-20"
         },
         {
@@ -7114,7 +7164,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "8",
@@ -7240,25 +7290,25 @@
       "year": 2026,
       "timezone": "Asia/Shanghai",
       "time_kind": "date",
-      "name": "Airsoft Online（抢先体验） 等 25 款发售",
-      "name_en": "Airsoft Online (Early Access) + 24 more releases",
-      "description": "当天发售：Airsoft Online（抢先体验）、Rever4 OCHIRO、Stage Tour、STAGE TOUR、We are Eva、Winter Resort Simulator 3、Winter Resort Simulator 3、Wish Upon A Llama、YAMIGATARI: FOR3ST、三世奇缘、世界桌上游戏＆游玩合集60+、包裹模拟器、培乐多：创作ABC字母、忍者棒球：满垒、歌曲大师、泡泡爆破派对、海岛渔生（抢先体验）、特威格的冒险64、联合天空：飞行模拟器、薄樱鬼异闻 贝列津斯基的魔女、这有猫腻、这有猫腻、飞机机械师模拟器、飞机机械师模拟器、食魂徒：Blue Pieta",
-      "description_en": "Releases this day: Airsoft Online (Early Access), Rever4 OCHIRO, STAGE TOUR, STAGE TOUR, We are Eva, Winter Resort Simulator 3, Winter Resort Simulator 3, Wish Upon A Llama, YAMIGATARI: FOR3ST, Game console:900221189, Game console:900221188, Parcel Simulator, Play-Doh Create ABCs, Ninja Baseball League-Man: Bases Loaded, Game console:900221204, Bubble Pop Party, Tidal Life (Early Access), Twigs Adventure 64, United Skies FlightSimulator, Game console:900221848, Cat Me If You Can, Game console:900221608, Plane Mechanic Simulator, Plane Mechanic Simulator, Shikhondo: Blue Pieta.",
+      "name": "Airsoft Online（抢先体验） 等 26 款发售",
+      "name_en": "Airsoft Online (Early Access) + 25 more releases",
+      "description": "当天发售：Airsoft Online（抢先体验）、Rever4 OCHIRO、Saimin Gakuen: Intrusion Edition、Stage Tour、STAGE TOUR、We are Eva、Winter Resort Simulator 3、Winter Resort Simulator 3、Wish Upon A Llama、YAMIGATARI: FOR3ST、三世奇缘、世界桌上游戏＆游玩合集60+、包裹模拟器、培乐多：创作ABC字母、忍者棒球：满垒、歌曲大师、泡泡爆破派对、海岛渔生（抢先体验）、特威格的冒险64、联合天空：飞行模拟器、薄樱鬼异闻 贝列津斯基的魔女、这有猫腻、这有猫腻、飞机机械师模拟器、飞机机械师模拟器、食魂徒：Blue Pieta",
+      "description_en": "Releases this day: Airsoft Online (Early Access), Rever4 OCHIRO, Saimin Gakuen: Intrusion Edition, STAGE TOUR, STAGE TOUR, We are Eva, Winter Resort Simulator 3, Winter Resort Simulator 3, Wish Upon A Llama, YAMIGATARI: FOR3ST, Game console:900221189, Game console:900221188, Parcel Simulator, Play-Doh Create ABCs, Ninja Baseball League-Man: Bases Loaded, Game console:900221204, Bubble Pop Party, Tidal Life (Early Access), Twigs Adventure 64, United Skies FlightSimulator, Game console:900221848, Cat Me If You Can, Game console:900221608, Plane Mechanic Simulator, Plane Mechanic Simulator, Shikhondo: Blue Pieta.",
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
-        "游戏数量": "25",
-        "发售游戏": "Airsoft Online（抢先体验）、Rever4 OCHIRO、Stage Tour、STAGE TOUR、We are Eva、Winter Resort Simulator 3、Winter Resort Simulator 3、Wish Upon A Llama、YAMIGATARI: FOR3ST、三世奇缘、世界桌上游戏＆游玩合集60+、包裹模拟器、培乐多：创作ABC字母、忍者棒球：满垒、歌曲大师、泡泡爆破派对、海岛渔生（抢先体验）、特威格的冒险64、联合天空：飞行模拟器、薄樱鬼异闻 贝列津斯基的魔女、这有猫腻、这有猫腻、飞机机械师模拟器、飞机机械师模拟器、食魂徒：Blue Pieta",
+        "游戏数量": "26",
+        "发售游戏": "Airsoft Online（抢先体验）、Rever4 OCHIRO、Saimin Gakuen: Intrusion Edition、Stage Tour、STAGE TOUR、We are Eva、Winter Resort Simulator 3、Winter Resort Simulator 3、Wish Upon A Llama、YAMIGATARI: FOR3ST、三世奇缘、世界桌上游戏＆游玩合集60+、包裹模拟器、培乐多：创作ABC字母、忍者棒球：满垒、歌曲大师、泡泡爆破派对、海岛渔生（抢先体验）、特威格的冒险64、联合天空：飞行模拟器、薄樱鬼异闻 贝列津斯基的魔女、这有猫腻、这有猫腻、飞机机械师模拟器、飞机机械师模拟器、食魂徒：Blue Pieta",
         "平台": "PC / PlayStation / Switch / Xbox",
         "数据来源": "小黑盒",
         "来源链接": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796832000&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796832000&filter_hot=all&filter_platform=switch\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796832000&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796832000&filter_hot=all&filter_platform=ps4"
       },
       "details_en": {
-        "Game count": "25",
-        "Games": "Airsoft Online (Early Access), Rever4 OCHIRO, STAGE TOUR, STAGE TOUR, We are Eva, Winter Resort Simulator 3, Winter Resort Simulator 3, Wish Upon A Llama, YAMIGATARI: FOR3ST, Game console:900221189, Game console:900221188, Parcel Simulator, Play-Doh Create ABCs, Ninja Baseball League-Man: Bases Loaded, Game console:900221204, Bubble Pop Party, Tidal Life (Early Access), Twigs Adventure 64, United Skies FlightSimulator, Game console:900221848, Cat Me If You Can, Game console:900221608, Plane Mechanic Simulator, Plane Mechanic Simulator, Shikhondo: Blue Pieta",
+        "Game count": "26",
+        "Games": "Airsoft Online (Early Access), Rever4 OCHIRO, Saimin Gakuen: Intrusion Edition, STAGE TOUR, STAGE TOUR, We are Eva, Winter Resort Simulator 3, Winter Resort Simulator 3, Wish Upon A Llama, YAMIGATARI: FOR3ST, Game console:900221189, Game console:900221188, Parcel Simulator, Play-Doh Create ABCs, Ninja Baseball League-Man: Bases Loaded, Game console:900221204, Bubble Pop Party, Tidal Life (Early Access), Twigs Adventure 64, United Skies FlightSimulator, Game console:900221848, Cat Me If You Can, Game console:900221608, Plane Mechanic Simulator, Plane Mechanic Simulator, Shikhondo: Blue Pieta",
         "Platforms": "PC / PlayStation / Switch / Xbox",
         "Data source": "Heybox",
         "Source links": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796832000&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796832000&filter_hot=all&filter_platform=switch\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796832000&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796832000&filter_hot=all&filter_platform=ps4"
@@ -7289,6 +7339,20 @@
           "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900222116&game_type=console",
           "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796832000&filter_hot=all&filter_platform=switch",
           "release_kind": "unknown"
+        },
+        {
+          "title": "Saimin Gakuen: Intrusion Edition",
+          "platforms": [
+            "PC"
+          ],
+          "provider": "heybox",
+          "provider_id": "pc:4093040",
+          "title_en": "Saimin Gakuen: Intrusion Edition",
+          "steam_appid": "4093040",
+          "store_url": "https://store.steampowered.com/app/4093040/",
+          "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796832000&filter_hot=hot&filter_platform=pc",
+          "release_kind": "full-release",
+          "steam_checked_at": "2026-11-21"
         },
         {
           "title": "Stage Tour",
@@ -7596,7 +7660,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "15",
@@ -7823,7 +7887,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "5",
@@ -7919,7 +7983,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900221659&game_type=console",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -7963,7 +8027,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "5",
@@ -8051,28 +8115,28 @@
       "year": 2026,
       "timezone": "Asia/Shanghai",
       "time_kind": "date",
-      "name": "Dancin' Divas 等 5 款发售",
-      "name_en": "Dancin' Divas + 4 more releases",
-      "description": "当天发售：Dancin' Divas、Defilade、Haul Yeah!、You're Nuts! — 螺丝掉了一地、You're Nuts! — 螺丝掉了一地 好友通行证",
-      "description_en": "Releases this day: Dancin' Divas, Defilade, Haul Yeah!, You're Nuts!, Game console:900220965.",
+      "name": "Dancin' Divas 等 4 款发售",
+      "name_en": "Dancin' Divas + 3 more releases",
+      "description": "当天发售：Dancin' Divas、Haul Yeah!、You're Nuts! — 螺丝掉了一地、You're Nuts! — 螺丝掉了一地 好友通行证",
+      "description_en": "Releases this day: Dancin' Divas, Haul Yeah!, You're Nuts!, Game console:900220965.",
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
-        "游戏数量": "5",
-        "发售游戏": "Dancin' Divas、Defilade、Haul Yeah!、You're Nuts! — 螺丝掉了一地、You're Nuts! — 螺丝掉了一地 好友通行证",
-        "平台": "PC / Switch / Xbox",
+        "游戏数量": "4",
+        "发售游戏": "Dancin' Divas、Haul Yeah!、You're Nuts! — 螺丝掉了一地、You're Nuts! — 螺丝掉了一地 好友通行证",
+        "平台": "Switch / Xbox",
         "数据来源": "小黑盒",
-        "来源链接": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1797350400&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1797350400&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1797350400&filter_hot=all&filter_platform=switch"
+        "来源链接": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1797350400&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1797350400&filter_hot=all&filter_platform=switch"
       },
       "details_en": {
-        "Game count": "5",
-        "Games": "Dancin' Divas, Defilade, Haul Yeah!, You're Nuts!, Game console:900220965",
-        "Platforms": "PC / Switch / Xbox",
+        "Game count": "4",
+        "Games": "Dancin' Divas, Haul Yeah!, You're Nuts!, Game console:900220965",
+        "Platforms": "Switch / Xbox",
         "Data source": "Heybox",
-        "Source links": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1797350400&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1797350400&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1797350400&filter_hot=all&filter_platform=switch"
+        "Source links": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1797350400&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1797350400&filter_hot=all&filter_platform=switch"
       },
       "games": [
         {
@@ -8086,20 +8150,6 @@
           "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900221777&game_type=console",
           "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1797350400&filter_hot=all&filter_platform=xbox",
           "release_kind": "unknown"
-        },
-        {
-          "title": "Defilade",
-          "platforms": [
-            "PC"
-          ],
-          "provider": "heybox",
-          "provider_id": "pc:5246700",
-          "title_en": "Defilade",
-          "steam_appid": "5246700",
-          "store_url": "https://store.steampowered.com/app/5246700/",
-          "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1797350400&filter_hot=hot&filter_platform=pc",
-          "release_kind": "full-release",
-          "steam_checked_at": "2026-11-18"
         },
         {
           "title": "Haul Yeah!",
@@ -8153,7 +8203,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "6",
@@ -8262,7 +8312,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900221683&game_type=console",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -8306,7 +8356,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -8363,7 +8413,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900222051&game_type=console",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -8407,7 +8457,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -8464,7 +8514,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "3",
@@ -8537,7 +8587,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900216047&game_type=console",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -8581,7 +8631,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "4",
@@ -8664,7 +8714,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -8726,7 +8776,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/3725830/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -8773,7 +8823,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "3",
@@ -8843,7 +8893,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "7",
@@ -8974,7 +9024,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/5076490/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -9021,7 +9071,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "12",
@@ -9211,7 +9261,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "5",
@@ -9313,7 +9363,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -9375,7 +9425,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "3",
@@ -9450,7 +9500,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "4",
@@ -9537,7 +9587,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "11",
@@ -9707,7 +9757,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "5",
@@ -9810,7 +9860,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900218531&game_type=console",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -9854,7 +9904,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -9910,7 +9960,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "13",
@@ -10113,7 +10163,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "4",
@@ -10205,7 +10255,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900221138&game_type=console",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -10249,7 +10299,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900220041&game_type=console",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -10293,7 +10343,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "3",
@@ -10365,7 +10415,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "5",
@@ -10462,7 +10512,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "3",
@@ -10538,7 +10588,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/2849490/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -10585,7 +10635,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "6",
@@ -10695,7 +10745,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -10751,7 +10801,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/3558670/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -10798,7 +10848,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900221393&game_type=console",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -10842,7 +10892,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "3",
@@ -10911,7 +10961,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900216093&game_type=console",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -10955,7 +11005,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/2963950/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -11002,7 +11052,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/3895110/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -11048,7 +11098,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -11105,7 +11155,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -11164,7 +11214,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "4",
@@ -11249,7 +11299,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900219472&game_type=console",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -11293,7 +11343,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "8",
@@ -11430,7 +11480,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/1963680/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -11477,7 +11527,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900221243&game_type=console",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -11522,7 +11572,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "3",
@@ -11597,7 +11647,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -11656,7 +11706,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/2141130/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -11703,7 +11753,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900220976&game_type=console",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -11747,7 +11797,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -11807,7 +11857,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/3295000/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -11853,7 +11903,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/3509420/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -11899,7 +11949,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "4",
@@ -11985,7 +12035,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/3600740/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -12031,7 +12081,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/2153760/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -12078,7 +12128,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/4113000/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -12124,7 +12174,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/2376260/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -12170,7 +12220,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/2017940/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -12217,7 +12267,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/3233860/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -12264,7 +12314,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900220101&game_type=console",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -12308,7 +12358,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900219901&game_type=console",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -12352,7 +12402,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900219263&game_type=console",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -12396,7 +12446,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900221240&game_type=console",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -12441,7 +12491,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/4107780/",
-      "last_verified": "2026-11-20",
+      "last_verified": "2026-11-21",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
