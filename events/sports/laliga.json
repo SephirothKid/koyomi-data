@@ -21579,7 +21579,7 @@
       "description": "瓦伦西亚 作客 瓦列卡诺（西甲 2026-27 赛季，北京时间）",
       "description_en": "Valencia at Rayo Vallecano (La Liga 2026-27, Beijing time)",
       "url": "https://www.laliga.com/laliga-ea-sports",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-21",
       "verified_by": "auto",
       "teams": {
@@ -21599,8 +21599,15 @@
       "details": {
         "主场": "瓦列卡诺",
         "客场": "瓦伦西亚",
+        "比分": "瓦列卡诺 0 - 1 瓦伦西亚",
         "场馆": "Estadio de Vallecas",
         "城市": "Madrid"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 1,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -21615,7 +21622,7 @@
       "description": "皇家贝蒂斯 作客 塞维利亚（西甲 2026-27 赛季，北京时间）",
       "description_en": "Real Betis at Sevilla (La Liga 2026-27, Beijing time)",
       "url": "https://www.laliga.com/laliga-ea-sports",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-21",
       "verified_by": "auto",
       "teams": {
@@ -21635,8 +21642,15 @@
       "details": {
         "主场": "塞维利亚",
         "客场": "皇家贝蒂斯",
+        "比分": "塞维利亚 1 - 1 皇家贝蒂斯",
         "场馆": "Ramón Sánchez Pizjuán Stadium",
         "城市": "Sevilla"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
