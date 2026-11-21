@@ -3,13 +3,14 @@
   "sources": {
     "cpa": {
       "category": "exam",
-      "checked_at": "2026-11-20",
+      "checked_at": "2026-11-21",
       "outcome": "unchanged"
     },
     "judicial-exam": {
       "category": "exam",
       "checked_at": "2026-11-20",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: http://legalinfo.moj.gov.cn/zhpfsearch/es/getTrsNewsByParams?keyWords=2026%E5%B9%B4%E5%9B%BD%E5%AE%B6%E7%BB%9F%E4%B8%80%E6%B3%95%E5%BE%8B%E8%81%8C%E4%B8%9A%E8%B5%84%E6%A0%BC%E8%80%83%E8%AF%95&pageNum=1&pageSize=10 (fetch failed; ETIMEDOUT; ETIMEDOUT: connect ETIMEDOUT 124.238.251.150:80; ENETUNREACH: connect ENETUNREACH 240e:965:802:1040::400:80 - Local (:::0); ETIMEDOUT: connect ETIMEDOUT 116.211.128.151:80; ENETUNREACH: connect ENETUNREACH 2409:8c04:1101:3050::407:80 - Local (:::0)); fetch failed; ETIMEDOUT; ETIMEDOUT: connect ETIMEDOUT 124.238.251.150:80; ENETUNREACH: connect ENETUNREACH 240e:965:802:1040::400:80 - Local (:::0); ETIMEDOUT: connect ETIMEDOUT 116.211.128.151:80; ENETUNREACH: connect ENETUNREACH 2409:8c04:1101:3050::407:80 - Local (:::0)"
     },
     "fgo": {
       "category": "gaming",
@@ -241,7 +242,7 @@
     },
     "accounting-qualification": {
       "category": "exam",
-      "checked_at": "2026-11-20",
+      "checked_at": "2026-11-21",
       "outcome": "unchanged"
     },
     "adult-gaokao": {
@@ -301,7 +302,7 @@
     },
     "ncre": {
       "category": "exam",
-      "checked_at": "2026-11-20",
+      "checked_at": "2026-11-21",
       "outcome": "unchanged"
     },
     "nurse-qualification": {
@@ -317,7 +318,7 @@
     },
     "pets": {
       "category": "exam",
-      "checked_at": "2026-11-20",
+      "checked_at": "2026-11-21",
       "outcome": "unchanged"
     },
     "physician-qualification": {
@@ -357,28 +358,27 @@
     },
     "tax-agent": {
       "category": "exam",
-      "checked_at": "2026-11-20",
+      "checked_at": "2026-11-21",
       "outcome": "unchanged"
     },
     "civil-service-provincial": {
       "category": "exam",
-      "checked_at": "2026-11-19",
-      "outcome": "skipped",
-      "last_error": "fetch failed: https://m.gwy.com/dfgwy/ (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 222.192.186.83:443, 222.192.186.94:443, 222.192.186.93:443, 222.192.186.84:443, 222.192.186.78:443, 222.192.186.75:443, 222.192.186.76:443, 222.192.186.77:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 222.192.186.83:443, 222.192.186.94:443, 222.192.186.93:443, 222.192.186.84:443, 222.192.186.78:443, 222.192.186.75:443, 222.192.186.76:443, 222.192.186.77:443, timeout: 10000ms)"
+      "checked_at": "2026-11-21",
+      "outcome": "unchanged"
     },
     "cet": {
       "category": "exam",
-      "checked_at": "2026-11-20",
+      "checked_at": "2026-11-21",
       "outcome": "unchanged"
     },
     "civil-service-national": {
       "category": "exam",
-      "checked_at": "2026-11-20",
+      "checked_at": "2026-11-21",
       "outcome": "unchanged"
     },
     "postgraduate-exam": {
       "category": "exam",
-      "checked_at": "2026-11-20",
+      "checked_at": "2026-11-21",
       "outcome": "unchanged"
     },
     "ruankao": {
@@ -388,7 +388,7 @@
     },
     "teacher-qualification": {
       "category": "exam",
-      "checked_at": "2026-11-20",
+      "checked_at": "2026-11-21",
       "outcome": "unchanged"
     },
     "astronomical-events": {
@@ -541,27 +541,27 @@
     },
     "hkdse": {
       "category": "exam",
-      "checked_at": "2026-11-20",
+      "checked_at": "2026-11-21",
       "outcome": "unchanged"
     },
     "macao-jae": {
       "category": "exam",
-      "checked_at": "2026-11-20",
+      "checked_at": "2026-11-21",
       "outcome": "unchanged"
     },
     "sat": {
       "category": "exam",
-      "checked_at": "2026-11-20",
+      "checked_at": "2026-11-21",
       "outcome": "updated"
     },
     "tw-ast": {
       "category": "exam",
-      "checked_at": "2026-11-20",
+      "checked_at": "2026-11-21",
       "outcome": "unchanged"
     },
     "tw-gsat": {
       "category": "exam",
-      "checked_at": "2026-11-20",
+      "checked_at": "2026-11-21",
       "outcome": "unchanged"
     }
   }
