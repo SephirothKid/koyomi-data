@@ -21536,7 +21536,7 @@
       "description": "拉科鲁尼亚 作客 阿拉维斯（西甲 2026-27 赛季，北京时间）",
       "description_en": "Deportivo at Alavés (La Liga 2026-27, Beijing time)",
       "url": "https://www.laliga.com/laliga-ea-sports",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-21",
       "verified_by": "auto",
       "teams": {
@@ -21556,8 +21556,15 @@
       "details": {
         "主场": "阿拉维斯",
         "客场": "拉科鲁尼亚",
+        "比分": "阿拉维斯 3 - 1 拉科鲁尼亚",
         "场馆": "Mendizorrotza",
         "城市": "Vitoria-Gasteiz"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
