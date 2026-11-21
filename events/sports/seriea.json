@@ -21235,7 +21235,7 @@
       "description": "都灵 作客 那不勒斯（意甲 2026-27 赛季，北京时间）",
       "description_en": "Torino at Napoli (Serie A 2026-27, Beijing time)",
       "url": "https://www.legaseriea.it/en/serie-a/fixture-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-21",
       "verified_by": "auto",
       "teams": {
@@ -21255,8 +21255,15 @@
       "details": {
         "主场": "那不勒斯",
         "客场": "都灵",
+        "比分": "那不勒斯 1 - 0 都灵",
         "场馆": "Stadio Diego Armando Maradona",
         "城市": "Napoli"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
