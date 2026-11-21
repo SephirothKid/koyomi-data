@@ -15,7 +15,7 @@
     "fgo": {
       "category": "gaming",
       "checked_at": "2026-11-21",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "tw-public-holidays": {
       "category": "holidays",
@@ -408,17 +408,20 @@
     "dota2-esports": {
       "category": "gaming",
       "checked_at": "2026-11-21",
-      "outcome": "updated"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: PandaScore /dota2/matches"
     },
     "lol-international": {
       "category": "gaming",
       "checked_at": "2026-11-21",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: PandaScore /lol/leagues"
     },
     "valorant-esports": {
       "category": "gaming",
       "checked_at": "2026-11-21",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: PandaScore /valorant/leagues"
     },
     "mo-public-holidays": {
       "category": "holidays",
@@ -513,7 +516,7 @@
     "reverse1999": {
       "category": "gaming",
       "checked_at": "2026-11-21",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "worldcup-qualifiers-afc": {
       "category": "sports",

@@ -3410,7 +3410,7 @@
       "description": "当天发售：误血",
       "description_en": "Releases this day: Misblood.",
       "type": "event",
-      "status": "active",
+      "status": "completed",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900221366&game_type=console",
       "last_verified": "2026-11-21",
       "verified_by": "auto",
@@ -3457,7 +3457,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "6",
@@ -3562,7 +3562,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "9",
@@ -3708,7 +3708,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "13",
@@ -3901,7 +3901,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "81",
@@ -4956,7 +4956,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "15",
@@ -5188,7 +5188,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -5241,25 +5241,25 @@
       "year": 2026,
       "timezone": "Asia/Shanghai",
       "time_kind": "date",
-      "name": "GrimKeep 等 4 款发售",
-      "name_en": "GrimKeep + 3 more releases",
-      "description": "当天发售：GrimKeep、ORDER 13、Winx Club - Moonlight Quest、与狼同行：复刻版",
-      "description_en": "Releases this day: GrimKeep, ORDER 13, Winx Club - Moonlight Quest, The Wolf Among Us Remastered.",
+      "name": "GrimKeep 等 5 款发售",
+      "name_en": "GrimKeep + 4 more releases",
+      "description": "当天发售：GrimKeep、ORDER 13、Quiet Remains Slide Puzzle、Winx Club - Moonlight Quest、与狼同行：复刻版",
+      "description_en": "Releases this day: GrimKeep, ORDER 13, Quiet Remains Slide Puzzle, Winx Club - Moonlight Quest, The Wolf Among Us Remastered.",
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
-        "游戏数量": "4",
-        "发售游戏": "GrimKeep、ORDER 13、Winx Club - Moonlight Quest、与狼同行：复刻版",
+        "游戏数量": "5",
+        "发售游戏": "GrimKeep、ORDER 13、Quiet Remains Slide Puzzle、Winx Club - Moonlight Quest、与狼同行：复刻版",
         "平台": "PlayStation / Switch",
         "数据来源": "小黑盒",
         "来源链接": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795881600&filter_hot=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795881600&filter_hot=all&filter_platform=switch"
       },
       "details_en": {
-        "Game count": "4",
-        "Games": "GrimKeep, ORDER 13, Winx Club - Moonlight Quest, The Wolf Among Us Remastered",
+        "Game count": "5",
+        "Games": "GrimKeep, ORDER 13, Quiet Remains Slide Puzzle, Winx Club - Moonlight Quest, The Wolf Among Us Remastered",
         "Platforms": "PlayStation / Switch",
         "Data source": "Heybox",
         "Source links": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795881600&filter_hot=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795881600&filter_hot=all&filter_platform=switch"
@@ -5286,6 +5286,18 @@
           "provider_id": "console:900222237",
           "title_en": "ORDER 13",
           "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900222237&game_type=console",
+          "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795881600&filter_hot=all&filter_platform=ps4",
+          "release_kind": "unknown"
+        },
+        {
+          "title": "Quiet Remains Slide Puzzle",
+          "platforms": [
+            "PlayStation"
+          ],
+          "provider": "heybox",
+          "provider_id": "console:900222248",
+          "title_en": "Quiet Remains Slide Puzzle",
+          "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900222248&game_type=console",
           "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795881600&filter_hot=all&filter_platform=ps4",
           "release_kind": "unknown"
         },
@@ -5329,7 +5341,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "5",
@@ -5428,7 +5440,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "10",
@@ -5591,7 +5603,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "14",
@@ -5800,7 +5812,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "60",
@@ -6297,12 +6309,12 @@
           ],
           "provider": "heybox",
           "provider_id": "pc:4855890",
+          "title_en": "Idle Agency",
           "title_zh": "放置事务所",
           "steam_appid": "4855890",
           "store_url": "https://store.steampowered.com/app/4855890/",
           "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796227200&filter_hot=hot&filter_platform=pc",
           "release_kind": "full-release",
-          "title_en": "Idle Agency",
           "steam_checked_at": "2026-11-21"
         },
         {
@@ -6598,7 +6610,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "22",
@@ -6915,7 +6927,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -6972,7 +6984,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "6",
@@ -7086,7 +7098,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "12",
@@ -7280,7 +7292,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "8",
@@ -7413,7 +7425,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "26",
@@ -7776,7 +7788,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "16",
@@ -8015,7 +8027,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "5",
@@ -8111,7 +8123,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900221659&game_type=console",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -8155,7 +8167,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "5",
@@ -8250,7 +8262,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "4",
@@ -8331,7 +8343,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "6",
@@ -8440,7 +8452,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "3",
@@ -8510,7 +8522,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -8567,7 +8579,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900222228&game_type=console",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -8612,7 +8624,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900222051&game_type=console",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -8656,7 +8668,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "3",
@@ -8725,7 +8737,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "3",
@@ -8798,7 +8810,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900216047&game_type=console",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -8842,7 +8854,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "4",
@@ -8925,7 +8937,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -8987,7 +8999,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/3725830/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -9034,7 +9046,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "3",
@@ -9104,7 +9116,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "7",
@@ -9228,30 +9240,42 @@
       "year": 2027,
       "timezone": "Asia/Shanghai",
       "time_kind": "date",
-      "name": "凶案数独 发售",
-      "name_en": "Whodunit Sudoku release",
-      "description": "当天发售：凶案数独",
-      "description_en": "Releases this day: Whodunit Sudoku.",
+      "name": "Time Commando 等 2 款发售",
+      "name_en": "Time Commando + 1 more releases",
+      "description": "当天发售：Time Commando、凶案数独",
+      "description_en": "Releases this day: Time Commando, Whodunit Sudoku.",
       "type": "event",
       "status": "planned",
-      "url": "https://store.steampowered.com/app/5076490/",
-      "last_verified": "2026-11-21",
+      "url": "https://www.xiaoheihe.cn/",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
-        "游戏数量": "1",
-        "发售游戏": "凶案数独",
-        "平台": "PC",
+        "游戏数量": "2",
+        "发售游戏": "Time Commando、凶案数独",
+        "平台": "PC / PlayStation",
         "数据来源": "小黑盒",
-        "来源链接": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1799769600&filter_hot=hot&filter_platform=pc"
+        "来源链接": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1799769600&filter_hot=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1799769600&filter_hot=hot&filter_platform=pc"
       },
       "details_en": {
-        "Game count": "1",
-        "Games": "Whodunit Sudoku",
-        "Platforms": "PC",
+        "Game count": "2",
+        "Games": "Time Commando, Whodunit Sudoku",
+        "Platforms": "PC / PlayStation",
         "Data source": "Heybox",
-        "Source links": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1799769600&filter_hot=hot&filter_platform=pc"
+        "Source links": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1799769600&filter_hot=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1799769600&filter_hot=hot&filter_platform=pc"
       },
       "games": [
+        {
+          "title": "Time Commando",
+          "platforms": [
+            "PlayStation"
+          ],
+          "provider": "heybox",
+          "provider_id": "console:900222246",
+          "title_en": "Time Commando",
+          "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900222246&game_type=console",
+          "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1799769600&filter_hot=all&filter_platform=ps4",
+          "release_kind": "unknown"
+        },
         {
           "title": "凶案数独",
           "platforms": [
@@ -9282,7 +9306,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "12",
@@ -9472,7 +9496,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "6",
@@ -9553,12 +9577,12 @@
           ],
           "provider": "heybox",
           "provider_id": "pc:4803020",
+          "title_en": "Tales of Linxi: Idle Wuxia Village",
           "title_zh": "林西物语 —— 放置武侠村",
           "steam_appid": "4803020",
           "store_url": "https://store.steampowered.com/app/4803020/",
           "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1799942400&filter_hot=hot&filter_platform=pc",
           "release_kind": "full-release",
-          "title_en": "Tales of Linxi: Idle Wuxia Village",
           "steam_checked_at": "2026-11-21"
         },
         {
@@ -9589,7 +9613,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -9651,7 +9675,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "3",
@@ -9726,7 +9750,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "4",
@@ -9813,7 +9837,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "11",
@@ -9983,7 +10007,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "5",
@@ -10086,7 +10110,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900218531&game_type=console",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -10130,7 +10154,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -10186,7 +10210,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "13",
@@ -10389,7 +10413,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "4",
@@ -10481,7 +10505,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900221138&game_type=console",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -10525,7 +10549,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900220041&game_type=console",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -10569,7 +10593,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "3",
@@ -10641,7 +10665,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "5",
@@ -10738,7 +10762,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "3",
@@ -10814,7 +10838,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/2849490/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -10861,7 +10885,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "6",
@@ -10971,7 +10995,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -11027,7 +11051,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/3558670/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -11074,7 +11098,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900221393&game_type=console",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -11118,7 +11142,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "3",
@@ -11187,7 +11211,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900216093&game_type=console",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -11231,7 +11255,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/2963950/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -11278,7 +11302,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/3895110/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -11324,7 +11348,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -11381,7 +11405,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -11440,7 +11464,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "4",
@@ -11525,7 +11549,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900219472&game_type=console",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -11569,7 +11593,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "8",
@@ -11706,7 +11730,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/1963680/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -11753,7 +11777,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900221243&game_type=console",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -11798,7 +11822,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "3",
@@ -11873,7 +11897,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -11932,7 +11956,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/2141130/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -11979,7 +12003,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900220976&game_type=console",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -12023,7 +12047,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "2",
@@ -12083,7 +12107,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/3295000/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -12129,7 +12153,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/3509420/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -12175,7 +12199,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "4",
@@ -12261,7 +12285,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/3600740/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -12307,7 +12331,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/2153760/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -12354,7 +12378,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/4113000/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -12400,7 +12424,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/2376260/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -12446,7 +12470,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/2017940/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -12493,7 +12517,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/3233860/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -12540,7 +12564,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900220101&game_type=console",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -12584,7 +12608,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900219901&game_type=console",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -12628,7 +12652,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900219263&game_type=console",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -12672,7 +12696,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900221240&game_type=console",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
@@ -12717,7 +12741,7 @@
       "type": "event",
       "status": "planned",
       "url": "https://store.steampowered.com/app/4107780/",
-      "last_verified": "2026-11-21",
+      "last_verified": "2026-11-22",
       "verified_by": "auto",
       "details": {
         "游戏数量": "1",
