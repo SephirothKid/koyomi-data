@@ -305,9 +305,8 @@
     },
     "nurse-qualification": {
       "category": "exam",
-      "checked_at": "2026-11-17",
-      "outcome": "failed",
-      "last_error": "No published official exam notice found in the directory"
+      "checked_at": "2026-11-22",
+      "outcome": "unchanged"
     },
     "patent-agent": {
       "category": "exam",
@@ -362,7 +361,8 @@
     "civil-service-provincial": {
       "category": "exam",
       "checked_at": "2026-11-22",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://m.gwy.com/dfgwy/ (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 103.158.16.140:443, 103.158.16.143:443, 103.158.16.145:443, 103.158.16.146:443, 103.158.16.147:443, 103.158.16.144:443, 103.158.16.141:443, 103.158.16.142:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 103.158.16.140:443, 103.158.16.143:443, 103.158.16.145:443, 103.158.16.146:443, 103.158.16.147:443, 103.158.16.144:443, 103.158.16.141:443, 103.158.16.142:443, timeout: 10000ms)"
     },
     "cet": {
       "category": "exam",
