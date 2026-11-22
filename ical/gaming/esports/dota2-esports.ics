@@ -11,7 +11,7 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:dota2-esports-dota2-esports-2026-m1816452@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261121T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261120T190200
 DTEND;TZID=Asia/Shanghai:20261120T200200
 SUMMARY:Dota 2 国际赛事 · BLAST Slam · Group B · Team Spirit vs Tea
@@ -27,7 +27,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dota2-esports-dota2-esports-2026-m1816442@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261121T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261120T190300
 DTEND;TZID=Asia/Shanghai:20261120T200300
 SUMMARY:Dota 2 国际赛事 · BLAST Slam · Group A · Team Yandex vs Pla
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dota2-esports-dota2-esports-2026-m1816443@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261121T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261120T211600
 DTEND;TZID=Asia/Shanghai:20261120T221600
 SUMMARY:Dota 2 国际赛事 · BLAST Slam · Group A · Natus Vincere vs O
@@ -58,7 +58,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dota2-esports-dota2-esports-2026-m1816453@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261121T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261120T214300
 DTEND;TZID=Asia/Shanghai:20261120T224300
 SUMMARY:Dota 2 国际赛事 · BLAST Slam · Group B · GamerLegion vs Xtr
@@ -74,7 +74,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dota2-esports-dota2-esports-2026-m1816457@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261121T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261121T000000
 DTEND;TZID=Asia/Shanghai:20261121T010000
 SUMMARY:Dota 2 国际赛事 · BLAST Slam · Group C · PARIVISION vs LEGI
@@ -89,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dota2-esports-dota2-esports-2026-m1816458@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261121T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261121T005600
 DTEND;TZID=Asia/Shanghai:20261121T015600
 SUMMARY:Dota 2 国际赛事 · BLAST Slam · Group C · Team Liquid vs DO 
@@ -103,11 +103,26 @@ URL;VALUE=URI:https://www.dota2.com/esports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:dota2-esports-dota2-esports-2026-m1816468@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261121T190100
+DTEND;TZID=Asia/Shanghai:20261121T200100
+SUMMARY:Dota 2 国际赛事 · BLAST Slam · Group D · LGD Gaming vs 1w T
+ eam
+DESCRIPTION:BLAST Slam · Season 9 2026 · LGD Gaming vs 1w Team\n\n赛事
+ : BLAST Slam\n赛季: BLAST Slam · Season 9 2026\n阶段: Group D\n赛制
+ : BO3\n数据来源: PandaScore\n\n来源: https://www.dota2.com/esports
+CATEGORIES:Dota 2 国际赛事
+URL;VALUE=URI:https://www.dota2.com/esports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:dota2-esports-dota2-esports-2026-m1816467@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261121T000000
-DTSTART;TZID=Asia/Shanghai:20261121T190000
-DTEND;TZID=Asia/Shanghai:20261121T200000
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261121T190400
+DTEND;TZID=Asia/Shanghai:20261121T200400
 SUMMARY:Dota 2 国际赛事 · BLAST Slam · Group D · Aurora vs Astra In
  victa
 DESCRIPTION:BLAST Slam · Season 9 2026 · Aurora vs Astra Invicta\n\n赛
@@ -119,42 +134,11 @@ URL;VALUE=URI:https://www.dota2.com/esports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:dota2-esports-dota2-esports-2026-m1816468@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261121T000000
-DTSTART;TZID=Asia/Shanghai:20261121T190000
-DTEND;TZID=Asia/Shanghai:20261121T200000
-SUMMARY:Dota 2 国际赛事 · BLAST Slam · Group D · LGD Gaming vs 1w T
- eam
-DESCRIPTION:BLAST Slam · Season 9 2026 · LGD Gaming vs 1w Team\n\n赛事
- : BLAST Slam\n赛季: BLAST Slam · Season 9 2026\n阶段: Group D\n赛制
- : BO3\n数据来源: PandaScore\n\n来源: https://www.dota2.com/esports
-CATEGORIES:Dota 2 国际赛事
-URL;VALUE=URI:https://www.dota2.com/esports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:dota2-esports-dota2-esports-2026-m1816444@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261121T000000
-DTSTART;TZID=Asia/Shanghai:20261121T220000
-DTEND;TZID=Asia/Shanghai:20261121T230000
-SUMMARY:Dota 2 国际赛事 · BLAST Slam · Group A · Team Yandex vs Nat
- us Vincere
-DESCRIPTION:BLAST Slam · Season 9 2026 · Team Yandex vs Natus Vincere\n\
- n赛事: BLAST Slam\n赛季: BLAST Slam · Season 9 2026\n阶段: Group A\
- n赛制: BO3\n数据来源: PandaScore\n\n来源: https://www.dota2.com/es
- ports
-CATEGORIES:Dota 2 国际赛事
-URL;VALUE=URI:https://www.dota2.com/esports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:dota2-esports-dota2-esports-2026-m1816454@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261121T000000
-DTSTART;TZID=Asia/Shanghai:20261121T220000
-DTEND;TZID=Asia/Shanghai:20261121T230000
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261121T214700
+DTEND;TZID=Asia/Shanghai:20261121T224700
 SUMMARY:Dota 2 国际赛事 · BLAST Slam · Group B · Team Nemesis vs Ga
  merLegion
 DESCRIPTION:BLAST Slam · Season 9 2026 · Team Nemesis vs GamerLegion\n\n
@@ -166,11 +150,27 @@ URL;VALUE=URI:https://www.dota2.com/esports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:dota2-esports-dota2-esports-2026-m1816444@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261121T225200
+DTEND;TZID=Asia/Shanghai:20261121T235200
+SUMMARY:Dota 2 国际赛事 · BLAST Slam · Group A · Team Yandex vs Nat
+ us Vincere
+DESCRIPTION:BLAST Slam · Season 9 2026 · Team Yandex vs Natus Vincere\n\
+ n赛事: BLAST Slam\n赛季: BLAST Slam · Season 9 2026\n阶段: Group A\
+ n赛制: BO3\n数据来源: PandaScore\n\n来源: https://www.dota2.com/es
+ ports
+CATEGORIES:Dota 2 国际赛事
+URL;VALUE=URI:https://www.dota2.com/esports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:dota2-esports-dota2-esports-2026-m1816445@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261121T000000
-DTSTART;TZID=Asia/Shanghai:20261122T010000
-DTEND;TZID=Asia/Shanghai:20261122T020000
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261122T001500
+DTEND;TZID=Asia/Shanghai:20261122T011500
 SUMMARY:Dota 2 国际赛事 · BLAST Slam · Group A · PlayTime vs OG
 DESCRIPTION:BLAST Slam · Season 9 2026 · PlayTime vs OG\n\n赛事: BLAST
   Slam\n赛季: BLAST Slam · Season 9 2026\n阶段: Group A\n赛制: BO3\n
@@ -182,9 +182,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dota2-esports-dota2-esports-2026-m1816455@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261121T000000
-DTSTART;TZID=Asia/Shanghai:20261122T010000
-DTEND;TZID=Asia/Shanghai:20261122T020000
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261122T021000
+DTEND;TZID=Asia/Shanghai:20261122T031000
 SUMMARY:Dota 2 国际赛事 · BLAST Slam · Group B · Team Spirit vs Xtr
  eme Gaming
 DESCRIPTION:BLAST Slam · Season 9 2026 · Team Spirit vs Xtreme Gaming\n\
@@ -198,7 +198,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dota2-esports-dota2-esports-2026-m1816459@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261121T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261122T220000
 DTEND;TZID=Asia/Shanghai:20261122T230000
 SUMMARY:Dota 2 国际赛事 · BLAST Slam · Group C · PARIVISION vs Team
@@ -214,13 +214,74 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dota2-esports-dota2-esports-2026-m1816460@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261121T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261122T220000
 DTEND;TZID=Asia/Shanghai:20261122T230000
 SUMMARY:Dota 2 国际赛事 · BLAST Slam · Group C · LEGION vs DO KONCA
 DESCRIPTION:BLAST Slam · Season 9 2026 · LEGION vs DO KONCA\n\n赛事: B
  LAST Slam\n赛季: BLAST Slam · Season 9 2026\n阶段: Group C\n赛制: B
  O3\n数据来源: PandaScore\n\n来源: https://www.dota2.com/esports
+CATEGORIES:Dota 2 国际赛事
+URL;VALUE=URI:https://www.dota2.com/esports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dota2-esports-dota2-esports-2026-m1816469@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261123T010000
+DTEND;TZID=Asia/Shanghai:20261123T020000
+SUMMARY:Dota 2 国际赛事 · BLAST Slam · Group D · 1w Team vs Aurora
+DESCRIPTION:BLAST Slam · Season 9 2026 · 1w Team vs Aurora\n\n赛事: BL
+ AST Slam\n赛季: BLAST Slam · Season 9 2026\n阶段: Group D\n赛制: BO
+ 3\n数据来源: PandaScore\n\n来源: https://www.dota2.com/esports
+CATEGORIES:Dota 2 国际赛事
+URL;VALUE=URI:https://www.dota2.com/esports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dota2-esports-dota2-esports-2026-m1816470@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261123T010000
+DTEND;TZID=Asia/Shanghai:20261123T020000
+SUMMARY:Dota 2 国际赛事 · BLAST Slam · Group D · LGD Gaming vs Astr
+ a Invicta
+DESCRIPTION:BLAST Slam · Season 9 2026 · LGD Gaming vs Astra Invicta\n\n
+ 赛事: BLAST Slam\n赛季: BLAST Slam · Season 9 2026\n阶段: Group D\n
+ 赛制: BO3\n数据来源: PandaScore\n\n来源: https://www.dota2.com/esp
+ orts
+CATEGORIES:Dota 2 国际赛事
+URL;VALUE=URI:https://www.dota2.com/esports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dota2-esports-dota2-esports-2026-m1816446@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261123T220000
+DTEND;TZID=Asia/Shanghai:20261123T230000
+SUMMARY:Dota 2 国际赛事 · BLAST Slam · Group A · Natus Vincere vs O
+ G
+DESCRIPTION:BLAST Slam · Season 9 2026 · Natus Vincere vs OG\n\n赛事: 
+ BLAST Slam\n赛季: BLAST Slam · Season 9 2026\n阶段: Group A\n赛制: 
+ BO3\n数据来源: PandaScore\n\n来源: https://www.dota2.com/esports
+CATEGORIES:Dota 2 国际赛事
+URL;VALUE=URI:https://www.dota2.com/esports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dota2-esports-dota2-esports-2026-m1816456@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261123T220000
+DTEND;TZID=Asia/Shanghai:20261123T230000
+SUMMARY:Dota 2 国际赛事 · BLAST Slam · Group B · Team Nemesis vs Xt
+ reme Gaming
+DESCRIPTION:BLAST Slam · Season 9 2026 · Team Nemesis vs Xtreme Gaming\n
+ \n赛事: BLAST Slam\n赛季: BLAST Slam · Season 9 2026\n阶段: Group B
+ \n赛制: BO3\n数据来源: PandaScore\n\n来源: https://www.dota2.com/e
+ sports
 CATEGORIES:Dota 2 国际赛事
 URL;VALUE=URI:https://www.dota2.com/esports
 STATUS:CONFIRMED
