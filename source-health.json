@@ -14,7 +14,7 @@
     "fgo": {
       "category": "gaming",
       "checked_at": "2026-11-22",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "tw-public-holidays": {
       "category": "holidays",
@@ -194,7 +194,7 @@
     "kpl": {
       "category": "gaming",
       "checked_at": "2026-11-22",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "lpl": {
       "category": "gaming",
@@ -214,7 +214,7 @@
     "honkai-star-rail": {
       "category": "gaming",
       "checked_at": "2026-11-22",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "zenless-zone-zero": {
       "category": "gaming",
@@ -405,7 +405,8 @@
     "dota2-esports": {
       "category": "gaming",
       "checked_at": "2026-11-22",
-      "outcome": "updated"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: PandaScore /dota2/matches"
     },
     "lol-international": {
       "category": "gaming",
@@ -510,7 +511,7 @@
     "reverse1999": {
       "category": "gaming",
       "checked_at": "2026-11-22",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "worldcup-qualifiers-afc": {
       "category": "sports",
