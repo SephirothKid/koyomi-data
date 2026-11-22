@@ -249506,12 +249506,12 @@
                   19
                 ],
                 [
-                  14,
-                  5
+                  21,
+                  18
                 ]
               ],
-              "winner": 0,
-              "status": "active",
+              "winner": 1,
+              "status": "completed",
               "outcome": 0,
               "timing": "followed_by",
               "court": "Court 1"
@@ -249536,9 +249536,22 @@
                 ],
                 "country": "CHN"
               },
-              "games": [],
-              "winner": 0,
-              "status": "scheduled",
+              "games": [
+                [
+                  17,
+                  21
+                ],
+                [
+                  21,
+                  9
+                ],
+                [
+                  21,
+                  15
+                ]
+              ],
+              "winner": 1,
+              "status": "completed",
               "outcome": 0,
               "timing": "followed_by",
               "court": "Court 1"
@@ -249563,9 +249576,18 @@
                 ],
                 "country": "MAS"
               },
-              "games": [],
-              "winner": 0,
-              "status": "scheduled",
+              "games": [
+                [
+                  20,
+                  22
+                ],
+                [
+                  16,
+                  21
+                ]
+              ],
+              "winner": 2,
+              "status": "completed",
               "outcome": 0,
               "timing": "followed_by",
               "court": "Court 1"
@@ -254625,12 +254647,12 @@
                     19
                   ],
                   [
-                    14,
-                    5
+                    21,
+                    18
                   ]
                 ],
-                "winner": 0,
-                "status": "active",
+                "winner": 1,
+                "status": "completed",
                 "outcome": 0,
                 "timing": "followed_by",
                 "court": "Court 1"
@@ -256218,9 +256240,18 @@
                   ],
                   "country": "MAS"
                 },
-                "games": [],
-                "winner": 0,
-                "status": "scheduled",
+                "games": [
+                  [
+                    20,
+                    22
+                  ],
+                  [
+                    16,
+                    21
+                  ]
+                ],
+                "winner": 2,
+                "status": "completed",
                 "outcome": 0,
                 "timing": "followed_by",
                 "court": "Court 1"
@@ -257791,9 +257822,22 @@
                   ],
                   "country": "CHN"
                 },
-                "games": [],
-                "winner": 0,
-                "status": "scheduled",
+                "games": [
+                  [
+                    17,
+                    21
+                  ],
+                  [
+                    21,
+                    9
+                  ],
+                  [
+                    21,
+                    15
+                  ]
+                ],
+                "winner": 1,
+                "status": "completed",
                 "outcome": 0,
                 "timing": "followed_by",
                 "court": "Court 1"
