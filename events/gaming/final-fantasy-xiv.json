@@ -4,8 +4,8 @@
   "category": "gaming",
   "name_en": "Final Fantasy XIV Event Calendar",
   "subcategory": "游戏更新",
-  "description": "最终幻想14国服版本维护、季节与联动活动。",
-  "description_en": "Final Fantasy XIV CN-server maintenance, seasonal events, and collaborations.",
+  "description": "最终幻想14国服限时玩法与奖励截止、版本上线和停服维护。",
+  "description_en": "Final Fantasy XIV CN-server limited-time gameplay, reward deadlines, patch launches, and maintenance.",
   "icon": "/logos/games/final-fantasy-xiv.png",
   "tags": [
     "FF14",
@@ -21,44 +21,6 @@
   "source_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newslist",
   "events": [
     {
-      "id": "final-fantasy-xiv-2026-392085-7830e776dba9",
-      "name": "开始涂鸦！最终幻想14 × 拍立方联动开启！",
-      "name_en": "Final Fantasy XIV FFXIV × Pailifang Collaboration · 2026-08-18",
-      "date": "2026-08-18",
-      "end_date": "2026-12-31",
-      "timezone": "Asia/Shanghai",
-      "time_kind": "date_range",
-      "type": "range",
-      "year": 2026,
-      "description": "开始涂鸦！最终幻想14 × 拍立方联动开启！",
-      "description_en": "Final Fantasy XIV FFXIV × Pailifang Collaboration · 2026-08-18",
-      "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392085",
-      "status": "active",
-      "last_verified": "2026-11-19",
-      "verified_by": "official",
-      "details": {
-        "official_time": "2026年8月18日至2026年12月31日",
-        "official_notice": "开始涂鸦！最终幻想14 × 拍立方联动开启！",
-        "publication_date": "2026-08-17",
-        "start_time": "官方未注明开始时刻"
-      },
-      "details_en": {
-        "official_time": "2026-08-18 – 2026-12-31",
-        "English name status": "descriptive translation; CN-server dates retained",
-        "publication_date": "2026-08-17",
-        "start_time": "Start time not specified"
-      },
-      "game": {
-        "game_id": "final-fantasy-xiv",
-        "provider": "sdo",
-        "source_kind": "activity",
-        "source_content_id": "392085",
-        "source_title": "开始涂鸦！最终幻想14 × 拍立方联动开启！",
-        "source_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392085",
-        "activity_name": "开始涂鸦！最终幻想14 × 拍立方联动开启！"
-      }
-    },
-    {
       "id": "final-fantasy-xiv-2026-392101-469925b83f7d",
       "name": "8/26~8/27全区全服维护公告（开始）",
       "name_en": "Final Fantasy XIV Maintenance Update · 2026-08-26 · Starts",
@@ -72,7 +34,7 @@
       "description_en": "Final Fantasy XIV Maintenance Update · 2026-08-26 · Starts",
       "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392517",
       "status": "completed",
-      "last_verified": "2026-11-19",
+      "last_verified": "2026-11-20",
       "verified_by": "official",
       "details": {
         "official_time": "2026-08-26 17:00开始（原定结束时刻已撤回）",
@@ -115,7 +77,7 @@
       "description_en": "Final Fantasy XIV Seasonal Event: The Rising and a Musical Trail · 2026-08-27",
       "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392305",
       "status": "completed",
-      "last_verified": "2026-11-19",
+      "last_verified": "2026-11-20",
       "verified_by": "official",
       "details": {
         "official_time": "2026年8月27日15:00~2026年9月10日22:59",
@@ -156,7 +118,7 @@
       "description_en": "Final Fantasy XIV PvP Series 11 · 2026-09-08 · Ends",
       "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392445",
       "status": "completed",
-      "last_verified": "2026-11-19",
+      "last_verified": "2026-11-20",
       "verified_by": "official",
       "details": {
         "official_time": "举办时间将持续至 9月8日7.56版本维护前",
@@ -198,7 +160,7 @@
       "description_en": "Final Fantasy XIV Maintenance Update · 2026-09-08",
       "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392752",
       "status": "completed",
-      "last_verified": "2026-11-19",
+      "last_verified": "2026-11-20",
       "verified_by": "official",
       "details": {
         "official_time": "2026年9月8日14:00-18:00",
@@ -214,6 +176,7 @@
         "game_id": "final-fantasy-xiv",
         "provider": "sdo",
         "source_kind": "maintenance",
+        "version": "7.56",
         "source_content_id": "392752",
         "source_title": "《最终幻想14》9月8日全区全服更新维护公告",
         "source_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392752",
@@ -222,8 +185,8 @@
     },
     {
       "id": "final-fantasy-xiv-2026-392697-8cefab9c8145",
-      "name": "莫古莫古★大收集 ~天文的行路 第1阶段~",
-      "name_en": "Final Fantasy XIV Moogle Treasure Trove: Astronomical Journey, Part 1 · 2026-09-09",
+      "name": "莫古莫古大收集 · 天文的行路 第 1 阶段",
+      "name_en": "Moogle Treasure Trove · Astronomy, Part 1",
       "date": "2026-09-09",
       "end_date": "2026-10-19",
       "time": "16:00",
@@ -232,16 +195,17 @@
       "time_kind": "datetime_range",
       "type": "range",
       "year": 2026,
-      "description": "莫古莫古★大收集 ~天文的行路 第1阶段~",
-      "description_en": "Final Fantasy XIV Moogle Treasure Trove: Astronomical Journey, Part 1 · 2026-09-09",
-      "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392697",
+      "description": "呜噜怪角笛需要 100 个稀少神典石和 10 张交换票据。已完成的挑战须在 8.05 版本前从指南书领取奖励，旅行莫古力兑换开放至 8.1 版本更新前。",
+      "description_en": "The mount horn requires 100 irregular tomestones and 10 vouchers. Claim completed challenge rewards from the Mogpendium before 8.05 and redeem items with the Itinerant Moogle before 8.1.",
+      "url": "https://actff1.web.sdo.com/project/20260826mogmog/0by196dc8ija/index.html",
       "status": "completed",
-      "last_verified": "2026-11-19",
+      "last_verified": "2026-11-20",
       "verified_by": "official",
       "details": {
         "official_time": "2026年9月9日16:00~2026年10月19日22:59",
         "official_notice": "莫古莫古★大收集 ~天文的行路 第1阶段~ 限时开启！",
-        "publication_date": "2026-09-02"
+        "publication_date": "2026-09-02",
+        "ffxiv_exchange_before": "8.1"
       },
       "details_en": {
         "official_time": "2026-09-09 16:00 – 2026-10-19 22:59",
@@ -254,7 +218,7 @@
         "source_kind": "activity",
         "source_content_id": "392697",
         "source_title": "莫古莫古★大收集 ~天文的行路 第1阶段~ 限时开启！",
-        "source_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392697",
+        "source_url": "https://actff1.web.sdo.com/project/20260826mogmog/0by196dc8ija/index.html",
         "activity_name": "莫古莫古★大收集 ~天文的行路 第1阶段~"
       }
     },
@@ -274,7 +238,7 @@
       "description_en": "Final Fantasy XIV Temporary Maintenance · 2026-09-09",
       "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392888",
       "status": "completed",
-      "last_verified": "2026-11-19",
+      "last_verified": "2026-11-20",
       "verified_by": "official",
       "details": {
         "official_time": "2026年9月9日14:00-18:00",
@@ -312,7 +276,7 @@
       "description_en": "Final Fantasy XIV Temporary Maintenance · 2026-09-17",
       "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/393156",
       "status": "completed",
-      "last_verified": "2026-11-19",
+      "last_verified": "2026-11-20",
       "verified_by": "official",
       "details": {
         "official_time": "2026年9月17日14:00-18:00",
@@ -336,8 +300,8 @@
     },
     {
       "id": "final-fantasy-xiv-2026-393210-36e6cbc50d30",
-      "name": "x 《最终幻想15》联动再启！",
-      "name_en": "Final Fantasy XIV FFXIV × FFXV Collaboration · 2026-09-24",
+      "name": "FF15 联动 · 献给英雄的夜曲",
+      "name_en": "FFXV crossover · A Nocturne for Heroes",
       "date": "2026-09-24",
       "end_date": "2026-10-13",
       "time": "16:00",
@@ -346,11 +310,11 @@
       "time_kind": "datetime_range",
       "type": "range",
       "year": 2026,
-      "description": "x 《最终幻想15》联动再启！",
-      "description_en": "Final Fantasy XIV FFXIV × FFXV Collaboration · 2026-09-24",
-      "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/393210",
+      "description": "和诺克提斯并肩作战，解锁四人坐骑雷迦利亚 G 型等奖励。季节活动再现可重玩任务，其本身不发放奖励。",
+      "description_en": "Join Noctis to unlock rewards including the four-seat Regalia Type-G mount. Seasonal Event Replay lets you replay the quests without granting rewards.",
+      "url": "https://actff1.web.sdo.com/project/20260915ffxv/index.html",
       "status": "completed",
-      "last_verified": "2026-11-19",
+      "last_verified": "2026-11-20",
       "verified_by": "official",
       "details": {
         "official_time": "2026年9月24日16:00~2026年10月13日22:59",
@@ -368,14 +332,14 @@
         "source_kind": "activity",
         "source_content_id": "393210",
         "source_title": "《最终幻想14》x 《最终幻想15》联动再启！",
-        "source_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/393210",
+        "source_url": "https://actff1.web.sdo.com/project/20260915ffxv/index.html",
         "activity_name": "x 《最终幻想15》联动再启！"
       }
     },
     {
       "id": "final-fantasy-xiv-2026-393660-d9244b88b837",
-      "name": "FF14 x 「糖豆人」联动复刻",
-      "name_en": "Final Fantasy XIV FFXIV × Fall Guys Collaboration Rerun · 2026-10-07",
+      "name": "糖豆人联动复刻",
+      "name_en": "Fall Guys crossover rerun",
       "date": "2026-10-07",
       "end_date": "2026-10-27",
       "time": "16:00",
@@ -384,11 +348,11 @@
       "time_kind": "datetime_range",
       "type": "range",
       "year": 2026,
-      "description": "FF14 x 「糖豆人」联动复刻",
-      "description_en": "Final Fantasy XIV FFXIV × Fall Guys Collaboration Rerun · 2026-10-07",
-      "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/393660",
+      "description": "去巨豆中心赢取金碟声誉，可兑换糖豆犀牛坐骑、服装和宠物。任意职业 15 级并完成「前往游乐场」即可接任务，已完成联动任务的玩家可直接参加。",
+      "description_en": "Earn MGF in Blunderville for the rhino mount, outfits, and minions. Reach level 15 and complete It Could Happen to You to pick up the quest. Returning players can skip the quest if they have already completed it.",
+      "url": "https://actff1.web.sdo.com/project/20260928ff14fallguys/4kkmxknj3rno/index.html",
       "status": "completed",
-      "last_verified": "2026-11-19",
+      "last_verified": "2026-11-20",
       "verified_by": "official",
       "details": {
         "official_time": "2026年10月7日16:00~2026年10月27日22:59",
@@ -406,7 +370,7 @@
         "source_kind": "activity",
         "source_content_id": "393660",
         "source_title": "FF14 x 「糖豆人」联动复刻限时开启！",
-        "source_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/393660",
+        "source_url": "https://actff1.web.sdo.com/project/20260928ff14fallguys/4kkmxknj3rno/index.html",
         "activity_name": "FF14 x 「糖豆人」联动复刻"
       }
     },
@@ -426,7 +390,7 @@
       "description_en": "Final Fantasy XIV Maintenance Update · 2026-10-13",
       "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/393993",
       "status": "completed",
-      "last_verified": "2026-11-19",
+      "last_verified": "2026-11-20",
       "verified_by": "official",
       "details": {
         "official_time": "2026年10月13日14:00-18:00",
@@ -442,6 +406,7 @@
         "game_id": "final-fantasy-xiv",
         "provider": "sdo",
         "source_kind": "maintenance",
+        "version": "7.57",
         "source_content_id": "393993",
         "source_title": "《最终幻想14》10月13日全区全服更新维护公告",
         "source_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/393993",
@@ -450,8 +415,8 @@
     },
     {
       "id": "final-fantasy-xiv-2026-393960-b2c9ca08cd2f",
-      "name": "【季节活动】守护天节与奇妙的捉迷藏",
-      "name_en": "Final Fantasy XIV Seasonal Event: Festive Hide-and-Seek · 2026-10-15",
+      "name": "守护天节 · 奇妙的捉迷藏",
+      "name_en": "All Saints’ Wake · Festive Hide-and-Seek",
       "date": "2026-10-15",
       "end_date": "2026-11-02",
       "time": "16:00",
@@ -460,11 +425,11 @@
       "time_kind": "datetime_range",
       "type": "range",
       "year": 2026,
-      "description": "【季节活动】守护天节与奇妙的捉迷藏",
-      "description_en": "Final Fantasy XIV Seasonal Event: Festive Hide-and-Seek · 2026-10-15",
-      "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/393960",
+      "description": "15 级可在米·凯特露天剧场找南瓜头女人接任务，完成后获取防具和家具。任务须在活动期内完成。",
+      "description_en": "At level 15, speak to the Pumpkin-headed Woman at Mih Khetto’s Amphitheatre. Finish the quest during the event to earn gear and furnishings.",
+      "url": "https://actff1.web.sdo.com/project/20261005All_Saints_Wake/hjwff6jkcti4/index.html",
       "status": "completed",
-      "last_verified": "2026-11-19",
+      "last_verified": "2026-11-20",
       "verified_by": "official",
       "details": {
         "official_time": "2026年10月15日16:00~2026年11月2日22:59",
@@ -482,36 +447,38 @@
         "source_kind": "activity",
         "source_content_id": "393960",
         "source_title": "【季节活动】守护天节与奇妙的捉迷藏",
-        "source_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/393960",
+        "source_url": "https://actff1.web.sdo.com/project/20261005All_Saints_Wake/hjwff6jkcti4/index.html",
         "activity_name": "【季节活动】守护天节与奇妙的捉迷藏"
       }
     },
     {
       "id": "final-fantasy-xiv-2026-394486-f32b4ad03b7f",
-      "name": "金碟游乐场“魔光键影”（开始）",
-      "name_en": "Final Fantasy XIV Gold Saucer Typing Game · 2026-10-28 · Starts",
+      "name": "FF7 重制版联动 · 魔光键影",
+      "name_en": "FFVII Remake crossover · Keybound Brawler",
       "date": "2026-10-28",
       "time": "16:00",
       "timezone": "Asia/Shanghai",
       "time_kind": "datetime",
       "type": "event",
       "year": 2026,
-      "description": "金碟游乐场“魔光键影”（开始）",
-      "description_en": "Final Fantasy XIV Gold Saucer Typing Game · 2026-10-28 · Starts",
-      "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/394486",
+      "description": "打字挑战可换守卫机蝎坐骑（430 金碟点）、雪崩时装和迷你巴雷特。任意职业 15 级并完成「前往游乐场」即可接活动任务，须使用实体键盘。金碟点只能在活动期间获取和兑换。",
+      "description_en": "Play the typing challenge to earn points for the Guard Scorpion mount (430 points), Avalanche outfits, and the Barret minion. Reach level 15 and complete It Could Happen to You. A physical keyboard is required. Earn and spend event points before the crossover closes.",
+      "url": "https://actff1.web.sdo.com/project/20261014keybound_brawler/o48khqshmn6e/index.html",
       "status": "completed",
-      "last_verified": "2026-11-19",
+      "last_verified": "2026-11-20",
       "verified_by": "official",
       "details": {
         "official_time": "活动时间:2026年10月28日16:00~8.0版本更新维护前",
         "official_notice": "金碟游乐场“魔光键影”正式登场！",
         "publication_date": "2026-10-28",
-        "end_note": "8.0版本更新维护前，具体日期未公布"
+        "end_note": "8.0 版本维护前",
+        "end_before_version": "8.0",
+        "ffxiv_closed_by": "2027-02-23"
       },
       "details_en": {
         "official_time": "2026-10-28 16:00",
         "English name status": "descriptive translation; CN-server dates retained",
-        "end_note": "Before Version 8.0 maintenance; exact end date not announced.",
+        "end_note": "Before Version 8.0 maintenance",
         "publication_date": "2026-10-28"
       },
       "game": {
@@ -520,7 +487,7 @@
         "source_kind": "activity",
         "source_content_id": "394486",
         "source_title": "金碟游乐场“魔光键影”正式登场！",
-        "source_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/394486",
+        "source_url": "https://actff1.web.sdo.com/project/20261014keybound_brawler/o48khqshmn6e/index.html",
         "activity_name": "金碟游乐场“魔光键影”正式登场！"
       }
     },
@@ -538,7 +505,7 @@
       "description_en": "Final Fantasy XIV Crystalline Conflict Season 21 · 2026-11-10 · Chocobo Data Center (CN) · Ends",
       "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/394876",
       "status": "completed",
-      "last_verified": "2026-11-19",
+      "last_verified": "2026-11-20",
       "verified_by": "official",
       "details": {
         "official_time": "结束时间为11月10日的7.58版本更新维护前",
@@ -582,7 +549,7 @@
       "description_en": "Final Fantasy XIV Maintenance Update · 2026-11-10",
       "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/395256",
       "status": "completed",
-      "last_verified": "2026-11-19",
+      "last_verified": "2026-11-20",
       "verified_by": "official",
       "details": {
         "official_time": "2026年11月10日10:00-18:00",
@@ -598,6 +565,7 @@
         "game_id": "final-fantasy-xiv",
         "provider": "sdo",
         "source_kind": "maintenance",
+        "version": "7.58",
         "source_content_id": "395256",
         "source_title": "《最终幻想14》11月10日全区全服更新维护公告",
         "source_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/395256",
@@ -606,8 +574,8 @@
     },
     {
       "id": "final-fantasy-xiv-2026-395456-28d7236deded",
-      "name": "x《FF16》联动复刻",
-      "name_en": "Final Fantasy XIV FFXIV × FFXVI Collaboration Rerun · 2026-11-18",
+      "name": "FF16 联动 · 纵使前路狱火焰毒",
+      "name_en": "FFXVI crossover · The Path Infernal",
       "date": "2026-11-18",
       "end_date": "2026-12-09",
       "time": "16:00",
@@ -616,11 +584,11 @@
       "time_kind": "datetime_range",
       "type": "range",
       "year": 2026,
-      "description": "x《FF16》联动复刻",
-      "description_en": "Final Fantasy XIV FFXIV × FFXVI Collaboration Rerun · 2026-11-18",
-      "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/395456",
+      "description": "完成联动任务可获得托加尔坐骑、小托加尔宠物和美堤亚套装。任意特职 50 级并完成主线「超越幻想，究极神兵」，到乌尔达哈现世回廊找新人冒险者接任务。已完成的玩家可重玩，重玩不重复发奖。",
+      "description_en": "Finish the quests for the Torgal mount, Torgal Pup minion, and Metian Attire. Reach level 50 and finish The Ultimate Weapon, then speak to the Neophyte Adventurer in Ul’dah’s Steps of Nald. Seasonal Event Replay grants no repeat rewards.",
+      "url": "https://actff1.web.sdo.com/project/20261029ffxvi/uvjx9y9g2k2p/index.html",
       "status": "active",
-      "last_verified": "2026-11-19",
+      "last_verified": "2026-11-20",
       "verified_by": "official",
       "details": {
         "official_time": "2026年11月18日16:00~2026年12月9日22:59",
@@ -638,7 +606,7 @@
         "source_kind": "activity",
         "source_content_id": "395456",
         "source_title": "《FF14》x《FF16》联动复刻限时开启！",
-        "source_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/395456",
+        "source_url": "https://actff1.web.sdo.com/project/20261029ffxvi/uvjx9y9g2k2p/index.html",
         "activity_name": "x《FF16》联动复刻"
       }
     },
@@ -657,8 +625,8 @@
       "description": "11月19日全区全服临时维护公告",
       "description_en": "Final Fantasy XIV Temporary Maintenance · 2026-11-19",
       "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/395666",
-      "status": "active",
-      "last_verified": "2026-11-19",
+      "status": "completed",
+      "last_verified": "2026-11-20",
       "verified_by": "official",
       "details": {
         "official_time": "2026年11月19日8:00-12:00",
@@ -679,7 +647,85 @@
         "source_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/395666",
         "activity_name": "11月19日全区全服临时维护公告"
       }
+    },
+    {
+      "id": "final-fantasy-xiv-2027-395039-396d8e9f8969",
+      "name": "8.0「银海之天舟」抢先体验",
+      "name_en": "8.0 Evercold · Early Access",
+      "date": "2027-02-19",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2027,
+      "description": "须拥有国服抢先体验资格。开放时刻待公布。",
+      "description_en": "CN early access entitlement required. Opening time has not been announced.",
+      "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/395039",
+      "status": "planned",
+      "last_verified": "2026-11-20",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2027年2月19日",
+        "official_notice": "8.0版本「银海之天舟」专题站新情报公开",
+        "publication_date": "2026-10-31",
+        "release_kind": "early_access",
+        "start_time": "官方未注明开始时刻"
+      },
+      "details_en": {
+        "official_time": "2027-02-19",
+        "English name status": "descriptive translation; CN-server dates retained",
+        "publication_date": "2026-10-31",
+        "start_time": "Start time not specified"
+      },
+      "game": {
+        "game_id": "final-fantasy-xiv",
+        "provider": "sdo",
+        "source_kind": "version",
+        "version": "8.0",
+        "source_content_id": "395039",
+        "source_title": "8.0版本「银海之天舟」专题站新情报公开",
+        "source_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/395039",
+        "activity_name": "8.0「银海之天舟」抢先体验"
+      }
+    },
+    {
+      "id": "final-fantasy-xiv-2027-395039-7eb42bebd4a9",
+      "name": "8.0「银海之天舟」正式上线",
+      "name_en": "8.0 Evercold · Release",
+      "date": "2027-02-23",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2027,
+      "description": "8.0「银海之天舟」正式上线",
+      "description_en": "8.0 Evercold · Release",
+      "url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/395039",
+      "status": "confirmed",
+      "last_verified": "2026-11-20",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2027年2月23日",
+        "official_notice": "8.0版本「银海之天舟」专题站新情报公开",
+        "publication_date": "2026-10-31",
+        "release_kind": "release",
+        "start_time": "官方未注明开始时刻"
+      },
+      "details_en": {
+        "official_time": "2027-02-23",
+        "English name status": "descriptive translation; CN-server dates retained",
+        "publication_date": "2026-10-31",
+        "start_time": "Start time not specified"
+      },
+      "game": {
+        "game_id": "final-fantasy-xiv",
+        "provider": "sdo",
+        "source_kind": "version",
+        "version": "8.0",
+        "source_content_id": "395039",
+        "source_title": "8.0版本「银海之天舟」专题站新情报公开",
+        "source_url": "https://ff.web.sdo.com/web8/index.html#/newstab/newscont/395039",
+        "activity_name": "8.0「银海之天舟」正式上线"
+      }
     }
   ],
-  "last_updated": "2026-11-19"
+  "last_updated": "2026-11-20"
 }

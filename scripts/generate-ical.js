@@ -462,15 +462,21 @@ function bannerDescription(event, isEn = false) {
     const type = event.game?.game_id === 'arknights' ? (isEn ? 'Operator' : '干员')
       : event.game?.game_id === 'love-and-deepspace' ? (isEn ? 'Memory' : '思念') : bannerTypeLabel(banner.type, isEn)
     const lines = [`${index + 1}. ${bannerName}${isEn ? ' (' : '（'}${type}${isEn ? ')' : '）'}`]
+    if (banner.starts_at && banner.ends_at) {
+      lines.push(`${banner.starts_at.replace('T', ' ')} – ${banner.ends_at.replace('T', ' ')} (${isEn ? 'Beijing Time' : '北京时间'})`)
+    }
     const appendItems = (items, fallback, rosterKind = banner.roster_kind) => {
       const groups = new Map()
       for (const item of items) {
         const name = bannerItemLabel(item, isEn)
         let rarity = item.rarity ?? fallback
         if (event.game?.game_id === 'zenless-zone-zero') rarity = Number(rarity) === 5 || rarity === 'S' ? 'S' : 'A'
-        groups.set(rarity, [...(groups.get(rarity) ?? []), name])
+        const kind = event.game?.game_id === 'fgo' && item.kind === 'other' ? 'essence' : ''
+        const key = `${rarity}:${kind}`
+        if (!groups.has(key)) groups.set(key, { rarity, kind, names: [] })
+        groups.get(key).names.push(name)
       }
-      for (const [rarity, names] of groups) {
+      for (const { rarity, kind, names } of groups.values()) {
         const visible = names.filter(Boolean)
         const missing = names.length - visible.length
         if (missing) visible.push(`+${missing}`)
@@ -478,7 +484,8 @@ function bannerDescription(event, isEn = false) {
         const roster = rosterKind === 'available' ? (isEn ? 'available' : '可获得')
           : rosterKind === 'selectable' ? (isEn ? 'selectable' : '可选') : (isEn ? 'rate-up' : 'UP')
         const label = isEn ? `${rarity}-${rank ? 'rank' : 'star'} ${roster}` : `${rarity}${rank ? '级' : '星'} ${roster}`
-        lines.push(`${label}: ${visible.join(' / ')}`)
+        const itemType = kind ? isEn ? ' Craft Essences' : ' 礼装' : ''
+        lines.push(`${label}${itemType}: ${visible.join(' / ')}`)
       }
     }
     appendItems(primaryItems, banner.featured_s ? 'S' : 5)
@@ -489,6 +496,15 @@ function bannerDescription(event, isEn = false) {
 
 function gameMetaDescription(event, isEn = false) {
   if (!event.game) return ''
+
+  if (event.game.game_id === 'final-fantasy-xiv') {
+    const details = isEn ? event.details_en : event.details
+    return [
+      details?.end_note,
+      details?.scheduled_start_time && (isEn ? `Announced opening: ${details.scheduled_start_time}` : `预计开放：${details.scheduled_start_time}，以维护后的实际开放为准`),
+      details?.anchor_url,
+    ].filter(Boolean).join('\n')
+  }
 
   const labels = isEn
     ? { version: 'Version', phase: 'Phase', sourceKind: 'Type', source: event.verified_by === 'official' ? 'Official source' : 'Source' }
@@ -534,6 +550,8 @@ function createCalendar(source, events, options = {}) {
     const deadlineOnly = !event.time && Boolean(event.end_time ?? event.endTime)
       && ['版本更新后', '官方未注明开始时刻'].includes(event.details?.start_time)
       && ['banner', 'activity'].includes(event.game?.source_kind)
+    const ffxivDeadline = source.id === 'final-fantasy-xiv' && event.game?.source_kind === 'activity'
+      && Boolean(event.end_time ?? event.endTime)
     const hasTime = isTimedEvent(event)
 
     const start = wallClockDateTime(event.date, event.time)
@@ -564,7 +582,8 @@ function createCalendar(source, events, options = {}) {
       : `${options.calendarName ?? sourceName(source, isEn)} · ${shortEventName}`
 
     // 构建描述内容
-    const descParts = [eventDescription(event, isEn)]
+    const description = eventDescription(event, isEn)
+    const descParts = source.id === 'final-fantasy-xiv' && description === rawEventName ? [] : [description]
 
     // 比分信息
     if (event.result && event.details?.['主场'] && event.details?.['客场']) {
@@ -604,7 +623,7 @@ function createCalendar(source, events, options = {}) {
     }
 
     // 详情键值对
-    if (event.details) {
+    if (event.details && source.id !== 'final-fantasy-xiv') {
       const detailsForLocale = isEn ? (event.details_en ?? event.details) : event.details
       descParts.push(
         Object.entries(detailsForLocale).filter(([key, value]) => !key.startsWith('bwf_') && !key.startsWith('snooker_') && (!isEn || (englishCopy(key) && englishCopy(String(value))))).map(([k, v]) => `${k}: ${v}`).join('\n')
@@ -628,13 +647,13 @@ function createCalendar(source, events, options = {}) {
       categories: [{ name: options.calendarName ?? sourceName(source, isEn) }],
     }
     cal.createEvent(calendarEvent)
-    if (deadlineOnly) {
+    if (deadlineOnly || ffxivDeadline) {
       const deadline = wallClockDateTime(endDateStr, endTimeStr)
       cal.createEvent({
         ...calendarEvent,
         id: calendarEvent.id.replace('@koyomi.cast', '-deadline@koyomi.cast'),
         start: deadline,
-        end: deadline.addMinutes(1),
+        end: ffxivDeadline ? null : deadline.addMinutes(1),
         allDay: false,
         timezone: tz !== 'UTC' ? tz : null,
         summary: `${summary}${isEn ? ' — Ends' : ' 截止'}`,

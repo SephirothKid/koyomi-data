@@ -4,105 +4,107 @@ PRODID:-//Koyomi Cast//final-fantasy-xiv//EN
 URL:https://koyomi.cast/sources/final-fantasy-xiv
 NAME:最终幻想14活动日历
 X-WR-CALNAME:最终幻想14活动日历
-X-WR-CALDESC:最终幻想14国服版本维护、季节与联动活动。
+X-WR-CALDESC:最终幻想14国服限时玩法与奖励截止、版本上
+ 线和停服维护。
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
-BEGIN:VEVENT
-UID:final-fantasy-xiv-final-fantasy-xiv-2026-392085-7830e776dba9@koyomi.ca
- st
-SEQUENCE:0
-DTSTAMP:20261119T000000
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20270101
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:最终幻想14活动日历 · 开始涂鸦！最终幻想14 × 拍
- 立方联动开启！
-DESCRIPTION:开始涂鸦！最终幻想14 × 拍立方联动开启！\n\n
- 类型: activity\n官方来源: 开始涂鸦！最终幻想14 × 拍立方
- 联动开启！\n\nofficial_time: 2026年8月18日至2026年12月31日\nof
- ficial_notice: 开始涂鸦！最终幻想14 × 拍立方联动开启！\n
- publication_date: 2026-08-17\nstart_time: 官方未注明开始时刻\n\n
- 来源: https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392085
-CATEGORIES:最终幻想14活动日历
-URL;VALUE=URI:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392
- 085
-STATUS:CONFIRMED
-END:VEVENT
 BEGIN:VEVENT
 UID:final-fantasy-xiv-final-fantasy-xiv-2026-393660-d9244b88b837@koyomi.ca
  st
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261120T000000
 DTSTART;TZID=Asia/Shanghai:20261007T160000
 DTEND;TZID=Asia/Shanghai:20261027T225900
-SUMMARY:最终幻想14活动日历 · FF14 x 「糖豆人」联动复刻
-DESCRIPTION:FF14 x 「糖豆人」联动复刻\n\n类型: activity\n官方
- 来源: FF14 x 「糖豆人」联动复刻限时开启！\n\nofficial_time
- : 2026年10月7日16:00~2026年10月27日22:59\nofficial_notice: FF14 x 
- 「糖豆人」联动复刻限时开启！\npublication_date: 2026-09-30\n
- \n来源: https://ff.web.sdo.com/web8/index.html#/newstab/newscont/393660
+SUMMARY:最终幻想14活动日历 · 糖豆人联动复刻
+DESCRIPTION:去巨豆中心赢取金碟声誉，可兑换糖豆犀牛坐
+ 骑、服装和宠物。任意职业 15 级并完成「前往游乐场」
+ 即可接任务，已完成联动任务的玩家可直接参加。\n\n来
+ 源: https://actff1.web.sdo.com/project/20260928ff14fallguys/4kkmxknj3rno/
+ index.html
 CATEGORIES:最终幻想14活动日历
-URL;VALUE=URI:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/393
- 660
+URL;VALUE=URI:https://actff1.web.sdo.com/project/20260928ff14fallguys/4kkm
+ xknj3rno/index.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:final-fantasy-xiv-final-fantasy-xiv-2026-393660-d9244b88b837-deadline@
+ koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261120T000000
+DTSTART;TZID=Asia/Shanghai:20261027T225900
+SUMMARY:最终幻想14活动日历 · 糖豆人联动复刻 截止
+DESCRIPTION:去巨豆中心赢取金碟声誉，可兑换糖豆犀牛坐
+ 骑、服装和宠物。任意职业 15 级并完成「前往游乐场」
+ 即可接任务，已完成联动任务的玩家可直接参加。\n\n来
+ 源: https://actff1.web.sdo.com/project/20260928ff14fallguys/4kkmxknj3rno/
+ index.html
+CATEGORIES:最终幻想14活动日历
+URL;VALUE=URI:https://actff1.web.sdo.com/project/20260928ff14fallguys/4kkm
+ xknj3rno/index.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:final-fantasy-xiv-final-fantasy-xiv-2026-393960-b2c9ca08cd2f@koyomi.ca
  st
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261120T000000
 DTSTART;TZID=Asia/Shanghai:20261015T160000
 DTEND;TZID=Asia/Shanghai:20261102T225900
-SUMMARY:最终幻想14活动日历 · 【季节活动】守护天节与奇
- 妙的捉迷藏
-DESCRIPTION:【季节活动】守护天节与奇妙的捉迷藏\n\n类型:
-  activity\n官方来源: 【季节活动】守护天节与奇妙的捉迷
- 藏\n\nofficial_time: 2026年10月15日16:00~2026年11月2日22:59\noffici
- al_notice: 【季节活动】守护天节与奇妙的捉迷藏\npublicatio
- n_date: 2026-10-08\n\n来源: https://ff.web.sdo.com/web8/index.html#/news
- tab/newscont/393960
+SUMMARY:最终幻想14活动日历 · 守护天节 · 奇妙的捉迷藏
+DESCRIPTION:15 级可在米·凯特露天剧场找南瓜头女人接任务
+ ，完成后获取防具和家具。任务须在活动期内完成。\n\n
+ 来源: https://actff1.web.sdo.com/project/20261005All_Saints_Wake/hjwff6j
+ kcti4/index.html
 CATEGORIES:最终幻想14活动日历
-URL;VALUE=URI:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/393
- 960
+URL;VALUE=URI:https://actff1.web.sdo.com/project/20261005All_Saints_Wake/h
+ jwff6jkcti4/index.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:final-fantasy-xiv-final-fantasy-xiv-2026-393960-b2c9ca08cd2f-deadline@
+ koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261120T000000
+DTSTART;TZID=Asia/Shanghai:20261102T225900
+SUMMARY:最终幻想14活动日历 · 守护天节 · 奇妙的捉迷藏 
+ 截止
+DESCRIPTION:15 级可在米·凯特露天剧场找南瓜头女人接任务
+ ，完成后获取防具和家具。任务须在活动期内完成。\n\n
+ 来源: https://actff1.web.sdo.com/project/20261005All_Saints_Wake/hjwff6j
+ kcti4/index.html
+CATEGORIES:最终幻想14活动日历
+URL;VALUE=URI:https://actff1.web.sdo.com/project/20261005All_Saints_Wake/h
+ jwff6jkcti4/index.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:final-fantasy-xiv-final-fantasy-xiv-2026-394486-f32b4ad03b7f@koyomi.ca
  st
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261120T000000
 DTSTART;TZID=Asia/Shanghai:20261028T160000
-SUMMARY:最终幻想14活动日历 · 金碟游乐场“魔光键影”（
- 开始）
-DESCRIPTION:金碟游乐场“魔光键影”（开始）\n\n类型: activ
- ity\n官方来源: 金碟游乐场“魔光键影”正式登场！\n\noff
- icial_time: 活动时间:2026年10月28日16:00~8.0版本更新维护前\n
- official_notice: 金碟游乐场“魔光键影”正式登场！\npublica
- tion_date: 2026-10-28\nend_note: 8.0版本更新维护前，具体日期
- 未公布\n\n来源: https://ff.web.sdo.com/web8/index.html#/newstab/newsc
- ont/394486
+SUMMARY:最终幻想14活动日历 · FF7 重制版联动 · 魔光键影
+DESCRIPTION:打字挑战可换守卫机蝎坐骑（430 金碟点）、雪
+ 崩时装和迷你巴雷特。任意职业 15 级并完成「前往游乐
+ 场」即可接活动任务，须使用实体键盘。金碟点只能在
+ 活动期间获取和兑换。\n\n8.0 版本维护前\n\n来源: https://a
+ ctff1.web.sdo.com/project/20261014keybound_brawler/o48khqshmn6e/index.html
 CATEGORIES:最终幻想14活动日历
-URL;VALUE=URI:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/394
- 486
+URL;VALUE=URI:https://actff1.web.sdo.com/project/20261014keybound_brawler/
+ o48khqshmn6e/index.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:final-fantasy-xiv-final-fantasy-xiv-2026-394876-3976b5a86e10@koyomi.ca
  st
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261120T000000
 DTSTART;TZID=Asia/Shanghai:20261110T100000
 SUMMARY:最终幻想14活动日历 · 「水晶冲突」第21赛季 · 陆
  行鸟区（结束）
-DESCRIPTION:「水晶冲突」第21赛季 · 陆行鸟区（结束）\n\n
- 类型: activity\n官方来源: 「水晶冲突」第21赛季即将结束
- ！\n\nofficial_time: 结束时间为11月10日的7.58版本更新维护
- 前\nofficial_notice: 「水晶冲突」第21赛季即将结束！\npublic
- ation_date: 2026-10-28\nend_note: 7.58版本维护前结束\nanchor_url: h
- ttps://ff.web.sdo.com/web8/index.html#/newstab/newscont/395256\nserver_sco
- pe: 陆行鸟区\n\n来源: https://ff.web.sdo.com/web8/index.html#/newsta
- b/newscont/394876
+DESCRIPTION:7.58版本维护前结束\nhttps://ff.web.sdo.com/web8/index.h
+ tml#/newstab/newscont/395256\n\n来源: https://ff.web.sdo.com/web8/index.
+ html#/newstab/newscont/394876
 CATEGORIES:最终幻想14活动日历
 URL;VALUE=URI:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/394
  876
@@ -112,17 +114,13 @@ BEGIN:VEVENT
 UID:final-fantasy-xiv-final-fantasy-xiv-2026-395256-0d1c31a20248@koyomi.ca
  st
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261120T000000
 DTSTART;TZID=Asia/Shanghai:20261110T100000
 DTEND;TZID=Asia/Shanghai:20261110T180000
 SUMMARY:最终幻想14活动日历 · 11月10日全区全服更新维护
  公告
-DESCRIPTION:11月10日全区全服更新维护公告\n\n类型: maintenanc
- e\n官方来源: 《最终幻想14》11月10日全区全服更新维护公
- 告\n\nofficial_time: 2026年11月10日10:00-18:00\nofficial_notice: 《
- 最终幻想14》11月10日全区全服更新维护公告\npublication_dat
- e: 2026-11-06\n\n来源: https://ff.web.sdo.com/web8/index.html#/newstab/n
- ewscont/395256
+DESCRIPTION:来源: https://ff.web.sdo.com/web8/index.html#/newstab/newsco
+ nt/395256
 CATEGORIES:最终幻想14活动日历
 URL;VALUE=URI:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/395
  256
@@ -132,38 +130,87 @@ BEGIN:VEVENT
 UID:final-fantasy-xiv-final-fantasy-xiv-2026-395456-28d7236deded@koyomi.ca
  st
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261120T000000
 DTSTART;TZID=Asia/Shanghai:20261118T160000
 DTEND;TZID=Asia/Shanghai:20261209T225900
-SUMMARY:最终幻想14活动日历 · x《FF16》联动复刻
-DESCRIPTION:x《FF16》联动复刻\n\n类型: activity\n官方来源: 《
- FF14》x《FF16》联动复刻限时开启！\n\nofficial_time: 2026年11
- 月18日16:00~2026年12月9日22:59\nofficial_notice: 《FF14》x《FF16
- 》联动复刻限时开启！\npublication_date: 2026-11-11\n\n来源: ht
- tps://ff.web.sdo.com/web8/index.html#/newstab/newscont/395456
+SUMMARY:最终幻想14活动日历 · FF16 联动 · 纵使前路狱火焰
+ 毒
+DESCRIPTION:完成联动任务可获得托加尔坐骑、小托加尔宠
+ 物和美堤亚套装。任意特职 50 级并完成主线「超越幻想
+ ，究极神兵」，到乌尔达哈现世回廊找新人冒险者接任
+ 务。已完成的玩家可重玩，重玩不重复发奖。\n\n来源: ht
+ tps://actff1.web.sdo.com/project/20261029ffxvi/uvjx9y9g2k2p/index.html
 CATEGORIES:最终幻想14活动日历
-URL;VALUE=URI:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/395
- 456
+URL;VALUE=URI:https://actff1.web.sdo.com/project/20261029ffxvi/uvjx9y9g2k2
+ p/index.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:final-fantasy-xiv-final-fantasy-xiv-2026-395456-28d7236deded-deadline@
+ koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261120T000000
+DTSTART;TZID=Asia/Shanghai:20261209T225900
+SUMMARY:最终幻想14活动日历 · FF16 联动 · 纵使前路狱火焰
+ 毒 截止
+DESCRIPTION:完成联动任务可获得托加尔坐骑、小托加尔宠
+ 物和美堤亚套装。任意特职 50 级并完成主线「超越幻想
+ ，究极神兵」，到乌尔达哈现世回廊找新人冒险者接任
+ 务。已完成的玩家可重玩，重玩不重复发奖。\n\n来源: ht
+ tps://actff1.web.sdo.com/project/20261029ffxvi/uvjx9y9g2k2p/index.html
+CATEGORIES:最终幻想14活动日历
+URL;VALUE=URI:https://actff1.web.sdo.com/project/20261029ffxvi/uvjx9y9g2k2
+ p/index.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:final-fantasy-xiv-final-fantasy-xiv-2026-395666-9527f57ef498@koyomi.ca
  st
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261120T000000
 DTSTART;TZID=Asia/Shanghai:20261119T080000
 DTEND;TZID=Asia/Shanghai:20261119T120000
 SUMMARY:最终幻想14活动日历 · 11月19日全区全服临时维护
  公告
-DESCRIPTION:11月19日全区全服临时维护公告\n\n类型: maintenanc
- e\n官方来源: 《最终幻想14》11月19日全区全服临时维护公
- 告\n\nofficial_time: 2026年11月19日8:00-12:00\nofficial_notice: 《最
- 终幻想14》11月19日全区全服临时维护公告\npublication_date: 
- 2026-11-17\n\n来源: https://ff.web.sdo.com/web8/index.html#/newstab/news
- cont/395666
+DESCRIPTION:来源: https://ff.web.sdo.com/web8/index.html#/newstab/newsco
+ nt/395666
 CATEGORIES:最终幻想14活动日历
 URL;VALUE=URI:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/395
  666
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:final-fantasy-xiv-final-fantasy-xiv-2027-395039-396d8e9f8969@koyomi.ca
+ st
+SEQUENCE:0
+DTSTAMP:20261120T000000
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:最终幻想14活动日历 · 8.0「银海之天舟」抢先体验
+DESCRIPTION:须拥有国服抢先体验资格。开放时刻待公布。\n
+ \n来源: https://ff.web.sdo.com/web8/index.html#/newstab/newscont/395039
+CATEGORIES:最终幻想14活动日历
+URL;VALUE=URI:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/395
+ 039
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:final-fantasy-xiv-final-fantasy-xiv-2027-395039-7eb42bebd4a9@koyomi.ca
+ st
+SEQUENCE:0
+DTSTAMP:20261120T000000
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:最终幻想14活动日历 · 8.0「银海之天舟」正式上线
+DESCRIPTION:来源: https://ff.web.sdo.com/web8/index.html#/newstab/newsco
+ nt/395039
+CATEGORIES:最终幻想14活动日历
+URL;VALUE=URI:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/395
+ 039
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -4,103 +4,111 @@ PRODID:-//Koyomi Cast//final-fantasy-xiv//EN
 URL:https://koyomi.cast/sources/final-fantasy-xiv
 NAME:Final Fantasy XIV Event Calendar
 X-WR-CALNAME:Final Fantasy XIV Event Calendar
-X-WR-CALDESC:Final Fantasy XIV CN-server maintenance, seasonal events, and
-  collaborations.
+X-WR-CALDESC:Final Fantasy XIV CN-server limited-time gameplay, reward dea
+ dlines, patch launches, and maintenance.
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
-BEGIN:VEVENT
-UID:final-fantasy-xiv-final-fantasy-xiv-2026-392085-7830e776dba9@koyomi.ca
- st
-SEQUENCE:0
-DTSTAMP:20261119T000000
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20270101
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Final Fantasy XIV Event Calendar · Final Fantasy XIV FFXIV × Pai
- lifang Collaboration · 2026-08-18
-DESCRIPTION:Final Fantasy XIV FFXIV × Pailifang Collaboration · 2026-08-
- 18\n\nType: activity\n\nofficial_time: 2026-08-18 – 2026-12-31\nEnglish 
- name status: descriptive translation\; CN-server dates retained\npublicati
- on_date: 2026-08-17\nstart_time: Start time not specified\n\nSource: https
- ://ff.web.sdo.com/web8/index.html#/newstab/newscont/392085
-CATEGORIES:Final Fantasy XIV Event Calendar
-URL;VALUE=URI:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/392
- 085
-STATUS:CONFIRMED
-END:VEVENT
 BEGIN:VEVENT
 UID:final-fantasy-xiv-final-fantasy-xiv-2026-393660-d9244b88b837@koyomi.ca
  st
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261120T000000
 DTSTART;TZID=Asia/Shanghai:20261007T160000
 DTEND;TZID=Asia/Shanghai:20261027T225900
-SUMMARY:Final Fantasy XIV Event Calendar · Final Fantasy XIV FFXIV × Fal
- l Guys Collaboration Rerun · 2026-10-07
-DESCRIPTION:Final Fantasy XIV FFXIV × Fall Guys Collaboration Rerun · 20
- 26-10-07\n\nType: activity\n\nofficial_time: 2026-10-07 16:00 – 2026-10-
- 27 22:59\nEnglish name status: descriptive translation\; CN-server dates r
- etained\npublication_date: 2026-09-30\n\nSource: https://ff.web.sdo.com/we
- b8/index.html#/newstab/newscont/393660
+SUMMARY:Final Fantasy XIV Event Calendar · Fall Guys crossover rerun
+DESCRIPTION:Earn MGF in Blunderville for the rhino mount\, outfits\, and m
+ inions. Reach level 15 and complete It Could Happen to You to pick up the 
+ quest. Returning players can skip the quest if they have already completed
+  it.\n\nSource: https://actff1.web.sdo.com/project/20260928ff14fallguys/4k
+ kmxknj3rno/index.html
 CATEGORIES:Final Fantasy XIV Event Calendar
-URL;VALUE=URI:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/393
- 660
+URL;VALUE=URI:https://actff1.web.sdo.com/project/20260928ff14fallguys/4kkm
+ xknj3rno/index.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:final-fantasy-xiv-final-fantasy-xiv-2026-393660-d9244b88b837-deadline@
+ koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261120T000000
+DTSTART;TZID=Asia/Shanghai:20261027T225900
+SUMMARY:Final Fantasy XIV Event Calendar · Fall Guys crossover rerun — 
+ Ends
+DESCRIPTION:Earn MGF in Blunderville for the rhino mount\, outfits\, and m
+ inions. Reach level 15 and complete It Could Happen to You to pick up the 
+ quest. Returning players can skip the quest if they have already completed
+  it.\n\nSource: https://actff1.web.sdo.com/project/20260928ff14fallguys/4k
+ kmxknj3rno/index.html
+CATEGORIES:Final Fantasy XIV Event Calendar
+URL;VALUE=URI:https://actff1.web.sdo.com/project/20260928ff14fallguys/4kkm
+ xknj3rno/index.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:final-fantasy-xiv-final-fantasy-xiv-2026-393960-b2c9ca08cd2f@koyomi.ca
  st
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261120T000000
 DTSTART;TZID=Asia/Shanghai:20261015T160000
 DTEND;TZID=Asia/Shanghai:20261102T225900
-SUMMARY:Final Fantasy XIV Event Calendar · Final Fantasy XIV Seasonal Eve
- nt: Festive Hide-and-Seek · 2026-10-15
-DESCRIPTION:Final Fantasy XIV Seasonal Event: Festive Hide-and-Seek · 202
- 6-10-15\n\nType: activity\n\nofficial_time: 2026-10-15 16:00 – 2026-11-0
- 2 22:59\nEnglish name status: descriptive translation\; CN-server dates re
- tained\npublication_date: 2026-10-08\n\nSource: https://ff.web.sdo.com/web
- 8/index.html#/newstab/newscont/393960
+SUMMARY:Final Fantasy XIV Event Calendar · All Saints’ Wake · Festive 
+ Hide-and-Seek
+DESCRIPTION:At level 15\, speak to the Pumpkin-headed Woman at Mih Khetto
+ ’s Amphitheatre. Finish the quest during the event to earn gear and furn
+ ishings.\n\nSource: https://actff1.web.sdo.com/project/20261005All_Saints_
+ Wake/hjwff6jkcti4/index.html
 CATEGORIES:Final Fantasy XIV Event Calendar
-URL;VALUE=URI:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/393
- 960
+URL;VALUE=URI:https://actff1.web.sdo.com/project/20261005All_Saints_Wake/h
+ jwff6jkcti4/index.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:final-fantasy-xiv-final-fantasy-xiv-2026-393960-b2c9ca08cd2f-deadline@
+ koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261120T000000
+DTSTART;TZID=Asia/Shanghai:20261102T225900
+SUMMARY:Final Fantasy XIV Event Calendar · All Saints’ Wake · Festive 
+ Hide-and-Seek — Ends
+DESCRIPTION:At level 15\, speak to the Pumpkin-headed Woman at Mih Khetto
+ ’s Amphitheatre. Finish the quest during the event to earn gear and furn
+ ishings.\n\nSource: https://actff1.web.sdo.com/project/20261005All_Saints_
+ Wake/hjwff6jkcti4/index.html
+CATEGORIES:Final Fantasy XIV Event Calendar
+URL;VALUE=URI:https://actff1.web.sdo.com/project/20261005All_Saints_Wake/h
+ jwff6jkcti4/index.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:final-fantasy-xiv-final-fantasy-xiv-2026-394486-f32b4ad03b7f@koyomi.ca
  st
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261120T000000
 DTSTART;TZID=Asia/Shanghai:20261028T160000
-SUMMARY:Final Fantasy XIV Event Calendar · Final Fantasy XIV Gold Saucer 
- Typing Game · 2026-10-28 · Starts
-DESCRIPTION:Final Fantasy XIV Gold Saucer Typing Game · 2026-10-28 · Sta
- rts\n\nType: activity\n\nofficial_time: 2026-10-28 16:00\nEnglish name sta
- tus: descriptive translation\; CN-server dates retained\nend_note: Before 
- Version 8.0 maintenance\; exact end date not announced.\npublication_date:
-  2026-10-28\n\nSource: https://ff.web.sdo.com/web8/index.html#/newstab/new
- scont/394486
+SUMMARY:Final Fantasy XIV Event Calendar · FFVII Remake crossover · Keyb
+ ound Brawler
+DESCRIPTION:Play the typing challenge to earn points for the Guard Scorpio
+ n mount (430 points)\, Avalanche outfits\, and the Barret minion. Reach le
+ vel 15 and complete It Could Happen to You. A physical keyboard is require
+ d. Earn and spend event points before the crossover closes.\n\nBefore Vers
+ ion 8.0 maintenance\n\nSource: https://actff1.web.sdo.com/project/20261014
+ keybound_brawler/o48khqshmn6e/index.html
 CATEGORIES:Final Fantasy XIV Event Calendar
-URL;VALUE=URI:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/394
- 486
+URL;VALUE=URI:https://actff1.web.sdo.com/project/20261014keybound_brawler/
+ o48khqshmn6e/index.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:final-fantasy-xiv-final-fantasy-xiv-2026-394876-3976b5a86e10@koyomi.ca
  st
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261120T000000
 DTSTART;TZID=Asia/Shanghai:20261110T100000
 SUMMARY:Final Fantasy XIV Event Calendar · Final Fantasy XIV Crystalline 
  Conflict Season 21 · 2026-11-10 · Chocobo Data Center (CN) · Ends
-DESCRIPTION:Final Fantasy XIV Crystalline Conflict Season 21 · 2026-11-10
-  · Chocobo Data Center (CN) · Ends\n\nType: activity\n\nofficial_time: 2
- 026-11-10 10:00\nEnglish name status: descriptive translation\; CN-server 
- dates retained\nend_note: Ends before Version 7.58 maintenance.\nserver_sc
- ope: Chocobo Data Center (CN)\nanchor_url: https://ff.web.sdo.com/web8/ind
- ex.html#/newstab/newscont/395256\npublication_date: 2026-10-28\n\nSource: 
- https://ff.web.sdo.com/web8/index.html#/newstab/newscont/394876
+DESCRIPTION:Ends before Version 7.58 maintenance.\nhttps://ff.web.sdo.com/
+ web8/index.html#/newstab/newscont/395256\n\nSource: https://ff.web.sdo.com
+ /web8/index.html#/newstab/newscont/394876
 CATEGORIES:Final Fantasy XIV Event Calendar
 URL;VALUE=URI:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/394
  876
@@ -110,16 +118,13 @@ BEGIN:VEVENT
 UID:final-fantasy-xiv-final-fantasy-xiv-2026-395256-0d1c31a20248@koyomi.ca
  st
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261120T000000
 DTSTART;TZID=Asia/Shanghai:20261110T100000
 DTEND;TZID=Asia/Shanghai:20261110T180000
 SUMMARY:Final Fantasy XIV Event Calendar · Final Fantasy XIV Maintenance 
  Update · 2026-11-10
-DESCRIPTION:Final Fantasy XIV Maintenance Update · 2026-11-10\n\nType: ma
- intenance\n\nofficial_time: 2026-11-10 10:00 – 2026-11-10 18:00\nEnglish
-  name status: descriptive translation\; CN-server dates retained\npublicat
- ion_date: 2026-11-06\n\nSource: https://ff.web.sdo.com/web8/index.html#/ne
- wstab/newscont/395256
+DESCRIPTION:Source: https://ff.web.sdo.com/web8/index.html#/newstab/newsco
+ nt/395256
 CATEGORIES:Final Fantasy XIV Event Calendar
 URL;VALUE=URI:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/395
  256
@@ -129,38 +134,88 @@ BEGIN:VEVENT
 UID:final-fantasy-xiv-final-fantasy-xiv-2026-395456-28d7236deded@koyomi.ca
  st
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261120T000000
 DTSTART;TZID=Asia/Shanghai:20261118T160000
 DTEND;TZID=Asia/Shanghai:20261209T225900
-SUMMARY:Final Fantasy XIV Event Calendar · Final Fantasy XIV FFXIV × FFX
- VI Collaboration Rerun · 2026-11-18
-DESCRIPTION:Final Fantasy XIV FFXIV × FFXVI Collaboration Rerun · 2026-1
- 1-18\n\nType: activity\n\nofficial_time: 2026-11-18 16:00 – 2026-12-09 2
- 2:59\nEnglish name status: descriptive translation\; CN-server dates retai
- ned\npublication_date: 2026-11-11\n\nSource: https://ff.web.sdo.com/web8/i
- ndex.html#/newstab/newscont/395456
+SUMMARY:Final Fantasy XIV Event Calendar · FFXVI crossover · The Path In
+ fernal
+DESCRIPTION:Finish the quests for the Torgal mount\, Torgal Pup minion\, a
+ nd Metian Attire. Reach level 50 and finish The Ultimate Weapon\, then spe
+ ak to the Neophyte Adventurer in Ul’dah’s Steps of Nald. Seasonal Even
+ t Replay grants no repeat rewards.\n\nSource: https://actff1.web.sdo.com/p
+ roject/20261029ffxvi/uvjx9y9g2k2p/index.html
 CATEGORIES:Final Fantasy XIV Event Calendar
-URL;VALUE=URI:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/395
- 456
+URL;VALUE=URI:https://actff1.web.sdo.com/project/20261029ffxvi/uvjx9y9g2k2
+ p/index.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:final-fantasy-xiv-final-fantasy-xiv-2026-395456-28d7236deded-deadline@
+ koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261120T000000
+DTSTART;TZID=Asia/Shanghai:20261209T225900
+SUMMARY:Final Fantasy XIV Event Calendar · FFXVI crossover · The Path In
+ fernal — Ends
+DESCRIPTION:Finish the quests for the Torgal mount\, Torgal Pup minion\, a
+ nd Metian Attire. Reach level 50 and finish The Ultimate Weapon\, then spe
+ ak to the Neophyte Adventurer in Ul’dah’s Steps of Nald. Seasonal Even
+ t Replay grants no repeat rewards.\n\nSource: https://actff1.web.sdo.com/p
+ roject/20261029ffxvi/uvjx9y9g2k2p/index.html
+CATEGORIES:Final Fantasy XIV Event Calendar
+URL;VALUE=URI:https://actff1.web.sdo.com/project/20261029ffxvi/uvjx9y9g2k2
+ p/index.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:final-fantasy-xiv-final-fantasy-xiv-2026-395666-9527f57ef498@koyomi.ca
  st
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261120T000000
 DTSTART;TZID=Asia/Shanghai:20261119T080000
 DTEND;TZID=Asia/Shanghai:20261119T120000
 SUMMARY:Final Fantasy XIV Event Calendar · Final Fantasy XIV Temporary Ma
  intenance · 2026-11-19
-DESCRIPTION:Final Fantasy XIV Temporary Maintenance · 2026-11-19\n\nType:
-  maintenance\n\nofficial_time: 2026-11-19 08:00 – 2026-11-19 12:00\nEngl
- ish name status: descriptive translation\; CN-server dates retained\npubli
- cation_date: 2026-11-17\n\nSource: https://ff.web.sdo.com/web8/index.html#
- /newstab/newscont/395666
+DESCRIPTION:Source: https://ff.web.sdo.com/web8/index.html#/newstab/newsco
+ nt/395666
 CATEGORIES:Final Fantasy XIV Event Calendar
 URL;VALUE=URI:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/395
  666
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:final-fantasy-xiv-final-fantasy-xiv-2027-395039-396d8e9f8969@koyomi.ca
+ st
+SEQUENCE:0
+DTSTAMP:20261120T000000
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Final Fantasy XIV Event Calendar · 8.0 Evercold · Early Access
+DESCRIPTION:CN early access entitlement required. Opening time has not bee
+ n announced.\n\nSource: https://ff.web.sdo.com/web8/index.html#/newstab/ne
+ wscont/395039
+CATEGORIES:Final Fantasy XIV Event Calendar
+URL;VALUE=URI:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/395
+ 039
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:final-fantasy-xiv-final-fantasy-xiv-2027-395039-7eb42bebd4a9@koyomi.ca
+ st
+SEQUENCE:0
+DTSTAMP:20261120T000000
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Final Fantasy XIV Event Calendar · 8.0 Evercold · Release
+DESCRIPTION:Source: https://ff.web.sdo.com/web8/index.html#/newstab/newsco
+ nt/395039
+CATEGORIES:Final Fantasy XIV Event Calendar
+URL;VALUE=URI:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/395
+ 039
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
