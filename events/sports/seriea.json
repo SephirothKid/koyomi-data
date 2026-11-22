@@ -21450,7 +21450,7 @@
       "description": "国际米兰 作客 亚特兰大（意甲 2026-27 赛季，北京时间）",
       "description_en": "Internazionale at Atalanta (Serie A 2026-27, Beijing time)",
       "url": "https://www.legaseriea.it/en/serie-a/fixture-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-22",
       "verified_by": "auto",
       "teams": {
@@ -21470,8 +21470,15 @@
       "details": {
         "主场": "亚特兰大",
         "客场": "国际米兰",
+        "比分": "亚特兰大 4 - 4 国际米兰",
         "场馆": "New Balance Arena",
         "城市": "Bergamo"
+      },
+      "result": {
+        "home_score": 4,
+        "away_score": 4,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {

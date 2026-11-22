@@ -17401,7 +17401,7 @@
       "description": "勒芒 作客 马赛（法甲 2026-27 赛季，北京时间）",
       "description_en": "Le Mans at Marseille (Ligue 1 2026-27, Beijing time)",
       "url": "https://www.ligue1.com/fixtures-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-22",
       "verified_by": "auto",
       "teams": {
@@ -17421,8 +17421,15 @@
       "details": {
         "主场": "马赛",
         "客场": "勒芒",
+        "比分": "马赛 2 - 3 勒芒",
         "场馆": "Stade Vélodrome",
         "城市": "Marseille"
+      },
+      "result": {
+        "home_score": 2,
+        "away_score": 3,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
