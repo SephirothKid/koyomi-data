@@ -8,27 +8,15 @@ X-WR-CALDESC:Brooklyn Nets schedule in NBA Season, auto-synced.
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-UID:nba-bkn-nba-2027-regular-0022600087@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261119T000000
-DTSTART;TZID=Asia/Shanghai:20261022T073000
-DTEND;TZID=Asia/Shanghai:20261022T083000
-SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Charlotte Hornets
-DESCRIPTION:Charlotte Hornets at Brooklyn Nets (Beijing time)\n\nSource: h
- ttps://www.nba.com/schedule
-CATEGORIES:Brooklyn Nets Schedule
-URL;VALUE=URI:https://www.nba.com/schedule
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600105@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261025T073000
 DTEND;TZID=Asia/Shanghai:20261025T083000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Cleveland Cavaliers
-DESCRIPTION:Brooklyn Nets at Cleveland Cavaliers (Beijing time)\n\nSource:
-  https://www.nba.com/schedule
+DESCRIPTION:Brooklyn Nets at Cleveland Cavaliers (Beijing time)\n\nScore: 
+ Cleveland Cavaliers 125 - 121 Brooklyn Nets\n\nSource: https://www.nba.com
+ /schedule
 CATEGORIES:Brooklyn Nets Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
@@ -36,12 +24,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600113@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261026T060000
 DTEND;TZID=Asia/Shanghai:20261026T070000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Indiana Pacers
-DESCRIPTION:Indiana Pacers at Brooklyn Nets (Beijing time)\n\nSource: http
- s://www.nba.com/schedule
+DESCRIPTION:Indiana Pacers at Brooklyn Nets (Beijing time)\n\nScore: Brook
+ lyn Nets 109 - 136 Indiana Pacers\n\nSource: https://www.nba.com/schedule
 CATEGORIES:Brooklyn Nets Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
@@ -49,12 +37,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600128@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261028T073000
 DTEND;TZID=Asia/Shanghai:20261028T083000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Boston Celtics
-DESCRIPTION:Brooklyn Nets at Boston Celtics (Beijing time)\n\nSource: http
- s://www.nba.com/schedule
+DESCRIPTION:Brooklyn Nets at Boston Celtics (Beijing time)\n\nScore: Bosto
+ n Celtics 125 - 124 Brooklyn Nets\n\nSource: https://www.nba.com/schedule
 CATEGORIES:Brooklyn Nets Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
@@ -62,12 +50,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600017@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261031T073000
 DTEND;TZID=Asia/Shanghai:20261031T083000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Detroit Pistons
-DESCRIPTION:Detroit Pistons at Brooklyn Nets (Beijing time)\n\nSource: htt
- ps://www.nba.com/nba-cup
+DESCRIPTION:Detroit Pistons at Brooklyn Nets (Beijing time)\n\nScore: Broo
+ klyn Nets 94 - 110 Detroit Pistons\n\nSource: https://www.nba.com/nba-cup
 CATEGORIES:Brooklyn Nets Schedule
 URL;VALUE=URI:https://www.nba.com/nba-cup
 STATUS:CONFIRMED
@@ -75,12 +63,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600155@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261102T060000
 DTEND;TZID=Asia/Shanghai:20261102T070000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Indiana Pacers
-DESCRIPTION:Brooklyn Nets at Indiana Pacers (Beijing time)\n\nSource: http
- s://www.nba.com/schedule
+DESCRIPTION:Brooklyn Nets at Indiana Pacers (Beijing time)\n\nScore: India
+ na Pacers 90 - 98 Brooklyn Nets\n\nSource: https://www.nba.com/schedule
 CATEGORIES:Brooklyn Nets Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
@@ -88,12 +76,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600161@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261103T083000
 DTEND;TZID=Asia/Shanghai:20261103T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ New York Knicks
-DESCRIPTION:Brooklyn Nets at New York Knicks (Beijing time)\n\nSource: htt
- ps://www.nba.com/schedule
+DESCRIPTION:Brooklyn Nets at New York Knicks (Beijing time)\n\nScore: New 
+ York Knicks 103 - 90 Brooklyn Nets\n\nSource: https://www.nba.com/schedule
 CATEGORIES:Brooklyn Nets Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
@@ -101,12 +89,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600176@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261105T083000
 DTEND;TZID=Asia/Shanghai:20261105T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Charlotte Hornets
-DESCRIPTION:Charlotte Hornets at Brooklyn Nets (Beijing time)\n\nSource: h
- ttps://www.nba.com/schedule
+DESCRIPTION:Charlotte Hornets at Brooklyn Nets (Beijing time)\n\nScore: Br
+ ooklyn Nets 114 - 104 Charlotte Hornets\n\nSource: https://www.nba.com/sch
+ edule
 CATEGORIES:Brooklyn Nets Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
@@ -114,12 +103,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600190@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261108T083000
 DTEND;TZID=Asia/Shanghai:20261108T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Atlanta Hawks
-DESCRIPTION:Brooklyn Nets at Atlanta Hawks (Beijing time)\n\nSource: https
- ://www.nba.com/schedule
+DESCRIPTION:Brooklyn Nets at Atlanta Hawks (Beijing time)\n\nScore: Atlant
+ a Hawks 124 - 121 Brooklyn Nets\n\nSource: https://www.nba.com/schedule
 CATEGORIES:Brooklyn Nets Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
@@ -127,12 +116,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600199@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261109T083000
 DTEND;TZID=Asia/Shanghai:20261109T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Dallas Mavericks
-DESCRIPTION:Brooklyn Nets at Dallas Mavericks (Beijing time)\n\nSource: ht
- tps://www.nba.com/schedule
+DESCRIPTION:Brooklyn Nets at Dallas Mavericks (Beijing time)\n\nScore: Dal
+ las Mavericks 130 - 93 Brooklyn Nets\n\nSource: https://www.nba.com/schedu
+ le
 CATEGORIES:Brooklyn Nets Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
@@ -140,12 +130,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600223@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261112T090000
 DTEND;TZID=Asia/Shanghai:20261112T100000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ New Orleans Pelicans
-DESCRIPTION:Brooklyn Nets at New Orleans Pelicans (Beijing time)\n\nSource
- : https://www.nba.com/schedule
+DESCRIPTION:Brooklyn Nets at New Orleans Pelicans (Beijing time)\n\nScore:
+  New Orleans Pelicans 111 - 145 Brooklyn Nets\n\nSource: https://www.nba.c
+ om/schedule
 CATEGORIES:Brooklyn Nets Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
@@ -153,12 +144,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600234@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261115T090000
 DTEND;TZID=Asia/Shanghai:20261115T100000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Memphis Grizzlies
-DESCRIPTION:Brooklyn Nets at Memphis Grizzlies (Beijing time)\n\nSource: h
- ttps://www.nba.com/schedule
+DESCRIPTION:Brooklyn Nets at Memphis Grizzlies (Beijing time)\n\nScore: Me
+ mphis Grizzlies 129 - 110 Brooklyn Nets\n\nSource: https://www.nba.com/sch
+ edule
 CATEGORIES:Brooklyn Nets Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
@@ -166,12 +158,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600248@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261117T083000
 DTEND;TZID=Asia/Shanghai:20261117T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Philadelphia 76ers
-DESCRIPTION:Philadelphia 76ers at Brooklyn Nets (Beijing time)\n\nSource: 
- https://www.nba.com/schedule
+DESCRIPTION:Philadelphia 76ers at Brooklyn Nets (Beijing time)\n\nScore: B
+ rooklyn Nets 123 - 135 Philadelphia 76ers\n\nSource: https://www.nba.com/s
+ chedule
 CATEGORIES:Brooklyn Nets Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
@@ -179,12 +172,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600262@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261119T083000
 DTEND;TZID=Asia/Shanghai:20261119T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Chicago Bulls
-DESCRIPTION:Chicago Bulls at Brooklyn Nets (Beijing time)\n\nSource: https
- ://www.nba.com/schedule
+DESCRIPTION:Chicago Bulls at Brooklyn Nets (Beijing time)\n\nScore: Brookl
+ yn Nets 107 - 137 Chicago Bulls\n\nSource: https://www.nba.com/schedule
 CATEGORIES:Brooklyn Nets Schedule
 URL;VALUE=URI:https://www.nba.com/schedule
 STATUS:CONFIRMED
@@ -192,12 +185,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600044@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261121T083000
 DTEND;TZID=Asia/Shanghai:20261121T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Orlando Magic
-DESCRIPTION:Orlando Magic at Brooklyn Nets (Beijing time)\n\nSource: https
- ://www.nba.com/nba-cup
+DESCRIPTION:Orlando Magic at Brooklyn Nets (Beijing time)\n\nScore: Brookl
+ yn Nets 111 - 113 Orlando Magic\n\nSource: https://www.nba.com/nba-cup
 CATEGORIES:Brooklyn Nets Schedule
 URL;VALUE=URI:https://www.nba.com/nba-cup
 STATUS:CONFIRMED
@@ -205,7 +198,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600291@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261124T083000
 DTEND;TZID=Asia/Shanghai:20261124T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Minnesota Timberwolves
@@ -218,7 +211,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600060@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261126T090000
 DTEND;TZID=Asia/Shanghai:20261126T100000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Milwaukee Bucks
@@ -231,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600067@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261128T083000
 DTEND;TZID=Asia/Shanghai:20261128T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Toronto Raptors
@@ -244,7 +237,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600298@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261129T070000
 DTEND;TZID=Asia/Shanghai:20261129T080000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Charlotte Hornets
@@ -257,7 +250,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600314@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261201T083000
 DTEND;TZID=Asia/Shanghai:20261201T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Oklahoma City Thunder
@@ -270,7 +263,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600333@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261203T090000
 DTEND;TZID=Asia/Shanghai:20261203T100000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Oklahoma City Thunder
@@ -283,7 +276,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600349@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261214T040000
 DTEND;TZID=Asia/Shanghai:20261214T050000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Boston Celtics
@@ -296,7 +289,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600356@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261215T080000
 DTEND;TZID=Asia/Shanghai:20261215T090000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Detroit Pistons
@@ -309,7 +302,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600373@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261217T083000
 DTEND;TZID=Asia/Shanghai:20261217T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Dallas Mavericks
@@ -322,7 +315,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600388@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261219T083000
 DTEND;TZID=Asia/Shanghai:20261219T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Orlando Magic
@@ -335,7 +328,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600400@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261221T040000
 DTEND;TZID=Asia/Shanghai:20261221T050000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Washington Wizards
@@ -348,7 +341,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600413@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261222T083000
 DTEND;TZID=Asia/Shanghai:20261222T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Portland Trail Blazers
@@ -361,7 +354,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600427@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261224T083000
 DTEND;TZID=Asia/Shanghai:20261224T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs San Antonio Spurs
@@ -374,7 +367,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600441@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261227T070000
 DTEND;TZID=Asia/Shanghai:20261227T080000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs New Orleans Pelicans
@@ -387,7 +380,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600449@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261228T070000
 DTEND;TZID=Asia/Shanghai:20261228T080000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ New York Knicks
@@ -400,7 +393,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600468@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20261230T110000
 DTEND;TZID=Asia/Shanghai:20261230T120000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Portland Trail Blazers
@@ -413,7 +406,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600482@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270101T070000
 DTEND;TZID=Asia/Shanghai:20270101T080000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Sacramento Kings
@@ -426,7 +419,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600499@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270103T093000
 DTEND;TZID=Asia/Shanghai:20270103T103000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Golden State Warriors
@@ -439,7 +432,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600514@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270105T100000
 DTEND;TZID=Asia/Shanghai:20270105T110000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Utah Jazz
@@ -452,7 +445,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600525@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270107T083000
 DTEND;TZID=Asia/Shanghai:20270107T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Utah Jazz
@@ -465,7 +458,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600534@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270108T083000
 DTEND;TZID=Asia/Shanghai:20270108T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Miami Heat
@@ -478,7 +471,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600551@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270110T070000
 DTEND;TZID=Asia/Shanghai:20270110T080000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Houston Rockets
@@ -491,7 +484,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600564@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270112T080000
 DTEND;TZID=Asia/Shanghai:20270112T090000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Indiana Pacers
@@ -504,7 +497,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600570@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270113T083000
 DTEND;TZID=Asia/Shanghai:20270113T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Miami Heat
@@ -517,7 +510,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600586@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270115T080000
 DTEND;TZID=Asia/Shanghai:20270115T090000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Philadelphia 76ers
@@ -530,7 +523,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600602@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270117T080000
 DTEND;TZID=Asia/Shanghai:20270117T090000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Boston Celtics
@@ -543,7 +536,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600625@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270121T080000
 DTEND;TZID=Asia/Shanghai:20270121T090000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Chicago Bulls
@@ -556,7 +549,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600635@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270122T083000
 DTEND;TZID=Asia/Shanghai:20270122T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Cleveland Cavaliers
@@ -569,7 +562,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600650@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270124T070000
 DTEND;TZID=Asia/Shanghai:20270124T080000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Toronto Raptors
@@ -582,7 +575,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600665@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270126T083000
 DTEND;TZID=Asia/Shanghai:20270126T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Miami Heat
@@ -595,7 +588,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600680@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270128T083000
 DTEND;TZID=Asia/Shanghai:20270128T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Phoenix Suns
@@ -608,7 +601,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600696@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270130T083000
 DTEND;TZID=Asia/Shanghai:20270130T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs LA Clippers
@@ -621,7 +614,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600709@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270201T070000
 DTEND;TZID=Asia/Shanghai:20270201T080000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Orlando Magic
@@ -634,7 +627,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600718@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270202T083000
 DTEND;TZID=Asia/Shanghai:20270202T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs New York Knicks
@@ -647,7 +640,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600738@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270205T083000
 DTEND;TZID=Asia/Shanghai:20270205T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Los Angeles Lakers
@@ -660,7 +653,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600756@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270207T070000
 DTEND;TZID=Asia/Shanghai:20270207T080000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Washington Wizards
@@ -673,7 +666,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600772@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270209T080000
 DTEND;TZID=Asia/Shanghai:20270209T090000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Philadelphia 76ers
@@ -686,7 +679,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600779@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270210T083000
 DTEND;TZID=Asia/Shanghai:20270210T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Minnesota Timberwolves
@@ -699,7 +692,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600803@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270213T080000
 DTEND;TZID=Asia/Shanghai:20270213T090000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Washington Wizards
@@ -712,7 +705,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600819@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270215T020000
 DTEND;TZID=Asia/Shanghai:20270215T030000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Miami Heat
@@ -725,7 +718,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600838@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270218T083000
 DTEND;TZID=Asia/Shanghai:20270218T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Atlanta Hawks
@@ -738,7 +731,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600852@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270226T083000
 DTEND;TZID=Asia/Shanghai:20270226T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Philadelphia 76ers
@@ -751,7 +744,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600868@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270228T090000
 DTEND;TZID=Asia/Shanghai:20270228T100000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Chicago Bulls
@@ -764,7 +757,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600885@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270302T100000
 DTEND;TZID=Asia/Shanghai:20270302T110000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Denver Nuggets
@@ -777,7 +770,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600901@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270304T100000
 DTEND;TZID=Asia/Shanghai:20270304T110000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Phoenix Suns
@@ -790,7 +783,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600910@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270305T113000
 DTEND;TZID=Asia/Shanghai:20270305T123000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ LA Clippers
@@ -803,7 +796,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600929@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270308T113000
 DTEND;TZID=Asia/Shanghai:20270308T123000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Los Angeles Lakers
@@ -816,7 +809,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600939@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270310T083000
 DTEND;TZID=Asia/Shanghai:20270310T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Milwaukee Bucks
@@ -829,7 +822,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600957@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270312T090000
 DTEND;TZID=Asia/Shanghai:20270312T100000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Atlanta Hawks
@@ -842,7 +835,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600969@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270314T040000
 DTEND;TZID=Asia/Shanghai:20270314T050000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Detroit Pistons
@@ -855,7 +848,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022600984@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270316T073000
 DTEND;TZID=Asia/Shanghai:20270316T083000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Indiana Pacers
@@ -868,7 +861,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022601001@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270318T083000
 DTEND;TZID=Asia/Shanghai:20270318T093000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Houston Rockets
@@ -881,7 +874,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022601011@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270319T080000
 DTEND;TZID=Asia/Shanghai:20270319T090000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ San Antonio Spurs
@@ -894,7 +887,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022601029@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270322T030000
 DTEND;TZID=Asia/Shanghai:20270322T040000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Sacramento Kings
@@ -907,7 +900,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022601043@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270324T073000
 DTEND;TZID=Asia/Shanghai:20270324T083000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Boston Celtics
@@ -920,7 +913,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022601063@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270326T073000
 DTEND;TZID=Asia/Shanghai:20270326T083000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Denver Nuggets
@@ -933,7 +926,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022601081@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270329T030000
 DTEND;TZID=Asia/Shanghai:20270329T040000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Memphis Grizzlies
@@ -946,7 +939,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022601092@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270330T073000
 DTEND;TZID=Asia/Shanghai:20270330T083000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Golden State Warriors
@@ -959,7 +952,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022601107@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270401T073000
 DTEND;TZID=Asia/Shanghai:20270401T083000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Cleveland Cavaliers
@@ -972,7 +965,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022601119@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270403T073000
 DTEND;TZID=Asia/Shanghai:20270403T083000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs New York Knicks
@@ -985,7 +978,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022601132@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270405T020000
 DTEND;TZID=Asia/Shanghai:20270405T030000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Milwaukee Bucks
@@ -998,7 +991,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022601144@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270406T070000
 DTEND;TZID=Asia/Shanghai:20270406T080000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Cleveland Cavaliers
@@ -1011,7 +1004,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022601160@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270408T073000
 DTEND;TZID=Asia/Shanghai:20270408T083000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Toronto Raptors
@@ -1024,7 +1017,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022601173@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270410T070000
 DTEND;TZID=Asia/Shanghai:20270410T080000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets @ Charlotte Hornets
@@ -1037,7 +1030,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nba-bkn-nba-2027-regular-0022601187@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;TZID=Asia/Shanghai:20270412T060000
 DTEND;TZID=Asia/Shanghai:20270412T070000
 SUMMARY:Brooklyn Nets Schedule · Brooklyn Nets vs Toronto Raptors

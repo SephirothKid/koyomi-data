@@ -9,55 +9,6 @@ X-WR-CALDESC:Selected PC releases and upcoming PlayStation, Xbox, and Swit
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-UID:rawg-releases-rawg-releases-2026-10-20@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261020T000000
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Mycopunk release
-DESCRIPTION:Mycopunk releases on PC.\n\nReleases this day:\n1. Mycopunk (P
- C)\n\nGame count: 1\nGames: Mycopunk\nPlatforms: PC\nData source: RAWG\n\n
- Source: https://rawg.io/games/mycopunk
-CATEGORIES:Game Releases
-URL;VALUE=URI:https://rawg.io/games/mycopunk
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:rawg-releases-rawg-releases-2026-10-21@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261021T000000
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Stupid Never Dies release
-DESCRIPTION:Stupid Never Dies releases on PC.\n\nReleases this day:\n1. St
- upid Never Dies (PC)\n\nGame count: 1\nGames: Stupid Never Dies\nPlatforms
- : PC\nData source: RAWG\n\nSource: https://rawg.io/games/stupid-never-dies
-CATEGORIES:Game Releases
-URL;VALUE=URI:https://rawg.io/games/stupid-never-dies
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:rawg-releases-rawg-releases-2026-10-22@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261022T000000
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Final Fantasy Resonance release
-DESCRIPTION:Final Fantasy Resonance releases on PC / PS5 / Switch.\n\nRele
- ases this day:\n1. Final Fantasy Resonance (PC / PS5 / Switch)\n\nGame cou
- nt: 1\nGames: Final Fantasy Resonance\nPlatforms: PC / PS5 / Switch\nData 
- source: RAWG\n\nSource: https://rawg.io/games/final-fantasy-resonance
-CATEGORIES:Game Releases
-URL;VALUE=URI:https://rawg.io/games/final-fantasy-resonance
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-10-25@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261025T000000
@@ -399,32 +350,33 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-11-20@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261120T000000
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:ReactorX 4 + 4 more releases
+SUMMARY:ReactorX 4 + 5 more releases
 DESCRIPTION:Releases this day: ReactorX 4\, Ritebound\, Big Jhow Jet\, Chi
- gusa's Diary\, Void Rhythm.\n\nReleases this day:\n1. ReactorX 4 (Xbox)\n2
- . Ritebound (Xbox)\n3. Big Jhow Jet (Switch)\n4. Chigusa's Diary (PC)\n5. 
- Void Rhythm (PC)\n\nGame count: 5\nGames: ReactorX 4\, Ritebound\, Big Jho
- w Jet\, Chigusa's Diary\, Void Rhythm\nPlatforms: PC / Switch / Xbox\nData
-  source: Heybox\nSource links: https://api.xiaoheihe.cn/game/release_calen
- dar/game_list/single_day?day_timestamp=1795104000&filter_hot=all&filter_pl
- atform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/sing
- le_day?day_timestamp=1795104000&filter_hot=all&filter_platform=switch\nhtt
- ps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_times
- tamp=1795104000&filter_hot=hot&filter_platform=pc\n\nSource: https://www.x
- iaoheihe.cn/
+ gusa's Diary\, Void Rhythm\, Blacksmith Master.\n\nReleases this day:\n1. 
+ ReactorX 4 (Xbox)\n2. Ritebound (Xbox)\n3. Big Jhow Jet (Switch)\n4. Chigu
+ sa's Diary (PC)\n5. Void Rhythm (PC)\n6. Blacksmith Master (PC)\n\nGame co
+ unt: 6\nGames: ReactorX 4\, Ritebound\, Big Jhow Jet\, Chigusa's Diary\, V
+ oid Rhythm\, Blacksmith Master\nPlatforms: PC / Switch / Xbox\nData source
+ : Heybox\nSource links: https://api.xiaoheihe.cn/game/release_calendar/gam
+ e_list/single_day?day_timestamp=1795104000&filter_hot=all&filter_platform=
+ xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?
+ day_timestamp=1795104000&filter_hot=all&filter_platform=switch\nhttps://ap
+ i.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=17
+ 95104000&filter_hot=hot&filter_platform=pc\n\nSource: https://www.xiaoheih
+ e.cn/
 CATEGORIES:Game Releases
 URL;VALUE=URI:https://www.xiaoheihe.cn/
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-11-21@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261121T000000
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -439,31 +391,35 @@ DESCRIPTION:Releases this day: Misblood.\n\nReleases this day:\n1. Misbloo
 CATEGORIES:Game Releases
 URL;VALUE=URI:https://api.xiaoheihe.cn/game/share_game_detail?appid=900221
  366&game_type=console
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-11-23@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Jaden Industries: Cozy Automation Puzzler + 3 more releases
+SUMMARY:Jaden Industries: Cozy Automation Puzzler + 5 more releases
 DESCRIPTION:Releases this day: Jaden Industries: Cozy Automation Puzzler\,
-  One More Delve\, The Spotter: Dig or Die\, Jaden Industries: Cozy Automat
- ion Puzzler.\n\nReleases this day:\n1. Jaden Industries: Cozy Automation P
- uzzler (Xbox)\n2. One More Delve (PlayStation)\n3. The Spotter: Dig or Die
-  (PlayStation)\n4. Jaden Industries: Cozy Automation Puzzler (Switch)\n\nG
- ame count: 4\nGames: Jaden Industries: Cozy Automation Puzzler\, One More 
- Delve\, The Spotter: Dig or Die\, Jaden Industries: Cozy Automation Puzzle
- r\nPlatforms: PlayStation / Switch / Xbox\nData source: Heybox\nSource lin
- ks: https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?da
- y_timestamp=1795363200&filter_hot=all&filter_platform=xbox\nhttps://api.xi
- aoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=179536
- 3200&filter_hot=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn/game/rel
- ease_calendar/game_list/single_day?day_timestamp=1795363200&filter_hot=all
- &filter_platform=switch\n\nSource: https://www.xiaoheihe.cn/
+  Jaden Industries: Cozy Automation Puzzler\, One More Delve\, The Spotter:
+  Dig or Die\, What Do You Meme?® The Video Game\, Jaden Industries: Cozy 
+ Automation Puzzler.\n\nReleases this day:\n1. Jaden Industries: Cozy Autom
+ ation Puzzler (Xbox)\n2. Jaden Industries: Cozy Automation Puzzler (PlaySt
+ ation)\n3. One More Delve (PlayStation)\n4. The Spotter: Dig or Die (PlayS
+ tation)\n5. What Do You Meme?® The Video Game (Xbox)\n6. Jaden Industries
+ : Cozy Automation Puzzler (Switch)\n\nGame count: 6\nGames: Jaden Industri
+ es: Cozy Automation Puzzler\, Jaden Industries: Cozy Automation Puzzler\, 
+ One More Delve\, The Spotter: Dig or Die\, What Do You Meme?® The Video G
+ ame\, Jaden Industries: Cozy Automation Puzzler\nPlatforms: PlayStation / 
+ Switch / Xbox\nData source: Heybox\nSource links: https://api.xiaoheihe.cn
+ /game/release_calendar/game_list/single_day?day_timestamp=1795363200&filte
+ r_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_cale
+ ndar/game_list/single_day?day_timestamp=1795363200&filter_hot=all&filter_p
+ latform=ps4\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/sing
+ le_day?day_timestamp=1795363200&filter_hot=all&filter_platform=switch\n\nS
+ ource: https://www.xiaoheihe.cn/
 CATEGORIES:Game Releases
 URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
@@ -471,29 +427,29 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-11-24@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Prizma Puzzle Classic 3 + 7 more releases
-DESCRIPTION:Releases this day: Prizma Puzzle Classic 3\, Storage Hunter Si
- mulator\, Storage Hunter Simulator\, Sunstone of Time\, The Spotter: Dig o
- r Die\, Gothic 3 Classic\, Gothic 3 Classic\, Game pc:4498140.\n\nReleases
-  this day:\n1. Prizma Puzzle Classic 3 (PlayStation)\n2. Storage Hunter Si
- mulator (Xbox)\n3. Storage Hunter Simulator (PlayStation)\n4. Sunstone of 
- Time (PlayStation)\n5. The Spotter: Dig or Die (Xbox)\n6. Gothic 3 Classic
-  (PlayStation)\n7. Gothic 3 Classic (Xbox)\n8. Game pc:4498140 (PC)\n\nGam
- e count: 8\nGames: Prizma Puzzle Classic 3\, Storage Hunter Simulator\, St
- orage Hunter Simulator\, Sunstone of Time\, The Spotter: Dig or Die\, Goth
- ic 3 Classic\, Gothic 3 Classic\, Game pc:4498140\nPlatforms: PC / PlaySta
- tion / Xbox\nData source: Heybox\nSource links: https://api.xiaoheihe.cn/g
- ame/release_calendar/game_list/single_day?day_timestamp=1795449600&filter_
- hot=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_calenda
- r/game_list/single_day?day_timestamp=1795449600&filter_hot=all&filter_plat
- form=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single
- _day?day_timestamp=1795449600&filter_hot=hot&filter_platform=pc\n\nSource:
-  https://www.xiaoheihe.cn/
+SUMMARY:A Fold Apart: Recrafted + 8 more releases
+DESCRIPTION:Releases this day: A Fold Apart: Recrafted\, KARAKARA3\, Stora
+ ge Hunter Simulator\, Storage Hunter Simulator\, Sunstone of Time\, The Sp
+ otter: Dig or Die\, Gothic 3 Classic\, Gothic 3 Classic\, Game pc:4498140.
+ \n\nReleases this day:\n1. A Fold Apart: Recrafted (Xbox)\n2. KARAKARA3 (P
+ C)\n3. Storage Hunter Simulator (Xbox)\n4. Storage Hunter Simulator (PlayS
+ tation)\n5. Sunstone of Time (PlayStation)\n6. The Spotter: Dig or Die (Xb
+ ox)\n7. Gothic 3 Classic (PlayStation)\n8. Gothic 3 Classic (Xbox)\n9. Gam
+ e pc:4498140 (PC)\n\nGame count: 9\nGames: A Fold Apart: Recrafted\, KARAK
+ ARA3\, Storage Hunter Simulator\, Storage Hunter Simulator\, Sunstone of T
+ ime\, The Spotter: Dig or Die\, Gothic 3 Classic\, Gothic 3 Classic\, Game
+  pc:4498140\nPlatforms: PC / PlayStation / Xbox\nData source: Heybox\nSour
+ ce links: https://api.xiaoheihe.cn/game/release_calendar/game_list/single_
+ day?day_timestamp=1795449600&filter_hot=all&filter_platform=xbox\nhttps://
+ api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=
+ 1795449600&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/gam
+ e/release_calendar/game_list/single_day?day_timestamp=1795449600&filter_ho
+ t=all&filter_platform=ps4\n\nSource: https://www.xiaoheihe.cn/
 CATEGORIES:Game Releases
 URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
@@ -501,34 +457,34 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-11-25@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Arctic Drive (Early Access) + 12 more releases
-DESCRIPTION:Releases this day: Arctic Drive (Early Access)\, Bungle Brawl:
-  Couch Co-op Party\, Cat Mirror (Windows)\, Cat Mirror\, Cat Mirror (Xbox 
- One)\, Floor 9\, High School Dirty Secrets\, Relaywardens\, Sokobear Goo (
- Xbox One)\, Sokobear Goo (Windows)\, Sokobear Goo\, When Chests Rain Tons 
- of Loot\, Game console:900220039.\n\nReleases this day:\n1. Arctic Drive (
- Early Access) (PC)\n2. Bungle Brawl: Couch Co-op Party (Xbox)\n3. Cat Mirr
- or (Windows) (Xbox)\n4. Cat Mirror (Xbox)\n5. Cat Mirror (Xbox One) (Xbox)
- \n6. Floor 9 (PlayStation)\n7. High School Dirty Secrets (PlayStation)\n8.
-  Relaywardens (PlayStation)\n9. Sokobear Goo (Xbox One) (Xbox)\n10. Sokobe
- ar Goo (Windows) (Xbox)\n11. Sokobear Goo (Xbox)\n12. When Chests Rain Ton
- s of Loot (PC)\n13. Game console:900220039 (PlayStation)\n\nGame count: 13
- \nGames: Arctic Drive (Early Access)\, Bungle Brawl: Couch Co-op Party\, C
- at Mirror (Windows)\, Cat Mirror\, Cat Mirror (Xbox One)\, Floor 9\, High 
- School Dirty Secrets\, Relaywardens\, Sokobear Goo (Xbox One)\, Sokobear G
- oo (Windows)\, Sokobear Goo\, When Chests Rain Tons of Loot\, Game console
+SUMMARY:Bungle Brawl: Couch Co-op Party + 12 more releases
+DESCRIPTION:Releases this day: Bungle Brawl: Couch Co-op Party\, Cat Mirro
+ r (Windows)\, Cat Mirror\, Cat Mirror (Xbox One)\, Floor 9\, High School D
+ irty Secrets\, Relaywardens\, Sokobear Goo (Xbox One)\, Sokobear Goo (Wind
+ ows)\, Sokobear Goo\, When Chests Rain Tons of Loot\, Arctic Drive (Early 
+ Access)\, Game console:900220039.\n\nReleases this day:\n1. Bungle Brawl: 
+ Couch Co-op Party (Xbox)\n2. Cat Mirror (Windows) (Xbox)\n3. Cat Mirror (X
+ box)\n4. Cat Mirror (Xbox One) (Xbox)\n5. Floor 9 (PlayStation)\n6. High S
+ chool Dirty Secrets (PlayStation)\n7. Relaywardens (PlayStation)\n8. Sokob
+ ear Goo (Xbox One) (Xbox)\n9. Sokobear Goo (Windows) (Xbox)\n10. Sokobear 
+ Goo (Xbox)\n11. When Chests Rain Tons of Loot (PC)\n12. Arctic Drive (Earl
+ y Access) (PC)\n13. Game console:900220039 (PlayStation)\n\nGame count: 13
+ \nGames: Bungle Brawl: Couch Co-op Party\, Cat Mirror (Windows)\, Cat Mirr
+ or\, Cat Mirror (Xbox One)\, Floor 9\, High School Dirty Secrets\, Relaywa
+ rdens\, Sokobear Goo (Xbox One)\, Sokobear Goo (Windows)\, Sokobear Goo\, 
+ When Chests Rain Tons of Loot\, Arctic Drive (Early Access)\, Game console
  :900220039\nPlatforms: PC / PlayStation / Xbox\nData source: Heybox\nSourc
  e links: https://api.xiaoheihe.cn/game/release_calendar/game_list/single_d
- ay?day_timestamp=1795536000&filter_hot=hot&filter_platform=pc\nhttps://api
- .xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=179
- 5536000&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game
- /release_calendar/game_list/single_day?day_timestamp=1795536000&filter_hot
- =all&filter_platform=ps4\n\nSource: https://www.xiaoheihe.cn/
+ ay?day_timestamp=1795536000&filter_hot=all&filter_platform=xbox\nhttps://a
+ pi.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1
+ 795536000&filter_hot=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn/gam
+ e/release_calendar/game_list/single_day?day_timestamp=1795536000&filter_ho
+ t=hot&filter_platform=pc\n\nSource: https://www.xiaoheihe.cn/
 CATEGORIES:Game Releases
 URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
@@ -536,101 +492,111 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-11-26@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Game console:900222117 + 72 more releases
-DESCRIPTION:Releases this day: Game console:900222117\, Game console:90022
- 2108\, ALICE＝ALICE ＆ BAD MEDICINE 2in1 PACK for Nintendo Switch\, Astr
- alis : Dawnblades\, Bogos Binted\, Calculus of Rot\, Find the Needle\, Ful
- l Metal Sergeant 2\, Full Metal Sergeant 2\, Gravity Switch\, Gravity SWlT
- CH\, GT Racing Pro\, Hazard Pay\, JAPAN BUS SIMULATOR\, KuloNiku: Bowl Up!
- \, Marupoyo\, Marupoyo: The Round Chick's Adventure\, MIX DUNK -KING OF BA
- SKETBALL-\, Game console:900222098\, No Umbrellas Allowed\, ONE-ROOM ZOMBI
- E\, Game console:900222122\, Relaywardens\, Reshine\, Smartopus: IQ Quest\
- , Star Battle: Space Warship Commander\, Station to Station\, TANK Z\, The
-  Spectrum Retreat: Redux\, Tiny Pizza\, Game console:900222156\, Piece by 
- Piece\, Game console:900222110\, Bunny Minesweeper\, Full Metal Sergeant 2
- \, Game console:900222141\, SAI-KYO-OH! Clash Battle Kings\, Hadean Tactic
- s\, PiyottoPlanet\, Egypt Farm\, Grave Mistakes\, Game console:900222142\,
-  Game console:900220143\, Game console:900222106\, Game console:900221161\
- , Game console:900222111\, Game console:900222086\, Chronocracy\, Game con
- sole:900222124\, Game console:900222092\, The Retrospection Of Tomorrow\, 
- Game console:900222007\, Game console:900222021\, Killer Toys 2\, No Body 
- No Problem!\, Thrifty Business\, Game console:900221859\, MANIC MINER\, Ya
- ndere Temptation: Crazy Anime Boys Obsession\, Yandere Temptation: Crazy A
- nime Girls Obsession\, Picronix 3\, Game console:900222125\, Station to St
- ation\, Game console:900222126\, Mawkey The Last Macaw\, Where are Leo and
-  Mia? Jungle Adventure\, Fortune Avenue\, Cascade\, Taxi Chaos 2\, Magical
- Charming!\, Game console:900218587\, Shark Mart\, Big Golden Rock.\n\nRele
- ases this day:\n1. Game console:900222117 (Switch)\n2. Game console:900222
- 108 (Switch)\n3. ALICE＝ALICE ＆ BAD MEDICINE 2in1 PACK for Nintendo Swi
- tch (Switch)\n4. Astralis : Dawnblades (Switch)\n5. Bogos Binted (Xbox)\n6
- . Calculus of Rot (Switch)\n7. Find the Needle (Switch)\n8. Full Metal Ser
- geant 2 (Xbox)\n9. Full Metal Sergeant 2 (PlayStation)\n10. Gravity Switch
-  (Switch)\n11. Gravity SWlTCH (Xbox)\n12. GT Racing Pro (Switch)\n13. Haza
- rd Pay (Switch)\n14. JAPAN BUS SIMULATOR (Switch)\n15. KuloNiku: Bowl Up! 
- (Switch)\n16. Marupoyo (Xbox)\n17. Marupoyo: The Round Chick's Adventure (
- Switch)\n18. MIX DUNK -KING OF BASKETBALL- (Switch)\n19. Game console:9002
- 22098 (Switch)\n20. No Umbrellas Allowed (Switch)\n21. ONE-ROOM ZOMBIE (Sw
- itch)\n22. Game console:900222122 (Switch)\n23. Relaywardens (Switch)\n24.
-  Reshine (Switch)\n25. Smartopus: IQ Quest (Switch)\n26. Star Battle: Spac
- e Warship Commander (Switch)\n27. Station to Station (PlayStation)\n28. TA
- NK Z (Switch)\n29. The Spectrum Retreat: Redux (Xbox)\n30. Tiny Pizza (Swi
- tch)\n31. Game console:900222156 (Switch)\n32. Piece by Piece (Switch)\n33
- . Game console:900222110 (Switch)\n34. Bunny Minesweeper (PlayStation)\n35
- . Full Metal Sergeant 2 (Switch)\n36. Game console:900222141 (Switch)\n37.
-  SAI-KYO-OH! Clash Battle Kings (Switch)\n38. Hadean Tactics (Switch)\n39.
-  PiyottoPlanet (Switch)\n40. Egypt Farm (Switch)\n41. Grave Mistakes (PC)\
- n42. Game console:900222142 (Switch)\n43. Game console:900220143 (Switch)\
- n44. Game console:900222106 (Switch)\n45. Game console:900221161 (Switch)\
- n46. Game console:900222111 (Switch)\n47. Game console:900222086 (Switch)\
- n48. Chronocracy (PC)\n49. Game console:900222124 (Switch)\n50. Game conso
- le:900222092 (Switch)\n51. The Retrospection Of Tomorrow (PC)\n52. Game co
- nsole:900222007 (Xbox)\n53. Game console:900222021 (PlayStation)\n54. Kill
- er Toys 2 (Switch)\n55. No Body No Problem! (PC)\n56. Thrifty Business (Sw
- itch)\n57. Game console:900221859 (Switch)\n58. MANIC MINER (Switch)\n59. 
- Yandere Temptation: Crazy Anime Boys Obsession (Switch)\n60. Yandere Tempt
- ation: Crazy Anime Girls Obsession (Switch)\n61. Picronix 3 (Switch)\n62. 
- Game console:900222125 (Switch)\n63. Station to Station (Switch)\n64. Game
-  console:900222126 (Switch)\n65. Mawkey The Last Macaw (Switch)\n66. Where
-  are Leo and Mia? Jungle Adventure (Switch)\n67. Fortune Avenue (Switch)\n
- 68. Cascade (Switch)\n69. Taxi Chaos 2 (Switch)\n70. MagicalCharming! (Swi
- tch)\n71. Game console:900218587 (Switch)\n72. Shark Mart (PC)\n73. Big Go
- lden Rock (Switch)\n\nGame count: 73\nGames: Game console:900222117\, Game
-  console:900222108\, ALICE＝ALICE ＆ BAD MEDICINE 2in1 PACK for Nintendo
-  Switch\, Astralis : Dawnblades\, Bogos Binted\, Calculus of Rot\, Find th
- e Needle\, Full Metal Sergeant 2\, Full Metal Sergeant 2\, Gravity Switch\
- , Gravity SWlTCH\, GT Racing Pro\, Hazard Pay\, JAPAN BUS SIMULATOR\, Kulo
- Niku: Bowl Up!\, Marupoyo\, Marupoyo: The Round Chick's Adventure\, MIX DU
- NK -KING OF BASKETBALL-\, Game console:900222098\, No Umbrellas Allowed\, 
- ONE-ROOM ZOMBIE\, Game console:900222122\, Relaywardens\, Reshine\, Smarto
- pus: IQ Quest\, Star Battle: Space Warship Commander\, Station to Station\
- , TANK Z\, The Spectrum Retreat: Redux\, Tiny Pizza\, Game console:9002221
- 56\, Piece by Piece\, Game console:900222110\, Bunny Minesweeper\, Full Me
- tal Sergeant 2\, Game console:900222141\, SAI-KYO-OH! Clash Battle Kings\,
-  Hadean Tactics\, PiyottoPlanet\, Egypt Farm\, Grave Mistakes\, Game conso
- le:900222142\, Game console:900220143\, Game console:900222106\, Game cons
- ole:900221161\, Game console:900222111\, Game console:900222086\, Chronocr
- acy\, Game console:900222124\, Game console:900222092\, The Retrospection 
- Of Tomorrow\, Game console:900222007\, Game console:900222021\, Killer Toy
- s 2\, No Body No Problem!\, Thrifty Business\, Game console:900221859\, MA
- NIC MINER\, Yandere Temptation: Crazy Anime Boys Obsession\, Yandere Tempt
- ation: Crazy Anime Girls Obsession\, Picronix 3\, Game console:900222125\,
-  Station to Station\, Game console:900222126\, Mawkey The Last Macaw\, Whe
- re are Leo and Mia? Jungle Adventure\, Fortune Avenue\, Cascade\, Taxi Cha
- os 2\, MagicalCharming!\, Game console:900218587\, Shark Mart\, Big Golden
-  Rock\nPlatforms: PC / PlayStation / Switch / Xbox\nData source: Heybox\nS
- ource links: https://api.xiaoheihe.cn/game/release_calendar/game_list/sing
- le_day?day_timestamp=1795622400&filter_hot=all&filter_platform=switch\nhtt
- ps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_times
- tamp=1795622400&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe
- .cn/game/release_calendar/game_list/single_day?day_timestamp=1795622400&fi
- lter_hot=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_ca
- lendar/game_list/single_day?day_timestamp=1795622400&filter_hot=hot&filter
- _platform=pc\n\nSource: https://www.xiaoheihe.cn/
+SUMMARY:Game console:900222117 + 80 more releases
+DESCRIPTION:Releases this day: Game console:900222117\, Security 51\, Game
+  console:900222168\, ALICE＝ALICE ＆ BAD MEDICINE 2in1 PACK for Nintendo
+  Switch\, Astralis : Dawnblades\, Bogos Binted\, Calculus of Rot\, Calculu
+ s of Rot\, Find the Needle\, Full Metal Sergeant 2\, Full Metal Sergeant 2
+ \, Gravity Switch\, Gravity SWlTCH\, GT Racing Pro\, Hazard Pay\, JAPAN BU
+ S SIMULATOR\, KuloNiku: Bowl Up!\, Marupoyo\, Marupoyo: The Round Chick's 
+ Adventure\, MIX DUNK -KING OF BASKETBALL-\, Niconico-san\, No Umbrellas Al
+ lowed\, ONE-ROOM ZOMBIE\, Pup Champs\, Relaywardens\, Reshine\, Security 5
+ 1\, Smartopus: IQ Quest\, Star Battle: Space Warship Commander\, Station t
+ o Station\, TANK Z\, The Spectrum Retreat: Redux\, Tiny Pizza\, Tri6: Infi
+ nite 2\, Game console:900222156\, Piece by Piece\, Game console:900222110\
+ , Bunny Minesweeper\, Full Metal Sergeant 2\, Final Kick Football Legends\
+ , SAI-KYO-OH! Clash Battle Kings\, Hadean Tactics\, PiyottoPlanet\, Egypt 
+ Farm\, Grave Mistakes\, Game console:900222142\, Game console:900220143\, 
+ Game console:900222106\, Game console:900221161\, Game console:900222111\,
+  I Fell for the Florist: A Suspense Romance Adventure\, Chronocracy\, Game
+  console:900222124\, Ball Scooping Friends\, The Retrospection Of Tomorrow
+ \, Game console:900222007\, Game console:900222021\, Killer Toys 2\, No Bo
+ dy No Problem!\, Thrifty Business\, Game console:900221859\, MANIC MINER\,
+  Yandere Temptation: Crazy Anime Boys Obsession\, Yandere Temptation: Craz
+ y Anime Girls Obsession\, Picronix 3\, Zumba - Christmas Marble Saga\, Gam
+ e console:900222125\, Station to Station\, Brain Training Jigsaw Puzzle Wo
+ rld Scenery\, Mawkey The Last Macaw\, Where are Leo and Mia? Jungle Advent
+ ure\, Fortune Avenue\, Cascade\, Taxi Chaos 2\, Rebirth Blossom - The Spir
+ it Chronicles\, Feral Road\, BODYCAMERA: Drone Edition\, MagicalCharming!\
+ , Game console:900218587\, Shark Mart\, Big Golden Rock.\n\nReleases this 
+ day:\n1. Game console:900222117 (Switch)\n2. Security 51 (Switch)\n3. Game
+  console:900222168 (Xbox)\n4. ALICE＝ALICE ＆ BAD MEDICINE 2in1 PACK for
+  Nintendo Switch (Switch)\n5. Astralis : Dawnblades (Switch)\n6. Bogos Bin
+ ted (Xbox)\n7. Calculus of Rot (Switch)\n8. Calculus of Rot (Xbox)\n9. Fin
+ d the Needle (Switch)\n10. Full Metal Sergeant 2 (Xbox)\n11. Full Metal Se
+ rgeant 2 (PlayStation)\n12. Gravity Switch (Switch)\n13. Gravity SWlTCH (X
+ box)\n14. GT Racing Pro (Switch)\n15. Hazard Pay (Switch)\n16. JAPAN BUS S
+ IMULATOR (Switch)\n17. KuloNiku: Bowl Up! (Switch)\n18. Marupoyo (Xbox)\n1
+ 9. Marupoyo: The Round Chick's Adventure (Switch)\n20. MIX DUNK -KING OF B
+ ASKETBALL- (Switch)\n21. Niconico-san (Switch)\n22. No Umbrellas Allowed (
+ Switch)\n23. ONE-ROOM ZOMBIE (Switch)\n24. Pup Champs (Switch)\n25. Relayw
+ ardens (Switch)\n26. Reshine (Switch)\n27. Security 51 (PlayStation)\n28. 
+ Smartopus: IQ Quest (Switch)\n29. Star Battle: Space Warship Commander (Sw
+ itch)\n30. Station to Station (PlayStation)\n31. TANK Z (Switch)\n32. The 
+ Spectrum Retreat: Redux (Xbox)\n33. Tiny Pizza (Switch)\n34. Tri6: Infinit
+ e 2 (Switch)\n35. Game console:900222156 (Switch)\n36. Piece by Piece (Swi
+ tch)\n37. Game console:900222110 (Switch)\n38. Bunny Minesweeper (PlayStat
+ ion)\n39. Full Metal Sergeant 2 (Switch)\n40. Final Kick Football Legends 
+ (Switch)\n41. SAI-KYO-OH! Clash Battle Kings (Switch)\n42. Hadean Tactics 
+ (Switch)\n43. PiyottoPlanet (Switch)\n44. Egypt Farm (Switch)\n45. Grave M
+ istakes (PC)\n46. Game console:900222142 (Switch)\n47. Game console:900220
+ 143 (Switch)\n48. Game console:900222106 (Switch)\n49. Game console:900221
+ 161 (Switch)\n50. Game console:900222111 (Switch)\n51. I Fell for the Flor
+ ist: A Suspense Romance Adventure (Switch)\n52. Chronocracy (PC)\n53. Game
+  console:900222124 (Switch)\n54. Ball Scooping Friends (Switch)\n55. The R
+ etrospection Of Tomorrow (PC)\n56. Game console:900222007 (Xbox)\n57. Game
+  console:900222021 (PlayStation)\n58. Killer Toys 2 (Switch)\n59. No Body 
+ No Problem! (PC)\n60. Thrifty Business (Switch)\n61. Game console:90022185
+ 9 (Switch)\n62. MANIC MINER (Switch)\n63. Yandere Temptation: Crazy Anime 
+ Boys Obsession (Switch)\n64. Yandere Temptation: Crazy Anime Girls Obsessi
+ on (Switch)\n65. Picronix 3 (Switch)\n66. Zumba - Christmas Marble Saga (S
+ witch)\n67. Game console:900222125 (Switch)\n68. Station to Station (Switc
+ h)\n69. Brain Training Jigsaw Puzzle World Scenery (Switch)\n70. Mawkey Th
+ e Last Macaw (Switch)\n71. Where are Leo and Mia? Jungle Adventure (Switch
+ )\n72. Fortune Avenue (Switch)\n73. Cascade (Switch)\n74. Taxi Chaos 2 (Sw
+ itch)\n75. Rebirth Blossom - The Spirit Chronicles (Switch)\n76. Feral Roa
+ d (Switch)\n77. BODYCAMERA: Drone Edition (Switch)\n78. MagicalCharming! (
+ Switch)\n79. Game console:900218587 (Switch)\n80. Shark Mart (PC)\n81. Big
+  Golden Rock (Switch)\n\nGame count: 81\nGames: Game console:900222117\, S
+ ecurity 51\, Game console:900222168\, ALICE＝ALICE ＆ BAD MEDICINE 2in1 
+ PACK for Nintendo Switch\, Astralis : Dawnblades\, Bogos Binted\, Calculus
+  of Rot\, Calculus of Rot\, Find the Needle\, Full Metal Sergeant 2\, Full
+  Metal Sergeant 2\, Gravity Switch\, Gravity SWlTCH\, GT Racing Pro\, Haza
+ rd Pay\, JAPAN BUS SIMULATOR\, KuloNiku: Bowl Up!\, Marupoyo\, Marupoyo: T
+ he Round Chick's Adventure\, MIX DUNK -KING OF BASKETBALL-\, Niconico-san\
+ , No Umbrellas Allowed\, ONE-ROOM ZOMBIE\, Pup Champs\, Relaywardens\, Res
+ hine\, Security 51\, Smartopus: IQ Quest\, Star Battle: Space Warship Comm
+ ander\, Station to Station\, TANK Z\, The Spectrum Retreat: Redux\, Tiny P
+ izza\, Tri6: Infinite 2\, Game console:900222156\, Piece by Piece\, Game c
+ onsole:900222110\, Bunny Minesweeper\, Full Metal Sergeant 2\, Final Kick 
+ Football Legends\, SAI-KYO-OH! Clash Battle Kings\, Hadean Tactics\, Piyot
+ toPlanet\, Egypt Farm\, Grave Mistakes\, Game console:900222142\, Game con
+ sole:900220143\, Game console:900222106\, Game console:900221161\, Game co
+ nsole:900222111\, I Fell for the Florist: A Suspense Romance Adventure\, C
+ hronocracy\, Game console:900222124\, Ball Scooping Friends\, The Retrospe
+ ction Of Tomorrow\, Game console:900222007\, Game console:900222021\, Kill
+ er Toys 2\, No Body No Problem!\, Thrifty Business\, Game console:90022185
+ 9\, MANIC MINER\, Yandere Temptation: Crazy Anime Boys Obsession\, Yandere
+  Temptation: Crazy Anime Girls Obsession\, Picronix 3\, Zumba - Christmas 
+ Marble Saga\, Game console:900222125\, Station to Station\, Brain Training
+  Jigsaw Puzzle World Scenery\, Mawkey The Last Macaw\, Where are Leo and M
+ ia? Jungle Adventure\, Fortune Avenue\, Cascade\, Taxi Chaos 2\, Rebirth B
+ lossom - The Spirit Chronicles\, Feral Road\, BODYCAMERA: Drone Edition\, 
+ MagicalCharming!\, Game console:900218587\, Shark Mart\, Big Golden Rock\n
+ Platforms: PC / PlayStation / Switch / Xbox\nData source: Heybox\nSource l
+ inks: https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?
+ day_timestamp=1795622400&filter_hot=all&filter_platform=switch\nhttps://ap
+ i.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=17
+ 95622400&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/gam
+ e/release_calendar/game_list/single_day?day_timestamp=1795622400&filter_ho
+ t=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_calendar/
+ game_list/single_day?day_timestamp=1795622400&filter_hot=hot&filter_platfo
+ rm=pc\n\nSource: https://www.xiaoheihe.cn/
 CATEGORIES:Game Releases
 URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
@@ -638,29 +604,35 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-11-27@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Arkheron + 10 more releases
+SUMMARY:Arkheron + 14 more releases
 DESCRIPTION:Releases this day: Arkheron\, Arkheron\, Bunker Tidy Up\, Bunk
- er Tidy Up\, Luminova\, The Last Cat in the Universe\, Carry On Together\,
-  MeowFactory\, Reshine\, Point Zero: Victoria\, The False Alice -Retold Ta
- le-.\n\nReleases this day:\n1. Arkheron (Xbox)\n2. Arkheron (PC)\n3. Bunke
- r Tidy Up (Xbox)\n4. Bunker Tidy Up (PlayStation)\n5. Luminova (Xbox)\n6. 
- The Last Cat in the Universe (Xbox)\n7. Carry On Together (PC)\n8. MeowFac
- tory (PC)\n9. Reshine (PC)\n10. Point Zero: Victoria (PC)\n11. The False A
- lice -Retold Tale- (PC)\n\nGame count: 11\nGames: Arkheron\, Arkheron\, Bu
- nker Tidy Up\, Bunker Tidy Up\, Luminova\, The Last Cat in the Universe\, 
- Carry On Together\, MeowFactory\, Reshine\, Point Zero: Victoria\, The Fal
- se Alice -Retold Tale-\nPlatforms: PC / PlayStation / Xbox\nData source: H
- eybox\nSource links: https://api.xiaoheihe.cn/game/release_calendar/game_l
- ist/single_day?day_timestamp=1795708800&filter_hot=all&filter_platform=xbo
- x\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day
- _timestamp=1795708800&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoh
- eihe.cn/game/release_calendar/game_list/single_day?day_timestamp=179570880
- 0&filter_hot=all&filter_platform=ps4\n\nSource: https://www.xiaoheihe.cn/
+ er Tidy Up\, Feral Road\, Idle Breaker\, Luminova\, Nokee Notes\, Our Life
+ : Now & Forever (Early Access)\, The Last Cat in the Universe\, Carry On T
+ ogether\, MeowFactory\, Reshine\, Point Zero: Victoria\, The False Alice -
+ Retold Tale-.\n\nReleases this day:\n1. Arkheron (Xbox)\n2. Arkheron (PC)\
+ n3. Bunker Tidy Up (Xbox)\n4. Bunker Tidy Up (PlayStation)\n5. Feral Road 
+ (Xbox)\n6. Idle Breaker (Xbox)\n7. Luminova (Xbox)\n8. Nokee Notes (Switch
+ )\n9. Our Life: Now & Forever (Early Access) (PC)\n10. The Last Cat in the
+  Universe (Xbox)\n11. Carry On Together (PC)\n12. MeowFactory (PC)\n13. Re
+ shine (PC)\n14. Point Zero: Victoria (PC)\n15. The False Alice -Retold Tal
+ e- (PC)\n\nGame count: 15\nGames: Arkheron\, Arkheron\, Bunker Tidy Up\, B
+ unker Tidy Up\, Feral Road\, Idle Breaker\, Luminova\, Nokee Notes\, Our L
+ ife: Now & Forever (Early Access)\, The Last Cat in the Universe\, Carry O
+ n Together\, MeowFactory\, Reshine\, Point Zero: Victoria\, The False Alic
+ e -Retold Tale-\nPlatforms: PC / PlayStation / Switch / Xbox\nData source:
+  Heybox\nSource links: https://api.xiaoheihe.cn/game/release_calendar/game
+ _list/single_day?day_timestamp=1795708800&filter_hot=all&filter_platform=x
+ box\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?d
+ ay_timestamp=1795708800&filter_hot=hot&filter_platform=pc\nhttps://api.xia
+ oheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795708
+ 800&filter_hot=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn/game/rele
+ ase_calendar/game_list/single_day?day_timestamp=1795708800&filter_hot=all&
+ filter_platform=switch\n\nSource: https://www.xiaoheihe.cn/
 CATEGORIES:Game Releases
 URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
@@ -668,18 +640,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-11-28@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Am I Nima + 1 more release
-DESCRIPTION:Releases this day: Am I Nima\, Game pc:4213770.\n\nReleases th
- is day:\n1. Am I Nima (PC)\n2. Game pc:4213770 (PC)\n\nGame count: 2\nGame
- s: Am I Nima\, Game pc:4213770\nPlatforms: PC\nData source: Heybox\nSource
-  links: https://api.xiaoheihe.cn/game/release_calendar/game_list/single_da
- y?day_timestamp=1795795200&filter_hot=hot&filter_platform=pc\n\nSource: ht
- tps://www.xiaoheihe.cn/
+SUMMARY:Am I Nima + 2 more releases
+DESCRIPTION:Releases this day: Am I Nima\, Game pc:4213770\, Screen Surviv
+ ors.\n\nReleases this day:\n1. Am I Nima (PC)\n2. Game pc:4213770 (PC)\n3.
+  Screen Survivors (PC)\n\nGame count: 3\nGames: Am I Nima\, Game pc:421377
+ 0\, Screen Survivors\nPlatforms: PC\nData source: Heybox\nSource links: ht
+ tps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_time
+ stamp=1795795200&filter_hot=hot&filter_platform=pc\n\nSource: https://www.
+ xiaoheihe.cn/
 CATEGORIES:Game Releases
 URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
@@ -687,46 +660,51 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-11-29@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winx Club - Moonlight Quest release
-DESCRIPTION:Releases this day: Winx Club - Moonlight Quest.\n\nReleases th
- is day:\n1. Winx Club - Moonlight Quest (PlayStation)\n\nGame count: 1\nGa
- mes: Winx Club - Moonlight Quest\nPlatforms: PlayStation\nData source: Hey
- box\nSource links: https://api.xiaoheihe.cn/game/release_calendar/game_lis
- t/single_day?day_timestamp=1795881600&filter_hot=all&filter_platform=ps4\n
- \nSource: https://api.xiaoheihe.cn/game/share_game_detail?appid=900221697&
- game_type=console
+SUMMARY:GrimKeep + 4 more releases
+DESCRIPTION:Releases this day: GrimKeep\, ORDER 13\, Quiet Remains Slide P
+ uzzle\, Winx Club - Moonlight Quest\, The Wolf Among Us Remastered.\n\nRel
+ eases this day:\n1. GrimKeep (PlayStation)\n2. ORDER 13 (PlayStation)\n3. 
+ Quiet Remains Slide Puzzle (PlayStation)\n4. Winx Club - Moonlight Quest (
+ PlayStation)\n5. The Wolf Among Us Remastered (Switch)\n\nGame count: 5\nG
+ ames: GrimKeep\, ORDER 13\, Quiet Remains Slide Puzzle\, Winx Club - Moonl
+ ight Quest\, The Wolf Among Us Remastered\nPlatforms: PlayStation / Switch
+ \nData source: Heybox\nSource links: https://api.xiaoheihe.cn/game/release
+ _calendar/game_list/single_day?day_timestamp=1795881600&filter_hot=all&fil
+ ter_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list
+ /single_day?day_timestamp=1795881600&filter_hot=all&filter_platform=switch
+ \n\nSource: https://www.xiaoheihe.cn/
 CATEGORIES:Game Releases
-URL;VALUE=URI:https://api.xiaoheihe.cn/game/share_game_detail?appid=900221
- 697&game_type=console
+URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-11-30@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:The aMAZEing Labyrinth + 3 more releases
-DESCRIPTION:Releases this day: The aMAZEing Labyrinth\, PixelHeroScramble 
- Plus\, Sakura Arms ~Radiant Duels~ (Early Access)\, Orion Blue.\n\nRelease
- s this day:\n1. The aMAZEing Labyrinth (Xbox)\n2. PixelHeroScramble Plus (
- Switch)\n3. Sakura Arms ~Radiant Duels~ (Early Access) (PC)\n4. Orion Blue
-  (PC)\n\nGame count: 4\nGames: The aMAZEing Labyrinth\, PixelHeroScramble 
- Plus\, Sakura Arms ~Radiant Duels~ (Early Access)\, Orion Blue\nPlatforms:
-  PC / Switch / Xbox\nData source: Heybox\nSource links: https://api.xiaohe
- ihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795968000
- &filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/releas
- e_calendar/game_list/single_day?day_timestamp=1795968000&filter_hot=all&fi
- lter_platform=switch\nhttps://api.xiaoheihe.cn/game/release_calendar/game_
- list/single_day?day_timestamp=1795968000&filter_hot=hot&filter_platform=pc
- \n\nSource: https://www.xiaoheihe.cn/
+SUMMARY:The aMAZEing Labyrinth + 4 more releases
+DESCRIPTION:Releases this day: The aMAZEing Labyrinth\, Winx Club - Moonli
+ ght Quest\, PixelHeroScramble Plus\, Sakura Arms ~Radiant Duels~ (Early Ac
+ cess)\, Orion Blue.\n\nReleases this day:\n1. The aMAZEing Labyrinth (Xbox
+ )\n2. Winx Club - Moonlight Quest (Xbox)\n3. PixelHeroScramble Plus (Switc
+ h)\n4. Sakura Arms ~Radiant Duels~ (Early Access) (PC)\n5. Orion Blue (PC)
+ \n\nGame count: 5\nGames: The aMAZEing Labyrinth\, Winx Club - Moonlight Q
+ uest\, PixelHeroScramble Plus\, Sakura Arms ~Radiant Duels~ (Early Access)
+ \, Orion Blue\nPlatforms: PC / Switch / Xbox\nData source: Heybox\nSource 
+ links: https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day
+ ?day_timestamp=1795968000&filter_hot=all&filter_platform=xbox\nhttps://api
+ .xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=179
+ 5968000&filter_hot=all&filter_platform=switch\nhttps://api.xiaoheihe.cn/ga
+ me/release_calendar/game_list/single_day?day_timestamp=1795968000&filter_h
+ ot=hot&filter_platform=pc\n\nSource: https://www.xiaoheihe.cn/
 CATEGORIES:Game Releases
 URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
@@ -734,33 +712,35 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-01@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Game console:900219798 + 8 more releases
+SUMMARY:Game console:900219798 + 9 more releases
 DESCRIPTION:Releases this day: Game console:900219798\, Hela: of Mice & Ma
  gic\, Hela: of Mice & Magic\, Hela: of Mice & Magic\, Mombo Combo Legacy\,
-  The Eternal Castle [REMASTERED]\, The Falconeer: Revolution Remaster\, Pl
- inko Plonko Plunko\, Fishing Tales: Neko's Journey.\n\nReleases this day:\
- n1. Game console:900219798 (PlayStation)\n2. Hela: of Mice & Magic (Xbox)\
- n3. Hela: of Mice & Magic (Switch)\n4. Hela: of Mice & Magic (PC)\n5. Momb
- o Combo Legacy (PlayStation)\n6. The Eternal Castle [REMASTERED] (Xbox)\n7
- . The Falconeer: Revolution Remaster (PlayStation)\n8. Plinko Plonko Plunk
- o (Switch)\n9. Fishing Tales: Neko's Journey (PC)\n\nGame count: 9\nGames:
-  Game console:900219798\, Hela: of Mice & Magic\, Hela: of Mice & Magic\, 
- Hela: of Mice & Magic\, Mombo Combo Legacy\, The Eternal Castle [REMASTERE
- D]\, The Falconeer: Revolution Remaster\, Plinko Plonko Plunko\, Fishing T
- ales: Neko's Journey\nPlatforms: PC / PlayStation / Switch / Xbox\nData so
- urce: Heybox\nSource links: https://api.xiaoheihe.cn/game/release_calendar
+  The Eternal Castle [REMASTERED]\, The Falconeer: Revolution Remaster\, So
+ ulcery: Deck of Shadows\, Plinko Plonko Plunko\, Fishing Tales: Neko's Jou
+ rney.\n\nReleases this day:\n1. Game console:900219798 (PlayStation)\n2. H
+ ela: of Mice & Magic (Xbox)\n3. Hela: of Mice & Magic (Switch)\n4. Hela: o
+ f Mice & Magic (PC)\n5. Mombo Combo Legacy (PlayStation)\n6. The Eternal C
+ astle [REMASTERED] (Xbox)\n7. The Falconeer: Revolution Remaster (PlayStat
+ ion)\n8. Soulcery: Deck of Shadows (PC)\n9. Plinko Plonko Plunko (Switch)\
+ n10. Fishing Tales: Neko's Journey (PC)\n\nGame count: 10\nGames: Game con
+ sole:900219798\, Hela: of Mice & Magic\, Hela: of Mice & Magic\, Hela: of 
+ Mice & Magic\, Mombo Combo Legacy\, The Eternal Castle [REMASTERED]\, The 
+ Falconeer: Revolution Remaster\, Soulcery: Deck of Shadows\, Plinko Plonko
+  Plunko\, Fishing Tales: Neko's Journey\nPlatforms: PC / PlayStation / Swi
+ tch / Xbox\nData source: Heybox\nSource links: https://api.xiaoheihe.cn/ga
+ me/release_calendar/game_list/single_day?day_timestamp=1796054400&filter_h
+ ot=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_calendar
  /game_list/single_day?day_timestamp=1796054400&filter_hot=all&filter_platf
- orm=ps4\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_d
- ay?day_timestamp=1796054400&filter_hot=all&filter_platform=xbox\nhttps://a
- pi.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1
- 796054400&filter_hot=all&filter_platform=switch\nhttps://api.xiaoheihe.cn/
- game/release_calendar/game_list/single_day?day_timestamp=1796054400&filter
- _hot=hot&filter_platform=pc\n\nSource: https://www.xiaoheihe.cn/
+ orm=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_
+ day?day_timestamp=1796054400&filter_hot=all&filter_platform=switch\nhttps:
+ //api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestam
+ p=1796054400&filter_hot=hot&filter_platform=pc\n\nSource: https://www.xiao
+ heihe.cn/
 CATEGORIES:Game Releases
 URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
@@ -768,36 +748,37 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-02@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Book Nook + 12 more releases
-DESCRIPTION:Releases this day: Book Nook\, The Falconeer: Revolution Remas
- ter\, Luma Island\, Mombo Combo Legacy\, Santa's Shop Tidy Up\, The Dark Q
- ueen of Mortholme\, Unfriendly Friend (Early Access)\, Game console:900216
- 137\, STEP THEATER\, STEP THEATER\, Once\,in Times of Chaos\, Game console
- :900215838\, Game console:900220765.\n\nReleases this day:\n1. Book Nook (
- PC)\n2. The Falconeer: Revolution Remaster (Xbox)\n3. Luma Island (Xbox)\n
- 4. Mombo Combo Legacy (Xbox)\n5. Santa's Shop Tidy Up (PlayStation)\n6. Th
- e Dark Queen of Mortholme (PlayStation)\n7. Unfriendly Friend (Early Acces
- s) (PC)\n8. Game console:900216137 (PlayStation)\n9. STEP THEATER (Switch)
- \n10. STEP THEATER (Switch)\n11. Once\,in Times of Chaos (PC)\n12. Game co
- nsole:900215838 (PlayStation)\n13. Game console:900220765 (PlayStation)\n\
- nGame count: 13\nGames: Book Nook\, The Falconeer: Revolution Remaster\, L
- uma Island\, Mombo Combo Legacy\, Santa's Shop Tidy Up\, The Dark Queen of
-  Mortholme\, Unfriendly Friend (Early Access)\, Game console:900216137\, S
- TEP THEATER\, STEP THEATER\, Once\,in Times of Chaos\, Game console:900215
- 838\, Game console:900220765\nPlatforms: PC / PlayStation / Switch / Xbox\
- nData source: Heybox\nSource links: https://api.xiaoheihe.cn/game/release_
- calendar/game_list/single_day?day_timestamp=1796140800&filter_hot=hot&filt
- er_platform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/s
- ingle_day?day_timestamp=1796140800&filter_hot=all&filter_platform=xbox\nht
- tps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_time
- stamp=1796140800&filter_hot=all&filter_platform=ps4\nhttps://api.xiaoheihe
- .cn/game/release_calendar/game_list/single_day?day_timestamp=1796140800&fi
- lter_hot=all&filter_platform=switch\n\nSource: https://www.xiaoheihe.cn/
+SUMMARY:Book Nook + 13 more releases
+DESCRIPTION:Releases this day: Book Nook\, CitaDrill\, The Falconeer: Revo
+ lution Remaster\, Luma Island\, Mombo Combo Legacy\, Santa's Shop Tidy Up\
+ , The Dark Queen of Mortholme\, Unfriendly Friend (Early Access)\, Game co
+ nsole:900216137\, STEP THEATER\, STEP THEATER\, Once\,in Times of Chaos\, 
+ Game console:900215838\, Game console:900220765.\n\nReleases this day:\n1.
+  Book Nook (PC)\n2. CitaDrill (PlayStation)\n3. The Falconeer: Revolution 
+ Remaster (Xbox)\n4. Luma Island (Xbox)\n5. Mombo Combo Legacy (Xbox)\n6. S
+ anta's Shop Tidy Up (PlayStation)\n7. The Dark Queen of Mortholme (PlaySta
+ tion)\n8. Unfriendly Friend (Early Access) (PC)\n9. Game console:900216137
+  (PlayStation)\n10. STEP THEATER (Switch)\n11. STEP THEATER (Switch)\n12. 
+ Once\,in Times of Chaos (PC)\n13. Game console:900215838 (PlayStation)\n14
+ . Game console:900220765 (PlayStation)\n\nGame count: 14\nGames: Book Nook
+ \, CitaDrill\, The Falconeer: Revolution Remaster\, Luma Island\, Mombo Co
+ mbo Legacy\, Santa's Shop Tidy Up\, The Dark Queen of Mortholme\, Unfriend
+ ly Friend (Early Access)\, Game console:900216137\, STEP THEATER\, STEP TH
+ EATER\, Once\,in Times of Chaos\, Game console:900215838\, Game console:90
+ 0220765\nPlatforms: PC / PlayStation / Switch / Xbox\nData source: Heybox\
+ nSource links: https://api.xiaoheihe.cn/game/release_calendar/game_list/si
+ ngle_day?day_timestamp=1796140800&filter_hot=hot&filter_platform=pc\nhttps
+ ://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timesta
+ mp=1796140800&filter_hot=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn
+ /game/release_calendar/game_list/single_day?day_timestamp=1796140800&filte
+ r_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_cale
+ ndar/game_list/single_day?day_timestamp=1796140800&filter_hot=all&filter_p
+ latform=switch\n\nSource: https://www.xiaoheihe.cn/
 CATEGORIES:Game Releases
 URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
@@ -805,85 +786,92 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-03@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:28 Days Train Wreck Survivor + 55 more releases
-DESCRIPTION:Releases this day: 28 Days Train Wreck Survivor\, Game console
- :900222093\, Aeterna Lucis\, Astro Chef: Cosmic Kitchen\, Backrooms Splatt
- er\, Bleeding Nightmare\, CitaDrill\, Cross + Cross\, Edge of Memories\, E
- dge of Memories\, Edge of Memories\, For The Warp: Void Echoes\, HUNGER (E
- arly Access)\, LarsGadiel\, Little Lagoon\, MANIC MINER\, Million Depth\, 
- Mombo Combo Legacy\, Pack it! Part-Time Master\, Quadrillion Carrots\, San
- ta Christmas Story 3 North Pole Rescue\, SOMBRAS: negative frames\, The Da
- rk Queen of Mortholme\, Thief: The Dark Project Remastered\, Winx Club - M
- oonlight Quest\, THE ASCENT ULTIMATE EDITION\, Word Bee\, Game console:900
- 222085\, The Great Villainess: Strategy of Lily\, Space Mechanic Simulator
- \, Game console:900222080\, Game console:900222077\, Game console:90022208
- 7\, Game console:900222135\, Roombattle\, The Dark Queen of Mortholme\, Bl
- ind Descent (Early Access)\, StarVaders\, Game console:900222143\, Game co
- nsole:900222088\, Hypogea\, Fall Up\, Fall Up\, Waltz and Jam\, Waltz and 
- Jam\, Thief: The Dark Project Remastered\, Thief: The Dark Project Remaste
- red - Digital Deluxe Upgrade\, Game console:900222114\, Game console:90022
- 2153\, Game pc:5135870\, Game console:900213567\, BloodRush: Undying Wish\
- , Game console:900221603\, Game console:900222128\, Rayman Legends Retold\
- , Rayman Origins: Enhanced Edition.\n\nReleases this day:\n1. 28 Days Trai
- n Wreck Survivor (Switch)\n2. Game console:900222093 (Switch)\n3. Aeterna 
- Lucis (PlayStation)\n4. Astro Chef: Cosmic Kitchen (Switch)\n5. Backrooms 
- Splatter (Switch)\n6. Bleeding Nightmare (PlayStation)\n7. CitaDrill (Swit
- ch)\n8. Cross + Cross (Switch)\n9. Edge of Memories (Xbox)\n10. Edge of Me
- mories (PlayStation)\n11. Edge of Memories (PC)\n12. For The Warp: Void Ec
- hoes (Xbox)\n13. HUNGER (Early Access) (PC)\n14. LarsGadiel (Switch)\n15. 
- Little Lagoon (Switch)\n16. MANIC MINER (Xbox)\n17. Million Depth (Switch)
- \n18. Mombo Combo Legacy (Switch)\n19. Pack it! Part-Time Master (Switch)\
- n20. Quadrillion Carrots (PlayStation)\n21. Santa Christmas Story 3 North 
- Pole Rescue (Switch)\n22. SOMBRAS: negative frames (PlayStation)\n23. The 
- Dark Queen of Mortholme (Xbox)\n24. Thief: The Dark Project Remastered (Pl
- ayStation)\n25. Winx Club - Moonlight Quest (Switch)\n26. THE ASCENT ULTIM
- ATE EDITION (Switch)\n27. Word Bee (Switch)\n28. Game console:900222085 (S
- witch)\n29. The Great Villainess: Strategy of Lily (Switch)\n30. Space Mec
- hanic Simulator (Xbox)\n31. Game console:900222080 (Switch)\n32. Game cons
- ole:900222077 (Switch)\n33. Game console:900222087 (Switch)\n34. Game cons
- ole:900222135 (Switch)\n35. Roombattle (Switch)\n36. The Dark Queen of Mor
- tholme (Switch)\n37. Blind Descent (Early Access) (PC)\n38. StarVaders (Sw
- itch)\n39. Game console:900222143 (Switch)\n40. Game console:900222088 (Sw
- itch)\n41. Hypogea (Switch)\n42. Fall Up (Switch)\n43. Fall Up (PC)\n44. W
- altz and Jam (Switch)\n45. Waltz and Jam (PC)\n46. Thief: The Dark Project
-  Remastered (Switch)\n47. Thief: The Dark Project Remastered - Digital Del
- uxe Upgrade (Switch)\n48. Game console:900222114 (Switch)\n49. Game consol
- e:900222153 (Xbox)\n50. Game pc:5135870 (PC)\n51. Game console:900213567 (
- PlayStation)\n52. BloodRush: Undying Wish (Switch)\n53. Game console:90022
- 1603 (Xbox)\n54. Game console:900222128 (Switch)\n55. Rayman Legends Retol
- d (PC)\n56. Rayman Origins: Enhanced Edition (Switch)\n\nGame count: 56\nG
- ames: 28 Days Train Wreck Survivor\, Game console:900222093\, Aeterna Luci
- s\, Astro Chef: Cosmic Kitchen\, Backrooms Splatter\, Bleeding Nightmare\,
-  CitaDrill\, Cross + Cross\, Edge of Memories\, Edge of Memories\, Edge of
-  Memories\, For The Warp: Void Echoes\, HUNGER (Early Access)\, LarsGadiel
- \, Little Lagoon\, MANIC MINER\, Million Depth\, Mombo Combo Legacy\, Pack
-  it! Part-Time Master\, Quadrillion Carrots\, Santa Christmas Story 3 Nort
- h Pole Rescue\, SOMBRAS: negative frames\, The Dark Queen of Mortholme\, T
- hief: The Dark Project Remastered\, Winx Club - Moonlight Quest\, THE ASCE
- NT ULTIMATE EDITION\, Word Bee\, Game console:900222085\, The Great Villai
- ness: Strategy of Lily\, Space Mechanic Simulator\, Game console:900222080
- \, Game console:900222077\, Game console:900222087\, Game console:90022213
- 5\, Roombattle\, The Dark Queen of Mortholme\, Blind Descent (Early Access
- )\, StarVaders\, Game console:900222143\, Game console:900222088\, Hypogea
- \, Fall Up\, Fall Up\, Waltz and Jam\, Waltz and Jam\, Thief: The Dark Pro
- ject Remastered\, Thief: The Dark Project Remastered - Digital Deluxe Upgr
- ade\, Game console:900222114\, Game console:900222153\, Game pc:5135870\, 
- Game console:900213567\, BloodRush: Undying Wish\, Game console:900221603\
- , Game console:900222128\, Rayman Legends Retold\, Rayman Origins: Enhance
- d Edition\nPlatforms: PC / PlayStation / Switch / Xbox\nData source: Heybo
- x\nSource links: https://api.xiaoheihe.cn/game/release_calendar/game_list/
- single_day?day_timestamp=1796227200&filter_hot=all&filter_platform=switch\
+SUMMARY:28 Days Train Wreck Survivor + 59 more releases
+DESCRIPTION:Releases this day: 28 Days Train Wreck Survivor\, Aery - Four 
+ Seasons\, Aeterna Lucis\, Astro Chef: Cosmic Kitchen\, Backrooms Splatter\
+ , Bleeding Nightmare\, CitaDrill\, CitaDrill\, Cross + Cross\, Edge of Mem
+ ories\, Edge of Memories\, Edge of Memories\, For The Warp: Void Echoes\, 
+ HUNGER (Early Access)\, LarsGadiel\, Little Lagoon\, MANIC MINER\, Million
+  Depth\, Mombo Combo Legacy\, Pack it! Part-Time Master\, Quadrillion Carr
+ ots\, Santa Christmas Story 3 North Pole Rescue\, SOMBRAS: negative frames
+ \, The Dark Queen of Mortholme\, Thief: The Dark Project Remastered\, Winx
+  Club - Moonlight Quest\, THE ASCENT ULTIMATE EDITION\, Aeterna Lucis\, Wo
+ rd Bee\, Eriksholm: The Stolen Dream\, The Great Villainess: Strategy of L
+ ily\, Space Mechanic Simulator\, Gods of Olympus: Capture & Date Mythical 
+ Lovers\, Goddesses of Olympus: Capture & Date Mythical Lovers\, Himegimi D
+ etective\, Game console:900222135\, Roombattle\, The Dark Queen of Morthol
+ me\, Idle Agency\, Blind Descent (Early Access)\, StarVaders\, Killer Clow
+ n Girl: Her Final Show\, Killer Clown Boy: His Final Show\, Hypogea\, Fall
+  Up\, Game console:900218994\, Fall Up\, Waltz and Jam\, Waltz and Jam\, T
+ hief: The Dark Project Remastered\, Thief: The Dark Project Remastered - D
+ igital Deluxe Upgrade\, THYSIASTERY\, Game console:900222153\, Game pc:513
+ 5870\, Game console:900213567\, BloodRush: Undying Wish\, Game console:900
+ 221603\, Reborn\, and You Still Want Me to Date?\, Rayman Legends Retold\,
+  Rayman Origins: Enhanced Edition.\n\nReleases this day:\n1. 28 Days Train
+  Wreck Survivor (Switch)\n2. Aery - Four Seasons (Switch)\n3. Aeterna Luci
+ s (PlayStation)\n4. Astro Chef: Cosmic Kitchen (Switch)\n5. Backrooms Spla
+ tter (Switch)\n6. Bleeding Nightmare (PlayStation)\n7. CitaDrill (Switch)\
+ n8. CitaDrill (Xbox)\n9. Cross + Cross (Switch)\n10. Edge of Memories (Xbo
+ x)\n11. Edge of Memories (PlayStation)\n12. Edge of Memories (PC)\n13. For
+  The Warp: Void Echoes (Xbox)\n14. HUNGER (Early Access) (PC)\n15. LarsGad
+ iel (Switch)\n16. Little Lagoon (Switch)\n17. MANIC MINER (Xbox)\n18. Mill
+ ion Depth (Switch)\n19. Mombo Combo Legacy (Switch)\n20. Pack it! Part-Tim
+ e Master (Switch)\n21. Quadrillion Carrots (PlayStation)\n22. Santa Christ
+ mas Story 3 North Pole Rescue (Switch)\n23. SOMBRAS: negative frames (Play
+ Station)\n24. The Dark Queen of Mortholme (Xbox)\n25. Thief: The Dark Proj
+ ect Remastered (PlayStation)\n26. Winx Club - Moonlight Quest (Switch)\n27
+ . THE ASCENT ULTIMATE EDITION (Switch)\n28. Aeterna Lucis (Switch)\n29. Wo
+ rd Bee (Switch)\n30. Eriksholm: The Stolen Dream (Switch)\n31. The Great V
+ illainess: Strategy of Lily (Switch)\n32. Space Mechanic Simulator (Xbox)\
+ n33. Gods of Olympus: Capture & Date Mythical Lovers (Switch)\n34. Goddess
+ es of Olympus: Capture & Date Mythical Lovers (Switch)\n35. Himegimi Detec
+ tive (Switch)\n36. Game console:900222135 (Switch)\n37. Roombattle (Switch
+ )\n38. The Dark Queen of Mortholme (Switch)\n39. Idle Agency (PC)\n40. Bli
+ nd Descent (Early Access) (PC)\n41. StarVaders (Switch)\n42. Killer Clown 
+ Girl: Her Final Show (Switch)\n43. Killer Clown Boy: His Final Show (Switc
+ h)\n44. Hypogea (Switch)\n45. Fall Up (Switch)\n46. Game console:900218994
+  (Xbox)\n47. Fall Up (PC)\n48. Waltz and Jam (Switch)\n49. Waltz and Jam (
+ PC)\n50. Thief: The Dark Project Remastered (Switch)\n51. Thief: The Dark 
+ Project Remastered - Digital Deluxe Upgrade (Switch)\n52. THYSIASTERY (Swi
+ tch)\n53. Game console:900222153 (Xbox)\n54. Game pc:5135870 (PC)\n55. Gam
+ e console:900213567 (PlayStation)\n56. BloodRush: Undying Wish (Switch)\n5
+ 7. Game console:900221603 (Xbox)\n58. Reborn\, and You Still Want Me to Da
+ te? (Switch)\n59. Rayman Legends Retold (PC)\n60. Rayman Origins: Enhanced
+  Edition (Switch)\n\nGame count: 60\nGames: 28 Days Train Wreck Survivor\,
+  Aery - Four Seasons\, Aeterna Lucis\, Astro Chef: Cosmic Kitchen\, Backro
+ oms Splatter\, Bleeding Nightmare\, CitaDrill\, CitaDrill\, Cross + Cross\
+ , Edge of Memories\, Edge of Memories\, Edge of Memories\, For The Warp: V
+ oid Echoes\, HUNGER (Early Access)\, LarsGadiel\, Little Lagoon\, MANIC MI
+ NER\, Million Depth\, Mombo Combo Legacy\, Pack it! Part-Time Master\, Qua
+ drillion Carrots\, Santa Christmas Story 3 North Pole Rescue\, SOMBRAS: ne
+ gative frames\, The Dark Queen of Mortholme\, Thief: The Dark Project Rema
+ stered\, Winx Club - Moonlight Quest\, THE ASCENT ULTIMATE EDITION\, Aeter
+ na Lucis\, Word Bee\, Eriksholm: The Stolen Dream\, The Great Villainess: 
+ Strategy of Lily\, Space Mechanic Simulator\, Gods of Olympus: Capture & D
+ ate Mythical Lovers\, Goddesses of Olympus: Capture & Date Mythical Lovers
+ \, Himegimi Detective\, Game console:900222135\, Roombattle\, The Dark Que
+ en of Mortholme\, Idle Agency\, Blind Descent (Early Access)\, StarVaders\
+ , Killer Clown Girl: Her Final Show\, Killer Clown Boy: His Final Show\, H
+ ypogea\, Fall Up\, Game console:900218994\, Fall Up\, Waltz and Jam\, Walt
+ z and Jam\, Thief: The Dark Project Remastered\, Thief: The Dark Project R
+ emastered - Digital Deluxe Upgrade\, THYSIASTERY\, Game console:900222153\
+ , Game pc:5135870\, Game console:900213567\, BloodRush: Undying Wish\, Gam
+ e console:900221603\, Reborn\, and You Still Want Me to Date?\, Rayman Leg
+ ends Retold\, Rayman Origins: Enhanced Edition\nPlatforms: PC / PlayStatio
+ n / Switch / Xbox\nData source: Heybox\nSource links: https://api.xiaoheih
+ e.cn/game/release_calendar/game_list/single_day?day_timestamp=1796227200&f
+ ilter_hot=all&filter_platform=switch\nhttps://api.xiaoheihe.cn/game/releas
+ e_calendar/game_list/single_day?day_timestamp=1796227200&filter_hot=all&fi
+ lter_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_calendar/game_lis
+ t/single_day?day_timestamp=1796227200&filter_hot=all&filter_platform=xbox\
  nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_t
- imestamp=1796227200&filter_hot=all&filter_platform=ps4\nhttps://api.xiaohe
- ihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796227200
- &filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/releas
- e_calendar/game_list/single_day?day_timestamp=1796227200&filter_hot=hot&fi
- lter_platform=pc\n\nSource: https://www.xiaoheihe.cn/
+ imestamp=1796227200&filter_hot=hot&filter_platform=pc\n\nSource: https://w
+ ww.xiaoheihe.cn/
 CATEGORIES:Game Releases
 URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
@@ -891,46 +879,48 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-04@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Aery - Four Seasons + 20 more releases
-DESCRIPTION:Releases this day: Aery - Four Seasons\, Aeterna Lucis\, Survi
- val Machine\, Survival Machine\, Thief: The Dark Project Remastered\, Yolk
-  & Yonder\, Yolk & Yonder (Xbox Series)\, Yolk & Yonder (Windows)\, Zero H
- our\, Game pc:3001460\, DRAGON QUEST MONSTERS: The Withered World\, Cultiv
- ation Realm: Card Survival\, Soulcery: Deck of Shadows\, Game console:9002
- 21754\, Warhammer 40\,000: Dawn of War IV\, Game console:900219906\, Game 
- console:900221893\, Speedy Bundle Hypercar & Speedway\, No Such Person\, W
- here the Heart Rests\, Dumpster Gang.\n\nReleases this day:\n1. Aery - Fou
- r Seasons (Xbox)\n2. Aeterna Lucis (PC)\n3. Survival Machine (Xbox)\n4. Su
- rvival Machine (PlayStation)\n5. Thief: The Dark Project Remastered (Xbox)
- \n6. Yolk & Yonder (Xbox)\n7. Yolk & Yonder (Xbox Series) (Xbox)\n8. Yolk 
- & Yonder (Windows) (Xbox)\n9. Zero Hour (Xbox)\n10. Game pc:3001460 (PC)\n
- 11. DRAGON QUEST MONSTERS: The Withered World (PC)\n12. Cultivation Realm:
-  Card Survival (PC)\n13. Soulcery: Deck of Shadows (PC)\n14. Game console:
- 900221754 (Xbox)\n15. Warhammer 40\,000: Dawn of War IV (PC)\n16. Game con
- sole:900219906 (Xbox)\n17. Game console:900221893 (PlayStation)\n18. Speed
- y Bundle Hypercar & Speedway (Switch)\n19. No Such Person (PC)\n20. Where 
- the Heart Rests (Switch)\n21. Dumpster Gang (PC)\n\nGame count: 21\nGames:
-  Aery - Four Seasons\, Aeterna Lucis\, Survival Machine\, Survival Machine
- \, Thief: The Dark Project Remastered\, Yolk & Yonder\, Yolk & Yonder (Xbo
- x Series)\, Yolk & Yonder (Windows)\, Zero Hour\, Game pc:3001460\, DRAGON
-  QUEST MONSTERS: The Withered World\, Cultivation Realm: Card Survival\, S
- oulcery: Deck of Shadows\, Game console:900221754\, Warhammer 40\,000: Daw
- n of War IV\, Game console:900219906\, Game console:900221893\, Speedy Bun
- dle Hypercar & Speedway\, No Such Person\, Where the Heart Rests\, Dumpste
- r Gang\nPlatforms: PC / PlayStation / Switch / Xbox\nData source: Heybox\n
- Source links: https://api.xiaoheihe.cn/game/release_calendar/game_list/sin
- gle_day?day_timestamp=1796313600&filter_hot=all&filter_platform=xbox\nhttp
- s://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timest
- amp=1796313600&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn
+SUMMARY:Aery - Four Seasons + 22 more releases
+DESCRIPTION:Releases this day: Aery - Four Seasons\, Aeterna Lucis\, LarsG
+ adiel\, SOMBRAS: negative frames\, Survival Machine\, Survival Machine\, T
+ hief: The Dark Project Remastered\, Yolk & Yonder\, Yolk & Yonder (Xbox Se
+ ries)\, Yolk & Yonder (Windows)\, Zero Hour\, Game pc:3001460\, DRAGON QUE
+ ST MONSTERS: The Withered World\, Cultivation Realm: Card Survival\, Game 
+ console:900221754\, Warhammer 40\,000: Dawn of War IV\, Game console:90021
+ 9906\, Game console:900221893\, Speedy Bundle Hypercar & Speedway\, No Suc
+ h Person\, Game pc:4040480\, Where the Heart Rests\, Dumpster Gang.\n\nRel
+ eases this day:\n1. Aery - Four Seasons (Xbox)\n2. Aeterna Lucis (PC)\n3. 
+ LarsGadiel (Xbox)\n4. SOMBRAS: negative frames (Xbox)\n5. Survival Machine
+  (Xbox)\n6. Survival Machine (PlayStation)\n7. Thief: The Dark Project Rem
+ astered (Xbox)\n8. Yolk & Yonder (Xbox)\n9. Yolk & Yonder (Xbox Series) (X
+ box)\n10. Yolk & Yonder (Windows) (Xbox)\n11. Zero Hour (Xbox)\n12. Game p
+ c:3001460 (PC)\n13. DRAGON QUEST MONSTERS: The Withered World (PC)\n14. Cu
+ ltivation Realm: Card Survival (PC)\n15. Game console:900221754 (Xbox)\n16
+ . Warhammer 40\,000: Dawn of War IV (PC)\n17. Game console:900219906 (Xbox
+ )\n18. Game console:900221893 (PlayStation)\n19. Speedy Bundle Hypercar & 
+ Speedway (Switch)\n20. No Such Person (PC)\n21. Game pc:4040480 (PC)\n22. 
+ Where the Heart Rests (Switch)\n23. Dumpster Gang (PC)\n\nGame count: 23\n
+ Games: Aery - Four Seasons\, Aeterna Lucis\, LarsGadiel\, SOMBRAS: negativ
+ e frames\, Survival Machine\, Survival Machine\, Thief: The Dark Project R
+ emastered\, Yolk & Yonder\, Yolk & Yonder (Xbox Series)\, Yolk & Yonder (W
+ indows)\, Zero Hour\, Game pc:3001460\, DRAGON QUEST MONSTERS: The Withere
+ d World\, Cultivation Realm: Card Survival\, Game console:900221754\, Warh
+ ammer 40\,000: Dawn of War IV\, Game console:900219906\, Game console:9002
+ 21893\, Speedy Bundle Hypercar & Speedway\, No Such Person\, Game pc:40404
+ 80\, Where the Heart Rests\, Dumpster Gang\nPlatforms: PC / PlayStation / 
+ Switch / Xbox\nData source: Heybox\nSource links: https://api.xiaoheihe.cn
  /game/release_calendar/game_list/single_day?day_timestamp=1796313600&filte
- r_hot=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_calen
- dar/game_list/single_day?day_timestamp=1796313600&filter_hot=all&filter_pl
- atform=switch\n\nSource: https://www.xiaoheihe.cn/
+ r_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_cale
+ ndar/game_list/single_day?day_timestamp=1796313600&filter_hot=hot&filter_p
+ latform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/singl
+ e_day?day_timestamp=1796313600&filter_hot=all&filter_platform=ps4\nhttps:/
+ /api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp
+ =1796313600&filter_hot=all&filter_platform=switch\n\nSource: https://www.x
+ iaoheihe.cn/
 CATEGORIES:Game Releases
 URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
@@ -938,7 +928,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-05@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -959,7 +949,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-07@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -989,30 +979,32 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-08@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Cast n Chill + 9 more releases
+SUMMARY:Cast n Chill + 11 more releases
 DESCRIPTION:Releases this day: Cast n Chill\, Elements Destiny\, Fart Toge
- ther\, Unharvest\, Game console:900221137\, Game console:900216846\, Guns 
- of Eschaton\, Dino Epoch: Fantasy Tale (Early Access)\, Drunken Goddess Re
- flux\, Game pc:3123420.\n\nReleases this day:\n1. Cast n Chill (Xbox)\n2. 
- Elements Destiny (Xbox)\n3. Fart Together (PC)\n4. Unharvest (PC)\n5. Game
-  console:900221137 (PlayStation)\n6. Game console:900216846 (Xbox)\n7. Gun
- s of Eschaton (PC)\n8. Dino Epoch: Fantasy Tale (Early Access) (PC)\n9. Dr
- unken Goddess Reflux (PC)\n10. Game pc:3123420 (PC)\n\nGame count: 10\nGam
- es: Cast n Chill\, Elements Destiny\, Fart Together\, Unharvest\, Game con
- sole:900221137\, Game console:900216846\, Guns of Eschaton\, Dino Epoch: F
- antasy Tale (Early Access)\, Drunken Goddess Reflux\, Game pc:3123420\nPla
- tforms: PC / PlayStation / Xbox\nData source: Heybox\nSource links: https:
- //api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestam
- p=1796659200&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn
- /game/release_calendar/game_list/single_day?day_timestamp=1796659200&filte
- r_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/release_calend
- ar/game_list/single_day?day_timestamp=1796659200&filter_hot=all&filter_pla
- tform=ps4\n\nSource: https://www.xiaoheihe.cn/
+ ther\, Pizza Slice\, Unharvest\, Game console:900221137\, Game console:900
+ 216846\, Guns of Eschaton\, The Hundredth Floor: Extraction\, Dino Epoch: 
+ Fantasy Tale (Early Access)\, Drunken Goddess Reflux\, Game pc:3123420.\n\
+ nReleases this day:\n1. Cast n Chill (Xbox)\n2. Elements Destiny (Xbox)\n3
+ . Fart Together (PC)\n4. Pizza Slice (Xbox)\n5. Unharvest (PC)\n6. Game co
+ nsole:900221137 (PlayStation)\n7. Game console:900216846 (Xbox)\n8. Guns o
+ f Eschaton (PC)\n9. The Hundredth Floor: Extraction (PC)\n10. Dino Epoch: 
+ Fantasy Tale (Early Access) (PC)\n11. Drunken Goddess Reflux (PC)\n12. Gam
+ e pc:3123420 (PC)\n\nGame count: 12\nGames: Cast n Chill\, Elements Destin
+ y\, Fart Together\, Pizza Slice\, Unharvest\, Game console:900221137\, Gam
+ e console:900216846\, Guns of Eschaton\, The Hundredth Floor: Extraction\,
+  Dino Epoch: Fantasy Tale (Early Access)\, Drunken Goddess Reflux\, Game p
+ c:3123420\nPlatforms: PC / PlayStation / Xbox\nData source: Heybox\nSource
+  links: https://api.xiaoheihe.cn/game/release_calendar/game_list/single_da
+ y?day_timestamp=1796659200&filter_hot=all&filter_platform=xbox\nhttps://ap
+ i.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=17
+ 96659200&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/
+ release_calendar/game_list/single_day?day_timestamp=1796659200&filter_hot=
+ all&filter_platform=ps4\n\nSource: https://www.xiaoheihe.cn/
 CATEGORIES:Game Releases
 URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
@@ -1020,7 +1012,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-09@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1053,50 +1045,51 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-10@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Airsoft Online (Early Access) + 24 more releases
+SUMMARY:Airsoft Online (Early Access) + 25 more releases
 DESCRIPTION:Releases this day: Airsoft Online (Early Access)\, Rever4 OCHI
- RO\, STAGE TOUR\, STAGE TOUR\, We are Eva\, Winter Resort Simulator 3\, Wi
- nter Resort Simulator 3\, Wish Upon A Llama\, YAMIGATARI: FOR3ST\, Game co
- nsole:900221189\, Game console:900221188\, Parcel Simulator\, Play-Doh Cre
- ate ABCs\, Ninja Baseball League-Man: Bases Loaded\, Game console:90022120
- 4\, Game console:900222091\, Tidal Life (Early Access)\, Twigs Adventure 6
- 4\, United Skies FlightSimulator\, Game console:900221848\, Cat Me If You 
- Can\, Game console:900221608\, Plane Mechanic Simulator\, Plane Mechanic S
- imulator\, Shikhondo: Blue Pieta.\n\nReleases this day:\n1. Airsoft Online
-  (Early Access) (PC)\n2. Rever4 OCHIRO (Switch)\n3. STAGE TOUR (Xbox)\n4. 
- STAGE TOUR (PlayStation)\n5. We are Eva (Switch)\n6. Winter Resort Simulat
- or 3 (Xbox)\n7. Winter Resort Simulator 3 (PlayStation)\n8. Wish Upon A Ll
- ama (PC)\n9. YAMIGATARI: FOR3ST (Switch)\n10. Game console:900221189 (Swit
- ch)\n11. Game console:900221188 (Switch)\n12. Parcel Simulator (Switch)\n1
- 3. Play-Doh Create ABCs (Switch)\n14. Ninja Baseball League-Man: Bases Loa
- ded (Switch)\n15. Game console:900221204 (Switch)\n16. Game console:900222
- 091 (Switch)\n17. Tidal Life (Early Access) (PC)\n18. Twigs Adventure 64 (
- Switch)\n19. United Skies FlightSimulator (Switch)\n20. Game console:90022
- 1848 (Switch)\n21. Cat Me If You Can (Switch)\n22. Game console:900221608 
- (Xbox)\n23. Plane Mechanic Simulator (Xbox)\n24. Plane Mechanic Simulator 
- (PlayStation)\n25. Shikhondo: Blue Pieta (Switch)\n\nGame count: 25\nGames
- : Airsoft Online (Early Access)\, Rever4 OCHIRO\, STAGE TOUR\, STAGE TOUR\
- , We are Eva\, Winter Resort Simulator 3\, Winter Resort Simulator 3\, Wis
- h Upon A Llama\, YAMIGATARI: FOR3ST\, Game console:900221189\, Game consol
- e:900221188\, Parcel Simulator\, Play-Doh Create ABCs\, Ninja Baseball Lea
- gue-Man: Bases Loaded\, Game console:900221204\, Game console:900222091\, 
- Tidal Life (Early Access)\, Twigs Adventure 64\, United Skies FlightSimula
- tor\, Game console:900221848\, Cat Me If You Can\, Game console:900221608\
- , Plane Mechanic Simulator\, Plane Mechanic Simulator\, Shikhondo: Blue Pi
- eta\nPlatforms: PC / PlayStation / Switch / Xbox\nData source: Heybox\nSou
- rce links: https://api.xiaoheihe.cn/game/release_calendar/game_list/single
- _day?day_timestamp=1796832000&filter_hot=hot&filter_platform=pc\nhttps://a
- pi.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1
- 796832000&filter_hot=all&filter_platform=switch\nhttps://api.xiaoheihe.cn/
- game/release_calendar/game_list/single_day?day_timestamp=1796832000&filter
- _hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calen
- dar/game_list/single_day?day_timestamp=1796832000&filter_hot=all&filter_pl
- atform=ps4\n\nSource: https://www.xiaoheihe.cn/
+ RO\, Saimin Gakuen: Intrusion Edition\, STAGE TOUR\, STAGE TOUR\, We are E
+ va\, Winter Resort Simulator 3\, Winter Resort Simulator 3\, Wish Upon A L
+ lama\, YAMIGATARI: FOR3ST\, Game console:900221189\, Game console:90022118
+ 8\, Parcel Simulator\, Play-Doh Create ABCs\, Ninja Baseball League-Man: B
+ ases Loaded\, Game console:900221204\, Bubble Pop Party\, Tidal Life (Earl
+ y Access)\, Twigs Adventure 64\, United Skies FlightSimulator\, Game conso
+ le:900221848\, Cat Me If You Can\, Game console:900221608\, Plane Mechanic
+  Simulator\, Plane Mechanic Simulator\, Shikhondo: Blue Pieta.\n\nReleases
+  this day:\n1. Airsoft Online (Early Access) (PC)\n2. Rever4 OCHIRO (Switc
+ h)\n3. Saimin Gakuen: Intrusion Edition (PC)\n4. STAGE TOUR (Xbox)\n5. STA
+ GE TOUR (PlayStation)\n6. We are Eva (Switch)\n7. Winter Resort Simulator 
+ 3 (Xbox)\n8. Winter Resort Simulator 3 (PlayStation)\n9. Wish Upon A Llama
+  (PC)\n10. YAMIGATARI: FOR3ST (Switch)\n11. Game console:900221189 (Switch
+ )\n12. Game console:900221188 (Switch)\n13. Parcel Simulator (Switch)\n14.
+  Play-Doh Create ABCs (Switch)\n15. Ninja Baseball League-Man: Bases Loade
+ d (Switch)\n16. Game console:900221204 (Switch)\n17. Bubble Pop Party (Swi
+ tch)\n18. Tidal Life (Early Access) (PC)\n19. Twigs Adventure 64 (Switch)\
+ n20. United Skies FlightSimulator (Switch)\n21. Game console:900221848 (Sw
+ itch)\n22. Cat Me If You Can (Switch)\n23. Game console:900221608 (Xbox)\n
+ 24. Plane Mechanic Simulator (Xbox)\n25. Plane Mechanic Simulator (PlaySta
+ tion)\n26. Shikhondo: Blue Pieta (Switch)\n\nGame count: 26\nGames: Airsof
+ t Online (Early Access)\, Rever4 OCHIRO\, Saimin Gakuen: Intrusion Edition
+ \, STAGE TOUR\, STAGE TOUR\, We are Eva\, Winter Resort Simulator 3\, Wint
+ er Resort Simulator 3\, Wish Upon A Llama\, YAMIGATARI: FOR3ST\, Game cons
+ ole:900221189\, Game console:900221188\, Parcel Simulator\, Play-Doh Creat
+ e ABCs\, Ninja Baseball League-Man: Bases Loaded\, Game console:900221204\
+ , Bubble Pop Party\, Tidal Life (Early Access)\, Twigs Adventure 64\, Unit
+ ed Skies FlightSimulator\, Game console:900221848\, Cat Me If You Can\, Ga
+ me console:900221608\, Plane Mechanic Simulator\, Plane Mechanic Simulator
+ \, Shikhondo: Blue Pieta\nPlatforms: PC / PlayStation / Switch / Xbox\nDat
+ a source: Heybox\nSource links: https://api.xiaoheihe.cn/game/release_cale
+ ndar/game_list/single_day?day_timestamp=1796832000&filter_hot=hot&filter_p
+ latform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/singl
+ e_day?day_timestamp=1796832000&filter_hot=all&filter_platform=switch\nhttp
+ s://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timest
+ amp=1796832000&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.
+ cn/game/release_calendar/game_list/single_day?day_timestamp=1796832000&fil
+ ter_hot=all&filter_platform=ps4\n\nSource: https://www.xiaoheihe.cn/
 CATEGORIES:Game Releases
 URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
@@ -1104,37 +1097,39 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-11@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Alphadia F + 13 more releases
+SUMMARY:Alphadia F + 15 more releases
 DESCRIPTION:Releases this day: Alphadia F\, Brew & Dash\, Citystate Metrop
- olis (Early Access)\, I Am Jesus Christ\, I Am Jesus Christ\, Night of the
-  Living Toys\, Push & Bloom (Windows)\, Push & Bloom (Xbox Series)\, Push 
- & Bloom\, Tiny Fortress\, Wand & Order: Tidy up the Magic shop!\, Ember Ex
- press\, The Princess's Reongemt\, Brew & Dash.\n\nReleases this day:\n1. A
- lphadia F (Xbox)\n2. Brew & Dash (Xbox)\n3. Citystate Metropolis (Early Ac
- cess) (PC)\n4. I Am Jesus Christ (PlayStation)\n5. I Am Jesus Christ (Xbox
- )\n6. Night of the Living Toys (PC)\n7. Push & Bloom (Windows) (Xbox)\n8. 
- Push & Bloom (Xbox Series) (Xbox)\n9. Push & Bloom (Xbox)\n10. Tiny Fortre
- ss (PC)\n11. Wand & Order: Tidy up the Magic shop! (Xbox)\n12. Ember Expre
- ss (PC)\n13. The Princess's Reongemt (PC)\n14. Brew & Dash (Switch)\n\nGam
- e count: 14\nGames: Alphadia F\, Brew & Dash\, Citystate Metropolis (Early
-  Access)\, I Am Jesus Christ\, I Am Jesus Christ\, Night of the Living Toy
- s\, Push & Bloom (Windows)\, Push & Bloom (Xbox Series)\, Push & Bloom\, T
- iny Fortress\, Wand & Order: Tidy up the Magic shop!\, Ember Express\, The
-  Princess's Reongemt\, Brew & Dash\nPlatforms: PC / PlayStation / Switch /
-  Xbox\nData source: Heybox\nSource links: https://api.xiaoheihe.cn/game/re
- lease_calendar/game_list/single_day?day_timestamp=1796918400&filter_hot=al
- l&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/gam
- e_list/single_day?day_timestamp=1796918400&filter_hot=hot&filter_platform=
- pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?da
- y_timestamp=1796918400&filter_hot=all&filter_platform=ps4\nhttps://api.xia
- oheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796918
- 400&filter_hot=all&filter_platform=switch\n\nSource: https://www.xiaoheihe
- .cn/
+ olis (Early Access)\, Halver\, I Am Jesus Christ\, I Am Jesus Christ\, Pus
+ h & Bloom (Windows)\, Push & Bloom (Xbox Series)\, Push & Bloom\, Tiny For
+ tress\, Wand & Order: Tidy up the Magic shop!\, Ember Express\, Full Throt
+ tle all American Racing\, Night of the Living Toys\, The Princess's Reonge
+ mt\, Brew & Dash.\n\nReleases this day:\n1. Alphadia F (Xbox)\n2. Brew & D
+ ash (Xbox)\n3. Citystate Metropolis (Early Access) (PC)\n4. Halver (Xbox)\
+ n5. I Am Jesus Christ (PlayStation)\n6. I Am Jesus Christ (Xbox)\n7. Push 
+ & Bloom (Windows) (Xbox)\n8. Push & Bloom (Xbox Series) (Xbox)\n9. Push & 
+ Bloom (Xbox)\n10. Tiny Fortress (PC)\n11. Wand & Order: Tidy up the Magic 
+ shop! (Xbox)\n12. Ember Express (PC)\n13. Full Throttle all American Racin
+ g (Switch)\n14. Night of the Living Toys (PC)\n15. The Princess's Reongemt
+  (PC)\n16. Brew & Dash (Switch)\n\nGame count: 16\nGames: Alphadia F\, Bre
+ w & Dash\, Citystate Metropolis (Early Access)\, Halver\, I Am Jesus Chris
+ t\, I Am Jesus Christ\, Push & Bloom (Windows)\, Push & Bloom (Xbox Series
+ )\, Push & Bloom\, Tiny Fortress\, Wand & Order: Tidy up the Magic shop!\,
+  Ember Express\, Full Throttle all American Racing\, Night of the Living T
+ oys\, The Princess's Reongemt\, Brew & Dash\nPlatforms: PC / PlayStation /
+  Switch / Xbox\nData source: Heybox\nSource links: https://api.xiaoheihe.c
+ n/game/release_calendar/game_list/single_day?day_timestamp=1796918400&filt
+ er_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_cal
+ endar/game_list/single_day?day_timestamp=1796918400&filter_hot=hot&filter_
+ platform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/sing
+ le_day?day_timestamp=1796918400&filter_hot=all&filter_platform=ps4\nhttps:
+ //api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestam
+ p=1796918400&filter_hot=all&filter_platform=switch\n\nSource: https://www.
+ xiaoheihe.cn/
 CATEGORIES:Game Releases
 URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
@@ -1142,7 +1137,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-12@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1168,7 +1163,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-14@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1189,7 +1184,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-15@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1215,20 +1210,22 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-16@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Dancin' Divas + 2 more releases
-DESCRIPTION:Releases this day: Dancin' Divas\, Defilade\, Haul Yeah!.\n\nR
- eleases this day:\n1. Dancin' Divas (Xbox)\n2. Defilade (PC)\n3. Haul Yeah
- ! (Xbox)\n\nGame count: 3\nGames: Dancin' Divas\, Defilade\, Haul Yeah!\nP
- latforms: PC / Xbox\nData source: Heybox\nSource links: https://api.xiaohe
- ihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1797350400
- &filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/releas
- e_calendar/game_list/single_day?day_timestamp=1797350400&filter_hot=hot&fi
- lter_platform=pc\n\nSource: https://www.xiaoheihe.cn/
+SUMMARY:Dancin' Divas + 3 more releases
+DESCRIPTION:Releases this day: Dancin' Divas\, Haul Yeah!\, You're Nuts!\,
+  Game console:900220965.\n\nReleases this day:\n1. Dancin' Divas (Xbox)\n2
+ . Haul Yeah! (Xbox)\n3. You're Nuts! (Switch)\n4. Game console:900220965 (
+ Xbox)\n\nGame count: 4\nGames: Dancin' Divas\, Haul Yeah!\, You're Nuts!\,
+  Game console:900220965\nPlatforms: Switch / Xbox\nData source: Heybox\nSo
+ urce links: https://api.xiaoheihe.cn/game/release_calendar/game_list/singl
+ e_day?day_timestamp=1797350400&filter_hot=all&filter_platform=xbox\nhttps:
+ //api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestam
+ p=1797350400&filter_hot=all&filter_platform=switch\n\nSource: https://www.
+ xiaoheihe.cn/
 CATEGORIES:Game Releases
 URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
@@ -1236,7 +1233,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-17@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1264,27 +1261,30 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-18@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Village Merchant release
-DESCRIPTION:Releases this day: Village Merchant.\n\nReleases this day:\n1.
-  Village Merchant (Xbox)\n\nGame count: 1\nGames: Village Merchant\nPlatfo
- rms: Xbox\nData source: Heybox\nSource links: https://api.xiaoheihe.cn/gam
- e/release_calendar/game_list/single_day?day_timestamp=1797523200&filter_ho
- t=all&filter_platform=xbox\n\nSource: https://api.xiaoheihe.cn/game/share_
- game_detail?appid=900221683&game_type=console
+SUMMARY:Seedbo And That Time The Sun Exploded + 2 more releases
+DESCRIPTION:Releases this day: Seedbo And That Time The Sun Exploded\, Vil
+ lage Merchant\, Vector Trek.\n\nReleases this day:\n1. Seedbo And That Tim
+ e The Sun Exploded (Switch)\n2. Village Merchant (Xbox)\n3. Vector Trek (S
+ witch)\n\nGame count: 3\nGames: Seedbo And That Time The Sun Exploded\, Vi
+ llage Merchant\, Vector Trek\nPlatforms: Switch / Xbox\nData source: Heybo
+ x\nSource links: https://api.xiaoheihe.cn/game/release_calendar/game_list/
+ single_day?day_timestamp=1797523200&filter_hot=all&filter_platform=switch\
+ nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_t
+ imestamp=1797523200&filter_hot=all&filter_platform=xbox\n\nSource: https:/
+ /www.xiaoheihe.cn/
 CATEGORIES:Game Releases
-URL;VALUE=URI:https://api.xiaoheihe.cn/game/share_game_detail?appid=900221
- 683&game_type=console
+URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-19@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1303,9 +1303,29 @@ URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:rawg-releases-rawg-releases-2026-12-20@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261122T000000
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Polarity War release
+DESCRIPTION:Releases this day: Polarity War.\n\nReleases this day:\n1. Pol
+ arity War (Switch)\n\nGame count: 1\nGames: Polarity War\nPlatforms: Switc
+ h\nData source: Heybox\nSource links: https://api.xiaoheihe.cn/game/releas
+ e_calendar/game_list/single_day?day_timestamp=1797696000&filter_hot=all&fi
+ lter_platform=switch\n\nSource: https://api.xiaoheihe.cn/game/share_game_d
+ etail?appid=900222228&game_type=console
+CATEGORIES:Game Releases
+URL;VALUE=URI:https://api.xiaoheihe.cn/game/share_game_detail?appid=900222
+ 228&game_type=console
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-23@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1325,19 +1345,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-24@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Game console:900219945 + 1 more release
-DESCRIPTION:Releases this day: Game console:900219945\, Big Hops Together.
- \n\nReleases this day:\n1. Game console:900219945 (Switch)\n2. Big Hops To
- gether (Switch)\n\nGame count: 2\nGames: Game console:900219945\, Big Hops
-  Together\nPlatforms: Switch\nData source: Heybox\nSource links: https://a
- pi.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1
- 798041600&filter_hot=all&filter_platform=switch\n\nSource: https://www.xia
- oheihe.cn/
+SUMMARY:EQ+ + 2 more releases
+DESCRIPTION:Releases this day: EQ+\, Game console:900219945\, Big Hops Tog
+ ether.\n\nReleases this day:\n1. EQ+ (Switch)\n2. Game console:900219945 (
+ Switch)\n3. Big Hops Together (Switch)\n\nGame count: 3\nGames: EQ+\, Game
+  console:900219945\, Big Hops Together\nPlatforms: Switch\nData source: He
+ ybox\nSource links: https://api.xiaoheihe.cn/game/release_calendar/game_li
+ st/single_day?day_timestamp=1798041600&filter_hot=all&filter_platform=swit
+ ch\n\nSource: https://www.xiaoheihe.cn/
 CATEGORIES:Game Releases
 URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
@@ -1345,21 +1365,22 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-25@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:The Mortal (Early Access) + 1 more release
+SUMMARY:The Mortal (Early Access) + 2 more releases
 DESCRIPTION:Releases this day: The Mortal (Early Access)\, Power Racing Bu
- ndle 4.\n\nReleases this day:\n1. The Mortal (Early Access) (PC)\n2. Power
-  Racing Bundle 4 (Switch)\n\nGame count: 2\nGames: The Mortal (Early Acces
- s)\, Power Racing Bundle 4\nPlatforms: PC / Switch\nData source: Heybox\nS
- ource links: https://api.xiaoheihe.cn/game/release_calendar/game_list/sing
- le_day?day_timestamp=1798128000&filter_hot=hot&filter_platform=pc\nhttps:/
- /api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp
- =1798128000&filter_hot=all&filter_platform=switch\n\nSource: https://www.x
- iaoheihe.cn/
+ ndle 4\, Battle Toy Cars.\n\nReleases this day:\n1. The Mortal (Early Acce
+ ss) (PC)\n2. Power Racing Bundle 4 (Switch)\n3. Battle Toy Cars (Switch)\n
+ \nGame count: 3\nGames: The Mortal (Early Access)\, Power Racing Bundle 4\
+ , Battle Toy Cars\nPlatforms: PC / Switch\nData source: Heybox\nSource lin
+ ks: https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?da
+ y_timestamp=1798128000&filter_hot=hot&filter_platform=pc\nhttps://api.xiao
+ heihe.cn/game/release_calendar/game_list/single_day?day_timestamp=17981280
+ 00&filter_hot=all&filter_platform=switch\n\nSource: https://www.xiaoheihe.
+ cn/
 CATEGORIES:Game Releases
 URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
@@ -1367,7 +1388,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-30@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1387,7 +1408,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2026-12-31@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1410,7 +1431,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-01-01@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1430,7 +1451,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-01-05@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1448,7 +1469,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-01-07@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1470,25 +1491,26 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-01-08@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Armatus + 5 more releases
-DESCRIPTION:Releases this day: Armatus\, Armatus\, Emberville (Early Acces
- s)\, Frontline Logistics: Isarian Warfare\, Ember and Blade (Early Access)
- \, Game pc:2399700.\n\nReleases this day:\n1. Armatus (Switch)\n2. Armatus
-  (PC)\n3. Emberville (Early Access) (PC)\n4. Frontline Logistics: Isarian 
- Warfare (PC)\n5. Ember and Blade (Early Access) (PC)\n6. Game pc:2399700 (
- PC)\n\nGame count: 6\nGames: Armatus\, Armatus\, Emberville (Early Access)
- \, Frontline Logistics: Isarian Warfare\, Ember and Blade (Early Access)\,
-  Game pc:2399700\nPlatforms: PC / Switch\nData source: Heybox\nSource link
- s: https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day
- _timestamp=1799337600&filter_hot=all&filter_platform=switch\nhttps://api.x
- iaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=17993
- 37600&filter_hot=hot&filter_platform=pc\n\nSource: https://www.xiaoheihe.c
- n/
+SUMMARY:Armatus + 6 more releases
+DESCRIPTION:Releases this day: Armatus\, Armatus\, The Kingsward (Early Ac
+ cess)\, Emberville (Early Access)\, Frontline Logistics: Isarian Warfare\,
+  Ember and Blade (Early Access)\, Game pc:2399700.\n\nReleases this day:\n
+ 1. Armatus (Switch)\n2. Armatus (PC)\n3. The Kingsward (Early Access) (PC)
+ \n4. Emberville (Early Access) (PC)\n5. Frontline Logistics: Isarian Warfa
+ re (PC)\n6. Ember and Blade (Early Access) (PC)\n7. Game pc:2399700 (PC)\n
+ \nGame count: 7\nGames: Armatus\, Armatus\, The Kingsward (Early Access)\,
+  Emberville (Early Access)\, Frontline Logistics: Isarian Warfare\, Ember 
+ and Blade (Early Access)\, Game pc:2399700\nPlatforms: PC / Switch\nData s
+ ource: Heybox\nSource links: https://api.xiaoheihe.cn/game/release_calenda
+ r/game_list/single_day?day_timestamp=1799337600&filter_hot=all&filter_plat
+ form=switch\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/sing
+ le_day?day_timestamp=1799337600&filter_hot=hot&filter_platform=pc\n\nSourc
+ e: https://www.xiaoheihe.cn/
 CATEGORIES:Game Releases
 URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
@@ -1496,48 +1518,53 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-01-13@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Whodunit Sudoku release
-DESCRIPTION:Releases this day: Whodunit Sudoku.\n\nReleases this day:\n1. 
- Whodunit Sudoku (PC)\n\nGame count: 1\nGames: Whodunit Sudoku\nPlatforms: 
- PC\nData source: Heybox\nSource links: https://api.xiaoheihe.cn/game/relea
- se_calendar/game_list/single_day?day_timestamp=1799769600&filter_hot=hot&f
- ilter_platform=pc\n\nSource: https://store.steampowered.com/app/5076490/
+SUMMARY:Time Commando + 1 more release
+DESCRIPTION:Releases this day: Time Commando\, Whodunit Sudoku.\n\nRelease
+ s this day:\n1. Time Commando (PlayStation)\n2. Whodunit Sudoku (PC)\n\nGa
+ me count: 2\nGames: Time Commando\, Whodunit Sudoku\nPlatforms: PC / PlayS
+ tation\nData source: Heybox\nSource links: https://api.xiaoheihe.cn/game/r
+ elease_calendar/game_list/single_day?day_timestamp=1799769600&filter_hot=a
+ ll&filter_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_calendar/gam
+ e_list/single_day?day_timestamp=1799769600&filter_hot=hot&filter_platform=
+ pc\n\nSource: https://www.xiaoheihe.cn/
 CATEGORIES:Game Releases
-URL;VALUE=URI:https://store.steampowered.com/app/5076490/
+URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-01-14@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Outbreak Z + 9 more releases
-DESCRIPTION:Releases this day: Outbreak Z\, Sturmjäger\, Nubby's Number F
- actory\, Seres Universalis:Three Kingdoms\, Game console:900222140\, Remna
- nts of R'lyeh\, Game console:900219250\, Game console:900220900\, Danganro
- npa 2x2\, Sturmjäger.\n\nReleases this day:\n1. Outbreak Z (PC)\n2. Sturm
- jäger (Xbox)\n3. Nubby's Number Factory (Switch)\n4. Seres Universalis:Th
- ree Kingdoms (PC)\n5. Game console:900222140 (Switch)\n6. Remnants of R'ly
- eh (PC)\n7. Game console:900219250 (Switch)\n8. Game console:900220900 (Xb
- ox)\n9. Danganronpa 2x2 (PC)\n10. Sturmjäger (Switch)\n\nGame count: 10\n
- Games: Outbreak Z\, Sturmjäger\, Nubby's Number Factory\, Seres Universal
- is:Three Kingdoms\, Game console:900222140\, Remnants of R'lyeh\, Game con
- sole:900219250\, Game console:900220900\, Danganronpa 2x2\, Sturmjäger\nP
- latforms: PC / Switch / Xbox\nData source: Heybox\nSource links: https://a
- pi.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1
- 799856000&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game
- /release_calendar/game_list/single_day?day_timestamp=1799856000&filter_hot
- =all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/
- game_list/single_day?day_timestamp=1799856000&filter_hot=all&filter_platfo
- rm=switch\n\nSource: https://www.xiaoheihe.cn/
+SUMMARY:Nubby's Number Factory + 11 more releases
+DESCRIPTION:Releases this day: Nubby's Number Factory\, Outbreak Z\, Sturm
+ jäger\, Nubby's Number Factory\, Seres Universalis:Three Kingdoms\, Deck 
+ of Robin Hood\, Game console:900222202\, Remnants of R'lyeh\, Game console
+ :900219250\, Game console:900220900\, Danganronpa 2x2\, Sturmjäger.\n\nRe
+ leases this day:\n1. Nubby's Number Factory (Xbox)\n2. Outbreak Z (PC)\n3.
+  Sturmjäger (Xbox)\n4. Nubby's Number Factory (Switch)\n5. Seres Universa
+ lis:Three Kingdoms (PC)\n6. Deck of Robin Hood (Switch)\n7. Game console:9
+ 00222202 (Xbox)\n8. Remnants of R'lyeh (PC)\n9. Game console:900219250 (Sw
+ itch)\n10. Game console:900220900 (Xbox)\n11. Danganronpa 2x2 (PC)\n12. St
+ urmjäger (Switch)\n\nGame count: 12\nGames: Nubby's Number Factory\, Outb
+ reak Z\, Sturmjäger\, Nubby's Number Factory\, Seres Universalis:Three Ki
+ ngdoms\, Deck of Robin Hood\, Game console:900222202\, Remnants of R'lyeh\
+ , Game console:900219250\, Game console:900220900\, Danganronpa 2x2\, Stur
+ mjäger\nPlatforms: PC / Switch / Xbox\nData source: Heybox\nSource links:
+  https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_t
+ imestamp=1799856000&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoh
+ eihe.cn/game/release_calendar/game_list/single_day?day_timestamp=179985600
+ 0&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/release
+ _calendar/game_list/single_day?day_timestamp=1799856000&filter_hot=all&fil
+ ter_platform=switch\n\nSource: https://www.xiaoheihe.cn/
 CATEGORIES:Game Releases
 URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
@@ -1545,25 +1572,27 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-01-15@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:13Z: The Zodiac Trials + 4 more releases
+SUMMARY:13Z: The Zodiac Trials + 5 more releases
 DESCRIPTION:Releases this day: 13Z: The Zodiac Trials\, Game console:90021
- 9239\, TankRat\, STRANGER THAN HEAVEN\, Titan Quest II.\n\nReleases this d
- ay:\n1. 13Z: The Zodiac Trials (PC)\n2. Game console:900219239 (Switch)\n3
- . TankRat (PC)\n4. STRANGER THAN HEAVEN (PC)\n5. Titan Quest II (PlayStati
- on)\n\nGame count: 5\nGames: 13Z: The Zodiac Trials\, Game console:9002192
- 39\, TankRat\, STRANGER THAN HEAVEN\, Titan Quest II\nPlatforms: PC / Play
- Station / Switch\nData source: Heybox\nSource links: https://api.xiaoheihe
- .cn/game/release_calendar/game_list/single_day?day_timestamp=1799942400&fi
- lter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/release_cal
- endar/game_list/single_day?day_timestamp=1799942400&filter_hot=all&filter_
- platform=switch\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/
- single_day?day_timestamp=1799942400&filter_hot=all&filter_platform=ps4\n\n
- Source: https://www.xiaoheihe.cn/
+ 9239\, TankRat\, STRANGER THAN HEAVEN\, Tales of Linxi: Idle Wuxia Village
+ \, Titan Quest II.\n\nReleases this day:\n1. 13Z: The Zodiac Trials (PC)\n
+ 2. Game console:900219239 (Switch)\n3. TankRat (PC)\n4. STRANGER THAN HEAV
+ EN (PC)\n5. Tales of Linxi: Idle Wuxia Village (PC)\n6. Titan Quest II (Pl
+ ayStation)\n\nGame count: 6\nGames: 13Z: The Zodiac Trials\, Game console:
+ 900219239\, TankRat\, STRANGER THAN HEAVEN\, Tales of Linxi: Idle Wuxia Vi
+ llage\, Titan Quest II\nPlatforms: PC / PlayStation / Switch\nData source:
+  Heybox\nSource links: https://api.xiaoheihe.cn/game/release_calendar/game
+ _list/single_day?day_timestamp=1799942400&filter_hot=hot&filter_platform=p
+ c\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day
+ _timestamp=1799942400&filter_hot=all&filter_platform=switch\nhttps://api.x
+ iaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=17999
+ 42400&filter_hot=all&filter_platform=ps4\n\nSource: https://www.xiaoheihe.
+ cn/
 CATEGORIES:Game Releases
 URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
@@ -1571,7 +1600,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-01-18@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1591,18 +1620,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-01-19@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Grr Grr Gnomes + 1 more release
-DESCRIPTION:Releases this day: Grr Grr Gnomes\, Silent Mainland.\n\nReleas
- es this day:\n1. Grr Grr Gnomes (PC)\n2. Silent Mainland (PC)\n\nGame coun
- t: 2\nGames: Grr Grr Gnomes\, Silent Mainland\nPlatforms: PC\nData source:
-  Heybox\nSource links: https://api.xiaoheihe.cn/game/release_calendar/game
- _list/single_day?day_timestamp=1800288000&filter_hot=hot&filter_platform=p
- c\n\nSource: https://www.xiaoheihe.cn/
+SUMMARY:Grr Grr Gnomes + 2 more releases
+DESCRIPTION:Releases this day: Grr Grr Gnomes\, Tiny Shop: make it cozy\, 
+ Silent Mainland.\n\nReleases this day:\n1. Grr Grr Gnomes (PC)\n2. Tiny Sh
+ op: make it cozy (PC)\n3. Silent Mainland (PC)\n\nGame count: 3\nGames: Gr
+ r Grr Gnomes\, Tiny Shop: make it cozy\, Silent Mainland\nPlatforms: PC\nD
+ ata source: Heybox\nSource links: https://api.xiaoheihe.cn/game/release_ca
+ lendar/game_list/single_day?day_timestamp=1800288000&filter_hot=hot&filter
+ _platform=pc\n\nSource: https://www.xiaoheihe.cn/
 CATEGORIES:Game Releases
 URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
@@ -1610,7 +1640,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-01-20@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1634,34 +1664,35 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-01-21@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Arizona Sunshine® + 9 more releases
+SUMMARY:Arizona Sunshine® + 10 more releases
 DESCRIPTION:Releases this day: Arizona Sunshine®\, Crystals of Irm\, Gael
  co Sports Collection (QUByte Classics)\, TALAKA\, Temtem: Swarm\, The Jame
- s Pond Legacy: The Pond Is Not Enough\, Game console:900222104\, Heidi's L
- egacy : Mountains Calling\, Whirlight - No Time To Trip\, Third Bloc.\n\nR
- eleases this day:\n1. Arizona Sunshine® (PlayStation)\n2. Crystals of Irm
-  (Switch)\n3. Gaelco Sports Collection (QUByte Classics) (Xbox)\n4. TALAKA
-  (Switch)\n5. Temtem: Swarm (Switch)\n6. The James Pond Legacy: The Pond I
- s Not Enough (Switch)\n7. Game console:900222104 (Switch)\n8. Heidi's Lega
- cy : Mountains Calling (Switch)\n9. Whirlight - No Time To Trip (Switch)\n
- 10. Third Bloc (PC)\n\nGame count: 10\nGames: Arizona Sunshine®\, Crystal
- s of Irm\, Gaelco Sports Collection (QUByte Classics)\, TALAKA\, Temtem: S
- warm\, The James Pond Legacy: The Pond Is Not Enough\, Game console:900222
- 104\, Heidi's Legacy : Mountains Calling\, Whirlight - No Time To Trip\, T
- hird Bloc\nPlatforms: PC / PlayStation / Switch / Xbox\nData source: Heybo
- x\nSource links: https://api.xiaoheihe.cn/game/release_calendar/game_list/
- single_day?day_timestamp=1800460800&filter_hot=all&filter_platform=ps4\nht
- tps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_time
- stamp=1800460800&filter_hot=all&filter_platform=switch\nhttps://api.xiaohe
- ihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1800460800
- &filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/releas
- e_calendar/game_list/single_day?day_timestamp=1800460800&filter_hot=hot&fi
- lter_platform=pc\n\nSource: https://www.xiaoheihe.cn/
+ s Pond Legacy: The Pond Is Not Enough\, Halloween Hellweave\, Heidi's Lega
+ cy : Mountains Calling\, Whirlight - No Time To Trip\, Third Bloc\, Game c
+ onsole:900222198.\n\nReleases this day:\n1. Arizona Sunshine® (PlayStatio
+ n)\n2. Crystals of Irm (Switch)\n3. Gaelco Sports Collection (QUByte Class
+ ics) (Xbox)\n4. TALAKA (Switch)\n5. Temtem: Swarm (Switch)\n6. The James P
+ ond Legacy: The Pond Is Not Enough (Switch)\n7. Halloween Hellweave (Switc
+ h)\n8. Heidi's Legacy : Mountains Calling (Switch)\n9. Whirlight - No Time
+  To Trip (Switch)\n10. Third Bloc (PC)\n11. Game console:900222198 (Xbox)\
+ n\nGame count: 11\nGames: Arizona Sunshine®\, Crystals of Irm\, Gaelco Sp
+ orts Collection (QUByte Classics)\, TALAKA\, Temtem: Swarm\, The James Pon
+ d Legacy: The Pond Is Not Enough\, Halloween Hellweave\, Heidi's Legacy : 
+ Mountains Calling\, Whirlight - No Time To Trip\, Third Bloc\, Game consol
+ e:900222198\nPlatforms: PC / PlayStation / Switch / Xbox\nData source: Hey
+ box\nSource links: https://api.xiaoheihe.cn/game/release_calendar/game_lis
+ t/single_day?day_timestamp=1800460800&filter_hot=all&filter_platform=ps4\n
+ https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_ti
+ mestamp=1800460800&filter_hot=all&filter_platform=switch\nhttps://api.xiao
+ heihe.cn/game/release_calendar/game_list/single_day?day_timestamp=18004608
+ 00&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/rele
+ ase_calendar/game_list/single_day?day_timestamp=1800460800&filter_hot=hot&
+ filter_platform=pc\n\nSource: https://www.xiaoheihe.cn/
 CATEGORIES:Game Releases
 URL;VALUE=URI:https://www.xiaoheihe.cn/
 STATUS:TENTATIVE
@@ -1669,7 +1700,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-01-22@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1693,7 +1724,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-01-26@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1713,7 +1744,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-01-27@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1732,7 +1763,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-01-28@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1764,7 +1795,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-01-29@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1785,7 +1816,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-01-31@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1806,7 +1837,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-02-02@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1827,7 +1858,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-02-03@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1849,7 +1880,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-02-04@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1880,7 +1911,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-02-05@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1900,7 +1931,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-02-08@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1919,7 +1950,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-02-11@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1946,7 +1977,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-02-12@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1968,7 +1999,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-02-13@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1987,7 +2018,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-02-15@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2007,7 +2038,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-02-16@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2030,7 +2061,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-02-17@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2051,7 +2082,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-02-18@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2070,7 +2101,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-02-19@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2089,7 +2120,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-02-23@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2110,7 +2141,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-02-24@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2131,7 +2162,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-02-25@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2161,7 +2192,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-03-03@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2182,7 +2213,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-03-04@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2214,7 +2245,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-03-05@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2233,7 +2264,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-03-08@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2253,7 +2284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-03-10@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2275,7 +2306,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-03-11@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2296,7 +2327,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-03-12@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2314,7 +2345,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-03-17@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2335,7 +2366,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-03-18@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2358,7 +2389,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-03-26@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2376,7 +2407,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-04-02@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270403
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2394,7 +2425,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-04-08@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270409
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2419,7 +2450,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-04-16@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270417
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2437,7 +2468,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-04-20@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2456,7 +2487,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-04-22@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2475,7 +2506,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-04-27@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270428
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2494,7 +2525,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-04-28@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270429
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2513,7 +2544,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-05-03@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270503
 DTEND;VALUE=DATE:20270504
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2532,7 +2563,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-05-18@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270519
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2552,7 +2583,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-05-19@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2572,7 +2603,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-05-20@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2592,7 +2623,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-05-31@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270601
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2612,7 +2643,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rawg-releases-rawg-releases-2027-06-30@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261119T000000
+DTSTAMP:20261122T000000
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE

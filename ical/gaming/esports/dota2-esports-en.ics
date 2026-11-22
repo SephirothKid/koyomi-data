@@ -9,26 +9,11 @@ X-WR-CALDESC:Main-event matches for The International, ESL One, DreamLeagu
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-UID:dota2-esports-dota2-esports-2026-m1816442@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261118T000000
-DTSTART;TZID=Asia/Shanghai:20261120T190000
-DTEND;TZID=Asia/Shanghai:20261120T200000
-SUMMARY:Dota 2 International Events · BLAST Slam · Group A · Team Yande
- x vs PlayTime
-DESCRIPTION:BLAST Slam · Season 9 2026 · Team Yandex vs PlayTime\n\nComp
- etition: BLAST Slam\nSeries: BLAST Slam · Season 9 2026\nStage: Group A\n
- Format: BO3\nSource: PandaScore\n\nSource: https://www.dota2.com/esports
-CATEGORIES:Dota 2 International Events
-URL;VALUE=URI:https://www.dota2.com/esports
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:dota2-esports-dota2-esports-2026-m1816452@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261118T000000
-DTSTART;TZID=Asia/Shanghai:20261120T190000
-DTEND;TZID=Asia/Shanghai:20261120T200000
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261120T190200
+DTEND;TZID=Asia/Shanghai:20261120T200200
 SUMMARY:Dota 2 International Events · BLAST Slam · Group B · Team Spiri
  t vs Team Nemesis
 DESCRIPTION:BLAST Slam · Season 9 2026 · Team Spirit vs Team Nemesis\n\n
@@ -40,11 +25,26 @@ URL;VALUE=URI:https://www.dota2.com/esports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:dota2-esports-dota2-esports-2026-m1816442@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261120T190300
+DTEND;TZID=Asia/Shanghai:20261120T200300
+SUMMARY:Dota 2 International Events · BLAST Slam · Group A · Team Yande
+ x vs PlayTime
+DESCRIPTION:BLAST Slam · Season 9 2026 · Team Yandex vs PlayTime\n\nComp
+ etition: BLAST Slam\nSeries: BLAST Slam · Season 9 2026\nStage: Group A\n
+ Format: BO3\nSource: PandaScore\n\nSource: https://www.dota2.com/esports
+CATEGORIES:Dota 2 International Events
+URL;VALUE=URI:https://www.dota2.com/esports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:dota2-esports-dota2-esports-2026-m1816443@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261118T000000
-DTSTART;TZID=Asia/Shanghai:20261120T220000
-DTEND;TZID=Asia/Shanghai:20261120T230000
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261120T211600
+DTEND;TZID=Asia/Shanghai:20261120T221600
 SUMMARY:Dota 2 International Events · BLAST Slam · Group A · Natus Vinc
  ere vs OG
 DESCRIPTION:BLAST Slam · Season 9 2026 · Natus Vincere vs OG\n\nCompetit
@@ -57,9 +57,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dota2-esports-dota2-esports-2026-m1816453@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261118T000000
-DTSTART;TZID=Asia/Shanghai:20261120T220000
-DTEND;TZID=Asia/Shanghai:20261120T230000
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261120T214300
+DTEND;TZID=Asia/Shanghai:20261120T224300
 SUMMARY:Dota 2 International Events · BLAST Slam · Group B · GamerLegio
  n vs Xtreme Gaming
 DESCRIPTION:BLAST Slam · Season 9 2026 · GamerLegion vs Xtreme Gaming\n\
@@ -73,9 +73,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dota2-esports-dota2-esports-2026-m1816457@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261118T000000
-DTSTART;TZID=Asia/Shanghai:20261121T010000
-DTEND;TZID=Asia/Shanghai:20261121T020000
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261121T000000
+DTEND;TZID=Asia/Shanghai:20261121T010000
 SUMMARY:Dota 2 International Events · BLAST Slam · Group C · PARIVISION
   vs LEGION
 DESCRIPTION:BLAST Slam · Season 9 2026 · PARIVISION vs LEGION\n\nCompeti
@@ -88,9 +88,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dota2-esports-dota2-esports-2026-m1816458@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261118T000000
-DTSTART;TZID=Asia/Shanghai:20261121T010000
-DTEND;TZID=Asia/Shanghai:20261121T020000
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261121T005600
+DTEND;TZID=Asia/Shanghai:20261121T015600
 SUMMARY:Dota 2 International Events · BLAST Slam · Group C · Team Liqui
  d vs DO KONCA
 DESCRIPTION:BLAST Slam · Season 9 2026 · Team Liquid vs DO KONCA\n\nComp
@@ -101,11 +101,26 @@ URL;VALUE=URI:https://www.dota2.com/esports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:dota2-esports-dota2-esports-2026-m1816468@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261121T190100
+DTEND;TZID=Asia/Shanghai:20261121T200100
+SUMMARY:Dota 2 International Events · BLAST Slam · Group D · LGD Gaming
+  vs 1w Team
+DESCRIPTION:BLAST Slam · Season 9 2026 · LGD Gaming vs 1w Team\n\nCompet
+ ition: BLAST Slam\nSeries: BLAST Slam · Season 9 2026\nStage: Group D\nFo
+ rmat: BO3\nSource: PandaScore\n\nSource: https://www.dota2.com/esports
+CATEGORIES:Dota 2 International Events
+URL;VALUE=URI:https://www.dota2.com/esports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:dota2-esports-dota2-esports-2026-m1816467@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261118T000000
-DTSTART;TZID=Asia/Shanghai:20261121T190000
-DTEND;TZID=Asia/Shanghai:20261121T200000
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261121T190400
+DTEND;TZID=Asia/Shanghai:20261121T200400
 SUMMARY:Dota 2 International Events · BLAST Slam · Group D · Aurora vs 
  Astra Invicta
 DESCRIPTION:BLAST Slam · Season 9 2026 · Aurora vs Astra Invicta\n\nComp
@@ -116,16 +131,156 @@ URL;VALUE=URI:https://www.dota2.com/esports
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:dota2-esports-dota2-esports-2026-m1816468@koyomi.cast
+UID:dota2-esports-dota2-esports-2026-m1816454@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261118T000000
-DTSTART;TZID=Asia/Shanghai:20261121T190000
-DTEND;TZID=Asia/Shanghai:20261121T200000
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261121T214700
+DTEND;TZID=Asia/Shanghai:20261121T224700
+SUMMARY:Dota 2 International Events · BLAST Slam · Group B · Team Nemes
+ is vs GamerLegion
+DESCRIPTION:BLAST Slam · Season 9 2026 · Team Nemesis vs GamerLegion\n\n
+ Competition: BLAST Slam\nSeries: BLAST Slam · Season 9 2026\nStage: Group
+  B\nFormat: BO3\nSource: PandaScore\n\nSource: https://www.dota2.com/espor
+ ts
+CATEGORIES:Dota 2 International Events
+URL;VALUE=URI:https://www.dota2.com/esports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dota2-esports-dota2-esports-2026-m1816444@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261121T225200
+DTEND;TZID=Asia/Shanghai:20261121T235200
+SUMMARY:Dota 2 International Events · BLAST Slam · Group A · Team Yande
+ x vs Natus Vincere
+DESCRIPTION:BLAST Slam · Season 9 2026 · Team Yandex vs Natus Vincere\n\
+ nCompetition: BLAST Slam\nSeries: BLAST Slam · Season 9 2026\nStage: Grou
+ p A\nFormat: BO3\nSource: PandaScore\n\nSource: https://www.dota2.com/espo
+ rts
+CATEGORIES:Dota 2 International Events
+URL;VALUE=URI:https://www.dota2.com/esports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dota2-esports-dota2-esports-2026-m1816445@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261122T001500
+DTEND;TZID=Asia/Shanghai:20261122T011500
+SUMMARY:Dota 2 International Events · BLAST Slam · Group A · PlayTime v
+ s OG
+DESCRIPTION:BLAST Slam · Season 9 2026 · PlayTime vs OG\n\nCompetition: 
+ BLAST Slam\nSeries: BLAST Slam · Season 9 2026\nStage: Group A\nFormat: B
+ O3\nSource: PandaScore\n\nSource: https://www.dota2.com/esports
+CATEGORIES:Dota 2 International Events
+URL;VALUE=URI:https://www.dota2.com/esports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dota2-esports-dota2-esports-2026-m1816455@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261122T021000
+DTEND;TZID=Asia/Shanghai:20261122T031000
+SUMMARY:Dota 2 International Events · BLAST Slam · Group B · Team Spiri
+ t vs Xtreme Gaming
+DESCRIPTION:BLAST Slam · Season 9 2026 · Team Spirit vs Xtreme Gaming\n\
+ nCompetition: BLAST Slam\nSeries: BLAST Slam · Season 9 2026\nStage: Grou
+ p B\nFormat: BO3\nSource: PandaScore\n\nSource: https://www.dota2.com/espo
+ rts
+CATEGORIES:Dota 2 International Events
+URL;VALUE=URI:https://www.dota2.com/esports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dota2-esports-dota2-esports-2026-m1816459@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261122T220000
+DTEND;TZID=Asia/Shanghai:20261122T230000
+SUMMARY:Dota 2 International Events · BLAST Slam · Group C · PARIVISION
+  vs Team Liquid
+DESCRIPTION:BLAST Slam · Season 9 2026 · PARIVISION vs Team Liquid\n\nCo
+ mpetition: BLAST Slam\nSeries: BLAST Slam · Season 9 2026\nStage: Group C
+ \nFormat: BO3\nSource: PandaScore\n\nSource: https://www.dota2.com/esports
+CATEGORIES:Dota 2 International Events
+URL;VALUE=URI:https://www.dota2.com/esports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dota2-esports-dota2-esports-2026-m1816460@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261122T220000
+DTEND;TZID=Asia/Shanghai:20261122T230000
+SUMMARY:Dota 2 International Events · BLAST Slam · Group C · LEGION vs 
+ DO KONCA
+DESCRIPTION:BLAST Slam · Season 9 2026 · LEGION vs DO KONCA\n\nCompetiti
+ on: BLAST Slam\nSeries: BLAST Slam · Season 9 2026\nStage: Group C\nForma
+ t: BO3\nSource: PandaScore\n\nSource: https://www.dota2.com/esports
+CATEGORIES:Dota 2 International Events
+URL;VALUE=URI:https://www.dota2.com/esports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dota2-esports-dota2-esports-2026-m1816469@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261123T010000
+DTEND;TZID=Asia/Shanghai:20261123T020000
+SUMMARY:Dota 2 International Events · BLAST Slam · Group D · 1w Team vs
+  Aurora
+DESCRIPTION:BLAST Slam · Season 9 2026 · 1w Team vs Aurora\n\nCompetitio
+ n: BLAST Slam\nSeries: BLAST Slam · Season 9 2026\nStage: Group D\nFormat
+ : BO3\nSource: PandaScore\n\nSource: https://www.dota2.com/esports
+CATEGORIES:Dota 2 International Events
+URL;VALUE=URI:https://www.dota2.com/esports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dota2-esports-dota2-esports-2026-m1816470@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261123T010000
+DTEND;TZID=Asia/Shanghai:20261123T020000
 SUMMARY:Dota 2 International Events · BLAST Slam · Group D · LGD Gaming
-  vs 1w Team
-DESCRIPTION:BLAST Slam · Season 9 2026 · LGD Gaming vs 1w Team\n\nCompet
- ition: BLAST Slam\nSeries: BLAST Slam · Season 9 2026\nStage: Group D\nFo
- rmat: BO3\nSource: PandaScore\n\nSource: https://www.dota2.com/esports
+  vs Astra Invicta
+DESCRIPTION:BLAST Slam · Season 9 2026 · LGD Gaming vs Astra Invicta\n\n
+ Competition: BLAST Slam\nSeries: BLAST Slam · Season 9 2026\nStage: Group
+  D\nFormat: BO3\nSource: PandaScore\n\nSource: https://www.dota2.com/espor
+ ts
+CATEGORIES:Dota 2 International Events
+URL;VALUE=URI:https://www.dota2.com/esports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dota2-esports-dota2-esports-2026-m1816446@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261123T220000
+DTEND;TZID=Asia/Shanghai:20261123T230000
+SUMMARY:Dota 2 International Events · BLAST Slam · Group A · Natus Vinc
+ ere vs OG
+DESCRIPTION:BLAST Slam · Season 9 2026 · Natus Vincere vs OG\n\nCompetit
+ ion: BLAST Slam\nSeries: BLAST Slam · Season 9 2026\nStage: Group A\nForm
+ at: BO3\nSource: PandaScore\n\nSource: https://www.dota2.com/esports
+CATEGORIES:Dota 2 International Events
+URL;VALUE=URI:https://www.dota2.com/esports
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dota2-esports-dota2-esports-2026-m1816456@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261122T000000
+DTSTART;TZID=Asia/Shanghai:20261123T220000
+DTEND;TZID=Asia/Shanghai:20261123T230000
+SUMMARY:Dota 2 International Events · BLAST Slam · Group B · Team Nemes
+ is vs Xtreme Gaming
+DESCRIPTION:BLAST Slam · Season 9 2026 · Team Nemesis vs Xtreme Gaming\n
+ \nCompetition: BLAST Slam\nSeries: BLAST Slam · Season 9 2026\nStage: Gro
+ up B\nFormat: BO3\nSource: PandaScore\n\nSource: https://www.dota2.com/esp
+ orts
 CATEGORIES:Dota 2 International Events
 URL;VALUE=URI:https://www.dota2.com/esports
 STATUS:CONFIRMED
