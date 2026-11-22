@@ -21321,7 +21321,7 @@
       "description": "乌迪内斯 作客 博洛尼亚（意甲 2026-27 赛季，北京时间）",
       "description_en": "Udinese at Bologna (Serie A 2026-27, Beijing time)",
       "url": "https://www.legaseriea.it/en/serie-a/fixture-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-22",
       "verified_by": "auto",
       "teams": {
@@ -21341,8 +21341,15 @@
       "details": {
         "主场": "博洛尼亚",
         "客场": "乌迪内斯",
+        "比分": "博洛尼亚 1 - 1 乌迪内斯",
         "场馆": "Renato Dall'Ara",
         "城市": "Bologna"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 1,
+        "winner": "draw",
+        "status": "FT"
       }
     },
     {
@@ -21357,7 +21364,7 @@
       "description": "热那亚 作客 萨索洛（意甲 2026-27 赛季，北京时间）",
       "description_en": "Genoa at Sassuolo (Serie A 2026-27, Beijing time)",
       "url": "https://www.legaseriea.it/en/serie-a/fixture-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-22",
       "verified_by": "auto",
       "teams": {
@@ -21377,8 +21384,15 @@
       "details": {
         "主场": "萨索洛",
         "客场": "热那亚",
+        "比分": "萨索洛 0 - 2 热那亚",
         "场馆": "Mapei Stadium",
         "城市": "Reggio Emilia"
+      },
+      "result": {
+        "home_score": 0,
+        "away_score": 2,
+        "winner": "away",
+        "status": "FT"
       }
     },
     {
@@ -21393,7 +21407,7 @@
       "description": "弗罗西诺内 作客 AC米兰（意甲 2026-27 赛季，北京时间）",
       "description_en": "Frosinone at AC Milan (Serie A 2026-27, Beijing time)",
       "url": "https://www.legaseriea.it/en/serie-a/fixture-results",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-22",
       "verified_by": "auto",
       "teams": {
@@ -21413,8 +21427,15 @@
       "details": {
         "主场": "AC米兰",
         "客场": "弗罗西诺内",
+        "比分": "AC米兰 5 - 1 弗罗西诺内",
         "场馆": "San Siro",
         "城市": "Milano"
+      },
+      "result": {
+        "home_score": 5,
+        "away_score": 1,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {

@@ -21751,7 +21751,7 @@
       "description": "皇家社会 作客 桑坦德竞技（西甲 2026-27 赛季，北京时间）",
       "description_en": "Real Sociedad at Racing Santander (La Liga 2026-27, Beijing time)",
       "url": "https://www.laliga.com/laliga-ea-sports",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-22",
       "verified_by": "auto",
       "teams": {
@@ -21771,8 +21771,15 @@
       "details": {
         "主场": "桑坦德竞技",
         "客场": "皇家社会",
+        "比分": "桑坦德竞技 3 - 2 皇家社会",
         "场馆": "El Sardineros",
         "城市": "Santander"
+      },
+      "result": {
+        "home_score": 3,
+        "away_score": 2,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
@@ -21787,7 +21794,7 @@
       "description": "马拉加 作客 奥萨苏纳（西甲 2026-27 赛季，北京时间）",
       "description_en": "Málaga at Osasuna (La Liga 2026-27, Beijing time)",
       "url": "https://www.laliga.com/laliga-ea-sports",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-22",
       "verified_by": "auto",
       "teams": {
@@ -21807,8 +21814,15 @@
       "details": {
         "主场": "奥萨苏纳",
         "客场": "马拉加",
+        "比分": "奥萨苏纳 1 - 0 马拉加",
         "场馆": "El Sadar",
         "城市": "Pamplona"
+      },
+      "result": {
+        "home_score": 1,
+        "away_score": 0,
+        "winner": "home",
+        "status": "FT"
       }
     },
     {
