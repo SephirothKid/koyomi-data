@@ -194,7 +194,7 @@
     "kpl": {
       "category": "gaming",
       "checked_at": "2026-11-22",
-      "outcome": "unchanged"
+      "outcome": "updated"
     },
     "lpl": {
       "category": "gaming",
@@ -219,7 +219,7 @@
     "zenless-zone-zero": {
       "category": "gaming",
       "checked_at": "2026-11-22",
-      "outcome": "unchanged"
+      "outcome": "updated"
     },
     "rawg-releases": {
       "category": "gaming",
@@ -234,7 +234,8 @@
     "wuthering-waves": {
       "category": "gaming",
       "checked_at": "2026-11-22",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/zh/ArticleMenu.json (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 119.44.2.165:443, 119.44.2.166:443, 119.44.2.164:443, 119.44.2.167:443, 119.44.2.169:443, 119.44.2.170:443, 119.44.2.168:443, 119.44.2.163:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 119.44.2.165:443, 119.44.2.166:443, 119.44.2.164:443, 119.44.2.167:443, 119.44.2.169:443, 119.44.2.170:443, 119.44.2.168:443, 119.44.2.163:443, timeout: 10000ms)"
     },
     "accounting-qualification": {
       "category": "exam",
@@ -405,8 +406,7 @@
     "dota2-esports": {
       "category": "gaming",
       "checked_at": "2026-11-22",
-      "outcome": "skipped",
-      "last_error": "HTTP 429: PandaScore /dota2/matches"
+      "outcome": "updated"
     },
     "lol-international": {
       "category": "gaming",
