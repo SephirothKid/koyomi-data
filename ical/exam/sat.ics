@@ -9,20 +9,6 @@ X-WR-CALDESC:College Board 确认的 SAT 周末考试、常规报名与迟
 TIMEZONE-ID:America/New_York
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:sat-sat-2026-11-registration@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261121T000000
-DTSTART;TZID=America/New_York:20261023T235900
-DTEND;TZID=America/New_York:20261024T005900
-SUMMARY:SAT 考试 · 年11月 SAT 常规报名截止
-DESCRIPTION:College Board 公布的 SAT 周末场安排。截止按美国
- 东部时间；实际考位与报到时间查所在考点。\n\n来源: ht
- tps://satsuite.collegeboard.org/sat/dates-deadlines
-CATEGORIES:SAT 考试
-URL;VALUE=URI:https://satsuite.collegeboard.org/sat/dates-deadlines
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:sat-sat-2026-11-late-registration@koyomi.cast
 SEQUENCE:0
 DTSTAMP:20261121T000000
