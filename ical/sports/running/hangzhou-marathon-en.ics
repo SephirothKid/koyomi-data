@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//hangzhou-marathon//EN
+URL:https://koyomi.cast/sources/hangzhou-marathon
+NAME:Hangzhou Marathon
+X-WR-CALNAME:Hangzhou Marathon
+X-WR-CALDESC:Registration, lottery, payment, packet pickup and race dates 
+ for the Hangzhou Marathon.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:hangzhou-marathon-hangzhou-marathon-2026-pickup-1@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261123T000000
+DTSTART;TZID=Asia/Shanghai:20261029T140000
+DTEND;TZID=Asia/Shanghai:20261029T200000
+SUMMARY:Hangzhou Marathon · Hangzhou Marathon packet pickup
+DESCRIPTION:North Tower\, Huanglong Sports Centre Stadium\n\nSource: https
+ ://hm.zhetiyu.cn/rich-text?id=2061290533051273218&type=menu
+CATEGORIES:Hangzhou Marathon
+URL;VALUE=URI:https://hm.zhetiyu.cn/rich-text?id=2061290533051273218&type=
+ menu
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hangzhou-marathon-hangzhou-marathon-2026-pickup-2@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261123T000000
+DTSTART;TZID=Asia/Shanghai:20261030T100000
+DTEND;TZID=Asia/Shanghai:20261030T200000
+SUMMARY:Hangzhou Marathon · Hangzhou Marathon packet pickup
+DESCRIPTION:North Tower\, Huanglong Sports Centre Stadium\n\nSource: https
+ ://hm.zhetiyu.cn/rich-text?id=2061290533051273218&type=menu
+CATEGORIES:Hangzhou Marathon
+URL;VALUE=URI:https://hm.zhetiyu.cn/rich-text?id=2061290533051273218&type=
+ menu
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hangzhou-marathon-hangzhou-marathon-2026-pickup-3@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261123T000000
+DTSTART;TZID=Asia/Shanghai:20261031T100000
+DTEND;TZID=Asia/Shanghai:20261031T210000
+SUMMARY:Hangzhou Marathon · Hangzhou Marathon packet pickup
+DESCRIPTION:North Tower\, Huanglong Sports Centre Stadium\n\nSource: https
+ ://hm.zhetiyu.cn/rich-text?id=2061290533051273218&type=menu
+CATEGORIES:Hangzhou Marathon
+URL;VALUE=URI:https://hm.zhetiyu.cn/rich-text?id=2061290533051273218&type=
+ menu
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hangzhou-marathon-hangzhou-marathon-2026-race@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261123T000000
+DTSTART;TZID=Asia/Shanghai:20261101T070000
+DTEND;TZID=Asia/Shanghai:20261101T080000
+SUMMARY:Hangzhou Marathon · Hangzhou Marathon first wave start
+DESCRIPTION:Hangzhou Marathon\n\nSource: https://hm.zhetiyu.cn/newsDetail/
+ 2068874543266398209
+CATEGORIES:Hangzhou Marathon
+URL;VALUE=URI:https://hm.zhetiyu.cn/newsDetail/2068874543266398209
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

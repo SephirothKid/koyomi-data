@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//jlpt-cn//EN
+URL:https://koyomi.cast/sources/jlpt-cn
+NAME:日本语能力测试（中国大陆）
+X-WR-CALNAME:日本语能力测试（中国大陆）
+X-WR-CALDESC:日本语能力测试（JLPT）中国大陆考区的报名、
+ 缴费、准考证和考试日期。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:jlpt-cn-jlpt-cn-2026-m12-admission-ticket@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261123T000000
+DTSTART;TZID=Asia/Shanghai:20261130T140000
+DTEND;TZID=Asia/Shanghai:20261130T150000
+SUMMARY:日本语能力测试（中国大陆） · 开放打印准考证
+DESCRIPTION:中国大陆考区日程，个人考试场次以准考证为
+ 准。\n\n来源: https://hwks.ntu.edu.cn/2026/0820/c6211a297328/page.htm
+CATEGORIES:日本语能力测试（中国大陆）
+URL;VALUE=URI:https://hwks.ntu.edu.cn/2026/0820/c6211a297328/page.htm
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jlpt-cn-jlpt-cn-2026-m12-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261123T000000
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:日本语能力测试（中国大陆） · 日本语能力测试
+DESCRIPTION:中国大陆考区日程，个人考试场次以准考证为
+ 准。\n\n来源: https://hwks.ntu.edu.cn/2026/0820/c6211a297328/page.htm
+CATEGORIES:日本语能力测试（中国大陆）
+URL;VALUE=URI:https://hwks.ntu.edu.cn/2026/0820/c6211a297328/page.htm
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

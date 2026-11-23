@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//hangzhou-marathon//EN
+URL:https://koyomi.cast/sources/hangzhou-marathon
+NAME:杭州马拉松
+X-WR-CALNAME:杭州马拉松
+X-WR-CALDESC:杭州马拉松的报名、抽签、缴费、领物及比赛
+ 日程。
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:hangzhou-marathon-hangzhou-marathon-2026-pickup-1@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261123T000000
+DTSTART;TZID=Asia/Shanghai:20261029T140000
+DTEND;TZID=Asia/Shanghai:20261029T200000
+SUMMARY:杭州马拉松 · 杭州马拉松领物
+DESCRIPTION:黄龙体育中心体育场北塔\n\n来源: https://hm.zhetiy
+ u.cn/rich-text?id=2061290533051273218&type=menu
+CATEGORIES:杭州马拉松
+URL;VALUE=URI:https://hm.zhetiyu.cn/rich-text?id=2061290533051273218&type=
+ menu
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hangzhou-marathon-hangzhou-marathon-2026-pickup-2@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261123T000000
+DTSTART;TZID=Asia/Shanghai:20261030T100000
+DTEND;TZID=Asia/Shanghai:20261030T200000
+SUMMARY:杭州马拉松 · 杭州马拉松领物
+DESCRIPTION:黄龙体育中心体育场北塔\n\n来源: https://hm.zhetiy
+ u.cn/rich-text?id=2061290533051273218&type=menu
+CATEGORIES:杭州马拉松
+URL;VALUE=URI:https://hm.zhetiyu.cn/rich-text?id=2061290533051273218&type=
+ menu
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hangzhou-marathon-hangzhou-marathon-2026-pickup-3@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261123T000000
+DTSTART;TZID=Asia/Shanghai:20261031T100000
+DTEND;TZID=Asia/Shanghai:20261031T210000
+SUMMARY:杭州马拉松 · 杭州马拉松领物
+DESCRIPTION:黄龙体育中心体育场北塔\n\n来源: https://hm.zhetiy
+ u.cn/rich-text?id=2061290533051273218&type=menu
+CATEGORIES:杭州马拉松
+URL;VALUE=URI:https://hm.zhetiyu.cn/rich-text?id=2061290533051273218&type=
+ menu
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hangzhou-marathon-hangzhou-marathon-2026-race@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261123T000000
+DTSTART;TZID=Asia/Shanghai:20261101T070000
+DTEND;TZID=Asia/Shanghai:20261101T080000
+SUMMARY:杭州马拉松 · 杭州马拉松首枪起跑
+DESCRIPTION:杭州马拉松\n\n来源: https://hm.zhetiyu.cn/newsDetail/20
+ 68874543266398209
+CATEGORIES:杭州马拉松
+URL;VALUE=URI:https://hm.zhetiyu.cn/newsDetail/2068874543266398209
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

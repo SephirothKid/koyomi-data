@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//guangzhou-marathon//EN
+URL:https://koyomi.cast/sources/guangzhou-marathon
+NAME:Guangzhou Marathon
+X-WR-CALNAME:Guangzhou Marathon
+X-WR-CALDESC:Registration, lottery, payment, packet pickup and race dates 
+ for the Guangzhou Marathon.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:guangzhou-marathon-guangzhou-marathon-2026-lottery-2@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261123T000000
+DTSTART;TZID=Asia/Shanghai:20261108T100000
+DTEND;TZID=Asia/Shanghai:20261108T110000
+SUMMARY:Guangzhou Marathon · Guangzhou Marathon second lottery results
+DESCRIPTION:Guangzhou Marathon\n\nSource: https://gz.bendibao.com/news/zix
+ un/?from=zhuantimalasong%2F&left_name=%E9%A9%AC%E6%8B%89%E6%9D%BE&name=%E9
+ %A9%AC%E6%8B%89%E6%9D%BE
+CATEGORIES:Guangzhou Marathon
+URL;VALUE=URI:https://gz.bendibao.com/news/zixun/?from=zhuantimalasong%2F&
+ left_name=%E9%A9%AC%E6%8B%89%E6%9D%BE&name=%E9%A9%AC%E6%8B%89%E6%9D%BE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:guangzhou-marathon-guangzhou-marathon-2026-payment-deadline-2@koyomi.c
+ ast
+SEQUENCE:0
+DTSTAMP:20261123T000000
+DTSTART;TZID=Asia/Shanghai:20261112T180000
+DTEND;TZID=Asia/Shanghai:20261112T190000
+SUMMARY:Guangzhou Marathon · Guangzhou Marathon second payment deadline
+DESCRIPTION:Guangzhou Marathon\n\nSource: https://gz.bendibao.com/news/zix
+ un/?from=zhuantimalasong%2F&left_name=%E9%A9%AC%E6%8B%89%E6%9D%BE&name=%E9
+ %A9%AC%E6%8B%89%E6%9D%BE
+CATEGORIES:Guangzhou Marathon
+URL;VALUE=URI:https://gz.bendibao.com/news/zixun/?from=zhuantimalasong%2F&
+ left_name=%E9%A9%AC%E6%8B%89%E6%9D%BE&name=%E9%A9%AC%E6%8B%89%E6%9D%BE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:guangzhou-marathon-guangzhou-marathon-2026-race@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261123T000000
+DTSTART;TZID=Asia/Shanghai:20261220T070000
+DTEND;TZID=Asia/Shanghai:20261220T080000
+SUMMARY:Guangzhou Marathon · Guangzhou Marathon first wave start
+DESCRIPTION:Guangzhou Marathon\n\nSource: https://www.guangzhou-marathon.c
+ om/subject.html?detailId=9006282715649877&topicId=7810377408647936
+CATEGORIES:Guangzhou Marathon
+URL;VALUE=URI:https://www.guangzhou-marathon.com/subject.html?detailId=900
+ 6282715649877&topicId=7810377408647936
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

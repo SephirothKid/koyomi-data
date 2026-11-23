@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//jlpt-cn//EN
+URL:https://koyomi.cast/sources/jlpt-cn
+NAME:JLPT (Mainland China)
+X-WR-CALNAME:JLPT (Mainland China)
+X-WR-CALDESC:JLPT registration, payment, admission-ticket and exam dates f
+ or mainland China.
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:jlpt-cn-jlpt-cn-2026-m12-admission-ticket@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261123T000000
+DTSTART;TZID=Asia/Shanghai:20261130T140000
+DTEND;TZID=Asia/Shanghai:20261130T150000
+SUMMARY:JLPT (Mainland China) · Admission tickets available
+DESCRIPTION:Mainland China schedule. See your admission ticket for your as
+ signed session.\n\nSource: https://hwks.ntu.edu.cn/2026/0820/c6211a297328/
+ page.htm
+CATEGORIES:JLPT (Mainland China)
+URL;VALUE=URI:https://hwks.ntu.edu.cn/2026/0820/c6211a297328/page.htm
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jlpt-cn-jlpt-cn-2026-m12-exam@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261123T000000
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:JLPT (Mainland China) · Japanese-Language Proficiency Test
+DESCRIPTION:Mainland China schedule. See your admission ticket for your as
+ signed session.\n\nSource: https://hwks.ntu.edu.cn/2026/0820/c6211a297328/
+ page.htm
+CATEGORIES:JLPT (Mainland China)
+URL;VALUE=URI:https://hwks.ntu.edu.cn/2026/0820/c6211a297328/page.htm
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

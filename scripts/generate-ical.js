@@ -68,6 +68,8 @@ const SUBCATEGORY_MAP = {
   'shanghai-marathon': 'running',
   'shenzhen-marathon': 'running',
   'xiamen-marathon': 'running',
+  'guangzhou-marathon': 'running',
+  'hangzhou-marathon': 'running',
   // esports (gaming)
   'cs2-tournaments': 'esports',
   lpl: 'esports',
@@ -87,6 +89,7 @@ const SUBCATEGORY_MAP = {
   'final-fantasy-xiv': 'updates',
   // platform (gaming)
   'epic-free': 'platform',
+  'ps-plus-hk': 'platform',
   'steam-sales': 'platform',
   'console-showcases': 'platform',
 }

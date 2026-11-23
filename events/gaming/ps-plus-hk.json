@@ -1,0 +1,58 @@
+{
+  "id": "ps-plus-hk",
+  "name": "PS Plus 月度游戏（港服）",
+  "category": "gaming",
+  "name_en": "PS Plus Monthly Games (Hong Kong)",
+  "subcategory": "新游与优惠",
+  "subcategory_en": "Releases & Deals",
+  "description": "港服 PlayStation Plus 每月游戏的领取开放日期和截止日期。",
+  "description_en": "Claim dates and deadlines for PlayStation Plus monthly games in Hong Kong.",
+  "source_url": "https://www.playstation.com/en-hk/ps-plus/whats-new/",
+  "icon": "gamepad-2",
+  "maintainer": "community",
+  "tags": [
+    "PlayStation",
+    "PS Plus",
+    "港服"
+  ],
+  "tags_en": [
+    "PlayStation",
+    "PS Plus",
+    "Hong Kong"
+  ],
+  "events": [
+    {
+      "id": "ps-plus-hk-2026-m11-claim-opens",
+      "name": "PS Plus 11 月游戏开放领取",
+      "name_en": "PS Plus November monthly games available",
+      "date": "2026-11-03",
+      "timezone": "Asia/Hong_Kong",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2026,
+      "description": "Dead Island 2、Tomb Raider IV-VI Remastered、Monster Train 2",
+      "description_en": "Dead Island 2, Tomb Raider IV-VI Remastered, Monster Train 2",
+      "url": "https://blog.zh-hant.playstation.com/2026/10/30/20261029-psplus/",
+      "status": "completed",
+      "last_verified": "2026-11-23",
+      "verified_by": "official"
+    },
+    {
+      "id": "ps-plus-hk-2026-m11-claim-deadline",
+      "name": "PS Plus 11 月游戏领取截止",
+      "name_en": "PS Plus November monthly games claim deadline",
+      "date": "2026-11-30",
+      "timezone": "Asia/Hong_Kong",
+      "time_kind": "date",
+      "type": "deadline",
+      "year": 2026,
+      "description": "Dead Island 2、Tomb Raider IV-VI Remastered、Monster Train 2",
+      "description_en": "Dead Island 2, Tomb Raider IV-VI Remastered, Monster Train 2",
+      "url": "https://blog.zh-hant.playstation.com/2026/10/30/20261029-psplus/",
+      "status": "confirmed",
+      "last_verified": "2026-11-23",
+      "verified_by": "official"
+    }
+  ],
+  "last_updated": "2026-11-23"
+}
