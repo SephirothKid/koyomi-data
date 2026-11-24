@@ -23,36 +23,80 @@
   "events": [
     {
       "id": "ps-plus-hk-2026-m11-claim-opens",
-      "name": "PS Plus 11 月游戏开放领取",
-      "name_en": "PS Plus November monthly games available",
+      "name": "11 月游戏开放领取",
+      "name_en": "November monthly games available",
       "date": "2026-11-03",
       "timezone": "Asia/Hong_Kong",
       "time_kind": "date",
       "type": "event",
       "year": 2026,
-      "description": "Dead Island 2、Tomb Raider IV-VI Remastered、Monster Train 2",
+      "description": "Dead Island 2、Tomb Raider IV-VI Remastered、怪物列車 2",
       "description_en": "Dead Island 2, Tomb Raider IV-VI Remastered, Monster Train 2",
       "url": "https://blog.zh-hant.playstation.com/2026/10/30/20261029-psplus/",
       "status": "completed",
-      "last_verified": "2026-11-23",
+      "last_verified": "2026-11-24",
       "verified_by": "official"
     },
     {
       "id": "ps-plus-hk-2026-m11-claim-deadline",
-      "name": "PS Plus 11 月游戏领取截止",
-      "name_en": "PS Plus November monthly games claim deadline",
-      "date": "2026-11-30",
+      "name": "11 月游戏领取截止",
+      "name_en": "November monthly games claim deadline",
+      "date": "2026-12-01",
       "timezone": "Asia/Hong_Kong",
-      "time_kind": "date",
+      "time_kind": "datetime",
       "type": "deadline",
       "year": 2026,
-      "description": "Dead Island 2、Tomb Raider IV-VI Remastered、Monster Train 2",
+      "description": "Dead Island 2、Tomb Raider IV-VI Remastered、怪物列車 2",
       "description_en": "Dead Island 2, Tomb Raider IV-VI Remastered, Monster Train 2",
       "url": "https://blog.zh-hant.playstation.com/2026/10/30/20261029-psplus/",
       "status": "confirmed",
-      "last_verified": "2026-11-23",
-      "verified_by": "official"
+      "last_verified": "2026-11-24",
+      "verified_by": "official",
+      "time": "08:00",
+      "games": [
+        {
+          "title": "Dead Island 2",
+          "title_zh": "Dead Island 2",
+          "title_en": "Dead Island 2",
+          "platforms": [
+            "PS5",
+            "PS4"
+          ],
+          "source_url": "https://www.playstation.com/en-hk/games/dead-island-2/",
+          "provider": "playstation-store",
+          "provider_id": "EP4062-PPSA03099_00-DI2MAINSIEEPS500",
+          "store_url": "https://store.playstation.com/en-hk/product/EP4062-PPSA03099_00-DI2MAINSIEEPS500",
+          "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1012/IEo9RDMLk0ZBQWhbZMN5lV2p.jpg"
+        },
+        {
+          "title": "Tomb Raider IV-VI Remastered",
+          "title_zh": "Tomb Raider IV-VI Remastered",
+          "title_en": "Tomb Raider IV-VI Remastered",
+          "platforms": [
+            "PS5",
+            "PS4"
+          ],
+          "source_url": "https://www.playstation.com/en-hk/games/tomb-raider-iv-vi-remastered/",
+          "provider": "playstation-store",
+          "provider_id": "EP1875-PPSA27587_00-0678799933389573",
+          "store_url": "https://store.playstation.com/en-hk/product/EP1875-PPSA27587_00-0678799933389573",
+          "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1221/85006e3582d8b415bf4b7b2aa884c8ddf2f1a7d5d7d2083e.jpg"
+        },
+        {
+          "title": "怪物列車 2",
+          "title_zh": "怪物列車 2",
+          "title_en": "Monster Train 2",
+          "platforms": [
+            "PS5"
+          ],
+          "source_url": "https://www.playstation.com/en-hk/games/monster-train-2/",
+          "provider": "playstation-store",
+          "provider_id": "EP8909-PPSA25758_00-0047300101977880",
+          "store_url": "https://store.playstation.com/en-hk/product/EP8909-PPSA25758_00-0047300101977880",
+          "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1214/39dbb65f6a8bc2ab1f71271b3403f5df6f8f3f0879a299da.png"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-23"
+  "last_updated": "2026-11-24"
 }

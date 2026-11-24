@@ -535,6 +535,7 @@ function sourceDescription(source, isEn = false) {
 
 function createCalendar(source, events, options = {}) {
   const isEn = options.lang === 'en'
+  const isPsPlus = source.id === 'ps-plus-hk'
   const calendarTimezone = source.timezone ?? events.find(event => event.timezone)?.timezone ?? DEFAULT_TIMEZONE
   const cal = ical({
     name: options.name ?? sourceName(source, isEn),
@@ -561,7 +562,8 @@ function createCalendar(source, events, options = {}) {
     let end
 
     if (hasTime) {
-      const startOnly = (event.game || event.scopeOnly || event.details?.snooker_match_id || source.id === 'worldcup-qualifiers-afc')
+      const startOnly = (event.game || event.scopeOnly || event.details?.snooker_match_id || source.id === 'worldcup-qualifiers-afc'
+        || (isPsPlus && event.type === 'deadline'))
         && !event.end_date && !event.endDate && !event.end_time && !event.endTime
       end = startOnly ? null : inferTimeKind(event) === 'datetime_range'
         ? wallClockDateTime(endDateStr, endTimeStr) : start.addMinutes(60)
@@ -586,7 +588,8 @@ function createCalendar(source, events, options = {}) {
 
     // 构建描述内容
     const description = eventDescription(event, isEn)
-    const descParts = source.id === 'final-fantasy-xiv' && description === rawEventName ? [] : [description]
+    const descParts = (source.id === 'final-fantasy-xiv' && description === rawEventName) || (isPsPlus && event.games?.length)
+      ? [] : [description]
 
     // 比分信息
     if (event.result && event.details?.['主场'] && event.details?.['客场']) {
@@ -603,7 +606,7 @@ function createCalendar(source, events, options = {}) {
     if (event.games?.length) {
       const gamesLabel = source.id === 'rawg-releases'
         ? (isEn ? 'Releases this day:' : '当天发售：')
-        : (isEn ? 'Games this week:' : '本周游戏：')
+        : isPsPlus ? (isEn ? 'Monthly games:' : '本月游戏：') : (isEn ? 'Games this week:' : '本周游戏：')
       descParts.push(
         gamesLabel + '\n' + event.games.map((g, i) => {
           const title = gameTitle(g, isEn)
@@ -613,7 +616,9 @@ function createCalendar(source, events, options = {}) {
           if (g.original_price) meta.push(`${priceLabel} ${g.original_price}`)
           if (g.metacritic != null) meta.push(`Metacritic ${g.metacritic}`)
           if (g.rawg_rating != null) meta.push(`RAWG ${g.rawg_rating}`)
-          return `${i + 1}. ${title}${meta.length ? ` (${meta.join(' · ')})` : ''}`
+          const url = isPsPlus ? g.store_url ?? g.source_url : undefined
+          const localUrl = url && !isEn ? url.replace('/en-hk/', '/zh-hant-hk/') : url
+          return `${i + 1}. ${title}${meta.length ? ` (${meta.join(' · ')})` : ''}${localUrl ? `\n${localUrl}` : ''}`
         }).join('\n')
       )
     }
