@@ -103,29 +103,29 @@
     },
     "csl": {
       "category": "sports",
-      "checked_at": "2026-11-23",
-      "outcome": "skipped",
-      "last_error": "fetch failed: https://api.cfl-china.cn/frontweb/api/tournaments?competition_code=CSL (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 117.126.128.11:443, 117.126.128.9:443, 117.126.128.13:443, 117.126.128.16:443, 117.126.128.12:443, 117.126.128.15:443, 117.126.128.14:443, 117.126.128.10:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 117.126.128.11:443, 117.126.128.9:443, 117.126.128.13:443, 117.126.128.16:443, 117.126.128.12:443, 117.126.128.15:443, 117.126.128.14:443, 117.126.128.10:443, timeout: 10000ms)"
+      "checked_at": "2026-11-24",
+      "outcome": "unchanged"
     },
     "epl": {
       "category": "sports",
       "checked_at": "2026-11-24",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "f1": {
       "category": "sports",
       "checked_at": "2026-11-24",
-      "outcome": "unchanged"
+      "outcome": "failed",
+      "last_error": "HTTP 404: https://ergast.com/api/f1/2026.json?limit=100"
     },
     "laliga": {
       "category": "sports",
       "checked_at": "2026-11-24",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "ligue1": {
       "category": "sports",
       "checked_at": "2026-11-24",
-      "outcome": "unchanged"
+      "outcome": "updated"
     },
     "nba": {
       "category": "sports",
@@ -135,7 +135,7 @@
     "seriea": {
       "category": "sports",
       "checked_at": "2026-11-24",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "australian-open": {
       "category": "sports",
@@ -458,7 +458,7 @@
     "bwf-world-tour": {
       "category": "sports",
       "checked_at": "2026-11-24",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "motogp": {
       "category": "sports",
@@ -528,17 +528,17 @@
     "snooker-masters": {
       "category": "sports",
       "checked_at": "2026-11-24",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "snooker-uk-championship": {
       "category": "sports",
       "checked_at": "2026-11-24",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "snooker-world-championship": {
       "category": "sports",
       "checked_at": "2026-11-24",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "hkdse": {
       "category": "exam",
