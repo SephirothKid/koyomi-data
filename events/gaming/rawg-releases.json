@@ -3557,8 +3557,8 @@
       "time_kind": "date",
       "name": "A Fold Apart: Recrafted 等 10 款发售",
       "name_en": "A Fold Apart: Recrafted + 9 more releases",
-      "description": "当天发售：A Fold Apart: Recrafted、KARAKARA3、Storage Hunter、Storage Hunter Simulator、Sunstone of Time、The Spotter、再来亿竿、哥特王朝3、哥特王朝3、天坑追匪",
-      "description_en": "Releases this day: A Fold Apart: Recrafted, KARAKARA3, Storage Hunter Simulator, Storage Hunter Simulator, Sunstone of Time, The Spotter: Dig or Die, One Last Cast, Gothic 3 Classic, Gothic 3 Classic, Game pc:4498140.",
+      "description": "当天发售：A Fold Apart: Recrafted、KARAKARA3、Muv-Luv 少女庭园、Storage Hunter、Storage Hunter Simulator、Sunstone of Time、The Spotter、哥特王朝3、哥特王朝3、天坑追匪",
+      "description_en": "Releases this day: A Fold Apart: Recrafted, KARAKARA3, Muv-Luv Girls Garden, Storage Hunter Simulator, Storage Hunter Simulator, Sunstone of Time, The Spotter: Dig or Die, Gothic 3 Classic, Gothic 3 Classic, Game pc:4498140.",
       "type": "event",
       "status": "active",
       "url": "https://www.xiaoheihe.cn/",
@@ -3566,14 +3566,14 @@
       "verified_by": "auto",
       "details": {
         "游戏数量": "10",
-        "发售游戏": "A Fold Apart: Recrafted、KARAKARA3、Storage Hunter、Storage Hunter Simulator、Sunstone of Time、The Spotter、再来亿竿、哥特王朝3、哥特王朝3、天坑追匪",
+        "发售游戏": "A Fold Apart: Recrafted、KARAKARA3、Muv-Luv 少女庭园、Storage Hunter、Storage Hunter Simulator、Sunstone of Time、The Spotter、哥特王朝3、哥特王朝3、天坑追匪",
         "平台": "PC / PlayStation / Xbox",
         "数据来源": "小黑盒",
         "来源链接": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795449600&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795449600&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795449600&filter_hot=all&filter_platform=ps4"
       },
       "details_en": {
         "Game count": "10",
-        "Games": "A Fold Apart: Recrafted, KARAKARA3, Storage Hunter Simulator, Storage Hunter Simulator, Sunstone of Time, The Spotter: Dig or Die, One Last Cast, Gothic 3 Classic, Gothic 3 Classic, Game pc:4498140",
+        "Games": "A Fold Apart: Recrafted, KARAKARA3, Muv-Luv Girls Garden, Storage Hunter Simulator, Storage Hunter Simulator, Sunstone of Time, The Spotter: Dig or Die, Gothic 3 Classic, Gothic 3 Classic, Game pc:4498140",
         "Platforms": "PC / PlayStation / Xbox",
         "Data source": "Heybox",
         "Source links": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795449600&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795449600&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795449600&filter_hot=all&filter_platform=ps4"
@@ -3604,6 +3604,21 @@
           "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795449600&filter_hot=hot&filter_platform=pc",
           "release_kind": "full-release",
           "steam_checked_at": "2026-11-21"
+        },
+        {
+          "title": "Muv-Luv 少女庭园",
+          "platforms": [
+            "PC"
+          ],
+          "provider": "heybox",
+          "provider_id": "pc:4789870",
+          "title_zh": "Muv-Luv 少女庭园",
+          "steam_appid": "4789870",
+          "store_url": "https://store.steampowered.com/app/4789870/",
+          "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795449600&filter_hot=hot&filter_platform=pc",
+          "release_kind": "unknown",
+          "title_en": "Muv-Luv Girls Garden",
+          "steam_checked_at": "2026-11-24"
         },
         {
           "title": "Storage Hunter",
@@ -3652,21 +3667,6 @@
           "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900221727&game_type=console",
           "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795449600&filter_hot=all&filter_platform=xbox",
           "release_kind": "unknown"
-        },
-        {
-          "title": "再来亿竿",
-          "platforms": [
-            "PC"
-          ],
-          "provider": "heybox",
-          "provider_id": "pc:5508060",
-          "title_en": "One Last Cast",
-          "title_zh": "再来亿竿",
-          "steam_appid": "5508060",
-          "store_url": "https://store.steampowered.com/app/5508060/",
-          "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795449600&filter_hot=hot&filter_platform=pc",
-          "release_kind": "full-release",
-          "steam_checked_at": "2026-11-23"
         },
         {
           "title": "哥特王朝3",
@@ -3921,25 +3921,25 @@
       "year": 2026,
       "timezone": "Asia/Shanghai",
       "time_kind": "date",
-      "name": "1处找不同～每天都能玩的脑力训练游戏～ 等 83 款发售",
-      "name_en": "Game console:900222117 + 82 more releases",
-      "description": "当天发售：1处找不同～每天都能玩的脑力训练游戏～、51区安检站、51区安检站、ALICE＝ALICE ＆ BAD MEDICINE 危险老师的特别授课 2in1 PACK for Nintendo Switch、Astralis: Dawnblades、BOGOS BINTED、Calculus of Rot、Calculus of Rot、Find the Needle、FMS2、Full Metal Sergeant 2、Gravity Switch、Gravity Switch、Gravity Switch、GT Racing Pro、Hazard Pay、JAPAN BUS SIMULATOR、KuloNiku: Bowl Up!、Marupoyo、Marupoyo：圆滚滚小鸡的冒险、MIX DUNK -篮球之王-、Niconico先生、No Umbrellas Allowed、ONE-ROOM ZOMBIE、Pup Champs: 汪汪冠军杯、Relaywardens、Reshine、Santa's Shop Tidy Up、Security 51、Smartopus: IQ Quest、Star Battle: Space Warship Commander、Station to Station、TANK Z、The Spectrum Retreat: Redux、Tiny Pizza、Tri6：无限 2、三丽鸥全明星 魔法捉迷藏、丛林修补匠、从零开始的终结之村、兔子扫雷、全金属军士2、最后一脚：足球传奇、最强王图鉴　爆裂对战王、冥狱战术、啾啾星球、埃及农场、墓后营生、好吃到死！？解谜毒杀推理、小金井庄与金色的扬羽蝶、废墟调查：记忆的痕迹、快乐周末、性感美女与禁忌的假期～被魅惑的金发美女们包围的心跳找不同～、我爱上了花店的他  \n悬疑恋爱冒险游戏、拓荒世界、拼齐！制服男子拼图、捞球朋友、明日追忆 ~The Retrospection Of Tomorrow~、机械狂欢、机械狂欢、杀手玩具2、没有尸体，就没有问题！、淘淘旧货铺、玉响未来、疯狂矿工、病娇诱惑：为你疯狂的动漫男孩、病娇诱惑：疯狂动漫女孩的执念、皮克罗尼克斯3、祖玛：圣诞弹珠传奇、神明不会忘记你：诅咒与执着的BL冒险、站点连连、脑力训练：拼图 世界绝景、莫基：最后的金刚鹦鹉、莱奥和米娅在哪里？丛林冒险、财富大道、连锁秘术、酷飙计程车2、重生之花：灵魂编年史、野性之路、随身摄像机：无人机版、魔卡魅恋！、魔法世界、鲨鱼超市、黄金巨石",
-      "description_en": "Releases this day: Game console:900222117, Security 51, Game console:900222168, ALICE＝ALICE ＆ BAD MEDICINE 2in1 PACK for Nintendo Switch, Astralis : Dawnblades, Bogos Binted, Calculus of Rot, Calculus of Rot, Find the Needle, Full Metal Sergeant 2, Full Metal Sergeant 2, Gravity Switch, Gravity SWlTCH, Gravity Switch, GT Racing Pro, Hazard Pay, JAPAN BUS SIMULATOR, KuloNiku: Bowl Up!, Marupoyo, Marupoyo: The Round Chick's Adventure, MIX DUNK -KING OF BASKETBALL-, Niconico-san, No Umbrellas Allowed, ONE-ROOM ZOMBIE, Pup Champs, Relaywardens, Reshine, Santa's Shop Tidy Up, Security 51, Smartopus: IQ Quest, Star Battle: Space Warship Commander, Station to Station, TANK Z, The Spectrum Retreat: Redux, Tiny Pizza, Tri6: Infinite 2, Game console:900222156, Piece by Piece, Game console:900222110, Bunny Minesweeper, Full Metal Sergeant 2, Final Kick Football Legends, SAI-KYO-OH! Clash Battle Kings, Hadean Tactics, PiyottoPlanet, Egypt Farm, Grave Mistakes, Game console:900222142, Game console:900220143, Game console:900222106, Game console:900221161, Game console:900222111, I Fell for the Florist: A Suspense Romance Adventure, Chronocracy, Game console:900222124, Ball Scooping Friends, The Retrospection Of Tomorrow, Game console:900222007, Game console:900222021, Killer Toys 2, No Body No Problem!, Thrifty Business, Game console:900221859, MANIC MINER, Yandere Temptation: Crazy Anime Boys Obsession, Yandere Temptation: Crazy Anime Girls Obsession, Picronix 3, Zumba - Christmas Marble Saga, Game console:900222125, Station to Station, Brain Training Jigsaw Puzzle World Scenery, Mawkey The Last Macaw, Where are Leo and Mia? Jungle Adventure, Fortune Avenue, Cascade, Taxi Chaos 2, Rebirth Blossom - The Spirit Chronicles, Feral Road, BODYCAMERA: Drone Edition, MagicalCharming!, Game console:900218587, Shark Mart, Big Golden Rock.",
+      "name": "1处找不同～每天都能玩的脑力训练游戏～ 等 86 款发售",
+      "name_en": "Game console:900222117 + 85 more releases",
+      "description": "当天发售：1处找不同～每天都能玩的脑力训练游戏～、51区安检站、51区安检站、ALICE＝ALICE ＆ BAD MEDICINE 危险老师的特别授课 2in1 PACK for Nintendo Switch、Astralis: Dawnblades、BOGOS BINTED、Calculus of Rot、Calculus of Rot、Find the Needle、FMS2、Full Metal Sergeant 2、Gravity Switch、Gravity Switch、Gravity Switch、GT Racing Pro、Hazard Pay、JAPAN BUS SIMULATOR、KuloNiku: Bowl Up!、Marupoyo、Marupoyo：圆滚滚小鸡的冒险、MIX DUNK -篮球之王-、Niconico先生、No Umbrellas Allowed、ONE-ROOM ZOMBIE、Pup Champs: 汪汪冠军杯、Relaywardens、Reshine、Reshine、Rifle MarksMan、Santa's Shop Tidy Up、Security 51、Smartopus: IQ Quest、Star Battle: Space Warship Commander、Station to Station、TANK Z、The Spectrum Retreat: Redux、Tiny Pizza、Tri6：无限 2、三丽鸥全明星 魔法捉迷藏、丛林修补匠、从零开始的终结之村、兔子扫雷、全金属军士2、最后一脚：足球传奇、最强王图鉴　爆裂对战王、冥狱战术、啾啾星球、埃及农场、墓后营生、好吃到死！？解谜毒杀推理、小金井庄与金色的扬羽蝶、废墟调查：记忆的痕迹、快乐周末、性感美女与禁忌的假期～被魅惑的金发美女们包围的心跳找不同～、我爱上了花店的他  \n悬疑恋爱冒险游戏、拓荒世界、拼齐！制服男子拼图、捞球朋友、明日追忆 ~The Retrospection Of Tomorrow~、月球清洁工、机械狂欢、机械狂欢、杀手玩具2、没有尸体，就没有问题！、淘淘旧货铺、玉响未来、疯狂矿工、病娇诱惑：为你疯狂的动漫男孩、病娇诱惑：疯狂动漫女孩的执念、皮克罗尼克斯3、祖玛：圣诞弹珠传奇、神明不会忘记你：诅咒与执着的BL冒险、站点连连、脑力训练：拼图 世界绝景、莫基：最后的金刚鹦鹉、莱奥和米娅在哪里？丛林冒险、财富大道、连锁秘术、酷飙计程车2、重生之花：灵魂编年史、野性之路、随身摄像机：无人机版、魔卡魅恋！、魔法世界、鲨鱼超市、黄金巨石",
+      "description_en": "Releases this day: Game console:900222117, Security 51, Game console:900222168, ALICE＝ALICE ＆ BAD MEDICINE 2in1 PACK for Nintendo Switch, Astralis : Dawnblades, Bogos Binted, Calculus of Rot, Calculus of Rot, Find the Needle, Full Metal Sergeant 2, Full Metal Sergeant 2, Gravity Switch, Gravity SWlTCH, Gravity Switch, GT Racing Pro, Hazard Pay, JAPAN BUS SIMULATOR, KuloNiku: Bowl Up!, Marupoyo, Marupoyo: The Round Chick's Adventure, MIX DUNK -KING OF BASKETBALL-, Niconico-san, No Umbrellas Allowed, ONE-ROOM ZOMBIE, Pup Champs, Relaywardens, Reshine, Reshine, Rifle MarksMan, Santa's Shop Tidy Up, Security 51, Smartopus: IQ Quest, Star Battle: Space Warship Commander, Station to Station, TANK Z, The Spectrum Retreat: Redux, Tiny Pizza, Tri6: Infinite 2, Game console:900222156, Piece by Piece, Game console:900222110, Bunny Minesweeper, Full Metal Sergeant 2, Final Kick Football Legends, SAI-KYO-OH! Clash Battle Kings, Hadean Tactics, PiyottoPlanet, Egypt Farm, Grave Mistakes, Game console:900222142, Game console:900220143, Game console:900222106, Game console:900221161, Game console:900222111, I Fell for the Florist: A Suspense Romance Adventure, Chronocracy, Game console:900222124, Ball Scooping Friends, The Retrospection Of Tomorrow, Moon Cleaner, Game console:900222007, Game console:900222021, Killer Toys 2, No Body No Problem!, Thrifty Business, Game console:900221859, MANIC MINER, Yandere Temptation: Crazy Anime Boys Obsession, Yandere Temptation: Crazy Anime Girls Obsession, Picronix 3, Zumba - Christmas Marble Saga, Game console:900222125, Station to Station, Brain Training Jigsaw Puzzle World Scenery, Mawkey The Last Macaw, Where are Leo and Mia? Jungle Adventure, Fortune Avenue, Cascade, Taxi Chaos 2, Rebirth Blossom - The Spirit Chronicles, Feral Road, BODYCAMERA: Drone Edition, MagicalCharming!, Game console:900218587, Shark Mart, Big Golden Rock.",
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
       "last_verified": "2026-11-24",
       "verified_by": "auto",
       "details": {
-        "游戏数量": "83",
-        "发售游戏": "1处找不同～每天都能玩的脑力训练游戏～、51区安检站、51区安检站、ALICE＝ALICE ＆ BAD MEDICINE 危险老师的特别授课 2in1 PACK for Nintendo Switch、Astralis: Dawnblades、BOGOS BINTED、Calculus of Rot、Calculus of Rot、Find the Needle、FMS2、Full Metal Sergeant 2、Gravity Switch、Gravity Switch、Gravity Switch、GT Racing Pro、Hazard Pay、JAPAN BUS SIMULATOR、KuloNiku: Bowl Up!、Marupoyo、Marupoyo：圆滚滚小鸡的冒险、MIX DUNK -篮球之王-、Niconico先生、No Umbrellas Allowed、ONE-ROOM ZOMBIE、Pup Champs: 汪汪冠军杯、Relaywardens、Reshine、Santa's Shop Tidy Up、Security 51、Smartopus: IQ Quest、Star Battle: Space Warship Commander、Station to Station、TANK Z、The Spectrum Retreat: Redux、Tiny Pizza、Tri6：无限 2、三丽鸥全明星 魔法捉迷藏、丛林修补匠、从零开始的终结之村、兔子扫雷、全金属军士2、最后一脚：足球传奇、最强王图鉴　爆裂对战王、冥狱战术、啾啾星球、埃及农场、墓后营生、好吃到死！？解谜毒杀推理、小金井庄与金色的扬羽蝶、废墟调查：记忆的痕迹、快乐周末、性感美女与禁忌的假期～被魅惑的金发美女们包围的心跳找不同～、我爱上了花店的他  \n悬疑恋爱冒险游戏、拓荒世界、拼齐！制服男子拼图、捞球朋友、明日追忆 ~The Retrospection Of Tomorrow~、机械狂欢、机械狂欢、杀手玩具2、没有尸体，就没有问题！、淘淘旧货铺、玉响未来、疯狂矿工、病娇诱惑：为你疯狂的动漫男孩、病娇诱惑：疯狂动漫女孩的执念、皮克罗尼克斯3、祖玛：圣诞弹珠传奇、神明不会忘记你：诅咒与执着的BL冒险、站点连连、脑力训练：拼图 世界绝景、莫基：最后的金刚鹦鹉、莱奥和米娅在哪里？丛林冒险、财富大道、连锁秘术、酷飙计程车2、重生之花：灵魂编年史、野性之路、随身摄像机：无人机版、魔卡魅恋！、魔法世界、鲨鱼超市、黄金巨石",
+        "游戏数量": "86",
+        "发售游戏": "1处找不同～每天都能玩的脑力训练游戏～、51区安检站、51区安检站、ALICE＝ALICE ＆ BAD MEDICINE 危险老师的特别授课 2in1 PACK for Nintendo Switch、Astralis: Dawnblades、BOGOS BINTED、Calculus of Rot、Calculus of Rot、Find the Needle、FMS2、Full Metal Sergeant 2、Gravity Switch、Gravity Switch、Gravity Switch、GT Racing Pro、Hazard Pay、JAPAN BUS SIMULATOR、KuloNiku: Bowl Up!、Marupoyo、Marupoyo：圆滚滚小鸡的冒险、MIX DUNK -篮球之王-、Niconico先生、No Umbrellas Allowed、ONE-ROOM ZOMBIE、Pup Champs: 汪汪冠军杯、Relaywardens、Reshine、Reshine、Rifle MarksMan、Santa's Shop Tidy Up、Security 51、Smartopus: IQ Quest、Star Battle: Space Warship Commander、Station to Station、TANK Z、The Spectrum Retreat: Redux、Tiny Pizza、Tri6：无限 2、三丽鸥全明星 魔法捉迷藏、丛林修补匠、从零开始的终结之村、兔子扫雷、全金属军士2、最后一脚：足球传奇、最强王图鉴　爆裂对战王、冥狱战术、啾啾星球、埃及农场、墓后营生、好吃到死！？解谜毒杀推理、小金井庄与金色的扬羽蝶、废墟调查：记忆的痕迹、快乐周末、性感美女与禁忌的假期～被魅惑的金发美女们包围的心跳找不同～、我爱上了花店的他  \n悬疑恋爱冒险游戏、拓荒世界、拼齐！制服男子拼图、捞球朋友、明日追忆 ~The Retrospection Of Tomorrow~、月球清洁工、机械狂欢、机械狂欢、杀手玩具2、没有尸体，就没有问题！、淘淘旧货铺、玉响未来、疯狂矿工、病娇诱惑：为你疯狂的动漫男孩、病娇诱惑：疯狂动漫女孩的执念、皮克罗尼克斯3、祖玛：圣诞弹珠传奇、神明不会忘记你：诅咒与执着的BL冒险、站点连连、脑力训练：拼图 世界绝景、莫基：最后的金刚鹦鹉、莱奥和米娅在哪里？丛林冒险、财富大道、连锁秘术、酷飙计程车2、重生之花：灵魂编年史、野性之路、随身摄像机：无人机版、魔卡魅恋！、魔法世界、鲨鱼超市、黄金巨石",
         "平台": "PC / PlayStation / Switch / Xbox",
         "数据来源": "小黑盒",
         "来源链接": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795622400&filter_hot=all&filter_platform=switch\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795622400&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795622400&filter_hot=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795622400&filter_hot=hot&filter_platform=pc"
       },
       "details_en": {
-        "Game count": "83",
-        "Games": "Game console:900222117, Security 51, Game console:900222168, ALICE＝ALICE ＆ BAD MEDICINE 2in1 PACK for Nintendo Switch, Astralis : Dawnblades, Bogos Binted, Calculus of Rot, Calculus of Rot, Find the Needle, Full Metal Sergeant 2, Full Metal Sergeant 2, Gravity Switch, Gravity SWlTCH, Gravity Switch, GT Racing Pro, Hazard Pay, JAPAN BUS SIMULATOR, KuloNiku: Bowl Up!, Marupoyo, Marupoyo: The Round Chick's Adventure, MIX DUNK -KING OF BASKETBALL-, Niconico-san, No Umbrellas Allowed, ONE-ROOM ZOMBIE, Pup Champs, Relaywardens, Reshine, Santa's Shop Tidy Up, Security 51, Smartopus: IQ Quest, Star Battle: Space Warship Commander, Station to Station, TANK Z, The Spectrum Retreat: Redux, Tiny Pizza, Tri6: Infinite 2, Game console:900222156, Piece by Piece, Game console:900222110, Bunny Minesweeper, Full Metal Sergeant 2, Final Kick Football Legends, SAI-KYO-OH! Clash Battle Kings, Hadean Tactics, PiyottoPlanet, Egypt Farm, Grave Mistakes, Game console:900222142, Game console:900220143, Game console:900222106, Game console:900221161, Game console:900222111, I Fell for the Florist: A Suspense Romance Adventure, Chronocracy, Game console:900222124, Ball Scooping Friends, The Retrospection Of Tomorrow, Game console:900222007, Game console:900222021, Killer Toys 2, No Body No Problem!, Thrifty Business, Game console:900221859, MANIC MINER, Yandere Temptation: Crazy Anime Boys Obsession, Yandere Temptation: Crazy Anime Girls Obsession, Picronix 3, Zumba - Christmas Marble Saga, Game console:900222125, Station to Station, Brain Training Jigsaw Puzzle World Scenery, Mawkey The Last Macaw, Where are Leo and Mia? Jungle Adventure, Fortune Avenue, Cascade, Taxi Chaos 2, Rebirth Blossom - The Spirit Chronicles, Feral Road, BODYCAMERA: Drone Edition, MagicalCharming!, Game console:900218587, Shark Mart, Big Golden Rock",
+        "Game count": "86",
+        "Games": "Game console:900222117, Security 51, Game console:900222168, ALICE＝ALICE ＆ BAD MEDICINE 2in1 PACK for Nintendo Switch, Astralis : Dawnblades, Bogos Binted, Calculus of Rot, Calculus of Rot, Find the Needle, Full Metal Sergeant 2, Full Metal Sergeant 2, Gravity Switch, Gravity SWlTCH, Gravity Switch, GT Racing Pro, Hazard Pay, JAPAN BUS SIMULATOR, KuloNiku: Bowl Up!, Marupoyo, Marupoyo: The Round Chick's Adventure, MIX DUNK -KING OF BASKETBALL-, Niconico-san, No Umbrellas Allowed, ONE-ROOM ZOMBIE, Pup Champs, Relaywardens, Reshine, Reshine, Rifle MarksMan, Santa's Shop Tidy Up, Security 51, Smartopus: IQ Quest, Star Battle: Space Warship Commander, Station to Station, TANK Z, The Spectrum Retreat: Redux, Tiny Pizza, Tri6: Infinite 2, Game console:900222156, Piece by Piece, Game console:900222110, Bunny Minesweeper, Full Metal Sergeant 2, Final Kick Football Legends, SAI-KYO-OH! Clash Battle Kings, Hadean Tactics, PiyottoPlanet, Egypt Farm, Grave Mistakes, Game console:900222142, Game console:900220143, Game console:900222106, Game console:900221161, Game console:900222111, I Fell for the Florist: A Suspense Romance Adventure, Chronocracy, Game console:900222124, Ball Scooping Friends, The Retrospection Of Tomorrow, Moon Cleaner, Game console:900222007, Game console:900222021, Killer Toys 2, No Body No Problem!, Thrifty Business, Game console:900221859, MANIC MINER, Yandere Temptation: Crazy Anime Boys Obsession, Yandere Temptation: Crazy Anime Girls Obsession, Picronix 3, Zumba - Christmas Marble Saga, Game console:900222125, Station to Station, Brain Training Jigsaw Puzzle World Scenery, Mawkey The Last Macaw, Where are Leo and Mia? Jungle Adventure, Fortune Avenue, Cascade, Taxi Chaos 2, Rebirth Blossom - The Spirit Chronicles, Feral Road, BODYCAMERA: Drone Edition, MagicalCharming!, Game console:900218587, Shark Mart, Big Golden Rock",
         "Platforms": "PC / PlayStation / Switch / Xbox",
         "Data source": "Heybox",
         "Source links": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795622400&filter_hot=all&filter_platform=switch\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795622400&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795622400&filter_hot=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795622400&filter_hot=hot&filter_platform=pc"
@@ -4266,6 +4266,18 @@
         {
           "title": "Reshine",
           "platforms": [
+            "Xbox"
+          ],
+          "provider": "heybox",
+          "provider_id": "console:900222010",
+          "title_en": "Reshine",
+          "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900222010&game_type=console",
+          "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795622400&filter_hot=all&filter_platform=xbox",
+          "release_kind": "unknown"
+        },
+        {
+          "title": "Reshine",
+          "platforms": [
             "Switch"
           ],
           "provider": "heybox",
@@ -4273,6 +4285,18 @@
           "title_en": "Reshine",
           "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900222134&game_type=console",
           "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795622400&filter_hot=all&filter_platform=switch",
+          "release_kind": "unknown"
+        },
+        {
+          "title": "Rifle MarksMan",
+          "platforms": [
+            "Xbox"
+          ],
+          "provider": "heybox",
+          "provider_id": "console:900222289",
+          "title_en": "Rifle MarksMan",
+          "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900222289&game_type=console",
+          "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795622400&filter_hot=all&filter_platform=xbox",
           "release_kind": "unknown"
         },
         {
@@ -4654,6 +4678,19 @@
           "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795622400&filter_hot=hot&filter_platform=pc",
           "release_kind": "full-release",
           "steam_checked_at": "2026-11-18"
+        },
+        {
+          "title": "月球清洁工",
+          "platforms": [
+            "Switch"
+          ],
+          "provider": "heybox",
+          "provider_id": "console:900222287",
+          "title_en": "Moon Cleaner",
+          "title_zh": "月球清洁工",
+          "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900222287&game_type=console",
+          "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1795622400&filter_hot=all&filter_platform=switch",
+          "release_kind": "unknown"
         },
         {
           "title": "机械狂欢",
@@ -5859,25 +5896,25 @@
       "year": 2026,
       "timezone": "Asia/Shanghai",
       "time_kind": "date",
-      "name": "28天列车失事幸存者 等 59 款发售",
-      "name_en": "28 Days Train Wreck Survivor + 58 more releases",
-      "description": "当天发售：28天列车失事幸存者、Aery - 四季、Aeterna Lucis、Astro Chef: Cosmic Kitchen、Backrooms Splatter、Bleeding Nightmare、CitaDrill、CitaDrill、Cross + Cross、Edge of Memories、Edge of Memories、Edge of Memories、FTW VE、HUNGER（抢先体验）、LarsGadiel、Little Lagoon、MANIC MINER、Million Depth、Mombo Combo Legacy、Pack it! Part-Time Master、Quadrillion Carrots、Santa's Christmas Story 3 North Pole Rescue、SOMBRAS: negative frames、The Dark Queen of Mortholme、Thief: The Dark Project Remastered、Winx Club - Moonlight Quest、上行战场 终极版、单词蜂、埃里克斯霍姆：被偷走的梦、大反派千金 莉莉的计略、太空机械模拟器、奥林帕斯众神：捕捉＆约会神话恋人、奥林帕斯女神：捕获＆约会神话恋人、姬君优雅推理、帕奇斯洛 优尼瓦王国2A计划、房间对战、摩斯霍姆的暗黑女王、放置事务所、无光绝境（抢先体验）、星之侵略者 StarVaders、杀人小丑少女：最后的演出、杀人小丑少年：他的最终演出、深岩之下、电兔拉比！、电兔拉比！、电兔拉比！、磕磕绊绊圆舞曲、磕磕绊绊圆舞曲、神偷：暗黑计划 重制版、神偷：暗黑计划 重制版 - 数字豪华版升级包、祭祀地宫、祭祀地宫、胡来！文字麻将、自由足球2、血涌不息、血涌不息、重生了还要我谈恋爱？、雷曼：传奇再叙、雷曼：起源 增强版",
-      "description_en": "Releases this day: 28 Days Train Wreck Survivor, Aery - Four Seasons, Aeterna Lucis, Astro Chef: Cosmic Kitchen, Backrooms Splatter, Bleeding Nightmare, CitaDrill, CitaDrill, Cross + Cross, Edge of Memories, Edge of Memories, Edge of Memories, For The Warp: Void Echoes, HUNGER (Early Access), LarsGadiel, Little Lagoon, MANIC MINER, Million Depth, Mombo Combo Legacy, Pack it! Part-Time Master, Quadrillion Carrots, Santa Christmas Story 3 North Pole Rescue, SOMBRAS: negative frames, The Dark Queen of Mortholme, Thief: The Dark Project Remastered, Winx Club - Moonlight Quest, THE ASCENT ULTIMATE EDITION, Word Bee, Eriksholm: The Stolen Dream, The Great Villainess: Strategy of Lily, Space Mechanic Simulator, Gods of Olympus: Capture & Date Mythical Lovers, Goddesses of Olympus: Capture & Date Mythical Lovers, Himegimi Detective, Game console:900222135, Roombattle, The Dark Queen of Mortholme, Idle Agency, Blind Descent (Early Access), StarVaders, Killer Clown Girl: Her Final Show, Killer Clown Boy: His Final Show, Hypogea, Fall Up, Game console:900218994, Fall Up, Waltz and Jam, Waltz and Jam, Thief: The Dark Project Remastered, Thief: The Dark Project Remastered - Digital Deluxe Upgrade, THYSIASTERY, Game console:900222153, Game pc:5135870, Game console:900213567, BloodRush: Undying Wish, Game console:900221603, Reborn, and You Still Want Me to Date?, Rayman Legends Retold, Rayman Origins: Enhanced Edition.",
+      "name": "28天列车失事幸存者 等 60 款发售",
+      "name_en": "28 Days Train Wreck Survivor + 59 more releases",
+      "description": "当天发售：28天列车失事幸存者、Aery - 四季、Aeterna Lucis、Astro Chef: Cosmic Kitchen、Backrooms Splatter、Bleeding Nightmare、CitaDrill、CitaDrill、Cross + Cross、Edge of Memories、Edge of Memories、Edge of Memories、FTW VE、HUNGER（抢先体验）、LarsGadiel、Little Lagoon、MANIC MINER、Million Depth、Mombo Combo Legacy、Pack it! Part-Time Master、Quadrillion Carrots、Santa's Christmas Story 3 North Pole Rescue、SOMBRAS: negative frames、The Dark Queen of Mortholme、Thief: The Dark Project Remastered、Wild West Miner Simulator、Winx Club - Moonlight Quest、上行战场 终极版、单词蜂、埃里克斯霍姆：被偷走的梦、大反派千金 莉莉的计略、太空机械模拟器、奥林帕斯众神：捕捉＆约会神话恋人、奥林帕斯女神：捕获＆约会神话恋人、姬君优雅推理、帕奇斯洛 优尼瓦王国2A计划、房间对战、摩斯霍姆的暗黑女王、放置事务所、无光绝境（抢先体验）、星之侵略者 StarVaders、杀人小丑少女：最后的演出、杀人小丑少年：他的最终演出、深岩之下、电兔拉比！、电兔拉比！、电兔拉比！、磕磕绊绊圆舞曲、磕磕绊绊圆舞曲、神偷：暗黑计划 重制版、神偷：暗黑计划 重制版 - 数字豪华版升级包、祭祀地宫、祭祀地宫、胡来！文字麻将、自由足球2、血涌不息、血涌不息、重生了还要我谈恋爱？、雷曼：传奇再叙、雷曼：起源 增强版",
+      "description_en": "Releases this day: 28 Days Train Wreck Survivor, Aery - Four Seasons, Aeterna Lucis, Astro Chef: Cosmic Kitchen, Backrooms Splatter, Bleeding Nightmare, CitaDrill, CitaDrill, Cross + Cross, Edge of Memories, Edge of Memories, Edge of Memories, For The Warp: Void Echoes, HUNGER (Early Access), LarsGadiel, Little Lagoon, MANIC MINER, Million Depth, Mombo Combo Legacy, Pack it! Part-Time Master, Quadrillion Carrots, Santa Christmas Story 3 North Pole Rescue, SOMBRAS: negative frames, The Dark Queen of Mortholme, Thief: The Dark Project Remastered, Wild West Miner Simulator, Winx Club - Moonlight Quest, THE ASCENT ULTIMATE EDITION, Word Bee, Eriksholm: The Stolen Dream, The Great Villainess: Strategy of Lily, Space Mechanic Simulator, Gods of Olympus: Capture & Date Mythical Lovers, Goddesses of Olympus: Capture & Date Mythical Lovers, Himegimi Detective, Game console:900222135, Roombattle, The Dark Queen of Mortholme, Idle Agency, Blind Descent (Early Access), StarVaders, Killer Clown Girl: Her Final Show, Killer Clown Boy: His Final Show, Hypogea, Fall Up, Game console:900218994, Fall Up, Waltz and Jam, Waltz and Jam, Thief: The Dark Project Remastered, Thief: The Dark Project Remastered - Digital Deluxe Upgrade, THYSIASTERY, Game console:900222153, Game pc:5135870, Game console:900213567, BloodRush: Undying Wish, Game console:900221603, Reborn, and You Still Want Me to Date?, Rayman Legends Retold, Rayman Origins: Enhanced Edition.",
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
       "last_verified": "2026-11-24",
       "verified_by": "auto",
       "details": {
-        "游戏数量": "59",
-        "发售游戏": "28天列车失事幸存者、Aery - 四季、Aeterna Lucis、Astro Chef: Cosmic Kitchen、Backrooms Splatter、Bleeding Nightmare、CitaDrill、CitaDrill、Cross + Cross、Edge of Memories、Edge of Memories、Edge of Memories、FTW VE、HUNGER（抢先体验）、LarsGadiel、Little Lagoon、MANIC MINER、Million Depth、Mombo Combo Legacy、Pack it! Part-Time Master、Quadrillion Carrots、Santa's Christmas Story 3 North Pole Rescue、SOMBRAS: negative frames、The Dark Queen of Mortholme、Thief: The Dark Project Remastered、Winx Club - Moonlight Quest、上行战场 终极版、单词蜂、埃里克斯霍姆：被偷走的梦、大反派千金 莉莉的计略、太空机械模拟器、奥林帕斯众神：捕捉＆约会神话恋人、奥林帕斯女神：捕获＆约会神话恋人、姬君优雅推理、帕奇斯洛 优尼瓦王国2A计划、房间对战、摩斯霍姆的暗黑女王、放置事务所、无光绝境（抢先体验）、星之侵略者 StarVaders、杀人小丑少女：最后的演出、杀人小丑少年：他的最终演出、深岩之下、电兔拉比！、电兔拉比！、电兔拉比！、磕磕绊绊圆舞曲、磕磕绊绊圆舞曲、神偷：暗黑计划 重制版、神偷：暗黑计划 重制版 - 数字豪华版升级包、祭祀地宫、祭祀地宫、胡来！文字麻将、自由足球2、血涌不息、血涌不息、重生了还要我谈恋爱？、雷曼：传奇再叙、雷曼：起源 增强版",
+        "游戏数量": "60",
+        "发售游戏": "28天列车失事幸存者、Aery - 四季、Aeterna Lucis、Astro Chef: Cosmic Kitchen、Backrooms Splatter、Bleeding Nightmare、CitaDrill、CitaDrill、Cross + Cross、Edge of Memories、Edge of Memories、Edge of Memories、FTW VE、HUNGER（抢先体验）、LarsGadiel、Little Lagoon、MANIC MINER、Million Depth、Mombo Combo Legacy、Pack it! Part-Time Master、Quadrillion Carrots、Santa's Christmas Story 3 North Pole Rescue、SOMBRAS: negative frames、The Dark Queen of Mortholme、Thief: The Dark Project Remastered、Wild West Miner Simulator、Winx Club - Moonlight Quest、上行战场 终极版、单词蜂、埃里克斯霍姆：被偷走的梦、大反派千金 莉莉的计略、太空机械模拟器、奥林帕斯众神：捕捉＆约会神话恋人、奥林帕斯女神：捕获＆约会神话恋人、姬君优雅推理、帕奇斯洛 优尼瓦王国2A计划、房间对战、摩斯霍姆的暗黑女王、放置事务所、无光绝境（抢先体验）、星之侵略者 StarVaders、杀人小丑少女：最后的演出、杀人小丑少年：他的最终演出、深岩之下、电兔拉比！、电兔拉比！、电兔拉比！、磕磕绊绊圆舞曲、磕磕绊绊圆舞曲、神偷：暗黑计划 重制版、神偷：暗黑计划 重制版 - 数字豪华版升级包、祭祀地宫、祭祀地宫、胡来！文字麻将、自由足球2、血涌不息、血涌不息、重生了还要我谈恋爱？、雷曼：传奇再叙、雷曼：起源 增强版",
         "平台": "PC / PlayStation / Switch / Xbox",
         "数据来源": "小黑盒",
         "来源链接": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796227200&filter_hot=all&filter_platform=switch\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796227200&filter_hot=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796227200&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796227200&filter_hot=hot&filter_platform=pc"
       },
       "details_en": {
-        "Game count": "59",
-        "Games": "28 Days Train Wreck Survivor, Aery - Four Seasons, Aeterna Lucis, Astro Chef: Cosmic Kitchen, Backrooms Splatter, Bleeding Nightmare, CitaDrill, CitaDrill, Cross + Cross, Edge of Memories, Edge of Memories, Edge of Memories, For The Warp: Void Echoes, HUNGER (Early Access), LarsGadiel, Little Lagoon, MANIC MINER, Million Depth, Mombo Combo Legacy, Pack it! Part-Time Master, Quadrillion Carrots, Santa Christmas Story 3 North Pole Rescue, SOMBRAS: negative frames, The Dark Queen of Mortholme, Thief: The Dark Project Remastered, Winx Club - Moonlight Quest, THE ASCENT ULTIMATE EDITION, Word Bee, Eriksholm: The Stolen Dream, The Great Villainess: Strategy of Lily, Space Mechanic Simulator, Gods of Olympus: Capture & Date Mythical Lovers, Goddesses of Olympus: Capture & Date Mythical Lovers, Himegimi Detective, Game console:900222135, Roombattle, The Dark Queen of Mortholme, Idle Agency, Blind Descent (Early Access), StarVaders, Killer Clown Girl: Her Final Show, Killer Clown Boy: His Final Show, Hypogea, Fall Up, Game console:900218994, Fall Up, Waltz and Jam, Waltz and Jam, Thief: The Dark Project Remastered, Thief: The Dark Project Remastered - Digital Deluxe Upgrade, THYSIASTERY, Game console:900222153, Game pc:5135870, Game console:900213567, BloodRush: Undying Wish, Game console:900221603, Reborn, and You Still Want Me to Date?, Rayman Legends Retold, Rayman Origins: Enhanced Edition",
+        "Game count": "60",
+        "Games": "28 Days Train Wreck Survivor, Aery - Four Seasons, Aeterna Lucis, Astro Chef: Cosmic Kitchen, Backrooms Splatter, Bleeding Nightmare, CitaDrill, CitaDrill, Cross + Cross, Edge of Memories, Edge of Memories, Edge of Memories, For The Warp: Void Echoes, HUNGER (Early Access), LarsGadiel, Little Lagoon, MANIC MINER, Million Depth, Mombo Combo Legacy, Pack it! Part-Time Master, Quadrillion Carrots, Santa Christmas Story 3 North Pole Rescue, SOMBRAS: negative frames, The Dark Queen of Mortholme, Thief: The Dark Project Remastered, Wild West Miner Simulator, Winx Club - Moonlight Quest, THE ASCENT ULTIMATE EDITION, Word Bee, Eriksholm: The Stolen Dream, The Great Villainess: Strategy of Lily, Space Mechanic Simulator, Gods of Olympus: Capture & Date Mythical Lovers, Goddesses of Olympus: Capture & Date Mythical Lovers, Himegimi Detective, Game console:900222135, Roombattle, The Dark Queen of Mortholme, Idle Agency, Blind Descent (Early Access), StarVaders, Killer Clown Girl: Her Final Show, Killer Clown Boy: His Final Show, Hypogea, Fall Up, Game console:900218994, Fall Up, Waltz and Jam, Waltz and Jam, Thief: The Dark Project Remastered, Thief: The Dark Project Remastered - Digital Deluxe Upgrade, THYSIASTERY, Game console:900222153, Game pc:5135870, Game console:900213567, BloodRush: Undying Wish, Game console:900221603, Reborn, and You Still Want Me to Date?, Rayman Legends Retold, Rayman Origins: Enhanced Edition",
         "Platforms": "PC / PlayStation / Switch / Xbox",
         "Data source": "Heybox",
         "Source links": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796227200&filter_hot=all&filter_platform=switch\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796227200&filter_hot=all&filter_platform=ps4\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796227200&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796227200&filter_hot=hot&filter_platform=pc"
@@ -6186,6 +6223,18 @@
           "provider_id": "console:900221425",
           "title_en": "Thief: The Dark Project Remastered",
           "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900221425&game_type=console",
+          "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796227200&filter_hot=all&filter_platform=ps4",
+          "release_kind": "unknown"
+        },
+        {
+          "title": "Wild West Miner Simulator",
+          "platforms": [
+            "PlayStation"
+          ],
+          "provider": "heybox",
+          "provider_id": "console:900222292",
+          "title_en": "Wild West Miner Simulator",
+          "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900222292&game_type=console",
           "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796227200&filter_hot=all&filter_platform=ps4",
           "release_kind": "unknown"
         },
@@ -6644,25 +6693,25 @@
       "year": 2026,
       "timezone": "Asia/Shanghai",
       "time_kind": "date",
-      "name": "Aery - Four Seasons 等 25 款发售",
-      "name_en": "Aery - Four Seasons + 24 more releases",
-      "description": "当天发售：Aery - Four Seasons、Aeterna Lucis、Aeterna Lucis、Aeterna Lucis、LarsGadiel、SOMBRAS: negative frames、Survival Machine、Survival Machine、Thief、Yolk & Yonder、Yolk & Yonder、Yolk & Yonder、Zero Hour、九州之士、勇者斗恶龙怪物仙境4 枯木国的碧安卡与芙萝拉、卡牌修真: 九宫幻境录、大锻造师、战锤40K：战争黎明 IV、掘地求财：铲友齐上阵、掘地求财：铲友齐上阵、极速合辑：超跑与赛道、查无此人、桂冠之人 Laureate、此心安处、浣熊模拟器",
-      "description_en": "Releases this day: Aery - Four Seasons, Aeterna Lucis, Aeterna Lucis, Aeterna Lucis, LarsGadiel, SOMBRAS: negative frames, Survival Machine, Survival Machine, Thief: The Dark Project Remastered, Yolk & Yonder, Yolk & Yonder (Xbox Series), Yolk & Yonder (Windows), Zero Hour, Game pc:3001460, DRAGON QUEST MONSTERS: The Withered World, Cultivation Realm: Card Survival, Game console:900221754, Warhammer 40,000: Dawn of War IV, Game console:900219906, Game console:900221893, Speedy Bundle Hypercar & Speedway, No Such Person, Game pc:4040480, Where the Heart Rests, Dumpster Gang.",
+      "name": "Aery - Four Seasons 等 26 款发售",
+      "name_en": "Aery - Four Seasons + 25 more releases",
+      "description": "当天发售：Aery - Four Seasons、Aeterna Lucis、Aeterna Lucis、Aeterna Lucis、Batya in the Building: 10 Years Later、LarsGadiel、SOMBRAS: negative frames、Survival Machine、Survival Machine、Thief、Yolk & Yonder、Yolk & Yonder、Yolk & Yonder、Zero Hour、九州之士、勇者斗恶龙怪物仙境4 枯木国的碧安卡与芙萝拉、卡牌修真: 九宫幻境录、大锻造师、战锤40K：战争黎明 IV、掘地求财：铲友齐上阵、掘地求财：铲友齐上阵、极速合辑：超跑与赛道、查无此人、桂冠之人 Laureate、此心安处、浣熊模拟器",
+      "description_en": "Releases this day: Aery - Four Seasons, Aeterna Lucis, Aeterna Lucis, Aeterna Lucis, Batya in the Building: 10 Years Later, LarsGadiel, SOMBRAS: negative frames, Survival Machine, Survival Machine, Thief: The Dark Project Remastered, Yolk & Yonder, Yolk & Yonder (Xbox Series), Yolk & Yonder (Windows), Zero Hour, Game pc:3001460, DRAGON QUEST MONSTERS: The Withered World, Cultivation Realm: Card Survival, Game console:900221754, Warhammer 40,000: Dawn of War IV, Game console:900219906, Game console:900221893, Speedy Bundle Hypercar & Speedway, No Such Person, Game pc:4040480, Where the Heart Rests, Dumpster Gang.",
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
       "last_verified": "2026-11-24",
       "verified_by": "auto",
       "details": {
-        "游戏数量": "25",
-        "发售游戏": "Aery - Four Seasons、Aeterna Lucis、Aeterna Lucis、Aeterna Lucis、LarsGadiel、SOMBRAS: negative frames、Survival Machine、Survival Machine、Thief、Yolk & Yonder、Yolk & Yonder、Yolk & Yonder、Zero Hour、九州之士、勇者斗恶龙怪物仙境4 枯木国的碧安卡与芙萝拉、卡牌修真: 九宫幻境录、大锻造师、战锤40K：战争黎明 IV、掘地求财：铲友齐上阵、掘地求财：铲友齐上阵、极速合辑：超跑与赛道、查无此人、桂冠之人 Laureate、此心安处、浣熊模拟器",
+        "游戏数量": "26",
+        "发售游戏": "Aery - Four Seasons、Aeterna Lucis、Aeterna Lucis、Aeterna Lucis、Batya in the Building: 10 Years Later、LarsGadiel、SOMBRAS: negative frames、Survival Machine、Survival Machine、Thief、Yolk & Yonder、Yolk & Yonder、Yolk & Yonder、Zero Hour、九州之士、勇者斗恶龙怪物仙境4 枯木国的碧安卡与芙萝拉、卡牌修真: 九宫幻境录、大锻造师、战锤40K：战争黎明 IV、掘地求财：铲友齐上阵、掘地求财：铲友齐上阵、极速合辑：超跑与赛道、查无此人、桂冠之人 Laureate、此心安处、浣熊模拟器",
         "平台": "PC / PlayStation / Switch / Xbox",
         "数据来源": "小黑盒",
         "来源链接": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796313600&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796313600&filter_hot=all&filter_platform=switch\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796313600&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796313600&filter_hot=all&filter_platform=ps4"
       },
       "details_en": {
-        "Game count": "25",
-        "Games": "Aery - Four Seasons, Aeterna Lucis, Aeterna Lucis, Aeterna Lucis, LarsGadiel, SOMBRAS: negative frames, Survival Machine, Survival Machine, Thief: The Dark Project Remastered, Yolk & Yonder, Yolk & Yonder (Xbox Series), Yolk & Yonder (Windows), Zero Hour, Game pc:3001460, DRAGON QUEST MONSTERS: The Withered World, Cultivation Realm: Card Survival, Game console:900221754, Warhammer 40,000: Dawn of War IV, Game console:900219906, Game console:900221893, Speedy Bundle Hypercar & Speedway, No Such Person, Game pc:4040480, Where the Heart Rests, Dumpster Gang",
+        "Game count": "26",
+        "Games": "Aery - Four Seasons, Aeterna Lucis, Aeterna Lucis, Aeterna Lucis, Batya in the Building: 10 Years Later, LarsGadiel, SOMBRAS: negative frames, Survival Machine, Survival Machine, Thief: The Dark Project Remastered, Yolk & Yonder, Yolk & Yonder (Xbox Series), Yolk & Yonder (Windows), Zero Hour, Game pc:3001460, DRAGON QUEST MONSTERS: The Withered World, Cultivation Realm: Card Survival, Game console:900221754, Warhammer 40,000: Dawn of War IV, Game console:900219906, Game console:900221893, Speedy Bundle Hypercar & Speedway, No Such Person, Game pc:4040480, Where the Heart Rests, Dumpster Gang",
         "Platforms": "PC / PlayStation / Switch / Xbox",
         "Data source": "Heybox",
         "Source links": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796313600&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796313600&filter_hot=all&filter_platform=switch\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796313600&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796313600&filter_hot=all&filter_platform=ps4"
@@ -6717,6 +6766,18 @@
           "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796313600&filter_hot=hot&filter_platform=pc",
           "release_kind": "full-release",
           "steam_checked_at": "2026-11-18"
+        },
+        {
+          "title": "Batya in the Building: 10 Years Later",
+          "platforms": [
+            "PlayStation"
+          ],
+          "provider": "heybox",
+          "provider_id": "console:900222294",
+          "title_en": "Batya in the Building: 10 Years Later",
+          "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900222294&game_type=console",
+          "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1796313600&filter_hot=all&filter_platform=ps4",
+          "release_kind": "unknown"
         },
         {
           "title": "LarsGadiel",
@@ -8580,25 +8641,25 @@
       "year": 2026,
       "timezone": "Asia/Shanghai",
       "time_kind": "date",
-      "name": "Seedbo与太阳爆炸的那一天 等 3 款发售",
-      "name_en": "Seedbo And That Time The Sun Exploded + 2 more releases",
-      "description": "当天发售：Seedbo与太阳爆炸的那一天、Village Merchant、矢量远征",
-      "description_en": "Releases this day: Seedbo And That Time The Sun Exploded, Village Merchant, Vector Trek.",
+      "name": "Seedbo与太阳爆炸的那一天 等 4 款发售",
+      "name_en": "Seedbo And That Time The Sun Exploded + 3 more releases",
+      "description": "当天发售：Seedbo与太阳爆炸的那一天、Village Merchant、微型银河城、矢量远征",
+      "description_en": "Releases this day: Seedbo And That Time The Sun Exploded, Village Merchant, Microvania, Vector Trek.",
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
       "last_verified": "2026-11-24",
       "verified_by": "auto",
       "details": {
-        "游戏数量": "3",
-        "发售游戏": "Seedbo与太阳爆炸的那一天、Village Merchant、矢量远征",
+        "游戏数量": "4",
+        "发售游戏": "Seedbo与太阳爆炸的那一天、Village Merchant、微型银河城、矢量远征",
         "平台": "Switch / Xbox",
         "数据来源": "小黑盒",
         "来源链接": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1797523200&filter_hot=all&filter_platform=switch\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1797523200&filter_hot=all&filter_platform=xbox"
       },
       "details_en": {
-        "Game count": "3",
-        "Games": "Seedbo And That Time The Sun Exploded, Village Merchant, Vector Trek",
+        "Game count": "4",
+        "Games": "Seedbo And That Time The Sun Exploded, Village Merchant, Microvania, Vector Trek",
         "Platforms": "Switch / Xbox",
         "Data source": "Heybox",
         "Source links": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1797523200&filter_hot=all&filter_platform=switch\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1797523200&filter_hot=all&filter_platform=xbox"
@@ -8627,6 +8688,19 @@
           "title_en": "Village Merchant",
           "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900221683&game_type=console",
           "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1797523200&filter_hot=all&filter_platform=xbox",
+          "release_kind": "unknown"
+        },
+        {
+          "title": "微型银河城",
+          "platforms": [
+            "Switch"
+          ],
+          "provider": "heybox",
+          "provider_id": "console:900222299",
+          "title_en": "Microvania",
+          "title_zh": "微型银河城",
+          "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900222299&game_type=console",
+          "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1797523200&filter_hot=all&filter_platform=switch",
           "release_kind": "unknown"
         },
         {
@@ -9446,25 +9520,25 @@
       "year": 2027,
       "timezone": "Asia/Shanghai",
       "time_kind": "date",
-      "name": "NNF 等 13 款发售",
-      "name_en": "Nubby's Number Factory + 12 more releases",
-      "description": "当天发售：NNF、Outbreak Z、Sturmjäger、努比的数字工厂、华夏风云：三国、天地创造、打牌地牢、打牌地牢、拉莱耶的重生、超级枪弹辩驳２×２、超级枪弹辩驳２×２、超级枪弹辩驳２×２、风暴猎人",
-      "description_en": "Releases this day: Nubby's Number Factory, Outbreak Z, Sturmjäger, Nubby's Number Factory, Seres Universalis:Three Kingdoms, Game console:900222283, Deck of Robin Hood, Game console:900222202, Remnants of R'lyeh, Game console:900219250, Game console:900220900, Danganronpa 2x2, Sturmjäger.",
+      "name": "NNF 等 14 款发售",
+      "name_en": "Nubby's Number Factory + 13 more releases",
+      "description": "当天发售：NNF、Outbreak Z、Sturmjäger、Terranigma、努比的数字工厂、华夏风云：三国、君王之塔、打牌地牢、打牌地牢、拉莱耶的重生、超级枪弹辩驳２×２、超级枪弹辩驳２×２、超级枪弹辩驳２×２、风暴猎人",
+      "description_en": "Releases this day: Nubby's Number Factory, Outbreak Z, Sturmjäger, Terranigma, Nubby's Number Factory, Seres Universalis:Three Kingdoms, Sovereign Tower, Deck of Robin Hood, Game console:900222202, Remnants of R'lyeh, Game console:900219250, Game console:900220900, Danganronpa 2x2, Sturmjäger.",
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
       "last_verified": "2026-11-24",
       "verified_by": "auto",
       "details": {
-        "游戏数量": "13",
-        "发售游戏": "NNF、Outbreak Z、Sturmjäger、努比的数字工厂、华夏风云：三国、天地创造、打牌地牢、打牌地牢、拉莱耶的重生、超级枪弹辩驳２×２、超级枪弹辩驳２×２、超级枪弹辩驳２×２、风暴猎人",
+        "游戏数量": "14",
+        "发售游戏": "NNF、Outbreak Z、Sturmjäger、Terranigma、努比的数字工厂、华夏风云：三国、君王之塔、打牌地牢、打牌地牢、拉莱耶的重生、超级枪弹辩驳２×２、超级枪弹辩驳２×２、超级枪弹辩驳２×２、风暴猎人",
         "平台": "PC / Switch / Xbox",
         "数据来源": "小黑盒",
         "来源链接": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1799856000&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1799856000&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1799856000&filter_hot=all&filter_platform=switch"
       },
       "details_en": {
-        "Game count": "13",
-        "Games": "Nubby's Number Factory, Outbreak Z, Sturmjäger, Nubby's Number Factory, Seres Universalis:Three Kingdoms, Game console:900222283, Deck of Robin Hood, Game console:900222202, Remnants of R'lyeh, Game console:900219250, Game console:900220900, Danganronpa 2x2, Sturmjäger",
+        "Game count": "14",
+        "Games": "Nubby's Number Factory, Outbreak Z, Sturmjäger, Terranigma, Nubby's Number Factory, Seres Universalis:Three Kingdoms, Sovereign Tower, Deck of Robin Hood, Game console:900222202, Remnants of R'lyeh, Game console:900219250, Game console:900220900, Danganronpa 2x2, Sturmjäger",
         "Platforms": "PC / Switch / Xbox",
         "Data source": "Heybox",
         "Source links": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1799856000&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1799856000&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1799856000&filter_hot=all&filter_platform=switch"
@@ -9509,6 +9583,18 @@
           "release_kind": "unknown"
         },
         {
+          "title": "Terranigma",
+          "platforms": [
+            "Switch"
+          ],
+          "provider": "heybox",
+          "provider_id": "console:900222283",
+          "title_en": "Terranigma",
+          "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900222283&game_type=console",
+          "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1799856000&filter_hot=all&filter_platform=switch",
+          "release_kind": "unknown"
+        },
+        {
           "title": "努比的数字工厂",
           "platforms": [
             "Switch"
@@ -9537,14 +9623,15 @@
           "steam_checked_at": "2026-11-18"
         },
         {
-          "title": "天地创造",
+          "title": "君王之塔",
           "platforms": [
             "Switch"
           ],
           "provider": "heybox",
-          "provider_id": "console:900222283",
-          "title_zh": "天地创造",
-          "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900222283&game_type=console",
+          "provider_id": "console:900222288",
+          "title_en": "Sovereign Tower",
+          "title_zh": "君王之塔",
+          "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900222288&game_type=console",
           "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1799856000&filter_hot=all&filter_platform=switch",
           "release_kind": "unknown"
         },
@@ -9812,28 +9899,28 @@
       "year": 2027,
       "timezone": "Asia/Shanghai",
       "time_kind": "date",
-      "name": "Grr Grr Gnomes 等 3 款发售",
-      "name_en": "Grr Grr Gnomes + 2 more releases",
-      "description": "当天发售：Grr Grr Gnomes、Tiny Shop: make it cozy、沉默大陆",
-      "description_en": "Releases this day: Grr Grr Gnomes, Tiny Shop: make it cozy, Silent Mainland.",
+      "name": "Grr Grr Gnomes 等 4 款发售",
+      "name_en": "Grr Grr Gnomes + 3 more releases",
+      "description": "当天发售：Grr Grr Gnomes、Tiny Shop: make it cozy、沉默大陆、血色鹿影",
+      "description_en": "Releases this day: Grr Grr Gnomes, Tiny Shop: make it cozy, Silent Mainland, Game console:900218896.",
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
       "last_verified": "2026-11-24",
       "verified_by": "auto",
       "details": {
-        "游戏数量": "3",
-        "发售游戏": "Grr Grr Gnomes、Tiny Shop: make it cozy、沉默大陆",
-        "平台": "PC",
+        "游戏数量": "4",
+        "发售游戏": "Grr Grr Gnomes、Tiny Shop: make it cozy、沉默大陆、血色鹿影",
+        "平台": "PC / Xbox",
         "数据来源": "小黑盒",
-        "来源链接": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1800288000&filter_hot=hot&filter_platform=pc"
+        "来源链接": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1800288000&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1800288000&filter_hot=all&filter_platform=xbox"
       },
       "details_en": {
-        "Game count": "3",
-        "Games": "Grr Grr Gnomes, Tiny Shop: make it cozy, Silent Mainland",
-        "Platforms": "PC",
+        "Game count": "4",
+        "Games": "Grr Grr Gnomes, Tiny Shop: make it cozy, Silent Mainland, Game console:900218896",
+        "Platforms": "PC / Xbox",
         "Data source": "Heybox",
-        "Source links": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1800288000&filter_hot=hot&filter_platform=pc"
+        "Source links": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1800288000&filter_hot=hot&filter_platform=pc\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1800288000&filter_hot=all&filter_platform=xbox"
       },
       "games": [
         {
@@ -9878,6 +9965,18 @@
           "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1800288000&filter_hot=hot&filter_platform=pc",
           "release_kind": "full-release",
           "steam_checked_at": "2026-11-18"
+        },
+        {
+          "title": "血色鹿影",
+          "platforms": [
+            "Xbox"
+          ],
+          "provider": "heybox",
+          "provider_id": "console:900218896",
+          "title_zh": "血色鹿影",
+          "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900218896&game_type=console",
+          "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1800288000&filter_hot=all&filter_platform=xbox",
+          "release_kind": "unknown"
         }
       ]
     },
@@ -10817,25 +10916,25 @@
       "year": 2027,
       "timezone": "Asia/Shanghai",
       "time_kind": "date",
-      "name": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction 等 5 款发售",
-      "name_en": "He-Man and the Masters of the Universe™: Dragon Pearl of Destruction + 4 more releases",
-      "description": "当天发售：He-Man and the Masters of the Universe: Dragon Pearl of Destruction、METRO 2039、代号：兔、宇宙巨人希曼：毁灭之龙珠、胧村正怪奇谭",
-      "description_en": "Releases this day: He-Man and the Masters of the Universe™: Dragon Pearl of Destruction, METRO 2039, CODE Bunny, He-Man and the Masters of the Universe™: Dragon Pearl of Destruction, Muramasa: Revenant Blades.",
+      "name": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction 等 6 款发售",
+      "name_en": "He-Man and the Masters of the Universe™: Dragon Pearl of Destruction + 5 more releases",
+      "description": "当天发售：He-Man and the Masters of the Universe: Dragon Pearl of Destruction、METRO 2039、代号：兔、宇宙巨人希曼：毁灭之龙珠、浪漫沙加3：命运联合、胧村正怪奇谭",
+      "description_en": "Releases this day: He-Man and the Masters of the Universe™: Dragon Pearl of Destruction, METRO 2039, CODE Bunny, He-Man and the Masters of the Universe™: Dragon Pearl of Destruction, Romancing SaGa 3: Destinies United, Muramasa: Revenant Blades.",
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
       "last_verified": "2026-11-24",
       "verified_by": "auto",
       "details": {
-        "游戏数量": "5",
-        "发售游戏": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction、METRO 2039、代号：兔、宇宙巨人希曼：毁灭之龙珠、胧村正怪奇谭",
+        "游戏数量": "6",
+        "发售游戏": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction、METRO 2039、代号：兔、宇宙巨人希曼：毁灭之龙珠、浪漫沙加3：命运联合、胧村正怪奇谭",
         "平台": "PC / Switch / Xbox",
         "数据来源": "小黑盒",
         "来源链接": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1801670400&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1801670400&filter_hot=all&filter_platform=switch\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1801670400&filter_hot=hot&filter_platform=pc"
       },
       "details_en": {
-        "Game count": "5",
-        "Games": "He-Man and the Masters of the Universe™: Dragon Pearl of Destruction, METRO 2039, CODE Bunny, He-Man and the Masters of the Universe™: Dragon Pearl of Destruction, Muramasa: Revenant Blades",
+        "Game count": "6",
+        "Games": "He-Man and the Masters of the Universe™: Dragon Pearl of Destruction, METRO 2039, CODE Bunny, He-Man and the Masters of the Universe™: Dragon Pearl of Destruction, Romancing SaGa 3: Destinies United, Muramasa: Revenant Blades",
         "Platforms": "PC / Switch / Xbox",
         "Data source": "Heybox",
         "Source links": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1801670400&filter_hot=all&filter_platform=xbox\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1801670400&filter_hot=all&filter_platform=switch\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1801670400&filter_hot=hot&filter_platform=pc"
@@ -10888,6 +10987,19 @@
           "title_en": "He-Man and the Masters of the Universe™: Dragon Pearl of Destruction",
           "title_zh": "宇宙巨人希曼：毁灭之龙珠",
           "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900220545&game_type=console",
+          "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1801670400&filter_hot=all&filter_platform=switch",
+          "release_kind": "unknown"
+        },
+        {
+          "title": "浪漫沙加3：命运联合",
+          "platforms": [
+            "Switch"
+          ],
+          "provider": "heybox",
+          "provider_id": "console:900219244",
+          "title_en": "Romancing SaGa 3: Destinies United",
+          "title_zh": "浪漫沙加3：命运联合",
+          "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900219244&game_type=console",
           "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1801670400&filter_hot=all&filter_platform=switch",
           "release_kind": "unknown"
         },
@@ -11294,25 +11406,25 @@
       "year": 2027,
       "timezone": "Asia/Shanghai",
       "time_kind": "date",
-      "name": "Yu-Gi-Oh! TAG FORCE GX 等 3 款发售",
-      "name_en": "Yu-Gi-Oh! TAG FORCE GX + 2 more releases",
-      "description": "当天发售：Yu-Gi-Oh! TAG FORCE GX、浪漫沙加3 错综宿命、浪漫沙加3：命运联合",
-      "description_en": "Releases this day: Yu-Gi-Oh! TAG FORCE GX, Game console:900219270, Romancing SaGa 3: Destinies United.",
+      "name": "Yu-Gi-Oh! TAG FORCE GX 等 2 款发售",
+      "name_en": "Yu-Gi-Oh! TAG FORCE GX + 1 more releases",
+      "description": "当天发售：Yu-Gi-Oh! TAG FORCE GX、浪漫沙加3 错综宿命",
+      "description_en": "Releases this day: Yu-Gi-Oh! TAG FORCE GX, Game console:900219270.",
       "type": "event",
       "status": "planned",
       "url": "https://www.xiaoheihe.cn/",
       "last_verified": "2026-11-24",
       "verified_by": "auto",
       "details": {
-        "游戏数量": "3",
-        "发售游戏": "Yu-Gi-Oh! TAG FORCE GX、浪漫沙加3 错综宿命、浪漫沙加3：命运联合",
+        "游戏数量": "2",
+        "发售游戏": "Yu-Gi-Oh! TAG FORCE GX、浪漫沙加3 错综宿命",
         "平台": "Switch / Xbox",
         "数据来源": "小黑盒",
         "来源链接": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1802707200&filter_hot=all&filter_platform=switch\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1802707200&filter_hot=all&filter_platform=xbox"
       },
       "details_en": {
-        "Game count": "3",
-        "Games": "Yu-Gi-Oh! TAG FORCE GX, Game console:900219270, Romancing SaGa 3: Destinies United",
+        "Game count": "2",
+        "Games": "Yu-Gi-Oh! TAG FORCE GX, Game console:900219270",
         "Platforms": "Switch / Xbox",
         "Data source": "Heybox",
         "Source links": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1802707200&filter_hot=all&filter_platform=switch\nhttps://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1802707200&filter_hot=all&filter_platform=xbox"
@@ -11340,19 +11452,6 @@
           "title_zh": "浪漫沙加3 错综宿命",
           "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900219270&game_type=console",
           "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1802707200&filter_hot=all&filter_platform=xbox",
-          "release_kind": "unknown"
-        },
-        {
-          "title": "浪漫沙加3：命运联合",
-          "platforms": [
-            "Switch"
-          ],
-          "provider": "heybox",
-          "provider_id": "console:900219244",
-          "title_en": "Romancing SaGa 3: Destinies United",
-          "title_zh": "浪漫沙加3：命运联合",
-          "store_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=900219244&game_type=console",
-          "source_url": "https://api.xiaoheihe.cn/game/release_calendar/game_list/single_day?day_timestamp=1802707200&filter_hot=all&filter_platform=switch",
           "release_kind": "unknown"
         }
       ]

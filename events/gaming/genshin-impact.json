@@ -2292,64 +2292,8 @@
       }
     },
     {
-      "id": "genshin-impact-2026-167426-banner-6d1f90fb193c",
-      "name": "原神 7.2 博闻异旅·莉奈娅：博闻异旅·莉奈娅",
-      "name_en": "Linnea",
-      "date": "2026-11-24",
-      "end_date": "2026-12-15",
-      "time": "18:00",
-      "end_time": "14:59",
-      "timezone": "Asia/Shanghai",
-      "time_kind": "datetime_range",
-      "type": "range",
-      "year": 2026,
-      "description": "原神 博闻异旅·莉奈娅：博闻异旅·莉奈娅",
-      "url": "https://ys.mihoyo.com/main/news/detail/167426",
-      "status": "active",
-      "last_verified": "2026-11-24",
-      "verified_by": "official",
-      "details": {
-        "official_time": "旅行者好呀~\n本期活动祈愿时间为2026/11/24 18:00 ~ 2026/12/15 14:59。\n限定5星角色「驹隙隐泉·兹白(岩)」「博闻异旅·莉奈娅(岩)」，限定5星武器「朏魄含光」「霜结的誓金枝」等的祈愿获取概率将大幅提升。\n此外还将开启「炎天铸名」集录祈愿，旅行者可以获取更多角色与武器，组建强大的队伍！\n关于《原神》\n《原神》是由米哈游自研的一款开放世界冒险RPG。你将在游戏中探索一个被称作「提瓦特」的幻想世界。\n在这广阔的世界中，你可以踏遍七国，邂逅性格各异、能力独特的同伴，与他们一同对抗强敌，踏上寻回血亲之路；也可以不带目的地漫游，沉浸在充满生机的世界里，让好奇心驱使自己发掘各个角落的奥秘……直到你与分离的血亲重聚，在终点见证一切事物的沉淀。《原神》现已登录PS平台、iOS、Android、PC平台，并支持移动端、PC端以及PS平台数据互通，旅行者可自由选择平台和设备开启冒险。",
-        "official_notice": "7.2版本活动祈愿预告第二期"
-      },
-      "details_en": {
-        "official_time": "2026-11-24 18:00 – 2026-12-15 14:59",
-        "English name status": "official announcement; mainland timing preserved",
-        "English source": "https://genshin.hoyoverse.com/en/news/detail/167370",
-        "English source ID": "167370",
-        "English original title": "Version 7.2 Event Wishes Notice - Phase II"
-      },
-      "game": {
-        "game_id": "genshin-impact",
-        "provider": "hoyoverse",
-        "source_kind": "banner",
-        "source_content_id": "167426",
-        "source_title": "7.2版本活动祈愿预告第二期",
-        "source_url": "https://ys.mihoyo.com/main/news/detail/167426",
-        "version": "7.2",
-        "activity_name": "博闻异旅·莉奈娅：博闻异旅·莉奈娅",
-        "phase": "phase2"
-      },
-      "banners": [
-        {
-          "name": "博闻异旅·莉奈娅",
-          "type": "character",
-          "featured_5": [
-            {
-              "name": "博闻异旅·莉奈娅",
-              "rarity": 5,
-              "kind": "character",
-              "element": "岩",
-              "name_en": "Linnea"
-            }
-          ],
-          "featured_4": []
-        }
-      ]
-    },
-    {
-      "id": "genshin-impact-2026-167426-banner-bae7eb543b82",
-      "name": "原神 7.2 驹隙隐泉·兹白：驹隙隐泉·兹白",
+      "id": "genshin-impact-2026-167426-banner-1343dbe17b8e",
+      "name": "原神 7.2 华黍由仪：驹隙隐泉·兹白",
       "name_en": "Zibai",
       "date": "2026-11-24",
       "end_date": "2026-12-15",
@@ -2359,7 +2303,7 @@
       "time_kind": "datetime_range",
       "type": "range",
       "year": 2026,
-      "description": "原神 驹隙隐泉·兹白：驹隙隐泉·兹白",
+      "description": "原神 华黍由仪：驹隙隐泉·兹白",
       "url": "https://ys.mihoyo.com/main/news/detail/167426",
       "status": "active",
       "last_verified": "2026-11-24",
@@ -2383,12 +2327,12 @@
         "source_title": "7.2版本活动祈愿预告第二期",
         "source_url": "https://ys.mihoyo.com/main/news/detail/167426",
         "version": "7.2",
-        "activity_name": "驹隙隐泉·兹白：驹隙隐泉·兹白",
+        "activity_name": "华黍由仪：驹隙隐泉·兹白",
         "phase": "phase2"
       },
       "banners": [
         {
-          "name": "驹隙隐泉·兹白",
+          "name": "华黍由仪",
           "type": "character",
           "featured_5": [
             {
@@ -2399,7 +2343,26 @@
               "name_en": "Zibai"
             }
           ],
-          "featured_4": []
+          "featured_4": [
+            {
+              "name": "魇夜燃芯·叶洛亚",
+              "rarity": 4,
+              "kind": "character",
+              "element": "岩"
+            },
+            {
+              "name": "妙械咣咣铛·爱诺",
+              "rarity": 4,
+              "kind": "character",
+              "element": "水"
+            },
+            {
+              "name": "掩月天权·凝光",
+              "rarity": 4,
+              "kind": "character",
+              "element": "岩"
+            }
+          ]
         }
       ]
     },
@@ -2462,6 +2425,81 @@
             }
           ],
           "featured_4": []
+        }
+      ]
+    },
+    {
+      "id": "genshin-impact-2026-167426-banner-fbc2c8ed9232",
+      "name": "原神 7.2 呀吼吼博物志：博闻异旅·莉奈娅",
+      "name_en": "Linnea",
+      "date": "2026-11-24",
+      "end_date": "2026-12-15",
+      "time": "18:00",
+      "end_time": "14:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "原神 呀吼吼博物志：博闻异旅·莉奈娅",
+      "url": "https://ys.mihoyo.com/main/news/detail/167426",
+      "status": "active",
+      "last_verified": "2026-11-24",
+      "verified_by": "official",
+      "details": {
+        "official_time": "旅行者好呀~\n本期活动祈愿时间为2026/11/24 18:00 ~ 2026/12/15 14:59。\n限定5星角色「驹隙隐泉·兹白(岩)」「博闻异旅·莉奈娅(岩)」，限定5星武器「朏魄含光」「霜结的誓金枝」等的祈愿获取概率将大幅提升。\n此外还将开启「炎天铸名」集录祈愿，旅行者可以获取更多角色与武器，组建强大的队伍！\n关于《原神》\n《原神》是由米哈游自研的一款开放世界冒险RPG。你将在游戏中探索一个被称作「提瓦特」的幻想世界。\n在这广阔的世界中，你可以踏遍七国，邂逅性格各异、能力独特的同伴，与他们一同对抗强敌，踏上寻回血亲之路；也可以不带目的地漫游，沉浸在充满生机的世界里，让好奇心驱使自己发掘各个角落的奥秘……直到你与分离的血亲重聚，在终点见证一切事物的沉淀。《原神》现已登录PS平台、iOS、Android、PC平台，并支持移动端、PC端以及PS平台数据互通，旅行者可自由选择平台和设备开启冒险。",
+        "official_notice": "7.2版本活动祈愿预告第二期"
+      },
+      "details_en": {
+        "official_time": "2026-11-24 18:00 – 2026-12-15 14:59",
+        "English name status": "official announcement; mainland timing preserved",
+        "English source": "https://genshin.hoyoverse.com/en/news/detail/167370",
+        "English source ID": "167370",
+        "English original title": "Version 7.2 Event Wishes Notice - Phase II"
+      },
+      "game": {
+        "game_id": "genshin-impact",
+        "provider": "hoyoverse",
+        "source_kind": "banner",
+        "source_content_id": "167426",
+        "source_title": "7.2版本活动祈愿预告第二期",
+        "source_url": "https://ys.mihoyo.com/main/news/detail/167426",
+        "version": "7.2",
+        "activity_name": "呀吼吼博物志：博闻异旅·莉奈娅",
+        "phase": "phase2"
+      },
+      "banners": [
+        {
+          "name": "呀吼吼博物志",
+          "type": "character",
+          "featured_5": [
+            {
+              "name": "博闻异旅·莉奈娅",
+              "rarity": 5,
+              "kind": "character",
+              "element": "岩",
+              "name_en": "Linnea"
+            }
+          ],
+          "featured_4": [
+            {
+              "name": "魇夜燃芯·叶洛亚",
+              "rarity": 4,
+              "kind": "character",
+              "element": "岩"
+            },
+            {
+              "name": "妙械咣咣铛·爱诺",
+              "rarity": 4,
+              "kind": "character",
+              "element": "水"
+            },
+            {
+              "name": "掩月天权·凝光",
+              "rarity": 4,
+              "kind": "character",
+              "element": "岩"
+            }
+          ]
         }
       ]
     }
