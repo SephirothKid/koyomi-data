@@ -90,6 +90,7 @@ const SUBCATEGORY_MAP = {
   // platform (gaming)
   'epic-free': 'platform',
   'ps-plus-hk': 'platform',
+  'ps-plus-jp': 'platform',
   'steam-sales': 'platform',
   'console-showcases': 'platform',
 }
@@ -535,7 +536,7 @@ function sourceDescription(source, isEn = false) {
 
 function createCalendar(source, events, options = {}) {
   const isEn = options.lang === 'en'
-  const isPsPlus = source.id === 'ps-plus-hk'
+  const isPsPlus = ['ps-plus-hk', 'ps-plus-jp'].includes(source.id)
   const calendarTimezone = source.timezone ?? events.find(event => event.timezone)?.timezone ?? DEFAULT_TIMEZONE
   const cal = ical({
     name: options.name ?? sourceName(source, isEn),

@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//ps-plus-jp//EN
+URL:https://koyomi.cast/sources/ps-plus-jp
+NAME:PS Plus Monthly Games (Japan)
+X-WR-CALNAME:PS Plus Monthly Games (Japan)
+X-WR-CALDESC:Claim dates and deadlines for PlayStation Plus monthly games 
+ in Japan.
+TIMEZONE-ID:Asia/Tokyo
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:ps-plus-jp-ps-plus-jp-2026-m10-claim-deadline@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261124T000000
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:PS Plus Monthly Games (Japan) · October monthly games claim deadl
+ ine
+DESCRIPTION:Monthly games:\n1. F1 25 (PS5)\nhttps://store.playstation.com/
+ ja-jp/product/UP0006-PPSA24662_00-F12025PS5GAME000\n2. Hello Neighbor (PS5
+  / PS4)\nhttps://store.playstation.com/ja-jp/product/EP0096-PPSA35154_00-H
+ NREMASTERED0000\n3. EARTH DEFENSE FORCE: WORLD BROTHERS 2 (PS5 / PS4)\nhtt
+ ps://store.playstation.com/ja-jp/product/JP0367-PPSA15887_00-EDFWB00000000
+ 002\n\nSource: https://blog.ja.playstation.com/2026/10/01/20261001-psplus-
+ freeplay-o/
+CATEGORIES:PS Plus Monthly Games (Japan)
+URL;VALUE=URI:https://blog.ja.playstation.com/2026/10/01/20261001-psplus-f
+ reeplay-o/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-plus-jp-ps-plus-jp-2026-m11-claim-opens@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261124T000000
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:PS Plus Monthly Games (Japan) · November monthly games available
+DESCRIPTION:Secret Neighbor\, Tomb Raider IV-VI Remastered\, Monster Train
+  2\n\nSource: https://blog.ja.playstation.com/2026/10/29/20261029-psplus-f
+ reeplay-o/
+CATEGORIES:PS Plus Monthly Games (Japan)
+URL;VALUE=URI:https://blog.ja.playstation.com/2026/10/29/20261029-psplus-f
+ reeplay-o/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-plus-jp-ps-plus-jp-2026-m11-claim-deadline@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261124T000000
+DTSTART;TZID=Asia/Tokyo:20261201T090000
+SUMMARY:PS Plus Monthly Games (Japan) · November monthly games claim dead
+ line
+DESCRIPTION:Monthly games:\n1. Secret Neighbor (PS4)\nhttps://store.playst
+ ation.com/ja-jp/product/EP0096-CUSA25165_00-0482907501575646\n2. Tomb Raid
+ er IV-VI Remastered (PS5 / PS4)\nhttps://store.playstation.com/ja-jp/produ
+ ct/EP1875-PPSA27587_00-0678799933389573\n3. Monster Train 2 (PS5)\nhttps:/
+ /store.playstation.com/ja-jp/product/EP8909-PPSA25758_00-0047300101977880\
+ n\nSource: https://blog.ja.playstation.com/2026/10/29/20261029-psplus-free
+ play-o/
+CATEGORIES:PS Plus Monthly Games (Japan)
+URL;VALUE=URI:https://blog.ja.playstation.com/2026/10/29/20261029-psplus-f
+ reeplay-o/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

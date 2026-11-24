@@ -1,0 +1,165 @@
+{
+  "id": "ps-plus-jp",
+  "name": "PS Plus 月度游戏（日服）",
+  "category": "gaming",
+  "name_en": "PS Plus Monthly Games (Japan)",
+  "subcategory": "新游与优惠",
+  "subcategory_en": "Releases & Deals",
+  "description": "日服 PlayStation Plus 每月游戏的领取开放日期和截止日期。",
+  "description_en": "Claim dates and deadlines for PlayStation Plus monthly games in Japan.",
+  "source_url": "https://www.playstation.com/ja-jp/ps-plus/whats-new/",
+  "icon": "gamepad-2",
+  "maintainer": "community",
+  "unlisted": true,
+  "tags": [
+    "PlayStation",
+    "PS Plus",
+    "日服"
+  ],
+  "tags_en": [
+    "PlayStation",
+    "PS Plus",
+    "Japan"
+  ],
+  "events": [
+    {
+      "id": "ps-plus-jp-2026-m10-claim-opens",
+      "name": "10 月游戏开放领取",
+      "name_en": "October monthly games available",
+      "date": "2026-10-06",
+      "timezone": "Asia/Tokyo",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2026,
+      "description": "F1 25、Hello Neighbor、EARTH DEFENSE FORCE: WORLD BROTHERS 2",
+      "description_en": "F1 25, Hello Neighbor, EARTH DEFENSE FORCE: WORLD BROTHERS 2",
+      "url": "https://blog.ja.playstation.com/2026/10/01/20261001-psplus-freeplay-o/",
+      "status": "completed",
+      "last_verified": "2026-11-24",
+      "verified_by": "official"
+    },
+    {
+      "id": "ps-plus-jp-2026-m10-claim-deadline",
+      "name": "10 月游戏领取截止",
+      "name_en": "October monthly games claim deadline",
+      "date": "2026-11-02",
+      "timezone": "Asia/Tokyo",
+      "time_kind": "date",
+      "type": "deadline",
+      "year": 2026,
+      "description": "F1 25、Hello Neighbor、EARTH DEFENSE FORCE: WORLD BROTHERS 2",
+      "description_en": "F1 25, Hello Neighbor, EARTH DEFENSE FORCE: WORLD BROTHERS 2",
+      "url": "https://blog.ja.playstation.com/2026/10/01/20261001-psplus-freeplay-o/",
+      "status": "completed",
+      "last_verified": "2026-11-24",
+      "verified_by": "official",
+      "games": [
+        {
+          "title": "F1 25",
+          "store_url": "https://store.playstation.com/ja-jp/product/UP0006-PPSA24662_00-F12025PS5GAME000",
+          "platforms": [
+            "PS5"
+          ],
+          "title_zh": "F1 25",
+          "title_en": "F1 25"
+        },
+        {
+          "title": "Hello Neighbor",
+          "store_url": "https://store.playstation.com/ja-jp/product/EP0096-PPSA35154_00-HNREMASTERED0000",
+          "platforms": [
+            "PS5",
+            "PS4"
+          ],
+          "title_zh": "Hello Neighbor",
+          "title_en": "Hello Neighbor"
+        },
+        {
+          "title": "四角い地球に再びシカク現る!? デジボク地球防衛軍２ EARTH DEFENSE FORCE: WORLD BROTHERS",
+          "store_url": "https://store.playstation.com/ja-jp/product/JP0367-PPSA15887_00-EDFWB00000000002",
+          "platforms": [
+            "PS5",
+            "PS4"
+          ],
+          "title_zh": "EARTH DEFENSE FORCE: WORLD BROTHERS 2",
+          "title_en": "EARTH DEFENSE FORCE: WORLD BROTHERS 2"
+        }
+      ]
+    },
+    {
+      "id": "ps-plus-jp-2026-m11-claim-opens",
+      "name": "11 月游戏开放领取",
+      "name_en": "November monthly games available",
+      "date": "2026-11-03",
+      "timezone": "Asia/Tokyo",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2026,
+      "description": "Secret Neighbor、Tomb Raider IV-VI Remastered、Monster Train 2",
+      "description_en": "Secret Neighbor, Tomb Raider IV-VI Remastered, Monster Train 2",
+      "url": "https://blog.ja.playstation.com/2026/10/29/20261029-psplus-freeplay-o/",
+      "status": "completed",
+      "last_verified": "2026-11-24",
+      "verified_by": "official"
+    },
+    {
+      "id": "ps-plus-jp-2026-m11-claim-deadline",
+      "name": "11 月游戏领取截止",
+      "name_en": "November monthly games claim deadline",
+      "date": "2026-12-01",
+      "time": "09:00",
+      "timezone": "Asia/Tokyo",
+      "time_kind": "datetime",
+      "type": "deadline",
+      "year": 2026,
+      "description": "Secret Neighbor、Tomb Raider IV-VI Remastered、Monster Train 2",
+      "description_en": "Secret Neighbor, Tomb Raider IV-VI Remastered, Monster Train 2",
+      "url": "https://blog.ja.playstation.com/2026/10/29/20261029-psplus-freeplay-o/",
+      "status": "confirmed",
+      "last_verified": "2026-11-24",
+      "verified_by": "official",
+      "games": [
+        {
+          "title": "Secret Neighbor",
+          "store_url": "https://store.playstation.com/ja-jp/product/EP0096-CUSA25165_00-0482907501575646",
+          "platforms": [
+            "PS4"
+          ],
+          "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2314/91f7cdb5be5177cfcb80209d68a460046e2d749c6241de15.png",
+          "source_url": "https://www.playstation.com/ja-jp/games/secret-neighbor/",
+          "provider": "playstation-store",
+          "provider_id": "EP0096-CUSA25165_00-0482907501575646",
+          "title_zh": "Secret Neighbor",
+          "title_en": "Secret Neighbor"
+        },
+        {
+          "title": "トゥームレイダー IV-VI リマスター",
+          "store_url": "https://store.playstation.com/ja-jp/product/EP1875-PPSA27587_00-0678799933389573",
+          "platforms": [
+            "PS5",
+            "PS4"
+          ],
+          "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1221/85006e3582d8b415bf4b7b2aa884c8ddf2f1a7d5d7d2083e.jpg",
+          "source_url": "https://www.playstation.com/ja-jp/games/tomb-raider-iv-vi-remastered/",
+          "provider": "playstation-store",
+          "provider_id": "EP1875-PPSA27587_00-0678799933389573",
+          "title_zh": "Tomb Raider IV-VI Remastered",
+          "title_en": "Tomb Raider IV-VI Remastered"
+        },
+        {
+          "title": "Monster Train 2",
+          "store_url": "https://store.playstation.com/ja-jp/product/EP8909-PPSA25758_00-0047300101977880",
+          "platforms": [
+            "PS5"
+          ],
+          "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1214/39dbb65f6a8bc2ab1f71271b3403f5df6f8f3f0879a299da.png",
+          "source_url": "https://www.playstation.com/ja-jp/games/monster-train-2/",
+          "provider": "playstation-store",
+          "provider_id": "EP8909-PPSA25758_00-0047300101977880",
+          "title_zh": "Monster Train 2",
+          "title_en": "Monster Train 2"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-11-24"
+}
