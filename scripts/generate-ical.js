@@ -89,14 +89,17 @@ const SUBCATEGORY_MAP = {
   'final-fantasy-xiv': 'updates',
   // platform (gaming)
   'epic-free': 'platform',
-  'ps-plus-hk': 'platform',
-  'ps-plus-jp': 'platform',
   'steam-sales': 'platform',
   'console-showcases': 'platform',
 }
 
 function getSubcategory(source) {
+  if (isPsPlusSource(source.id)) return 'platform'
   return SUBCATEGORY_MAP[source.id] ?? null
+}
+
+function isPsPlusSource(id) {
+  return /^ps-plus-[a-z]{2}$/.test(id)
 }
 
 // 语言模式：通过环境变量 LANG 控制，支持 'zh' (默认) 和 'en'
@@ -536,7 +539,7 @@ function sourceDescription(source, isEn = false) {
 
 function createCalendar(source, events, options = {}) {
   const isEn = options.lang === 'en'
-  const isPsPlus = ['ps-plus-hk', 'ps-plus-jp'].includes(source.id)
+  const isPsPlus = isPsPlusSource(source.id)
   const calendarTimezone = source.timezone ?? events.find(event => event.timezone)?.timezone ?? DEFAULT_TIMEZONE
   const cal = ical({
     name: options.name ?? sourceName(source, isEn),

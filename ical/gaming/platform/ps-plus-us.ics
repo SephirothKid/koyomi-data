@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//ps-plus-us//EN
+URL:https://koyomi.cast/sources/ps-plus-us
+NAME:PS Plus 月度游戏（美服）
+X-WR-CALNAME:PS Plus 月度游戏（美服）
+X-WR-CALDESC:美服 PlayStation Plus 每月游戏的领取开放日期和
+ 截止日期。
+TIMEZONE-ID:America/Los_Angeles
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:ps-plus-us-ps-plus-us-2026-m11-claim-opens@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261124T000000
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:PS Plus 月度游戏（美服） · 11 月游戏开放领取
+DESCRIPTION:Dead Island 2、Tomb Raider IV-VI Remastered、Monster Train 2
+ \n\n来源: https://blog.playstation.com/2026/10/28/playstation-plus-month
+ ly-games-for-november-dead-island-2-tomb-raider-iv-vi-remastered-monster-t
+ rain-2/
+CATEGORIES:PS Plus 月度游戏（美服）
+URL;VALUE=URI:https://blog.playstation.com/2026/10/28/playstation-plus-mon
+ thly-games-for-november-dead-island-2-tomb-raider-iv-vi-remastered-monster
+ -train-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-plus-us-ps-plus-us-2026-m11-claim-deadline@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261124T000000
+DTSTART;TZID=America/Los_Angeles:20261201T090000
+SUMMARY:PS Plus 月度游戏（美服） · 11 月游戏领取截止
+DESCRIPTION:本月游戏：\n1. Dead Island 2 (PS5 / PS4)\nhttps://store.p
+ laystation.com/en-us/product/UP2047-PPSA03098_00-DI2MAINSIEAPS500\n2. Tomb
+  Raider IV-VI Remastered (PS5 / PS4)\nhttps://store.playstation.com/en-us/
+ product/UP1032-PPSA18154_00-TOMBRAIDER456225\n3. Monster Train 2 (PS5)\nht
+ tps://store.playstation.com/en-us/product/EP8909-PPSA25758_00-004730010197
+ 7880\n\n来源: https://blog.playstation.com/2026/10/28/playstation-plus-m
+ onthly-games-for-november-dead-island-2-tomb-raider-iv-vi-remastered-monst
+ er-train-2/
+CATEGORIES:PS Plus 月度游戏（美服）
+URL;VALUE=URI:https://blog.playstation.com/2026/10/28/playstation-plus-mon
+ thly-games-for-november-dead-island-2-tomb-raider-iv-vi-remastered-monster
+ -train-2/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

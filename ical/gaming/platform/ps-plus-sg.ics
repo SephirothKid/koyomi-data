@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//ps-plus-sg//EN
+URL:https://koyomi.cast/sources/ps-plus-sg
+NAME:PS Plus 月度游戏（新加坡服）
+X-WR-CALNAME:PS Plus 月度游戏（新加坡服）
+X-WR-CALDESC:新加坡服 PlayStation Plus 每月游戏的领取开放日
+ 期和截止日期。
+TIMEZONE-ID:Asia/Singapore
+X-WR-TIMEZONE:Asia/Singapore
+BEGIN:VEVENT
+UID:ps-plus-sg-ps-plus-sg-2026-m11-claim-opens@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261124T000000
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:PS Plus 月度游戏（新加坡服） · 11 月游戏开放领取
+DESCRIPTION:Dead Island 2、Tomb Raider IV-VI Remastered、Monster Train 2
+ \n\n来源: https://blog.playstation.com/2026/10/28/playstation-plus-month
+ ly-games-for-november-dead-island-2-tomb-raider-iv-vi-remastered-monster-t
+ rain-2/
+CATEGORIES:PS Plus 月度游戏（新加坡服）
+URL;VALUE=URI:https://blog.playstation.com/2026/10/28/playstation-plus-mon
+ thly-games-for-november-dead-island-2-tomb-raider-iv-vi-remastered-monster
+ -train-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-plus-sg-ps-plus-sg-2026-m11-claim-deadline@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261124T000000
+DTSTART;TZID=Asia/Singapore:20261201T080000
+SUMMARY:PS Plus 月度游戏（新加坡服） · 11 月游戏领取截止
+DESCRIPTION:本月游戏：\n1. Dead Island 2 (PS5 / PS4)\nhttps://store.p
+ laystation.com/en-sg/product/EP4062-PPSA03099_00-DI2MAINSIEEPS500\n2. Tomb
+  Raider IV-VI Remastered (PS5 / PS4)\nhttps://store.playstation.com/en-sg/
+ product/EP1875-PPSA27587_00-0678799933389573\n3. Monster Train 2 (PS5)\nht
+ tps://store.playstation.com/en-sg/product/EP8909-PPSA25758_00-004730010197
+ 7880\n\n来源: https://blog.playstation.com/2026/10/28/playstation-plus-m
+ onthly-games-for-november-dead-island-2-tomb-raider-iv-vi-remastered-monst
+ er-train-2/
+CATEGORIES:PS Plus 月度游戏（新加坡服）
+URL;VALUE=URI:https://blog.playstation.com/2026/10/28/playstation-plus-mon
+ thly-games-for-november-dead-island-2-tomb-raider-iv-vi-remastered-monster
+ -train-2/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

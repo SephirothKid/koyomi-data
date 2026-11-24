@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koyomi Cast//ps-plus-sg//EN
+URL:https://koyomi.cast/sources/ps-plus-sg
+NAME:PS Plus Monthly Games (Singapore)
+X-WR-CALNAME:PS Plus Monthly Games (Singapore)
+X-WR-CALDESC:Claim dates and deadlines for PlayStation Plus monthly games 
+ in Singapore.
+TIMEZONE-ID:Asia/Singapore
+X-WR-TIMEZONE:Asia/Singapore
+BEGIN:VEVENT
+UID:ps-plus-sg-ps-plus-sg-2026-m11-claim-opens@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261124T000000
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:PS Plus Monthly Games (Singapore) · November monthly games availa
+ ble
+DESCRIPTION:Dead Island 2\, Tomb Raider IV-VI Remastered\, Monster Train 2
+ \n\nSource: https://blog.playstation.com/2026/10/28/playstation-plus-month
+ ly-games-for-november-dead-island-2-tomb-raider-iv-vi-remastered-monster-t
+ rain-2/
+CATEGORIES:PS Plus Monthly Games (Singapore)
+URL;VALUE=URI:https://blog.playstation.com/2026/10/28/playstation-plus-mon
+ thly-games-for-november-dead-island-2-tomb-raider-iv-vi-remastered-monster
+ -train-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-plus-sg-ps-plus-sg-2026-m11-claim-deadline@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261124T000000
+DTSTART;TZID=Asia/Singapore:20261201T080000
+SUMMARY:PS Plus Monthly Games (Singapore) · November monthly games claim 
+ deadline
+DESCRIPTION:Monthly games:\n1. Dead Island 2 (PS5 / PS4)\nhttps://store.pl
+ aystation.com/en-sg/product/EP4062-PPSA03099_00-DI2MAINSIEEPS500\n2. Tomb 
+ Raider IV-VI Remastered (PS5 / PS4)\nhttps://store.playstation.com/en-sg/p
+ roduct/EP1875-PPSA27587_00-0678799933389573\n3. Monster Train 2 (PS5)\nhtt
+ ps://store.playstation.com/en-sg/product/EP8909-PPSA25758_00-0047300101977
+ 880\n\nSource: https://blog.playstation.com/2026/10/28/playstation-plus-mo
+ nthly-games-for-november-dead-island-2-tomb-raider-iv-vi-remastered-monste
+ r-train-2/
+CATEGORIES:PS Plus Monthly Games (Singapore)
+URL;VALUE=URI:https://blog.playstation.com/2026/10/28/playstation-plus-mon
+ thly-games-for-november-dead-island-2-tomb-raider-iv-vi-remastered-monster
+ -train-2/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
