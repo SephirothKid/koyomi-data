@@ -33400,58 +33400,11 @@
       }
     },
     {
-      "id": "dota2-esports-2026-m1816459",
-      "name": "BLAST Slam · Group C · PARIVISION vs Team Liquid",
-      "name_en": "BLAST Slam · Group C · PARIVISION vs Team Liquid",
-      "date": "2026-11-22",
-      "time": "22:00",
-      "timezone": "Asia/Shanghai",
-      "time_kind": "datetime",
-      "type": "event",
-      "year": 2026,
-      "description": "BLAST Slam · Season 9 2026 · PARIVISION vs Team Liquid",
-      "description_en": "BLAST Slam · Season 9 2026 · PARIVISION vs Team Liquid",
-      "url": "https://www.dota2.com/esports",
-      "status": "confirmed",
-      "last_verified": "2026-11-22",
-      "verified_by": "auto",
-      "teams": {
-        "away": {
-          "id": "parivision-dota-2",
-          "code": "PARI",
-          "name": "PARIVISION",
-          "name_en": "PARIVISION",
-          "image_url": "https://cdn-api.pandascore.co/images/team/image/135712/250px_parivision_allmode.png"
-        },
-        "home": {
-          "id": "team-liquid",
-          "code": "Liquid",
-          "name": "Team Liquid",
-          "name_en": "Team Liquid",
-          "image_url": "https://cdn-api.pandascore.co/images/team/image/1647/527px_team_liquid_2023_lightmode.png"
-        }
-      },
-      "details": {
-        "赛事": "BLAST Slam",
-        "赛季": "BLAST Slam · Season 9 2026",
-        "阶段": "Group C",
-        "赛制": "BO3",
-        "数据来源": "PandaScore"
-      },
-      "details_en": {
-        "Competition": "BLAST Slam",
-        "Series": "BLAST Slam · Season 9 2026",
-        "Stage": "Group C",
-        "Format": "BO3",
-        "Source": "PandaScore"
-      }
-    },
-    {
       "id": "dota2-esports-2026-m1816460",
       "name": "BLAST Slam · Group C · LEGION vs DO KONCA",
       "name_en": "BLAST Slam · Group C · LEGION vs DO KONCA",
       "date": "2026-11-22",
-      "time": "22:00",
+      "time": "22:01",
       "timezone": "Asia/Shanghai",
       "time_kind": "datetime",
       "type": "event",
@@ -33459,7 +33412,7 @@
       "description": "BLAST Slam · Season 9 2026 · LEGION vs DO KONCA",
       "description_en": "BLAST Slam · Season 9 2026 · LEGION vs DO KONCA",
       "url": "https://www.dota2.com/esports",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-22",
       "verified_by": "auto",
       "teams": {
@@ -33478,6 +33431,12 @@
           "image_url": "https://cdn-api.pandascore.co/images/team/image/139547/800px_do_konca_allmode.png"
         }
       },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
       "details": {
         "赛事": "BLAST Slam",
         "赛季": "BLAST Slam · Season 9 2026",
@@ -33494,35 +33453,88 @@
       }
     },
     {
-      "id": "dota2-esports-2026-m1816469",
-      "name": "BLAST Slam · Group D · 1w Team vs Aurora",
-      "name_en": "BLAST Slam · Group D · 1w Team vs Aurora",
-      "date": "2026-11-23",
-      "time": "01:00",
+      "id": "dota2-esports-2026-m1816459",
+      "name": "BLAST Slam · Group C · PARIVISION vs Team Liquid",
+      "name_en": "BLAST Slam · Group C · PARIVISION vs Team Liquid",
+      "date": "2026-11-22",
+      "time": "22:02",
       "timezone": "Asia/Shanghai",
       "time_kind": "datetime",
       "type": "event",
       "year": 2026,
-      "description": "BLAST Slam · Season 9 2026 · 1w Team vs Aurora",
-      "description_en": "BLAST Slam · Season 9 2026 · 1w Team vs Aurora",
+      "description": "BLAST Slam · Season 9 2026 · PARIVISION vs Team Liquid",
+      "description_en": "BLAST Slam · Season 9 2026 · PARIVISION vs Team Liquid",
       "url": "https://www.dota2.com/esports",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-22",
       "verified_by": "auto",
       "teams": {
         "away": {
-          "id": "1win-dota-2",
-          "code": "1W",
-          "name": "1w Team",
-          "name_en": "1w Team",
-          "image_url": "https://cdn-api.pandascore.co/images/team/image/134536/800px_1win_team_2024_allmode.png"
+          "id": "parivision-dota-2",
+          "code": "PARI",
+          "name": "PARIVISION",
+          "name_en": "PARIVISION",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/135712/250px_parivision_allmode.png"
         },
         "home": {
-          "id": "aurora-dota-2",
-          "code": "AUR",
-          "name": "Aurora",
-          "name_en": "Aurora",
-          "image_url": "https://cdn-api.pandascore.co/images/team/image/133882/600px_aurora_gaming_2025_allmode.png"
+          "id": "team-liquid",
+          "code": "Liquid",
+          "name": "Team Liquid",
+          "name_en": "Team Liquid",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/1647/527px_team_liquid_2023_lightmode.png"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "BLAST Slam",
+        "赛季": "BLAST Slam · Season 9 2026",
+        "阶段": "Group C",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "BLAST Slam",
+        "Series": "BLAST Slam · Season 9 2026",
+        "Stage": "Group C",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "dota2-esports-2026-m1816470",
+      "name": "BLAST Slam · Group D · LGD Gaming vs Astra Invicta",
+      "name_en": "BLAST Slam · Group D · LGD Gaming vs Astra Invicta",
+      "date": "2026-11-23",
+      "time": "02:04",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "BLAST Slam · Season 9 2026 · LGD Gaming vs Astra Invicta",
+      "description_en": "BLAST Slam · Season 9 2026 · LGD Gaming vs Astra Invicta",
+      "url": "https://www.dota2.com/esports",
+      "status": "active",
+      "last_verified": "2026-11-22",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "lgd-gaming-dota-2",
+          "code": "LGD",
+          "name": "LGD Gaming",
+          "name_en": "LGD Gaming",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/1657/600px_lgd_gaming_dec_2019_allmode.png"
+        },
+        "home": {
+          "id": "astra-invicta",
+          "code": "AI",
+          "name": "Astra Invicta",
+          "name_en": "Astra Invicta",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/139432/664px_astra_invicta_lightmode.png"
         }
       },
       "details": {
@@ -33541,36 +33553,42 @@
       }
     },
     {
-      "id": "dota2-esports-2026-m1816470",
-      "name": "BLAST Slam · Group D · LGD Gaming vs Astra Invicta",
-      "name_en": "BLAST Slam · Group D · LGD Gaming vs Astra Invicta",
+      "id": "dota2-esports-2026-m1816469",
+      "name": "BLAST Slam · Group D · 1w Team vs Aurora",
+      "name_en": "BLAST Slam · Group D · 1w Team vs Aurora",
       "date": "2026-11-23",
-      "time": "01:00",
+      "time": "02:07",
       "timezone": "Asia/Shanghai",
       "time_kind": "datetime",
       "type": "event",
       "year": 2026,
-      "description": "BLAST Slam · Season 9 2026 · LGD Gaming vs Astra Invicta",
-      "description_en": "BLAST Slam · Season 9 2026 · LGD Gaming vs Astra Invicta",
+      "description": "BLAST Slam · Season 9 2026 · 1w Team vs Aurora",
+      "description_en": "BLAST Slam · Season 9 2026 · 1w Team vs Aurora",
       "url": "https://www.dota2.com/esports",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-22",
       "verified_by": "auto",
       "teams": {
         "away": {
-          "id": "lgd-gaming-dota-2",
-          "code": "LGD",
-          "name": "LGD Gaming",
-          "name_en": "LGD Gaming",
-          "image_url": "https://cdn-api.pandascore.co/images/team/image/1657/600px_lgd_gaming_dec_2019_allmode.png"
+          "id": "1win-dota-2",
+          "code": "1W",
+          "name": "1w Team",
+          "name_en": "1w Team",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/134536/800px_1win_team_2024_allmode.png"
         },
         "home": {
-          "id": "astra-invicta",
-          "code": "AI",
-          "name": "Astra Invicta",
-          "name_en": "Astra Invicta",
-          "image_url": "https://cdn-api.pandascore.co/images/team/image/139432/664px_astra_invicta_lightmode.png"
+          "id": "aurora-dota-2",
+          "code": "AUR",
+          "name": "Aurora",
+          "name_en": "Aurora",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/133882/600px_aurora_gaming_2025_allmode.png"
         }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
       },
       "details": {
         "赛事": "BLAST Slam",
@@ -33677,6 +33695,53 @@
         "Competition": "BLAST Slam",
         "Series": "BLAST Slam · Season 9 2026",
         "Stage": "Group B",
+        "Format": "BO3",
+        "Source": "PandaScore"
+      }
+    },
+    {
+      "id": "dota2-esports-2026-m1816461",
+      "name": "BLAST Slam · Group C · Team Liquid vs DO KONCA",
+      "name_en": "BLAST Slam · Group C · Team Liquid vs DO KONCA",
+      "date": "2026-11-24",
+      "time": "01:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "BLAST Slam · Season 9 2026 · Team Liquid vs DO KONCA",
+      "description_en": "BLAST Slam · Season 9 2026 · Team Liquid vs DO KONCA",
+      "url": "https://www.dota2.com/esports",
+      "status": "confirmed",
+      "last_verified": "2026-11-22",
+      "verified_by": "auto",
+      "teams": {
+        "away": {
+          "id": "team-liquid",
+          "code": "Liquid",
+          "name": "Team Liquid",
+          "name_en": "Team Liquid",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/1647/527px_team_liquid_2023_lightmode.png"
+        },
+        "home": {
+          "id": "do-konca",
+          "code": "KONCA",
+          "name": "DO KONCA",
+          "name_en": "DO KONCA",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/139547/800px_do_konca_allmode.png"
+        }
+      },
+      "details": {
+        "赛事": "BLAST Slam",
+        "赛季": "BLAST Slam · Season 9 2026",
+        "阶段": "Group C",
+        "赛制": "BO3",
+        "数据来源": "PandaScore"
+      },
+      "details_en": {
+        "Competition": "BLAST Slam",
+        "Series": "BLAST Slam · Season 9 2026",
+        "Stage": "Group C",
         "Format": "BO3",
         "Source": "PandaScore"
       }
