@@ -114,7 +114,8 @@
     "f1": {
       "category": "sports",
       "checked_at": "2026-11-24",
-      "outcome": "unchanged"
+      "outcome": "failed",
+      "last_error": "HTTP 404: https://ergast.com/api/f1/2026.json?limit=100"
     },
     "laliga": {
       "category": "sports",
@@ -129,7 +130,7 @@
     "nba": {
       "category": "sports",
       "checked_at": "2026-11-24",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "seriea": {
       "category": "sports",
@@ -573,12 +574,12 @@
     },
     "guangzhou-marathon": {
       "category": "sports",
-      "checked_at": "2026-11-23",
+      "checked_at": "2026-11-24",
       "outcome": "unchanged"
     },
     "hangzhou-marathon": {
       "category": "sports",
-      "checked_at": "2026-11-23",
+      "checked_at": "2026-11-24",
       "outcome": "unchanged"
     },
     "ps-plus-jp": {
