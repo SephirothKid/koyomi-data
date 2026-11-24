@@ -11107,7 +11107,13 @@
       "description_en": "Utah Jazz at Los Angeles Lakers (Beijing time)",
       "description_zh": "犹他爵士 @ 洛杉矶湖人（北京时间）",
       "url": "https://www.nba.com/schedule",
-      "status": "active",
+      "status": "completed",
+      "result": {
+        "home_score": 109,
+        "away_score": 94,
+        "winner": "home",
+        "status": "FT"
+      },
       "last_verified": "2026-11-24",
       "verified_by": "auto",
       "teams": {
@@ -11144,7 +11150,13 @@
       "description_en": "San Antonio Spurs at Sacramento Kings (Beijing time)",
       "description_zh": "圣安东尼奥马刺 @ 萨克拉门托国王（北京时间）",
       "url": "https://www.nba.com/schedule",
-      "status": "active",
+      "status": "completed",
+      "result": {
+        "home_score": 107,
+        "away_score": 123,
+        "winner": "away",
+        "status": "FT"
+      },
       "last_verified": "2026-11-24",
       "verified_by": "auto",
       "teams": {
