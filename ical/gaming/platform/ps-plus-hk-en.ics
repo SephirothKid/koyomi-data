@@ -6,12 +6,10 @@ NAME:PS Plus Monthly Games (Hong Kong)
 X-WR-CALNAME:PS Plus Monthly Games (Hong Kong)
 X-WR-CALDESC:Claim dates and deadlines for PlayStation Plus monthly games 
  in Hong Kong.
-TIMEZONE-ID:Asia/Hong_Kong
-X-WR-TIMEZONE:Asia/Hong_Kong
 BEGIN:VEVENT
 UID:ps-plus-hk-ps-plus-hk-2026-m10-claim-deadline@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261124T000000
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -32,7 +30,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ps-plus-hk-ps-plus-hk-2026-m11-claim-opens@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261124T000000
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -50,8 +48,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ps-plus-hk-ps-plus-hk-2026-m11-claim-deadline@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261124T000000
-DTSTART;TZID=Asia/Hong_Kong:20261201T080000
+DTSTAMP:20261124T000000Z
+DTSTART:20261201T000000Z
 SUMMARY:PS Plus Monthly Games (Hong Kong) · November monthly games claim 
  deadline
 DESCRIPTION:Monthly games:\n1. Dead Island 2 (PS5 / PS4)\nhttps://store.pl

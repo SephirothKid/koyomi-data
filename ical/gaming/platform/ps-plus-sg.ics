@@ -6,12 +6,10 @@ NAME:PS Plus 月度游戏（新加坡服）
 X-WR-CALNAME:PS Plus 月度游戏（新加坡服）
 X-WR-CALDESC:新加坡服 PlayStation Plus 每月游戏的领取开放日
  期和截止日期。
-TIMEZONE-ID:Asia/Singapore
-X-WR-TIMEZONE:Asia/Singapore
 BEGIN:VEVENT
 UID:ps-plus-sg-ps-plus-sg-2026-m11-claim-opens@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261124T000000
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -30,8 +28,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ps-plus-sg-ps-plus-sg-2026-m11-claim-deadline@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261124T000000
-DTSTART;TZID=Asia/Singapore:20261201T080000
+DTSTAMP:20261124T000000Z
+DTSTART:20261201T000000Z
 SUMMARY:PS Plus 月度游戏（新加坡服） · 11 月游戏领取截止
 DESCRIPTION:本月游戏：\n1. Dead Island 2 (PS5 / PS4)\nhttps://store.p
  laystation.com/en-sg/product/EP4062-PPSA03099_00-DI2MAINSIEEPS500\n2. Tomb

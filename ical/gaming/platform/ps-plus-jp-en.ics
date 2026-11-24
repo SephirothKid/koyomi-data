@@ -6,12 +6,10 @@ NAME:PS Plus Monthly Games (Japan)
 X-WR-CALNAME:PS Plus Monthly Games (Japan)
 X-WR-CALDESC:Claim dates and deadlines for PlayStation Plus monthly games 
  in Japan.
-TIMEZONE-ID:Asia/Tokyo
-X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:ps-plus-jp-ps-plus-jp-2026-m10-claim-deadline@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261124T000000
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -33,7 +31,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ps-plus-jp-ps-plus-jp-2026-m11-claim-opens@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261124T000000
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -50,8 +48,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ps-plus-jp-ps-plus-jp-2026-m11-claim-deadline@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261124T000000
-DTSTART;TZID=Asia/Tokyo:20261201T090000
+DTSTAMP:20261124T000000Z
+DTSTART:20261201T000000Z
 SUMMARY:PS Plus Monthly Games (Japan) · November monthly games claim dead
  line
 DESCRIPTION:Monthly games:\n1. Secret Neighbor (PS4)\nhttps://store.playst

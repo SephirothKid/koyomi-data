@@ -6,12 +6,10 @@ NAME:PS Plus Monthly Games (United States)
 X-WR-CALNAME:PS Plus Monthly Games (United States)
 X-WR-CALDESC:Claim dates and deadlines for PlayStation Plus monthly games 
  in the United States.
-TIMEZONE-ID:America/Los_Angeles
-X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
 UID:ps-plus-us-ps-plus-us-2026-m11-claim-opens@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261124T000000
+DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -31,8 +29,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ps-plus-us-ps-plus-us-2026-m11-claim-deadline@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261124T000000
-DTSTART;TZID=America/Los_Angeles:20261201T090000
+DTSTAMP:20261124T000000Z
+DTSTART:20261201T170000Z
 SUMMARY:PS Plus Monthly Games (United States) · November monthly games cl
  aim deadline
 DESCRIPTION:Monthly games:\n1. Dead Island 2 (PS5 / PS4)\nhttps://store.pl

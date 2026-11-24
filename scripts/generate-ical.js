@@ -310,6 +310,21 @@ function wallClockDateTime(dateStr, timeStr = '00:00') {
   return new WallClockDateTime(dateStr, timeStr)
 }
 
+function wallTimeToUtc(wall, timeZone) {
+  const format = new Intl.DateTimeFormat('sv-SE', {
+    timeZone, hourCycle: 'h23', year: 'numeric', month: '2-digit', day: '2-digit',
+    hour: '2-digit', minute: '2-digit', second: '2-digit',
+  })
+  const offsetAt = instant => Date.parse(`${format.format(instant).replace(' ', 'T')}Z`) - instant
+  const local = wall.toJSDate().getTime()
+  const dayMs = 86_400_000
+  const before = local - offsetAt(local - dayMs)
+  const after = local - offsetAt(local + dayMs)
+  if (before === after || before + offsetAt(before) === local) return new Date(before)
+  if (after + offsetAt(after) === local) return new Date(after)
+  return new Date(Math.max(before, after))
+}
+
 function stampForEvent(event) {
   const date = event.last_verified ?? event.date
   return wallClockDateTime(date)
@@ -546,7 +561,7 @@ function createCalendar(source, events, options = {}) {
     description: options.description ?? sourceDescription(source, isEn) ?? '',
     prodId: { company: 'Koyomi Cast', product: options.productId ?? source.id },
     url: options.url ?? `https://koyomi.cast/sources/${source.id}`,
-    timezone: calendarTimezone,
+    timezone: isPsPlus ? null : calendarTimezone,
   })
 
   for (const event of events) {
@@ -561,6 +576,7 @@ function createCalendar(source, events, options = {}) {
     const ffxivDeadline = source.id === 'final-fantasy-xiv' && event.game?.source_kind === 'activity'
       && Boolean(event.end_time ?? event.endTime)
     const hasTime = isTimedEvent(event)
+    const useUtc = isPsPlus && hasTime
 
     const start = wallClockDateTime(event.date, event.time)
     let end
@@ -648,11 +664,11 @@ function createCalendar(source, events, options = {}) {
 
     const calendarEvent = {
       id: `${options.productId ?? source.id}-${options.eventIdForUid?.(event) ?? event.id}@koyomi.cast`,
-      start,
-      end,
-      stamp: stampForEvent(event),
+      start: useUtc ? wallTimeToUtc(start, tz) : start,
+      end: useUtc && end ? wallTimeToUtc(end, tz) : end,
+      stamp: isPsPlus ? stampForEvent(event).toJSDate() : stampForEvent(event),
       allDay: !hasTime,
-      timezone: hasTime && tz !== 'UTC' ? tz : null,
+      timezone: hasTime && !useUtc && tz !== 'UTC' ? tz : null,
       summary,
       description: descParts.filter(Boolean).join('\n\n'),
       url: event.url ?? source.source_url ?? `https://koyomi.cast/sources/${source.id}`,
