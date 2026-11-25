@@ -56690,7 +56690,7 @@
       "description": "GOSH vs Chinggis Warriors — PGL Major 新加坡（北京时间）",
       "description_en": "GOSH vs Chinggis Warriors — PGL Major Singapore (CST)",
       "url": "https://www.youtube.com/watch?v=RaTTf_zsK1s",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-11-25",
       "verified_by": "official",
       "teams": {
@@ -56704,6 +56704,12 @@
           "code": "Chinggis Warriors",
           "name": "Chinggis Warriors"
         }
+      },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
       },
       "details": {
         "赛事": "PGL Major",
@@ -56724,7 +56730,7 @@
       "description": "NIP vs Liquid — PGL Major 新加坡（北京时间）",
       "description_en": "NIP vs Liquid — PGL Major Singapore (CST)",
       "url": "https://www.youtube.com/watch?v=Cfe3Vp39n2g",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-11-25",
       "verified_by": "official",
       "teams": {
@@ -56732,6 +56738,216 @@
           "id": "3218",
           "code": "NIP",
           "name": "NIP"
+        },
+        "home": {
+          "id": "3213",
+          "code": "Liquid",
+          "name": "Liquid"
+        }
+      },
+      "result": {
+        "away_score": 2,
+        "home_score": 0,
+        "winner": "away",
+        "status": "completed"
+      },
+      "details": {
+        "赛事": "PGL Major",
+        "赛季": "新加坡",
+        "阶段": "Stage 1",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1816922",
+      "name": "PGL Major 新加坡 · Stage 1 · M80 vs Eternal Fire",
+      "name_en": "PGL Major Singapore · Stage 1 · M80 vs Eternal Fire",
+      "date": "2026-11-26",
+      "time": "14:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "M80 vs Eternal Fire — PGL Major 新加坡（北京时间）",
+      "description_en": "M80 vs Eternal Fire — PGL Major Singapore (CST)",
+      "url": "https://www.twitch.tv/watchfulTV",
+      "status": "confirmed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "133435",
+          "code": "M80",
+          "name": "M80"
+        },
+        "home": {
+          "id": "129413",
+          "code": "Eternal Fire",
+          "name": "Eternal Fire"
+        }
+      },
+      "details": {
+        "赛事": "PGL Major",
+        "赛季": "新加坡",
+        "阶段": "Stage 1",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1816921",
+      "name": "PGL Major 新加坡 · Stage 1 · Heroic vs FaZe",
+      "name_en": "PGL Major Singapore · Stage 1 · Heroic vs FaZe",
+      "date": "2026-11-26",
+      "time": "14:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Heroic vs FaZe — PGL Major 新加坡（北京时间）",
+      "description_en": "Heroic vs FaZe — PGL Major Singapore (CST)",
+      "url": "https://www.twitch.tv/izakooo",
+      "status": "confirmed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "3246",
+          "code": "Heroic",
+          "name": "Heroic"
+        },
+        "home": {
+          "id": "3212",
+          "code": "FaZe",
+          "name": "FaZe"
+        }
+      },
+      "details": {
+        "赛事": "PGL Major",
+        "赛季": "新加坡",
+        "阶段": "Stage 1",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1816924",
+      "name": "PGL Major 新加坡 · Stage 1 · 100 Thieves vs 9z",
+      "name_en": "PGL Major Singapore · Stage 1 · 100 Thieves vs 9z",
+      "date": "2026-11-26",
+      "time": "16:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "100 Thieves vs 9z — PGL Major 新加坡（北京时间）",
+      "description_en": "100 Thieves vs 9z — PGL Major Singapore (CST)",
+      "url": "https://www.twitch.tv/izakooo",
+      "status": "confirmed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "126452",
+          "code": "100 Thieves",
+          "name": "100 Thieves"
+        },
+        "home": {
+          "id": "126709",
+          "code": "9z",
+          "name": "9z"
+        }
+      },
+      "details": {
+        "赛事": "PGL Major",
+        "赛季": "新加坡",
+        "阶段": "Stage 1",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1816923",
+      "name": "PGL Major 新加坡 · Stage 1 · Lynn Vision vs PVISION",
+      "name_en": "PGL Major Singapore · Stage 1 · Lynn Vision vs PVISION",
+      "date": "2026-11-26",
+      "time": "16:30",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Lynn Vision vs PVISION — PGL Major 新加坡（北京时间）",
+      "description_en": "Lynn Vision vs PVISION — PGL Major Singapore (CST)",
+      "url": "https://www.twitch.tv/watchfulTV",
+      "status": "confirmed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "126439",
+          "code": "Lynn Vision",
+          "name": "Lynn Vision"
+        },
+        "home": {
+          "id": "139565",
+          "code": "PVISION",
+          "name": "PVISION"
+        }
+      },
+      "details": {
+        "赛事": "PGL Major",
+        "赛季": "新加坡",
+        "阶段": "Stage 1",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1816926",
+      "name": "PGL Major 新加坡 · Stage 1 · Wildcard vs Chinggis Warriors",
+      "name_en": "PGL Major Singapore · Stage 1 · Wildcard vs Chinggis Warriors",
+      "date": "2026-11-26",
+      "time": "19:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Wildcard vs Chinggis Warriors — PGL Major 新加坡（北京时间）",
+      "description_en": "Wildcard vs Chinggis Warriors — PGL Major Singapore (CST)",
+      "url": "https://www.twitch.tv/izakooo",
+      "status": "confirmed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "135273",
+          "code": "Wildcard",
+          "name": "Wildcard"
+        },
+        "home": {
+          "id": "134264",
+          "code": "Chinggis Warriors",
+          "name": "Chinggis Warriors"
+        }
+      },
+      "details": {
+        "赛事": "PGL Major",
+        "赛季": "新加坡",
+        "阶段": "Stage 1",
+        "赛制": "BO3"
+      }
+    },
+    {
+      "id": "cs2-2026-m1816925",
+      "name": "PGL Major 新加坡 · Stage 1 · Imperial vs Liquid",
+      "name_en": "PGL Major Singapore · Stage 1 · Imperial vs Liquid",
+      "date": "2026-11-26",
+      "time": "19:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Imperial vs Liquid — PGL Major 新加坡（北京时间）",
+      "description_en": "Imperial vs Liquid — PGL Major Singapore (CST)",
+      "url": "https://www.twitch.tv/watchfulTV",
+      "status": "confirmed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "126377",
+          "code": "Imperial",
+          "name": "Imperial"
         },
         "home": {
           "id": "3213",
