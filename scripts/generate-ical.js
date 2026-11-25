@@ -86,6 +86,10 @@ const SUBCATEGORY_MAP = {
   'fgo': 'gacha',
   'reverse1999': 'gacha',
   'love-and-deepspace': 'gacha',
+  'arknights-endfield': 'gacha',
+  'neverness-to-everness': 'gacha',
+  'infinity-nikki': 'gacha',
+  'nikke-cn': 'gacha',
   'final-fantasy-xiv': 'updates',
   // platform (gaming)
   'epic-free': 'platform',
@@ -505,13 +509,16 @@ function bannerDescription(event, isEn = false) {
         const rank = /^[SAB]$/.test(String(rarity))
         const roster = rosterKind === 'available' ? (isEn ? 'available' : '可获得')
           : rosterKind === 'selectable' ? (isEn ? 'selectable' : '可选') : (isEn ? 'rate-up' : 'UP')
-        const label = isEn ? `${rarity}-${rank ? 'rank' : 'star'} ${roster}` : `${rarity}${rank ? '级' : '星'} ${roster}`
+        const label = rarity == null ? roster : rarity === 'SSR' ? `SSR ${roster}`
+          : rarity === 'star-crown' ? `${isEn ? 'Star Crown' : '星冕'} ${roster}`
+          : isEn ? `${rarity}-${rank ? 'rank' : 'star'} ${roster}` : `${rarity}${rank ? '级' : '星'} ${roster}`
         const itemType = kind ? isEn ? ' Craft Essences' : ' 礼装' : ''
         lines.push(`${label}${itemType}: ${visible.join(' / ')}`)
       }
     }
-    appendItems(primaryItems, banner.featured_s ? 'S' : 5)
-    appendItems(secondaryItems, banner.featured_a ? 'A' : 4, banner.secondary_roster_kind ?? banner.roster_kind)
+    const explicitOutfitRarity = event.game?.game_id === 'infinity-nikki'
+    appendItems(primaryItems, explicitOutfitRarity ? undefined : banner.featured_s ? 'S' : 5)
+    appendItems(secondaryItems, explicitOutfitRarity ? undefined : banner.featured_a ? 'A' : 4, banner.secondary_roster_kind ?? banner.roster_kind)
     return lines.join('\n')
   }).join('\n')
 }

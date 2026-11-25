@@ -1,0 +1,2525 @@
+{
+  "id": "arknights-endfield",
+  "name": "明日方舟：终末地活动日历",
+  "category": "gaming",
+  "name_en": "Arknights: Endfield Event Calendar",
+  "subcategory": "游戏更新",
+  "description": "明日方舟：终末地国服卡池、限时活动及维护日程。",
+  "description_en": "Arknights: Endfield CN-server banners, limited-time events, and maintenance.",
+  "icon": "/logos/games/arknights-endfield.jpg",
+  "tags": [
+    "终末地",
+    "寻访",
+    "申领"
+  ],
+  "tags_en": [
+    "Endfield",
+    "Headhunting",
+    "Arsenal Issues"
+  ],
+  "maintainer": "community",
+  "source_url": "https://endfield.hypergryph.com/news",
+  "events": [
+    {
+      "id": "arknights-endfield-endfield-2653-04925070ffd7",
+      "name": "明日方舟：终末地 · 幽寒申领",
+      "name_en": "Arknights: Endfield · Deep Frost Arsenal Issue",
+      "date": "2026-09-02",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2026,
+      "description": "幽寒申领",
+      "description_en": "Deep Frost Arsenal Issue",
+      "url": "https://endfield.hypergryph.com/news/2653",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "「雪凇幽梦」版本更新后开启,于3次「特许寻访」后结束(从「冬猎」起计算)",
+        "start_time": "版本更新后",
+        "publication_date": "2026-09-02",
+        "end_note": "于3次「特许寻访」后结束(从「冬猎」起计算)"
+      },
+      "details_en": {
+        "official_time": "2026-09-02",
+        "start_time": "After the version update",
+        "publication_date": "2026-09-02",
+        "end_note": "Ends after 3 Chartered Headhunting banners, counting from Winter Hunt.",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "source_content_id": "endfield-2653",
+        "source_title": "「雪凇幽梦」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/2653",
+        "version": "雪凇幽梦",
+        "activity_name": "幽寒申领"
+      },
+      "banners": [
+        {
+          "type": "weapon",
+          "name": "幽寒申领",
+          "name_en": "Deep Frost Arsenal Issue",
+          "roster_kind": "rate_up",
+          "featured_5": [
+            {
+              "name": "寒夜幽影",
+              "rarity": 6
+            }
+          ],
+          "source_content_id": "endfield-2653",
+          "source_url": "https://endfield.hypergryph.com/news/2653"
+        }
+      ]
+    },
+    {
+      "id": "arknights-endfield-endfield-2653-0af5ea68e45d",
+      "name": "明日方舟：终末地 · 冬猎",
+      "name_en": "Arknights: Endfield · Winter Hunt",
+      "date": "2026-09-02",
+      "end_date": "2026-09-30",
+      "end_time": "11:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "冬猎",
+      "description_en": "Winter Hunt",
+      "url": "https://endfield.hypergryph.com/news/2653",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "「雪凇幽梦」版本更新后 - 2026/09/30 11:59(服务器时间)",
+        "start_time": "版本更新后",
+        "end_time": "2026-09-30 11:59",
+        "publication_date": "2026-09-02"
+      },
+      "details_en": {
+        "official_time": "2026-09-02 – 2026-09-30 11:59",
+        "start_time": "After the version update",
+        "end_time": "2026-09-30 11:59",
+        "publication_date": "2026-09-02",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "source_content_id": "endfield-2653",
+        "source_title": "「雪凇幽梦」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/2653",
+        "version": "雪凇幽梦",
+        "activity_name": "冬猎"
+      },
+      "banners": [
+        {
+          "type": "character",
+          "name": "冬猎",
+          "name_en": "Winter Hunt",
+          "roster_kind": "rate_up",
+          "featured_5": [
+            {
+              "name": "提弗洛斯",
+              "rarity": 6
+            }
+          ],
+          "source_content_id": "endfield-2653",
+          "source_url": "https://endfield.hypergryph.com/news/2653"
+        }
+      ]
+    },
+    {
+      "id": "arknights-endfield-endfield-2653-3a40d29b60f5",
+      "name": "明日方舟：终末地 · 虚像赛季",
+      "name_en": "Arknights: Endfield · Illusion Season",
+      "date": "2026-09-02",
+      "end_date": "2026-09-24",
+      "end_time": "11:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "虚像赛季",
+      "description_en": "Illusion Season",
+      "url": "https://endfield.hypergryph.com/news/2653",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "「雪凇幽梦」版本更新后 - 2026/09/24 11:59(服务器时间)",
+        "start_time": "版本更新后",
+        "end_time": "2026-09-24 11:59",
+        "publication_date": "2026-09-02"
+      },
+      "details_en": {
+        "official_time": "2026-09-02 – 2026-09-24 11:59",
+        "start_time": "After the version update",
+        "end_time": "2026-09-24 11:59",
+        "publication_date": "2026-09-02",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-2653",
+        "source_title": "「雪凇幽梦」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/2653",
+        "version": "雪凇幽梦",
+        "activity_name": "虚像赛季"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-2653-46e092d65d3d",
+      "name": "明日方舟：终末地 · 雪降深林",
+      "name_en": "Arknights: Endfield · Snow in the Deep Forest",
+      "date": "2026-09-02",
+      "end_date": "2026-09-30",
+      "end_time": "12:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "前往「武陵」地区的「雪松林」区域完成指定任务，即可领取【嵌晶玉】×1200、【存续的痕迹】活动奖励。",
+      "description_en": "Snow in the Deep Forest",
+      "url": "https://endfield.hypergryph.com/news/2653",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "「雪凇幽梦」版本更新后 - 2026/09/30 12:00(服务器时间)",
+        "start_time": "版本更新后",
+        "end_time": "2026-09-30 12:00",
+        "publication_date": "2026-09-02"
+      },
+      "details_en": {
+        "official_time": "2026-09-02 – 2026-09-30 12:00",
+        "start_time": "After the version update",
+        "end_time": "2026-09-30 12:00",
+        "publication_date": "2026-09-02",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-2653",
+        "source_title": "「雪凇幽梦」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/2653",
+        "version": "雪凇幽梦",
+        "activity_name": "雪降深林"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-2653-86479b9e8807",
+      "name": "明日方舟：终末地 · 雪凇幽梦 · 停服维护",
+      "name_en": "Arknights: Endfield · Frostbound Dreams · Server Maintenance",
+      "date": "2026-09-02",
+      "end_date": "2026-09-02",
+      "time": "06:00",
+      "end_time": "12:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "雪凇幽梦 · 停服维护",
+      "description_en": "Frostbound Dreams · Server Maintenance",
+      "url": "https://endfield.hypergryph.com/news/2653",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/09/02 06:00 - 2026/09/02 12:00(UTC+8)",
+        "publication_date": "2026-09-02"
+      },
+      "details_en": {
+        "official_time": "2026-09-02 06:00 – 2026-09-02 12:00",
+        "publication_date": "2026-09-02",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "maintenance",
+        "source_content_id": "endfield-2653",
+        "source_title": "「雪凇幽梦」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/2653",
+        "version": "雪凇幽梦",
+        "activity_name": "雪凇幽梦 · 停服维护"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-2653-4dcc433d674e",
+      "name": "明日方舟：终末地 · 挽弓试炼",
+      "name_en": "Arknights: Endfield · Archery Trial",
+      "date": "2026-09-09",
+      "end_date": "2026-10-15",
+      "time": "12:00",
+      "end_time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "活动期间，完成「提弗洛斯的靶场」中的模拟训练和活动相关试炼任务，即可领取【嵌晶玉】×1200、【高级认知载体】、【存续的痕迹】及【高阶培养自选箱Ⅰ】等活动奖励。",
+      "description_en": "Archery Trial",
+      "url": "https://endfield.hypergryph.com/news/2653",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/09/09 12:00(服务器时间) - 版本更新维护前",
+        "publication_date": "2026-09-02",
+        "anchor_url": "https://endfield.hypergryph.com/news/6094"
+      },
+      "details_en": {
+        "official_time": "2026-09-09 12:00 – 2026-10-15 06:00",
+        "publication_date": "2026-09-02",
+        "anchor_url": "https://endfield.hypergryph.com/news/6094",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-2653",
+        "source_title": "「雪凇幽梦」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/2653",
+        "version": "雪凇幽梦",
+        "activity_name": "挽弓试炼"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-2653-995f2a43bec1",
+      "name": "明日方舟：终末地 · 集成援助·泡泡出击",
+      "name_en": "Arknights: Endfield · Integrated Support: Bubble Deployment",
+      "date": "2026-09-16",
+      "end_date": "2026-09-30",
+      "time": "12:00",
+      "end_time": "16:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "活动期间，完成特定任务以解锁援助物品配方与物资兑换处。生产援助物品并提交至据点可额外获得【援助成果券】，用以在物资兑换处兑换物资。累计可兑换【嵌晶玉】×1600、【头像·泡泡出击】、【存续的痕迹】、【高阶培养自选箱Ⅰ】及【高级认知载体】等活动奖励。",
+      "description_en": "Integrated Support: Bubble Deployment",
+      "url": "https://endfield.hypergryph.com/news/2653",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/09/16 12:00 - 2026/09/30 16:00(服务器时间)",
+        "publication_date": "2026-09-02"
+      },
+      "details_en": {
+        "official_time": "2026-09-16 12:00 – 2026-09-30 16:00",
+        "publication_date": "2026-09-02",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-2653",
+        "source_title": "「雪凇幽梦」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/2653",
+        "version": "雪凇幽梦",
+        "activity_name": "集成援助·泡泡出击"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-2653-cb473e1749a5",
+      "name": "明日方舟：终末地 · 理智补给 · 1",
+      "name_en": "Arknights: Endfield · Sanity Supply · 1",
+      "date": "2026-09-17",
+      "end_date": "2026-09-24",
+      "time": "04:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "活动期间，每日完成指定任务即可获得理智补给奖励【理智消耗许可】及【应急理智加强剂】。",
+      "description_en": "Sanity Supply · 1",
+      "url": "https://endfield.hypergryph.com/news/2653",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/09/17 04:00 - 2026/09/24 04:00(服务器时间)",
+        "publication_date": "2026-09-02"
+      },
+      "details_en": {
+        "official_time": "2026-09-17 04:00 – 2026-09-24 04:00",
+        "publication_date": "2026-09-02",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-2653",
+        "source_title": "「雪凇幽梦」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/2653",
+        "version": "雪凇幽梦",
+        "activity_name": "理智补给 · 1"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-2653-58e9ed4bfe12",
+      "name": "明日方舟：终末地 · 绚丽异彩",
+      "name_en": "Arknights: Endfield · Brilliant Colors",
+      "date": "2026-09-24",
+      "end_date": "2026-10-15",
+      "time": "12:00",
+      "end_time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "绚丽异彩",
+      "description_en": "Brilliant Colors",
+      "url": "https://endfield.hypergryph.com/news/2653",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/09/24 12:00(服务器时间) - 版本更新维护前",
+        "publication_date": "2026-09-02",
+        "anchor_url": "https://endfield.hypergryph.com/news/6094"
+      },
+      "details_en": {
+        "official_time": "2026-09-24 12:00 – 2026-10-15 06:00",
+        "publication_date": "2026-09-02",
+        "anchor_url": "https://endfield.hypergryph.com/news/6094",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "source_content_id": "endfield-2653",
+        "source_title": "「雪凇幽梦」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/2653",
+        "version": "雪凇幽梦",
+        "activity_name": "绚丽异彩"
+      },
+      "banners": [
+        {
+          "type": "character",
+          "name": "绚丽异彩",
+          "name_en": "Brilliant Colors",
+          "roster_kind": "rate_up",
+          "featured_5": [
+            {
+              "name": "伊冯",
+              "rarity": 6
+            }
+          ],
+          "source_content_id": "endfield-2653",
+          "source_url": "https://endfield.hypergryph.com/news/2653"
+        }
+      ]
+    },
+    {
+      "id": "arknights-endfield-endfield-2653-678592d6c283",
+      "name": "明日方舟：终末地 · 点绘申领",
+      "name_en": "Arknights: Endfield · Pointillist Arsenal Issue",
+      "date": "2026-09-24",
+      "end_date": "2026-10-15",
+      "time": "12:00",
+      "end_time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "点绘申领",
+      "description_en": "Pointillist Arsenal Issue",
+      "url": "https://endfield.hypergryph.com/news/2653",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/09/24 12:00(服务器时间) - 版本更新维护前",
+        "publication_date": "2026-09-02",
+        "anchor_url": "https://endfield.hypergryph.com/news/6094"
+      },
+      "details_en": {
+        "official_time": "2026-09-24 12:00 – 2026-10-15 06:00",
+        "publication_date": "2026-09-02",
+        "anchor_url": "https://endfield.hypergryph.com/news/6094",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "source_content_id": "endfield-2653",
+        "source_title": "「雪凇幽梦」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/2653",
+        "version": "雪凇幽梦",
+        "activity_name": "点绘申领"
+      },
+      "banners": [
+        {
+          "type": "weapon",
+          "name": "点绘申领",
+          "name_en": "Pointillist Arsenal Issue",
+          "roster_kind": "rate_up",
+          "featured_5": [
+            {
+              "name": "艺术暴君",
+              "rarity": 6
+            }
+          ],
+          "source_content_id": "endfield-2653",
+          "source_url": "https://endfield.hypergryph.com/news/2653"
+        }
+      ]
+    },
+    {
+      "id": "arknights-endfield-endfield-2653-908b2050db0b",
+      "name": "明日方舟：终末地 · 于钟鸣的旧城",
+      "name_en": "Arknights: Endfield · Old City of Ringing Bells",
+      "date": "2026-09-24",
+      "end_date": "2026-10-15",
+      "time": "12:00",
+      "end_time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "前往「武陵」地区的「遂明」完成指定任务，即可领取【嵌晶玉】×1200、【存续的痕迹】活动奖励。",
+      "description_en": "Old City of Ringing Bells",
+      "url": "https://endfield.hypergryph.com/news/2653",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/09/24 12:00(服务器时间) - 版本更新维护前",
+        "publication_date": "2026-09-02",
+        "anchor_url": "https://endfield.hypergryph.com/news/6094"
+      },
+      "details_en": {
+        "official_time": "2026-09-24 12:00 – 2026-10-15 06:00",
+        "publication_date": "2026-09-02",
+        "anchor_url": "https://endfield.hypergryph.com/news/6094",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-2653",
+        "source_title": "「雪凇幽梦」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/2653",
+        "version": "雪凇幽梦",
+        "activity_name": "于钟鸣的旧城"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-2653-e18234e8efd3",
+      "name": "明日方舟：终末地 · 我们的大菲林！来袭！",
+      "name_en": "Arknights: Endfield · Here Comes Our Great Feline!",
+      "date": "2026-09-24",
+      "end_date": "2026-10-15",
+      "time": "12:00",
+      "end_time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "活动期间登录游戏，参与各类玩法，即可领取全新5星干员【噗切娜】、【噗切娜的信物】×5及全新5星武器【点心时刻（单手剑）】×6。",
+      "description_en": "Here Comes Our Great Feline!",
+      "url": "https://endfield.hypergryph.com/news/2653",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/09/24 12:00(服务器时间) - 版本更新维护前",
+        "publication_date": "2026-09-02",
+        "anchor_url": "https://endfield.hypergryph.com/news/6094"
+      },
+      "details_en": {
+        "official_time": "2026-09-24 12:00 – 2026-10-15 06:00",
+        "publication_date": "2026-09-02",
+        "anchor_url": "https://endfield.hypergryph.com/news/6094",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-2653",
+        "source_title": "「雪凇幽梦」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/2653",
+        "version": "雪凇幽梦",
+        "activity_name": "我们的大菲林！来袭！"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-2653-f1de37fd7fff",
+      "name": "明日方舟：终末地 · 错视赛季",
+      "name_en": "Arknights: Endfield · Optical Illusion Season",
+      "date": "2026-09-24",
+      "end_date": "2026-10-15",
+      "time": "12:00",
+      "end_time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "错视赛季",
+      "description_en": "Optical Illusion Season",
+      "url": "https://endfield.hypergryph.com/news/2653",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/09/24 12:00(服务器时间) - 版本更新维护前",
+        "publication_date": "2026-09-02",
+        "anchor_url": "https://endfield.hypergryph.com/news/6094"
+      },
+      "details_en": {
+        "official_time": "2026-09-24 12:00 – 2026-10-15 06:00",
+        "publication_date": "2026-09-02",
+        "anchor_url": "https://endfield.hypergryph.com/news/6094",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-2653",
+        "source_title": "「雪凇幽梦」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/2653",
+        "version": "雪凇幽梦",
+        "activity_name": "错视赛季"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-2653-6f42537f552f",
+      "name": "明日方舟：终末地 · 融合！山团团！",
+      "name_en": "Arknights: Endfield · Mountain Slug Fusion!",
+      "date": "2026-10-01",
+      "end_date": "2026-10-15",
+      "time": "12:00",
+      "end_time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "前往网页活动，通过融合山团团获取积分，完成指定任务，可领取【嵌晶玉】×300、【折金票】活动奖励。",
+      "description_en": "Mountain Slug Fusion!",
+      "url": "https://endfield.hypergryph.com/news/2653",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/10/01 12:00(服务器时间) - 版本更新维护前",
+        "publication_date": "2026-09-02",
+        "anchor_url": "https://endfield.hypergryph.com/news/6094"
+      },
+      "details_en": {
+        "official_time": "2026-10-01 12:00 – 2026-10-15 06:00",
+        "publication_date": "2026-09-02",
+        "anchor_url": "https://endfield.hypergryph.com/news/6094",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-2653",
+        "source_title": "「雪凇幽梦」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/2653",
+        "version": "雪凇幽梦",
+        "activity_name": "融合！山团团！"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-2653-cd6adda33d84",
+      "name": "明日方舟：终末地 · 陵水渡秋",
+      "name_en": "Arknights: Endfield · Autumn Waters Crossing",
+      "date": "2026-10-01",
+      "end_date": "2026-10-15",
+      "time": "12:00",
+      "end_time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "活动期间，累计完成7日签到可领取【嵌晶玉】×1500、【头像·跑动行进】及【“滚动龙泡泡”特饮】等奖励。",
+      "description_en": "Autumn Waters Crossing",
+      "url": "https://endfield.hypergryph.com/news/2653",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/10/01 12:00(服务器时间) - 版本更新维护前",
+        "publication_date": "2026-09-02",
+        "anchor_url": "https://endfield.hypergryph.com/news/6094"
+      },
+      "details_en": {
+        "official_time": "2026-10-01 12:00 – 2026-10-15 06:00",
+        "publication_date": "2026-09-02",
+        "anchor_url": "https://endfield.hypergryph.com/news/6094",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-2653",
+        "source_title": "「雪凇幽梦」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/2653",
+        "version": "雪凇幽梦",
+        "activity_name": "陵水渡秋"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-2653-e88599d7b16e",
+      "name": "明日方舟：终末地 · 跑者运动会",
+      "name_en": "Arknights: Endfield · Runners’ Sports Meet",
+      "date": "2026-10-01",
+      "end_date": "2026-10-15",
+      "time": "12:00",
+      "end_time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "活动期间，以3星成绩完成赛道，收集气球并在跑者历程中达成对应跑者节点，即可领取【嵌晶玉】×1200、【头像框·冠军跑者】及【“滚动龙泡泡”特饮】等活动奖励。",
+      "description_en": "Runners’ Sports Meet",
+      "url": "https://endfield.hypergryph.com/news/2653",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/10/01 12:00(服务器时间) - 版本更新维护前",
+        "publication_date": "2026-09-02",
+        "anchor_url": "https://endfield.hypergryph.com/news/6094"
+      },
+      "details_en": {
+        "official_time": "2026-10-01 12:00 – 2026-10-15 06:00",
+        "publication_date": "2026-09-02",
+        "anchor_url": "https://endfield.hypergryph.com/news/6094",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-2653",
+        "source_title": "「雪凇幽梦」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/2653",
+        "version": "雪凇幽梦",
+        "activity_name": "跑者运动会"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-2653-512517007dff",
+      "name": "明日方舟：终末地 · 影拓丰碑",
+      "name_en": "Arknights: Endfield · Monument Challenge",
+      "date": "2026-10-05",
+      "end_date": "2026-10-19",
+      "time": "12:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "「幽影刻形」系列开放后，将开启「丰碑留名·刻影」限时活动。活动期间在「影拓丰碑」完成对应挑战，即可领取【嵌晶玉】×1200、【高阶培养自选箱Ⅰ】等活动奖励。",
+      "description_en": "Monument Challenge",
+      "url": "https://endfield.hypergryph.com/news/2653",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/10/05 12:00 - 2026/10/19 04:00(服务器时间)",
+        "publication_date": "2026-09-02"
+      },
+      "details_en": {
+        "official_time": "2026-10-05 12:00 – 2026-10-19 04:00",
+        "publication_date": "2026-09-02",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-2653",
+        "source_title": "「雪凇幽梦」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/2653",
+        "version": "雪凇幽梦",
+        "activity_name": "影拓丰碑"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-2653-9a843933759c",
+      "name": "明日方舟：终末地 · 理智补给 · 2",
+      "name_en": "Arknights: Endfield · Sanity Supply · 2",
+      "date": "2026-10-08",
+      "end_date": "2026-10-15",
+      "time": "04:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "活动期间，每日完成指定任务即可获得理智补给奖励【理智消耗许可】及【应急理智加强剂】。",
+      "description_en": "Sanity Supply · 2",
+      "url": "https://endfield.hypergryph.com/news/2653",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/10/08 04:00 - 2026/10/15 04:00(服务器时间)",
+        "publication_date": "2026-09-02"
+      },
+      "details_en": {
+        "official_time": "2026-10-08 04:00 – 2026-10-15 04:00",
+        "publication_date": "2026-09-02",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-2653",
+        "source_title": "「雪凇幽梦」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/2653",
+        "version": "雪凇幽梦",
+        "activity_name": "理智补给 · 2"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-6094-11b7fcbc458e",
+      "name": "明日方舟：终末地 · 异想赛季",
+      "name_en": "Arknights: Endfield · Imagination Season",
+      "date": "2026-10-15",
+      "end_date": "2026-11-05",
+      "end_time": "11:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "异想赛季",
+      "description_en": "Imagination Season",
+      "url": "https://endfield.hypergryph.com/news/6094",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "「丹青渡」版本更新后 - 2026/11/05 11:59(服务器时间)",
+        "start_time": "版本更新后",
+        "end_time": "2026-11-05 11:59",
+        "publication_date": "2026-10-15"
+      },
+      "details_en": {
+        "official_time": "2026-10-15 – 2026-11-05 11:59",
+        "start_time": "After the version update",
+        "end_time": "2026-11-05 11:59",
+        "publication_date": "2026-10-15",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-6094",
+        "source_title": "「丹青渡」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/6094",
+        "version": "丹青渡",
+        "activity_name": "异想赛季"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-6094-14aeba91ba3f",
+      "name": "明日方舟：终末地 · 烟火生缘",
+      "name_en": "Arknights: Endfield · Firework Encounters",
+      "date": "2026-10-15",
+      "end_date": "2026-11-25",
+      "end_time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "前往「武陵」地区的「祀的画」区域，经营「缘缘庄客栈」，完成相应的经营任务，提升经营里程，即可领取【嵌晶玉】×1000、【存续的痕迹】等奖励。",
+      "description_en": "Firework Encounters",
+      "url": "https://endfield.hypergryph.com/news/6094",
+      "status": "active",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "「丹青渡」版本更新后 - 版本更新维护前",
+        "start_time": "版本更新后",
+        "end_time": "2026-11-25 06:00",
+        "publication_date": "2026-10-15",
+        "anchor_url": "https://endfield.hypergryph.com/news/5979"
+      },
+      "details_en": {
+        "official_time": "2026-10-15 – 2026-11-25 06:00",
+        "start_time": "After the version update",
+        "end_time": "2026-11-25 06:00",
+        "publication_date": "2026-10-15",
+        "anchor_url": "https://endfield.hypergryph.com/news/5979",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-6094",
+        "source_title": "「丹青渡」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/6094",
+        "version": "丹青渡",
+        "activity_name": "烟火生缘"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-6094-b49f816917cd",
+      "name": "明日方舟：终末地 · 万物有灵",
+      "name_en": "Arknights: Endfield · All Things Have a Spirit",
+      "date": "2026-10-15",
+      "end_date": "2026-11-05",
+      "end_time": "11:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "累计签到7日，即可获得【万物有灵寻访凭证】×5等奖励。",
+      "description_en": "All Things Have a Spirit",
+      "url": "https://endfield.hypergryph.com/news/6094",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "「丹青渡」版本更新后 - 2026/11/05 11:59(服务器时间)",
+        "start_time": "版本更新后",
+        "end_time": "2026-11-05 11:59",
+        "publication_date": "2026-10-15"
+      },
+      "details_en": {
+        "official_time": "2026-10-15 – 2026-11-05 11:59",
+        "start_time": "After the version update",
+        "end_time": "2026-11-05 11:59",
+        "publication_date": "2026-10-15",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-6094",
+        "source_title": "「丹青渡」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/6094",
+        "version": "丹青渡",
+        "activity_name": "万物有灵"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-6094-fbec52e21681",
+      "name": "明日方舟：终末地 · 墨分诸彩",
+      "name_en": "Arknights: Endfield · Colors Within Ink",
+      "date": "2026-10-15",
+      "end_date": "2026-11-05",
+      "end_time": "12:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "前往「武陵」地区的「祀的画」区域完成指定任务，即可领取【嵌晶玉】×1200、【存续的痕迹】活动奖励。",
+      "description_en": "Colors Within Ink",
+      "url": "https://endfield.hypergryph.com/news/6094",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "「丹青渡」版本更新后 - 2026/11/05 12:00(服务器时间)",
+        "start_time": "版本更新后",
+        "end_time": "2026-11-05 12:00",
+        "publication_date": "2026-10-15"
+      },
+      "details_en": {
+        "official_time": "2026-10-15 – 2026-11-05 12:00",
+        "start_time": "After the version update",
+        "end_time": "2026-11-05 12:00",
+        "publication_date": "2026-10-15",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-6094",
+        "source_title": "「丹青渡」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/6094",
+        "version": "丹青渡",
+        "activity_name": "墨分诸彩"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-7212-2f51165baf51",
+      "name": "明日方舟：终末地 · 篆玉申领",
+      "name_en": "Arknights: Endfield · Carved Jade Arsenal Issue",
+      "date": "2026-10-15",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2026,
+      "description": "篆玉申领",
+      "description_en": "Carved Jade Arsenal Issue",
+      "url": "https://endfield.hypergryph.com/news/7212",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "「丹青渡」版本更新后开启,于3次「特许寻访」后结束(从「万物更新」起计算)",
+        "start_time": "版本更新后",
+        "publication_date": "2026-10-14",
+        "end_note": "于3次「特许寻访」后结束(从「万物更新」起计算)"
+      },
+      "details_en": {
+        "official_time": "2026-10-15",
+        "start_time": "After the version update",
+        "publication_date": "2026-10-14",
+        "end_note": "Ends after 3 Chartered Headhunting banners, counting from All Things Renewed.",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "source_content_id": "endfield-7212",
+        "source_title": "「篆玉申领」限时特卖说明",
+        "source_url": "https://endfield.hypergryph.com/news/7212",
+        "version": "丹青渡",
+        "activity_name": "篆玉申领"
+      },
+      "banners": [
+        {
+          "type": "weapon",
+          "name": "篆玉申领",
+          "name_en": "Carved Jade Arsenal Issue",
+          "roster_kind": "rate_up",
+          "featured_5": [
+            {
+              "name": "玉中身",
+              "rarity": 6
+            }
+          ],
+          "source_content_id": "endfield-7212",
+          "source_url": "https://endfield.hypergryph.com/news/7212"
+        }
+      ]
+    },
+    {
+      "id": "arknights-endfield-endfield-8548-db22beb1bec6",
+      "name": "明日方舟：终末地 · 万物更新",
+      "name_en": "Arknights: Endfield · All Things Renewed",
+      "date": "2026-10-15",
+      "end_date": "2026-11-05",
+      "end_time": "11:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "万物更新",
+      "description_en": "All Things Renewed",
+      "url": "https://endfield.hypergryph.com/news/8548",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "「丹青渡」版本更新后 - 2026/11/05 11:59(服务器时间)",
+        "start_time": "版本更新后",
+        "end_time": "2026-11-05 11:59",
+        "publication_date": "2026-10-14"
+      },
+      "details_en": {
+        "official_time": "2026-10-15 – 2026-11-05 11:59",
+        "start_time": "After the version update",
+        "end_time": "2026-11-05 11:59",
+        "publication_date": "2026-10-14",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "source_content_id": "endfield-8548",
+        "source_title": "「万物更新」特许寻访说明",
+        "source_url": "https://endfield.hypergryph.com/news/8548",
+        "version": "丹青渡",
+        "activity_name": "万物更新"
+      },
+      "banners": [
+        {
+          "type": "character",
+          "name": "万物更新",
+          "name_en": "All Things Renewed",
+          "roster_kind": "rate_up",
+          "featured_5": [
+            {
+              "name": "祀",
+              "rarity": 6,
+              "name_en": "Si"
+            }
+          ],
+          "source_content_id": "endfield-8548",
+          "source_url": "https://endfield.hypergryph.com/news/8548"
+        }
+      ]
+    },
+    {
+      "id": "arknights-endfield-endfield-6094-dcb33368d84a",
+      "name": "明日方舟：终末地 · 丹青渡 · 停服维护",
+      "name_en": "Arknights: Endfield · Dyeing the Crossing · Server Maintenance",
+      "date": "2026-10-15",
+      "end_date": "2026-10-15",
+      "time": "06:00",
+      "end_time": "12:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "丹青渡 · 停服维护",
+      "description_en": "Dyeing the Crossing · Server Maintenance",
+      "url": "https://endfield.hypergryph.com/news/6094",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/10/15 06:00 - 2026/10/15 12:00(UTC+8)",
+        "publication_date": "2026-10-15"
+      },
+      "details_en": {
+        "official_time": "2026-10-15 06:00 – 2026-10-15 12:00",
+        "publication_date": "2026-10-15",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "maintenance",
+        "source_content_id": "endfield-6094",
+        "source_title": "「丹青渡」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/6094",
+        "version": "丹青渡",
+        "activity_name": "丹青渡 · 停服维护"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-6094-512517007dff",
+      "name": "明日方舟：终末地 · 影拓丰碑",
+      "name_en": "Arknights: Endfield · Monument Challenge",
+      "date": "2026-10-22",
+      "end_date": "2026-11-05",
+      "time": "12:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "「深林呓语」系列开放后，将开启「丰碑留名·魇林」限时活动。活动期间在「影拓丰碑」完成对应挑战，即可领取【嵌晶玉】×1200、【高阶培养自选箱Ⅱ】等活动奖励。",
+      "description_en": "Monument Challenge",
+      "url": "https://endfield.hypergryph.com/news/6094",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/10/22 12:00 - 2026/11/05 04:00(服务器时间)",
+        "publication_date": "2026-10-15"
+      },
+      "details_en": {
+        "official_time": "2026-10-22 12:00 – 2026-11-05 04:00",
+        "publication_date": "2026-10-15",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-6094",
+        "source_title": "「丹青渡」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/6094",
+        "version": "丹青渡",
+        "activity_name": "影拓丰碑"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-6094-99ad7bfb3f05",
+      "name": "明日方舟：终末地 · 卡莉的芳菲童话",
+      "name_en": "Arknights: Endfield · Kali’s Floral Fairy Tale",
+      "date": "2026-10-22",
+      "end_date": "2026-11-05",
+      "time": "12:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "完成拍照任务，即可获得【嵌晶玉】×1500、【头像框·卡莉的芳菲集】、【存续的痕迹】等活动奖励。",
+      "description_en": "Kali’s Floral Fairy Tale",
+      "url": "https://endfield.hypergryph.com/news/6094",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/10/22 12:00 - 2026/11/05 04:00(服务器时间)",
+        "publication_date": "2026-10-15"
+      },
+      "details_en": {
+        "official_time": "2026-10-22 12:00 – 2026-11-05 04:00",
+        "publication_date": "2026-10-15",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-6094",
+        "source_title": "「丹青渡」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/6094",
+        "version": "丹青渡",
+        "activity_name": "卡莉的芳菲童话"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-6094-f775daf95c18",
+      "name": "明日方舟：终末地 · 危机筹备",
+      "name_en": "Arknights: Endfield · Crisis Preparations",
+      "date": "2026-10-29",
+      "end_date": "2026-11-05",
+      "time": "04:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "活动期间，每日完成指定任务即可获得【理智消耗许可】【应急理智加强剂】【武陵精锻助剂】及【冷却脂】活动奖励。",
+      "description_en": "Crisis Preparations",
+      "url": "https://endfield.hypergryph.com/news/6094",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/10/29 04:00 - 2026/11/05 04:00(服务器时间)",
+        "publication_date": "2026-10-15"
+      },
+      "details_en": {
+        "official_time": "2026-10-29 04:00 – 2026-11-05 04:00",
+        "publication_date": "2026-10-15",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-6094",
+        "source_title": "「丹青渡」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/6094",
+        "version": "丹青渡",
+        "activity_name": "危机筹备"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-3893-67d9f2ffe0b3",
+      "name": "明日方舟：终末地 · 祖泉的新流",
+      "name_en": "Arknights: Endfield · New Currents of the Ancestral Spring",
+      "date": "2026-10-29",
+      "end_date": "2026-11-19",
+      "time": "12:00",
+      "end_time": "11:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "祖泉的新流",
+      "description_en": "New Currents of the Ancestral Spring",
+      "url": "https://endfield.hypergryph.com/news/3893",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/10/29 12:00 - 2026/11/19 11:59(服务器时间)",
+        "publication_date": "2026-10-28"
+      },
+      "details_en": {
+        "official_time": "2026-10-29 12:00 – 2026-11-19 11:59",
+        "publication_date": "2026-10-28",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "source_content_id": "endfield-3893",
+        "source_title": "「祖泉的新流」重构寻访1与「细枝申领」重构申领1开放",
+        "source_url": "https://endfield.hypergryph.com/news/3893",
+        "activity_name": "祖泉的新流"
+      },
+      "banners": [
+        {
+          "type": "character",
+          "name": "祖泉的新流",
+          "name_en": "New Currents of the Ancestral Spring",
+          "roster_kind": "rate_up",
+          "featured_5": [
+            {
+              "name": "汤汤",
+              "rarity": 6
+            }
+          ],
+          "source_content_id": "endfield-3893",
+          "source_url": "https://endfield.hypergryph.com/news/3893"
+        }
+      ]
+    },
+    {
+      "id": "arknights-endfield-endfield-3893-6e64ce2500c9",
+      "name": "明日方舟：终末地 · 细枝申领",
+      "name_en": "Arknights: Endfield · Twig Arsenal Issue",
+      "date": "2026-10-29",
+      "end_date": "2026-11-19",
+      "time": "12:00",
+      "end_time": "11:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "细枝申领",
+      "description_en": "Twig Arsenal Issue",
+      "url": "https://endfield.hypergryph.com/news/3893",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/10/29 12:00 - 2026/11/19 11:59(服务器时间)",
+        "publication_date": "2026-10-28"
+      },
+      "details_en": {
+        "official_time": "2026-10-29 12:00 – 2026-11-19 11:59",
+        "publication_date": "2026-10-28",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "source_content_id": "endfield-3893",
+        "source_title": "「祖泉的新流」重构寻访1与「细枝申领」重构申领1开放",
+        "source_url": "https://endfield.hypergryph.com/news/3893",
+        "activity_name": "细枝申领"
+      },
+      "banners": [
+        {
+          "type": "weapon",
+          "name": "细枝申领",
+          "name_en": "Twig Arsenal Issue",
+          "roster_kind": "rate_up",
+          "featured_5": [
+            {
+              "name": "落草",
+              "rarity": 6
+            }
+          ],
+          "source_content_id": "endfield-3893",
+          "source_url": "https://endfield.hypergryph.com/news/3893"
+        }
+      ]
+    },
+    {
+      "id": "arknights-endfield-endfield-6094-3f7d344ecbba",
+      "name": "明日方舟：终末地 · 百趣演武",
+      "name_en": "Arknights: Endfield · Hundredfold Martial Trial",
+      "date": "2026-10-29",
+      "end_date": "2026-11-19",
+      "time": "12:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "活动期间挑战「百趣演武」，获取演武积分，达到演武历程中的全部档位，即可获得【嵌晶玉】×1200、【存续的痕迹】等活动奖励。",
+      "description_en": "Hundredfold Martial Trial",
+      "url": "https://endfield.hypergryph.com/news/6094",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/10/29 12:00 - 2026/11/19 04:00(服务器时间)",
+        "publication_date": "2026-10-15"
+      },
+      "details_en": {
+        "official_time": "2026-10-29 12:00 – 2026-11-19 04:00",
+        "publication_date": "2026-10-15",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-6094",
+        "source_title": "「丹青渡」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/6094",
+        "version": "丹青渡",
+        "activity_name": "百趣演武"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-6094-c1a71494658d",
+      "name": "明日方舟：终末地 · 予众魂的新光影",
+      "name_en": "Arknights: Endfield · New Light and Shadow for All Souls",
+      "date": "2026-10-31",
+      "end_date": "2026-11-14",
+      "time": "12:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "前往网页活动，通过搭配演员与道具完成故事拍摄，解锁不同结局，可领取【嵌晶玉】×300、【折金票】活动奖励。",
+      "description_en": "New Light and Shadow for All Souls",
+      "url": "https://endfield.hypergryph.com/news/6094",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/10/31 12:00 - 2026/11/14 04:00(服务器时间)",
+        "publication_date": "2026-10-15"
+      },
+      "details_en": {
+        "official_time": "2026-10-31 12:00 – 2026-11-14 04:00",
+        "publication_date": "2026-10-15",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-6094",
+        "source_title": "「丹青渡」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/6094",
+        "version": "丹青渡",
+        "activity_name": "予众魂的新光影"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-5971-ab5b9165ccdc",
+      "name": "明日方舟：终末地 · 月映申领",
+      "name_en": "Arknights: Endfield · Moon Reflection Arsenal Issue",
+      "date": "2026-11-05",
+      "time": "12:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "月映申领",
+      "description_en": "Moon Reflection Arsenal Issue",
+      "url": "https://endfield.hypergryph.com/news/5971",
+      "status": "completed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/11/05 12:00(服务器时间)开启,于3次「特许寻访」后结束(从「烟火邀星河」起计算)",
+        "publication_date": "2026-11-04",
+        "end_note": "于3次「特许寻访」后结束(从「烟火邀星河」起计算)"
+      },
+      "details_en": {
+        "official_time": "2026-11-05 12:00",
+        "publication_date": "2026-11-04",
+        "end_note": "Ends after 3 Chartered Headhunting banners, counting from Fireworks Invite the Stars.",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "source_content_id": "endfield-5971",
+        "source_title": "「月映申领」限时特卖说明",
+        "source_url": "https://endfield.hypergryph.com/news/5971",
+        "activity_name": "月映申领"
+      },
+      "banners": [
+        {
+          "type": "weapon",
+          "name": "月映申领",
+          "name_en": "Moon Reflection Arsenal Issue",
+          "roster_kind": "rate_up",
+          "featured_5": [
+            {
+              "name": "唤月",
+              "rarity": 6
+            }
+          ],
+          "source_content_id": "endfield-5971",
+          "source_url": "https://endfield.hypergryph.com/news/5971"
+        }
+      ]
+    },
+    {
+      "id": "arknights-endfield-endfield-6094-5bf2eaf2b30f",
+      "name": "明日方舟：终末地 · 星河共我",
+      "name_en": "Arknights: Endfield · Under the Same Stars",
+      "date": "2026-11-05",
+      "end_date": "2026-11-25",
+      "time": "12:00",
+      "end_time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "累计签到7日，即可获得【星河共我寻访凭证】×5等奖励。",
+      "description_en": "Under the Same Stars",
+      "url": "https://endfield.hypergryph.com/news/6094",
+      "status": "active",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/11/05 12:00(服务器时间) - 版本更新维护前",
+        "publication_date": "2026-10-15",
+        "anchor_url": "https://endfield.hypergryph.com/news/5979"
+      },
+      "details_en": {
+        "official_time": "2026-11-05 12:00 – 2026-11-25 06:00",
+        "publication_date": "2026-10-15",
+        "anchor_url": "https://endfield.hypergryph.com/news/5979",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-6094",
+        "source_title": "「丹青渡」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/6094",
+        "version": "丹青渡",
+        "activity_name": "星河共我"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-6094-6cbc38793964",
+      "name": "明日方舟：终末地 · 狂热赛季",
+      "name_en": "Arknights: Endfield · Frenzy Season",
+      "date": "2026-11-05",
+      "end_date": "2026-11-25",
+      "time": "12:00",
+      "end_time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "狂热赛季",
+      "description_en": "Frenzy Season",
+      "url": "https://endfield.hypergryph.com/news/6094",
+      "status": "active",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/11/05 12:00(服务器时间) - 版本更新维护前",
+        "publication_date": "2026-10-15",
+        "anchor_url": "https://endfield.hypergryph.com/news/5979"
+      },
+      "details_en": {
+        "official_time": "2026-11-05 12:00 – 2026-11-25 06:00",
+        "publication_date": "2026-10-15",
+        "anchor_url": "https://endfield.hypergryph.com/news/5979",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-6094",
+        "source_title": "「丹青渡」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/6094",
+        "version": "丹青渡",
+        "activity_name": "狂热赛季"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-6094-a780627607b8",
+      "name": "明日方舟：终末地 · 归野",
+      "name_en": "Arknights: Endfield · Return to the Wild",
+      "date": "2026-11-05",
+      "end_date": "2026-11-25",
+      "time": "12:00",
+      "end_time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "完成支线任务「归野」，可获得【嵌晶玉】×600、【初级认知载体】等奖励。",
+      "description_en": "Return to the Wild",
+      "url": "https://endfield.hypergryph.com/news/6094",
+      "status": "active",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/11/05 12:00(服务器时间) - 版本更新维护前",
+        "publication_date": "2026-10-15",
+        "anchor_url": "https://endfield.hypergryph.com/news/5979"
+      },
+      "details_en": {
+        "official_time": "2026-11-05 12:00 – 2026-11-25 06:00",
+        "publication_date": "2026-10-15",
+        "anchor_url": "https://endfield.hypergryph.com/news/5979",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-6094",
+        "source_title": "「丹青渡」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/6094",
+        "version": "丹青渡",
+        "activity_name": "归野"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-6094-fc2d537100e9",
+      "name": "明日方舟：终末地 · 危机合约 浸蓝测试作战",
+      "name_en": "Arknights: Endfield · Contingency Contract: Blue Immersion Test",
+      "date": "2026-11-05",
+      "end_date": "2026-11-25",
+      "time": "12:00",
+      "end_time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "活动期间，通过自由选择指标组合完成战斗挑战，达成活动任务目标可获得【头像·白刃的奖章】【头像框·危机响应】及【晶化硬币·浸蓝】奖励。消耗【晶化硬币·浸蓝】可在「机密圣所」中兑换【嵌晶玉】×2000、【贴纸·除危记号】【高阶培养自选箱Ⅱ】等丰富奖励。",
+      "description_en": "Contingency Contract: Blue Immersion Test",
+      "url": "https://endfield.hypergryph.com/news/6094",
+      "status": "active",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/11/05 12:00(服务器时间) - 版本更新维护前",
+        "publication_date": "2026-10-15",
+        "anchor_url": "https://endfield.hypergryph.com/news/5979"
+      },
+      "details_en": {
+        "official_time": "2026-11-05 12:00 – 2026-11-25 06:00",
+        "publication_date": "2026-10-15",
+        "anchor_url": "https://endfield.hypergryph.com/news/5979",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-6094",
+        "source_title": "「丹青渡」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/6094",
+        "version": "丹青渡",
+        "activity_name": "危机合约 浸蓝测试作战"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-7204-7431b03f0799",
+      "name": "明日方舟：终末地 · 烟火邀星河",
+      "name_en": "Arknights: Endfield · Fireworks Invite the Stars",
+      "date": "2026-11-05",
+      "end_date": "2026-11-25",
+      "time": "12:00",
+      "end_time": "06:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "烟火邀星河",
+      "description_en": "Fireworks Invite the Stars",
+      "url": "https://endfield.hypergryph.com/news/7204",
+      "status": "active",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/11/05 12:00(服务器时间) - 版本更新维护前",
+        "publication_date": "2026-11-04",
+        "anchor_url": "https://endfield.hypergryph.com/news/5979"
+      },
+      "details_en": {
+        "official_time": "2026-11-05 12:00 – 2026-11-25 06:00",
+        "publication_date": "2026-11-04",
+        "anchor_url": "https://endfield.hypergryph.com/news/5979",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "source_content_id": "endfield-7204",
+        "source_title": "「烟火邀星河」特许寻访说明",
+        "source_url": "https://endfield.hypergryph.com/news/7204",
+        "activity_name": "烟火邀星河"
+      },
+      "banners": [
+        {
+          "type": "character",
+          "name": "烟火邀星河",
+          "name_en": "Fireworks Invite the Stars",
+          "roster_kind": "rate_up",
+          "featured_5": [
+            {
+              "name": "明河",
+              "rarity": 6,
+              "name_en": "Minghe"
+            }
+          ],
+          "source_content_id": "endfield-7204",
+          "source_url": "https://endfield.hypergryph.com/news/7204"
+        }
+      ]
+    },
+    {
+      "id": "arknights-endfield-endfield-6094-cb473e1749a5",
+      "name": "明日方舟：终末地 · 理智补给",
+      "name_en": "Arknights: Endfield · Sanity Supply",
+      "date": "2026-11-18",
+      "end_date": "2026-11-25",
+      "time": "04:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "活动期间，每日完成指定任务即可领取理智补给奖励【理智消耗许可】及【应急理智加强剂】。",
+      "description_en": "Sanity Supply",
+      "url": "https://endfield.hypergryph.com/news/6094",
+      "status": "active",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/11/18 04:00 - 2026/11/25 04:00(服务器时间)",
+        "publication_date": "2026-10-15"
+      },
+      "details_en": {
+        "official_time": "2026-11-18 04:00 – 2026-11-25 04:00",
+        "publication_date": "2026-10-15",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-6094",
+        "source_title": "「丹青渡」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/6094",
+        "version": "丹青渡",
+        "activity_name": "理智补给"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-5979-5ff8d23e33ad",
+      "name": "明日方舟：终末地 · 漫野探奇",
+      "name_en": "Arknights: Endfield · Wilderness Discovery Sign-in",
+      "date": "2026-11-25",
+      "end_date": "2026-12-23",
+      "end_time": "11:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "累计签到7日，即可获得【漫野探奇寻访凭证】×5等奖励。",
+      "description_en": "Wilderness Discovery Sign-in",
+      "url": "https://endfield.hypergryph.com/news/5979",
+      "status": "active",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "「穿越甚大蘑境与你相逢」版本更新后 - 2026/12/23 11:59(服务器时间)",
+        "start_time": "版本更新后",
+        "end_time": "2026-12-23 11:59",
+        "publication_date": "2026-11-25"
+      },
+      "details_en": {
+        "official_time": "2026-11-25 – 2026-12-23 11:59",
+        "start_time": "After the version update",
+        "end_time": "2026-12-23 11:59",
+        "publication_date": "2026-11-25",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-5979",
+        "source_title": "「穿越甚大蘑境与你相逢」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/5979",
+        "version": "穿越甚大蘑境与你相逢",
+        "activity_name": "漫野探奇"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-5979-ccc139a1c8c7",
+      "name": "明日方舟：终末地 · 游离赛季",
+      "name_en": "Arknights: Endfield · Drifting Season",
+      "date": "2026-11-25",
+      "end_date": "2026-12-16",
+      "end_time": "11:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "游离赛季",
+      "description_en": "Drifting Season",
+      "url": "https://endfield.hypergryph.com/news/5979",
+      "status": "active",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "「穿越甚大蘑境与你相逢」版本更新后 - 2026/12/16 11:59(服务器时间)",
+        "start_time": "版本更新后",
+        "end_time": "2026-12-16 11:59",
+        "publication_date": "2026-11-25"
+      },
+      "details_en": {
+        "official_time": "2026-11-25 – 2026-12-16 11:59",
+        "start_time": "After the version update",
+        "end_time": "2026-12-16 11:59",
+        "publication_date": "2026-11-25",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-5979",
+        "source_title": "「穿越甚大蘑境与你相逢」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/5979",
+        "version": "穿越甚大蘑境与你相逢",
+        "activity_name": "游离赛季"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-5979-e3517c704eab",
+      "name": "明日方舟：终末地 · 蘑菇！蕈类！真菌！",
+      "name_en": "Arknights: Endfield · Mushrooms! Toadstools! Fungi!",
+      "date": "2026-11-25",
+      "end_date": "2026-12-23",
+      "end_time": "12:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "前往「武陵」地区的「旧水坝」区域完成指定任务，即可领取【嵌晶玉】×1200、【存续的痕迹】活动奖励。",
+      "description_en": "Mushrooms! Toadstools! Fungi!",
+      "url": "https://endfield.hypergryph.com/news/5979",
+      "status": "active",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "「穿越甚大蘑境与你相逢」版本更新后 - 2026/12/23 12:00(服务器时间)",
+        "start_time": "版本更新后",
+        "end_time": "2026-12-23 12:00",
+        "publication_date": "2026-11-25"
+      },
+      "details_en": {
+        "official_time": "2026-11-25 – 2026-12-23 12:00",
+        "start_time": "After the version update",
+        "end_time": "2026-12-23 12:00",
+        "publication_date": "2026-11-25",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-5979",
+        "source_title": "「穿越甚大蘑境与你相逢」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/5979",
+        "version": "穿越甚大蘑境与你相逢",
+        "activity_name": "蘑菇！蕈类！真菌！"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-6083-0f6e117b8cc3",
+      "name": "明日方舟：终末地 · 恣游申领",
+      "name_en": "Arknights: Endfield · Free Roaming Arsenal Issue",
+      "date": "2026-11-25",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2026,
+      "description": "恣游申领",
+      "description_en": "Free Roaming Arsenal Issue",
+      "url": "https://endfield.hypergryph.com/news/6083",
+      "status": "active",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "「穿越甚大蘑境与你相逢」版本更新后开启,于3次「特许寻访」后结束(从「锻砧、行囊与蜜糖」起计算)",
+        "start_time": "版本更新后",
+        "publication_date": "2026-11-24",
+        "end_note": "于3次「特许寻访」后结束(从「锻砧、行囊与蜜糖」起计算)"
+      },
+      "details_en": {
+        "official_time": "2026-11-25",
+        "start_time": "After the version update",
+        "publication_date": "2026-11-24",
+        "end_note": "Ends after 3 Chartered Headhunting banners, counting from Anvil, Pack and Honey.",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "source_content_id": "endfield-6083",
+        "source_title": "「恣游申领」限时特卖说明",
+        "source_url": "https://endfield.hypergryph.com/news/6083",
+        "version": "穿越甚大蘑境与你相逢",
+        "activity_name": "恣游申领"
+      },
+      "banners": [
+        {
+          "type": "weapon",
+          "name": "恣游申领",
+          "name_en": "Free Roaming Arsenal Issue",
+          "roster_kind": "rate_up",
+          "featured_5": [
+            {
+              "name": "甜美交易",
+              "rarity": 6,
+              "name_en": "Sweet Deal"
+            }
+          ],
+          "source_content_id": "endfield-6083",
+          "source_url": "https://endfield.hypergryph.com/news/6083"
+        }
+      ]
+    },
+    {
+      "id": "arknights-endfield-endfield-7201-5b3ae91f289c",
+      "name": "明日方舟：终末地 · 致每一个飘游之愿",
+      "name_en": "Arknights: Endfield · To Every Wandering Wish",
+      "date": "2026-11-25",
+      "end_date": "2026-12-16",
+      "end_time": "11:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "致每一个飘游之愿",
+      "description_en": "To Every Wandering Wish",
+      "url": "https://endfield.hypergryph.com/news/7201",
+      "status": "active",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "「穿越甚大蘑境与你相逢」版本更新后 - 2026/12/16 11:59(服务器时间)",
+        "start_time": "版本更新后",
+        "end_time": "2026-12-16 11:59",
+        "publication_date": "2026-11-24"
+      },
+      "details_en": {
+        "official_time": "2026-11-25 – 2026-12-16 11:59",
+        "start_time": "After the version update",
+        "end_time": "2026-12-16 11:59",
+        "publication_date": "2026-11-24",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "source_content_id": "endfield-7201",
+        "source_title": "「致每一个飘游之愿」重构寻访1与「飘行申领」重构申领1开放",
+        "source_url": "https://endfield.hypergryph.com/news/7201",
+        "version": "穿越甚大蘑境与你相逢",
+        "activity_name": "致每一个飘游之愿"
+      },
+      "banners": [
+        {
+          "type": "character",
+          "name": "致每一个飘游之愿",
+          "name_en": "To Every Wandering Wish",
+          "roster_kind": "rate_up",
+          "featured_5": [
+            {
+              "name": "洁尔佩塔",
+              "rarity": 6,
+              "name_en": "Gilberta"
+            }
+          ],
+          "source_content_id": "endfield-7201",
+          "source_url": "https://endfield.hypergryph.com/news/7201"
+        }
+      ]
+    },
+    {
+      "id": "arknights-endfield-endfield-7201-d7c75ff03eee",
+      "name": "明日方舟：终末地 · 飘行申领",
+      "name_en": "Arknights: Endfield · Wandering Arsenal Issue",
+      "date": "2026-11-25",
+      "end_date": "2026-12-16",
+      "end_time": "11:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "飘行申领",
+      "description_en": "Wandering Arsenal Issue",
+      "url": "https://endfield.hypergryph.com/news/7201",
+      "status": "active",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "「穿越甚大蘑境与你相逢」版本更新后 - 2026/12/16 11:59(服务器时间)",
+        "start_time": "版本更新后",
+        "end_time": "2026-12-16 11:59",
+        "publication_date": "2026-11-24"
+      },
+      "details_en": {
+        "official_time": "2026-11-25 – 2026-12-16 11:59",
+        "start_time": "After the version update",
+        "end_time": "2026-12-16 11:59",
+        "publication_date": "2026-11-24",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "source_content_id": "endfield-7201",
+        "source_title": "「致每一个飘游之愿」重构寻访1与「飘行申领」重构申领1开放",
+        "source_url": "https://endfield.hypergryph.com/news/7201",
+        "version": "穿越甚大蘑境与你相逢",
+        "activity_name": "飘行申领"
+      },
+      "banners": [
+        {
+          "type": "weapon",
+          "name": "飘行申领",
+          "name_en": "Wandering Arsenal Issue",
+          "roster_kind": "rate_up",
+          "featured_5": [
+            {
+              "name": "使命必达",
+              "rarity": 6,
+              "name_en": "Mission Accomplished"
+            }
+          ],
+          "source_content_id": "endfield-7201",
+          "source_url": "https://endfield.hypergryph.com/news/7201"
+        }
+      ]
+    },
+    {
+      "id": "arknights-endfield-endfield-8535-7bbc5629a0b2",
+      "name": "明日方舟：终末地 · 锻砧、行囊与蜜糖",
+      "name_en": "Arknights: Endfield · Anvil, Pack and Honey",
+      "date": "2026-11-25",
+      "end_date": "2026-12-23",
+      "end_time": "11:59",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "date_range",
+      "type": "range",
+      "year": 2026,
+      "description": "锻砧、行囊与蜜糖",
+      "description_en": "Anvil, Pack and Honey",
+      "url": "https://endfield.hypergryph.com/news/8535",
+      "status": "active",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "「穿越甚大蘑境与你相逢」版本更新后 - 2026/12/23 11:59(服务器时间)",
+        "start_time": "版本更新后",
+        "end_time": "2026-12-23 11:59",
+        "publication_date": "2026-11-24"
+      },
+      "details_en": {
+        "official_time": "2026-11-25 – 2026-12-23 11:59",
+        "start_time": "After the version update",
+        "end_time": "2026-12-23 11:59",
+        "publication_date": "2026-11-24",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "source_content_id": "endfield-8535",
+        "source_title": "「锻砧、行囊与蜜糖」特许寻访说明",
+        "source_url": "https://endfield.hypergryph.com/news/8535",
+        "version": "穿越甚大蘑境与你相逢",
+        "activity_name": "锻砧、行囊与蜜糖"
+      },
+      "banners": [
+        {
+          "type": "character",
+          "name": "锻砧、行囊与蜜糖",
+          "name_en": "Anvil, Pack and Honey",
+          "roster_kind": "rate_up",
+          "featured_5": [
+            {
+              "name": "小刻",
+              "rarity": 6,
+              "name_en": "Ceobe"
+            }
+          ],
+          "source_content_id": "endfield-8535",
+          "source_url": "https://endfield.hypergryph.com/news/8535"
+        }
+      ]
+    },
+    {
+      "id": "arknights-endfield-endfield-5979-5be515c97b7a",
+      "name": "明日方舟：终末地 · 穿越甚大蘑境与你相逢 · 停服维护",
+      "name_en": "Arknights: Endfield · Across the Mushroom Wilds to Meet You · Server Maintenance",
+      "date": "2026-11-25",
+      "end_date": "2026-11-25",
+      "time": "06:00",
+      "end_time": "12:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "event",
+      "year": 2026,
+      "description": "穿越甚大蘑境与你相逢 · 停服维护",
+      "description_en": "Across the Mushroom Wilds to Meet You · Server Maintenance",
+      "url": "https://endfield.hypergryph.com/news/5979",
+      "status": "active",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/11/25 06:00 - 2026/11/25 12:00(UTC+8)",
+        "publication_date": "2026-11-25"
+      },
+      "details_en": {
+        "official_time": "2026-11-25 06:00 – 2026-11-25 12:00",
+        "publication_date": "2026-11-25",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "maintenance",
+        "source_content_id": "endfield-5979",
+        "source_title": "「穿越甚大蘑境与你相逢」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/5979",
+        "version": "穿越甚大蘑境与你相逢",
+        "activity_name": "穿越甚大蘑境与你相逢 · 停服维护"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-5979-512517007dff",
+      "name": "明日方舟：终末地 · 影拓丰碑",
+      "name_en": "Arknights: Endfield · Monument Challenge",
+      "date": "2026-12-02",
+      "end_date": "2026-12-23",
+      "time": "12:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "「暴君武装」系列开放后，将开启「丰碑揭示·暴虐」限时活动。活动期间在「影拓丰碑」完成对应挑战，即可领取【嵌晶玉】×1200、【高阶培养自选箱Ⅱ】等活动奖励。",
+      "description_en": "Monument Challenge",
+      "url": "https://endfield.hypergryph.com/news/5979",
+      "status": "confirmed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/12/02 12:00 - 2026/12/23 04:00(服务器时间)",
+        "publication_date": "2026-11-25"
+      },
+      "details_en": {
+        "official_time": "2026-12-02 12:00 – 2026-12-23 04:00",
+        "publication_date": "2026-11-25",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-5979",
+        "source_title": "「穿越甚大蘑境与你相逢」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/5979",
+        "version": "穿越甚大蘑境与你相逢",
+        "activity_name": "影拓丰碑"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-5979-cb473e1749a5",
+      "name": "明日方舟：终末地 · 理智补给 · 1",
+      "name_en": "Arknights: Endfield · Sanity Supply · 1",
+      "date": "2026-12-09",
+      "end_date": "2026-12-16",
+      "time": "04:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "活动期间，每日完成指定任务即可领取理智补给奖励【理智消耗许可】及【应急理智加强剂】。",
+      "description_en": "Sanity Supply · 1",
+      "url": "https://endfield.hypergryph.com/news/5979",
+      "status": "confirmed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/12/09 04:00 - 2026/12/16 04:00(服务器时间)",
+        "publication_date": "2026-11-25"
+      },
+      "details_en": {
+        "official_time": "2026-12-09 04:00 – 2026-12-16 04:00",
+        "publication_date": "2026-11-25",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-5979",
+        "source_title": "「穿越甚大蘑境与你相逢」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/5979",
+        "version": "穿越甚大蘑境与你相逢",
+        "activity_name": "理智补给 · 1"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-5979-2a8bacc0fb2c",
+      "name": "明日方舟：终末地 · 赤獠申领",
+      "name_en": "Arknights: Endfield · Crimson Fang Arsenal Issue",
+      "date": "2026-12-16",
+      "time": "12:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "赤獠申领",
+      "description_en": "Crimson Fang Arsenal Issue",
+      "url": "https://endfield.hypergryph.com/news/5979",
+      "status": "confirmed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/12/16 12:00(服务器时间) - 版本更新维护前",
+        "publication_date": "2026-11-25",
+        "end_note": "下次版本更新维护前"
+      },
+      "details_en": {
+        "official_time": "2026-12-16 12:00",
+        "publication_date": "2026-11-25",
+        "end_note": "Ends before the next version maintenance.",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "source_content_id": "endfield-5979",
+        "source_title": "「穿越甚大蘑境与你相逢」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/5979",
+        "version": "穿越甚大蘑境与你相逢",
+        "activity_name": "赤獠申领"
+      },
+      "banners": [
+        {
+          "type": "weapon",
+          "name": "赤獠申领",
+          "name_en": "Crimson Fang Arsenal Issue",
+          "roster_kind": "rate_up",
+          "featured_5": [
+            {
+              "name": "狼之绯",
+              "rarity": 6,
+              "name_en": "Crimson Wolf"
+            }
+          ],
+          "source_content_id": "endfield-5979",
+          "source_url": "https://endfield.hypergryph.com/news/5979"
+        }
+      ]
+    },
+    {
+      "id": "arknights-endfield-endfield-5979-4fca88f14136",
+      "name": "明日方舟：终末地 · 方兴！竞技大会！",
+      "name_en": "Arknights: Endfield · Competitive Tournament",
+      "date": "2026-12-16",
+      "time": "12:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "活动期间，完成一系列挑战关卡，即可领取【嵌晶玉】×1200、【头像框·摘冠者的耀星】、【高阶培养自选箱Ⅱ】、【存续的痕迹】、【高级认知载体】等活动奖励。",
+      "description_en": "Competitive Tournament",
+      "url": "https://endfield.hypergryph.com/news/5979",
+      "status": "confirmed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/12/16 12:00(服务器时间) - 版本更新维护前",
+        "publication_date": "2026-11-25",
+        "end_note": "下次版本更新维护前"
+      },
+      "details_en": {
+        "official_time": "2026-12-16 12:00",
+        "publication_date": "2026-11-25",
+        "end_note": "Ends before the next version maintenance.",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-5979",
+        "source_title": "「穿越甚大蘑境与你相逢」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/5979",
+        "version": "穿越甚大蘑境与你相逢",
+        "activity_name": "方兴！竞技大会！"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-5979-8fab4f703ef4",
+      "name": "明日方舟：终末地 · 绯红瑰宝",
+      "name_en": "Arknights: Endfield · Crimson Treasure",
+      "date": "2026-12-16",
+      "time": "12:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "绯红瑰宝",
+      "description_en": "Crimson Treasure",
+      "url": "https://endfield.hypergryph.com/news/5979",
+      "status": "confirmed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/12/16 12:00(服务器时间) - 版本更新维护前",
+        "publication_date": "2026-11-25",
+        "end_note": "下次版本更新维护前"
+      },
+      "details_en": {
+        "official_time": "2026-12-16 12:00",
+        "publication_date": "2026-11-25",
+        "end_note": "Ends before the next version maintenance.",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "banner",
+        "source_content_id": "endfield-5979",
+        "source_title": "「穿越甚大蘑境与你相逢」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/5979",
+        "version": "穿越甚大蘑境与你相逢",
+        "activity_name": "绯红瑰宝"
+      },
+      "banners": [
+        {
+          "type": "character",
+          "name": "绯红瑰宝",
+          "name_en": "Crimson Treasure",
+          "roster_kind": "rate_up",
+          "featured_5": [
+            {
+              "name": "洛茜",
+              "rarity": 6
+            }
+          ],
+          "source_content_id": "endfield-5979",
+          "source_url": "https://endfield.hypergryph.com/news/5979"
+        }
+      ]
+    },
+    {
+      "id": "arknights-endfield-endfield-5979-9a99f22bcc2d",
+      "name": "明日方舟：终末地 · 警觉赛季",
+      "name_en": "Arknights: Endfield · Vigilance Season",
+      "date": "2026-12-16",
+      "time": "12:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "警觉赛季",
+      "description_en": "Vigilance Season",
+      "url": "https://endfield.hypergryph.com/news/5979",
+      "status": "confirmed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/12/16 12:00(服务器时间) - 版本更新维护前",
+        "publication_date": "2026-11-25",
+        "end_note": "下次版本更新维护前"
+      },
+      "details_en": {
+        "official_time": "2026-12-16 12:00",
+        "publication_date": "2026-11-25",
+        "end_note": "Ends before the next version maintenance.",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-5979",
+        "source_title": "「穿越甚大蘑境与你相逢」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/5979",
+        "version": "穿越甚大蘑境与你相逢",
+        "activity_name": "警觉赛季"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-5979-a370732bc156",
+      "name": "明日方舟：终末地 · “幸运萝卜”的妙趣游乐",
+      "name_en": "Arknights: Endfield · Lucky Radish Games",
+      "date": "2026-12-16",
+      "time": "12:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "活动期间，体验“巫术乐园”系列娱乐产品，完成游乐挑战获得【萝卜大钞】，消耗【萝卜大钞】可在「纪念品兑换处」兑换【嵌晶玉】×1000、【高阶培养自选箱Ⅱ】、【存续的痕迹】、【高级认知载体】等活动奖励。",
+      "description_en": "Lucky Radish Games",
+      "url": "https://endfield.hypergryph.com/news/5979",
+      "status": "confirmed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/12/16 12:00(服务器时间) - 版本更新维护前",
+        "publication_date": "2026-11-25",
+        "end_note": "下次版本更新维护前"
+      },
+      "details_en": {
+        "official_time": "2026-12-16 12:00",
+        "publication_date": "2026-11-25",
+        "end_note": "Ends before the next version maintenance.",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-5979",
+        "source_title": "「穿越甚大蘑境与你相逢」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/5979",
+        "version": "穿越甚大蘑境与你相逢",
+        "activity_name": "“幸运萝卜”的妙趣游乐"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-5979-bd829058d998",
+      "name": "明日方舟：终末地 · 行军者的报到",
+      "name_en": "Arknights: Endfield · Marcher Check-in",
+      "date": "2026-12-16",
+      "time": "12:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "活动期间登录游戏，参与各类玩法，即可领取全新满潜能5星干员【米米诺】及全新满潜能5星武器【明日之星（手铳）】。",
+      "description_en": "Marcher Check-in",
+      "url": "https://endfield.hypergryph.com/news/5979",
+      "status": "confirmed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/12/16 12:00(服务器时间) - 版本更新维护前",
+        "publication_date": "2026-11-25",
+        "end_note": "下次版本更新维护前"
+      },
+      "details_en": {
+        "official_time": "2026-12-16 12:00",
+        "publication_date": "2026-11-25",
+        "end_note": "Ends before the next version maintenance.",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-5979",
+        "source_title": "「穿越甚大蘑境与你相逢」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/5979",
+        "version": "穿越甚大蘑境与你相逢",
+        "activity_name": "行军者的报到"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-5979-4be537235747",
+      "name": "明日方舟：终末地 · 分拣吧！管礼员",
+      "name_en": "Arknights: Endfield · Gift Sorting",
+      "date": "2026-12-23",
+      "time": "12:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime",
+      "type": "event",
+      "year": 2026,
+      "description": "前往网页活动，对传送带上的礼盒进行分拣，体验不同关卡，可领取【嵌晶玉】×300、【折金票】活动奖励。",
+      "description_en": "Gift Sorting",
+      "url": "https://endfield.hypergryph.com/news/5979",
+      "status": "confirmed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/12/23 12:00(服务器时间) - 版本更新维护前",
+        "publication_date": "2026-11-25",
+        "end_note": "下次版本更新维护前"
+      },
+      "details_en": {
+        "official_time": "2026-12-23 12:00",
+        "publication_date": "2026-11-25",
+        "end_note": "Ends before the next version maintenance.",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-5979",
+        "source_title": "「穿越甚大蘑境与你相逢」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/5979",
+        "version": "穿越甚大蘑境与你相逢",
+        "activity_name": "分拣吧！管礼员"
+      }
+    },
+    {
+      "id": "arknights-endfield-endfield-5979-9a843933759c",
+      "name": "明日方舟：终末地 · 理智补给 · 2",
+      "name_en": "Arknights: Endfield · Sanity Supply · 2",
+      "date": "2026-12-31",
+      "end_date": "2027-01-07",
+      "time": "04:00",
+      "end_time": "04:00",
+      "timezone": "Asia/Shanghai",
+      "time_kind": "datetime_range",
+      "type": "range",
+      "year": 2026,
+      "description": "活动期间，每日完成指定任务即可领取理智补给奖励【理智消耗许可】及【应急理智加强剂】。",
+      "description_en": "Sanity Supply · 2",
+      "url": "https://endfield.hypergryph.com/news/5979",
+      "status": "confirmed",
+      "last_verified": "2026-11-25",
+      "verified_by": "official",
+      "details": {
+        "official_time": "2026/12/31 04:00 - 2027/01/07 04:00(服务器时间)",
+        "publication_date": "2026-11-25"
+      },
+      "details_en": {
+        "official_time": "2026-12-31 04:00 – 2027-01-07 04:00",
+        "publication_date": "2026-11-25",
+        "English name status": "descriptive translation; CN-server dates retained"
+      },
+      "game": {
+        "game_id": "arknights-endfield",
+        "provider": "hypergryph",
+        "source_kind": "activity",
+        "source_content_id": "endfield-5979",
+        "source_title": "「穿越甚大蘑境与你相逢」版本更新说明",
+        "source_url": "https://endfield.hypergryph.com/news/5979",
+        "version": "穿越甚大蘑境与你相逢",
+        "activity_name": "理智补给 · 2"
+      }
+    }
+  ],
+  "last_updated": "2026-11-25"
+}
