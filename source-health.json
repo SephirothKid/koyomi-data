@@ -3,19 +3,18 @@
   "sources": {
     "cpa": {
       "category": "exam",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "judicial-exam": {
       "category": "exam",
-      "checked_at": "2026-11-24",
-      "outcome": "skipped",
-      "last_error": "fetch failed: http://legalinfo.moj.gov.cn/zhpfsearch/es/getTrsNewsByParams?keyWords=2026%E5%B9%B4%E5%9B%BD%E5%AE%B6%E7%BB%9F%E4%B8%80%E6%B3%95%E5%BE%8B%E8%81%8C%E4%B8%9A%E8%B5%84%E6%A0%BC%E8%80%83%E8%AF%95&pageNum=1&pageSize=10 (fetch failed; ETIMEDOUT; ETIMEDOUT: connect ETIMEDOUT 36.158.231.196:80; ENETUNREACH: connect ENETUNREACH 240e:95c:806:40::417:80 - Local (:::0); ETIMEDOUT: connect ETIMEDOUT 27.155.113.162:80; ENETUNREACH: connect ENETUNREACH 2409:8c50:a00:2163:8000::5:80 - Local (:::0)); fetch failed; ETIMEDOUT; ETIMEDOUT: connect ETIMEDOUT 36.158.231.196:80; ENETUNREACH: connect ENETUNREACH 240e:95c:806:40::417:80 - Local (:::0); ETIMEDOUT: connect ETIMEDOUT 27.155.113.162:80; ENETUNREACH: connect ENETUNREACH 2409:8c50:a00:2163:8000::5:80 - Local (:::0)"
+      "checked_at": "2026-11-26",
+      "outcome": "unchanged"
     },
     "fgo": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
-      "outcome": "updated"
+      "checked_at": "2026-11-26",
+      "outcome": "unchanged"
     },
     "tw-public-holidays": {
       "category": "holidays",
@@ -94,82 +93,83 @@
     },
     "bundesliga": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "cba": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "csl": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "epl": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "f1": {
       "category": "sports",
       "checked_at": "2026-11-25",
-      "outcome": "unchanged"
+      "outcome": "failed",
+      "last_error": "HTTP 404: https://ergast.com/api/f1/2026.json?limit=100"
     },
     "laliga": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "ligue1": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "nba": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "updated"
     },
     "seriea": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "australian-open": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "roland-garros": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "us-open": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "wimbledon": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "ucl": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "uecl": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "uel": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "worldcup": {
@@ -179,28 +179,28 @@
     },
     "arknights": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-26",
+      "outcome": "updated"
     },
     "cs2-tournaments": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "updated"
     },
     "epic-free": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "kpl": {
       "category": "gaming",
-      "checked_at": "2026-11-22",
+      "checked_at": "2026-11-25",
       "outcome": "skipped",
       "last_error": "HTTP 429: https://api.pandascore.co/kog/leagues?page%5Bnumber%5D=1&page%5Bsize%5D=100"
     },
     "lpl": {
       "category": "gaming",
-      "checked_at": "2026-11-24",
+      "checked_at": "2026-11-25",
       "outcome": "skipped",
       "last_error": "HTTP 429: https://api.pandascore.co/lol/matches?filter%5Bleague_id%5D=294&range%5Bbegin_at%5D=2026-01-01%2C2099-12-31&page%5Bnumber%5D=1&page%5Bsize%5D=100&sort=begin_at"
     },
@@ -211,37 +211,38 @@
     },
     "genshin-impact": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
-      "outcome": "updated"
+      "checked_at": "2026-11-26",
+      "outcome": "unchanged"
     },
     "honkai-star-rail": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "zenless-zone-zero": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
-      "outcome": "updated"
+      "checked_at": "2026-11-26",
+      "outcome": "unchanged"
     },
     "rawg-releases": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "updated"
     },
     "steam-sales": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "wuthering-waves": {
       "category": "gaming",
       "checked_at": "2026-11-25",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/zh/ArticleMenu.json (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 211.162.165.44:443, 211.162.165.46:443, 211.162.165.45:443, 211.162.165.42:443, 211.162.165.41:443, 211.162.165.39:443, 211.162.165.43:443, 211.162.165.40:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 211.162.165.44:443, 211.162.165.46:443, 211.162.165.45:443, 211.162.165.42:443, 211.162.165.41:443, 211.162.165.39:443, 211.162.165.43:443, 211.162.165.40:443, timeout: 10000ms)"
     },
     "accounting-qualification": {
       "category": "exam",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "adult-gaokao": {
@@ -301,13 +302,14 @@
     },
     "ncre": {
       "category": "exam",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "nurse-qualification": {
       "category": "exam",
       "checked_at": "2026-11-25",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "The primary nurse source is unavailable and the reprint has not reached the verified 2027 cycle; fetch failed: https://www.21wecan.com/wsrcw/c100202/202611/1003489.shtml (HTTP 405: https://www.21wecan.com/wsrcw/c100202/202611/1003489.shtml (alternate DNS nodes also unavailable); All promises were rejected; HTTP 405: www.21wecan.com); HTTP 405: https://www.21wecan.com/wsrcw/c100202/202611/1003489.shtml (alternate DNS nodes also unavailable); All promises were rejected; HTTP 405: www.21wecan.com; No current national nurse notice found in the official reprint directory (minimum 2027)"
     },
     "patent-agent": {
       "category": "exam",
@@ -316,7 +318,7 @@
     },
     "pets": {
       "category": "exam",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "physician-qualification": {
@@ -356,28 +358,27 @@
     },
     "tax-agent": {
       "category": "exam",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "civil-service-provincial": {
       "category": "exam",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "cet": {
       "category": "exam",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "civil-service-national": {
       "category": "exam",
-      "checked_at": "2026-11-24",
-      "outcome": "skipped",
-      "last_error": "fetch failed: http://legalinfo.moj.gov.cn/zhpfsearch/es/getTrsNewsByParams?keyWords=2027%E5%B9%B4%E5%BA%A6%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98&pageNum=1&pageSize=10 (fetch failed; ETIMEDOUT; ETIMEDOUT: connect ETIMEDOUT 27.155.113.162:80; ENETUNREACH: connect ENETUNREACH 2409:8c50:a00:2163:8000::5:80 - Local (:::0); ETIMEDOUT: connect ETIMEDOUT 36.158.231.196:80; ENETUNREACH: connect ENETUNREACH 240e:95c:806:40::417:80 - Local (:::0)); fetch failed; ETIMEDOUT; ETIMEDOUT: connect ETIMEDOUT 27.155.113.162:80; ENETUNREACH: connect ENETUNREACH 2409:8c50:a00:2163:8000::5:80 - Local (:::0); ETIMEDOUT: connect ETIMEDOUT 36.158.231.196:80; ENETUNREACH: connect ENETUNREACH 240e:95c:806:40::417:80 - Local (:::0)"
+      "checked_at": "2026-11-26",
+      "outcome": "unchanged"
     },
     "postgraduate-exam": {
       "category": "exam",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "ruankao": {
@@ -387,7 +388,7 @@
     },
     "teacher-qualification": {
       "category": "exam",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "astronomical-events": {
@@ -397,12 +398,12 @@
     },
     "beijing-marathon": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "shanghai-marathon": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "dota2-esports": {
@@ -413,13 +414,13 @@
     },
     "lol-international": {
       "category": "gaming",
-      "checked_at": "2026-11-22",
+      "checked_at": "2026-11-25",
       "outcome": "skipped",
       "last_error": "HTTP 429: PandaScore /lol/leagues"
     },
     "valorant-esports": {
       "category": "gaming",
-      "checked_at": "2026-11-22",
+      "checked_at": "2026-11-25",
       "outcome": "skipped",
       "last_error": "HTTP 429: PandaScore /valorant/leagues"
     },
@@ -440,82 +441,82 @@
     },
     "ittf-majors": {
       "category": "sports",
-      "checked_at": "2026-11-25",
-      "outcome": "updated"
+      "checked_at": "2026-11-26",
+      "outcome": "unchanged"
     },
     "wtt": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "bwf-majors": {
       "category": "sports",
-      "checked_at": "2026-11-25",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-26",
+      "outcome": "updated"
     },
     "bwf-world-tour": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "motogp": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "wec": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "snooker-majors": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "wta": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "vnl-men": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "vnl-women": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "atp": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "shenzhen-marathon": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "xiamen-marathon": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "final-fantasy-xiv": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "love-and-deepspace": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
-      "outcome": "updated"
+      "checked_at": "2026-11-26",
+      "outcome": "unchanged"
     },
     "reverse1999": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "updated"
     },
     "worldcup-qualifiers-afc": {
@@ -525,42 +526,42 @@
     },
     "snooker-masters": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "snooker-uk-championship": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "snooker-world-championship": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "hkdse": {
       "category": "exam",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "macao-jae": {
       "category": "exam",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "sat": {
       "category": "exam",
-      "checked_at": "2026-11-25",
-      "outcome": "updated"
+      "checked_at": "2026-11-26",
+      "outcome": "unchanged"
     },
     "tw-ast": {
       "category": "exam",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "tw-gsat": {
       "category": "exam",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "jlpt-cn": {
@@ -571,37 +572,38 @@
     },
     "ps-plus-hk": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "guangzhou-marathon": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "hangzhou-marathon": {
       "category": "sports",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "ps-plus-jp": {
       "category": "gaming",
       "checked_at": "2026-11-25",
-      "outcome": "unchanged"
+      "outcome": "failed",
+      "last_error": "PS Plus Japan announcement has an incomplete lineup or different claim windows"
     },
     "ps-plus-sg": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "ps-plus-tw": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "ps-plus-us": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "arknights-endfield": {
