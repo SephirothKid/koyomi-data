@@ -13,7 +13,7 @@
     },
     "fgo": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "tw-public-holidays": {
@@ -179,28 +179,30 @@
     },
     "arknights": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-26",
+      "outcome": "updated"
     },
     "cs2-tournaments": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "updated"
     },
     "epic-free": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "kpl": {
       "category": "gaming",
       "checked_at": "2026-11-25",
-      "outcome": "updated"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: https://api.pandascore.co/kog/leagues?page%5Bnumber%5D=1&page%5Bsize%5D=100"
     },
     "lpl": {
       "category": "gaming",
       "checked_at": "2026-11-25",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: https://api.pandascore.co/lol/matches?filter%5Bleague_id%5D=294&range%5Bbegin_at%5D=2026-01-01%2C2099-12-31&page%5Bnumber%5D=1&page%5Bsize%5D=100&sort=begin_at"
     },
     "console-showcases": {
       "category": "gaming",
@@ -209,35 +211,34 @@
     },
     "genshin-impact": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
-      "outcome": "skipped",
-      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/16471662a82d418a/getContentList?iAppId=43&iChanId=721&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 180.88.51.74:443, 180.88.51.71:443, 180.88.51.70:443, 180.88.51.72:443, 180.88.51.68:443, 180.88.51.66:443, 180.88.51.69:443, 180.88.51.67:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 180.88.51.74:443, 180.88.51.71:443, 180.88.51.70:443, 180.88.51.72:443, 180.88.51.68:443, 180.88.51.66:443, 180.88.51.69:443, 180.88.51.67:443, timeout: 10000ms)"
+      "checked_at": "2026-11-26",
+      "outcome": "unchanged"
     },
     "honkai-star-rail": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
-      "outcome": "skipped",
-      "last_error": "fetch failed: https://act-api-takumi-static.mihoyo.com/content_v2_user/app/1963de8dc19e461c/getContentList?iChanId=255&iPageSize=20&iPage=1&sLangKey=zh-cn (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 180.88.51.70:443, 180.88.51.68:443, 180.88.51.66:443, 180.88.51.69:443, 180.88.51.74:443, 180.88.51.72:443, 180.88.51.71:443, 180.88.51.67:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 180.88.51.70:443, 180.88.51.68:443, 180.88.51.66:443, 180.88.51.69:443, 180.88.51.74:443, 180.88.51.72:443, 180.88.51.71:443, 180.88.51.67:443, timeout: 10000ms)"
+      "checked_at": "2026-11-26",
+      "outcome": "unchanged"
     },
     "zenless-zone-zero": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "rawg-releases": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "updated"
     },
     "steam-sales": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "wuthering-waves": {
       "category": "gaming",
       "checked_at": "2026-11-25",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/zh/ArticleMenu.json (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 211.162.165.44:443, 211.162.165.46:443, 211.162.165.45:443, 211.162.165.42:443, 211.162.165.41:443, 211.162.165.39:443, 211.162.165.43:443, 211.162.165.40:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 211.162.165.44:443, 211.162.165.46:443, 211.162.165.45:443, 211.162.165.42:443, 211.162.165.41:443, 211.162.165.39:443, 211.162.165.43:443, 211.162.165.40:443, timeout: 10000ms)"
     },
     "accounting-qualification": {
       "category": "exam",
@@ -414,12 +415,14 @@
     "lol-international": {
       "category": "gaming",
       "checked_at": "2026-11-25",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: PandaScore /lol/leagues"
     },
     "valorant-esports": {
       "category": "gaming",
       "checked_at": "2026-11-25",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: PandaScore /valorant/leagues"
     },
     "mo-public-holidays": {
       "category": "holidays",
@@ -503,18 +506,18 @@
     },
     "final-fantasy-xiv": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "love-and-deepspace": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "reverse1999": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
-      "outcome": "unchanged"
+      "checked_at": "2026-11-26",
+      "outcome": "updated"
     },
     "worldcup-qualifiers-afc": {
       "category": "sports",
@@ -569,7 +572,7 @@
     },
     "ps-plus-hk": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "guangzhou-marathon": {
@@ -585,21 +588,22 @@
     "ps-plus-jp": {
       "category": "gaming",
       "checked_at": "2026-11-25",
-      "outcome": "unchanged"
+      "outcome": "failed",
+      "last_error": "PS Plus Japan announcement has an incomplete lineup or different claim windows"
     },
     "ps-plus-sg": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "ps-plus-tw": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "ps-plus-us": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     }
   }
