@@ -129,6 +129,8 @@ function listIcalFiles(dir) {
 
 function icsOwnedBySource(filename, sourceId) {
   const stem = filename.endsWith('.ics') ? filename.slice(0, -4) : filename
+  const owner = sourceIdsByLength.find(id => stem === id || stem.startsWith(`${id}-`))
+  if (owner) return owner === sourceId
   return stem === sourceId || stem === `${sourceId}-en` || stem.startsWith(`${sourceId}-`)
 }
 
@@ -701,6 +703,7 @@ function createCalendar(source, events, options = {}) {
 }
 
 const files = collectJsonFiles(EVENTS_DIR)
+const sourceIdsByLength = files.map(file => basename(file, '.json')).sort((a, b) => b.length - a.length)
 let processedSources = 0
 let totalEvents = 0
 let totalTeamCalendars = 0
