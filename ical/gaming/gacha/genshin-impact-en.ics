@@ -9,6 +9,99 @@ X-WR-CALDESC:Genshin Impact updates, banners, and events parsed from offic
 TIMEZONE-ID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
+UID:genshin-impact-genshin-impact-2026-166256-activity-aa23466fc189@koyomi
+ .cast
+SEQUENCE:0
+DTSTAMP:20261126T000000
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20261104
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Genshin Impact Version Calendar · Genshin Impact v7.1 Event — 2
+ 026-09-23
+DESCRIPTION:原神 巡历雪境，凝铸锋锐\n\nVersion: 7.1\nType: acti
+ vity\n\nofficial_time: 2026-09-23 – 2026-11-03 14:59\nstart_time: After 
+ the version update\nend_time: 2026-11-03 14:59\nEnglish name status: unava
+ ilable\; original announcement retained\n\nSource: https://ys.mihoyo.com/m
+ ain/news/detail/166256
+CATEGORIES:Genshin Impact Version Calendar
+URL;VALUE=URI:https://ys.mihoyo.com/main/news/detail/166256
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:genshin-impact-genshin-impact-2026-166256-activity-aa23466fc189-deadli
+ ne@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261126T000000
+DTSTART;TZID=Asia/Shanghai:20261103T145900
+DTEND;TZID=Asia/Shanghai:20261103T150000
+SUMMARY:Genshin Impact Version Calendar · Genshin Impact v7.1 Event — 2
+ 026-09-23 — Ends
+DESCRIPTION:原神 巡历雪境，凝铸锋锐\n\nVersion: 7.1\nType: acti
+ vity\n\nofficial_time: 2026-09-23 – 2026-11-03 14:59\nstart_time: After 
+ the version update\nend_time: 2026-11-03 14:59\nEnglish name status: unava
+ ilable\; original announcement retained\n\nSource: https://ys.mihoyo.com/m
+ ain/news/detail/166256
+CATEGORIES:Genshin Impact Version Calendar
+URL;VALUE=URI:https://ys.mihoyo.com/main/news/detail/166256
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:genshin-impact-genshin-impact-2026-166257-activity-a22911b8ddfd@koyomi
+ .cast
+SEQUENCE:0
+DTSTAMP:20261126T000000
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20261104
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Genshin Impact Version Calendar · Genshin Impact v7.1 Event — 2
+ 026-09-23
+DESCRIPTION:原神 桌上剧团·冒险的前夜会\n\nVersion: 7.1\nType:
+  activity\n\nofficial_time: 2026-09-23 – 2026-11-03 14:59\nstart_time: A
+ fter the version update\nend_time: 2026-11-03 14:59\nEnglish name status: 
+ unavailable\; original announcement retained\n\nSource: https://ys.mihoyo.
+ com/main/news/detail/166257
+CATEGORIES:Genshin Impact Version Calendar
+URL;VALUE=URI:https://ys.mihoyo.com/main/news/detail/166257
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:genshin-impact-genshin-impact-2026-166257-activity-a22911b8ddfd-deadli
+ ne@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261126T000000
+DTSTART;TZID=Asia/Shanghai:20261103T145900
+DTEND;TZID=Asia/Shanghai:20261103T150000
+SUMMARY:Genshin Impact Version Calendar · Genshin Impact v7.1 Event — 2
+ 026-09-23 — Ends
+DESCRIPTION:原神 桌上剧团·冒险的前夜会\n\nVersion: 7.1\nType:
+  activity\n\nofficial_time: 2026-09-23 – 2026-11-03 14:59\nstart_time: A
+ fter the version update\nend_time: 2026-11-03 14:59\nEnglish name status: 
+ unavailable\; original announcement retained\n\nSource: https://ys.mihoyo.
+ com/main/news/detail/166257
+CATEGORIES:Genshin Impact Version Calendar
+URL;VALUE=URI:https://ys.mihoyo.com/main/news/detail/166257
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:genshin-impact-genshin-impact-2026-166513-activity-38e7915154a3@koyomi
+ .cast
+SEQUENCE:0
+DTSTAMP:20261126T000000
+DTSTART;TZID=Asia/Shanghai:20260930T100000
+DTEND;TZID=Asia/Shanghai:20261103T035900
+SUMMARY:Genshin Impact Version Calendar · Genshin Impact v7.1 Event — 2
+ 026-09-30
+DESCRIPTION:原神 幽境危战\n\nVersion: 7.1\nType: activity\n\nofficia
+ l_time: 2026-09-30 10:00 – 2026-11-03 03:59\nEnglish name status: unavai
+ lable\; original announcement retained\n\nSource: https://ys.mihoyo.com/ma
+ in/news/detail/166513
+CATEGORIES:Genshin Impact Version Calendar
+URL;VALUE=URI:https://ys.mihoyo.com/main/news/detail/166513
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:genshin-impact-genshin-impact-2026-166763-banner-3c680819f65a@koyomi.c
  ast
 SEQUENCE:0
@@ -106,7 +199,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:genshin-impact-genshin-impact-2026-167159-maintenance@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261125T000000
+DTSTAMP:20261126T000000
 DTSTART;TZID=Asia/Shanghai:20261104T060000
 DTEND;TZID=Asia/Shanghai:20261104T110000
 SUMMARY:Genshin Impact Version Calendar · Genshin Impact v7.2 Maintenance
@@ -116,6 +209,27 @@ DESCRIPTION:原神 7.2 维护更新\n\nVersion: 7.2\nType: maintenance\n\n
  .mihoyo.com/main/news/detail/167159
 CATEGORIES:Genshin Impact Version Calendar
 URL;VALUE=URI:https://ys.mihoyo.com/main/news/detail/167159
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:genshin-impact-genshin-impact-2026-167205-maintenance@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261126T000000
+DTSTART;TZID=Asia/Shanghai:20261104T060000
+DTEND;TZID=Asia/Shanghai:20261104T110000
+SUMMARY:Genshin Impact Version Calendar · Genshin Impact · "Hour of Ruin
+ " Version 7.2 Update Details
+DESCRIPTION:Below are the details of the Version 7.2 update "Hour of Ruin"
+  and the update compensation.\n\nVersion: 7.2\nType: maintenance\nOfficial
+  source: "Hour of Ruin" Version 7.2 Update Details\n\nofficial_time: 2026-
+ 11-04 06:00 – 2026-11-04 11:00\nofficial_notice: "Hour of Ruin" Version 
+ 7.2 Update Details\nEnglish source: https://genshin.hoyoverse.com/en/news/
+ detail/167187\nEnglish source ID: 167187\nEnglish original title: "Hour of
+  Ruin" Version 7.2 Update Details\nEnglish name status: official announcem
+ ent\; mainland timing preserved\n\nSource: https://ys.mihoyo.com/main/news
+ /detail/167205
+CATEGORIES:Genshin Impact Version Calendar
+URL;VALUE=URI:https://ys.mihoyo.com/main/news/detail/167205
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -248,27 +362,6 @@ DESCRIPTION:原神 武器活动祈愿：秘星典谕 / 静水流涌之辉\
  s://ys.mihoyo.com/main/news/detail/167191
 CATEGORIES:Genshin Impact Version Calendar
 URL;VALUE=URI:https://ys.mihoyo.com/main/news/detail/167191
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:genshin-impact-genshin-impact-2026-167205-maintenance@koyomi.cast
-SEQUENCE:0
-DTSTAMP:20261125T000000
-DTSTART;TZID=Asia/Shanghai:20261104T060000
-DTEND;TZID=Asia/Shanghai:20261104T110000
-SUMMARY:Genshin Impact Version Calendar · Genshin Impact · "Hour of Ruin
- " Version 7.2 Update Details
-DESCRIPTION:Below are the details of the Version 7.2 update "Hour of Ruin"
-  and the update compensation.\n\nVersion: 7.2\nType: maintenance\nOfficial
-  source: "Hour of Ruin" Version 7.2 Update Details\n\nofficial_time: 2026-
- 11-04 06:00 – 2026-11-04 11:00\nofficial_notice: "Hour of Ruin" Version 
- 7.2 Update Details\nEnglish source: https://genshin.hoyoverse.com/en/news/
- detail/167187\nEnglish source ID: 167187\nEnglish original title: "Hour of
-  Ruin" Version 7.2 Update Details\nEnglish name status: official announcem
- ent\; mainland timing preserved\n\nSource: https://ys.mihoyo.com/main/news
- /detail/167205
-CATEGORIES:Genshin Impact Version Calendar
-URL;VALUE=URI:https://ys.mihoyo.com/main/news/detail/167205
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
