@@ -3,14 +3,13 @@
   "sources": {
     "cpa": {
       "category": "exam",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "judicial-exam": {
       "category": "exam",
-      "checked_at": "2026-11-24",
-      "outcome": "skipped",
-      "last_error": "fetch failed: http://legalinfo.moj.gov.cn/zhpfsearch/es/getTrsNewsByParams?keyWords=2026%E5%B9%B4%E5%9B%BD%E5%AE%B6%E7%BB%9F%E4%B8%80%E6%B3%95%E5%BE%8B%E8%81%8C%E4%B8%9A%E8%B5%84%E6%A0%BC%E8%80%83%E8%AF%95&pageNum=1&pageSize=10 (fetch failed; ETIMEDOUT; ETIMEDOUT: connect ETIMEDOUT 36.158.231.196:80; ENETUNREACH: connect ENETUNREACH 240e:95c:806:40::417:80 - Local (:::0); ETIMEDOUT: connect ETIMEDOUT 27.155.113.162:80; ENETUNREACH: connect ENETUNREACH 2409:8c50:a00:2163:8000::5:80 - Local (:::0)); fetch failed; ETIMEDOUT; ETIMEDOUT: connect ETIMEDOUT 36.158.231.196:80; ENETUNREACH: connect ENETUNREACH 240e:95c:806:40::417:80 - Local (:::0); ETIMEDOUT: connect ETIMEDOUT 27.155.113.162:80; ENETUNREACH: connect ENETUNREACH 2409:8c50:a00:2163:8000::5:80 - Local (:::0)"
+      "checked_at": "2026-11-26",
+      "outcome": "unchanged"
     },
     "fgo": {
       "category": "gaming",
@@ -242,7 +241,7 @@
     },
     "accounting-qualification": {
       "category": "exam",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "adult-gaokao": {
@@ -302,13 +301,14 @@
     },
     "ncre": {
       "category": "exam",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "nurse-qualification": {
       "category": "exam",
       "checked_at": "2026-11-25",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "The primary nurse source is unavailable and the reprint has not reached the verified 2027 cycle; fetch failed: https://www.21wecan.com/wsrcw/c100202/202611/1003489.shtml (HTTP 405: https://www.21wecan.com/wsrcw/c100202/202611/1003489.shtml (alternate DNS nodes also unavailable); All promises were rejected; HTTP 405: www.21wecan.com); HTTP 405: https://www.21wecan.com/wsrcw/c100202/202611/1003489.shtml (alternate DNS nodes also unavailable); All promises were rejected; HTTP 405: www.21wecan.com; No current national nurse notice found in the official reprint directory (minimum 2027)"
     },
     "patent-agent": {
       "category": "exam",
@@ -317,7 +317,7 @@
     },
     "pets": {
       "category": "exam",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "physician-qualification": {
@@ -357,28 +357,27 @@
     },
     "tax-agent": {
       "category": "exam",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "civil-service-provincial": {
       "category": "exam",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "cet": {
       "category": "exam",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "civil-service-national": {
       "category": "exam",
-      "checked_at": "2026-11-24",
-      "outcome": "skipped",
-      "last_error": "fetch failed: http://legalinfo.moj.gov.cn/zhpfsearch/es/getTrsNewsByParams?keyWords=2027%E5%B9%B4%E5%BA%A6%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98&pageNum=1&pageSize=10 (fetch failed; ETIMEDOUT; ETIMEDOUT: connect ETIMEDOUT 27.155.113.162:80; ENETUNREACH: connect ENETUNREACH 2409:8c50:a00:2163:8000::5:80 - Local (:::0); ETIMEDOUT: connect ETIMEDOUT 36.158.231.196:80; ENETUNREACH: connect ENETUNREACH 240e:95c:806:40::417:80 - Local (:::0)); fetch failed; ETIMEDOUT; ETIMEDOUT: connect ETIMEDOUT 27.155.113.162:80; ENETUNREACH: connect ENETUNREACH 2409:8c50:a00:2163:8000::5:80 - Local (:::0); ETIMEDOUT: connect ETIMEDOUT 36.158.231.196:80; ENETUNREACH: connect ENETUNREACH 240e:95c:806:40::417:80 - Local (:::0)"
+      "checked_at": "2026-11-26",
+      "outcome": "unchanged"
     },
     "postgraduate-exam": {
       "category": "exam",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "ruankao": {
@@ -388,7 +387,7 @@
     },
     "teacher-qualification": {
       "category": "exam",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "astronomical-events": {
@@ -539,27 +538,27 @@
     },
     "hkdse": {
       "category": "exam",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "macao-jae": {
       "category": "exam",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "sat": {
       "category": "exam",
-      "checked_at": "2026-11-25",
-      "outcome": "updated"
+      "checked_at": "2026-11-26",
+      "outcome": "unchanged"
     },
     "tw-ast": {
       "category": "exam",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "tw-gsat": {
       "category": "exam",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "unchanged"
     },
     "jlpt-cn": {
