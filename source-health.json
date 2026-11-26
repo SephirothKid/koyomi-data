@@ -189,19 +189,17 @@
     "epic-free": {
       "category": "gaming",
       "checked_at": "2026-11-26",
-      "outcome": "unchanged"
+      "outcome": "updated"
     },
     "kpl": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
-      "outcome": "skipped",
-      "last_error": "HTTP 429: https://api.pandascore.co/kog/leagues?page%5Bnumber%5D=1&page%5Bsize%5D=100"
+      "checked_at": "2026-11-26",
+      "outcome": "unchanged"
     },
     "lpl": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
-      "outcome": "skipped",
-      "last_error": "HTTP 429: https://api.pandascore.co/lol/matches?filter%5Bleague_id%5D=294&range%5Bbegin_at%5D=2026-01-01%2C2099-12-31&page%5Bnumber%5D=1&page%5Bsize%5D=100&sort=begin_at"
+      "checked_at": "2026-11-26",
+      "outcome": "unchanged"
     },
     "console-showcases": {
       "category": "gaming",
@@ -211,17 +209,17 @@
     "genshin-impact": {
       "category": "gaming",
       "checked_at": "2026-11-26",
-      "outcome": "unchanged"
+      "outcome": "updated"
     },
     "honkai-star-rail": {
       "category": "gaming",
       "checked_at": "2026-11-26",
-      "outcome": "unchanged"
+      "outcome": "updated"
     },
     "zenless-zone-zero": {
       "category": "gaming",
       "checked_at": "2026-11-26",
-      "outcome": "unchanged"
+      "outcome": "updated"
     },
     "rawg-releases": {
       "category": "gaming",
@@ -235,9 +233,8 @@
     },
     "wuthering-waves": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
-      "outcome": "skipped",
-      "last_error": "fetch failed: https://media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/zh/ArticleMenu.json (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 211.162.165.44:443, 211.162.165.46:443, 211.162.165.45:443, 211.162.165.42:443, 211.162.165.41:443, 211.162.165.39:443, 211.162.165.43:443, 211.162.165.40:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 211.162.165.44:443, 211.162.165.46:443, 211.162.165.45:443, 211.162.165.42:443, 211.162.165.41:443, 211.162.165.39:443, 211.162.165.43:443, 211.162.165.40:443, timeout: 10000ms)"
+      "checked_at": "2026-11-26",
+      "outcome": "unchanged"
     },
     "accounting-qualification": {
       "category": "exam",
@@ -516,7 +513,7 @@
     "reverse1999": {
       "category": "gaming",
       "checked_at": "2026-11-26",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "worldcup-qualifiers-afc": {
       "category": "sports",
@@ -607,23 +604,23 @@
     },
     "arknights-endfield": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "updated"
     },
     "infinity-nikki": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
+      "checked_at": "2026-11-26",
       "outcome": "updated"
     },
     "neverness-to-everness": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
-      "outcome": "updated"
+      "checked_at": "2026-11-26",
+      "outcome": "unchanged"
     },
     "nikke-cn": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
-      "outcome": "updated"
+      "checked_at": "2026-11-26",
+      "outcome": "unchanged"
     }
   }
 }

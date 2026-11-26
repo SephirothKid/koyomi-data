@@ -21,7 +21,7 @@
   "subscriber_count": 30160,
   "rating": 4.4,
   "rating_count": 460,
-  "last_updated": "2026-11-19",
+  "last_updated": "2026-11-26",
   "events": [
     {
       "id": "epic-free-2026-w21",
@@ -1060,8 +1060,8 @@
       "description": "本周免费游戏：火之石 – 放置点击英雄RPG、Bread and Fred",
       "description_en": "This week's free games: Firestone – Idle Clicker Online RPG, Bread and Fred",
       "url": "https://store.epicgames.com/zh-CN/free-games",
-      "status": "confirmed",
-      "last_verified": "2026-11-19",
+      "status": "active",
+      "last_verified": "2026-11-26",
       "verified_by": "auto",
       "details": {
         "领取方式": "Epic Games Store 客户端/网页",
@@ -1090,6 +1090,46 @@
           "cover_url": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-pr4o2.jpg",
           "original_price": "¥47.00",
           "store_url": "https://store.epicgames.com/zh-CN/p/3435439bd89847608f5299fb297d1466"
+        }
+      ]
+    },
+    {
+      "id": "epic-free-2026-w49",
+      "name": "Strange Antiquities",
+      "name_en": "Strange Antiquities",
+      "date": "2026-12-04",
+      "time": "00:00",
+      "end_date": "2026-12-11",
+      "end_time": "00:00",
+      "time_kind": "datetime_range",
+      "timezone": "Asia/Shanghai",
+      "type": "range",
+      "year": 2026,
+      "description": "本周免费游戏：Strange Antiquities",
+      "description_en": "This week's free games: Strange Antiquities",
+      "url": "https://store.epicgames.com/zh-CN/free-games",
+      "status": "confirmed",
+      "last_verified": "2026-11-26",
+      "verified_by": "auto",
+      "details": {
+        "领取方式": "Epic Games Store 客户端/网页",
+        "领取条件": "免费注册账号即可",
+        "注意事项": "每周四 23:00 更新，领取后永久拥有",
+        "本周游戏": "Strange Antiquities"
+      },
+      "details_en": {
+        "Catalogue source": "https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions?locale=zh-CN&country=CN&allowCountries=CN",
+        "English title sources": "https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions?locale=en-US&country=CN&allowCountries=CN"
+      },
+      "games": [
+        {
+          "title": "Strange Antiquities",
+          "title_en": "Strange Antiquities",
+          "description": "Strange Antiquities is a game set in Undermere, where you explore occult artifacts and solve dark mysteries. As an apprentice thaumaturge, you'll identify magical items and help townsfolk. A sequel to Strange Horticulture, it blends exploration to uncover strange secrets.",
+          "description_en": "Strange Antiquities is a game set in Undermere, where you explore occult artifacts and solve dark mysteries. As an apprentice thaumaturge, you'll identify magical items and help townsfolk. A sequel to Strange Horticulture, it blends exploration to uncover strange secrets.",
+          "cover_url": "https://cdn1.epicgames.com/spt-assets/d0e3b7c3690c485ca7a435d298262ab2/strange-antiquities-1ozyj.png",
+          "original_price": "¥56.00",
+          "store_url": "https://store.epicgames.com/zh-CN/p/e87a7fa33e704dedb97a9927f0750857"
         }
       ]
     },
