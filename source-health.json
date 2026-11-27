@@ -99,13 +99,12 @@
     "cba": {
       "category": "sports",
       "checked_at": "2026-11-27",
-      "outcome": "unchanged"
+      "outcome": "updated"
     },
     "csl": {
       "category": "sports",
-      "checked_at": "2026-11-26",
-      "outcome": "skipped",
-      "last_error": "fetch failed: https://api.cfl-china.cn/frontweb/api/tournaments?competition_code=CSL (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 103.239.45.139:443, 103.239.45.229:443, 103.239.45.142:443, 103.239.45.230:443, 103.239.45.144:443, 103.239.45.145:443, 103.239.45.138:443, 103.239.45.140:443, 103.239.45.141:443, 103.239.45.143:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 103.239.45.139:443, 103.239.45.229:443, 103.239.45.142:443, 103.239.45.230:443, 103.239.45.144:443, 103.239.45.145:443, 103.239.45.138:443, 103.239.45.140:443, 103.239.45.141:443, 103.239.45.143:443, timeout: 10000ms)"
+      "checked_at": "2026-11-27",
+      "outcome": "unchanged"
     },
     "epl": {
       "category": "sports",
@@ -115,7 +114,8 @@
     "f1": {
       "category": "sports",
       "checked_at": "2026-11-27",
-      "outcome": "unchanged"
+      "outcome": "failed",
+      "last_error": "HTTP 404: https://ergast.com/api/f1/2026.json?limit=100"
     },
     "laliga": {
       "category": "sports",
@@ -454,7 +454,7 @@
     "bwf-world-tour": {
       "category": "sports",
       "checked_at": "2026-11-27",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "motogp": {
       "category": "sports",
@@ -524,17 +524,17 @@
     "snooker-masters": {
       "category": "sports",
       "checked_at": "2026-11-27",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "snooker-uk-championship": {
       "category": "sports",
       "checked_at": "2026-11-27",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "snooker-world-championship": {
       "category": "sports",
       "checked_at": "2026-11-27",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "hkdse": {
       "category": "exam",
