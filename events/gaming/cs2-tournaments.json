@@ -58266,7 +58266,7 @@
       "description": "Imperial vs Wildcard — PGL Major 新加坡（北京时间）",
       "description_en": "Imperial vs Wildcard — PGL Major Singapore (CST)",
       "url": "https://www.twitch.tv/krl_stream",
-      "status": "active",
+      "status": "completed",
       "last_verified": "2026-11-27",
       "verified_by": "official",
       "teams": {
@@ -58283,6 +58283,12 @@
           "image_url": "https://cdn-api.pandascore.co/images/team/image/135273/188px_wildcard_2024_lightmode.png"
         }
       },
+      "result": {
+        "away_score": 2,
+        "home_score": 1,
+        "winner": "away",
+        "status": "completed"
+      },
       "details": {
         "赛事": "PGL Major",
         "赛季": "新加坡",
@@ -58295,14 +58301,14 @@
       "name": "PGL Major 新加坡 · Stage 1 · M80 vs 100 Thieves",
       "name_en": "PGL Major Singapore · Stage 1 · M80 vs 100 Thieves",
       "date": "2026-11-27",
-      "time": "20:00",
+      "time": "20:08",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
       "description": "M80 vs 100 Thieves — PGL Major 新加坡（北京时间）",
       "description_en": "M80 vs 100 Thieves — PGL Major Singapore (CST)",
       "url": "https://www.twitch.tv/krl_stream",
-      "status": "confirmed",
+      "status": "completed",
       "last_verified": "2026-11-27",
       "verified_by": "official",
       "teams": {
@@ -58319,6 +58325,12 @@
           "image_url": "https://cdn-api.pandascore.co/images/team/image/126452/8474.png"
         }
       },
+      "result": {
+        "away_score": 1,
+        "home_score": 2,
+        "winner": "home",
+        "status": "completed"
+      },
       "details": {
         "赛事": "PGL Major",
         "赛季": "新加坡",
@@ -58327,11 +58339,155 @@
       }
     },
     {
+      "id": "cs2-2026-m1817105",
+      "name": "PGL Major 新加坡 · Stage 2 · TheMongolz vs Lynn Vision",
+      "name_en": "PGL Major Singapore · Stage 2 · TheMongolz vs Lynn Vision",
+      "date": "2026-11-28",
+      "time": "12:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "TheMongolz vs Lynn Vision — PGL Major 新加坡（北京时间）",
+      "description_en": "TheMongolz vs Lynn Vision — PGL Major Singapore (CST)",
+      "url": "https://www.twitch.tv/pgl_cs2",
+      "status": "confirmed",
+      "last_verified": "2026-11-27",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "3272",
+          "code": "TheMongolz",
+          "name": "TheMongolz",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/3272/702px_the_mongol_z_2024_03_allmode.png"
+        },
+        "home": {
+          "id": "126439",
+          "code": "Lynn Vision",
+          "name": "Lynn Vision",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126439/800px_lynn_vision_gaming_2024_allmode.png"
+        }
+      },
+      "details": {
+        "赛事": "PGL Major",
+        "赛季": "新加坡",
+        "阶段": "Stage 2",
+        "赛制": "BO1"
+      }
+    },
+    {
+      "id": "cs2-2026-m1817025",
+      "name": "PGL Major 新加坡 · Stage 2 · FUT Esports vs FlyQuest",
+      "name_en": "PGL Major Singapore · Stage 2 · FUT Esports vs FlyQuest",
+      "date": "2026-11-28",
+      "time": "12:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "FUT Esports vs FlyQuest — PGL Major 新加坡（北京时间）",
+      "description_en": "FUT Esports vs FlyQuest — PGL Major Singapore (CST)",
+      "url": "https://www.twitch.tv/pgl_cs2",
+      "status": "confirmed",
+      "last_verified": "2026-11-27",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "136955",
+          "code": "FUT Esports",
+          "name": "FUT Esports",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/136955/fut_esportslogo_square.png"
+        },
+        "home": {
+          "id": "134746",
+          "code": "FlyQuest",
+          "name": "FlyQuest",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/134746/fly_questlogo_square.png"
+        }
+      },
+      "details": {
+        "赛事": "PGL Major",
+        "赛季": "新加坡",
+        "阶段": "Stage 2",
+        "赛制": "BO1"
+      }
+    },
+    {
+      "id": "cs2-2026-m1817103",
+      "name": "PGL Major 新加坡 · Stage 2 · Astralis vs Imperial",
+      "name_en": "PGL Major Singapore · Stage 2 · Astralis vs Imperial",
+      "date": "2026-11-28",
+      "time": "13:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Astralis vs Imperial — PGL Major 新加坡（北京时间）",
+      "description_en": "Astralis vs Imperial — PGL Major Singapore (CST)",
+      "url": "https://www.twitch.tv/pgl_cs2",
+      "status": "confirmed",
+      "last_verified": "2026-11-27",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "3209",
+          "code": "Astralis",
+          "name": "Astralis",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/3209/ASTRALIS.png"
+        },
+        "home": {
+          "id": "126377",
+          "code": "Imperial",
+          "name": "Imperial",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126377/711px_imperial_esports_2025_allmode.png"
+        }
+      },
+      "details": {
+        "赛事": "PGL Major",
+        "赛季": "新加坡",
+        "阶段": "Stage 2",
+        "赛制": "BO1"
+      }
+    },
+    {
+      "id": "cs2-2026-m1817024",
+      "name": "PGL Major 新加坡 · Stage 2 · Nemiga vs NIP",
+      "name_en": "PGL Major Singapore · Stage 2 · Nemiga vs NIP",
+      "date": "2026-11-28",
+      "time": "13:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "Nemiga vs NIP — PGL Major 新加坡（北京时间）",
+      "description_en": "Nemiga vs NIP — PGL Major Singapore (CST)",
+      "url": "https://www.twitch.tv/pgl_cs2",
+      "status": "confirmed",
+      "last_verified": "2026-11-27",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "124522",
+          "code": "Nemiga",
+          "name": "Nemiga",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/124522/NEMIGA.png"
+        },
+        "home": {
+          "id": "3218",
+          "code": "NIP",
+          "name": "NIP",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/3218/600px_ninjas_in_pyjamas_2021_lightmode.png"
+        }
+      },
+      "details": {
+        "赛事": "PGL Major",
+        "赛季": "新加坡",
+        "阶段": "Stage 2",
+        "赛制": "BO1"
+      }
+    },
+    {
       "id": "cs2-2026-m1817101",
       "name": "PGL Major 新加坡 · Stage 2 · G2 vs Liquid",
       "name_en": "PGL Major Singapore · Stage 2 · G2 vs Liquid",
       "date": "2026-11-28",
-      "time": "13:00",
+      "time": "14:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -58367,7 +58523,7 @@
       "name": "PGL Major 新加坡 · Stage 2 · THE ONE vs Eternal Fire",
       "name_en": "PGL Major Singapore · Stage 2 · THE ONE vs Eternal Fire",
       "date": "2026-11-28",
-      "time": "13:00",
+      "time": "14:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
@@ -58399,11 +58555,47 @@
       }
     },
     {
+      "id": "cs2-2026-m1817104",
+      "name": "PGL Major 新加坡 · Stage 2 · MIBR vs 100 Thieves",
+      "name_en": "PGL Major Singapore · Stage 2 · MIBR vs 100 Thieves",
+      "date": "2026-11-28",
+      "time": "15:00",
+      "timezone": "Asia/Shanghai",
+      "type": "event",
+      "year": 2026,
+      "description": "MIBR vs 100 Thieves — PGL Major 新加坡（北京时间）",
+      "description_en": "MIBR vs 100 Thieves — PGL Major Singapore (CST)",
+      "url": "https://www.twitch.tv/pgl_cs2",
+      "status": "confirmed",
+      "last_verified": "2026-11-27",
+      "verified_by": "official",
+      "teams": {
+        "away": {
+          "id": "3250",
+          "code": "MIBR",
+          "name": "MIBR",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/3250/600px_mibr_2018.png"
+        },
+        "home": {
+          "id": "126452",
+          "code": "100 Thieves",
+          "name": "100 Thieves",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/126452/8474.png"
+        }
+      },
+      "details": {
+        "赛事": "PGL Major",
+        "赛季": "新加坡",
+        "阶段": "Stage 2",
+        "赛制": "BO1"
+      }
+    },
+    {
       "id": "cs2-2026-m1817102",
       "name": "PGL Major 新加坡 · Stage 2 · Natus Vincere vs PARIVISION",
       "name_en": "PGL Major Singapore · Stage 2 · Natus Vincere vs PARIVISION",
       "date": "2026-11-28",
-      "time": "14:00",
+      "time": "15:00",
       "timezone": "Asia/Shanghai",
       "type": "event",
       "year": 2026,
