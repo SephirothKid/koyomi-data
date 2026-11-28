@@ -118,6 +118,21 @@
       "description": "按整站事件 ID 保存的官方逐场数据；详情页按比赛日分片加载，不复制到整站 iCal。",
       "additionalProperties": { "$ref": "#/definitions/sportsSchedule" }
     },
+    "f1_standings": {
+      "type": "object",
+      "propertyNames": { "pattern": "^[0-9]{4}$" },
+      "additionalProperties": { "$ref": "#/definitions/f1Standings" }
+    },
+    "f1_race_results": {
+      "type": "object",
+      "description": "按赛季和站次保存的 F1 官方正赛成绩。",
+      "propertyNames": { "pattern": "^[0-9]{4}$" },
+      "additionalProperties": {
+        "type": "object",
+        "propertyNames": { "pattern": "^[1-9][0-9]*$" },
+        "additionalProperties": { "$ref": "#/definitions/f1RaceResult" }
+      }
+    },
     "table_tennis_schedules": {
       "type": "object",
       "additionalProperties": {
@@ -293,6 +308,70 @@
     }
   },
   "definitions": {
+    "f1Standings": {
+      "type": "object",
+      "required": ["verifiedAt", "drivers", "teams"],
+      "properties": {
+        "throughRound": { "type": "integer", "minimum": 1 },
+        "verifiedAt": { "type": "string", "format": "date" },
+        "drivers": {
+          "type": "array", "minItems": 1,
+          "items": {
+            "type": "object", "required": ["position", "name", "team", "points"],
+            "properties": {
+              "position": { "type": "integer", "minimum": 1 },
+              "name": { "type": "string", "minLength": 1 },
+              "team": { "type": "string", "minLength": 1 },
+              "points": { "type": "number" }
+            },
+            "additionalProperties": false
+          }
+        },
+        "teams": {
+          "type": "array", "minItems": 1,
+          "items": {
+            "type": "object", "required": ["position", "name", "points"],
+            "properties": {
+              "position": { "type": "integer", "minimum": 1 },
+              "name": { "type": "string", "minLength": 1 },
+              "points": { "type": "number" }
+            },
+            "additionalProperties": false
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "f1RaceResult": {
+      "type": "object",
+      "required": ["url", "rows"],
+      "properties": {
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https://www[.]formula1[.]com/en/results/[0-9]{4}/races/[0-9]+/[a-z0-9-]+/race-result$"
+        },
+        "rows": {
+          "type": "array",
+          "minItems": 2,
+          "items": {
+            "type": "object",
+            "required": ["driver", "team", "timeOrStatus", "points"],
+            "oneOf": [{ "required": ["position"] }, { "required": ["positionLabel"] }],
+            "properties": {
+              "position": { "type": "integer", "minimum": 1 },
+              "positionLabel": { "type": "string", "pattern": "^[A-Z][A-Z0-9-]*$" },
+              "driver": { "type": "string", "minLength": 1 },
+              "team": { "type": "string", "minLength": 1 },
+              "timeOrStatus": { "type": "string", "minLength": 1 },
+              "points": { "type": "number", "minimum": 0 }
+            },
+            "additionalProperties": false
+          }
+        }
+      },
+      "additionalProperties": false
+    },
     "tableTennisDraw": {
       "type": "object", "required": ["discipline", "stage", "rounds"],
       "properties": {
