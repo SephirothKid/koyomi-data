@@ -31,7 +31,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ps-plus-jp-ps-plus-jp-2026-m11-claim-opens@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261128T000000Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -48,7 +48,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ps-plus-jp-ps-plus-jp-2026-m11-claim-deadline@koyomi.cast
 SEQUENCE:0
-DTSTAMP:20261124T000000Z
+DTSTAMP:20261128T000000Z
 DTSTART:20261201T000000Z
 SUMMARY:PS Plus Monthly Games (Japan) · November monthly games claim dead
  line
@@ -61,6 +61,45 @@ DESCRIPTION:Monthly games:\n1. Secret Neighbor (PS4)\nhttps://store.playst
  play-o/
 CATEGORIES:PS Plus Monthly Games (Japan)
 URL;VALUE=URI:https://blog.ja.playstation.com/2026/10/29/20261029-psplus-f
+ reeplay-o/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-plus-jp-ps-plus-jp-2026-m12-claim-opens@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261128T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:PS Plus Monthly Games (Japan) · December monthly games available
+DESCRIPTION:Tony Hawk's™ Pro Skater™ 3 + 4\, DRAGON BALL XENOVERSE 2\,
+  BLEACH Rebirth of Souls\n\nSource: https://blog.ja.playstation.com/2026/1
+ 1/26/20261126-psplus-freeplay-o/
+CATEGORIES:PS Plus Monthly Games (Japan)
+URL;VALUE=URI:https://blog.ja.playstation.com/2026/11/26/20261126-psplus-f
+ reeplay-o/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-plus-jp-ps-plus-jp-2026-m12-claim-deadline@koyomi.cast
+SEQUENCE:0
+DTSTAMP:20261128T000000Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:PS Plus Monthly Games (Japan) · December monthly games claim dead
+ line
+DESCRIPTION:Monthly games:\n1. Tony Hawk's™ Pro Skater™ 3 + 4 (PS5 / P
+ S4)\nhttps://store.playstation.com/ja-jp/product/UP0002-PPSA18010_00-TH34R
+ STNDBUNDL01\n2. DRAGON BALL XENOVERSE 2 (PS5 / PS4)\nhttps://store.playsta
+ tion.com/ja-jp/product/JP0700-PPSA08583_00-DRAGONBALLXV2002\n3. BLEACH Reb
+ irth of Souls (PS5 / PS4)\nhttps://store.playstation.com/ja-jp/product/JP0
+ 700-PPSA02166_00-BLEACHROFS000000\n\nSource: https://blog.ja.playstation.c
+ om/2026/11/26/20261126-psplus-freeplay-o/
+CATEGORIES:PS Plus Monthly Games (Japan)
+URL;VALUE=URI:https://blog.ja.playstation.com/2026/11/26/20261126-psplus-f
  reeplay-o/
 STATUS:CONFIRMED
 END:VEVENT

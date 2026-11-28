@@ -183,9 +183,8 @@
     },
     "cs2-tournaments": {
       "category": "gaming",
-      "checked_at": "2026-11-27",
-      "outcome": "skipped",
-      "last_error": "HTTP 429: https://api.pandascore.co/tournaments/22269/brackets?page%5Bnumber%5D=1&page%5Bsize%5D=100"
+      "checked_at": "2026-11-28",
+      "outcome": "updated"
     },
     "epic-free": {
       "category": "gaming",
@@ -195,12 +194,14 @@
     "kpl": {
       "category": "gaming",
       "checked_at": "2026-11-28",
-      "outcome": "updated"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: https://api.pandascore.co/kog/leagues?page%5Bnumber%5D=1&page%5Bsize%5D=100"
     },
     "lpl": {
       "category": "gaming",
       "checked_at": "2026-11-28",
-      "outcome": "updated"
+      "outcome": "skipped",
+      "last_error": "HTTP 429: https://api.pandascore.co/lol/matches?filter%5Bleague_id%5D=294&range%5Bbegin_at%5D=2026-01-01%2C2099-12-31&page%5Bnumber%5D=1&page%5Bsize%5D=100&sort=begin_at"
     },
     "console-showcases": {
       "category": "gaming",
@@ -235,7 +236,8 @@
     "wuthering-waves": {
       "category": "gaming",
       "checked_at": "2026-11-28",
-      "outcome": "unchanged"
+      "outcome": "skipped",
+      "last_error": "fetch failed: https://media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/zh/ArticleMenu.json (fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 117.126.128.14:443, 117.126.128.13:443, 117.126.128.10:443, 117.126.128.9:443, 117.126.128.12:443, 117.126.128.16:443, 117.126.128.11:443, 117.126.128.15:443, timeout: 10000ms)); fetch failed; UND_ERR_CONNECT_TIMEOUT: Connect Timeout Error (attempted addresses: 117.126.128.14:443, 117.126.128.13:443, 117.126.128.10:443, 117.126.128.9:443, 117.126.128.12:443, 117.126.128.16:443, 117.126.128.11:443, 117.126.128.15:443, timeout: 10000ms)"
     },
     "accounting-qualification": {
       "category": "exam",
@@ -406,7 +408,7 @@
       "category": "gaming",
       "checked_at": "2026-11-22",
       "outcome": "skipped",
-      "last_error": "HTTP 429: PandaScore /dota2/leagues"
+      "last_error": "HTTP 429: PandaScore /dota2/matches"
     },
     "lol-international": {
       "category": "gaming",
@@ -584,9 +586,8 @@
     },
     "ps-plus-jp": {
       "category": "gaming",
-      "checked_at": "2026-11-25",
-      "outcome": "failed",
-      "last_error": "PS Plus Japan announcement has an incomplete lineup or different claim windows"
+      "checked_at": "2026-11-28",
+      "outcome": "updated"
     },
     "ps-plus-sg": {
       "category": "gaming",
@@ -611,7 +612,7 @@
     "infinity-nikki": {
       "category": "gaming",
       "checked_at": "2026-11-28",
-      "outcome": "updated"
+      "outcome": "unchanged"
     },
     "neverness-to-everness": {
       "category": "gaming",

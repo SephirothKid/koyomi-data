@@ -98,7 +98,7 @@
       "description_en": "Secret Neighbor, Tomb Raider IV-VI Remastered, Monster Train 2",
       "url": "https://blog.ja.playstation.com/2026/10/29/20261029-psplus-freeplay-o/",
       "status": "completed",
-      "last_verified": "2026-11-24",
+      "last_verified": "2026-11-28",
       "verified_by": "official"
     },
     {
@@ -115,7 +115,7 @@
       "description_en": "Secret Neighbor, Tomb Raider IV-VI Remastered, Monster Train 2",
       "url": "https://blog.ja.playstation.com/2026/10/29/20261029-psplus-freeplay-o/",
       "status": "confirmed",
-      "last_verified": "2026-11-24",
+      "last_verified": "2026-11-28",
       "verified_by": "official",
       "games": [
         {
@@ -159,7 +159,71 @@
           "title_en": "Monster Train 2"
         }
       ]
+    },
+    {
+      "id": "ps-plus-jp-2026-m12-claim-opens",
+      "name": "12 月游戏开放领取",
+      "name_en": "December monthly games available",
+      "date": "2026-12-01",
+      "timezone": "Asia/Tokyo",
+      "time_kind": "date",
+      "type": "event",
+      "year": 2026,
+      "description": "Tony Hawk's™ Pro Skater™ 3 + 4、DRAGON BALL XENOVERSE 2、BLEACH Rebirth of Souls",
+      "description_en": "Tony Hawk's™ Pro Skater™ 3 + 4, DRAGON BALL XENOVERSE 2, BLEACH Rebirth of Souls",
+      "url": "https://blog.ja.playstation.com/2026/11/26/20261126-psplus-freeplay-o/",
+      "status": "confirmed",
+      "last_verified": "2026-11-28",
+      "verified_by": "official"
+    },
+    {
+      "id": "ps-plus-jp-2026-m12-claim-deadline",
+      "name": "12 月游戏领取截止",
+      "name_en": "December monthly games claim deadline",
+      "date": "2027-01-04",
+      "timezone": "Asia/Tokyo",
+      "time_kind": "date",
+      "type": "deadline",
+      "year": 2026,
+      "description": "Tony Hawk's™ Pro Skater™ 3 + 4、DRAGON BALL XENOVERSE 2、BLEACH Rebirth of Souls",
+      "description_en": "Tony Hawk's™ Pro Skater™ 3 + 4, DRAGON BALL XENOVERSE 2, BLEACH Rebirth of Souls",
+      "url": "https://blog.ja.playstation.com/2026/11/26/20261126-psplus-freeplay-o/",
+      "status": "confirmed",
+      "last_verified": "2026-11-28",
+      "verified_by": "official",
+      "games": [
+        {
+          "title": "トニー・ホーク™ プロ・スケーター™ 3+4 -クロスジェネレーションエディション",
+          "store_url": "https://store.playstation.com/ja-jp/product/UP0002-PPSA18010_00-TH34RSTNDBUNDL01",
+          "platforms": [
+            "PS5",
+            "PS4"
+          ],
+          "title_zh": "Tony Hawk's™ Pro Skater™ 3 + 4",
+          "title_en": "Tony Hawk's™ Pro Skater™ 3 + 4"
+        },
+        {
+          "title": "ドラゴンボール ゼノバース2",
+          "store_url": "https://store.playstation.com/ja-jp/product/JP0700-PPSA08583_00-DRAGONBALLXV2002",
+          "platforms": [
+            "PS5",
+            "PS4"
+          ],
+          "title_zh": "DRAGON BALL XENOVERSE 2",
+          "title_en": "DRAGON BALL XENOVERSE 2"
+        },
+        {
+          "title": "BLEACH Rebirth of Souls",
+          "store_url": "https://store.playstation.com/ja-jp/product/JP0700-PPSA02166_00-BLEACHROFS000000",
+          "platforms": [
+            "PS5",
+            "PS4"
+          ],
+          "title_zh": "BLEACH Rebirth of Souls",
+          "title_en": "BLEACH Rebirth of Souls"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-11-24"
+  "last_updated": "2026-11-28"
 }
